@@ -1,1 +1,193 @@
 # trigramser.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="persanal web bookmarks">
+    <meta name="description" content="multiple websides">
+
+    <title>Gpage</title>
+</head>
+<body>
+    <header>
+        <h1>hello world! <a href="top"></a> </h1>
+    <header/>
+    
+    <hr/>
+    <h2>Common</h2>
+        <p>搜索：
+            <a href="https://weibo.com/" target="_blank">微博</a>&nbsp;&nbsp;
+            <a href="https://www.baidu.com/" target="_blank">百度</a>&nbsp;&nbsp;
+            <a href="https://www.zhihu.com/search" target="_blank">知乎搜索</a>&nbsp;&nbsp;
+            <a href="https://www.jianshu.com/" target="_blank">简书</a>&nbsp;&nbsp;
+            <a href="http://www.ludashi.com/rank/cpuRanking.html" target="_blank">鲁大师天梯榜</a>&nbsp;&nbsp;
+            <a href="https://cn.onlinebmicalculator.com/" target="_blank">BMI计算器</a>&nbsp;&nbsp;
+            </p>
+        <p>E-mail：
+            <a href="https://mail.sina.com.cn/" target="_blank">新浪邮箱</a>&nbsp;&nbsp;
+            <a href="https://mail.163.com/#return" target="_blank">网易邮箱</a>&nbsp;&nbsp;
+            <a href="https://mail.qq.com/" target="_blank">QQ邮箱</a>&nbsp;&nbsp;
+            <a href="htCommontps://mail.protonmail.com/login" target="_blank">ProtonMail</a>&nbsp;&nbsp;
+            <a href="http://email.sdufe.edu.cn/coremail/" target="_blank">山东财经大学</a>&nbsp;&nbsp;
+            </p>
+        <p>Map：
+            <a href="http://map.baidu.com/" target="_blank">百度地图</a>&nbsp;&nbsp;
+            <a href="https://map.51240.com/" target="_blank">卫星地图</a>&nbsp;&nbsp;
+            <a href="http://www.google.cn/maps" target="_blank">谷歌地图</a>&nbsp;&nbsp;
+            <a href="https://www.amap.com/" target="_blank">高德地图</a>&nbsp;&nbsp;
+            </p>
+        <p>News：
+            <a href="http://www.chinadaily.com.cn/" target="_blank">CHINADAILY</a>&nbsp;&nbsp;
+            <a href="https://www.usatoday.com/" target="_blank">USA TODAY</a>&nbsp;&nbsp;
+            </p>
+
+    <hr/>
+    <h2>休闲</h2>
+        <p>购物：
+            <a href="https://www.taobao.com/" target="_blank">淘宝</a>&nbsp;&nbsp;
+            <a href="http://detail.zol.com.cn/cell_phone_advSearch/subcate57_1.html" target="_blank">手机</a>&nbsp;&nbsp;
+            <a href="http://detail.zol.com.cn/notebook_advSearch/subcate16_1.html" target="_blank">笔记本</a>&nbsp;&nbsp;
+            <a href="http://detail.zol.com.cn/tablepc_advSearch/subcate702_1.html" target="_blank">平板电脑</a>&nbsp;&nbsp;
+            <a href="http://detail.zol.com.cn/ebook_advSearch/subcate532_1.html" target="_blank">电子书</a>&nbsp;&nbsp;
+            <a href="http://lwj.7788.com/50177/pr2_search_813_27078183.html" target="_blank">胶皮娃娃</a>&nbsp;&nbsp;
+            </p>
+        <p>视频：
+            <a href="https://www.bilibili.com/" target="_blank">bilibili</a>&nbsp;&nbsp;
+            <a href="https://www.ixigua.com/" target="_blank">西瓜视频</a>&nbsp;&nbsp;
+            <a href="http://www.iqiyi.com/" target="_blank">爱奇艺</a>&nbsp;&nbsp;
+            <a href="https://www.youku.com/" target="_blank">优酷</a>&nbsp;&nbsp;
+            <a href="https://www.tudou.com/" target="_blank">土豆</a>&nbsp;&nbsp;
+            <a href="http://www.ylws.net/" target="_blank">月落无声</a>&nbsp;&nbsp;
+            <a href="https://www.flvcd.com/" target="_blank">硕鼠</a>&nbsp;&nbsp;
+            <a href="https://www.dytt8.net/index2.htm" target="_blank">电影天堂</a>&nbsp;&nbsp;
+            <a href="https://www.dy2018.com/" target="_blank">电影天堂广告版</a>
+            </p>
+        <p>音频：
+            <a href="https://www.qingting.fm/" target="_blank">蜻蜓FM</a>&nbsp;&nbsp;
+            <a href="https://www.ximalaya.com/" target="_blank">喜马拉雅</a>&nbsp;&nbsp;
+            <a href="http://www.5ips.net/" target="_blank">我爱评书</a>&nbsp;&nbsp;
+            <a href="https://music.163.com/" target="_blank">网易云音乐</a>&nbsp;&nbsp;
+            </p>
+        <p>小说：
+            <a href="https://www.17k.com/" target="_blank">17K</a>&nbsp;&nbsp;
+            </p>
+        <p>旅游：
+            <a href="http://www.mafengwo.cn/sales/2123623.html" target="_blank"></a>&nbsp;&nbsp;
+            </p>
+        <p>Games：
+            <a href="https://www.epicgames.com/store/zh-CN/free-games" target="_blank">Epic</a>&nbsp;&nbsp;
+            <a href="https://www.crossgate.com.cn/" target="_blank">魔力宝贝</a>&nbsp;&nbsp;
+            <a href="http://www.molibaike.com/" target="_blank">魔力百科</a>&nbsp;&nbsp;
+            <a href="http://droiyan.ruiwoo.cn/Droiyan/Droiyan/index.jsp" target="_blank">决战</a>&nbsp;&nbsp;
+            <a href="https://atlas.fandom.com/wiki/ATLAS_Wiki" target="_blank">ATLAS Wiki</a>&nbsp;&nbsp;
+            <a href="https://bbs.3dmgame.com/forum.php" target="_blank">3DMGAME</a>&nbsp;&nbsp;
+            <a href="http://www.yxkfw.com/forum.php?fromuid=77580" target="_blank">游戏开发网</a>&nbsp;&nbsp;
+            <a href="https://www.return8090.com/" target="_blank">return8090</a>&nbsp;&nbsp;
+            <a href="https://dos.zczc.cz/" target="_blank">在线DOS</a>&nbsp;&nbsp;
+            <a href="https://www.yikm.net/" target="_blank">小霸王</a>&nbsp;&nbsp;
+            <a href="https://play.wo1wan.com/nextgame/pc/#/" target="_blank">畅玩空间</a>&nbsp;&nbsp;
+            <a href="http://www.famicn.com/" target="_blank">中文家用游戏博物馆</a>&nbsp;&nbsp;
+            <a href="http://www.o2mania.com/" target="_blank">劲乐团单机版</a>&nbsp;&nbsp;<!-- https://github.com/fancyzero/blog/issues -->
+            </p>
+
+    <hr/>
+    <h2>政府服务</h2>
+        <p>省厅委：
+            <a href="https://hrss.yn.gov.cn/" target="_blank">云南人社</a>&nbsp;&nbsp;
+            <a href="https://rst.hebei.gov.cn/index.html" target="_blank">河北人社</a>&nbsp;&nbsp;
+            <a href="http://rsj.beijing.gov.cn/" target="_blank">北京人社</a>&nbsp;&nbsp;
+            <a href="http://ynswsjkw.yn.gov.cn/wjwWebsite/web/index" target="_blank">云南卫健委</a>&nbsp;&nbsp;
+            <a href="http://kjt.yn.gov.cn/" target="_blank">云南科技厅</a>
+
+            </p>
+        <p>便民：
+            <a href="https://yn.122.gov.cn/" target="_blank">云南交管122</a>&nbsp;&nbsp;
+            <a href="http://www.kmajw.com/" target="_blank">昆明安居网</a>&nbsp;&nbsp;
+            <a href="https://www.sjz12333.net/" target="_blank">石家庄人社</a>&nbsp;&nbsp;
+            <a href="http://www.sjzjs.com.cn/" target="_blank">石家庄计划生育</a>&nbsp;&nbsp;
+            </p>
+        <p>考试：
+            <a href="https://cet-bm.neea.edu.cn/" target="_blank">CET</a>&nbsp;&nbsp;
+            <a href="http://wsk.neea.edu.cn/" target="_blank">WSK</a>&nbsp;&nbsp;
+            <a href="http://ncre.neea.edu.cn/" target="_blank">全国计算机等级考试</a>&nbsp;&nbsp;
+            <a href="https://yz.chsi.com.cn/" target="_blank">研招网</a>&nbsp;&nbsp;
+            </p>
+        <p>项目：
+            <a href="https://www.csc.edu.cn/" target="_blank">留学基金委</a>&nbsp;&nbsp;
+            <a href="https://www.nsfc.gov.cn//" target="_blank">自然基金委</a>&nbsp;&nbsp;
+            <a href="https://isisn.nsfc.gov.cn/pmpweb/login" target="_blank">自然基金信息系统</a>&nbsp;&nbsp;
+            <a href="https://116.52.249.142/egrantweb/" target="_blank">云南科技管理信息系统</a>&nbsp;&nbsp;
+            </p>
+        <p>专家库：
+            <a href="http://ggzy.yn.gov.cn/zhuanjia/" target="_blank">云南综合评标专家库</a>&nbsp;&nbsp;
+            <a href="http://zjk.gzzbw.cn/" target="_blank">贵州综合评标专家库</a>&nbsp;&nbsp;
+            <a href="http://www.hebeieb.com.cn/" target="_blank">河北招标投标公共服务平台</a>&nbsp;&nbsp;
+            <a href="https://ggzyfw.beijing.gov.cn/" target="_blank">北京公共资源交易平台</a>&nbsp;&nbsp;
+            <a href="https://www.kmggzy.com/Index.html" target="_blank">昆明公共资源交易平台</a>&nbsp;&nbsp;
+            <a href="https://zjcq.kmggzy.com/" target="_blank">云南综合评标专家库（昆明子库）</a>&nbsp;&nbsp;
+            </p>
+
+    <hr/>
+    <h2>translate</h2>
+        <p>翻译：
+            <a href="https://fanyi.baidu.com/#en/zh/" target="_blank">百度翻译</a>&nbsp;&nbsp;
+            <a href="https://translate.google.cn/" target="_blank">谷歌翻译</a>&nbsp;&nbsp;
+            <a href="http://cn.bing.com/translator/" target="_blank">必应翻译</a>&nbsp;&nbsp;
+            <a href="https://fanyi.youdao.com/" target="_blank">有道翻译</a>&nbsp;&nbsp;
+            </p>
+        <p>字典：
+            <a href="https://www.merriam-webster.com/" target="_blank">merriam-webster</a>&nbsp;&nbsp;
+            <a href="https://www.collinsdictionary.com/dictionary/english" target="_blank">collins</a>&nbsp;&nbsp;
+            </p>
+
+    <hr/>
+    <h2>Resourse</h2>
+        <p><a href="https://www.sci-hub.ren/" target="_blank">SCI-hub</a>：
+            <a href="http://www.ncbi.nlm.nih.gov/pubmed/" target="_blank">PubMed</a>&nbsp;&nbsp;
+            <a href="https://tool.yovisun.com/scihub/" target="_blank">SCI-Hub实时更新</a>&nbsp;&nbsp;
+            <a href="https://sci-hub.org.cn/" target="_blank">Sci-Hub文献检索</a>&nbsp;&nbsp;
+            <a href="https://www.home-for-researchers.com/static/index.html#/" target="_blank">科研者之家</a>&nbsp;&nbsp;
+            <a href="https://gg.xueshu5.com/" target="_blank">Glgoo</a>&nbsp;&nbsp;
+            </p>
+        <p>科研搜索：
+            <a href="https://www.cnki.net/" target="_blank">知网</a>&nbsp;&nbsp;
+            <a href="https://www.cn-ki.net/" target="_blank">iData</a>&nbsp;&nbsp;
+            <a href="http://www.soopat.com/" target="_blank">专利搜索</a>&nbsp;&nbsp;
+            </p>
+
+    <hr/>
+    <h2>BioDatabase</h2>
+        <p><a href="https://www.ncbi.nlm.nih.gov/" target="_blank">NCBI</a>：
+            <a href="https://www.ncbi.nlm.nih.gov/genome/browse#!/organelles/" target="_blank">Genome List</a>&nbsp;&nbsp;
+            <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi" target="_blank">BLAST</a>&nbsp;&nbsp;
+            <a href="https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=toolkit_doc" target="_blank">SRA ToolKit</a>&nbsp;&nbsp;
+            </P>
+        <P>Phylogeny：
+            <a href="https://www.treebase.org/treebase-web/home.html" target="_blank">TreeBASE</a>&nbsp;&nbsp;
+            </p>
+        <p>Cancer：
+            <a href="https://portal.gdc.cancer.gov/" target="_blank">TCGA</a>&nbsp;&nbsp;
+            </p>
+        <p>Immune：
+            <a href="https://www.immport.org/shared/home" target="_blank">immport</a>&nbsp;&nbsp;
+            <a href="https://cibersortx.stanford.edu/" target="_blank">cibersortx</a>&nbsp;&nbsp;
+            </p>
+        <p>Genes：
+            <a href="http://www.gsea-msigdb.org/gsea/index.jsp" target="_blank">GSEA</a>&nbsp;&nbsp;
+            <a href="http://genome.ucsc.edu/" target="_blank">UCSC_genome</a>&nbsp;&nbsp;
+            <a href="http://geneontology.org/" target="_blank">Gene Ontology</a>&nbsp;&nbsp;
+            <a href="https://www.kegg.jp/" target="_blank">KEGG</a>&nbsp;&nbsp;
+            <a href="https://david.ncifcrf.gov" target="_blank">DAVID</a>&nbsp;&nbsp;
+            </p>
+        <p>Single Cell：
+            <a href="https://www.ebi.ac.uk/gxa/sc/home">SCEA</a>&nbsp;&nbsp;
+            </p>
+
+    <hr/>
+    <a href="#top">回到顶部</a>
+    <hr/>
+    <footer>
+        &copy;copyright &nbsp; <a href="mailto:841685876@qq.com">841685876@qq.com</a>
+    </footer> 
+</body>
+</html>
