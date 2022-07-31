@@ -6,9 +6,122 @@
     <meta charset="UTF-8">
     <meta name="keywords" content="persanal web bookmarks">
     <meta name="description" content="multiple websides">
-
+    <script src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
     <title>Gpage</title>
 </head>
+<body>
+<div style="opacity: 0;width: 0;height: 0;display: none">
+    <script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=1279827890&web_id=1279827890"></script>
+</div>
+<div class="container">
+    <header>
+        <div  class="w1190">
+            <div class="topBar clearfix">
+                <div class="centerBox clearfix">
+                    <a target="_blank" href="https://www.baidu.com/s?word=%E5%A4%A9%E6%B0%94" class="aWeather">
+                        <div class="weatherBox">
+                            <!--                        <div id="tp-weather-widget"></div>-->
+                            <!--                        <script>-->
+                            <!--                            (function(a,h,g,f,e,d,c,b){b=function(){d=h.createElement(g);c=h.getElementsByTagName(g)[0];d.src=e;d.charset="utf-8";d.async=1;c.parentNode.insertBefore(d,c)};a["SeniverseWeatherWidgetObject"]=f;a[f]||(a[f]=function(){(a[f].q=a[f].q||[]).push(arguments)});a[f].l=+new Date();if(a.attachEvent){a.attachEvent("onload",b)}else{a.addEventListener("load",b,false)}}(window,document,"script","SeniverseWeatherWidget","//cdn.sencdn.com/widget2/static/js/bundle.js?t="+parseInt((new Date().getTime() / 100000000).toString(),10)));-->
+                            <!--                            window.SeniverseWeatherWidget('show', {-->
+                            <!--                                flavor: "slim",-->
+                            <!--                                location: "WX4FBXXFKE4F",-->
+                            <!--                                geolocation: true,-->
+                            <!--                                language: "zh-Hans",-->
+                            <!--                                unit: "c",-->
+                            <!--                                theme: "auto",-->
+                            <!--                                token: "3c60d946-d69a-44e7-a26c-1b5e351d9659",-->
+                            <!--                                hover: "disabled",-->
+                            <!--                                container: "tp-weather-widget"-->
+                            <!--                            })-->
+                            <!--                        </script>-->
+<!--                            <div id="weather-v2-plugin-standard"></div>-->
+<!--                            <script>-->
+<!--                                WIDGET = {-->
+<!--                                    CONFIG: {-->
+<!--                                        "layout": 1,-->
+<!--                                        "width": "360",-->
+<!--                                        "height": "68",-->
+<!--                                        "background": 5,-->
+<!--                                        "dataColor": "4A4A4A",-->
+<!--                                        "borderRadius": 5,-->
+<!--                                        "key": "ZHLYzOeE8S"-->
+<!--                                    }-->
+<!--                                }-->
+<!--                            </script>-->
+<!--                            <script src="https://apip.weatherdt.com/standard/static/js/weather-standard-common.js?v=2.0"></script>-->
+                            <div id="he-plugin-standard"></div>
+                            <script>
+                              WIDGET = {
+                                "CONFIG": {
+                                  "layout": "1",
+                                  "width": "400",
+                                  "height": "100",
+                                  "background": "5",
+                                  "dataColor": "4A4A4A",
+                                  "borderRadius": 5,
+                                  "key": "5473773441244b18a6d4a72bc3c0eef7"
+                                }
+                              }
+                            </script>
+                            <script src="https://widget.qweather.net/standard/static/js/he-standard-common.js?v=2.0"></script>
+                        </div>
+                    </a>
+
+                    <div class="dateBox">
+                        <div class="dateRow">
+                            <span><a target="_blank"  id="date-yy-mm" href="https://www.baidu.com/s?wd=%E6%97%A5%E5%8E%86"></a></span>
+                            <span><a target="_blank"  id="date-nl" href="https://www.baidu.com/s?wd=%E6%97%A5%E5%8E%86"></a></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <script>
+        $(document).ready(function(){
+            var date=new Date()
+            var yy=date.getFullYear();
+            var mm=date.getMonth()+1;
+            var dd=date.getDate();
+            var week=date.getDay()
+            var weeks=['星期日','星期一','星期二','星期三','星期四','星期五','星期六']
+            $("#date-yy-mm").text(date.getMonth()+1+'月'+date.getDate()+'日')
+            $("#date-nl").text(lunarFun.formatLunarDate(...lunarFun.gregorianToLunal(yy, mm, dd)))
+            $("#date-week").text(weeks[week])
+    
+        });
+        var tqTimer=setInterval(function () {
+            if( $(".wv-lt-refresh").length>0){
+                $(".wv-lt-refresh").remove()
+                clearInterval(tqTimer)
+            }
+        },50)
+        var qhTimer=setInterval(function () {
+            if(  $(".wv-lt-location a").length>0){
+                $(".wv-lt-location a").remove()
+                clearInterval(qhTimer)
+            }
+        },50)
+        var tqzlTimer=setInterval(function () {
+            if(  $(".wv-f-forecast-aqi-2").length>0){
+                $(".wv-f-forecast-aqi-2").hide()
+                $(".wv-f-forecast-aqi-3").hide()
+                clearInterval(tqzlTimer)
+            }
+        },50)
+        var noRainTimer=setInterval(function () {
+          if(  $(".wv-n-h-now-rain").length>0){
+            $(".wv-n-h-now-rain").hide()
+            clearInterval(noRainTimer)
+          }
+        },50)
+    
+        // $(".bgDiv").click(function (e) {
+        //     console.log(e)
+        // })
+    </script>
+</body>
 <body>
     <center>
     <header>
@@ -53,7 +166,7 @@
             </p>
         <p>门户：
             <a href="https://rank.kkj.cn/" target="_blank">快科技</a>&nbsp;&nbsp;&nbsp;&nbsp;
-        </p>
+            </p>
         <p>E-mail：
             <a href="https://mail.sina.com.cn/" target="_blank">新浪邮箱</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://mail.163.com/#return" target="_blank">网易邮箱</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -83,6 +196,7 @@
             <a href="https://www.collinsdictionary.com/dictionary/english" target="_blank">collins</a>&nbsp;&nbsp;&nbsp;&nbsp;
             </p>
         <p>Tools：
+            <a href="https://www.flvcd.com/" target="_blank">硕鼠</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://www.nounplus.net/grammarcheck/" target="_blank">GrammarCheck</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://virtualwritingtutor.com/" target="_blank">VirtualWritingTutor</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://online.visual-paradigm.com/app/diagrams/" target="_blank">VisualParadigm</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -98,6 +212,7 @@
     <h1>休闲</h1>
         <p>购物：
             <a href="https://www.taobao.com/" target="_blank">淘宝</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://www.jd.com/" target="_blank">京东</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://www.meituan.com/" target="_blank">美团</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://www.dianping.com/" target="_blank">大众点评</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="http://detail.zol.com.cn/cell_phone_advSearch/subcate57_1.html" target="_blank">手机</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -113,7 +228,6 @@
             <a href="https://www.youku.com/" target="_blank">优酷</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://www.tudou.com/" target="_blank">土豆</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="http://www.ylws.net/" target="_blank">月落无声</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://www.flvcd.com/" target="_blank">硕鼠</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://www.dytt8.net/index2.htm" target="_blank">电影天堂</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://www.dy2018.com/" target="_blank">电影天堂广告版</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://www.icourse163.org/" target="_blank">慕课</a>&nbsp;&nbsp;&nbsp;&nbsp;
