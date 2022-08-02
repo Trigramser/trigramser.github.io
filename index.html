@@ -8,6 +8,13 @@
     <meta name="description" content="multiple websides">
     <script src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
     <title>Gpage</title>
+
+    <style>
+    .searcher{max-width:400px; margin:20px auto;}
+    input, select, textarea{height:25px; margin:10px 0; border:1px solid #999; padding:.2em .5em;}
+    label{color:#999; margin-left:10px}
+    </style>
+
 </head>
 <body>
 <div style="opacity: 0;width: 0;height: 0;display: none">
@@ -124,21 +131,22 @@
 </body>
 <body>
     <center>
-    <header>
-        <h1>hello world! <a href="top"></a> </h1>
+    <div class="searcher">
+    <h1>hello world! <a href="top"></a> </h1>
+
         <form action="https://www.baidu.com/s" target="_blank">
-            <input type="text" class="form-control" name="wd"  size=31 maxlength=255 placeholder="百度" ><input type="submit" value="百度">
+            <input type="text" class="form-control" name="wd"  size=31 maxlength=255 autocomplete="off" placeholder="百度" ><input type="submit" value="百度">
             </form>
         <form method="GET" action="https://www.google.com.hk/search" class="form-group" target="_blank">
-            <input type="text" class="form-control" value="" name=q size=31 maxlength=255 placeholder="Google" ><input type="submit" value="Google">
+            <input type="text" class="form-control" value="" name=q size=31 maxlength=255 autocomplete="off" placeholder="Google" ><input type="submit" value="Google">
             </form>
         <form action="https://www.zhihu.com/search" target="_blank">
-            <input type="text" class="form-control" name="q"  size=31 maxlength=255 placeholder="知乎" ><input type="submit" value="知乎">
+            <input type="text" class="form-control" name="q"  size=31 maxlength=255 autocomplete="off" placeholder="知乎" ><input type="submit" value="知乎">
             </form>
         <form action="https://www.jianshu.com/search" target="_blank">
-            <input type="text" class="form-control" name="q"  size=31 maxlength=255 placeholder="简书" ><input type="submit" value="简书">
+            <input type="text" class="form-control" name="q"  size=31 maxlength=255 autocomplete="off" placeholder="简书" ><input type="submit" value="简书">
             </form>
-    <header/>
+    </div>
     </center>
     <hr/>
     <h1>Common</h1>
@@ -171,7 +179,7 @@
             <a href="https://mail.sina.com.cn/" target="_blank">新浪邮箱</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://mail.163.com/#return" target="_blank">网易邮箱</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="https://mail.qq.com/" target="_blank">QQ邮箱</a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://mail.protonmail.com/login" target="_blank">ProtonMail</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://account.proton.me/login" target="_blank">ProtonMail</a>&nbsp;&nbsp;&nbsp;&nbsp;
             <a href="http://email.sdufe.edu.cn/coremail/" target="_blank">山东财经大学</a>&nbsp;&nbsp;&nbsp;&nbsp;
             </p>
         <p>Map：
