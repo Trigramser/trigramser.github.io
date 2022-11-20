@@ -14,11 +14,24 @@
         max-width: 400px; 
         margin: 20px auto; 
     }
-    input, select, textarea {
-        height: 25px; 
-        margin: 10px 0; 
+    input, select, textarea{
+        height: 2.5em; 
+        margin: 0.2px 0; 
         border: 1px solid #999; 
         padding: .2em .5em;
+
+        color: #ffffff;
+        
+        background-color: #000000;
+    }
+/*    input::-webkit-input-placeholder{
+        color: #ffce2e;
+        background-color: #000;
+    }*/
+    form {
+        color: #ffffff;
+        
+        background-color: #000000;
     }
     label {
         color: #999;
@@ -33,10 +46,25 @@
 
     body {
         font-family:"Times New Roman","仿宋",Serif;
-        font-size: 1.5em ;
+        font-size: 1.25em ;
         background-color:#000;
         margin: 0 auto;
         line-height: 2em;
+    }
+    .body_class_c1{
+        font-size: 1em ;
+    }
+    .body_class_c2{
+        font-size: 1.25em ;
+    }
+    .body_class_c3{
+        font-size: 1.5em ;
+    }
+    .body_class_c4{
+        font-size: 1.75em ;
+    }
+    .body_class_c5{
+        font-size: 2em ;
     }
 
     .box, .box1, .box2, .box3, .box4, .box5, .box6, .boxLast {
@@ -73,6 +101,12 @@
     details summary::-webkit-details-marker {
         display:none;
     }
+    details summary::-moz-details-marker {
+        display:none;
+    }
+    details summary::-ms-details-marker {
+        display:none;
+    }
 
     .vocabulary {
         color: #00BFFF;
@@ -95,10 +129,71 @@
 
 <header id="top">
     <h1>GRE vocabulary</h1>
+    <form @submit.prevent="post">
+        <input type="search" name="wd" id="fontinput" size=31 maxlength=255 autocomplete="off" placeholder="font-size" v-model="msg"><button>font-size</button>
+        <!-- <input type="button" value="font-size"> -->
+    </form>
+    <form action=""  id="fontselect">
+        <input type="radio" id="font100" name="font-size" value="1">1.00
+        <input type="radio" id="font125" name="font-size" checked="true" value="1.25">1.25
+        <input type="radio" id="font150" name="font-size" value="1.5">1.50
+        <input type="radio" id="font175" name="font-size" value="1.75">1.75
+        <input type="radio" id="font200" name="font-size" value="2">2.00
+    </form>
 </header>
     
 <body>
-    
+    <script>
+        // Vue.createApp({
+        //     methods:{
+        //         post(){
+        //             console.log("hello world")
+        //         }
+        //     }
+        // })
+        // console.log(this.msg)
+
+
+
+
+        // var myFontSize = document.getElementById(fontselect);
+        // myFontSize.onclick = function() {
+        //     console.log(myFontSize.value)
+        //     body.style.fontSize = myFontSize.value ;
+        // }
+
+        // var myFontSize = document.getElementById(fontinput);
+        // // var FontSize = myFontSize.value;
+        // myFontSize.onclick = function() {
+        //     console.log(myFontSize.value)
+        //     body.style.fontSize = myFontSize.value ;
+        // }
+
+
+        var mybody = document.querySelector('body');
+        var radio1 = document.getElementById("font100")
+        var radio2 = document.getElementById("font125")
+        var radio3 = document.getElementById("font150")
+        var radio4 = document.getElementById("font175")
+        var radio5 = document.getElementById("font200")
+
+        radio1.onclick = function() {
+            mybody.className = 'body_class_c1'
+        }
+        radio2.onclick = function() {
+            mybody.className = 'body_class_c2'
+        }
+        radio3.onclick = function() {
+            mybody.className = 'body_class_c3'
+        }
+        radio4.onclick = function() {
+            mybody.className = 'body_class_c4'
+        }
+        radio5.onclick = function() {
+            mybody.className = 'body_class_c5'
+        }
+
+    </script>
 <div class="box">
 
 
