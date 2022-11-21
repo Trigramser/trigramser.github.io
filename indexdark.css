@@ -1,7 +1,8 @@
 .searcher {
     width: 960px;
-    max-width: 400px; 
-    margin: 20px auto; 
+    max-width: 960px;
+    margin: 20px auto;
+    padding-left: 4em;
 }
 input, select, textarea {
     height: 30px; 
@@ -36,12 +37,18 @@ body {
 .boxLast a:visited {
     color: blue;
 }
-
+.totop {
+    color: #EE7621;
+    text-align: right;
+}
+.totop a{
+    color: #EE7621;
+}
 a:hover {
     text-decoration: underline;
     color: #CD2626;
 }
-h1 h2 h3 h4 h5{
+h1 {
     color: #777
 }
 p {
