@@ -14,6 +14,10 @@ label {
     margin-left: 10px
 }
 body {
+    width: 960px;
+    max-width: 400px; 
+    margin: 20px auto; 
+    
     color: #ffce2e;
     background-color:#000;
     margin: 0 auto;
