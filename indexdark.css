@@ -1,8 +1,7 @@
 .searcher {
     width: 960px;
-    max-width: 960px;
-    margin: 20px auto;
-    padding-left: 4em;
+    max-width: 400px; 
+    margin: 20px auto; 
 }
 input, select, textarea {
     height: 30px; 
@@ -42,7 +41,7 @@ a:hover {
     text-decoration: underline;
     color: #CD2626;
 }
-h1 {
+h1 h2 h3 h4 h5{
     color: #777
 }
 p {
