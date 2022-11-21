@@ -77,6 +77,14 @@ body {
 .totop a{
     color: #EE7621;
 }
+.caption {
+    font-size: 1.5em;
+    width: 960px;
+    color: #00BFFF;
+    /*margin: 0 auto;*/
+    line-height: 2em;
+    text-align: center;
+}
 a:hover {
     text-decoration: underline;
     color: #CD2626;
