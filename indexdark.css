@@ -1,7 +1,8 @@
 .searcher {
     width: 960px;
-    max-width: 960px; 
-    margin: 20px auto; 
+    max-width: 960px;
+    margin: 20px auto;
+    padding-left: 20;
 }
 input, select, textarea {
     height: 30px; 
