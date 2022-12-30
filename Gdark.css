@@ -91,7 +91,7 @@ a:hover {
 }
 
 summary {
-    text-indent: 2em;
+    /*text-indent: 2em;*/
     outline: none;
     cursor: pointer;
 }
@@ -107,6 +107,17 @@ details summary::-ms-details-marker {
 
 .vocabulary {
     color: #00BFFF;
+}
+.phonetic {
+    color: #CD3700;
+}
+
+.phrase {
+    text-indent: 2em;
+}
+.word {
+    text-indent: 2em;
+    color: #32CD32;
 }
 .translation {
     text-indent: 4em;
