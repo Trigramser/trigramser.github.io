@@ -25,12 +25,21 @@
 
 
 var mybody = document.querySelector('body');
-var radio1 = document.getElementById("font100")
-var radio2 = document.getElementById("font125")
-var radio3 = document.getElementById("font150")
-var radio4 = document.getElementById("font175")
-var radio5 = document.getElementById("font200")
+var radio0 = document.getElementById("font100")
+var radio1 = document.getElementById("font110")
+var radio2 = document.getElementById("font120")
+var radio3 = document.getElementById("font130")
+var radio4 = document.getElementById("font140")
+var radio5 = document.getElementById("font150")
+var radio6 = document.getElementById("font160")
+var radio7 = document.getElementById("font170")
+var radio8 = document.getElementById("font180")
+var radio9 = document.getElementById("font190")
+var radio10 = document.getElementById("font200")
 
+radio0.onclick = function() {
+    mybody.className = 'body_class_c0'
+}
 radio1.onclick = function() {
     mybody.className = 'body_class_c1'
 }
@@ -45,4 +54,19 @@ radio4.onclick = function() {
 }
 radio5.onclick = function() {
     mybody.className = 'body_class_c5'
+}
+radio6.onclick = function() {
+    mybody.className = 'body_class_c6'
+}
+radio7.onclick = function() {
+    mybody.className = 'body_class_c7'
+}
+radio8.onclick = function() {
+    mybody.className = 'body_class_c8'
+}
+radio9.onclick = function() {
+    mybody.className = 'body_class_c9'
+}
+radio10.onclick = function() {
+    mybody.className = 'body_class_c10'
 }
