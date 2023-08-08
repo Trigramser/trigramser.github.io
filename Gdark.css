@@ -40,19 +40,37 @@ body {
     margin: 0 auto;
     line-height: 2em;
 }
-.body_class_c1{
+.body_class_c0{
     font-size: 1em ;
 }
+.body_class_c1{
+    font-size: 1.1em ;
+}
 .body_class_c2{
-    font-size: 1.25em ;
+    font-size: 1.2em ;
 }
 .body_class_c3{
-    font-size: 1.5em ;
+    font-size: 1.3em ;
 }
 .body_class_c4{
-    font-size: 1.75em ;
+    font-size: 1.4em ;
 }
 .body_class_c5{
+    font-size: 1.5em ;
+}
+.body_class_c6{
+    font-size: 1.6em ;
+}
+.body_class_c7{
+    font-size: 1.7em ;
+}
+.body_class_c8{
+    font-size: 1.8em ;
+}
+.body_class_c9{
+    font-size: 1.9em ;
+}
+.body_class_c10{
     font-size: 2em ;
 }
 
