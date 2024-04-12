@@ -1,0 +1,246 @@
+0、配置文件
+git config --global user.name "Jasper Yang"
+git config --global user.email geekhall.cn@gamil.com
+git config --global credential.helper store # 保存用户名和密码。这样加不用每次都输入了
+git config --global --list # 查看
+
+省略（Local）：本地配置，只对本地仓库有效
+--global：全局配置，所有仓库生效
+--system：系统配置，对所有用户生效
+
+
+1、初始化本地仓库
+git init <directory>
+是可选的，如果不指定，将使用当前目录。
+
+
+2.克隆一个远程仓库
+ssh-keygen -t rsa -b 4096 # 需要配置SSH密钥，在用户根目录下，进入.ssh目录中，输入这个代码。
+# Enter file in which to save the key (/c/Users/Light/.ssh/id_rsa):  会出现这个提示，在这个后面输入的是密钥的名称。如果设置过了，不要直接回车，会覆盖之前的，不可逆。
+# Enter passphrase (empty for no passphrase): 然后设置密钥名称，然后设置密码，
+# Enter same passphrase again: 重复确认密码。这样就完成了，刚刚设置的名称就是密钥文件，如test。那么相应的test.pub就是公钥文件。
+# 然后将.pub中的内容粘贴至github中的setting > SSH and GPG keys ，右上角点击New SSH key。Title随便设置，可以设置成与刚刚的密钥名称一致的。
+vim config # 在/.ssh文件夹中创建一个config文件，里面写入如下5行内容。注意，最后一个test需要替换成上面相应的名称
+# github
+Host github.com
+HostName github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/test
+
+git clone <url>
+
+
+3.添加文件到暂存区
+git add <file>
+要添加当前目录中的所有文件，请使用 . 代替,代码如下：
+git add .
+查看暂存区的内容
+git ls-files
+
+4.提交更改
+git commit -m "<message>"
+如果要添加对跟踪文件所做的所有更改并提交。
+git commit -a -m "<message>"# orgit commit -am "<message>"
+
+
+5.从暂存区删除一个文件
+git reset --soft <file>/<commit id>
+--soft # 保存工作区和暂存区
+--hard # 移除工作区和暂存区
+--mixed # 保存工作区，移除暂存区。默认参数
+
+6. git diff
+显示对未暂存文件的更改（Working 与 Stage的区别）
+git diff\
+
+您还可以使用 --staged 标志来显示对暂存文件的更改（Stage 与 commit的区别，暂存区与版本库的区别）。
+git diff --staged
+git diff --cached
+--staged与--cached应该是相同的功能
+
+Working 与 commit的区别，工作区与版本库的区别
+git diff HEAD
+
+显示两次提交（commit）之间的变化，包括使用HEAD, HEAD^, HEAD~3来使用
+git diff <commit id 01> <commit id 02>
+
+
+7. 删除文件。使用git删除后不要忘记提交，否则还会再版本库中
+rm file; git add file # 先从工作区删除文件，然后再删除暂存区内容，即更新至暂存区
+从存储库中删除文件 （Working 与 Stage的该<file>文件）
+git rm <file>
+您也可以仅使用 --cached 标志将其从暂存区中删除
+git rm --cached <file>
+递归删除某个目录下的所有子目录和文件
+git rm -r* 
+
+
+8. 忽略不需要再版本库中更新的文件。.gitignore
+系统或者软件自动生成的文件，
+编译产生的中间文件和结果文件，
+运行时生成日志文件、缓存文件、临时文件，
+涉及身份、密码、口令、密钥等敏感信息文件。
+忽略日志文件和文件夹，
+忽略所有的.class文件，*.class
+忽略所有.o文件，*.o
+忽略所有.env文件，*.env
+忽略所有.zip和tar文件，*.zip *.tar
+忽略所有.pem文件，*.pem
+文件夹folder，folder/
+文件夹temp，temp/
+……
+在相应的.git相同目录中创建.gitignore文件然后把需要忽略的文件逐行写入到.gitignore中。
+.gitignore生效需要有一个前提，就是这个文件不能是已经添加到版本库中的文件。
+gitignore的文件匹配规则：
+空行或者以#开头的行会被Git忽略。一般空行用于可读性的分隔，#一般用作注释
+使用标准的Blob模式匹配,例如:
+    星号 * 通配任意个字符
+    问号 ？匹配单个字符中
+    括号[]表示匹配列表中的单个字符,比如: [abc]表示a/b/c
+两个星号 ** 表示匹配任意的中间目录
+中括号可以使用短中线连接，比如：
+    [0-9] 表示任意一位数字，[a-z]表示任意一位小写字母
+
+示例
+#忽略所有的.a文件
+*.a
+#但跟踪所有的lib.a,即便你在前面忽略了.a文件
+!lib.a
+#只忽略当前目录下的TODO文件，而不忽略subdir/T0D0
+/T0D0
+#忽略任何目录下名为build的文件夹
+build/
+#忽略doc/notes.txt,但不忽略doc/server/arch.txt
+doc/*.txt
+#忽略doc/目录及其所有子目录下的.pdf文件
+doc/**/*.pdf
+
+在Github的上提供了各种常用语言的忽略文件的模版，在新建仓库的时候我们可以直接使用
+https://github.com/github/gitignore
+
+基本 Git 概念
+1.默认分支名称：main
+
+2.默认远程名称：origin
+
+3.当前分支参考：HEAD
+
+4.HEAD 的父级：HEAD^ 或 HEAD~1
+
+5.HEAD 的祖父母：HEAD^^ 或 HEAD~2
+
+6.查看所有历史记录
+git reflog
+
+7.查看存储库的状态。git默认不会将空的文件夹纳入，因此空文件夹不会看到
+git status [-s]
+
+8.显示提交历史：git log （按q键就会退出）
+git log --oneline #--oneline表示简易版，可以不加
+
+
+
+13.显示分支
+git branch
+有用的标志：
+-a：显示所有分支（本地和远程）
+-r：显示远程分支
+-v：显示最后一次提交的分支
+
+14.创建一个分支
+git branch <branch>
+你可以创建一个分支并使用 checkout 命令切换到它。
+git checkout -b <branch>
+
+15.切换到一个分支
+git checkout <branch>
+
+16.删除一个分支
+git branch -d <branch>
+您还可以使用 -D 标志强制删除分支。
+git branch -D <branch>
+
+17.合并分支
+git merge <branch to merge into HEAD>
+有用的标志：
+--no-ff：即使合并解析为快进，也创建合并提交
+--squash：将指定分支中的所有提交压缩为单个提交
+建议不要使用 --squash 标志，因为它会将所有提交压缩为单个提交，从而导致提交历史混乱。
+
+
+18.变基分支
+变基是将一系列提交移动或组合到新的基本提交的过程。
+git rebase <branch to rebase from>
+
+
+19.查看之前的提交
+git checkout <commit id>
+
+
+20.恢复提交
+git revert <commit id>
+
+
+
+24.移动或重命名文件
+git mv <current path> <new path>
+
+
+26.存储更改
+stash 允许您在不提交更改的情况下临时存储更改。
+git stash
+您还可以将消息添加到存储中。
+git stash save "<message>"
+
+27.列出存储
+git stash list
+
+28.申请一个藏匿处
+应用存储不会将其从存储列表中删除。
+git stash apply <stash id>
+如果不指定，将应用最新的 stash（适用于所有类似的 stash 命令）
+您还可以使用格式 stash@{} 应用存储（适用于所有类似的存储命令）
+git stash apply stash@{0}
+
+29.删除一个藏匿处
+git stash drop <stash id>
+
+30.删除所有藏匿处
+git stash clear
+
+31.应用和删除存储
+git stash pop <stash id>
+
+32.显示存储中的更改
+git stash show <stash id>
+
+
+
+33.添加远程仓库
+git remote add <remote name> <url>
+
+34.显示远程仓库
+git remote
+添加 -v 标志以显示远程存储库的 URL。
+git remote -v
+
+35.删除远程仓库
+git remote remove <remote name>
+
+36.重命名远程存储库
+git remote rename <old name> <new name>
+
+37.从远程存储库中获取更改
+git fetch <remote name>
+
+38.从特定分支获取更改
+git fetch <remote name> <branch>
+
+39.从远程存储库中拉取更改
+git pull <remote name> <branch>
+
+40.将更改推送到远程存储库
+git push <remote name>
+
+41.将更改推送到特定分支
+git push <remote name> <branch>
