@@ -40,7 +40,7 @@ git ls-files
 4.提交更改
 git commit -m "<message>"
 如果要添加对跟踪文件所做的所有更改并提交。
-git commit -a -m "<message>"# orgit commit -am "<message>"
+git commit -a -m "<message>" # or git commit -am "<message>"
 
 
 5.从暂存区删除一个文件
@@ -155,8 +155,11 @@ git reflog
 git status [-s]
 
 8.显示提交历史：git log （按q键就会退出）
-git log --oneline #--oneline表示简易版，可以不加
-
+git log --oneline #--oneline # 表示简易版，可以不加
+git log --graph --oneline --decorate --all # 显示分支
+# 下面两行代码时先起了个别名，然后在使用，与上一行代码完成的效果一样，但是使以后的使用更方便
+alias graph="git log --graph --oneline --decorate --all"
+graph
 
 
 13.显示分支
@@ -170,11 +173,14 @@ git branch
 git branch <branch>
 你可以创建一个分支并使用 checkout 命令切换到它。
 git checkout -b <branch>
+恢复一个分支
+git checkout -b <branch> <commit id>
 
 15.切换到一个分支
 git checkout <branch>
+git switch <branch> # 由于checkout还有恢复文件的语义。尤其在有冲突时会执行切换而不执行恢复文件。git在2.23版时添加了switch，专用于切换分支
 
-16.删除一个分支
+16.删除一个分支 -d表示删除一个已经合并过的分支，-D表示强制，无论是否合并过
 git branch -d <branch>
 您还可以使用 -D 标志强制删除分支。
 git branch -D <branch>
@@ -263,3 +269,7 @@ git push <remote name>
 
 41.将更改推送到特定分支
 git push <remote name> <branch>
+
+abcde fghij
+klmno pqrst
+uvwxy z
