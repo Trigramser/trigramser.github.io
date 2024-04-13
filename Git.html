@@ -1,141 +1,148 @@
 0、配置文件
-git config --global user.name "Jasper Yang"
-git config --global user.email geekhall.cn@gamil.com
-git config --global credential.helper store # 保存用户名和密码。这样加不用每次都输入了
-git config --global --list # 查看
+    git config --global user.name "Jasper Yang"
+    git config --global user.email geekhall.cn@gamil.com
+    git config --global credential.helper store # 保存用户名和密码。这样加不用每次都输入了
+    git config --global --list # 查看
 
-省略（Local）：本地配置，只对本地仓库有效
---global：全局配置，所有仓库生效
---system：系统配置，对所有用户生效
+    省略（Local）：本地配置，只对本地仓库有效
+    --global：全局配置，所有仓库生效
+    --system：系统配置，对所有用户生效
+
+    git config --global alias.co checkout # 为git命令设定别名
+    例如：把「checkout」缩略为「co」，然后就使用「co」来执行命令。
 
 
 1、初始化本地仓库
-git init <directory>
-是可选的，如果不指定，将使用当前目录。
+    git init <directory>
+    是可选的，如果不指定，将使用当前目录。
 
 
 2.克隆一个远程仓库
-ssh-keygen -t rsa -b 4096 # 需要配置SSH密钥，在用户根目录下，进入.ssh目录中，输入这个代码。
-# Enter file in which to save the key (/c/Users/Light/.ssh/id_rsa):  会出现这个提示，在这个后面输入的是密钥的名称。如果设置过了，不要直接回车，会覆盖之前的，不可逆。
-# Enter passphrase (empty for no passphrase): 然后设置密钥名称，然后设置密码，
-# Enter same passphrase again: 重复确认密码。这样就完成了，刚刚设置的名称就是密钥文件，如test。那么相应的test.pub就是公钥文件。
-# 然后将.pub中的内容粘贴至github中的setting > SSH and GPG keys ，右上角点击New SSH key。Title随便设置，可以设置成与刚刚的密钥名称一致的。
-vim config # 在/.ssh文件夹中创建一个config文件，里面写入如下5行内容。注意，最后一个test需要替换成上面相应的名称
-# github
-Host github.com
-HostName github.com
-PreferredAuthentications publickey
-IdentityFile ~/.ssh/test
+    ssh-keygen -t rsa -b 4096 # 需要配置SSH密钥，在用户根目录下，进入.ssh目录中，输入这个代码。
+    # Enter file in which to save the key (/c/Users/Light/.ssh/id_rsa):  会出现这个提示，在这个后面输入的是密钥的名称。如果设置过了，不要直接回车，会覆盖之前的，不可逆。
+    # Enter passphrase (empty for no passphrase): 然后设置密钥名称，然后设置密码，
+    # Enter same passphrase again: 重复确认密码。这样就完成了，刚刚设置的名称就是密钥文件，如test。那么相应的test.pub就是公钥文件。
+    # 然后将.pub中的内容粘贴至github中的setting > SSH and GPG keys ，右上角点击New SSH key。Title随便设置，可以设置成与刚刚的密钥名称一致的。
+    vim config # 在/.ssh文件夹中创建一个config文件，里面写入如下5行内容。注意，最后一个test需要替换成上面相应的名称
+    # github
+    Host github.com
+    HostName github.com
+    PreferredAuthentications publickey
+    IdentityFile ~/.ssh/test
 
-git clone <url>
+    git clone <url>
 
 
 3.添加文件到暂存区
-git add <file>
-要添加当前目录中的所有文件，请使用 . 代替,代码如下：
-git add .
-查看暂存区的内容
-git ls-files
+    git add <file>
+    git add .   要添加当前目录中的所有文件，请使用 . 代替
+    git add *   会提示已被忽略的内容，但不会直接加入
+    git add -A  提交所有变化（git add --all的缩写）
+    git add -u  提交被修改(modified)和被删除(deleted)文件，不包括新文件(new)（git add --update的缩写）
+
+    查看暂存区的内容
+    git ls-files
+
 
 4.提交更改
-git commit -m "<message>"
-如果要添加对跟踪文件所做的所有更改并提交。
-git commit -a -m "<message>" # or git commit -am "<message>"
+    git commit -m "<message>"
+    如果要添加对跟踪文件所做的所有更改并提交。
+    git commit -a -m "<message>" # or git commit -am "<message>"
 
 
 5.从暂存区删除一个文件
-git reset --soft <file>/<commit id>
---soft # 保存工作区和暂存区
---hard # 移除工作区和暂存区
---mixed # 保存工作区，移除暂存区。默认参数
+    git reset --soft <file>/<commit id>
+    --soft # 保存工作区和暂存区
+    --hard # 移除工作区和暂存区
+    --mixed # 保存工作区，移除暂存区。默认参数
 
 
-git 取回暂存区内容
-在Git中，取回暂存区的内容通常是指将暂存区的改动合并到工作目录。如果你想要取回暂存区的内容，可以使用以下命令：
-git checkout -- <file>
-这个命令会将指定的文件从暂存区恢复到工作目录的当前版本。
+    git 取回暂存区内容
+    在Git中，取回暂存区的内容通常是指将暂存区的改动合并到工作目录。如果你想要取回暂存区的内容，可以使用以下命令：
+    git checkout -- <file>
+    这个命令会将指定的文件从暂存区恢复到工作目录的当前版本。
 
-如果你想要取回所有暂存区的内容，可以使用：
-git checkout -- .
-这会将当前目录及子目录下的所有暂存文件恢复到最后一次提交的状态。
+    如果你想要取回所有暂存区的内容，可以使用：
+    git checkout -- .
+    这会将当前目录及子目录下的所有暂存文件恢复到最后一次提交的状态。
 
-如果你想要取回某次提交的暂存内容到工作目录，可以使用：
-git checkout <commit> -- <file>
-其中 <commit> 是指定提交的哈希值或者引用，<file> 是你想要恢复的文件。这会从指定的提交中取出该文件并放到工作目录中。
+    如果你想要取回某次提交的暂存内容到工作目录，可以使用：
+    git checkout <commit> -- <file>
+    其中 <commit> 是指定提交的哈希值或者引用，<file> 是你想要恢复的文件。这会从指定的提交中取出该文件并放到工作目录中。
 
-例如，如果你想要取回HEAD提交的暂存内容，可以这样做：
-git checkout HEAD -- <file>
-请注意，使用 git checkout 时要小心，因为它会覆盖工作目录中的文件。
+    例如，如果你想要取回HEAD提交的暂存内容，可以这样做：
+    git checkout HEAD -- <file>
+    请注意，使用 git checkout 时要小心，因为它会覆盖工作目录中的文件。
 
 
 6. git diff
-显示对未暂存文件的更改（Working 与 Stage的区别）
-git diff\
+    显示对未暂存文件的更改（Working 与 Stage的区别）
+    git diff\
 
-您还可以使用 --staged 标志来显示对暂存文件的更改（Stage 与 commit的区别，暂存区与版本库的区别）。
-git diff --staged
-git diff --cached
---staged与--cached应该是相同的功能
+    您还可以使用 --staged 标志来显示对暂存文件的更改（Stage 与 commit的区别，暂存区与版本库的区别）。
+    git diff --staged
+    git diff --cached
+    --staged与--cached应该是相同的功能
 
-Working 与 commit的区别，工作区与版本库的区别
-git diff HEAD
+    Working 与 commit的区别，工作区与版本库的区别
+    git diff HEAD
 
-显示两次提交（commit）之间的变化，包括使用HEAD, HEAD^, HEAD~3来使用
-git diff <commit id 01> <commit id 02>
+    显示两次提交（commit）之间的变化，包括使用HEAD, HEAD^, HEAD~3来使用
+    git diff <commit id 01> <commit id 02>
 
 
 7. 删除文件。使用git删除后不要忘记提交，否则还会再版本库中
-rm file; git add file # 先从工作区删除文件，然后再删除暂存区内容，即更新至暂存区
-从存储库中删除文件 （Working 与 Stage的该<file>文件）
-git rm <file>
-您也可以仅使用 --cached 标志将其从暂存区中删除
-git rm --cached <file>
-递归删除某个目录下的所有子目录和文件
-git rm -r* 
+    rm file; git add file # 先从工作区删除文件，然后再删除暂存区内容，即更新至暂存区
+    从存储库中删除文件 （Working 与 Stage的该<file>文件）
+    git rm <file>
+    您也可以仅使用 --cached 标志将其从暂存区中删除
+    git rm --cached <file>
+    递归删除某个目录下的所有子目录和文件
+    git rm -r* 
 
 
 8. 忽略不需要再版本库中更新的文件。.gitignore
-系统或者软件自动生成的文件，
-编译产生的中间文件和结果文件，
-运行时生成日志文件、缓存文件、临时文件，
-涉及身份、密码、口令、密钥等敏感信息文件。
-忽略日志文件和文件夹，
-忽略所有的.class文件，*.class
-忽略所有.o文件，*.o
-忽略所有.env文件，*.env
-忽略所有.zip和tar文件，*.zip *.tar
-忽略所有.pem文件，*.pem
-文件夹folder，folder/
-文件夹temp，temp/
-……
-在相应的.git相同目录中创建.gitignore文件然后把需要忽略的文件逐行写入到.gitignore中。
-.gitignore生效需要有一个前提，就是这个文件不能是已经添加到版本库中的文件（cached，commit即为添加到版本库中）。
-gitignore的文件匹配规则：
-空行或者以#开头的行会被Git忽略。一般空行用于可读性的分隔，#一般用作注释
-使用标准的Blob模式匹配,例如:
-    星号 * 通配任意个字符
-    问号 ？匹配单个字符中
-    括号[]表示匹配列表中的单个字符,比如: [abc]表示a/b/c
-两个星号 ** 表示匹配任意的中间目录
-中括号可以使用短中线连接，比如：
-    [0-9] 表示任意一位数字，[a-z]表示任意一位小写字母
+    系统或者软件自动生成的文件，
+    编译产生的中间文件和结果文件，
+    运行时生成日志文件、缓存文件、临时文件，
+    涉及身份、密码、口令、密钥等敏感信息文件。
+    忽略日志文件和文件夹，
+    忽略所有的.class文件，*.class
+    忽略所有.o文件，*.o
+    忽略所有.env文件，*.env
+    忽略所有.zip和tar文件，*.zip *.tar
+    忽略所有.pem文件，*.pem
+    文件夹folder，folder/
+    文件夹temp，temp/
+    ……
+    在相应的.git相同目录中创建.gitignore文件然后把需要忽略的文件逐行写入到.gitignore中。
+    .gitignore生效需要有一个前提，就是这个文件不能是已经添加到版本库中的文件（cached，commit即为添加到版本库中）。
+    gitignore的文件匹配规则：
+    空行或者以#开头的行会被Git忽略。一般空行用于可读性的分隔，#一般用作注释
+    使用标准的Blob模式匹配,例如:
+        星号 * 通配任意个字符
+        问号 ？匹配单个字符中
+        括号[]表示匹配列表中的单个字符,比如: [abc]表示a/b/c
+    两个星号 ** 表示匹配任意的中间目录
+    中括号可以使用短中线连接，比如：
+        [0-9] 表示任意一位数字，[a-z]表示任意一位小写字母
 
-示例
-#忽略所有的.a文件
-*.a
-#但跟踪所有的lib.a,即便你在前面忽略了.a文件
-!lib.a
-#只忽略当前目录下的TODO文件，而不忽略subdir/T0D0
-/T0D0
-#忽略任何目录下名为build的文件夹
-build/
-#忽略doc/notes.txt,但不忽略doc/server/arch.txt
-doc/*.txt
-#忽略doc/目录及其所有子目录下的.pdf文件
-doc/**/*.pdf
+    示例
+    #忽略所有的.a文件
+    *.a
+    #但跟踪所有的lib.a,即便你在前面忽略了.a文件
+    !lib.a
+    #只忽略当前目录下的TODO文件，而不忽略subdir/T0D0
+    /T0D0
+    #忽略任何目录下名为build的文件夹
+    build/
+    #忽略doc/notes.txt,但不忽略doc/server/arch.txt
+    doc/*.txt
+    #忽略doc/目录及其所有子目录下的.pdf文件
+    doc/**/*.pdf
 
-在Github的上提供了各种常用语言的忽略文件的模版，在新建仓库的时候我们可以直接使用
-https://github.com/github/gitignore
+    在Github的上提供了各种常用语言的忽略文件的模版，在新建仓库的时候我们可以直接使用
+    https://github.com/github/gitignore
 
 基本 Git 概念
 1.默认分支名称：main
@@ -155,121 +162,268 @@ git reflog
 git status [-s]
 
 8.显示提交历史：git log （按q键就会退出）
-git log --oneline #--oneline # 表示简易版，可以不加
-git log --graph --oneline --decorate --all # 显示分支
-# 下面两行代码时先起了个别名，然后在使用，与上一行代码完成的效果一样，但是使以后的使用更方便
-alias graph="git log --graph --oneline --decorate --all"
-graph
+    git log --oneline #--oneline # 表示简易版，可以不加
+    git log --graph --oneline --decorate --all # 显示分支
+    # 下面两行代码时先起了个别名，然后在使用，与上一行代码完成的效果一样，但是使以后的使用更方便
+    alias graph="git log --graph --oneline --decorate --all"
+    graph
 
 
 13.显示分支
-git branch
-有用的标志：
--a：显示所有分支（本地和远程）
--r：显示远程分支
--v：显示最后一次提交的分支
+    git branch
+    有用的标志：
+    -a：显示所有分支（本地和远程）
+    -r：显示远程分支
+    -v：显示最后一次提交的分支
 
 14.创建一个分支
-git branch <branch>
-你可以创建一个分支并使用 checkout 命令切换到它。
-git checkout -b <branch>
-恢复一个分支
-git checkout -b <branch> <commit id>
+    git branch <branch>
+    你可以创建一个分支并使用 checkout 命令切换到它。
+    git checkout -b <branch>
+    git switch -c <name> # 与上一行同样功能
+    恢复一个分支
+    git checkout -b <branch> <commit id>
 
 15.切换到一个分支
-git checkout <branch>
-git switch <branch> # 由于checkout还有恢复文件的语义。尤其在有冲突时会执行切换而不执行恢复文件。git在2.23版时添加了switch，专用于切换分支
+    git checkout <branch>
+    git switch <branch> # 由于checkout还有恢复文件的语义。尤其在有冲突时会执行切换而不执行恢复文件。git在2.23版时添加了switch，专用于切换分支
 
 16.删除一个分支 -d表示删除一个已经合并过的分支，-D表示强制，无论是否合并过
-git branch -d <branch>
-您还可以使用 -D 标志强制删除分支。
-git branch -D <branch>
+    git branch -d <branch>
+    您还可以使用 -D 标志强制删除分支。
+    git branch -D <branch>
 
 17.合并分支
-git merge <branch to merge into HEAD>
-有用的标志：
---no-ff：即使合并解析为快进，也创建合并提交
---squash：将指定分支中的所有提交压缩为单个提交
-建议不要使用 --squash 标志，因为它会将所有提交压缩为单个提交，从而导致提交历史混乱。
+    git merge <branch to merge into HEAD>
+    有用的标志：
+    --no-ff：即使合并解析为快进，也创建合并提交
+    --squash：将指定分支中的所有提交压缩为单个提交
+    建议不要使用 --squash 标志，因为它会将所有提交压缩为单个提交，从而导致提交历史混乱。
 
 
 18.变基分支
-变基是将一系列提交移动或组合到新的基本提交的过程。
-git rebase <branch to rebase from>
+    变基是将一系列提交移动或组合到新的基本提交的过程。
+    git rebase <branch to rebase from>
 
 
 19.查看之前的提交
-git checkout <commit id>
+    git checkout <commit id>
 
 
 20.恢复提交
-git revert <commit id>
+    git revert <commit id>
 
 
 
 24.移动或重命名文件
-git mv <current path> <new path>
+    git mv <current path> <new path>
 
 
 26.存储更改
-stash 允许您在不提交更改的情况下临时存储更改。
-git stash
-您还可以将消息添加到存储中。
-git stash save "<message>"
+    stash 允许您在不提交更改的情况下临时存储更改。
+    git stash
+    您还可以将消息添加到存储中。
+    git stash save "<message>"
 
 27.列出存储
-git stash list
+    git stash list
 
 28.申请一个藏匿处
-应用存储不会将其从存储列表中删除。
-git stash apply <stash id>
-如果不指定，将应用最新的 stash（适用于所有类似的 stash 命令）
-您还可以使用格式 stash@{} 应用存储（适用于所有类似的存储命令）
-git stash apply stash@{0}
+    应用存储不会将其从存储列表中删除。
+    git stash apply <stash id>
+    如果不指定，将应用最新的 stash（适用于所有类似的 stash 命令）
+    您还可以使用格式 stash@{} 应用存储（适用于所有类似的存储命令）
+    git stash apply stash@{0}
 
 29.删除一个藏匿处
-git stash drop <stash id>
+    git stash drop <stash id>
 
 30.删除所有藏匿处
-git stash clear
+    git stash clear
 
 31.应用和删除存储
-git stash pop <stash id>
+    git stash pop <stash id>
 
 32.显示存储中的更改
-git stash show <stash id>
+    git stash show <stash id>
 
 
 
 33.添加远程仓库
-git remote add <remote name> <url>
+    git remote add <remote name> <url>
 
 34.显示远程仓库
-git remote
-添加 -v 标志以显示远程存储库的 URL。
-git remote -v
+    git remote
+    添加 -v 标志以显示远程存储库的 URL。
+    git remote -v
 
 35.删除远程仓库
-git remote remove <remote name>
+    git remote remove <remote name>
 
 36.重命名远程存储库
-git remote rename <old name> <new name>
+    git remote rename <old name> <new name>
 
 37.从远程存储库中获取更改
-git fetch <remote name>
+    git fetch <remote name> 
+    git fetch  或  git fetch --all
+    说明：此命令将更新git remote 中所有的远程仓库(repository) 所包含的分支的最新commit-id, 将其记录到.git/FETCH_HEAD文件中
 
 38.从特定分支获取更改
-git fetch <remote name> <branch>
+    git fetch <remote name> <branch> 
 
 39.从远程存储库中拉取更改
-git pull <remote name> <branch>
+    git pull <remote name> <branch>
+    # git pull 操作其实是git fetch 与 git merge 两个命令的集合
+    # git pull 等效于先执行 git fetch origin 当前分支名, 再执行 git merge FETCH_HEAD.
+    # 说明: 1）、此命令git pull是基于本地的FETCH_HEAD记录，比对本地的FETCH_HEAD记录与远程仓库的版本号，然后git fetch 获得当前指向的远程分支的后续版本的数据，然后再利用git merge将其与本地的当前分支合并
+            2）、git pull 后不加参数的时候，跟git push 一样，默认就是git pull origin 当前分支名，当然远程仓库没有跟本地当前分支名一样的分支的话，肯定会报错。
+            3）、本地master分支执行git pull的时候，其实就是git pull origin master。
 
 40.将更改推送到远程存储库
-git push <remote name>
+    git push <remote name>
+    # 注意：git push 后不加参数的时候，默认就是git push origin 当前的分支名，
+      比如：对本地的master分支执行git push，其实就是git push origin master，
+      当然，如果远程仓库没有master这个分支的话，肯定会报错
 
 41.将更改推送到特定分支
-git push <remote name> <branch>
+    git push <remote name> <branch>
 
-abcde fghij
-klmno pqrst
-uvwxy z
+
+以下内容暂未整理
+28、将本地新建分支推送到远程并指定分支名
+        git push --set-upstream origin 分支名
+29、建立本地分支和远程分支的关联
+       git branch --set-upstream branch-name origin/branch-name
+30、在本地创建和远程分支对应的分支
+       git checkout -b branch-name origin/branch-name    
+       注意：本地和远程分支的名称最好一致
+31、查看工作树提交历史记录
+        git log --graph --pretty=oneline --abbrev-commit
+32、合并分支(把指定的分支合并到当前分支上)  
+        git merge 分支名
+33、恢复暂存区的内容
+          git restore --staged [file]    表示从暂存区将文件的状态修改成 unstaged/已修改 (未执行 add 时 )状态
+          git restore --staged *.java  表示将所有暂存区的java文件恢复 (未执行 add 时 )状态
+          git restore --staged .          表示将当前目录所有暂存区文件恢复 (未执行 add 时 )状态
+          注意：--staged  参数就是表示仅仅恢复暂存区的
+34、git restore 使用情况
+       1）、文件在暂存区且未作修改的情况
+            使用git restore --staged <file> 把文件从暂存区移动到工作区，即文件不被追踪；
+       2）、文件在暂存区且已经修改的情况
+            使用git restore --staged <file> 把文件从暂存区移动到工作区，且不会撤销修改的内容；
+            使用git restore <file> 文件仍在暂存区且会撤销文件修改的内容；
+       3）、文件在本地代码库已经修改的情况
+           使用git add <file> 把文件重新放到暂存区，且保留文件的修改；
+           使用git restore <file> 文件仍在本地代码库且会撤销文件的修改；
+           对于git restore <file>命令，会撤销文件的修改，使文件恢复到暂存区或本地代码库（取决于文件在修改前的状态）；
+           对于git restore --staged <file>命令，把文件从暂存区撤回到工作区，保留文件最后一次修改的内容；
+35、git restore命令详解
+    git restore --worktree README.md    # 表示撤销 README.md 文件工作区的的修改    参数等同于 -W
+    git restore --staged README.md  # 表示撤销暂存区的修改，将文件状态恢复到未 add 之前 参数等同于 -S
+    git restore -s HEAD~1 README.md # 表示将当前工作区切换到上个 commit 版本 
+    git restore -s dbv213 README.md # 表示将当前工作区切换到指定 commit id 的版本 
+36、删除本地分支
+       1）、通常的分支删除，使用下行命令即可
+       git branch -d <your branch name>
+       // -d 是 --delete 的缩写，所以也可以使用下面这条命令
+       git branch --delete <your branch name>
+       2）、下面这种是 强删，或者称为 裸删
+       // 它不会检查当前要删除的分支是否存在未处理的状态
+       git branch -D <your branch name>
+       // 与下面一行的命令等价
+       git branch --delete --force <your branch name>
+37、删除远程端分支
+          git branch -r -d origin/分支名    
+          把本地的操作推送到远程来执行（注意：下面命令冒号左右都需要空格）
+          git push origin ：branch1
+38、删除远程分支的命令
+       git push origin --delete 分支名
+39、在Windows使用命令行 (Git Bash), 让含非ASCII字符的文件名正确显示
+       git config --global core.quotepath off
+       说明：如果在Windows使用命令行 (Git Bash), 含非ASCII字符的文件名会显示为 "\346\226\260\350\246..."，使用命令git config --global core.quotepath off，就可以让含非ASCII字符的文件名正确显示了
+40、在Windows使用命令行，提交信息包含非ASCII字符
+       git config --global core.editor "\"[使用编辑区的路径]\""
+       若在Windows使用命令行，您只能输入ASCII字符，所以，如果您的提交信息包含非ASCII字符，请不要使用-m选项，而要用外部编辑器输入。
+       外部编辑器必须能与字符编码UTF-8和换行码LF兼容。
+       
+41、查看工作区和版本库里面最新版本的区别
+        git diff HEAD -- readme.txt（文件名）
+42、丢弃工作区的修改，即把文件在工作区的修改全部撤销
+        git checkout -- file(文件名)
+        这里有两种情况：
+        一种是readme.txt自修改后还没有被放到暂存区，现在，撤销修改就回到和版本库一模一样的状态；
+        一种是readme.txt已经添加到暂存区后，又作了修改，现在，撤销修改就回到添加到暂存区后的状态。
+        总之，就是让这个文件回到最近一次git commit 或 git add时的状态。
+43、删除文件
+       git rm 文件名
+       并且 git commit -m "注释信息"
+44、根据名字删除远程库，比如删除远程库origin
+        git remote rm origin
+        注意：此处的“删除”其实是解除了本地和远程的绑定关系，并不是物理上删除了远程库。
+                  远程库本身并没有任何改动。
+                  要真正删除远程库，需要登录到GitHub，在后台页面找到删除按钮再删除
+45、把当前工作现场“储藏”起来，等以后恢复现场后继续工作
+        $ git stash
+        Saved working directory and index state WIP on dev: f52c633 add merge
+46、查看“储藏”的工作现场
+        git stash list
+        stash@{0}: WIP on dev: f52c633 add merge
+47、恢复工作现场，有两个办法
+        一是用 git stash apply 恢复，但是恢复后，stash内容并不删除，你需要用git stash drop来删除；
+        另一种方式是用git stash pop，恢复的同时把stash内容也删了
+48、把热修复分支hot_fix上所做的修改“复制”到dev分支
+       git cherry-pick 4c805e2（热修复分支hot_fix的提交版本号）
+       说明：同样的bug，在master上已经恢复了，要在dev上也修复一下，我们只需要把热修复分支hot_fix（从master分支新建的分支）上所做的修改（已经合并到master分支）“复制”到dev分支
+       注意：我们只想复制hot_fix这个提交所做的修改，并不是把整个master分支merge过来。
+                 为了方便操作，Git专门提供了一个cherry-pick命令，让我们能复制一个特定的提交(而不是整个分支)到当前分支
+       
+49、新建一个标签
+        git tag v1.0（标签名）
+        给指定分支打标签（默认标签是打在最新提交的commit上的）
+        切换到需要打标签的分支上，使用命令就可以打一个新标签
+       
+50、指定标签信息
+        git tag -a <tagname> -m "blablabla..."   可以指定标签信息  
+51、查看所有标签
+      git tag
+      注意：标签不是按时间顺序列出，而是按字母排序的。可以用git show <tagname>查看标签信息
+      如：git show v0.9
+52、给历史提交（commit id）打标签
+       git tag  v0.9(标签名)  f52c633(commit版本号)
+53、删除一个本地标签
+        git tag -d v0.1（标签名）
+        因为创建的标签都只存储在本地，不会自动推送到远程，所以，打错的标签可以在本地安全删除。
+54、推送某个标签到远程
+        git push origin <tagname>
+55、一次性推送全部尚未推送到远程的本地标签
+        git push origin --tags
+56、删除一个远程标签
+        git push origin :refs/tags/<tagname>
+57、忽略 .gitignore规则，强制添加到git
+       git add -f 文件名.后缀
+58、检验规则
+        git check-ignore
+        例如： git check-ignore -v App.class
+                 .gitignore:3:*.class    App.class
+                 git会告诉我们，.gitignore的第3行规则忽略了该文件，于是我们就可以知道应该修订哪个规则
+59、配置别名
+        git config --global alias.st status
+1、ref：引用
+2、head：指针（头）
+3、clear：清除
+4、clean：干净
+5、conflict：冲突
+6、failed：失败
+7、fork：叉子
+.git文件夹中
+1、HEAD文件中存放的是当前git指向的分支名
+2、refs/heads/文件中存放的是所有的分支名及当前分支指向的版本号
+说明：
+1、当合并代码有冲突时
+      <<<<<<< HEAD
+      当前分支代码（冲突代码 conflict）
+      =======
+      要合并过来的分支的代码（冲突代码 conflict）
+      >>>>>>> 要合并过来的分支名
+2、解决冲突后 只有当前分支会改变，合并过来的那个分支不会改变
+3、远程库的名字就是origin，这是Git默认的叫法，也可以改成别的，但是origin这个名字一看就知道是远程库
