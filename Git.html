@@ -282,8 +282,8 @@ git status [-s]
 40.将更改推送到远程存储库
     git push <remote name>
     # 注意：git push 后不加参数的时候，默认就是git push origin 当前的分支名，
-      比如：对本地的master分支执行git push，其实就是git push origin master，
-      当然，如果远程仓库没有master这个分支的话，肯定会报错
+      比如：对本地的main分支执行git push，其实就是git push origin main，全部是git push origin main:main 第一个main是本地的，第二个main是远程别名为origin中的main，只有当两个名称一样时可以使用省略版
+      当然，如果远程仓库没有main这个分支的话，肯定会报错
 
 41.将更改推送到特定分支
     git push <remote name> <branch>
