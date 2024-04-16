@@ -18,19 +18,51 @@
 
 
 2.克隆一个远程仓库
-    ssh-keygen -t rsa -b 4096 # 需要配置SSH密钥，在用户根目录下，进入.ssh目录中，输入这个代码。
-    # Enter file in which to save the key (/c/Users/Light/.ssh/id_rsa):  会出现这个提示，在这个后面输入的是密钥的名称。如果设置过了，不要直接回车，会覆盖之前的，不可逆。
-    # Enter passphrase (empty for no passphrase): 然后设置密钥名称，然后设置密码，
-    # Enter same passphrase again: 重复确认密码。这样就完成了，刚刚设置的名称就是密钥文件，如test。那么相应的test.pub就是公钥文件。
-    # 然后将.pub中的内容粘贴至github中的setting > SSH and GPG keys ，右上角点击New SSH key。Title随便设置，可以设置成与刚刚的密钥名称一致的。
-    vim config # 在/.ssh文件夹中创建一个config文件，里面写入如下5行内容。注意，最后一个test需要替换成上面相应的名称
-    # github
-    Host github.com
-    HostName github.com
-    PreferredAuthentications publickey
-    IdentityFile ~/.ssh/test
+    1、设置密钥
+        需要配置SSH密钥，在用户根目录下，进入.ssh目录中，输入这个代码：
+            ssh-keygen -t rsa -b 4096 
+        # Enter file in which to save the key (/c/Users/Light/.ssh/id_rsa):  会出现这个提示，在这个后面输入的是密钥的名称。如果设置过了或者添加新的，不要直接用相同的名称，会覆盖之前的，不可逆。
+        # Enter passphrase (empty for no passphrase): 然后设置密钥名称，然后设置密码，
+        # Enter same passphrase again: 重复确认密码。这样就完成了，刚刚设置的名称就是密钥文件，如test。那么相应的test.pub就是公钥文件。
 
-    git clone <url>
+    2、在github中保存密钥
+        然后将.pub中的内容粘贴至github中的setting > SSH and GPG keys ，右上角点击New SSH key。Title随便设置，可以设置成与刚刚的密钥名称一致的。
+
+    3、配置config文件
+        vim config 
+    # 在/.ssh文件夹中创建一个config文件，里面写入如下5行内容。注意，最后一个test需要替换成上面相应的名称
+        # github
+        Host github.com
+        HostName github.com
+        PreferredAuthentications publickey
+        IdentityFile ~/.ssh/test
+
+    4、建立第二个仓库
+        注：如果需要建立第二个，重复上述操作，但是要取与之前不同的名字，比如test要更改，否则会有覆盖的风险。
+        git clone <url> # <url>在github中右上点击绿色底框中“code”，选SSH查看，复制
+
+        如果你已经有了两个 SSH 密钥，并且希望在使用 Git 时指定使用第二个密钥，可以通过以下步骤实现：
+
+        为第二个 SSH 密钥创建别名：
+
+            在 SSH 配置文件 ~/.ssh/config 中为第二个密钥创建别名。假设你的第一个密钥默认是 id_rsa，第二个密钥是 id_rsa_custom，你可以这样配置：
+
+                Host github.com
+                    HostName github.com
+                    User git
+                    IdentityFile ~/.ssh/id_rsa
+
+                Host github_custom
+                    HostName github.com
+                    User git
+                    IdentityFile ~/.ssh/id_rsa_custom
+
+            在 Git 仓库中使用别名：
+            在 Git 仓库中，指定使用相应的 SSH 密钥别名。假设你想要使用第二个密钥访问 GitHub 上的仓库，你可以这样设置远程仓库的 URL：
+
+                git remote set-url origin git@github_custom:user/repository.git
+
+            这样就指定了在这个仓库中使用别名为 github_custom 的 SSH 密钥。
 
 
 3.添加文件到暂存区
@@ -168,7 +200,6 @@ git status [-s]
     alias graph="git log --graph --oneline --decorate --all"
     graph
 
-
 13.显示分支
     git branch
     有用的标志：
@@ -189,9 +220,17 @@ git status [-s]
     git switch <branch> # 由于checkout还有恢复文件的语义。尤其在有冲突时会执行切换而不执行恢复文件。git在2.23版时添加了switch，专用于切换分支
 
 16.删除一个分支 -d表示删除一个已经合并过的分支，-D表示强制，无论是否合并过
+    1).
     git branch -d <branch>
+    // -d 是 --delete 的缩写，所以也可以使用下面这条命令
+    git branch --delete <your branch name>
+    2).
     您还可以使用 -D 标志强制删除分支。
     git branch -D <branch>
+    // 与下面一行的命令等价
+    git branch --delete --force <your branch name>
+    3).
+    git branch -r -d origin/分支名
 
 17.合并分支
     git merge <branch to merge into HEAD>
@@ -199,7 +238,6 @@ git status [-s]
     --no-ff：即使合并解析为快进，也创建合并提交
     --squash：将指定分支中的所有提交压缩为单个提交
     建议不要使用 --squash 标志，因为它会将所有提交压缩为单个提交，从而导致提交历史混乱。
-
 
 18.变基分支
     变基是将一系列提交移动或组合到新的基本提交的过程。
@@ -214,10 +252,8 @@ git status [-s]
     git revert <commit id>
 
 
-
 24.移动或重命名文件
     git mv <current path> <new path>
-
 
 26.存储更改
     stash 允许您在不提交更改的情况下临时存储更改。
@@ -264,9 +300,13 @@ git status [-s]
     git remote rename <old name> <new name>
 
 37.从远程存储库中获取更改
-    git fetch <remote name> 
-    git fetch  或  git fetch --all
+    1).git fetch  或  git fetch --all这将更新git remote中所有的远程仓库(repository)所包，含分支的最新commit-id,将其记录到.git/FETCH_HEAD文件中 
+    2).git fetch <remote repository>  这将更新名称为remote_.repository的远程repository.上的所有branch的最新commit-id,将其记录。
+    3).git fetch <remote repository> <remote branch name> 这将更新名称为remote repository的远程repository.上的分支：<remote branch name>
+    4).git fetch <remote repository> <remote branch name> :<local branch name> 这将更新名称为remote_.repository的远程repository.上的分支：remote_branch,_name,并在本地创建<local branch name>本地分支保存 远端分支的所有数据。
+    FETCH HEAD:是一个版本链接，记录在本地的一个文件中，指向目前已经从远程仓库取下来的分支的末端版本。
     说明：此命令将更新git remote 中所有的远程仓库(repository) 所包含的分支的最新commit-id, 将其记录到.git/FETCH_HEAD文件中
+
 
 38.从特定分支获取更改
     git fetch <remote name> <branch> 
@@ -284,7 +324,8 @@ git status [-s]
     # 注意：git push 后不加参数的时候，默认就是git push origin 当前的分支名，
       比如：对本地的main分支执行git push，其实就是git push origin main，全部是git push origin main:main 第一个main是本地的，第二个main是远程别名为origin中的main，只有当两个名称一样时可以使用省略版
       当然，如果远程仓库没有main这个分支的话，肯定会报错
-
+      把本地的操作推送到远程来执行（注意：下面命令冒号左右都需要空格）
+      git push origin : <branch>
 41.将更改推送到特定分支
     git push <remote name> <branch>
 
@@ -293,9 +334,9 @@ git status [-s]
 28、将本地新建分支推送到远程并指定分支名
         git push --set-upstream origin 分支名
 29、建立本地分支和远程分支的关联
-       git branch --set-upstream branch-name origin/branch-name
+       git branch --set-upstream <branch name> origin/<branch name>
 30、在本地创建和远程分支对应的分支
-       git checkout -b branch-name origin/branch-name    
+       git checkout -b <branch name> origin/<branch name>    
        注意：本地和远程分支的名称最好一致
 31、查看工作树提交历史记录
         git log --graph --pretty=oneline --abbrev-commit
@@ -322,20 +363,7 @@ git status [-s]
     git restore --staged README.md  # 表示撤销暂存区的修改，将文件状态恢复到未 add 之前 参数等同于 -S
     git restore -s HEAD~1 README.md # 表示将当前工作区切换到上个 commit 版本 
     git restore -s dbv213 README.md # 表示将当前工作区切换到指定 commit id 的版本 
-36、删除本地分支
-       1）、通常的分支删除，使用下行命令即可
-       git branch -d <your branch name>
-       // -d 是 --delete 的缩写，所以也可以使用下面这条命令
-       git branch --delete <your branch name>
-       2）、下面这种是 强删，或者称为 裸删
-       // 它不会检查当前要删除的分支是否存在未处理的状态
-       git branch -D <your branch name>
-       // 与下面一行的命令等价
-       git branch --delete --force <your branch name>
-37、删除远程端分支
-          git branch -r -d origin/分支名    
-          把本地的操作推送到远程来执行（注意：下面命令冒号左右都需要空格）
-          git push origin ：branch1
+
 38、删除远程分支的命令
        git push origin --delete 分支名
 39、在Windows使用命令行 (Git Bash), 让含非ASCII字符的文件名正确显示
@@ -408,6 +436,7 @@ git status [-s]
                  git会告诉我们，.gitignore的第3行规则忽略了该文件，于是我们就可以知道应该修订哪个规则
 59、配置别名
         git config --global alias.st status
+
 1、ref：引用
 2、head：指针（头）
 3、clear：清除
