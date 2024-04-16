@@ -37,7 +37,10 @@
         PreferredAuthentications publickey
         IdentityFile ~/.ssh/test
 
-    git clone <url> # <url>在github中右上点击绿色底框中“code”，选SSH查看，复制
+    git clone <url> 
+        # <url>在github中右上点击绿色底框中“code”，选SSH查看，复制。
+        # 此时不需要提前git init，任意文件夹直接就可以clone。
+        # clone后直接复制远程的库在本地打开git的目录下建立相应文件夹，文件夹内有.git文件。
 
     4、建立第二个仓库
         注：如果需要建立第二个，重复上述操作，但是要取与之前不同的名字，比如test要更改，否则会有覆盖的风险。
