@@ -37,14 +37,11 @@
         PreferredAuthentications publickey
         IdentityFile ~/.ssh/test
 
+    git clone <url> # <url>在github中右上点击绿色底框中“code”，选SSH查看，复制
+
     4、建立第二个仓库
         注：如果需要建立第二个，重复上述操作，但是要取与之前不同的名字，比如test要更改，否则会有覆盖的风险。
-        git clone <url> # <url>在github中右上点击绿色底框中“code”，选SSH查看，复制
-
         如果你已经有了两个 SSH 密钥，并且希望在使用 Git 时指定使用第二个密钥，可以通过以下步骤实现：
-
-        为第二个 SSH 密钥创建别名：
-
             在 SSH 配置文件 ~/.ssh/config 中为第二个密钥创建别名。假设你的第一个密钥默认是 id_rsa，第二个密钥是 id_rsa_custom，你可以这样配置：
 
                 Host github.com
@@ -286,7 +283,21 @@ git status [-s]
 
 
 33.添加远程仓库
-    git remote add <remote name> <url>
+    添加远程仓库
+        git remote add <remote name> <url>
+    指定分支的名称为main
+        git branch -M main
+    把本地的main分支与远程仓库的main分支关联并推送
+        git push -u origin main 
+        git push -u origin main:main 
+        -u 是 --set-upstream
+
+    建立本地分支和远程分支的关联 "--set-upstream-to" = "--track"
+        git branch --set-upstream-to <branch name> origin/<branch name>
+
+    在本地创建和远程分支对应的分支
+       git checkout -b <branch name> origin/<branch name>
+       注意：本地和远程分支的名称最好一致
 
 34.显示远程仓库
     git remote
@@ -331,13 +342,6 @@ git status [-s]
 
 
 以下内容暂未整理
-28、将本地新建分支推送到远程并指定分支名
-        git push --set-upstream origin 分支名
-29、建立本地分支和远程分支的关联
-       git branch --set-upstream <branch name> origin/<branch name>
-30、在本地创建和远程分支对应的分支
-       git checkout -b <branch name> origin/<branch name>    
-       注意：本地和远程分支的名称最好一致
 31、查看工作树提交历史记录
         git log --graph --pretty=oneline --abbrev-commit
 32、合并分支(把指定的分支合并到当前分支上)  
