@@ -291,9 +291,11 @@ git status [-s]
     指定分支的名称为main
         git branch -M main
     把本地的main分支与远程仓库的main分支关联并推送
+    # 将本文件夹既.git所在文件夹内的全部内容推送值远程库内部，外部文件夹与远程库库名形成映射
         git push -u origin main 
         git push -u origin main:main 
-        -u 是 --set-upstream
+        # -u 是 --set-upstream
+        # 第一个main是本地，第二个是远程。注意在pull中正好相反。
 
     建立本地分支和远程分支的关联 "--set-upstream-to" = "--track"
         git branch --set-upstream-to <branch name> origin/<branch name>
