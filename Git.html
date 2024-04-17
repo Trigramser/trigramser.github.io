@@ -286,23 +286,42 @@ git status [-s]
 
 
 33.添加远程仓库
-    添加远程仓库
+    1、添加远程仓库
         git remote add <remote name> <url>
-    指定分支的名称为main
+    2、指定分支的名称为main
         git branch -M main
-    把本地的main分支与远程仓库的main分支关联并推送
+    3、把本地的main分支与远程仓库的main分支关联并推送
     # 将本文件夹既.git所在文件夹内的全部内容推送值远程库内部，外部文件夹与远程库库名形成映射
         git push -u origin main 
         git push -u origin main:main 
         # -u 是 --set-upstream
         # 第一个main是本地，第二个是远程。注意在pull中正好相反。
 
-    建立本地分支和远程分支的关联 "--set-upstream-to" = "--track"
-        git branch --set-upstream-to <branch name> origin/<branch name>
+    1、建立本地分支和远程分支的关联 
+        #
+            git switch <branch name>
+        #关联origin/<branch name>
+            git branch --set-upstream-to=origin/<remote branch> <local branch>
+                #下面这个也可以。但是是在新建的分支上
+                #创建并关联
+                    git branch --track <branch name> <remote branch> # 创建本地<branch name>，并关联<remote branch>
 
-    在本地创建和远程分支对应的分支
-       git checkout -b <branch name> origin/<branch name>
-       注意：本地和远程分支的名称最好一致
+    2、列出所有本地分支及其与远程分支的关联关系
+        git branch -vv
+    3、
+        git push origin main
+
+
+    1、断开<branch name> origin/<branch name>的关联
+    首先，确保你在想要断开关联的本地分支上。 如果不是，请先切换到该分支。
+        git checkout <branch name>
+    然后，执行以下命令来断开与远程分支的关联：
+        git branch --unset-upstream
+
+
+    2、在本地创建和远程分支对应的分支
+        git checkout -b <branch name> origin/<branch name>
+        注意：本地和远程分支的名称最好一致
 
 34.显示远程仓库
     git remote
