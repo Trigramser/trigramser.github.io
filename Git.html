@@ -75,14 +75,25 @@
     查看暂存区的内容
     git ls-files
 
+4、git restore 使用情况
+    git restore --staged <file> 把文件从暂存区移动到工作区，且不会撤销修改的内容；
+    git restore --staged *.java  表示将所有暂存区的java文件恢复 (未执行 add 时 )状态
+    git restore --staged .          表示将当前目录所有暂存区文件恢复 (未执行 add 时 )状态
+    git restore <file> 文件仍在暂存区且会撤销文件修改的内容；
+    注意：--staged  参数就是表示仅仅恢复暂存区的
+5、git restore命令详解
+    git restore --worktree README.md    # 表示撤销 README.md 文件工作区的的修改    参数等同于 -W
+    git restore --staged README.md  # 表示撤销暂存区的修改，将文件状态恢复到未 add 之前 参数等同于 -S
+    git restore -s HEAD~1 README.md # 表示将当前工作区切换到上个 commit 版本 
+    git restore -s dbv213 README.md # 表示将当前工作区切换到指定 commit id 的版本 
 
-4.提交更改
+6.提交更改
     git commit -m "<message>"
     如果要添加对跟踪文件所做的所有更改并提交。
     git commit -a -m "<message>" # or git commit -am "<message>"
 
 
-5.从暂存区删除一个文件
+7.从暂存区删除一个文件
     git reset --soft <file>/<commit id>
     --soft # 保存工作区和暂存区
     --hard # 移除工作区和暂存区
@@ -91,23 +102,18 @@
 
     git 取回暂存区内容
     在Git中，取回暂存区的内容通常是指将暂存区的改动合并到工作目录。如果你想要取回暂存区的内容，可以使用以下命令：
+    git checkout .
     git checkout -- <file>
-    这个命令会将指定的文件从暂存区恢复到工作目录的当前版本。
-
-    如果你想要取回所有暂存区的内容，可以使用：
-    git checkout -- .
-    这会将当前目录及子目录下的所有暂存文件恢复到最后一次提交的状态。
+    会用暂存区全部或指定的文件替换工作区的文件。暂存区继续保持，文件不是转为untrack。这个操作很危险，会清除工作区中未添加到暂存区中的改动。
 
     如果你想要取回某次提交的暂存内容到工作目录，可以使用：
     git checkout <commit> -- <file>
-    其中 <commit> 是指定提交的哈希值或者引用，<file> 是你想要恢复的文件。这会从指定的提交中取出该文件并放到工作目录中。
-
-    例如，如果你想要取回HEAD提交的暂存内容，可以这样做：
+        #其中 <commit> 是指定提交的哈希值或者引用，<file> 是你想要恢复的文件。这会从指定的提交中取出该文件并放到工作目录中。例如，如果你想要取回HEAD提交的暂存内容，可以这样做：
     git checkout HEAD -- <file>
-    请注意，使用 git checkout 时要小心，因为它会覆盖工作目录中的文件。
+        #请注意，使用 git checkout 时要小心，因为它会覆盖工作目录中的文件。
 
 
-6. git diff
+8. git diff
     显示对未暂存文件的更改（Working 与 Stage的区别）
     git diff\
 
@@ -123,7 +129,7 @@
     git diff <commit id 01> <commit id 02>
 
 
-7. 删除文件。使用git删除后不要忘记提交，否则还会再版本库中
+9. 删除文件。使用git删除后不要忘记提交commit，否则还会再版本库中
     rm file; git add file # 先从工作区删除文件，然后再删除暂存区内容，即更新至暂存区
     从存储库中删除文件 （Working 与 Stage的该<file>文件）
     git rm <file>
@@ -133,7 +139,7 @@
     git rm -r* 
 
 
-8. 忽略不需要再版本库中更新的文件。.gitignore
+10. 忽略不需要再版本库中更新的文件。.gitignore
     系统或者软件自动生成的文件，
     编译产生的中间文件和结果文件，
     运行时生成日志文件、缓存文件、临时文件，
@@ -197,9 +203,11 @@ git status [-s]
     git log --oneline #--oneline # 表示简易版，可以不加
     git log --graph --oneline --decorate --all # 显示分支
     # 下面两行代码时先起了个别名，然后在使用，与上一行代码完成的效果一样，但是使以后的使用更方便
-    alias graph="git log --graph --oneline --decorate --all"
-    graph
-
+        alias graph="git log --graph --oneline --decorate --all"
+    查看工作树提交历史记录
+        git log --graph --pretty=oneline --abbrev-commit
+        
+            
 13.显示分支
     git branch
     有用的标志：
@@ -305,7 +313,7 @@ git status [-s]
                 #下面这个也可以。但是是在新建的分支上
                 #创建并关联
                     git branch --track <branch name> <remote branch> # 创建本地<branch name>，并关联<remote branch>
-
+                    git switch <branch name>
     2、列出所有本地分支及其与远程分支的关联关系
         git branch -vv
     3、
@@ -330,15 +338,23 @@ git status [-s]
 
 35.删除远程仓库
     git remote remove <remote name>
+    git remote rm origin
+    注意：此处的“删除”其实是解除了本地和远程的绑定关系，并不是物理上删除了远程库。
+              远程库本身并没有任何改动。
+              要真正删除远程库，需要登录到GitHub，在后台页面找到删除按钮再删除
 
 36.重命名远程存储库
     git remote rename <old name> <new name>
 
 37.从远程存储库中获取更改
-    1).git fetch  或  git fetch --all这将更新git remote中所有的远程仓库(repository)所包，含分支的最新commit-id,将其记录到.git/FETCH_HEAD文件中 
-    2).git fetch <remote repository>  这将更新名称为remote_.repository的远程repository.上的所有branch的最新commit-id,将其记录。
-    3).git fetch <remote repository> <remote branch name> 这将更新名称为remote repository的远程repository.上的分支：<remote branch name>
-    4).git fetch <remote repository> <remote branch name> :<local branch name> 这将更新名称为remote_.repository的远程repository.上的分支：remote_branch,_name,并在本地创建<local branch name>本地分支保存 远端分支的所有数据。
+    1).git fetch  或  git fetch --all
+        这将更新git remote中所有的远程仓库(repository)所包，含分支的最新commit-id,将其记录到.git/FETCH_HEAD文件中 
+    2).git fetch <remote repository>
+        这将更新名称为remote_.repository的远程repository.上的所有branch的最新commit-id,将其记录。
+    3).git fetch <remote repository> <remote branch name> 
+        这将更新名称为remote repository的远程repository.上的分支：<remote branch name>
+    4).git fetch <remote repository> <remote branch name> :<local branch name> 
+        这将更新名称为remote_.repository的远程repository.上的分支：remote_branch,_name,并在本地创建<local branch name>本地分支保存 远端分支的所有数据。
     FETCH HEAD:是一个版本链接，记录在本地的一个文件中，指向目前已经从远程仓库取下来的分支的末端版本。
     说明：此命令将更新git remote 中所有的远程仓库(repository) 所包含的分支的最新commit-id, 将其记录到.git/FETCH_HEAD文件中
 
@@ -365,32 +381,10 @@ git status [-s]
     git push <remote name> <branch>
 
 
+
+
 以下内容暂未整理
-31、查看工作树提交历史记录
-        git log --graph --pretty=oneline --abbrev-commit
-32、合并分支(把指定的分支合并到当前分支上)  
-        git merge 分支名
-33、恢复暂存区的内容
-          git restore --staged [file]    表示从暂存区将文件的状态修改成 unstaged/已修改 (未执行 add 时 )状态
-          git restore --staged *.java  表示将所有暂存区的java文件恢复 (未执行 add 时 )状态
-          git restore --staged .          表示将当前目录所有暂存区文件恢复 (未执行 add 时 )状态
-          注意：--staged  参数就是表示仅仅恢复暂存区的
-34、git restore 使用情况
-       1）、文件在暂存区且未作修改的情况
-            使用git restore --staged <file> 把文件从暂存区移动到工作区，即文件不被追踪；
-       2）、文件在暂存区且已经修改的情况
-            使用git restore --staged <file> 把文件从暂存区移动到工作区，且不会撤销修改的内容；
-            使用git restore <file> 文件仍在暂存区且会撤销文件修改的内容；
-       3）、文件在本地代码库已经修改的情况
-           使用git add <file> 把文件重新放到暂存区，且保留文件的修改；
-           使用git restore <file> 文件仍在本地代码库且会撤销文件的修改；
-           对于git restore <file>命令，会撤销文件的修改，使文件恢复到暂存区或本地代码库（取决于文件在修改前的状态）；
-           对于git restore --staged <file>命令，把文件从暂存区撤回到工作区，保留文件最后一次修改的内容；
-35、git restore命令详解
-    git restore --worktree README.md    # 表示撤销 README.md 文件工作区的的修改    参数等同于 -W
-    git restore --staged README.md  # 表示撤销暂存区的修改，将文件状态恢复到未 add 之前 参数等同于 -S
-    git restore -s HEAD~1 README.md # 表示将当前工作区切换到上个 commit 版本 
-    git restore -s dbv213 README.md # 表示将当前工作区切换到指定 commit id 的版本 
+
 
 38、删除远程分支的命令
        git push origin --delete 分支名
@@ -413,11 +407,7 @@ git status [-s]
 43、删除文件
        git rm 文件名
        并且 git commit -m "注释信息"
-44、根据名字删除远程库，比如删除远程库origin
-        git remote rm origin
-        注意：此处的“删除”其实是解除了本地和远程的绑定关系，并不是物理上删除了远程库。
-                  远程库本身并没有任何改动。
-                  要真正删除远程库，需要登录到GitHub，在后台页面找到删除按钮再删除
+
 45、把当前工作现场“储藏”起来，等以后恢复现场后继续工作
         $ git stash
         Saved working directory and index state WIP on dev: f52c633 add merge
