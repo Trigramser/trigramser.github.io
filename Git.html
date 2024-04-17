@@ -308,10 +308,11 @@ git status [-s]
     1、建立本地分支和远程分支的关联 
         #
             git switch <branch name>
-        #关联origin/<branch name>
-            git branch --set-upstream-to=origin/<remote branch> <local branch>
-                #下面这个也可以。但是是在新建的分支上
-                #创建并关联
+        # 关联origin/<branch name> 
+        # 这个的前提是远程分支<remote branch>要存在
+            git branch --set-upstream-to origin/<remote branch> <local branch>
+                # 下面这个也可以。但是是在新建的分支上
+                # 创建并关联
                     git branch --track <branch name> <remote branch> # 创建本地<branch name>，并关联<remote branch>
                     git switch <branch name>
     2、列出所有本地分支及其与远程分支的关联关系
