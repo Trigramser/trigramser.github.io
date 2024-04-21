@@ -196,7 +196,7 @@
 6.查看所有历史记录
 git reflog
 
-7.查看存储库的状态。git默认不会将空的文件夹纳入，因此空文件夹不会看到
+7.查看存储库的状态.git默认不会将空的文件夹纳入，因此空文件夹不会看到
 git status [-s]
 
 8.显示提交历史：git log （按q键就会退出）
@@ -319,6 +319,7 @@ git status [-s]
         git branch -vv
     3、
         git push origin main
+        git push --force origin <branch_name> # 如果库中已经有内容，提示需要先git pull，可以这样强制推送
 
 
     1、断开<branch name> origin/<branch name>的关联
