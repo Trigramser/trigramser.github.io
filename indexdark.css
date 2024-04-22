@@ -55,6 +55,8 @@ p {
     color: #FFA500;
 }
 
-.indented {
-  text-indent: 2em;
+
+a.indented-link {
+  display: inline-block; /* 将a标签转换为内联块元素 */
+  text-indent: 4em; /* 设置文本缩进为40像素 */
 }
