@@ -58,5 +58,5 @@ p {
 
 a.indented-link {
   display: inline-block; /* 将a标签转换为内联块元素 */
-  text-indent: 2em; /* 设置文本缩进为40像素 */
+  text-indent: 2em; /* 设置文本缩进为2em */
 }
