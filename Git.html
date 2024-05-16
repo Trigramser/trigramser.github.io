@@ -19,7 +19,7 @@
 
 2.克隆一个远程仓库
     1、设置密钥
-        需要配置SSH密钥，在用户根目录下，进入.ssh目录中，输入这个代码：
+        需要配置SSH密钥，在用户根目录下(cd ~)，进入.ssh目录中(cd .ssh)，输入这个代码：
             ssh-keygen -t rsa -b 4096 
         # Enter file in which to save the key (/c/Users/Light/.ssh/id_rsa):  会出现这个提示，在这个后面输入的是密钥的名称。如果设置过了或者添加新的，不要直接用相同的名称，会覆盖之前的，不可逆。
         # Enter passphrase (empty for no passphrase): 然后设置密钥名称，然后设置密码，
@@ -305,6 +305,16 @@ git status [-s]
         # -u 是 --set-upstream
         # 第一个main是本地，第二个是远程。注意在pull中正好相反。
 
+        # 如果已经有git库，需要进行pull需要下面代码。
+        # 如果只用git pull。或者git fetch后git merge，则会报错。这个错误通常出现在您尝试合并两个不相关的分支历史时。这种情况通常发生在您创建了一个新的本地分支，并且尝试将其与远程仓库中的分支合并时。
+
+        解决这个问题的方法是告诉 Git 允许合并不相关的历史。您可以在执行 git merge 命令时添加 --allow-unrelated-histories 参数，例如：
+
+        git merge origin/main --allow-unrelated-histories # 首先需要 git fetch
+        git pull origin/main --allow-unrelated-histories 
+
+        这将允许 Git 将两个不相关历史的分支合并在一起。请注意，合并不相关历史可能会导致一些混乱，因为 Git 可能无法自动解决冲突。在执行此操作之前，请确保您了解合并的影响，并准备好手动解决可能出现的任何冲突。
+ 
     1、建立本地分支和远程分支的关联 
         #
             git switch <branch name>
@@ -477,65 +487,5 @@ git status [-s]
 2、解决冲突后 只有当前分支会改变，合并过来的那个分支不会改变
 3、远程库的名字就是origin，这是Git默认的叫法，也可以改成别的，但是origin这个名字一看就知道是远程库
 
-
-
-
-# solving problems
-# 1、
-
-（1）
-执行命令：git push
-问题描述：提交作业HW2时有如下提示。没有从远程库pull 之前的数据，如果强制提交应该可能会覆盖之前的全部内容，仅有此次提交的。因此应该是需要先把之前的pull 然后再次提交
-
-To github.com:GEN242-2024/GuodongZhang_hw.git
- ! [rejected]        main -> main (fetch first)
-error: failed to push some refs to 'github.com:GEN242-2024/GuodongZhang_hw.git'
-hint: Updates were rejected because the remote contains work that you do
-hint: not have locally. This is usually caused by another repository pushing
-hint: to the same ref. You may want to first integrate the remote changes
-hint: (e.g., 'git pull ...') before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-
-
-（2）
-执行命令：git pull
-使用 git pull后出现如下提示。猜测无法直接pull，需要进行某些设置
-
-hint: You have divergent branches and need to specify how to reconcile them.
-hint: You can do so by running one of the following commands sometime before
-hint: your next pull:
-hint:
-hint:   git config pull.rebase false  # merge
-hint:   git config pull.rebase true   # rebase
-hint:   git config pull.ff only       # fast-forward only
-hint:
-hint: You can replace "git config" with "git config --global" to set a default
-hint: preference for all repositories. You can also pass --rebase, --no-rebase,
-hint: or --ff-only on the command line to override the configured default per
-hint: invocation.
-
-
-（3）执行命令：git config pull.rebase false，
-    执行命令：git pull
-
-fatal: Need to specify how to reconcile divergent branches.
-
-这个错误通常出现在您尝试合并两个不相关的分支历史时。这种情况通常发生在您创建了一个新的本地分支，并且尝试将其与远程仓库中的分支合并时。
-
-解决这个问题的方法是告诉 Git 允许合并不相关的历史。您可以在执行 git merge 命令时添加 --allow-unrelated-histories 参数，例如：
-
-git merge origin/main --allow-unrelated-histories
-这将允许 Git 将两个不相关历史的分支合并在一起。请注意，合并不相关历史可能会导致一些混乱，因为 Git 可能无法自动解决冲突。在执行此操作之前，请确保您了解合并的影响，并准备好手动解决可能出现的任何冲突。
-
-（4）
-执行命令 git merge origin/main --allow-unrelated-histories
-Merge made by the 'ort' strategy.
-merge的内容
-………………
-………………
-
-（5）
-执行命令 git pull
-成功解决
 
 
