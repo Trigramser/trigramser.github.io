@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <form action="" method="post" enctype="multipart/form-data" novalidate> -->
+    <form action="" method="post" enctype="multipart/form-data" autocomplete="on">
+        <input type="file">
+
+        <label for="">用户名</label>
+        <input tyep="text" name="user" placeholder="请输入用户名" required autofocus/>
+
+        <label for="">工号</label>
+        <input tyep="text" name="gonhao" placeholder="请输工号" pattern="^\d{5}[imooc]" required autofocus/>
+
+        <input type="text" list="tips">
+        <datalist id="tips">
+            <option value="option 01"></option>
+            <option value="option 02"></option>
+            <option value="option 03"></option>
+            <option value="option 04"></option>
+        </datalist>
+
+        <label for="man">男</label>
+        <input type="radio" name="sex" id="man" required>
+        <label for="woman">女</label>
+        <input type="radio" name="sex" id="woman" required>
+
+
+        <input type="submit" name="" formnovalidate>
+        <input type="submit">
+    </form>
+</body>
+</html>

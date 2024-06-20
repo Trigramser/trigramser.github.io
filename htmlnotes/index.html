@@ -2,7 +2,7 @@
 
     2.加上以下代码的第一行就表示HTML5语法，去掉就表示HTML4.0-->
 
-    <!-- 3.HTML不区分大小写，语法松散不严格 -->
+<!-- 3.HTML不区分大小写，语法松散不严格 -->
 
 <!DOCTYPE html>
 
@@ -130,11 +130,12 @@
 
         <!-- 实体符号特点是：以&开始，以;结束。 <是小于号 >是大于号 -->
 
-        b<a>c
+        b<a>c <br>
 
-        abc       def <br>
+            b&lt;a&gt;c <br>
+            abc def <br>
 
-        abc         def
+            abc &nbsp; def
 
 </body>
 
@@ -183,9 +184,7 @@ HTML的表格
         <tr align="center">
 
             <td>a</td>
-
             <td>b</td>
-
             <td>c</td>
 
         </tr>
@@ -193,9 +192,7 @@ HTML的表格
         <tr>
 
             <td>d</td>
-
             <td>e</td>
-
             <td>f</td>
 
         </tr>
@@ -203,9 +200,7 @@ HTML的表格
         <tr>
 
             <td>x</td>
-
             <td>y</td>
-
             <td align="center">z</td>
 
         </tr>
@@ -504,7 +499,7 @@ background:设置背景图片
 
 以上的设置都是对背景设置 -->
 
-<body bgcolor="red" background="./图片/Snipaste_2021-05-30_23-57-34.png">
+<!-- <body bgcolor="red" background="./图片/Snipaste_2021-05-30_23-57-34.png"> -->
 
 <!-- 最好是使用相对路径 -->
 
@@ -546,11 +541,11 @@ background:设置背景图片
 
     6.alt设置图片加载失败时显示的提示信息
 
-    <img src="./图片/Snipaste_2021-05-30_23-57-47.png" width="1600px">
+    <img src="./图片/Snipaste_2021-05-30_23-57-47.png" width="1600px" title="我是图片呀">
 
     <br><br><br>
 
-    <img src="./图片/Snipaste_2021-05-30_23-59-31.png" alt="">
+    <img src="./图片/Snipaste_2021-05-30_23-59-31.png" alt="图片加载失败了">
 
 </body>
 
@@ -622,7 +617,7 @@ background:设置背景图片
 
 ------------------------------------------------
 
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="en">
 
@@ -738,7 +733,15 @@ background:设置背景图片
 
     href后面的路径可以是绝对路径，也可以是相对路径，可以是网络中某个资源的路径，也可以是本地资源的路径-->
 
-    <!-- a和/a之间除了可以写文本，还可以写<img src="" alt=""> 图片 -->
+    <!-- 
+    
+    a和/a之间除了可以写文本，还可以写<img src="" alt=""> 图片 
+    比如：
+        <a>
+            <img src="">
+        </a>
+
+    -->
 
 </body>
 
@@ -788,75 +791,75 @@ background:设置背景图片
 
     <!-- 有序列表 -->
 
-    <ol type="A">
+<ol type="A">
 
-        <!--type写A就是ABC，写1就是123排序，写I 就是字符-->
+    <!--type写A就是ABC，写1就是123排序，写I 就是字符-->
 
-        <li>水果
+    <li>水果
 
-            <ol type="a">
+        <ol type="a">
 
-                <li>苹果</li>
+            <li>苹果</li>
 
-                <li>西瓜</li>
+            <li>西瓜</li>
 
-                <li>桃子</li>
+            <li>桃子</li>
 
-            </ol>
+        </ol>
 
-        </li>
+    </li>
 
-        <li>蔬菜
+    <li>蔬菜
 
-            <ol>
+        <ol>
 
-                <li>西红柿</li>
+            <li>西红柿</li>
 
-            </ol>
+        </ol>
 
-        </li>
+    </li>
 
-        <li>甜点</li>
+    <li>甜点</li>
 
-    </ol>
+</ol>
 
-    <!-- 无序列表  -->
+<!-- 无序列表  -->
 
-    <ul>
+<ul>
 
-        <li>中国
+    <li>中国
 
-            <ul type='square'>
+        <ul type='square'>
 
-                <li>北京
+            <li>北京
 
-                    <ul type='disc'>
+                <ul type='disc'>
 
-                        <li>东城区</li>
+                    <li>东城区</li>
 
-                        <li>西城区</li>
+                    <li>西城区</li>
 
-                        <li>海淀区</li>
+                    <li>海淀区</li>
 
-                        <li>朝阳区</li>
+                    <li>朝阳区</li>
 
-                    </ul>
+                </ul>
 
-                </li>
+            </li>
 
-                <li>天津</li>
+            <li>天津</li>
 
-                <li>上海</li>
+            <li>上海</li>
 
-            </ul>
+        </ul>
 
-        </li>
+    </li>
 
-        <li>美国</li>
+    <li>美国</li>
 
-        <li>日本</li>
+    <li>日本</li>
 
-    </ul>
+</ul>
 
 </body>
 
@@ -930,7 +933,7 @@ background:设置背景图片
 
     http://localhost:8080/jd/login?username=abc&userpwd=111
 
-    格式：action?name=value&name=value&name=value&name=value...  必须记住  name指的是input标签的namem,value指的是input标签的value
+    格式：action?name=value&name=value&name=value&name=value...  必须记住  name指的是input标签的name,value指的是input标签的value
 
     W3C的HTTP协议规定的，必须以这种格式提交给服务器 -->
 
@@ -966,7 +969,7 @@ background:设置背景图片
 
             <td colspan="2"><input type="submit" value="登录">
 
-                       
+
 
                 <input type="reset" value="清空">
 
@@ -1146,7 +1149,7 @@ background:设置背景图片
 
 <body>
 
-    <select multiple="multiple" size="2">
+    <select multiple="multiple" size="3">
 
         <option value="">河北</option>
 
@@ -1288,15 +1291,15 @@ HTML中元素的id属性
 
 3.id有什么用？
 
-    javascript语言：可以对HTML文档当中的任意节点进行增删改操作
+javascript语言：可以对HTML文档当中的任意节点进行增删改操作
 
-    增删改之前需要先拿到这个节点，通常我们通过id来拿节点对象
+增删改之前需要先拿到这个节点，通常我们通过id来拿节点对象
 
-    id的存在让我们获取元素（节点）更方便
+id的存在让我们获取元素（节点）更方便
 
-    HTML文档是一棵树，树上有很多节点，每一个节点都有惟一的id
+HTML文档是一棵树，树上有很多节点，每一个节点都有惟一的id
 
-    javascript主要就是对这棵DOM树上的节点进行增删改的  DOM（document）树
+javascript主要就是对这棵DOM树上的节点进行增删改的 DOM（document）树
 
 <!DOCTYPE html>
 
@@ -1322,7 +1325,7 @@ HTML中元素的id属性
 
         <input type="password" name="userpwd" id="userpwd">
 
-<!--
+        <!--
 
         id就是节点的身份证号码，不能重复。
 
