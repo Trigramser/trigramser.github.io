@@ -3,7 +3,44 @@ h1 {
 }
 
 p {
+    /* font-style: italic;
+    font-weight: normal;
     font-size: 20px;
-    font-family: "仿宋";
+    font-family: "仿宋"; */
+    /*font 的综合写法，这里就是按照上面的顺序横着写*/
+    /* font:italic bold 20px  "仿宋"; */
+    /* 前两个可以没有，但是必须有font-size和family */
+    font: 20px  "仿宋";
     color: blue;
+    line-height: 25px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    text-indent: 2em;
+    text-shadow: 5px 5px 2px rbga(0, 0, 0, 0.5);
 }
+
+.qian {
+    font: 20px  "楷体";
+    color: red;
+}
+
+li:nth-child(even) {
+    color:red;
+}
+
+li:nth-child(3n) {
+    color:blue;
+}
+
+li:nth-last-child(odd) {
+    color:aqua;
+}
+
+:target {
+    color:red;
+}
+
+
+
+
+

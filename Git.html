@@ -32,10 +32,15 @@
         vim config 
     # 在/.ssh文件夹中创建一个config文件，里面写入如下5行内容。注意，最后一个test需要替换成上面相应的名称
         # github
-        Host github.com
+        Host test
         HostName github.com
         PreferredAuthentications publickey
         IdentityFile ~/.ssh/test
+        # github
+        Host ch
+        HostName github.com
+        PreferredAuthentications publickey
+        IdentityFile ~/.ssh/ch
 
     git clone <url> 
         # <url>在github中右上点击绿色底框中“code”，选SSH查看，复制。
@@ -47,7 +52,7 @@
         如果你已经有了两个 SSH 密钥，并且希望在使用 Git 时指定使用第二个密钥，可以通过以下步骤实现：
             在 SSH 配置文件 ~/.ssh/config 中为第二个密钥创建别名。假设你的第一个密钥默认是 id_rsa，第二个密钥是 id_rsa_custom，你可以这样配置：
 
-                Host github.com
+                Host ch
                     HostName github.com
                     User git
                     IdentityFile ~/.ssh/id_rsa
@@ -58,6 +63,7 @@
                     IdentityFile ~/.ssh/id_rsa_custom
 
             在 Git 仓库中使用别名：
+                git remote set-url origin git@ch:user/repository.git
             在 Git 仓库中，指定使用相应的 SSH 密钥别名。假设你想要使用第二个密钥访问 GitHub 上的仓库，你可以这样设置远程仓库的 URL：
 
                 git remote set-url origin git@github_custom:user/repository.git
