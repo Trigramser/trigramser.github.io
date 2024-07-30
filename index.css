@@ -27,9 +27,6 @@ ul {
     margin: 0;
 }
 
-p {
-    color: #FFA500;
-}
 
 .header-bar {
     display: flex;
@@ -78,7 +75,7 @@ label {
 .Common {
     display: flex;
     flex-wrap: wrap;   
-    justify-content: center;
+    justify-content: left;
     align-content: left;
     align-items: center;
     border-radius: 10px;
@@ -96,7 +93,7 @@ label {
     flex: 1 1 30%;
     align-content: left;
     align-items: center;
-    text-align: center;
+    text-align: left;
     color: #fff;
     padding: 5px;
     margin: 5px;
@@ -106,10 +103,17 @@ label {
     /* 午夜蓝 */
     background-color: #03257E;
 }
+.Common p {
+    flex: 1 1 100%;
+    font-style: italic;
+    font-weight: bold;
+    margin: 6px 3px;
+    color: #777;
+}
 .Common a{
     flex: 1 1 30%;
     margin: 6px 3px;
-    color: #FFD700;
+    color: #EEEE00;
 }
 
 .box2, .box3, .box4, .box5, .box6, .boxLast {
