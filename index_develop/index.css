@@ -82,9 +82,9 @@ label {
     align-items: center;
     border-radius: 10px;
     /* 皇家蓝 柯尼什蓝 */
-    background-color: #0F52BA;
+    /* background-color: #0F52BA; */
     /* 午夜蓝 */
-    /* background-color:  #03257E; */
+    background-color:  #03257E;
 }
 .Common h1{
     flex: 1 1 100%;
@@ -99,9 +99,9 @@ label {
     margin: 5px;
     border-radius: 10px;
     /* 皇家蓝 柯尼什蓝 */
-    /* background-color: #0F52BA; */
+    background-color: #0F52BA;
     /* 午夜蓝 */
-    background-color:  #03257E;
+    /* background-color:  #03257E; */
 }
 
 .Common a{
