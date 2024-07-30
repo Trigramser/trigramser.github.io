@@ -1,6 +1,7 @@
 body {
     /* width: 960px; */
     width: 1440px;
+    top:44px;
     /* max-width: 540px;
     min-width: 320px;
     height: 2000px; */
@@ -77,22 +78,18 @@ label {
     margin-left: 10px
 }
 
-.Common {
+.Common, .Entertainment, .Games{
     display: flex;
     flex-wrap: wrap;   
     justify-content: left;
     align-content: left;
     align-items: center;
     border-radius: 10px;
-    /* 皇家蓝 柯尼什蓝 */
-    /* background-color: #0F52BA; */
-    /* 午夜蓝 */
-    /* background-color:  #03257E; */
 }
-.Common h1{
+.Common h1, .Entertainment h1, .Games h1{
     flex: 1 1 100%;
 }
-.Common li {
+.Common li , .Entertainment li , .Games li {
     display: flex;
     flex-wrap: wrap;   
     flex: 1 1 30%;
@@ -103,159 +100,69 @@ label {
     padding: 5px;
     margin: 5px;
     border-radius: 10px;
-    /* 皇家蓝 柯尼什蓝 */
-    background-color: #0F52BA;
-    /* 午夜蓝 */
-    /* background-color: #03257E; */
 }
-.Common p {
+.Common p, .Entertainment p , .Games p {
     flex: 1 1 100%;
     /* font-style: italic; */
     font-weight: bold;
     margin: 6px 3px;
     color: #aaa;
 }
-.Common a{
+.Common a, .Entertainment a, .Games a{
     flex: 1 1 30%;
     margin: 6px 3px;
-    /* color: #FCDA81; */
 }
-.Common li:nth-child(-n+2) {
+.Common li:nth-child(-n+2) , .Entertainment li:nth-child(-n+2) , .Games li:nth-child(-n+2) {
     display: inline-block;
     flex: 1 1 100%;
     padding: 10px;
 } 
-.Common li:nth-child(-n+2) a {
+.Common li:nth-child(-n+2) a , .Entertainment li:nth-child(-n+2) a, .Games li:nth-child(-n+2) a{
     padding: 6px;
 } 
 
 
-.Entertainment {
-    display: flex;
-    flex-wrap: wrap;   
-    justify-content: left;
-    align-content: left;
-    align-items: center;
-    border-radius: 10px;
-    /* 鸽血红 */
-    /* background-color: #B03060; */
-}
-.Entertainment h1{
-    flex: 1 1 100%;
+.Common li {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #0F52BA;
+    /* 午夜蓝 */
+    /* background-color: #03257E; */
 }
 .Entertainment li {
-    display: flex;
-    flex-wrap: wrap;   
-    flex: 1 1 30%;
-    align-content: left;
-    align-items: center;
-    text-align: left;
-    color: #fff;
-    padding: 5px;
-    margin: 5px;
-    border-radius: 10px;
     /* 鸽血红 */
     /* background-color: #B03060; */
     /* google红 */
     background-color: #B53C16;
 }
-.Entertainment li:nth-child(-n+2) {
-    display: inline-block;
-    flex: 1 1 100%;
-    padding: 10px;
-} 
-.Entertainment li:nth-child(-n+2) a {
-    padding: 6px;
-} 
-
-.Entertainment p {
-    flex: 1 1 100%;
-    font-weight: bold;
-    margin: 6px 3px;
-    color: #aaa;
-}
-.Entertainment a{
-    flex: 1 1 30%;
-    margin: 6px 3px;
-    /* color: #4AC3E9; */
-}
-
-
-
-.Games {
-    display: flex;
-    flex-wrap: wrap;   
-    justify-content: left;
-    align-content: left;
-    align-items: center;
-    border-radius: 10px;
-    /* 鸽血红 */
-    /* background-color: #B03060; */
-}
-.Games h1{
-    flex: 1 1 100%;
-}
 .Games li {
-    display: flex;
-    flex-wrap: wrap;   
-    flex: 1 1 30%;
-    align-content: left;
-    align-items: center;
-    text-align: left;
-    color: #fff;
-    padding: 5px;
-    margin: 5px;
-    border-radius: 10px;
-    /* 鸽血红 */
-    /* background-color: #B03060; */
-    /* google红 */
     background-color: #9966CC;
 }
-.Games li:nth-child(-n+2) {
-    display: inline-block;
-    flex: 1 1 100%;
-    padding: 10px;
-} 
-.Games li:nth-child(-n+2) a {
-    padding: 6px;
-} 
-.Games p {
-    flex: 1 1 100%;
-    font-weight: bold;
-    margin: 6px 3px;
-    color: #aaa;
-}
-.Games a{
-    flex: 1 1 30%;
-    margin: 6px 3px;
-    /* color: #669933; */
-}
 
 
 
 
-
-.box2, .box3, .box4, .box5, .box6, .boxLast {
+/* .box2, .box3, .box4, .box5, .box6, .boxLast {
     width: 960px;
     margin: 0 auto;
     line-height: 2em;
 
-}
+} */
 
-.box2 a, .box3 a, .box4 a, .box5 a, .box6 a{
+/* .box2 a, .box3 a, .box4 a, .box5 a, .box6 a{
     color: #fff;
     text-decoration: none;
-}
-.boxLast a:visited {
+} */
+/* .boxLast a:visited {
     color: blue;
-}
-.totop {
+} */
+
+/* .totop {
     color: #EE7621;
     text-align: right;
 }
 .totop a{
     color: #EE7621;
-}
+} */
 
 
 
@@ -267,6 +174,9 @@ label {
 /* } */
 
 
+h1, h2, h3, h4, h5 {
+    color: #777;
+}
 
 a:hover {
     /* color: #CD2626; */
