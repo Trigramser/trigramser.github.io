@@ -29,6 +29,9 @@ ul {
     margin: 0;
 }
 
+h1 h2 h3 h4 h5 h6 {
+    color: #aaa
+}
 
 .header-bar {
     display: flex;
@@ -110,7 +113,7 @@ label {
     /* font-style: italic; */
     font-weight: bold;
     margin: 6px 3px;
-    color: #bbb;
+    color: #aaa;
 }
 .Common a{
     flex: 1 1 30%;
@@ -169,7 +172,7 @@ label {
     flex: 1 1 100%;
     font-weight: bold;
     margin: 6px 3px;
-    color: #bbb;
+    color: #aaa;
 }
 .Entertainment a{
     flex: 1 1 30%;
@@ -220,7 +223,7 @@ label {
     flex: 1 1 100%;
     font-weight: bold;
     margin: 6px 3px;
-    color: #bbb;
+    color: #aaa;
 }
 .Games a{
     flex: 1 1 30%;
