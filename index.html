@@ -22,13 +22,13 @@
             let tablet_device = /ipad|playbook|silk/
             
             if (mobile_device.test(userAgent)) {
-                link.href = "https://trigramser.github.io/index_mobile.css"
+                // link.href = "https://trigramser.github.io/index_mobile.css"
+                link.href = "index_mobile.css"
             } else if (tablet_device.test(userAgent)) {
                 link.href = "https://trigramser.github.io/index.css"
             } else {
                 // link.href = "https://trigramser.github.io/index.css"
                 link.href = "index.css"
-                // link.href = "index_mobile.css"
             }
             document.head.appendChild(link)
         })
