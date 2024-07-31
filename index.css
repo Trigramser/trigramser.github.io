@@ -16,6 +16,8 @@ body {
 a {
     text-decoration: none;
     color:#fff;
+    /* transition: text-shadow 0.3s ease; */
+    transition:0.2s ease;
     /* color:#ffce2e; */
 }
 
@@ -78,7 +80,7 @@ label {
     margin-left: 10px
 }
 
-.Common, .Entertainment, .Games{
+.Common, .Entertainment, .Games, .CrossGate{
     display: flex;
     flex-wrap: wrap;   
     justify-content: left;
@@ -86,10 +88,10 @@ label {
     align-items: center;
     border-radius: 10px;
 }
-.Common h1, .Entertainment h1, .Games h1{
+.Common h1, .Entertainment h1, .Games h1, .CrossGate h1{
     flex: 1 1 100%;
 }
-.Common li , .Entertainment li , .Games li {
+.Common li , .Entertainment li , .Games li, .CrossGate li {
     display: flex;
     flex-wrap: wrap;   
     flex: 1 1 30%;
@@ -97,28 +99,25 @@ label {
     align-items: center;
     text-align: left;
     color: #fff;
-    padding: 5px;
-    margin: 5px;
     border-radius: 10px;
+    margin: 10px;
 }
-.Common p, .Entertainment p , .Games p {
+
+.Common p, .Entertainment p , .Games p, .CrossGate p {
     flex: 1 1 100%;
     /* font-style: italic; */
     font-weight: bold;
     margin: 6px 3px;
     color: #aaa;
 }
-.Common a, .Entertainment a, .Games a{
-    flex: 1 1 30%;
-    margin: 6px 3px;
+.Common a, .Entertainment a, .Games a, .CrossGate a{
+    flex: 1 1 25%;
+    margin: 10px 10px;
 }
-.Common li:nth-child(-n+2) , .Entertainment li:nth-child(-n+2) , .Games li:nth-child(-n+2) {
+.Common li:nth-child(-n+2) , .Entertainment li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2) {
     display: inline-block;
     flex: 1 1 100%;
-    padding: 10px;
-} 
-.Common li:nth-child(-n+2) a , .Entertainment li:nth-child(-n+2) a, .Games li:nth-child(-n+2) a{
-    padding: 6px;
+    padding: 10px 0px;
 } 
 
 
@@ -137,7 +136,10 @@ label {
 .Games li {
     background-color: #9966CC;
 }
-
+.CrossGate li {
+    /* 午夜蓝 */
+    background-color: #03257E;
+}
 
 
 
@@ -181,5 +183,5 @@ h1, h2, h3, h4, h5 {
 a:hover {
     /* color: #CD2626; */
     color:#4AC3E9;
-    text-shadow: 2 2 4 #fff;
+    text-shadow: 4 2 2 rgba(0, 0, 0, .5);
 }
