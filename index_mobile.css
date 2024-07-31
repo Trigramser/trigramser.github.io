@@ -1,0 +1,189 @@
+body {
+    /* width: 960px; */
+    width: 100%;
+    top:44px;
+    /* max-width: 540px;
+    min-width: 320px;
+    height: 2000px; */
+    margin: 0 auto;
+    /* font: normal 14px/1.5 Tahoma, "Lucida Grande", Verdana, "Microsoft Yahei", STXihei, hei; */
+    background: #000;
+    overflow-x: hidden;
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+a {
+    text-decoration: none;
+    color:#fff;
+    /* transition: text-shadow 0.3s ease; */
+    transition:0.2s ease;
+    /* color:#ffce2e; */
+}
+
+a:hover {
+    /* color: #CD2626; */
+    color:#4AC3E9;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, .5);
+}
+
+div {
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #777;
+}
+
+
+
+.header-bar {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: 44px;
+    top:0;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 10px;
+    margin: 0 auto;
+    /* 帝王绿 */
+    background-color: #006400;  
+    color: #aaa;
+    z-index: 999;
+    align-items: center;
+}
+.header-bar-middle {
+    flex: 1;
+    width: 960px;
+    text-align: center;
+    font-weight: bold;
+}
+.header-bar a{
+    margin:0 5px;
+    color: #FFD700;
+}
+
+.searcher {
+    width: 960px;
+    max-width: 960px;
+    margin: 20px auto;
+    padding-left: 4em;
+}
+input, select, textarea {
+    height: 30px; 
+    margin: 10px 0; 
+    border: 1px solid #999; 
+    padding: .2em .5em;
+}
+label {
+    color: #999; 
+    margin-left: 10px
+}
+
+.Common, .Entertainment, .Games, .CrossGate{
+    display: flex;
+    flex-wrap: wrap;   
+    justify-content: left;
+    align-content: left;
+    align-items: center;
+    border-radius: 10px;
+}
+.Common h1, .Entertainment h1, .Games h1, .CrossGate h1{
+    flex: 1 1 100%;
+}
+.Common li , .Entertainment li , .Games li, .CrossGate li {
+    display: flex;
+    flex-wrap: wrap;   
+    /* mobile and desktop */
+    flex: 1 1 100%;
+    align-content: left;
+    align-items: center;
+    text-align: left;
+    color: #fff;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.Common p, .Entertainment p , .Games p, .CrossGate p {
+    flex: 1 1 100%;
+    /* font-style: italic; */
+    font-weight: bold;
+    margin: 6px 3px;
+    color: #aaa;
+}
+.Common a, .Entertainment a, .Games a, .CrossGate a{
+    flex: 1 1 25%;
+    margin: 10px 10px;
+}
+.Common li:nth-child(-n+2) , .Entertainment li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2) {
+    display: inline-block;
+    flex: 1 1 100%;
+    padding: 10px 0px;
+} 
+
+
+.Common li {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #0F52BA;
+    /* 午夜蓝 */
+    /* background-color: #03257E; */
+}
+.Entertainment li {
+    /* 鸽血红 */
+    /* background-color: #B03060; */
+    /* google红 */
+    background-color: #B53C16;
+}
+.Games li {
+    background-color: #9966CC;
+}
+.CrossGate li {
+    /* 午夜蓝 */
+    background-color: #03257E;
+}
+
+
+
+
+
+/* .box2, .box3, .box4, .box5, .box6, .boxLast {
+    width: 960px;
+    margin: 0 auto;
+    line-height: 2em;
+
+} */
+
+/* .box2 a, .box3 a, .box4 a, .box5 a, .box6 a{
+    color: #fff;
+    text-decoration: none;
+} */
+/* .boxLast a:visited {
+    color: blue;
+} */
+
+/* .totop {
+    color: #EE7621;
+    text-align: right;
+}
+.totop a{
+    color: #EE7621;
+} */
+
+
+
+
+
+/* a.indented-link { */
+  /* display: inline-block; 将a标签转换为内联块元素 */
+  /* text-indent: 2em; 设置文本缩进为2em */
+/* } */
+
+
