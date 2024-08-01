@@ -50,12 +50,36 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .searcher {
-    width: 80%;
-    max-width: 80%;
-    margin: 2rem auto;
-    padding-left: 4rem;
+    /* width: 100%; */
+    /* max-width: 90%; */
+    margin: 1rem 0;
+    /* padding-left: 4rem; */
 }
-input, select, textarea {
+.searcher form {
+    display: flex;
+    flex-wrap: wrap;  
+    justify-content: left;
+    align-content: left;
+    align-items: center;
+    border-radius: 1rem;
+    margin: 1rem;
+    color: #aaa;
+}
+
+.searcher form input {
+    display: inline-block;
+    height: 3rem;
+    border-radius: 0.5rem;
+}
+
+.searcher form input:nth-child(1) {
+    width: 70%;
+}
+/* .searcher form input:nth-child(2) {
+    flex: 1 1 20%;
+} */
+
+select, textarea {
     height: 3rem; 
     margin: 1rem 0rem; 
     border: 1px solid #999; 
