@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .searcher form input:nth-child(1), .Common form input:nth-child(1)  {
-    width: 65%;
+    width: 73%;
 }
 /* .searcher form input:nth-child(2) {
     flex: 1 1 20%;
@@ -131,13 +131,13 @@ label {
 .Common li , .Entertainment li , .Games li, .CrossGate li, .goverment-service li, .MERL li {
     display: flex;
     flex-wrap: wrap;   
-    flex: 1 1 30%;
+    flex: 1 1 32%;
     align-content: left;
     align-items: center;
     text-align: left;
     color: #fff;
     border-radius: 1rem;
-    margin: 1rem;
+    margin: 0.5rem;
 }
 
 .Common p, .Entertainment p , .Games p, .CrossGate p, .goverment-service p, .MERL p{
