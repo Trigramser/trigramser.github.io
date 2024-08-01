@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .searcher form input:nth-child(1), .Common form input:nth-child(1)  {
-    width: 73%;
+    width: 75%;
 }
 /* .searcher form input:nth-child(2) {
     flex: 1 1 20%;
