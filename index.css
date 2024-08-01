@@ -64,13 +64,13 @@ h1, h2, h3, h4, h5, h6 {
     color: #aaa;
 }
 
-.searcher form input {
+.searcher form input, .Common form input {
     display: inline-block;
     height: 3rem;
     border-radius: 0.5rem;
 }
 
-.searcher form input:nth-child(1) {
+.searcher form input:nth-child(1), .Common form input:nth-child(1)  {
     width: 70%;
 }
 /* .searcher form input:nth-child(2) {
@@ -117,7 +117,7 @@ label {
 }
 
 
-.Common, .Entertainment, .Games, .CrossGate, .goverment-service{
+.Common, .Entertainment, .Games, .CrossGate, .goverment-service, .MERL{
     display: flex;
     flex-wrap: wrap;   
     justify-content: left;
