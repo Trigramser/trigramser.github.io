@@ -9,28 +9,36 @@
     <!-- <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/indexdark.css"> -->
 
     <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/normalize.css">
-    <!-- <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/index.css">  -->
-    <!-- <link rel="stylesheet" type="text/css" href="index.css"> -->
+    <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/index.css"> 
+    <link rel="stylesheet" type="text/css" href="index.css">
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             let userAgent = navigator.userAgent.toLowerCase()
-            let link = document.createElement('link')
-            link.rel = 'stylesheet'
-
             let mobile_device =  /ipad|iphone|midp|rv:1.2.3.4|ucweb|android|windows ce|windows mobile/
             let tablet_device = /ipad|playbook|silk/
-            
-            if (mobile_device.test(userAgent)) {
-                // link.href = "https://trigramser.github.io/index_mobile.css"
-                link.href = "index_mobile.css"
-            } else if (tablet_device.test(userAgent)) {
-                link.href = "https://trigramser.github.io/index.css"
+
+            // 这一段注释的是直接用新的css。发现目前可以不用新的，直接添加修改就可以了
+            // let link = document.createElement('link')
+            // link.rel = 'stylesheet'
+            // if (mobile_device.test(userAgent)) {
+            //     // link.href = "https://trigramser.github.io/index_mobile.css"
+            //     link.href = "index_mobile.css"
+            // } else if (tablet_device.test(userAgent)) {
+            //     link.href = "https://trigramser.github.io/index.css"
+            // } else {
+            //     // link.href = "https://trigramser.github.io/index.css"
+            //     link.href = "index.css"
+            // }
+            // document.head.appendChild(link)
+
+            let htmlElement = document.documentElement;
+            if (mobile_device.test(userAgent))  {
+                htmlElement.style.fontSize = '30px';
             } else {
-                // link.href = "https://trigramser.github.io/index.css"
-                link.href = "index.css"
+                htmlElement.style.fontSize = '10px';
             }
-            document.head.appendChild(link)
         })
+
     </script>
 
 </head>
