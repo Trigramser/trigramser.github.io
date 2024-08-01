@@ -1,3 +1,6 @@
+html {
+    font-size: 10px;
+}
 body {
     font-size: 1.6rem;
     /* width: 960px; */
@@ -114,7 +117,7 @@ label {
 }
 
 
-.Common, .Entertainment, .Games, .CrossGate{
+.Common, .Entertainment, .Games, .CrossGate, .goverment-service{
     display: flex;
     flex-wrap: wrap;   
     justify-content: left;
@@ -122,10 +125,10 @@ label {
     align-items: center;
     border-radius: 1rem;
 }
-.Common h1, .Entertainment h1, .Games h1, .CrossGate h1{
+.Common h1, .Entertainment h1, .Games h1, .CrossGate h1, .goverment-service h1, .MERL h1{
     flex: 1 1 100%;
 }
-.Common li , .Entertainment li , .Games li, .CrossGate li {
+.Common li , .Entertainment li , .Games li, .CrossGate li, .goverment-service li, .MERL li {
     display: flex;
     flex-wrap: wrap;   
     flex: 1 1 30%;
@@ -137,18 +140,18 @@ label {
     margin: 1rem;
 }
 
-.Common p, .Entertainment p , .Games p, .CrossGate p {
+.Common p, .Entertainment p , .Games p, .CrossGate p, .goverment-service p, .MERL p{
     flex: 1 1 100%;
     /* font-style: italic; */
     font-weight: bold;
     margin: 6px 3px;
     color: #aaa;
 }
-.Common a, .Entertainment a, .Games a, .CrossGate a{
+.Common a, .Entertainment a, .Games a, .CrossGate a, .goverment-service a, .MERL a{
     flex: 1 1 25%;
     margin: 1rem 1rem;
 }
-.Common li:nth-child(-n+2) , .Entertainment li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2) {
+.Common li:nth-child(-n+2) , .Entertainment li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2), .goverment-service li:nth-child(-n+2), .MERL li:nth-child(-n+2){
     display: inline-block;
     flex: 1 1 100%;
     padding: 1rem 0px;
@@ -174,8 +177,13 @@ label {
     /* 午夜蓝 */
     background-color: #03257E;
 }
-
-
+.goverment-service li {
+    /* Devil Red */
+    background-color: #860111;
+}
+.MERL li {
+    background-color: #00A86B;
+}
 
 
 
