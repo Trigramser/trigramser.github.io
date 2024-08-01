@@ -117,7 +117,7 @@ label {
 }
 
 
-.Common, .Entertainment, .Games, .CrossGate, .goverment-service, .MERL, .Study{
+.Common, .Entertainment, .Games, .CrossGate, .public-service, .Study{
     display: flex;
     flex-wrap: wrap;   
     justify-content: left;
@@ -125,10 +125,10 @@ label {
     align-items: center;
     border-radius: 1rem;
 }
-.Common h1, .Entertainment h1, .Games h1, .CrossGate h1, .goverment-service h1, .MERL h1, .Study h1{
+.Common h1, .Entertainment h1, .Games h1, .CrossGate h1, .public-service h1, .Study h1{
     flex: 1 1 100%;
 }
-.Common li , .Entertainment li , .Games li, .CrossGate li, .goverment-service li, .MERL li, .Study li {
+.Common li , .Entertainment li , .Games li, .CrossGate li, .public-service li, .Study li {
     display: flex;
     flex-wrap: wrap;   
     flex: 1 1 32%;
@@ -140,18 +140,18 @@ label {
     margin: 0.5rem;
 }
 
-.Common p, .Entertainment p , .Games p, .CrossGate p, .goverment-service p, .MERL p, .Study p{
+.Common p, .Entertainment p , .Games p, .CrossGate p, .public-service p, .Study p{
     flex: 1 1 100%;
     /* font-style: italic; */
     font-weight: bold;
     margin: 6px 3px;
     color: #aaa;
 }
-.Common a, .Entertainment a, .Games a, .CrossGate a, .goverment-service a, .MERL a, .Study a{
+.Common a, .Entertainment a, .Games a, .CrossGate a, .public-service a, .Study a{
     flex: 1 1 25%;
     margin: 1rem 1rem;
 }
-.Common li:nth-child(-n+2) , .Entertainment li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2), .goverment-service li:nth-child(-n+2), .MERL li:nth-child(-n+2), .Study li:nth-child(-n+2){
+.Common li:nth-child(-n+2) , .Entertainment li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2), .public-service li:nth-child(-n+2), .Study li:nth-child(-n+2){
     display: inline-block;
     flex: 1 1 100%;
     padding: 1rem 0px;
@@ -177,13 +177,11 @@ label {
     /* 午夜蓝 */
     background-color: #03257E;
 }
-.goverment-service li {
+.public-service li {
     /* Devil Red */
     background-color: #860111;
 }
-.MERL li {
-    background-color: #00A86B;
-}
+
 .Study li {
     /* chocolate color */
     /* background-color: #5C3317; */
@@ -191,7 +189,10 @@ label {
     background-color: #603811;
 }
 
-
+.Academics li {
+    /* 常春藤绿 */
+    background-color: #225922;
+}
 
 
 /* .boxLast a:visited {
