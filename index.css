@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .searcher form input:nth-child(1), .Common form input:nth-child(1)  {
-    width: 70%;
+    width: 65%;
 }
 /* .searcher form input:nth-child(2) {
     flex: 1 1 20%;
@@ -187,17 +187,7 @@ label {
 
 
 
-/* .box2, .box3, .box4, .box5, .box6, .boxLast {
-    width: 960px;
-    margin: 0 auto;
-    line-height: 2em;
 
-} */
-
-/* .box2 a, .box3 a, .box4 a, .box5 a, .box6 a{
-    color: #fff;
-    text-decoration: none;
-} */
 /* .boxLast a:visited {
     color: blue;
 } */
@@ -209,9 +199,6 @@ label {
 .totop a{
     color: #EE7621;
 } */
-
-
-
 
 
 /* a.indented-link { */
