@@ -21,7 +21,7 @@ body {
     color: #ffce2e;
     background-color:#000;
     margin: 0 auto;
-    line-height: 2em;
+    /* line-height: 2em; */
 }
 .box, .box1, .box2, .box3, .box4, .box5, .box6, .boxLast {
     width: 960px;
