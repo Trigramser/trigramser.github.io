@@ -7,16 +7,56 @@
 
     <title>Research</title>
     <!-- <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/indexdark.css"> -->
-    <link rel="stylesheet" type="text/css" href="indexdark.css">
-    <style>
 
-    </style>
+    <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/normalize.css">
+    <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/research.css"> 
+    <link rel="stylesheet" type="text/css" href="research.css">
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            let userAgent = navigator.userAgent.toLowerCase()
+            let mobile_device =  /ipad|iphone|midp|rv:1.2.3.4|ucweb|android|windows ce|windows mobile/
+            let tablet_device = /ipad|playbook|silk/
 
-    
+            // 这一段注释的是直接用新的css。发现目前可以不用新的，直接添加修改就可以了
+            // let link = document.createElement('link')
+            // link.rel = 'stylesheet'
+            // if (mobile_device.test(userAgent)) {
+            //     // link.href = "https://trigramser.github.io/index_mobile.css"
+            //     link.href = "index_mobile.css"
+            // } else if (tablet_device.test(userAgent)) {
+            //     link.href = "https://trigramser.github.io/index.css"
+            // } else {
+            //     // link.href = "https://trigramser.github.io/index.css"
+            //     link.href = "index.css"
+            // }
+            // document.head.appendChild(link)
+
+            let htmlElement = document.documentElement;
+            if (mobile_device.test(userAgent))  {
+                htmlElement.style.fontSize = '35px';
+            } else {
+                htmlElement.style.fontSize = '10px';
+            }
+        })
+
+    </script>
+
 </head>
 <body>
+    <div class="header-bar">
+        <div class="header-bar-middle">
+            <a href="#TOP">TOP</a>
+            <a href="#Biology">Biology</a>
+            <a href="#Bioinformatics">Bioinformatics</a>
+            <a href="#ComputerScience">Computer Science</a>
+            <a href="#ArtificialIntelligence">Artificial Intelligence</a>
+            <a href="#Finance">Finance</a>
+            <a href="#"></a>
+        </div>
+    </div>
+
     <div class="box">
-    <h1>Resourse <a href="top"></a> </h1>
+    <h1>Resourse</a> </h1>
         <div class="searcher">
         <form method="POST" action="https://sci-hub.wf/" target="_blank"> <a href="https://sci-hub.wf/" target="_blank">SCI-hub</a>&nbsp;&nbsp;
 <!--             <input type="hidden" id="sci-hub-plugin-check" name="sci-hub-plugin-check" value=""> -->
@@ -47,27 +87,9 @@
     <br>
 
     <div class="box">
-    <hr/>
-        <p>Biology： <a href="#BioDatabase">BioDatabase</a> | <a href="#Journal">Journal</a> | <a href="#Papers">Papers</a> |<a href="#WeChat">WeChat</a> | <a href="#Blog">Blog</a> | <a href="#Vlog">Vlog</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-        <p>Project： <a href="#根据项目">根据项目</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#单细胞癌症进化">单细胞癌症进化</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-
-    <hr/>
-        <p>Bioinformatics: <a href="#Bioinformatics">Bioinformatics</a> | <a href="#Biopython">Biopython</a> | <a href="#Scanpy">Scanpy</a> | <a href="#lifelines">lifelines</a> | <a href="#GSEApy">GSEApy</a> | <a href="#igraph">igraph</a> | <a href="#bioconvert">bioconvert</a> | <a href="#MyGene">MyGene</a> | <a href="#ETEtoolkit">ETEtoolkit</a> | <a href="#生物信息数据挖掘">生物信息数据挖掘</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-        <p>DNA: <a href="#Bulk DNA">Bulk DNA</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-        <p>RNA: <a href="#Bulk RNA">Bulk RNA</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-        <p>Radiomics: <a href="#Radiomics">Radiomics</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-
-    <hr/>
-        <p>Computer Science： <a href="#Computer Science">Computer Science</a> | <a href="#Web Crawler">Web Crawler</a> | <a href="#抢券">抢券</a> | <a href="#自动游戏">自动游戏</a> | <a href="#"></a> | </p>| <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-        <p>Office Software： <a href="#Office Software">Office Software</a> | <a href="#Word">Word</a> | <a href="#Excel">Excel</a> | <a href="#PPT">PPT</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-        <p>Development Tools： <a href="#Sublime Text">Sublime Text</a> | <a href="#VS code">VS code</a> | <a href="#PPT">PPT</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-        <p>Full Stack Develop： <a href="#Full Stack Develop">Full Stack Develop</a> | <a href="#Full Stack Develop"></a> | <a href="#Hyper Text Markup Language: html">Hyper Text Markup Language: html</a> | <a href="#Cascading Style Sheets: CSS">Cascading Style Sheets: CSS</a> | <a href="#Java Script">Java Script</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-        <p>Pythons： <a href="#Python">Python</a> | <a href="#Anaconda">Anaconda</a> | <a href="#pygame">pygame</a> | <a href="#numpy">numpy</a> | <a href="#pandas">pandas</a> |<a href="#matplotlib">matplotlib</a> | <a href="#seaborn">seaborn</a> | <a href="#plotnine">plotnine</a> | <a href="#scipy">scipy</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-        <p>Machine Learning: <a href="#Machine Learning">Machine Learning</a> | <a href="#AI app">AI app</a> | <a href="#AI training platform">AI training platform</a> | <a href="#scikit-learn">scikit-learn</a> | <a href="#PyTorch">PyTorch</a> | <a href="#CNN">CNN</a> | <a href="#RNN">RNN</a> | <a href="#LSTM">LSTM</a> | <a href="#GAN">GAN</a> | <a href="#DQN">DQN</a> | <a href="#GA">GA</a> | <a href="#GNN">GNN</a> | <a href="#Transformer">Transformer</a> | <a href="#Informer">Informer</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
-
-
-    <hr/>
-        <p>Finance: <a href="#Finance">Finance</a> | <a href="#A-share">A-share</a> | <a href="#"></a> | <a href="#"></a> | </p>
+        <hr id = 'Biology' />
+            <p>Biology： <a href="#BioDatabase">BioDatabase</a> | <a href="#Journal">Journal</a> | <a href="#Papers">Papers</a> |<a href="#WeChat">WeChat</a> | <a href="#Blog">Blog</a> | <a href="#Vlog">Vlog</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
+            <p>Project： <a href="#根据项目">根据项目</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#单细胞癌症进化">单细胞癌症进化</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
 
     </div>
 
@@ -832,6 +854,15 @@
     <div class="totop" >
         <a href="#top">Back to top</a>
     </div>
+
+    
+    <hr id = 'Bioinformatics' />
+        <p>Bioinformatics:  <a href="#Biopython">Biopython</a> | <a href="#Scanpy">Scanpy</a> | <a href="#lifelines">lifelines</a> | <a href="#GSEApy">GSEApy</a> | <a href="#igraph">igraph</a> | <a href="#bioconvert">bioconvert</a> | <a href="#MyGene">MyGene</a> | <a href="#ETEtoolkit">ETEtoolkit</a> | <a href="#生物信息数据挖掘">生物信息数据挖掘</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
+        <p>DNA: <a href="#Bulk DNA">Bulk DNA</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
+        <p>RNA: <a href="#Bulk RNA">Bulk RNA</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
+        <p>Radiomics: <a href="#Radiomics">Radiomics</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
+
+        
     <h1><a href="" target="_blank"></a>Bioinformatics</h1>
         <p><a href="" target="_blank"></a>：
             <a href="" target="_blank"></a> |
@@ -1270,10 +1301,18 @@
 
 
     <div class="box">
-    <hr id="Computer Science"/>
+    <hr id="ComputerScience"/>
     <div class="totop" >
         <a href="#top">Back to top</a>
     </div>
+
+    <hr id = 'ComputerScience' />
+    <p>Computer Science：<a href="#Web Crawler">Web Crawler</a> | <a href="#抢券">抢券</a> | <a href="#自动游戏">自动游戏</a> | <a href="#"></a> | </p>| <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
+    <p>Office Software： <a href="#Office Software">Office Software</a> | <a href="#Word">Word</a> | <a href="#Excel">Excel</a> | <a href="#PPT">PPT</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
+    <p>Development Tools： <a href="#Sublime Text">Sublime Text</a> | <a href="#VS code">VS code</a> | <a href="#PPT">PPT</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
+    <p>Full Stack Develop： <a href="#Full Stack Develop">Full Stack Develop</a> | <a href="#Full Stack Develop"></a> | <a href="#Hyper Text Markup Language: html">Hyper Text Markup Language: html</a> | <a href="#Cascading Style Sheets: CSS">Cascading Style Sheets: CSS</a> | <a href="#Java Script">Java Script</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
+    <p>Pythons： <a href="#Python">Python</a> | <a href="#Anaconda">Anaconda</a> | <a href="#pygame">pygame</a> | <a href="#numpy">numpy</a> | <a href="#pandas">pandas</a> |<a href="#matplotlib">matplotlib</a> | <a href="#seaborn">seaborn</a> | <a href="#plotnine">plotnine</a> | <a href="#scipy">scipy</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p>
+
     <h1>Computer Science</h1>
         <p>门户：
             <a href="https://github.com/" target="_blank">GitHub</a> |
@@ -2695,7 +2734,14 @@
             </p>
 
 
+    <div class="box">
+        <hr id="ArtificialIntelligence"/>
+        <div class="totop" >
+            <a href="#top">Back to top</a>
+        </div>
 
+    <hr id = 'ArtificialIntelligence' />
+    <p>Machine Learning: <a href="#Machine Learning">Machine Learning</a> | <a href="#AI app">AI app</a> | <a href="#AI training platform">AI training platform</a> | <a href="#scikit-learn">scikit-learn</a> | <a href="#PyTorch">PyTorch</a> | <a href="#CNN">CNN</a> | <a href="#RNN">RNN</a> | <a href="#LSTM">LSTM</a> | <a href="#GAN">GAN</a> | <a href="#DQN">DQN</a> | <a href="#GA">GA</a> | <a href="#GNN">GNN</a> | <a href="#Transformer">Transformer</a> | <a href="#Informer">Informer</a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | <a href="#"></a> | </p> 
 
     <hr id="Machine Learning"/>
     <div class="totop" >
@@ -3646,6 +3692,10 @@
     <div class="totop" >
         <a href="#top">Back to top</a>
     </div>
+
+    <hr id = 'Finance' />
+        <p>Finance: <a href="#A-share">A-share</a> | <a href="#"></a> | <a href="#"></a> | </p>
+
     <h1>Finance</h1>
         <p>门户：
             <a href="https://www.metatrader5.com/" target="_blank">MetaTrader5</a> | 

@@ -99,7 +99,8 @@
     <div class="slider-footer">
       <p>对人类来说会不会太超前了？</p>
       <ul class="slider-indicator">
-        <li class="active"></li>
+        <!-- <li class="active"></li> -->
+        <li></li>
         <li></li>
         <li></li>
         <li></li>
@@ -138,7 +139,48 @@
     //
     const img = document.querySelector('.slider-wrapper img')
     img.src = sliderData[random].url
+
+    //  修改p
+    const p = document.querySelector('.slider-footer p')
+    p.innerHTML = sliderData[random].title
+
+    //修改背景颜色
+    const footer = document.querySelector('.slider-footer')
+    footer.style.backgroundColor = sliderData[random].color
+
+    //修改小圆点高亮
+    const li = document.querySelector(`.slider-indicator li:nth-child(${random+1})`)
+    li.classList.add('active')
   </script>
+
+  <input type="text" value="电脑">
+  <script>
+    //1 获取元素
+    const uname = document. querySelector('input')
+    //2. 获取值
+    console.log(uname.value) // 注意 innerHTML 得不到表单的内容
+    // 3. 设置表单的值
+    uname.value = '我要买电脑'
+    console.log(uname.type)
+    uname.type = 'password'
+    
+  </script>
+
+<!-- 089 -->
+  <input class="inputcheck"type="checkbox" name="" id="" >
+  <!-- <input type="checkbox" name="" id="" checked> -->
+  <script>
+    //获取
+    const ipt = document.querySelector('.inputcheck')
+    console.log(ipt.checked) 
+    ipt.checked = true
+    console.log(ipt.checked) 
+  </script>
+
+<!-- 090 自定义属性 -->
+<!-- 根据规范必须以 data- 开头。虽然不是强制性的，不过要以规范来。其他的写法也可以 -->
+ <!-- 在DOM对象上一律以dataset对象方式获取 -->
+
 </body>
 
 </html>
