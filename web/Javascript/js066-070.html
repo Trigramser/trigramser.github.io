@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+    <script>
+        // 对象的创建
+        // 1.字面量
+        let obj = {
+            name: '张三',
+            age: 18,
+            sex: '男',
+            // 匿名函数的应用
+            sayHi: function () {
+                console.log('hi')
+            }
+        }
+        console.log(obj.name)
+        console.log(obj['age'])
+        obj.sayHi()
+        console.log(obj)
+        // 如果是不存在的属性
+        console.log(obj.abc)
+        console.log(obj['abc'])
+
+        // 遍历对象
+        for (let key in obj) {
+            console.log(key, obj[key])
+        }
+        
+        // 2.构造函数
+        function Person(name, age, sex) {
+            this.name = name
+            this.age = age
+            this.sex = sex
+            this.sayHi = function () {
+                console.log('hi')
+            }
+        }
+        let p1 = new Person('张三', 18, '男')
+        
+        // 3.工厂模式
+        function createPerson(name, age, sex) {
+            let obj = {}
+            obj.name = name
+            obj.age = age
+            obj.sex = sex
+            obj.sayHi = function () {
+                console.log('hi')
+            }
+            return obj
+        }
+        let p2 = createPerson('张三', 18, '男')
+        
+    </script>
+</html>

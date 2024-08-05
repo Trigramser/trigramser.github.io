@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="box">123</div>
+    <div class="box1">abd</div>
+    <ul>
+        <li>li1</li>
+        <li>li2</li>
+        <li>li3</li>
+    </ul>
+
+    <div class="wrapper">
+        <strong>抽奖</strong>
+        <h1>一等奖：<span id="first">???</span></h1>
+        <h1>二等奖：<span id="second">???</span></h1>
+        <h1>三等奖：<span id="third">???</span></h1>
+    </div>
+    <script>
+        // 081
+        const box = document.querySelector('.box');
+        const li = document.querySelector('ul li:nth-child(2)');
+        const lis = document.querySelectorAll('ul li'); // 获取的是伪数组，没有pop和push。基本和python中的元组一样
+        console.log(li);
+        console.log(lis);
+        // 1.获取元素
+        console.log(box);
+        // 1.获取元素
+        for (let i = 0; i < lis.length; i++) {
+            console.log(lis[i]);
+        }
+
+
+        // 一下获取元素的方式仅作了解，不需要会，看见了知道是什么就行。不要自己应用
+        // 根据id获取元素
+        const box1 = document.getElementById('box1');
+        console.log(box1);
+
+        // 根据类名获取元素
+        const box2 = document.getElementsByClassName('box');
+        console.log(box2);
+        // 根据标签名获取元素
+        const box3 = document.getElementsByTagName('div');
+        console.log(box3);
+
+        // 082
+        console.log(lis[1].innerText)
+        console.log(lis[1].innerHTML)
+        lis[1].innerText = '.innerText: <strong>我只能修改内容，不能识别标签</strong>'
+        lis[2].innerHTML = '.innerHTML: <strong>我能修改内容，也能识别标签</strong>'
+
+        // 082-2
+        
+        // 1/声明数组
+        const personArr = ['张三', '李四', '王五', '赵六', '钱七']
+        const rankArr = ['#first', '#second', '#third']
+        // 2/遍历数组
+        for (let i = 0; i < rankArr.length; i++) {
+
+        // 3/随机数
+        // 3.1 生成0-1之间的随机数
+        const randomNum = Math.random()
+        console.log(randomNum)
+        // 3.2 生成0-4之间的随机数
+        // 2. 先做一等奖
+        // 2.1 随机数 数组的下标
+        const randomIndex = Math.floor(Math.random() * personArr.length)
+        // 2.3 输出
+        const first = document.querySelector(rankArr[i])
+        first.innerHTML = personArr[randomIndex]
+        // 3/删除数组元素
+        personArr.splice(randomIndex, 1)
+        }
+
+    </script>
+</body>
+</html>

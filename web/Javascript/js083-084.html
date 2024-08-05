@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .box {
+        width: 200px;
+        height: 200px;
+        background-color: red;
+    }
+</style>
+<body>
+    <img src="./images/1.webp" alt="">
+    <script>
+        // 获取图片元素
+        const img = document.querySelector('img')
+        // 修改照片对象的属性
+        img.src = './images/2.webp'
+        img.title = 'zhao pian'
+
+    </script>
+
+    <div class="box"></div>
+    <script>
+        // 修改样式
+        const box = document.querySelector('.box')
+        box.style.width = '300px'
+        box.style.height = '500px'
+        box.style.backgroundColor = 'blue'
+        box.style.border = '2px solid yellow'
+    </script>
+</body>
+
+</html>

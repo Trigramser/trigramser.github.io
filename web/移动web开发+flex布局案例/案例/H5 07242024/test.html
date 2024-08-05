@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Shadow on Hover for Links with Dark Background</title>
+    <style>
+        body {
+            background-color: #333;
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        a {
+            font-size: 24px;
+            color: #1e90ff;
+            text-decoration: none;
+            transition: text-shadow 0.3s ease;
+        }
+
+        a:hover {
+            text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.8);
+        }
+    </style>
+</head>
+<body>
+    <a href="#">Hover over this link to see the shadow effect.</a>
+</body>
+</html>
