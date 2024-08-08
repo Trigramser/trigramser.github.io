@@ -1,0 +1,116 @@
+李伟兴 09:31:13
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .box {
+      position: relative;
+      width: 1000px;
+      height: 200px;
+      background-color: pink;
+      margin: 100px auto;
+      text-align: center;
+      font-size: 50px;
+      line-height: 200px;
+      font-weight: 700;
+    }
+
+    .box1 {
+      position: absolute;
+      right: 20px;
+      top: 10px;
+      width: 20px;
+      height: 20px;
+      background-color: skyblue;
+      text-align: center;
+      line-height: 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        .box {
+            width: 600px;
+            margin: 50px auto;
+            display: flex;
+            font-size: 25px;
+            line-height: 40px;
+        }
+
+        .qs {
+
+            width: 450px;
+            height: 40px;
+            color: red;
+
+        }
+
+        .btns {
+            text-align: center;
+        }
+
+        .btns button {
+            width: 120px;
+            height: 35px;
+            margin: 0 50px;
+        }
+    </style>
+
+</head>
+
+<body>
+  <div class="box">
+    我是广告
+    <div class="box1">X</div>
+  </div>
+  <script>
+    // 1. 获取事件源
+    const box1 = document.querySelector('.box1')
+    //  关闭的是大盒子
+    const box = document.querySelector('.box')
+    // 2. 事件侦听
+    box1.addEventListener('click', function () {
+      box.style.display = 'none'
+    })
+  </script>
+
+   <!-- 095 -->
+    <h2>随机点名</h2>
+    <div class="box">
+        <span>名字是：</span>
+        <div class="qs">这里显示姓名</div>
+    </div>
+    <div class="btns">
+        <button class="start">开始</button>
+        <button class="end">结束</button>
+    </div>
+
+    <script>
+        // 数据数组
+        const arr = ['马超', '黄忠', '赵云', '关羽', '张飞']
+
+
+    </script>
+</body>
+
+</html>
+
+
+
+
