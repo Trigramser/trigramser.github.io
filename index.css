@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 .searcher {
     /* width: 100%; */
     /* max-width: 90%; */
-    margin: 1rem 0;
+    margin: 2rem 0;
     /* padding-left: 4rem; */
 }
 .searcher form {
@@ -117,7 +117,9 @@ label {
     color: #FFD700;
 }
 
-
+.head-hr {
+    margin-bottom: 2rem;
+}
 .Common, .Entertainment, .Games, .CrossGate, .public-service, .Study, .Academics, .bilibili, .YouTube {
     display: flex;
     flex-wrap: wrap;   
