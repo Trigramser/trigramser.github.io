@@ -91,7 +91,8 @@ label {
 
 .header-bar {
     display: flex;
-    position: fixed;
+    /* position: fixed; */
+    position: block;
     width: 100%;
     top:0;
     left: 50%;
