@@ -197,7 +197,7 @@ label {
 .Academics li {
     /* 常春藤绿 */
     background-color: #225922;
-    scroll-margin-top: 4.3rem; /* 设置偏移，避免遮挡 */
+    scroll-margin-top: 4.5rem; /* 设置偏移，避免遮挡 */
 }
 .Academics li:nth-child(2) a{
     /* 木色 */
@@ -215,7 +215,7 @@ label {
     background-color: #D25B7B;
 }
 .bilibili li p {
-    scroll-margin-top: 4.3rem; /* 设置偏移，避免遮挡 */
+    scroll-margin-top: 4.5rem; /* 设置偏移，避免遮挡 */
 }
 .bilibili li:nth-child(2) a{
     color: #00A0E4;
@@ -225,7 +225,7 @@ label {
     background-color: #E96589;
 }
 .YouTube li p {
-    scroll-margin-top: 4.3rem; /* 设置偏移，避免遮挡 */
+    scroll-margin-top: 4.5rem; /* 设置偏移，避免遮挡 */
 }
 .YouTube li:nth-child(2) a{
     color: #00A0E4;
