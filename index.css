@@ -88,6 +88,9 @@ label {
     margin-left: 1rem
 }
 
+header {
+    margin: 0rem, 3rem;
+}
 
 .header-bar {
     display: flex;
