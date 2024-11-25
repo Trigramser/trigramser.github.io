@@ -61,11 +61,22 @@
         <form method="POST" action="https://sci-hub.wf/" target="_blank"> <a href="https://sci-hub.wf/" target="_blank">SCI-hub</a>&nbsp;&nbsp;
 <!--             <input type="hidden" id="sci-hub-plugin-check" name="sci-hub-plugin-check" value=""> -->
             <input type="search" name="request" size=60 placeholder="enter URL, PMID / DOI or search string" autocomplete="off" autofocus><input type="submit" value="SCI-hub">
-            </form>
+        </form>
+        <br/>
+        <!-- <form action="https://scholar.google.com/scholar" method="get" target="_blank">
+            <input type="text" name="q" placeholder="Search scholarly articles...">
+            <br>
+            <button type="submit">Search</button>
+        </form> -->
+
+        <form action="https://scholar.google.com/scholar" target="_blank"><a href="https://scholar.google.com/" target="_blank">Google Scholar</a>&nbsp;&nbsp;
+            <input type="search" name="q" data-skip-ie-scroll-to-top="" data-replace-term-with-exact="" data-exact-query="" size=60 placeholder="Google Scholar" autocomplete="off" class="term-input" id="id_term"/><input type="submit" value="Google Scholar">
+        </form>
         <br/>
         <form action="https://pubmed.ncbi.nlm.nih.gov/" target="_blank"><a href="http://www.ncbi.nlm.nih.gov/pubmed/" target="_blank">PubMed</a>&nbsp;&nbsp;
             <input type="search" name="term" data-skip-ie-scroll-to-top="" data-replace-term-with-exact="" data-exact-query="" size=60 placeholder="PubMed" autocomplete="off" class="term-input" id="id_term"/><input type="submit" value="PubMed">
-            </form>
+        </form>
+
         </div>
 
     <p>Literature Search：
