@@ -14,21 +14,27 @@
         <li>li3</li>
     </ul>
 
+
+    
     <div class="wrapper">
         <strong>抽奖</strong>
         <h1>一等奖：<span id="first">???</span></h1>
         <h1>二等奖：<span id="second">???</span></h1>
         <h1>三等奖：<span id="third">???</span></h1>
     </div>
+
+
+
     <script>
         // 081
         const box = document.querySelector('.box');
         const li = document.querySelector('ul li:nth-child(2)');
         const lis = document.querySelectorAll('ul li'); // 获取的是伪数组，没有pop和push。基本和python中的元组一样
+        console.log(box);
         console.log(li);
         console.log(lis);
         // 1.获取元素
-        console.log(box);
+
         // 1.获取元素
         for (let i = 0; i < lis.length; i++) {
             console.log(lis[i]);

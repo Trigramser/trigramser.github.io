@@ -1,3 +1,6 @@
+html {
+    font-size: 10px;
+}
 h1 {
     color: orange;
 }
@@ -8,19 +11,18 @@ p {
     font-size: 20px;
     font-family: "仿宋"; */
     /*font 的综合写法，这里就是按照上面的顺序横着写*/
-    /* font:italic bold 20px  "仿宋"; */
+    /* font:italic bold 2rem "仿宋"; */
     /* 前两个可以没有，但是必须有font-size和family */
-    font: 20px  "仿宋";
+    font: normal normal 2rem /3rem "仿宋";
     color: blue;
-    line-height: 25px;
-    letter-spacing: 2px;
-    word-spacing: 10px;
-    text-indent: 2em;
-    text-shadow: 5px 5px 2px rbga(0, 0, 0, 0.5);
+    letter-spacing: 0.1rem;
+    /* word-spacing: 2rem; */
+    text-indent: 4.3rem;
+    text-shadow: 1rem 1rem 0.2rem rgba(0, 0, 0, 0.5);
 }
 
 .qian {
-    font: 20px  "楷体";
+    font: 2rem "楷体";
     color: red;
 }
 

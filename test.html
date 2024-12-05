@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    html {
+    font-size: 10px;
+    }
+
+    h1 {
+        font: italic bold 5rem /20rem "Time New Roman";
+        text-shadow: 4rem 4rem 0.4rem rgba(0, 0, 0, 1);
+        display: inline;
+        background-color: pink;
+    }
+    a[title] {
+        color:red;
+    }
+    a[title$="sina"] {
+        color:plum;
+    }
+    .backg {
+        height: 40rem;
+        background: #777 url(ddd.JPG) -20rem -20rem /50rem no-repeat ;
+        /* background-image: url(D:\Zesktop\Picture\ddd.JPG); */
+    }
+    p::first-letter {
+        color:green;
+    }
+</style>
+</head>
+<body>
+
+    <h1>
+        森罗万象
+    </h1>
+    <a href="#" title="我是一个百度">百度</a>
+    <a href="#" title="I'm sina">sina</a>
+    <a href="#">sohu</a>
+    <a href="#">tudo</a>
+    <input type="text">
+    <input type="text">
+    <input type="submit">
+    <input type="submit">
+    <p>森罗万象hello world</p>
+    <div class="backg">
+    </div>
+</body>
+</html>

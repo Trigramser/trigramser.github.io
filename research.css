@@ -121,7 +121,7 @@ label {
     margin-bottom: 2rem;
 }
 .category, .Entertainment, .Games, .CrossGate, .public-service, .Study, .Academics, .bilibili, .YouTube {
-    display: flex;
+    /* display: flex; */
     flex-wrap: wrap;   
     justify-content: left;
     align-content: left;
@@ -132,7 +132,7 @@ label {
     flex: 1 1 100%;
 }
 .category li , .Entertainment li , .Games li, .CrossGate li, .public-service li, .Study li , .Academics li, .bilibili li, .YouTube li {
-    display: flex;
+    /* display: flex; */
     flex-wrap: wrap;   
     flex: 1 1 32%;
     align-content: left;

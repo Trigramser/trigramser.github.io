@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>播放音乐</h1>
+    <audio id="audioPlayer" src="cgbgm_m1.wav" controls></audio>
+    <button onclick="playMusic()">播放</button>
+    <button onclick="pauseMusic()">暂停</button>
+
+    <script>
+        const audio = document.querySelector('#audioPlayer')
+
+        function playMusic() {
+            audio.play() // 播放音乐
+        }
+
+        function pauseMusic() {
+            audio.pause() // 暂停音乐
+        }
+    </script>
+</body>
+</html>
