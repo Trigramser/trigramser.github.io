@@ -134,9 +134,9 @@ label {
     flex: 1 1 100%;
 }
 .General li , .Entertainment li , .Games li, .CrossGate li, .public-service li, .Study li , .Academics li, .bilibili li, .YouTube li {
-    display: flex;
+    /* display: flex; */
     flex-wrap: wrap;   
-    flex: 1 1 32%;
+    flex: 1 1 100%;
     align-content: left;
     align-items: center;
     text-align: left;
@@ -146,14 +146,15 @@ label {
 }
 
 .General p, .Entertainment p , .Games p, .CrossGate p, .public-service p, .Study p, .Academics p, .bilibili p, .YouTube p{
-    flex: 1 1 100%;
+    /* flex: 1 1 100%; */
     /* font-style: italic; */
     font-weight: bold;
     margin: 6px 3px;
     color: #aaa;
 }
 .General a, .Entertainment a, .Games a, .CrossGate a, .public-service a, .Study a, .Academics a, .bilibili a, .YouTube a{
-    flex: 1 1 25%;
+    /* flex: 1 1 5%; */
+    display: inline-block;
     margin: 1rem 1rem;
 }
 .General li:nth-child(-n+2) , .Entertainment li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2), .public-service li:nth-child(-n+2), .Study li:nth-child(-n+2) , .Academics li:nth-child(-n+3), .bilibili li:nth-child(-n+3) , .YouTube li:nth-child(-n+3) {
@@ -169,6 +170,20 @@ label {
     /* 午夜蓝 */
     /* background-color: #03257E; */
 }
+
+.General li a {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #0042AA;
+    /* 午夜蓝 */
+    /* background-color: #03257E; */
+}
+.General li a:hover {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #1F62CA;
+    /* 午夜蓝 */
+    /* background-color: #03257E; */
+}
+
 .Entertainment li {
     /* 鸽血红 */
     /* background-color: #B03060; */
