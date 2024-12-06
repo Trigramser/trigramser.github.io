@@ -28,8 +28,8 @@ a {
 
 a:hover {
     /* color: #CD2626; */
-    color:#4AC3E9;
-    text-shadow: 1px 1px 2px rgba(255, 255, 255, .5);
+    /* color:#4AC3E9; */
+    /* text-shadow: 1px 1px 2px rgba(255, 255, 255, .5); */
 }
 
 div {
@@ -163,6 +163,11 @@ label {
     padding: 1rem 0px;
 } 
 
+li a {
+    padding: 0 1rem;
+    border-radius: 1rem;
+    box-shadow: 0rem 0rem 0.5rem -0.1rem;
+}
 
 .General li {
     /* 皇家蓝 柯尼什蓝 */
@@ -170,18 +175,10 @@ label {
     /* 午夜蓝 */
     /* background-color: #03257E; */
 }
-
-.General li a {
-    /* 皇家蓝 柯尼什蓝 */
-    background-color: #0042AA;
-    /* 午夜蓝 */
-    /* background-color: #03257E; */
-}
 .General li a:hover {
     /* 皇家蓝 柯尼什蓝 */
-    background-color: #1F62CA;
-    /* 午夜蓝 */
-    /* background-color: #03257E; */
+    background-color: #4F92FA;
+    color: #000;
 }
 
 .Entertainment li {
@@ -190,16 +187,39 @@ label {
     /* google红 */
     background-color: #B53C16;
 }
+.Entertainment li a:hover {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #F57C56;
+    color: #000;
+}
+
 .Games li {
     background-color: #9966CC;
 }
+.Games li a:hover {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #C9A6FC;
+    color: #000;
+}
+
 .CrossGate li {
     /* 午夜蓝 */
     background-color: #03257E;
 }
+.CrossGate li a:hover {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #5395EE;
+    color: #000;
+}
+
 .public-service li {
     /* Devil Red */
     background-color: #860111;
+}
+.public-service li a:hover {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #B64151;
+    color: #000;
 }
 
 .Study li {
@@ -207,6 +227,11 @@ label {
     /* background-color: #5C3317; */
     /* coffee color */
     background-color: #603811;
+}
+.Study li a:hover {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #A07851;
+    color: #000;
 }
 
 .Academics li {
@@ -220,15 +245,26 @@ label {
     /* 海南黄花梨 */
     color: #CD853F;
 }
+.Academics li a:hover {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #62B962;
+    color: #000;
+}
 
 .bilibili li {
     /* bili pink */
-    background-color: #E96589;
+    /* background-color: #E96589; */
     /* bili pink 80% */
-    background-color: #BA516E;
+    /* background-color: #BA516E; */
     /* bili pink 90% */
     background-color: #D25B7B;
 }
+.bilibili li a:hover {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #F29BBB;
+    color: #000;
+}
+
 .bilibili li p {
     scroll-margin-top: 4.5rem; /* 设置偏移，避免遮挡 */
 }
@@ -237,7 +273,12 @@ label {
 }
 
 .YouTube li {
-    background-color: #E96589;
+    background-color: #D25B7B;
+}
+.YouTube li a:hover {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #F29BBB;
+    color: #000;
 }
 .YouTube li p {
     scroll-margin-top: 4.5rem; /* 设置偏移，避免遮挡 */
