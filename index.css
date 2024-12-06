@@ -183,7 +183,6 @@ li a {
     /* background-color: #03257E; */
 }
 .General li a:hover {
-    /* 皇家蓝 柯尼什蓝 */
     background-color: #4F92FA;
     color: #000;
 }
@@ -195,7 +194,6 @@ li a {
     background-color: #B53C16;
 }
 .Entertainment li a:hover {
-    /* 皇家蓝 柯尼什蓝 */
     background-color: #F57C56;
     color: #000;
 }
@@ -204,7 +202,6 @@ li a {
     background-color: #9966CC;
 }
 .Games li a:hover {
-    /* 皇家蓝 柯尼什蓝 */
     background-color: #C9A6FC;
     color: #000;
 }
@@ -214,7 +211,6 @@ li a {
     background-color: #03257E;
 }
 .CrossGate li a:hover {
-    /* 皇家蓝 柯尼什蓝 */
     background-color: #5395EE;
     color: #000;
 }
@@ -224,7 +220,6 @@ li a {
     background-color: #860111;
 }
 .public-service li a:hover {
-    /* 皇家蓝 柯尼什蓝 */
     background-color: #B64151;
     color: #000;
 }
@@ -236,8 +231,8 @@ li a {
     background-color: #603811;
 }
 .Study li a:hover {
-    /* 皇家蓝 柯尼什蓝 */
     background-color: #A07851;
+    color: #000;
 }
 
 .Academics li {
@@ -246,15 +241,16 @@ li a {
     scroll-margin-top: 4.5rem; /* 设置偏移，避免遮挡 */
 }
 .Academics li:nth-child(2) a{
-    /* 木色 */
-    /* color: #B5651D; */
     /* 海南黄花梨 */
     color: #CD853F;
 }
 .Academics li a:hover {
-    /* 皇家蓝 柯尼什蓝 */
     background-color: #62B962;
     color: #000;
+}
+.Academics li:nth-child(2) a:hover{
+    /* 海南黄花梨 */
+    color: #CD853F;
 }
 
 .bilibili li {
@@ -266,7 +262,6 @@ li a {
     background-color: #D25B7B;
 }
 .bilibili li a:hover {
-    /* 皇家蓝 柯尼什蓝 */
     background-color: #F29BBB;
     color: #000;
 }
@@ -282,7 +277,6 @@ li a {
     background-color: #D25B7B;
 }
 .YouTube li a:hover {
-    /* 皇家蓝 柯尼什蓝 */
     background-color: #F29BBB;
     color: #000;
 }
