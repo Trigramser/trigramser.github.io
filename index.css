@@ -132,9 +132,6 @@ label {
     margin-bottom: 2rem;
 }
 
-<ul class="Games" id="Games">
-<h1>Games</h1>
-<li>
 
 .General, .Entertainment, .Games, .CrossGate, .public-service, .Study, .Academics, .bilibili, .YouTube {
     display: flex;
@@ -160,7 +157,9 @@ label {
     margin: 0.5rem;
     scroll-margin-top: 3.9rem; 
 }
-
+ul h2{
+    scroll-margin-top: 5rem; 
+}
 .General p, .Entertainment p , .Games p, .CrossGate p, .public-service p, .Study p, .Academics p, .bilibili p, .YouTube p{
     /* flex: 1 1 100%; */
     /* font-style: italic; */
