@@ -44,9 +44,12 @@ ul {
 
 
 h1, h2, h3, h4, h5, h6 {
-    color: #777;
+    color: #FFD700;
 }
-
+h4 {
+    padding: 0rem;
+    margin: 0.4rem 1rem 0rem;
+}
 .searcher {
     /* width: 100%; */
     /* max-width: 90%; */
@@ -116,7 +119,7 @@ label {
     margin: 0rem 1rem;
     /* gold color */
     color: #FFD700;
-    padding: 0.3rem 1rem;
+    padding: 0.2rem 1rem;
     border-radius: 1rem;
     box-shadow: 0rem 0rem 0.5rem -0.1rem;
 }
@@ -128,6 +131,11 @@ label {
 .head-hr {
     margin-bottom: 2rem;
 }
+
+<ul class="Games" id="Games">
+<h1>Games</h1>
+<li>
+
 .General, .Entertainment, .Games, .CrossGate, .public-service, .Study, .Academics, .bilibili, .YouTube {
     display: flex;
     flex-wrap: wrap;   
@@ -150,6 +158,7 @@ label {
     color: #fff;
     border-radius: 1rem;
     margin: 0.5rem;
+    scroll-margin-top: 3.9rem; 
 }
 
 .General p, .Entertainment p , .Games p, .CrossGate p, .public-service p, .Study p, .Academics p, .bilibili p, .YouTube p{
