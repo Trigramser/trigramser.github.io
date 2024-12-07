@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>体脂计算器</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>体脂率计算器</h1>
+    <form id="bodyFatForm">
+      <label for="gender">性别:</label>
+      <select id="gender" required>
+        <option value="male">男性</option>
+        <option value="female">女性</option>
+      </select>
+      
+      <label for="age">年龄 (岁):</label>
+      <input type="number" id="age" min="10" max="120" required>
+
+      <label for="height">身高 (cm):</label>
+      <input type="number" id="height" min="50" max="250" required>
+
+      <label for="weight">体重 (kg):</label>
+      <input type="number" id="weight" min="20" max="200" required>
+
+      <label for="waist">腰围 (cm):</label>
+      <input type="number" id="waist" min="30" max="150" required>
+
+      <label for="neck">颈围 (cm):</label>
+      <input type="number" id="neck" min="20" max="60" required>
+
+      <div id="hipInput" style="display: none;">
+        <label for="hip">臀围 (cm):</label>
+        <input type="number" id="hip" min="50" max="200">
+      </div>
+
+      <button type="submit">计算体脂率</button>
+    </form>
+    <div id="result"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

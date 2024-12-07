@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>计时器</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 50px;
+    }
+    #timer {
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+    button {
+      font-size: 1em;
+      padding: 10px 20px;
+      margin: 5px;
+      cursor: pointer;
+      border: none;
+      border-radius: 5px;
+    }
+    button:hover {
+      opacity: 0.9;
+    }
+    .start {
+      background-color: #4CAF50;
+      color: white;
+    }
+    .pause {
+      background-color: #FF9800;
+      color: white;
+    }
+    .reset {
+      background-color: #F44336;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div id="timer">00:00:00:000</div>
+  <button class="start" onclick="startTimer()">开始</button>
+  <button class="pause" onclick="pauseTimer()">暂停</button>
+  <button class="reset" onclick="resetTimer()">重置</button>
+
+  <script>
+    let startTime = 0;       // 记录起始时间
+    let elapsedTime = 0;     // 记录已经运行的时间
+    let timerInterval;       // 定时器的引用
+
+    // 格式化时间显示
+    function formatTime(milliseconds) {
+      const hours = Math.floor(milliseconds / 3600000);
+      const minutes = Math.floor((milliseconds % 3600000) / 60000);
+      const seconds = Math.floor((milliseconds % 60000) / 1000);
+      const millis = milliseconds % 1000;
+
+      return `${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}:${String(millis).padStart(3, '0')}`;
+    }
+
+    // 更新计时器显示
+    function updateTimer() {
+      const currentTime = Date.now();
+      const difference = elapsedTime + (currentTime - startTime);
+      document.getElementById('timer').textContent = formatTime(difference);
+    }
+
+    // 开始计时
+    function startTimer() {
+      if (!timerInterval) {
+        startTime = Date.now();
+        timerInterval = setInterval(updateTimer, 10); // 每 10 毫秒更新一次
+      }
+    }
+
+    // 暂停计时
+    function pauseTimer() {
+      if (timerInterval) {
+        elapsedTime += Date.now() - startTime;
+        clearInterval(timerInterval);
+        timerInterval = null;
+      }
+    }
+
+    // 重置计时
+    function resetTimer() {
+      clearInterval(timerInterval);
+      timerInterval = null;
+      startTime = 0;
+      elapsedTime = 0;
+      document.getElementById('timer').textContent = "00:00:00:000";
+    }
+  </script>
+</body>
+</html>
