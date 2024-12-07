@@ -1,6 +1,6 @@
-html {
+/* html {
     font-size: 10px;
-}
+} */
 body {
     font-size: 1.6rem;
     /* width: 960px; */
@@ -133,7 +133,7 @@ label {
 }
 
 
-.General, .Entertainment, .Games, .CrossGate, .public-service, .Study, .Academics, .bilibili, .YouTube {
+.General, .Recreation, .Games, .CrossGate, .public-service, .Study, .Academics, .bilibili, .YouTube {
     display: flex;
     flex-wrap: wrap;   
     justify-content: left;
@@ -142,10 +142,10 @@ label {
     border-radius: 1rem;
     scroll-margin-top: 2rem; /* 设置偏移，避免遮挡 */
 }
-.General h1, .Entertainment h1, .Games h1, .CrossGate h1, .public-service h1, .Study h1, .Academics h1, .bilibili h1, .YouTube h1{
+.General h1, .Recreation h1, .Games h1, .CrossGate h1, .public-service h1, .Study h1, .Academics h1, .bilibili h1, .YouTube h1{
     flex: 1 1 100%;
 }
-.General li , .Entertainment li , .Games li, .CrossGate li, .public-service li, .Study li , .Academics li, .bilibili li, .YouTube li {
+.General li , .Recreation li , .Games li, .CrossGate li, .public-service li, .Study li , .Academics li, .bilibili li, .YouTube li {
     /* display: flex; */
     flex-wrap: wrap;   
     flex: 1 1 100%;
@@ -161,19 +161,19 @@ ul h2{
     scroll-margin-top: 5rem; 
 }
 
-.General p, .Entertainment p , .Games p, .CrossGate p, .public-service p, .Study p, .Academics p, .bilibili p, .YouTube p{
+.General p, .Recreation p , .Games p, .CrossGate p, .public-service p, .Study p, .Academics p, .bilibili p, .YouTube p{
     /* flex: 1 1 100%; */
     /* font-style: italic; */
     font-weight: bold;
     margin: 6px 3px;
     color: #aaa;
 }
-.General a, .Entertainment a, .Games a, .CrossGate a, .public-service a, .Study a, .Academics a, .bilibili a, .YouTube a{
+.General a, .Recreation a, .Games a, .CrossGate a, .public-service a, .Study a, .Academics a, .bilibili a, .YouTube a{
     /* flex: 1 1 5%; */
     display: inline-block;
     margin: 1rem 1rem;
 }
-.General li:nth-child(-n+2) , .Entertainment li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2), .public-service li:nth-child(-n+2), .Study li:nth-child(-n+2) , .Academics li:nth-child(-n+3), .bilibili li:nth-child(-n+3) , .YouTube li:nth-child(-n+3) {
+.General li:nth-child(-n+2) , .Recreation li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2), .public-service li:nth-child(-n+2), .Study li:nth-child(-n+2) , .Academics li:nth-child(-n+3), .bilibili li:nth-child(-n+3) , .YouTube li:nth-child(-n+3) {
     display: inline-block;
     flex: 1 1 100%;
     padding: 1rem 0px;
@@ -199,13 +199,13 @@ li a:hover  {
 
 }
 
-.Entertainment li {
+.Recreation li {
     /* 鸽血红 */
     /* background-color: #B03060; */
     /* google红 */
     background-color: #B53C16;
 }
-.Entertainment li a:hover {
+.Recreation li a:hover {
     background-color: #F57C56;
 }
 

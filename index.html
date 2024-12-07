@@ -4,33 +4,11 @@
     <meta charset="UTF-8">
     <meta name="keywords" content="persanal web bookmarks">
     <meta name="description" content="multiple websides">
-    <script src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
-    <title>Gpage</title>
-    <!-- <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/indexdark.css"> -->
-
-    <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/normalize.css">
-    <!-- <link rel="stylesheet" type="text/css" href="normalize.css"> -->
-    <!-- <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/index.css">  -->
-    <link rel="stylesheet" type="text/css" href="index.css">
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             let userAgent = navigator.userAgent.toLowerCase()
             let mobile_device =  /ipad|iphone|midp|rv:1.2.3.4|ucweb|android|windows ce|windows mobile/
             let tablet_device = /ipad|playbook|silk/
-
-            // 这一段注释的是直接用新的css。发现目前可以不用新的，直接添加修改就可以了
-            // let link = document.createElement('link')
-            // link.rel = 'stylesheet'
-            // if (mobile_device.test(userAgent)) {
-            //     // link.href = "https://trigramser.github.io/index_mobile.css"
-            //     link.href = "index_mobile.css"
-            // } else if (tablet_device.test(userAgent)) {
-            //     link.href = "https://trigramser.github.io/index.css"
-            // } else {
-            //     // link.href = "https://trigramser.github.io/index.css"
-            //     link.href = "index.css"
-            // }
-            // document.head.appendChild(link)
 
             let htmlElement = document.documentElement;
             if (mobile_device.test(userAgent))  {
@@ -39,8 +17,13 @@
                 htmlElement.style.fontSize = '10px';
             }
         })
-
     </script>
+
+    <title>Gpage</title>
+    <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/normalize.css">
+    <!-- <link rel="stylesheet" type="text/css" href="normalize.css"> -->
+    <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/index.css"> 
+    <link rel="stylesheet" type="text/css" href="index.css">
 
 </head>
 
@@ -49,7 +32,7 @@
         <div class="header-bar-middle">
             <a href="#TOP">TOP</a>
             <a href="#General">General</a>
-            <a href="#Entertainment">Entertainment</a>
+            <a href="#Recreation">Recreation</a>
             <a href="#Games">Games</a>
             <a href="#public-service">Service</a>
             <a href="#Study">Study</a>
@@ -58,116 +41,6 @@
             <a href="#YouTube+">YouTube+</a>
         </div>
     </div>
-    <div style="opacity: 0;width: 0;height: 0;display: none">
-        <script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=1279827890&web_id=1279827890"></script>
-    </div>
-    <header>
-        <div  class="w1190">
-            <div class="topBar clearfix">
-                <div class="centerBox clearfix">
-                    <a target="_blank" href="https://www.baidu.com/s?word=%E5%A4%A9%E6%B0%94" class="aWeather">
-                        <div class="weatherBox">
-                            <!--                        <div id="tp-weather-widget"></div>-->
-                            <!--                        <script>-->
-                            <!--                            (function(a,h,g,f,e,d,c,b){b=function(){d=h.createElement(g);c=h.getElementsByTagName(g)[0];d.src=e;d.charset="utf-8";d.async=1;c.parentNode.insertBefore(d,c)};a["SeniverseWeatherWidgetObject"]=f;a[f]||(a[f]=function(){(a[f].q=a[f].q||[]).push(arguments)});a[f].l=+new Date();if(a.attachEvent){a.attachEvent("onload",b)}else{a.addEventListener("load",b,false)}}(window,document,"script","SeniverseWeatherWidget","//cdn.sencdn.com/widget2/static/js/bundle.js?t="+parseInt((new Date().getTime() / 100000000).toString(),10)));-->
-                            <!--                            window.SeniverseWeatherWidget('show', {-->
-                            <!--                                flavor: "slim",-->
-                            <!--                                location: "WX4FBXXFKE4F",-->
-                            <!--                                geolocation: true,-->
-                            <!--                                language: "zh-Hans",-->
-                            <!--                                unit: "c",-->
-                            <!--                                theme: "auto",-->
-                            <!--                                token: "3c60d946-d69a-44e7-a26c-1b5e351d9659",-->
-                            <!--                                hover: "disabled",-->
-                            <!--                                container: "tp-weather-widget"-->
-                            <!--                            })-->
-                            <!--                        </script>-->
-<!--                            <div id="weather-v2-plugin-standard"></div>-->
-<!--                            <script>-->
-<!--                                WIDGET = {-->
-<!--                                    CONFIG: {-->
-<!--                                        "layout": 1,-->
-<!--                                        "width": "360",-->
-<!--                                        "height": "68",-->
-<!--                                        "background": 5,-->
-<!--                                        "dataColor": "4A4A4A",-->
-<!--                                        "borderRadius": 5,-->
-<!--                                        "key": "ZHLYzOeE8S"-->
-<!--                                    }-->
-<!--                                }-->
-<!--                            </script>-->
-<!--                            <script src="https://apip.weatherdt.com/standard/static/js/weather-standard-common.js?v=2.0"></script>-->
-                            <div id="he-plugin-standard"></div>
-                            <script>
-                            WIDGET = {
-                                "CONFIG": {
-                                "layout": "1",
-                                "width": "400",
-                                "height": "100",
-                                "background": "5",
-                                "dataColor": "4A4A4A",
-                                "borderRadius": 5,
-                                "key": "5473773441244b18a6d4a72bc3c0eef7"
-                                }
-                            }
-                            </script>
-                            <script src="https://widget.qweather.net/standard/static/js/he-standard-common.js?v=2.0"></script>
-                        </div>
-                    </a>
-
-                    <div class="dateBox">
-                        <div class="dateRow">
-                            <span><a target="_blank"  id="date-yy-mm" href="https://www.baidu.com/s?wd=%E6%97%A5%E5%8E%86"></a></span>
-                            <span><a target="_blank"  id="date-nl" href="https://www.baidu.com/s?wd=%E6%97%A5%E5%8E%86"></a></span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-    <script>
-        $(document).ready(function(){
-            var date=new Date()
-            var yy=date.getFullYear();
-            var mm=date.getMonth()+1;
-            var dd=date.getDate();
-            var week=date.getDay()
-            var weeks=['星期日','星期一','星期二','星期三','星期四','星期五','星期六']
-            $("#date-yy-mm").text(date.getMonth()+1+'月'+date.getDate()+'日')
-            $("#date-nl").text(lunarFun.formatLunarDate(...lunarFun.gregorianToLunal(yy, mm, dd)))
-            $("#date-week").text(weeks[week])
-    
-        });
-        var tqTimer=setInterval(function () {
-            if( $(".wv-lt-refresh").length>0){
-                $(".wv-lt-refresh").remove()
-                clearInterval(tqTimer)
-            }
-        },50)
-        var qhTimer=setInterval(function () {
-            if(  $(".wv-lt-location a").length>0){
-                $(".wv-lt-location a").remove()
-                clearInterval(qhTimer)
-            }
-        },50)
-        var tqzlTimer=setInterval(function () {
-            if(  $(".wv-f-forecast-aqi-2").length>0){
-                $(".wv-f-forecast-aqi-2").hide()
-                $(".wv-f-forecast-aqi-3").hide()
-                clearInterval(tqzlTimer)
-            }
-        },50)
-        var noRainTimer=setInterval(function () {
-        if(  $(".wv-n-h-now-rain").length>0){
-            $(".wv-n-h-now-rain").hide()
-            clearInterval(noRainTimer)
-        }
-        },50)
-    
-        // $(".bgDiv").click(function (e) {
-        //     console.log(e)
-        // })
-    </script>
 
     <div class="searcher">
     <h1>hello world! <a href="top"></a> </h1>
@@ -464,9 +337,9 @@
         </li>
     </ul>
 
-    <!-- <hr class="head-hr" id="Entertainment"/> -->
-    <ul class="Entertainment" id="Entertainment">
-        <h1>Entertainment</h1>
+    <!-- <hr class="head-hr" id="Recreation"/> -->
+    <ul class="Recreation" id="Recreation">
+        <h1>Recreation</h1>
         <li>
             <a href="https://www.amazon.com/" target="_blank">amazon</a>
             <a href="https://www.target.com/" target="_blank">Target</a>
@@ -641,6 +514,20 @@
             <a href="" target="_blank"></a>
         </li>
         <li>
+            <h4>编程游戏: </h4>
+            <a href="https://www.codingame.com/start" target="_blank" title="一边玩游戏，一边学编程，支持Python、C、JavaScript等20多种编程语言在内">Coding Games</a>
+            <a href="https://codecombat.163.com/play" target="_blank" title="跟网易有合作的中文在线网页编程游戏，中文名为极客战记。平台有6个等级和11个学习模块(含国际等级证书) ，支持Python, C++、JavaScript等程序语言教学和学习。">CodeCombat</a>
+            <a href="https://screeps.com/" target="_blank" title="Screeps 是一款 MMORTS （大型多人在线即时战略游戏）。支持javaScripts、java、python、c++等语言，但是使用js会让你获得最好的游戏体验。">Screeps</a>
+            <a href="https://checkio.org/" target="_blank" title="这是一款基于浏览器的网页游戏，你需要使用Python或JavaScript来解决问题（需要登录）">Checkio</a>
+            <a href="https://vim-adventures.com/" target="_blank" title="顾名思义，这个网站是让你通过玩游戏的方式来学习Vim">Vim Adventures</a>
+            <a href="https://www.codewars.com/" target="_blank" title="在战斗中学习，和其他人一起在真实的编程挑战中提升技巧，该网站包含C、Java、Python等超过20多种编程语言等着你来学习、挑战">Codewars</a>
+            <a href="https://www.hacker.org/" target="_blank" title="这是通过一些列的拼图、敲砖块、测试和智力题来提升你的黑客技术。你需要学会解密、编码、渗透等等技能，揭开重重迷雾">Hacker</a>
+            <a href="http://rubyquiz.com/" target="_blank" title="这是一个面向Ruby程序员的每周编程挑战项目，目前拥有156个测验项目">Ruby Quiz</a>
+            <a href="https://app.codemonkey.com/challenges/0" target="_blank" title="以游戏闯关的方式进行教学，总共有300多个关卡，涉及到编程的各种概念">Code Monkey</a>
+            <a href="http://play.elevatorsaga.com/" target="_blank" title="电梯编程游戏，需要一步步解决问题来过关">Elevator Saga</a> 
+            <a href="" target="_blank"></a>
+        </li>
+        <li>
             <h4>游戏下载：</h4>
             <a href="https://www.52pjb.net/xiazai/34430.html" target="_blank">街机游戏合集2000合一</a>
             <a href="http://fc.gaojiupan.cn/" target="_blank">雪饮nes下载</a>
@@ -701,7 +588,6 @@
         </li>
         <li>
             <h4>B站视频：</h4>
-            <a href="https://www.bilibili.com/video/BV1Jm4y1R7xM" target="_blank">学编程不枯燥,越玩越上头</a>
             <a href="https://www.bilibili.com/video/BV1qb411P7MF" target="_blank">彼处水如酒</a>
             <a href="https://www.bilibili.com/video/BV12J411J7hM" target="_blank">任天堂是最烂的游戏公司</a>
             <a href="https://www.bilibili.com/video/BV1Zf4y1S7se" target="_blank">魂斗罗竟暗藏恐怖彩蛋</a>
@@ -2100,6 +1986,7 @@
             <a href="https://www.bilibili.com/video/BV1yM4y1K7pZ" target="_blank">昔情难追</a>
             <a href="https://www.bilibili.com/video/BV1t3UrY4EXc" target="_blank">TVB经典武侠剧配乐解析</a>
             <a href="https://www.bilibili.com/video/BV1mS4y187YR" target="_blank">神话情话</a>
+            <a href="https://www.bilibili.com/video/BV1tL411p7h1" target="_blank">【倩女幽魂3道道道】配乐《金佛喋血/佛光初现》</a>
             <h5>Jazz</h5>
             <a href="https://www.bilibili.com/video/BV1ZD4y187Hc" target="_blank">𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩 · 黄昏迷醉 ♫ 蓝调微醺 </a>
             <a href="https://www.bilibili.com/video/BV1Xp4y1P7vd" target="_blank"> 西海岸落日酒馆｜无人声冷爵士</a>
