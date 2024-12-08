@@ -1,15 +1,14 @@
-/* html {
+html {
     font-size: 10px;
-} */
+}
+
 body {
     font-size: 1.6rem;
-    /* width: 960px; */
-    width: 1440px;
+    width: 100%;
     padding-top: 6rem;
     line-height: 2.5rem;
-    /* max-width: 540px;
+    max-width: 1440px;
     min-width: 320px;
-    height: 2000px; */
     margin: 0 auto;
     /* font: normal 14px/1.5 Tahoma, "Lucida Grande", Verdana, "Microsoft Yahei", STXihei, hei; */
     background: #000;
