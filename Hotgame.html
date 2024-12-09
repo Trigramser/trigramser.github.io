@@ -444,34 +444,34 @@
 
 
 
-            function slowScrollToView(element, duration = 2000) {
-                const targetPosition = element.getBoundingClientRect().top + window.scrollY; // 获取目标位置
-                const startPosition = window.scrollY; // 当前滚动位置
-                const startTime = performance.now(); // 记录开始时间
+            // function slowScrollToView(element, duration = 2000) {
+            //     const targetPosition = element.getBoundingClientRect().top + window.scrollY; // 获取目标位置
+            //     const startPosition = window.scrollY; // 当前滚动位置
+            //     const startTime = performance.now(); // 记录开始时间
 
-                function animate(currentTime) {
-                    const elapsedTime = currentTime - startTime; // 已过时间
-                    const progress = Math.min(elapsedTime / duration, 1); // 进度范围 [0, 1]
-                    const ease = progress * (2 - progress); // 缓动公式（可调整）
+            //     function animate(currentTime) {
+            //         const elapsedTime = currentTime - startTime; // 已过时间
+            //         const progress = Math.min(elapsedTime / duration, 1); // 进度范围 [0, 1]
+            //         const ease = progress * (2 - progress); // 缓动公式（可调整）
 
-                    window.scrollTo(0, startPosition + (targetPosition - startPosition) * ease); // 平滑滚动
+            //         window.scrollTo(0, startPosition + (targetPosition - startPosition) * ease); // 平滑滚动
 
-                    if (progress < 1) {
-                    requestAnimationFrame(animate); // 继续动画
-                    }
-                }
+            //         if (progress < 1) {
+            //         requestAnimationFrame(animate); // 继续动画
+            //         }
+            //     }
 
-                requestAnimationFrame(animate); // 启动动画
-                }
+            //     requestAnimationFrame(animate); // 启动动画
+            //     }
 
-            // 使用示例
-            slowScrollToView(event.target.parentNode, 3000);// 滚动到目标元素，耗时 3 秒
+            // // 使用示例
+            // slowScrollToView(event.target.parentNode, 3000);// 滚动到目标元素，耗时 3 秒
 
 
-            // event.target.parentNode.scrollIntoView({
-            // top: event.target.parentNode.scrollHeight, // 容器总高度
-            // behavior: "smooth", // 平滑滚动
-            // });
+            event.target.parentNode.scrollIntoView({
+            top: event.target.parentNode.scrollHeight, // 容器总高度
+            behavior: "smooth", // 平滑滚动
+            });
         }
 
         function next(event) {
