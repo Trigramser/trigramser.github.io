@@ -52,6 +52,7 @@
         /* } */
 
         div {
+            overflow: hidden; /* 触发 BFC 阻止外边距合并 */
             margin: 0 auto;
             box-sizing: border-box;
             border-radius: 2rem;
@@ -72,20 +73,35 @@
             border-radius: 2rem;
         }
         h1, h2, h3, h4, h5, h6 {
+            margin: 3rem;
+            text-align: center; 
             color: #FFF;
         }
 
         h2.winner {
             color: #FFD700;
+
+        }
+        h2 {
+            font-size: 3rem;
         }
 
         .pipeline, .player {
             width: 96%;
             background-color: green;
-            margin: 3rem 0;
+            margin: 3rem 2rem;
         }
         .pipeline {
             height: 30rem;
+        }
+        form.selections {
+            margin: auto;
+            text-align: center; 
+        }
+        form label {
+            font-size: 2rem;
+            margin: 2rem 2rem ;
+            color: white;
         }
         .player {
             display: flex;
@@ -111,6 +127,7 @@
         }
         .male li, .female li{
             /* flex: 100%; */
+            overflow: hidden; /* 触发 BFC 阻止外边距合并 */
             height: 20rem;
             margin: 3rem 0rem;
         }
@@ -172,7 +189,7 @@
         <button onclick="start(event)" id="start-button">START</button>
     </div>
     <!-- <div class="player top-part">
-        <h1>hello</h1>
+        <h2>hello</h2>
     </div>
     <div class="player middle-part">
         <ul class="male first">
@@ -199,31 +216,7 @@
     <script>
         let playerDict
         let GAVEL  
-        function createNext() {
-            const divNext = document.createElement("div")
-            divNext.classList.add("pipeline", "next")
-            document.body.appendChild(divNext)
-
-            const h21 = document.createElement("h2")
-            h21.innerHTML = "The winner of this round is"
-            divNext.appendChild(h21)
-
-            const h22 = document.createElement("h2")
-            h22.classList.add("winner")
-            h22.innerHTML = "XXX"
-            divNext.appendChild(h22)
-
-            const h23 = document.createElement("h2")
-            h21.innerHTML = "Let's take it one step deeper!!"
-            divNext.appendChild(h23)
-
-            const buttonNext = document.createElement("button")
-            buttonNext.innerHTML = "START NEXT STAGE"
-            divNext.appendChild(buttonNext)
-            buttonNext.onclick = (event) => next(event)
-        }
-
-
+ 
         function start(event, level=false) {
             event.target.disabled = true
                         // 获取选中值
@@ -242,7 +235,7 @@
 
             const h2Top =  document.createElement("h2")
             divTop.appendChild(h2Top)
-            firstgender = firstplayer < 0.5 ? "boy" : "girl"
+            firstgender = firstplayer < 0.5 ? "Boy" : "Girl"
             h2Top.innerHTML = `${firstgender} play first`
 
             // middle-part
@@ -345,7 +338,7 @@
                         ], 
                     female:[
                         "给对方倒一杯水，喂其喝",
-                        "牵手进行游戏1次",
+                        "拉手进行游戏1次",
                         ], 
                     }, 
                 // 4. 有较多的接触
@@ -359,7 +352,7 @@
                         "为对方按摩手掌5下",
                         ], 
                     female:[
-                        "牵手进行游戏2次", 
+                        "拉手进行游戏2次", 
                         "由对方脱掉一件衣服", 
                         ], 
                     }, 
@@ -426,16 +419,14 @@
                         "亲吻对方的屁股", 
                         "接吻5秒钟", 
                         "被对方抚摸一下私处", 
-
                         ], 
                     male:[
                         "亲吻她的乳头", 
                         "Suck her breasts for 30 seconds: ",
                         "Massage her breasts and kiss her back for 30 seconds: ", 
-
-
                         ], 
                     female:[
+                        "亲吻对方的胸膛",
                         "被他按摩胸部", 
 
                         ],
@@ -458,8 +449,7 @@
                     }, 
                 eleventh:{
                     general:[
-                        "Oral sex with each other for 30 seconds: ", 
-
+                        "Oral sex with each other for 30 seconds", 
                         ], 
                     male:[
                         "Cunnilingus for 30 seconds: ",
@@ -507,6 +497,63 @@
 
             }
 
+
+        function createNext() {
+            levelDict = {
+                first:1, 
+                second:2, 
+                third:3, 
+                fourth:4, 
+                fifth:5, 
+                sixth:6, 
+                seventh:7, 
+                eighth:8, 
+                ninth:9, 
+                tenth:10 ,
+                eleventh:11,
+                twelfth:12,
+            }
+
+            levelList = [
+                "first", 
+                "second", 
+                "third", 
+                "fourth", 
+                "fifth", 
+                "sixth", 
+                "seventh", 
+                "eighth", 
+                "ninth", 
+                "tenth", 
+                "eleventh",
+                "twelfth",
+            ]
+            GAVEL = levelList[levelDict[GAVEL]]
+            
+            const divNext = document.createElement("div")
+            divNext.classList.add("pipeline", "next")
+            document.body.appendChild(divNext)
+
+            const h21 = document.createElement("h2")
+            h21.innerHTML = "The winner of this round is"
+            divNext.appendChild(h21)
+
+            const h22 = document.createElement("h2")
+            h22.classList.add("winner")
+            h22.innerHTML = `Level: ${GAVEL}`
+            divNext.appendChild(h22)
+
+            const h23 = document.createElement("h2")
+            h21.innerHTML = "Let's take it one step deeper!!"
+            divNext.appendChild(h23)
+
+            const buttonNext = document.createElement("button")
+            buttonNext.innerHTML = "START NEXT STAGE"
+            divNext.appendChild(buttonNext)
+            // buttonNext.onclick = (event) => next(event)
+            buttonNext.onclick = (event) => start(event, GAVEL)
+        }
+
         function play(event, gender, level='first') {
             // const preButton = document.querySelector(".bottom-part button[disabled]")
             const preButton = event.target.parentNode.querySelector("button[disabled]")
@@ -520,9 +567,9 @@
             ul.appendChild(li)
             // const player = new Player(gender, level)
             const game = playerDict[gender].randomGame()
-            const h4 = document.createElement("h4")
-            h4.innerHTML = game
-            li.appendChild(h4)
+            const h2 = document.createElement("h2")
+            h2.innerHTML = game
+            li.appendChild(h2)
 
             // 获胜项目
             winItems = {
@@ -533,10 +580,10 @@
                 fifth:"拥抱3秒钟",
                 sixth:"亲吻对方双肩",
                 seventh:"亲吻对方脸颊",
-                eighth:"",
-                ninth:"",
-                tenth:"",
-                eleventh:"",
+                eighth:"为对方按摩大腿内测5次",
+                ninth:"接吻5秒钟",
+                tenth:"用口为对方喝水",
+                eleventh:"Oral sex with each other for 30 seconds",
                 twelfth:"",
             }
             if (game == winItems[level]) {playerDict[gender].count[level]++}
@@ -547,9 +594,12 @@
             if (playerDict[gender].winning) {
                 preButton.disabled = true
                 createNext()
-                const h4Win = document.createElement("h4")
-                h4Win.innerHTML = "than YOU WIN!!!"
-                li.appendChild(h4Win)
+                const h2then = document.createElement("h2")
+                h2then.innerHTML = "then"
+                li.appendChild(h2then)
+                const h2Win = document.createElement("h2")
+                h2Win.innerHTML = "YOU WIN!!!"
+                li.appendChild(h2Win)
                 // console.log(game)
             }
 
@@ -584,41 +634,6 @@
             behavior: "smooth", // 平滑滚动
             });
         }
-
-        function next(event) {
-            levelDict = {
-                first:1, 
-                second:2, 
-                third:3, 
-                fourth:4, 
-                fifth:5, 
-                sixth:6, 
-                seventh:7, 
-                eighth:8, 
-                ninth:9, 
-                tenth:10 ,
-                eleventh:11,
-                twelfth:12,
-            }
-
-            levelList = [
-                "first", 
-                "second", 
-                "third", 
-                "fourth", 
-                "fifth", 
-                "sixth", 
-                "seventh", 
-                "eighth", 
-                "ninth", 
-                "tenth", 
-                "eleventh",
-                "twelfth",
-            ]
-            GAVEL = levelList[levelDict[GAVEL]]
-            start(event, GAVEL)
-        }
-
     </script>
 </body>
 </html>
