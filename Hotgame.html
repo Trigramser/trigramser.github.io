@@ -284,10 +284,14 @@
                 buttonGirl.disabled = false
             }
             //显示界面移动至下一个
-            event.target.parentNode.scrollIntoView({
-                top: event.target.parentNode.nextElementSibling.scrollHeight, // 容器总高度
+            event.target.scrollIntoView({
+                bottom: event.target.parentNode.nextElementSibling.scrollHeight, // 容器总高度
                 behavior: "smooth", // 平滑滚动
             })
+            // event.target.parentNode.nextElementSibling.nextElementSibling.nextElementSibling.scrollIntoView({
+            //     block: "bottom", //底部对齐到可视区域底部
+            //     behavior: "smooth", // 平滑滚动
+            // })
         }
         function Player(gender, level) {
             this.meta = {
