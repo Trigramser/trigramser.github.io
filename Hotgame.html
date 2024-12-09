@@ -197,6 +197,8 @@
     </div> -->
 
     <script>
+        let playerDict
+        let GAVEL  
         function createNext() {
             const divNext = document.createElement("div")
             divNext.classList.add("pipeline", "next")
@@ -222,12 +224,12 @@
         }
 
 
-        function start(event) {
+        function start(event, level=false) {
             event.target.disabled = true
                         // 获取选中值
             const form = document.querySelector("#selections")
-            const level = form.elements["group1"].value
-
+            // const level = form.elements["group1"].value
+            GAVEL = !level ? form.elements["group1"].value : level
             console.log("添加游戏节点")
             // who will play the game first?
             const firstplayer = Math.random()
@@ -270,11 +272,11 @@
             const buttonBoy = document.createElement("button")
             divBottom.appendChild(buttonBoy)
             buttonBoy.innerHTML = 'BOY PLAY'
-            buttonBoy.onclick = (event) => play(event, 'male', level)
+            buttonBoy.onclick = (event) => play(event, 'male', GAVEL)
             const buttonGirl = document.createElement("button")
             divBottom.appendChild(buttonGirl)
             buttonGirl.innerHTML = 'GIRL PLAY'
-            buttonGirl.onclick = (event) => play(event, 'female', level)
+            buttonGirl.onclick = (event) => play(event, 'female', GAVEL)
             //设置那个按钮可以按那个不可以
             if (firstplayer < 0.5) {
                 buttonBoy.disabled = false
@@ -292,7 +294,13 @@
             //     block: "bottom", //底部对齐到可视区域底部
             //     behavior: "smooth", // 平滑滚动
             // })
+            playerDict = {
+                male:new Player("male", GAVEL), 
+                female: new Player("female", GAVEL),
+            }
+            console.log(playerDict)
         }
+
         function Player(gender, level) {
             this.meta = {
                 // 1.普通的动作，没有接触
@@ -351,7 +359,7 @@
                     general:[
                         "给对方按摩大腿内测5次", 
                         "给对方倒一杯水，相互拥抱喂其喝", 
-                        "拥抱，相互亲吻对方脸颊", 
+                        "拥抱，亲吻对方脸颊", 
                         "坐在腿上拥抱5秒钟, 并脸贴脸", 
                         "牵手直到过关", 
                         "被对方抚摸一下屁股", 
@@ -420,29 +428,61 @@
                     }, 
             }
 
-            this.gamelist = this.meta[level]["general"].concat(this.meta[level][gender])
+            this.gameList = this.meta[level]["general"].concat(this.meta[level][gender])
+            this.randomGame = function () {
+                return this.gameList[Math.floor(Math.random() * this.gameList.length)]
+            }
+            this.count = {
+                first:0,
+                second:0,
+                third:0,
+                fourth:0,
+                fifth:0, 
+                sixth:0,
+                seventh:0,
+            }
+            this.winning = false
 
             }
 
         function play(event, gender, level='first') {
-            const preButton = document.querySelector(".bottom-part button[disabled]")
+            // const preButton = document.querySelector(".bottom-part button[disabled]")
+            const preButton = event.target.parentNode.querySelector("button[disabled]")
             console.log(preButton)
             preButton.disabled = false
             event.target.disabled = true
             //创建li节点，每点一次玩一下
                     // const ul = document.querySelector(`.middle-part .${gender}`) 
-            const ul = event.target.parentNode.previousElementSibling .querySelector(`.middle-part .${gender}`)
+            const ul = event.target.parentNode.previousElementSibling.querySelector(`.middle-part .${gender}`)
             const li = document.createElement('li')
             ul.appendChild(li)
-            const player = new Player(gender, level)
-            const game = player.gamelist[Math.floor(Math.random() * player.gamelist.length)]
-            // const game = "YOU WIN!!"
+            // const player = new Player(gender, level)
+            const game = playerDict[gender].randomGame()
             const h4 = document.createElement("h4")
             h4.innerHTML = game
             li.appendChild(h4)
-            if (game == "YOU WIN!!") {
+
+            // 获胜项目
+            winItems = {
+                first:"学小狗叫6声",
+                second:"拥抱5秒钟",
+                third:"拥抱5秒钟, 并脸贴脸",
+                fourth:"拥抱，亲吻对方脸颊",
+                fifth:"接吻5秒钟",
+                sixth:"Kiss each other for 30 seconds: ",
+                seventh:"Oral sex with each other for 30 seconds: ",
+            }
+            if (game == winItems[level]) {playerDict[gender].count[level]++}
+            if (playerDict[gender].count[level] == 3) {
+                playerDict[gender].winning = true
+            }
+
+            if (playerDict[gender].winning) {
                 preButton.disabled = true
                 createNext()
+                const h4Win = document.createElement("h4")
+                h4Win.innerHTML = "than YOU WIN!!!"
+                li.appendChild(h4Win)
                 // console.log(game)
             }
 
@@ -479,7 +519,27 @@
         }
 
         function next(event) {
-            start(event)
+            levelDict = {
+                first:1, 
+                second:2, 
+                third:3, 
+                fourth:4, 
+                fifth:5, 
+                sixth:6, 
+                seventh:7, 
+            }
+
+            levelList = [
+                "first", 
+                "second", 
+                "third", 
+                "fourth", 
+                "fifth", 
+                "sixth", 
+                "seventh", 
+            ]
+            GAVEL = levelList[levelDict[GAVEL]]
+            start(event, GAVEL)
         }
 
     </script>
