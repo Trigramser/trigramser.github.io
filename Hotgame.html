@@ -84,6 +84,7 @@
         }
         h2 {
             font-size: 3rem;
+            line-height: 4rem;
         }
 
         .pipeline, .player {
@@ -91,9 +92,7 @@
             background-color: green;
             margin: 3rem 2rem;
         }
-        .pipeline {
-            height: 30rem;
-        }
+
         form.selections {
             margin: auto;
             text-align: center; 
@@ -128,7 +127,7 @@
         .male li, .female li{
             /* flex: 100%; */
             overflow: hidden; /* 触发 BFC 阻止外边距合并 */
-            height: 20rem;
+            min-height: 15rem;
             margin: 3rem 0rem;
         }
         button {
@@ -155,7 +154,7 @@
             background-color: red;
         }
         .second li:nth-child(1){
-            margin-top: 15rem;
+            margin-top: 12rem;
         }
         /* .first li:nth-last-child(2) {
             margin-bottom: 15rem;
@@ -383,7 +382,7 @@
                         ], 
                     female:[
                         "被对方抚摸一下屁股",
-                        "坐在他的腿上拥抱5秒钟", 
+                        "坐在对方腿上拥抱5秒钟", 
                         ], 
                     }, 
                 // 7.很亲密的接触
@@ -393,7 +392,7 @@
 
                         ], 
                     male:[
-                        "亲吻他的背部",
+                        "亲吻对方背部",
 
                         ], 
                     female:[
@@ -602,31 +601,6 @@
                 li.appendChild(h2Win)
                 // console.log(game)
             }
-
-
-
-            // function slowScrollToView(element, duration = 2000) {
-            //     const targetPosition = element.getBoundingClientRect().top + window.scrollY; // 获取目标位置
-            //     const startPosition = window.scrollY; // 当前滚动位置
-            //     const startTime = performance.now(); // 记录开始时间
-
-            //     function animate(currentTime) {
-            //         const elapsedTime = currentTime - startTime; // 已过时间
-            //         const progress = Math.min(elapsedTime / duration, 1); // 进度范围 [0, 1]
-            //         const ease = progress * (2 - progress); // 缓动公式（可调整）
-
-            //         window.scrollTo(0, startPosition + (targetPosition - startPosition) * ease); // 平滑滚动
-
-            //         if (progress < 1) {
-            //         requestAnimationFrame(animate); // 继续动画
-            //         }
-            //     }
-
-            //     requestAnimationFrame(animate); // 启动动画
-            //     }
-
-            // // 使用示例
-            // slowScrollToView(event.target.parentNode, 3000);// 滚动到目标元素，耗时 3 秒
 
 
             event.target.parentNode.scrollIntoView({
