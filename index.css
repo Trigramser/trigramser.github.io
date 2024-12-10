@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
     /* font: normal 14px/1.5 Tahoma, "Lucida Grande", Verdana, "Microsoft Yahei", STXihei, hei; */
     background: #000;
-    overflow-x: hidden;
+    overflow: hidden;
     -webkit-tap-highlight-color: transparent;
 }
 
