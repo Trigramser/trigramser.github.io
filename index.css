@@ -73,7 +73,7 @@ h4 {
     border-radius: 0.5rem;
 }
 
-.searcher form input:nth-child(1), .General form input:nth-child(1)  {
+.searcher form input:nth-child(1), .General form input:nth-child(1), .bilibili form input:nth-child(1),   {
     width: 70%;
 }
 /* .searcher form input:nth-child(2) {
