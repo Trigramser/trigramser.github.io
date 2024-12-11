@@ -87,7 +87,7 @@
             line-height: 4rem;
         }
 
-        .pipeline, .player {
+        .pipeline, .player, .game-stage {
             width: 96%;
             background-color: green;
             margin: 3rem 2rem;
@@ -170,7 +170,13 @@
             margin-right: 10px;
             cursor: pointer;
         }
-
+        .game-stage {
+            position: relative;
+            background-color: pink;
+        }
+        .game-stage h2 {
+            color:#4caf50;
+        }
     </style>
 </head>
 <body>
@@ -187,6 +193,9 @@
         </form>
         <button onclick="start(event)" id="start-button">START</button>
     </div>
+    <!-- <div class="pipeline game-stage">
+        <h2>Level: X</h2>
+    </div> -->
     <!-- <div class="player top-part">
         <h2>hello</h2>
     </div>
@@ -215,7 +224,7 @@
     <script>
         let playerDict
         let GAVEL  
- 
+
         function start(event, level=false) {
             event.target.disabled = true
                         // 获取选中值
@@ -225,12 +234,25 @@
             console.log("添加游戏节点")
             // who will play the game first?
             const firstplayer = Math.random()
+            
+            // game stage create
+            const gameStage =  document.createElement("div")
+            gameStage.classList.add("game-stage")
+            document.body.insertBefore(gameStage, event.target.parentNode.nextSibling)
+            const h2Stage= document.createElement("h2")
+            // h2Stage.classList.add("winner")
+            h2Stage.innerHTML = `Level: ${GAVEL}`
+            gameStage.appendChild(h2Stage)
+  
             // top-part
             const divTop = document.createElement("div")
             divTop.classList.add("player", "top-part")
+                    // 第一个更改
                     // document.body.appendChild(divTop)
                     // document.body.insertBefore(divTop, document.body.children[0].nextSibling)
-            document.body.insertBefore(divTop, event.target.parentNode.nextSibling)
+                    //第二次更改
+            document.body.insertBefore(divTop, gameStage.nextSibling)
+
 
             const h2Top =  document.createElement("h2")
             divTop.appendChild(h2Top)
@@ -290,7 +312,19 @@
                 male:new Player("male", GAVEL), 
                 female: new Player("female", GAVEL),
             }
-            console.log(playerDict)
+
+             // 设置移动方式
+            const originTop = gameStage.offsetTop
+            const stageHeight = gameStage.offsetHeight
+            window.addEventListener('scroll', function () {
+                const divBottom_offsetBottom = divBottom.offsetTop + divBottom.offsetHeight
+                gameStage.style.top = window.scrollY  >= originTop && window.scrollY <  divBottom_offsetBottom  - stageHeight ? `${window.scrollY - originTop}px`: 0
+                gameStage.style.top = window.scrollY >  divBottom_offsetBottom  - stageHeight ? `${divBottom_offsetBottom  - stageHeight}px`: 0
+                // `${window.scrollY - originTop}px`
+
+                console.log(`divBottom_offsetBottom  - stageHeight: ${divBottom_offsetBottom  - stageHeight}`)
+            })
+            
         }
 
         function Player(gender, level) {
