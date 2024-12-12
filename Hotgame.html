@@ -224,6 +224,14 @@
     <script>
         let playerDict
         let GAVEL  
+            
+        // 使用addEventListener绑定键盘按键与按钮事件
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Enter') { // 检查按键是否为Enter
+                // 调用按钮的click事件
+                document.querySelector('#start-button').click()
+            }
+        })
 
         function start(event, level=false) {
             event.target.disabled = true
@@ -287,10 +295,23 @@
             divBottom.appendChild(buttonBoy)
             buttonBoy.innerHTML = 'BOY PLAY'
             buttonBoy.onclick = (event) => play(event, 'male', GAVEL)
+            // 使用addEventListener绑定键盘按键与按钮事件
+            document.addEventListener('keydown', function(event) {
+                if (event.key === 'b') { // 检查按键是否为Enter
+                    // 调用按钮的click事件
+                    buttonBoy.click()
+                }
+            })
             const buttonGirl = document.createElement("button")
             divBottom.appendChild(buttonGirl)
             buttonGirl.innerHTML = 'GIRL PLAY'
             buttonGirl.onclick = (event) => play(event, 'female', GAVEL)
+            document.addEventListener('keydown', function(event) {
+                if (event.key === '9') { // 检查按键是否为Enter
+                    // 调用按钮的click事件
+                    buttonGirl.click()
+                }
+            })
             //设置那个按钮可以按那个不可以
             if (firstplayer < 0.5) {
                 buttonBoy.disabled = false
@@ -319,7 +340,6 @@
             window.addEventListener('scroll', function () {
                 const divBottom_offsetBottom = divBottom.offsetTop + divBottom.offsetHeight
                 gameStage.style.top = window.scrollY  >= originTop && window.scrollY <  divBottom_offsetBottom  - stageHeight ? `${window.scrollY - originTop}px`: gameStage.style.top 
-                console.log(`divBottom_offsetBottom  - stageHeight: ${divBottom_offsetBottom  - stageHeight}`)
             })
             
         }
@@ -582,6 +602,12 @@
             divNext.appendChild(buttonNext)
             // buttonNext.onclick = (event) => next(event)
             buttonNext.onclick = (event) => start(event, GAVEL)
+            document.addEventListener('keydown', function(event) {
+                if (event.key === 'Enter') { // 检查按键是否为Enter
+                    // 调用按钮的click事件
+                    buttonNext.click()
+                }
+            })
         }
 
         function play(event, gender, level='first') {
