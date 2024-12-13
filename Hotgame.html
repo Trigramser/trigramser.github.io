@@ -543,9 +543,11 @@
                 eleventh:0,
                 twelfth:0,
             }
+            this.totalCount = 0
+            this.extraCount = 0
             this.winning = false
 
-            }
+        }
 
 
         function createNext() {
@@ -642,8 +644,12 @@
                 eleventh:"Oral sex with each other for 30 seconds",
                 twelfth:"",
             }
+            playerDict[gender].totalCount ++
             if (game == winItems[level]) {playerDict[gender].count[level]++}
-            if (playerDict[gender].count[level] == 2) {
+            if (playerDict[gender].count[level] * 5 + playerDict[gender].totalCount >= 15) {
+                playerDict[gender].extraCount ++
+            }
+            if (playerDict[gender].extraCount == 3) {
                 playerDict[gender].winning = true
             }
 
