@@ -339,7 +339,8 @@
             const stageHeight = gameStage.offsetHeight
             window.addEventListener('scroll', function () {
                 const divBottom_offsetBottom = divBottom.offsetTop + divBottom.offsetHeight
-                gameStage.style.top = window.scrollY  >= originTop && window.scrollY <  divBottom_offsetBottom  - stageHeight ? `${window.scrollY - originTop}px`: gameStage.style.top 
+                gameStage.style.top = window.scrollY  >= originTop && window.scrollY <  divBottom_offsetBottom  - stageHeight ? `${window.scrollY - originTop}px`: gameStage.style.top
+                gameStage.style.top = window.scrollY  < originTop ? 0 : gameStage.style.top
             })
             
         }
