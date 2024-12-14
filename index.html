@@ -27,13 +27,13 @@
             //     // link.href = "https://trigramser.github.io/index.css"
             //     link.href = "index.css"
             // }
+            // document.head.appendChild(link)
 
-            document.head.appendChild(link)
-            let htmlElement = document.documentElement;
+            let htmlElement = document.documentElement
             if (mobile_device.test(userAgent))  {
-                htmlElement.style.fontSize = '22px';
+                htmlElement.style.fontSize = '22px'
             } else {
-                htmlElement.style.fontSize = '10px';
+                htmlElement.style.fontSize = '10px'
             }
         })
     </script>

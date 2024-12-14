@@ -15,11 +15,11 @@
             let mobile_device =  /ipad|iphone|midp|rv:1.2.3.4|ucweb|android|windows ce|windows mobile/
             let tablet_device = /ipad|playbook|silk/
 
-            let htmlElement = document.documentElement;
+            let htmlElement = document.documentElement
             if (mobile_device.test(userAgent))  {
-                htmlElement.style.fontSize = '22px';
+                htmlElement.style.fontSize = '22px'
             } else {
-                htmlElement.style.fontSize = '10px';
+                htmlElement.style.fontSize = '10px'
             }
         })
     </script>
