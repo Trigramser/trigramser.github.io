@@ -268,7 +268,7 @@ li a:hover  {
     background-color: #F29BBB;
 }
 
-.bilibili li:nth-child(2) a{
+.Games li:nth-child(2) a, .bilibili li:nth-child(2) a{
     color: yellow;
 }
 
