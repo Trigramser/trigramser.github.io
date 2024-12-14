@@ -47,7 +47,7 @@
             <a href="#Games">Games</a>
             <a href="#public-service">Service</a>
             <a href="#Study">Study</a>
-            <a href="#fullStack">FullStack</a>
+            <a href="#Computer">Computer</a>
             <a href="#Academics">Academics</a>
             <a href="#bilibili+">bilibili+</a>
         </div>
@@ -1060,14 +1060,106 @@
         </li>
     </ul>
 
-    <ul class="General" id="fullStack">
-        <h1>Full Stack</h1>
+
+    
+    <!--
+    win 环境配置 
+
+    1、
+     1、下载安装 anaconda
+
+     2、将anaconda设置环境变量
+    win+r 输入：sysdm.cpl -> 高级 -> 环境变量  -> 系统变量 ->Path 中新建添加下列路径：
+    D:\ProgramData\Anaconda3\Scripts
+    D:\ProgramData\Anaconda3
+    添加第一条和第二条：“D:\ProgramData\Anaconda3\Scripts”，第一条保证anaconda设置环境变量配置正常
+                        D:\ProgramData\Anaconda3， 第二条保证命令正常，即添加python为环境变量
+    D:\ProgramData\Anaconda3\Library\mingw-w64\bin
+    D:\ProgramData\Anaconda3\Library\usr\bin
+    D:\ProgramData\Anaconda3\Library\bin
+    
+
+     3、输入“conda list”来查看已经安装的软件：
+
+    　　添加channels
+
+    　　　　conda config --add channels conda-forge
+
+    　　　　conda config --add channels defaults
+
+      　　　 conda config --add channels r
+
+    　　　　conda config --add channels bioconda
+
+    　　查看已经添加的channels：
+
+    　　　　conda config --get channels
+
+
+    2、sublime环境配置：sublime在基于anaconda环境时的配置方法
+      1、sublime使用环境配置文件。（注意，使用anaconda3，必须要做该步骤，否则无法使用sublime 跑python3）
+      2、    Tools->Build system->New Build system...->删除原来的内容，粘贴如下内容，保存文件名为：python3_anaconda.sublime-build 到文件夹C:\Users\chuqianyu\AppData\Roaming\Sublime Text\Packages\User里下次运行的时候在Build with选择使用python_anaconda3即可
+
+        {
+        "cmd": ["D:\\ProgramData\\Anaconda3\\python.exe", "-u", "$file"], # 注意：必须把anaconda3的路径换成你自己的
+        "encoding":"cp936",
+        "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+        "selector": "source.python",
+        "shell": true
+        }
+
+    3、快捷停止键设置
+      1、Preferences -> Key Bindings
+      2、复制下列代码至右侧：
+    [
+        { "keys": ["ctrl+shift+c"], "command": "exec", "args": {"kill": true} }
+    ]
+
+    4、主题设置
+      1、Preferences -> settings
+      2、复制下列代码至右侧（二选一或相互结合均可）：
+    {
+        "color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+        "translate_tabs_to_spaces": true,
+        "draw_white_space": "all",
+        "font_size": 13,
+        "default_encoding": "UTF-8",
+        "theme": "Default.sublime-theme"
+    }
+
+
+    4. subtext4使用快捷方式：
+        ctrl + b 运行程序
+        ctrl + enter  自动重启一行
+        end  行尾 
+        home 行首
+        鼠标直接拖拽文件名到另一个窗口
+        alt + shift 1，2，3，4 进行纵向分屏
+        alt + 1，2，3  在一个窗口切换到不同文件
+        ctrl + / 注释
+        Ctrl+Shift+/ 注释多行。
+        Ctrl+Shift+D 复制光标所在整行，插入到下一行。
+        Shift+Tab 向左缩进。
+        Ctrl+[ 向左缩进。对整行有效
+        Ctrl+] 向右缩进。对整行有效
+
+    5. linux下subtext代码怎么运行(这个里面install相应的支持包是有用的)：
+        https://jingyan.baidu.com/article/f79b7cb3be2b61d044023ed5.html
+
+    6. subtext4下载安装：采用apt方法按人家要求一步一步安装
+        https://www.sublimetext.com/
+        https://www.sublimetext.com/docs/linux_repositories.html#apt
+
+    -->
+
+        
+    <ul class="General" id="Computer">
+        <h1>Computer</h1>
         <li>
             <p>Development Tools</p>
             <a href="#Sublime Text">Sublime Text</a>
             <a href="#VS code">VS code</a>
             <a href="#"></a>
-            
             <p>Full Stack Develop</p>
             <a href="#Full Stack Develop">Full Stack Develop</a>
             <a href="# "></a>
@@ -1077,8 +1169,52 @@
             <a href="#Packages Management">Packages Management</a>
             <a href="#"></a>
             <p></p>
+            <a href="#Web Crawler">Web Crawler</a>
+            <a href="#抢券">抢券</a>
+            <a href="#自动游戏">自动游戏</a>
+            <a href="#"></a>
         </li>
-        
+        <li>
+            <h4>门户</h4>
+            <a href="https://github.com/" target="_blank">GitHub</a>
+            <a href="https://www.runoob.com/" target="_blank">菜鸟教程</a>
+            <a href="https://unbug.github.io/codelf/" target="_blank">codelf</a>
+            <a href="https://about.readthedocs.com/" target="_blank">ReadtheDocs</a> <!-- 很好用，有很多的各类包和软件的使用说明 -->
+            <a href="https://www.codecademy.com/catalog" target="_blank">codecademy</a>
+            <a href="http://www.coderead.cn" target="_blank">源码阅读</a>
+            <a href="https://www.faceplusplus.com.cn/face-beautify/" target="_blank">Face + +</a>
+            <a href="https://www.oschina.net/p/word2vec" target="_blank">word2vec</a>
+            <a href="https://coddy.tech/courses" target="_blank">Coddy</a>
+            <a href="https://leetcode-cn.com/" target="_blank">LeetCode</a>
+            <a href="https://www.nowcoder.com/ta/coding-interviews" target="_blank">牛客网</a>
+            <a href="https://www.jianshu.com/p/53f6bf6f8d50" target="_blank">面试必刷-《剑指offer》刷题小结</a>
+            <a href="http://c.biancheng.net/" target="_blank">C语言中文网</a>
+            <a href="https://space.bilibili.com/19935498/video" target="_blank">C3程序猿 B站</a>
+            <a href="http://www.52c3.com/index.html" target="_blank">C3程序猿</a>
+            <a href="https://www.itprojects.cn/" target="_blank">IT项目网</a>
+            <a href="https://chat-shared1.zhile.io/" target="_blank">chat-shared</a>
+            <a href="https://www.bilibili.com/video/BV1g5411P7Zu" target="_blank">系统分析师视频教程</a>
+            <a href="https://study.163.com/course/introduction.htm?courseId=1209009804" target="_blank">2022年系统架构设计师--免费精讲</a>
+        </li>
+        <li>
+            <h4>GitHub</h4>
+            <a href="https://github.com/" target="_blank">github</a>
+            <a href="https://git-scm.com/downloads" target="_blank">downloads Git</a>
+            <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">Installing-Git</a>
+            <a href="" target="_blank"></a>
+            <a href="https://github.com/github/gitignore" target="_blank">gitignore on Github</a>
+            <a href="https://www.bilibili.com/video/BV1HM411377j" target="_blank">【GeekHour】一小时Git教程</a>
+            <a href="https://www.bilibili.com/video/BV19e4y1q7JJ/" target="_blank">十分钟学会正确的github工作流</a>
+            <a href="" target="_blank"></a>
+        </li>
+        <li>
+            <p>windows 各种修改</p>
+            <a href="https://blog.csdn.net/m0_68997646/article/details/128729581" target="_blank">如何将cmd设置为默认管理员身份运行（详细教程）</a>
+            <a href="https://jingyan.baidu.com/article/c910274bb042558c361d2d9a.html" target="_blank">win10下修改用户文件夹名称</a>
+            <a href="https://zhuanlan.zhihu.com/p/585105175" target="_blank">win11本地账户怎么改名</a>
+            <a href="https://product.pconline.com.cn/itbk/software/dnyw/1563/15636276.html" target="_blank">win10 users文件夹改名方法【步骤详解】</a>
+            <a href="" target="_blank"></a>
+        </li>
         <li id="Sublime Text">
             <h4></a>Sublime Text</h4>
             <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>
@@ -1092,7 +1228,11 @@
             <a href="https://www.bilibili.com/video/BV15z42117KA" target="_blank">CodeGeeX 新功能</a> |
             <a href="" target="_blank"></a> |
         </li>
-
+        <li>
+            <h4>CAPTCHA</h4>
+            <a href="https://captcha.com/bd3/doc/aspnet/howto/net-captcha-configuration.html?cst=bd3config#captcha_session_troubleshooting" target="_blank">BotDetect CAPTCHA</a>
+            <a href="" target="_blank"></a>
+        </li>
         <li id="Full Stack Develop">    
             <h4>Full Stack Develop</h4>
                 <a href="https://gitee.com/jishupang/web_atlas" target="_blank">技术胖 / 前端知识图谱+B站视频整合</a>
@@ -1169,6 +1309,88 @@
             <a href="" target="_blank"></a>
         </li>
 
+        <li id="Web Crawler">
+            <h4>Web Crawler</h4>
+            <a href="https://www.bejson.com/network/useragent_rnd/" target="_blank">在线Useragent随机生成工具</a>
+            <a href="https://www.jianshu.com/p/bd63146e4137" target="_blank">使用chardet探测字符串编码</a>
+        </li>
+
+        <li id="抢券">
+            <h4>抢券</h4>
+            <a href="https://www.bilibili.com/video/BV1Jm41197pP/" target="_blank">【附源码】为什么你抢不到茅台？过年酒桌怎么能少得了茅台！用Python秒杀脚本，准时准点自动抢购茅</a>
+        </li>
+        
+        <li id="自动游戏">
+            <h4>自动游戏</h4>
+                <a href="https://blog.csdn.net/afadasdas/article/details/54318483" target="_blank">Python的自动操作（挂机）脚本相关（一）</a> |
+                <a href="https://blog.csdn.net/zydarChen/article/details/77587967" target="_blank">Python实现自动挂机脚本（基础篇）</a> |
+                <a href="https://blog.csdn.net/lijinbo1983/article/details/81147187" target="_blank">游戏辅助脚本（python）</a> |
+                <a href="https://www.cnblogs.com/lyrichu/p/9124504.html" target="_blank">python PIL 图像处理库简介(一) </a> |
+                <a href="https://blog.csdn.net/qq_16234613/article/details/79155632" target="_blank">python win32api win32gui win32con 窗口句柄 发送消息 常用方法 键盘输入</a> |
+                <a href="https://www.cnblogs.com/dylancao/p/8079230.html" target="_blank"></a> |
+                <a href="https://blog.csdn.net/longgb123/article/details/79090559" target="_blank">pynput控制鼠标键盘</a> |
+                <a href="https://blog.csdn.net/qq_39687901/article/details/84879383" target="_blank">python游戏开发实战:行走系统之地图编辑器</a> |
+                <a href="" target="_blank"></a> |
+            <p>B站视频</p>
+                <a href="https://www.bilibili.com/video/BV1ye411S762/" target="_blank">Python写外挂？我看行！！</a>
+        </li>
+        <li>
+            <h4>bioinformaticsBlogs</h4>
+            <a href="https://github.com/MorvanZhou/tutorials" target="_blank">git MorvanZhou</a> |
+            <a href="https://mofanpy.com/" target="_blank">MorvanZhou</a> |
+            <a href="https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html" target="_blank">cookbook</a> |
+            <a href="https://www.jianshu.com/p/32103afcac1a" target="_blank">Python开发的狗屁不通文章生成器</a> |
+            <a href="https://www.jianshu.com/p/315bf44ba9b5" target="_blank">如何在服务器上跑python程序</a> |
+            <a href="https://blog.csdn.net/haijiege/article/details/79849019" target="_blank">python列出文件夹下所有文件的四个方法</a> |
+            <a href="http://blog.itpub.net/31555081/viewspace-2375554/" target="_blank">12个流行的Python数据可视化库总结</a> |
+            <a href="https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9027380914960338610%22%7D&n_type=0&p_from=1" target="_blank">哈工大硕士生用Python实现11种经典数据降维算法，源代码库已开放</a> |
+            
+            <a href="https://www.bilibili.com/video/BV1vt41127cB" target="_blank">python数据分析与机器学习实战</a> |
+            
+            <a href="https://www.bilibili.com/video/BV1wD4y1o7AS" target="_blank">花了2万多买的Python教程全套，现在分享给大家，入门到精通(Python全栈开发教程)</a> |
+            <a href="https://space.bilibili.com/410704854" target="_blank">自兴人工智能教育</a> |
+            <a href="https://muzihuaner.github.io/" target="_blank">点滴记忆 一个挺不错的主页，很多内容</a> |
+            <a href="https://www.tybai.com/" target="_blank">百哥么么哒</a> |
+            <a href="https://github.com/TTyb" target="_blank">百哥么么哒github</a> |
+            <a href="http://www.tybai.com/crawlerfirst/_%E7%88%AC%E8%99%AB%E6%95%99%E7%A8%8B.html" target="_blank">百哥么么哒 爬虫教程</a> |
+            <a href="https://blog.csdn.net/weixin_42336774/article/details/86556730" target="_blank">通过Github Pages更换csdn个人域名</a> |
+            <a href="" target="_blank"></a> |
+            <a href="" target="_blank"></a> |
+        </li>
+        <li>
+            <p>图片转文字OCR</p>
+            <a href="https://github.com/miaomiaosoft/PandaOCR/releases" target="_blank">PandaOCR</a>
+            <p>C语言</p>
+                <a href="https://blog.csdn.net/qq_39729096/article/details/106216742" target="_blank">uthash</a> 
+            <p>内存结构</p>
+                <a href="https://blog.csdn.net/qq_43515862/article/details/108799001" target="_blank">小数在内存中究竟是如何存储的（C语言代码详细讲解 3）</a>
+                <a href="https://www.jianshu.com/p/a3e80cb5198b" target="_blank">内存五大分区</a>
+            <p>服务器设置</p>
+                <a href="https://natapp.cn/" target="_blank">NATAPP</a>
+                <a href="https://blog.csdn.net/pakerder/article/details/127042985" target="_blank">3306端口被占用解决方式</a>
+                <a href="" target="_blank"></a>
+                
+            <p>blogs</p>
+                <a href="https://mp.weixin.qq.com/s/J8eHDf_jedrZ_p8pl-oXLA" target="_blank">你不好奇 CPU 是如何执行任务的？</a>
+                <a href="https://mp.weixin.qq.com/s/7eTAQiHca09ghO4SV4IPJQ" target="_blank">Bilibili Evolved 油猴插件</a>
+                <a href="https://mp.weixin.qq.com/s/s1vw8lL-jX3KDc-S5Vkscg" target="_blank">1招卸载用不到的系统自带软件（含恢复教程）</a>
+                <a href="https://mp.weixin.qq.com/s/RNzGa47Y7RADfapWSzdLSw" target="_blank">醍醐灌顶！自从有了这个神器，面对浩如烟海的文献不再毫无头绪</a>
+                <a href="https://mp.weixin.qq.com/s/9tmL7eAkF1WbZI8v92NkCQ" target="_blank">论文关系可视化神器</a>
+                <a href="https://mp.weixin.qq.com/s/h53Gx6LWbmQPQlZh6nOi5g" target="_blank">11分杂志推荐这个文献检索神器（干货篇）</a>
+                <a href="https://mp.weixin.qq.com/s/Zjek7hBKlgt3X_LKDtwaMg" target="_blank">上海程序员自编的“购房宝典”在Github上火了！业内人士都惊呆</a>
+                <a href="https://mp.weixin.qq.com/s/c1hC0wXsqjujRwkhuwTN8Q" target="_blank">Github Star全球唯一的国产程序员！Apache 顶级项目Commiter。</a>
+                <a href="https://mp.weixin.qq.com/s/PyHQDss7dA7Zv1cAgCWfmw" target="_blank">C语言实战课-写一个fastq转fasta的程序</a>
+                <a href="https://mp.weixin.qq.com/s/PK0S5BPAgsemzIsh0T3lvQ" target="_blank">只需3行代码自动生成高性能模型，支持4项任务，亚马逊发布开源库AutoGluon</a>
+                
+            <p>Videos</p>
+                <a href="https://www.bilibili.com/video/BV1MJ411W7gw" target="_blank">电脑一万次演算好像只有一秒</a>
+                <a href="https://www.bilibili.com/video/BV1qP411H7Ey" target="_blank">【自动写小说】每天两万字起步</a>
+                <a href="" target="_blank"></a> |
+                            
+            <p>Regular Expression</p>
+                <a href="https://github.com/MorvanZhou/tutorials/blob/master/basic/36_RegEx.py" target="_blank">/MorvanZhou 36_RegEx</a>
+                <a href="https://www.bilibili.com/video/BV1SJ411n7kk?from=search&seid=2065412370770240241" target="_blank">re正则表达式模块</a>
+        </li>
     </ul>
 
     <ul class="Academics" id="Academics">
