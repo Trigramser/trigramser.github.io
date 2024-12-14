@@ -129,10 +129,6 @@ label {
     color: #FFD700;
 }
 
-.head-hr {
-    margin-bottom: 2rem;
-}
-
 
 .General, .Recreation, .Games, .CrossGate, .public-service, .Study, .Academics, .bilibili {
     display: flex;
@@ -196,7 +192,7 @@ li a:hover  {
     /* background-color: #03257E; */
 }
 .General li a:hover {
-    background-color: #4F92FA;
+    background-color: #7fbbfa;
 
 }
 

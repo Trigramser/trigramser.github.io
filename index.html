@@ -15,6 +15,20 @@
             let mobile_device =  /ipad|iphone|midp|rv:1.2.3.4|ucweb|android|windows ce|windows mobile/
             let tablet_device = /ipad|playbook|silk/
 
+            // 这一段注释的是直接用新的css。发现目前可以不用新的，直接添加修改就可以了
+            // let link = document.createElement('link')
+            // link.rel = 'stylesheet'
+            // if (mobile_device.test(userAgent)) {
+            //     // link.href = "https://trigramser.github.io/index_mobile.css"
+            //     link.href = "index_mobile.css"
+            // } else if (tablet_device.test(userAgent)) {
+            //     link.href = "https://trigramser.github.io/index.css"
+            // } else {
+            //     // link.href = "https://trigramser.github.io/index.css"
+            //     link.href = "index.css"
+            // }
+
+            document.head.appendChild(link)
             let htmlElement = document.documentElement;
             if (mobile_device.test(userAgent))  {
                 htmlElement.style.fontSize = '22px';
@@ -2404,9 +2418,8 @@
     </ul>
 
     
-    <hr/>
     <footer>
-        &copy;copyright &nbsp; <a href="mailto:841685876@qq.com">841685876@qq.com</a>
+        &copy;copyright &nbsp; <a href="mailto:@qq.com">@qq.com</a>
     </footer> 
 </body>
 </html>
