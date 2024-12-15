@@ -128,7 +128,7 @@ label {
     color: #FFD700;
 }
 
-.General, .Biology, .Bioinformatics, .Computer-Science, .Artificial-Intelligence, .Finance, .Academics, .bilibili, .YouTube {
+.General, .Biology, .Bioinformatics, .Analysis, .Finance {
     display: flex;
     flex-wrap: wrap;   
     justify-content: left;
@@ -137,10 +137,10 @@ label {
     border-radius: 1rem;
     scroll-margin-top: 2rem; /* 设置偏移，避免遮挡 */
 }
-.General h1, .Biology h1, .Bioinformatics h1, .Computer-Science h1, .Artificial-Intelligence h1, .Finance h1, .Academics h1, .bilibili h1, .YouTube h1{
+.General h1, .Biology h1, .Bioinformatics h1, .Analysis, h1, .Finance h1 {
     flex: 1 1 100%;
 }
-.General li , .Biology li , .Bioinformatics li, .Computer-Science li, .Artificial-Intelligence li, .Finance li , .Academics li, .bilibili li, .YouTube li {
+.General li , .Biology li , .Bioinformatics li, .Analysis li, .Finance li  {
     /* display: flex; */
     flex-wrap: wrap;   
     flex: 1 1 100%;
@@ -156,19 +156,19 @@ ul h2{
     scroll-margin-top: 5rem; 
 }
 
-.General p, .Biology p , .Bioinformatics p, .Computer-Science p, .Artificial-Intelligence p, .Finance p, .Academics p, .bilibili p, .YouTube p{
+.General p, .Biology p , .Bioinformatics p, .Analysis p, .Finance p {
     /* flex: 1 1 100%; */
     /* font-style: italic; */
     font-weight: bold;
     margin: 6px 3px;
     color: #aaa;
 }
-.General a, .Biology a, .Bioinformatics a, .Computer-Science a, .Artificial-Intelligence a, .Finance a, .Academics a, .bilibili a, .YouTube a{
+.General a, .Biology a, .Bioinformatics a,  .Analysis a, .Finance a{
     /* flex: 1 1 25%; */
     display: inline-block;
     margin: 1rem 1rem;
 }
-.General li:nth-child(-n+2) , .Biology li:nth-child(-n+2) , .Bioinformatics li:nth-child(-n+2), .Computer-Science li:nth-child(-n+2), .Artificial-Intelligence li:nth-child(-n+2), .Finance li:nth-child(-n+2) , .Academics li:nth-child(-n+3), .bilibili li:nth-child(-n+3) , .YouTube li:nth-child(-n+3) {
+.General li:nth-child(-n+2) , .Biology li:nth-child(-n+2) , .Bioinformatics li:nth-child(-n+2), .Analysis li:nth-child(-n+2), .Finance li:nth-child(-n+2) , .Academics li:nth-child(-n+3), .bilibili li:nth-child(-n+3) , .YouTube li:nth-child(-n+3) {
     display: inline-block;
     flex: 1 1 100%;
     padding: 1rem 0px;
@@ -212,11 +212,11 @@ li a:hover  {
     background-color: #C9A6FC;
 }
 
-.Computer-Science li {
+.Analysis li {
     /* 午夜蓝 */
     background-color: #03257E;
 }
-.Computer-Science li a:hover {
+.Analysis li a:hover {
     background-color: #5395EE;
 }
 
