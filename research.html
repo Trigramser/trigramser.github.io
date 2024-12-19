@@ -16,8 +16,10 @@
             let tablet_device = /ipad|playbook|silk/
 
             let htmlElement = document.documentElement
+            let bodyElement = document.body
             if (mobile_device.test(userAgent))  {
                 htmlElement.style.fontSize = '22px'
+                bodyElement.style.maxWidth  = '960px'
             } else {
                 htmlElement.style.fontSize = '10px'
             }
