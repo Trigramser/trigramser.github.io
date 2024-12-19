@@ -42,7 +42,7 @@
     <div class="header-bar">  
         <div class="header-bar-middle">
             <a href="#TOP">TOP</a>
-            <a href="#General">General</a>
+            <!-- <a href="#General">General</a> -->
             <a href="#Games">Games</a>
             <a href="#publicService">Service</a>
             <a href="#Study">Study</a>
@@ -52,54 +52,6 @@
         </div>
     </div>
 
-    <div class="searcher">
-        <h1>hello world! <a href="top"></a> </h1>
-        <form action="https://www.baidu.com/s" target="_blank">
-            <input type="search" class="form-control" name="wd" size=60 maxlength=255 autocomplete="off" placeholder="百度" >
-            <input type="submit" value="百度">
-        </form>
-        <form action="https://baike.baidu.com/search" target="_blank">
-            <input type="search" nslog="normal" nslog-type="10080011" name="word" size=60 type="text" autocomplete="off" placeholder="百度百科" autocorrect="off" data-type="search-bar">
-            <input type="submit" value="百度百科">
-        </form>
-        <form method="GET" action="https://www.google.com/search" class="form-group" target="_blank">
-            <input type="search" class="form-control" value="" name=q size=60 maxlength=255 autocomplete="off" placeholder="Google" >
-            <input type="submit" value="Google">
-        </form>
-        <form method="GET" action="https://chrome.google.com/webstore/search" class="form-group" target="_blank">
-            <input type="search" class="form-control" value="" name=q size=60 maxlength=255 autocomplete="off" placeholder="Google webstore" >
-            <input type="submit" value="webstore">
-        </form>
-        <form action="https://www.zhihu.com/search" target="_blank">
-            <input type="search" class="form-control" name="q"  size=60 maxlength=255 autocomplete="off" placeholder="知乎" >
-            <input type="submit" value="知乎">
-            </form>
-        <form action="https://www.jianshu.com/search" target="_blank">
-            <input type="search" class="form-control" name="q"  size=60 maxlength=255 autocomplete="off" placeholder="简书" >
-            <input type="submit" value="简书">
-        </form>
-        <form action="https://en.wikipedia.org/w/index.php" target="_blank">
-            <input type="search" name="search" size=60 autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f">
-            <input type="submit" name="Wikipedia" title="Go to a page with this exact name if it exists" value="Wikipedia">
-        </form>
-
-        <form action="https://simple.wikipedia.org/w/index.php" target="_blank">
-            <input type="search" name="search" size=60 autocomplete="off" placeholder="Search simple.Wikipedia" aria-label="Search simple.Wikipedia" autocapitalize="sentences" title="Search simple.Wikipedia [f]" accesskey="f">
-            <input type="submit" name="simple.Wikipedia" title="Go to a page with this exact name if it exists" value="simple.Wiki">
-        </form>
-    </div>
-
-
-
-    <!--
-
-    windows11右键点击
-    恢复旧版命令：
-    reg.exe add “HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32” /f
-    重新启用新版：
-    reg.exe delete “HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32” /f
-
-    -->
 
     <ul class="General" id="General">
         <h1>General</h1>
@@ -113,7 +65,6 @@
                 <a href="#lightGeneral">Light</a>
                 <a href="#emailGeneral">Email</a>
                 <a href="#mapGeneral">Map</a>
-                <a href="#abroadGeneral">Abroad</a>
                 <a href="#travelGeneral">Travel</a>
                 <a href="#newsGeneral">News</a>
                 <a href="#translateGeneral">Translate</a>
@@ -145,8 +96,43 @@
                 <a href="#"></a>
             </div>
         </li>
+        
+        <div class="searcher">
+            <form action="https://www.baidu.com/s" target="_blank">
+                <input type="search" class="form-control" name="wd" size=60 maxlength=255 autocomplete="off" placeholder="百度" >
+                <input type="submit" value="百度">
+            </form>
+            <form action="https://baike.baidu.com/search" target="_blank">
+                <input type="search" nslog="normal" nslog-type="10080011" name="word" size=60 type="text" autocomplete="off" placeholder="百度百科" autocorrect="off" data-type="search-bar">
+                <input type="submit" value="百度百科">
+            </form>
+            <form method="GET" action="https://www.google.com/search" class="form-group" target="_blank">
+                <input type="search" class="form-control" value="" name=q size=60 maxlength=255 autocomplete="off" placeholder="Google" >
+                <input type="submit" value="Google">
+            </form>
+            <form method="GET" action="https://chrome.google.com/webstore/search" class="form-group" target="_blank">
+                <input type="search" class="form-control" value="" name=q size=60 maxlength=255 autocomplete="off" placeholder="Google webstore" >
+                <input type="submit" value="webstore">
+            </form>
+            <form action="https://www.zhihu.com/search" target="_blank">
+                <input type="search" class="form-control" name="q"  size=60 maxlength=255 autocomplete="off" placeholder="知乎" >
+                <input type="submit" value="知乎">
+                </form>
+            <form action="https://www.jianshu.com/search" target="_blank">
+                <input type="search" class="form-control" name="q"  size=60 maxlength=255 autocomplete="off" placeholder="简书" >
+                <input type="submit" value="简书">
+            </form>
+            <form action="https://en.wikipedia.org/w/index.php" target="_blank">
+                <input type="search" name="search" size=60 autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f">
+                <input type="submit" name="Wikipedia" title="Go to a page with this exact name if it exists" value="Wikipedia">
+            </form>
+
+            <form action="https://simple.wikipedia.org/w/index.php" target="_blank">
+                <input type="search" name="search" size=60 autocomplete="off" placeholder="Search simple.Wikipedia" aria-label="Search simple.Wikipedia" autocapitalize="sentences" title="Search simple.Wikipedia [f]" accesskey="f">
+                <input type="submit" name="simple.Wikipedia" title="Go to a page with this exact name if it exists" value="simple.Wiki">
+            </form>
+        </div>
         <li>
-            <a href="https://weibo.com/" target="_blank">微博</a>
             <a href="http://www.ludashi.com/rank/cpuRanking.html" target="_blank">鲁大师天梯榜</a>
             <a href="https://www.kylc.com/stats" target="_blank">快易数据</a>
             <a href="https://www.gjcha.com/" target="_blank">工具查</a>
@@ -296,6 +282,7 @@
         </li>
         <li id="newsGeneral">
             <h4>News</h4>
+            <a href="https://weibo.com/" target="_blank">微博</a>
             <a href="http://www.chinadaily.com.cn/" target="_blank">CHINADAILY</a>
             <a href="https://www.usatoday.com/" target="_blank">USA TODAY</a>
 
@@ -1460,6 +1447,16 @@
 
     -->
 
+    
+    <!--
+
+    windows11右键点击
+    恢复旧版命令：
+    reg.exe add “HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32” /f
+    重新启用新版：
+    reg.exe delete “HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32” /f
+
+    -->
         
     <ul class="General" id="Computer">
         <h1>Computer</h1>
