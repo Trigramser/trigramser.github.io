@@ -130,7 +130,7 @@ label {
 }
 
 
-.General, .Recreation, .Games, .CrossGate, .public-service, .Study, .Academics, .bilibili {
+.General, .Recreation, .Games, .CrossGate, .publicService, .Study, .Academics, .bilibili {
     display: flex;
     flex-wrap: wrap;   
     justify-content: left;
@@ -139,10 +139,10 @@ label {
     border-radius: 1rem;
     scroll-margin-top: 2rem; /* 设置偏移，避免遮挡 */
 }
-.General h1, .Recreation h1, .Games h1, .CrossGate h1, .public-service h1, .Study h1, .Academics h1, .bilibili h1 {
+.General h1, .Recreation h1, .Games h1, .CrossGate h1, .publicService h1, .Study h1, .Academics h1, .bilibili h1 {
     flex: 1 1 100%;
 }
-.General li , .Recreation li , .Games li, .CrossGate li, .public-service li, .Study li , .Academics li, .bilibili li {
+.General li , .Recreation li , .Games li, .CrossGate li, .publicService li, .Study li , .Academics li, .bilibili li {
     /* display: flex; */
     flex-wrap: wrap;   
     flex: 1 1 100%;
@@ -158,19 +158,19 @@ ul h2{
     scroll-margin-top: 5rem; 
 }
 
-.General p, .Recreation p , .Games p, .CrossGate p, .public-service p, .Study p, .Academics p, .bilibili p {
+.General p, .Recreation p , .Games p, .CrossGate p, .publicService p, .Study p, .Academics p, .bilibili p {
     /* flex: 1 1 100%; */
     /* font-style: italic; */
     font-weight: bold;
     margin: 6px 3px;
     color: #aaa;
 }
-.General a, .Recreation a, .Games a, .CrossGate a, .public-service a, .Study a, .Academics a, .bilibili a {
+.General a, .Recreation a, .Games a, .CrossGate a, .publicService a, .Study a, .Academics a, .bilibili a {
     /* flex: 1 1 5%; */
     display: inline-block;
     margin: 1rem 1rem;
 }
-.General li:nth-child(-n+2) , .Recreation li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2), .public-service li:nth-child(-n+2), .Study li:nth-child(-n+2) , .Academics li:nth-child(-n+3), .bilibili li:nth-child(-n+3) {
+.General li:nth-child(-n+2) , .Recreation li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2), .publicService li:nth-child(-n+2), .Study li:nth-child(-n+2) , .Academics li:nth-child(-n+3), .bilibili li:nth-child(-n+3) {
     display: inline-block;
     flex: 1 1 100%;
     padding: 1rem 0px;
@@ -221,11 +221,11 @@ li a:hover  {
     background-color: #5395EE;
 }
 
-.public-service li {
+.publicService li {
     /* Devil Red */
     background-color: #860111;
 }
-.public-service li a:hover {
+.publicService li a:hover {
     background-color: #B64151;
 }
 
