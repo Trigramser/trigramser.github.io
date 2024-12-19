@@ -67,18 +67,15 @@ h4 {
     color: #aaa;
 }
 
-.searcher form input, .General form input {
+.searcher form input{
     display: inline-block;
     height: 3rem;
     border-radius: 0.5rem;
 }
 
-.searcher form input:nth-child(1), .General form input:nth-child(1), .bilibili form input:nth-child(1)  {
+.searcher form input:nth-child(1){
     width: 70%;
 }
-/* .searcher form input:nth-child(2) {
-    flex: 1 1 20%;
-} */
 
 select, textarea {
     height: 3rem; 
@@ -268,7 +265,7 @@ li a:hover  {
     background-color: #F29BBB;
 }
 
-.uluite li:nth-child(2) a,  .General li:nth-child(2) a,  .Games li:nth-child(2) a, .bilibili li:nth-child(2) a, #Computer li:nth-child(2) a{
+.uluite li:nth-child(2) a,  #General li:nth-child(1) a,  .Games li:nth-child(2) a, .bilibili li:nth-child(2) a, #Computer li:nth-child(2) a{
     color: yellow;
 }
 

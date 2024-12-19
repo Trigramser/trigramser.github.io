@@ -52,10 +52,13 @@
         </div>
     </div>
 
+    
+    <div class="searcher">
+
+    </div>
 
     <ul class="General" id="General">
-        <h1>General</h1>
-        <li>
+        <li class="searcher">
             <div>
                 <span></span>
                 <a href="#"></a>
@@ -95,9 +98,7 @@
                 <a href="#"></a>
                 <a href="#"></a>
             </div>
-        </li>
-        
-        <div class="searcher">
+
             <form action="https://www.baidu.com/s" target="_blank">
                 <input type="search" class="form-control" name="wd" size=60 maxlength=255 autocomplete="off" placeholder="百度" >
                 <input type="submit" value="百度">
@@ -126,12 +127,13 @@
                 <input type="search" name="search" size=60 autocomplete="off" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f">
                 <input type="submit" name="Wikipedia" title="Go to a page with this exact name if it exists" value="Wikipedia">
             </form>
-
+    
             <form action="https://simple.wikipedia.org/w/index.php" target="_blank">
                 <input type="search" name="search" size=60 autocomplete="off" placeholder="Search simple.Wikipedia" aria-label="Search simple.Wikipedia" autocapitalize="sentences" title="Search simple.Wikipedia [f]" accesskey="f">
                 <input type="submit" name="simple.Wikipedia" title="Go to a page with this exact name if it exists" value="simple.Wiki">
             </form>
-        </div>
+        </li>
+        
         <li>
             <a href="http://www.ludashi.com/rank/cpuRanking.html" target="_blank">鲁大师天梯榜</a>
             <a href="https://www.kylc.com/stats" target="_blank">快易数据</a>
@@ -411,7 +413,7 @@
             💄🧶🦺⛑️🎒🐙🦑🍅🥩🥊
             🚗🚨🚒⛽️🛢️🧱🧲🩸💔 -->
         </li>
-        <li id="downloadGeneral">
+        <li class="searcher" id="downloadGeneral">
             <h4>Download</h4>
             <form action="https://apkcombo.com/downloader/" target="_blank">
                 <input type="search" class="form-control" name="q"  size=60 maxlength=255 autocomplete="off" placeholder="APKCombo" >
@@ -2662,7 +2664,7 @@
 
     <ul class="bilibili" id="bilibili+">
         <h2>bilibili</h2>
-        <li>
+        <li class="searcher">
             <form action="https://www.bilibili.com/search" target="_blank">
                 <input type="search" class="form-control" name="keyword" size=60 maxlength=255 autocomplete="off" placeholder="bilibili" >
                 <input type="submit" value="bilibili">
