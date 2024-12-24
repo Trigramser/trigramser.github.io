@@ -335,8 +335,8 @@
             }
 
              // 设置 level 状态栏的移动方式
-            const originTop = gameStage.offsetTop
-            const stageHeight = gameStage.offsetHeight
+            let originTop = gameStage.offsetTop
+            let stageHeight = gameStage.offsetHeight
             window.addEventListener('scroll', function () {
                 const divBottom_offsetBottom = divBottom.offsetTop + divBottom.offsetHeight
                 // 在高于该level的最顶端时 所处的位置
@@ -345,7 +345,12 @@
                 gameStage.style.top = window.scrollY  >= originTop && window.scrollY <  divBottom_offsetBottom  - stageHeight ? `${window.scrollY - originTop}px`: gameStage.style.top
                 // 可以设置一个低于时所处的位置
             })
-            
+            // 监听窗口大小变化事件
+            window.addEventListener('resize', () => {
+                originTop = gameStage.offsetTop
+                stageHeight = gameStage.offsetHeight // 重新应用滚动逻辑
+            })
+
         }
 
         function Player(gender, level) {
