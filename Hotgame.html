@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hot Game</title>
+    <title> 💞</title>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             let userAgent = navigator.userAgent.toLowerCase()
@@ -226,7 +226,7 @@
         let GAVEL  
             
         // 使用addEventListener绑定键盘按键与按钮事件
-        document.addEventListener('keydown', function(event) {
+        document.addEventListener('keyup', function(event) {
             if (event.key === 'Enter') { // 检查按键是否为Enter
                 // 调用按钮的click事件
                 document.querySelector('#start-button').click()
@@ -296,7 +296,7 @@
             buttonBoy.innerHTML = 'BOY PLAY'
             buttonBoy.onclick = (event) => play(event, 'male', GAVEL)
             // 使用addEventListener绑定键盘按键与按钮事件
-            document.addEventListener('keydown', function(event) {
+            document.addEventListener('keyup', function(event) {
                 if (event.key === 'b') { // 检查按键是否为Enter
                     // 调用按钮的click事件
                     buttonBoy.click()
@@ -306,7 +306,7 @@
             divBottom.appendChild(buttonGirl)
             buttonGirl.innerHTML = 'GIRL PLAY'
             buttonGirl.onclick = (event) => play(event, 'female', GAVEL)
-            document.addEventListener('keydown', function(event) {
+            document.addEventListener('keyup', function(event) {
                 if (event.key === '9') { // 检查按键是否为Enter
                     // 调用按钮的click事件
                     buttonGirl.click()
@@ -334,13 +334,16 @@
                 female: new Player("female", GAVEL),
             }
 
-             // 设置移动方式
+             // 设置 level 状态栏的移动方式
             const originTop = gameStage.offsetTop
             const stageHeight = gameStage.offsetHeight
             window.addEventListener('scroll', function () {
                 const divBottom_offsetBottom = divBottom.offsetTop + divBottom.offsetHeight
-                gameStage.style.top = window.scrollY  >= originTop && window.scrollY <  divBottom_offsetBottom  - stageHeight ? `${window.scrollY - originTop}px`: gameStage.style.top
+                // 在高于该level的最顶端时 所处的位置
                 gameStage.style.top = window.scrollY  < originTop ? 0 : gameStage.style.top
+                // 在改level之间时 所处的位置
+                gameStage.style.top = window.scrollY  >= originTop && window.scrollY <  divBottom_offsetBottom  - stageHeight ? `${window.scrollY - originTop}px`: gameStage.style.top
+                // 可以设置一个低于时所处的位置
             })
             
         }
@@ -605,7 +608,7 @@
             divNext.appendChild(buttonNext)
             // buttonNext.onclick = (event) => next(event)
             buttonNext.onclick = (event) => start(event, GAVEL)
-            document.addEventListener('keydown', function(event) {
+            document.addEventListener('keyup', function(event) {
                 if (event.key === 'Enter') { // 检查按键是否为Enter
                     // 调用按钮的click事件
                     buttonNext.click()
