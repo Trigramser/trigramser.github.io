@@ -102,53 +102,55 @@
             return df;
         }
 
-        function setLabel(df) {
-            // 获取 ZigZag 非空的索引
-            const nonNullIndices = df.index.filter((i) => df.loc({ rows: [i] }).ZigZag[0] !== null);
-            console.log("Non-null indices:", nonNullIndices);
+        // function setLabel(df) {
+        //     // 获取 ZigZag 非空的索引
+        //     const nonNullIndices = df.index.filter((i) => df.loc({ rows: [i] }).ZigZag[0] !== null);
+        //     console.log("Non-null indices:", nonNullIndices);
 
-            // 添加起点和终点索引
-            const nonNullIndicesAdd0 = [0, ...nonNullIndices, df.shape[0]];
-            console.log("Adjusted indices:", nonNullIndicesAdd0);
+        //     // 添加起点和终点索引
+        //     const nonNullIndicesAdd0 = [0, ...nonNullIndices, df.shape[0]];
+        //     console.log("Adjusted indices:", nonNullIndicesAdd0);
 
-            const labelColumn = Array(df.shape[0]).fill(null); // 初始化 Label 列为 null
+        //     const labelColumn = Array(df.shape[0]).fill(null); // 初始化 Label 列为 null
 
-            // 遍历非空索引
-            for (let i = 0; i < nonNullIndices.length; i++) {
-                const start = nonNullIndicesAdd0[i] + 1; // 起点索引
-                const end = nonNullIndicesAdd0[i + 1];   // 终点索引
+        //     // 遍历非空索引
+        //     for (let i = 0; i < nonNullIndices.length; i++) {
+        //         const start = nonNullIndicesAdd0[i] + 1; // 起点索引
+        //         const end = nonNullIndicesAdd0[i + 1];   // 终点索引
 
-                console.log(`Processing range: start=${start}, end=${end - 1}`);
+        //         console.log(`Processing range: start=${start}, end=${end - 1}`);
 
-                const bottomPeak = df.loc({ rows: [nonNullIndices[i]] }).bottom_peak[0];
-                const valueZigZag = df.loc({ rows: [nonNullIndices[i]] }).ZigZag[0];
+        //         const bottomPeak = df.loc({ rows: [nonNullIndices[i]] }).bottom_peak[0];
+        //         const valueZigZag = df.loc({ rows: [nonNullIndices[i]] }).ZigZag[0];
 
-                console.log(`Bottom/Peak: ${bottomPeak}, ZigZag value: ${valueZigZag}`);
+        //         console.log(`Bottom/Peak: ${bottomPeak}, ZigZag value: ${valueZigZag}`);
 
-                // 计算 Label 列
-                for (let j = start; j < end; j++) {
-                    if (bottomPeak === "bottom") {
-                        labelColumn[j] = valueZigZag - df.loc({ rows: [j] }).Low[0];
-                    } else if (bottomPeak === "peak") {
-                        labelColumn[j] = valueZigZag - df.loc({ rows: [j] }).High[0];
-                    }
-                }
-            }
+        //         // 计算 Label 列
+        //         for (let j = start; j < end; j++) {
+        //             if (bottomPeak === "bottom") {
+        //                 labelColumn[j] = valueZigZag - df.loc({ rows: [j] }).Low[0];
+        //             } else if (bottomPeak === "peak") {
+        //                 labelColumn[j] = valueZigZag - df.loc({ rows: [j] }).High[0];
+        //             }
+        //         }
+        //     }
 
-            console.log("Computed Label column:", labelColumn);
+        //     console.log("Computed Label column:", labelColumn);
 
-            // 添加 Label 列到 DataFrame
-            df.addColumn("Label", labelColumn);
-            return df;
-        }
+        //     // 添加 Label 列到 DataFrame
+        //     df.addColumn("Label", labelColumn);
+        //     return df;
+        // }
 
         function setLabel(df) {
             // 找到全部 bottom_peak 的标签，并返回一个列表，里面是 bottom_peak 的 index
             let bottom_peak_index = []
             for(let i = 0; i < df.shape[0]; i++) {
-                bottom_peak_index.push(i)
+                if (df.at(i, "bottom_peak")) {
+                    bottom_peak_index.push(i)
+                }
             }
-
+            console.log("bottom_peak_index:", bottom_peak_index)
             // 设置空数组，接收标签，最后设置成df的列
             let labelColumn = []
             // 设置 bottom_peak index 的 计数后面逐个判断
@@ -159,18 +161,33 @@
                 if (i < bottom_peak_index[countIndex]) {
                     // 开始设置标签
                     // 如果第一个标签是peak
-                    if (df.at(i, "bottom_peak") == "peak") {
-                        
-                    } else if (df.at(i, "bottom_peak") == "bottom") {
-
+                    if (df.at(bottom_peak_index[countIndex], "bottom_peak") == "peak") {
+                        labelColumn.push(df.at(bottom_peak_index[countIndex], "ZigZag") - df.at(i, "High"))
+                    } else if (df.at(bottom_peak_index[countIndex], "bottom_peak") == "bottom") {
+                        labelColumn.push(df.at(bottom_peak_index[countIndex], "ZigZag") - df.at(i, "Low"))
                     }
                 } else if (i = bottom_peak_index[countIndex]) {
                     countIndex++
-
+                    if (countIndex == bottom_peak_index.length) break
+                    if (df.at(bottom_peak_index[countIndex], "bottom_peak") == "peak") {
+                        labelColumn.push(df.at(bottom_peak_index[countIndex], "ZigZag") - df.at(i, "High"))
+                    } else if (df.at(bottom_peak_index[countIndex], "bottom_peak") == "bottom") {
+                        labelColumn.push(df.at(bottom_peak_index[countIndex], "ZigZag") - df.at(i, "Low"))
+                    }
                 }
             }
+             // 最后剩下的要填补满，否则报错
+            let left_len = df.shape[0] - bottom_peak_index[bottom_peak_index.length -1]
+            console.log("left_len: ", left_len)
+            console.log("bottom_peak_index[array.length -1]: ", bottom_peak_index[bottom_peak_index.length -1])
+            for (let i = 0; i < left_len; i++) {
+                labelColumn.push("")
+                console.log("labelColumn.length: ", labelColumn.length)
+            }
 
-
+            console.log("labelColumn: ", labelColumn.length)
+            df.addColumn("Label", labelColumn, { inplace: true });
+            return df
         }
 
         function processData() {
