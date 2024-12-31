@@ -72,7 +72,7 @@
             // 设置条件
             let bottomMask = df['Low'].eq(df['ZigZag']);
             let peakMask = df['High'].eq(df['ZigZag']);
-            // 更改数据, 暂无更好的办法，智能循环更改
+            // 更改数据, 暂无更好的办法，只能循环更改
             let bottom_peak = []
             for(let i = 0; i < df.shape[0]; i++) {
                 if (bottomMask.iat(i, 0)){

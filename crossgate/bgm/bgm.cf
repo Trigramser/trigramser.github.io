@@ -1,0 +1,68 @@
+0 200 bgm\\cgbgm_m0.wav 90 2 0
+1 201 bgm\\cgbgm_m1.wav 90 2 0
+2 202 bgm\\cgbgm_m2.wav 90 2 0
+3 203 bgm\\cgbgm_m3.wav 90 2 0
+4 204 bgm\\cgbgm_m4.wav 90 2 0
+#
+5 209 bgm\\cgbgm_f0.wav 90 2 0
+6 210 bgm\\cgbgm_f1.wav 90 2 0
+7 211 bgm\\cgbgm_f2.wav 90 2 0
+#
+8 212 bgm\\cgbgm_d0.wav 90 2 0
+9 213 bgm\\cgbgm_d1.wav 90 2 0
+10 214 bgm\\cgbgm_d2.wav 90 2 0
+11 215 bgm\\cgbgm_d3.wav 90 2 0
+12 216 bgm\\cgbgm_d4.wav 90 2 0
+#
+13 205 bgm\\cgbgm_b0.wav 90 2 0
+14 206 bgm\\cgbgm_b1.wav 90 2 0
+15 207 bgm\\cgbgm_b2.wav 90 2 0
+16 208 bgm\\cgbgm_b3.wav 90 2 0
+#
+17 217 bgm\\cgbgm_t0.wav 90 2 0
+#
+-1 218 -2
+#
+18 219 bgm\\exbgm_s0.wav 90 2 0
+#
+19 220 bgm\\exbgm_f0.wav 90 2 0
+20 221 bgm\\exbgm_m0.wav 90 2 0
+#
+21 222 bgm\\v2bgm_f0.wav 90 2 0
+22 223 bgm\\v2bgm_m0.wav 90 2 0
+#
+23 224 bgm\\v2bgm_ex.wav 90 2 0
+24 225 bgm\\v2bgm_ex.wav 90 0 0
+#
+25 226 bgm\\puk2_battle1.wav 90 2 0
+26 227 bgm\\puk2_battle2.wav 90 2 0
+#
+27 228 bgm\\puk2_field1.wav 90 2 0
+#
+28 229 bgm\\puk2_mati.wav 90 2 0
+29 230 bgm\\puk2_sinden.wav 90 2 0
+#
+30 231 bgm\\puk2_yama.wav 90 2 0
+31 232 bgm\\puk2_haikyo.wav 90 2 0
+32 233 bgm\\puk2_m_town.wav 90 2 0
+33 234 bgm\\puk2_OP.wav 90 2 0
+# PUK3
+34 235 bgm\\puk3_battle1.wav 90 2 0
+35 236 bgm\\puk3_battle2.wav 90 2 0
+36 237 bgm\\puk3_dungeon.wav 90 2 0
+37 238 bgm\\puk3_kame.wav 90 2 0
+38 239 bgm\\puk3_kujira.wav 90 2 0
+39 240 bgm\\puk3_kumo.wav 90 2 0
+40 241 bgm\\puk3_love.wav 90 2 0
+41 242 bgm\\puk3_playerbattle.wav 90 2 0
+42 243 bgm\\PUK3_title.wav 90 2 0
+-1 240 -2
+-1 241 -2
+-1 242 -2
+-1 243 -2
+-1 244 -2
+-1 245 -2
+-1 246 -2
+-1 247 -2
+-1 248 -2
+-1 249 -2
