@@ -306,7 +306,7 @@
             const currentSpeed = parseFloat(speedSlider.value); // 获取当前播放速度
             audio.src = selectedTrack.getAttribute('data-src');
             audio.playbackRate = currentSpeed; // 应用当前速度
-            audio.play();
+            // audio.play(); // 打开页面后自动播放
         }
 
         // 绑定点击事件
