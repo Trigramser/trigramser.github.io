@@ -106,7 +106,7 @@
 <body>
 
     <div id="player-container">
-        <h1>音乐播放器</h1>
+        <h1>Concerto Gate</h1>
         <audio id="audio" controls></audio>
         <div class="controls">
             <button onclick="playPrevious()">上一首</button>
@@ -191,6 +191,7 @@
             const currentSpeed = parseFloat(speedSlider.value); // 获取当前播放速度
             audio.src = selectedTrack.getAttribute('data-src');
             audio.playbackRate = currentSpeed; // 应用当前速度
+            audio.volume = 0.5; // 设置音量为50%
             audio.play(); // 自动播放
         }
 
