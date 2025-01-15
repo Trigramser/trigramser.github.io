@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>音乐播放器</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        .player {
+            background: #fff;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .controls {
+            margin-top: 20px;
+        }
+
+        .slider {
+            margin: 15px 0;
+        }
+
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: #fff;
+            font-size: 14px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="player">
+        <h2>音乐播放器</h2>
+        <audio id="audio" controls>
+            <source src="your-audio-file.mp3" type="audio/mp3">
+            您的浏览器不支持音频播放。
+        </audio>
+
+        <div class="controls">
+            <label for="speed">播放速度: <span id="speed-value">1.0</span>x</label>
+            <input type="range" id="speed" class="slider" min="0.1" max="2" step="0.1" value="1">
+        </div>
+    </div>
+
+    <script>
+        const audio = document.getElementById('audio');
+        const speedSlider = document.getElementById('speed');
+        const speedValue = document.getElementById('speed-value');
+
+        // 更新播放速度
+        speedSlider.addEventListener('input', () => {
+            const speed = parseFloat(speedSlider.value);
+            audio.playbackRate = speed;
+            speedValue.textContent = speed.toFixed(1); // 显示 1 位小数
+        });
+    </script>
+</body>
+</html>

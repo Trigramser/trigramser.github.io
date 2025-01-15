@@ -1,0 +1,345 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>音乐播放器 - 播放列表</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+        }
+
+        #player-container {
+            flex: 2; /* 播放器区域宽度 */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        #audio {
+            width: 100%; /* 播放器控件占满容器宽度 */
+            max-width: 800px; /* 最大宽度 */
+            margin-top: 20px;
+        }
+
+        #playlist-container {
+            flex: 1;
+            width: 400px;
+            background: #fff;
+            border-left: 2px solid #ccc;
+            overflow-y: auto;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        #playlist {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        #playlist li {
+            padding: 15px;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        #playlist li:hover {
+            background: #f4f4f4;
+        }
+
+        #playlist li.active {
+            background: #007bff;
+            color: white;
+        }
+
+        .controls {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .slider-container {
+            margin-top: 20px;
+            text-align: center;
+            width: 100%;
+        }
+
+        .slider-container label {
+            font-size: 16px;
+            margin-right: 10px;
+        }
+
+        .slider-container input[type="range"] {
+            width: 100%; /* 滑块宽度 */
+            max-width: 800px; /* 设置最大宽度 */
+            margin: 10px auto; /* 垂直间距 */
+        }
+
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: #fff;
+            font-size: 14px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="player-container">
+        <h1>音乐播放器</h1>
+        <audio id="audio" controls></audio>
+        <div class="controls">
+            <button onclick="playPrevious()">上一首</button>
+            <button onclick="playNext()">下一首</button>
+        </div>
+        <div class="slider-container">
+            <label for="speed">播放速度: <span id="speed-value">1.0</span>x</label>
+            <input type="range" id="speed" min="0.1" max="2" step="0.1" value="1">
+        </div>
+    </div>
+
+    <div id="playlist-container">
+        <h2 style="text-align: center; padding: 10px; background: #f7f7f7;">播放列表</h2>
+        <ul id="playlist">
+            <li data-src="./NCE2/01－A Private Conversation.mp3">01－A Private Conversation</li>
+            <li data-src="./NCE2/02－Breakfast or Lunch.mp3">02－Breakfast or Lunch</li>
+            <li data-src="./NCE2/03－Please Send Me a Card.mp3">03－Please Send Me a Card</li>
+            <li data-src="./NCE2/04－An Exciting Trip.mp3">04－An Exciting Trip</li>
+            <li data-src="./NCE2/05－No Wrong Numbers.mp3">05－No Wrong Numbers</li>
+            <li data-src="./NCE2/06－Percy Buttons.mp3">06－Percy Buttons</li>
+            <li data-src="./NCE2/07－Too Late.mp3">07－Too Late</li>
+            <li data-src="./NCE2/08－The Best and the Worst.mp3">08－The Best and the Worst</li>
+            <li data-src="./NCE2/09－A Cold Welcome.mp3">09－A Cold Welcome</li>
+            <li data-src="./NCE2/10－Not for Jazz.mp3">10－Not for Jazz</li>
+            <li data-src="./NCE2/11－One Good Turn Deserves Another.mp3">11－One Good Turn Deserves Another</li>
+            <li data-src="./NCE2/12－Goodbye and Good Luck.mp3">12－Goodbye and Good Luck</li>
+            <li data-src="./NCE2/13－The Greenwood Boys.mp3">13－The Greenwood Boys</li>
+            <li data-src="./NCE2/14－Do You Speak English.mp3">14－Do You Speak English</li>
+            <li data-src="./NCE2/15－Good News.mp3">15－Good News</li>
+            <li data-src="./NCE2/16－A Polite Request.mp3">16－A Polite Request</li>
+            <li data-src="./NCE2/17－Always Young.mp3">17－Always Young</li>
+            <li data-src="./NCE2/18－He Often does This.mp3">18－He Often does This</li>
+            <li data-src="./NCE2/19－Sold Out.mp3">19－Sold Out</li>
+            <li data-src="./NCE2/20－One Man in a Boat.mp3">20－One Man in a Boat</li>
+            <li data-src="./NCE2/21－Mad or Not.mp3">21－Mad or Not</li>
+            <li data-src="./NCE2/22－A Glass Envelope.mp3">22－A Glass Envelope</li>
+            <li data-src="./NCE2/23－A New House.mp3">23－A New House</li>
+            <li data-src="./NCE2/24－It Could be Worse.mp3">24－It Could be Worse</li>
+            <li data-src="./NCE2/25－Do the English Speak English.mp3">25－Do the English Speak English</li>
+            <li data-src="./NCE2/26－The Best Art Critics.mp3">26－The Best Art Critics</li>
+            <li data-src="./NCE2/27－A Wet Night.mp3">27－A Wet Night</li>
+            <li data-src="./NCE2/28－No Parking.mp3">28－No Parking</li>
+            <li data-src="./NCE2/29－Taxi.mp3">30－Football or Polo</li>
+            <li data-src="./NCE2/31－Success Story.mp3">31－Success Story</li>
+            <li data-src="./NCE2/32－Shopping Made Easy.mp3">32－Shopping Made Easy</li>
+            <li data-src="./NCE2/33－Out of the Darkness.mp3">33－Out of the Darkness</li>
+            <li data-src="./NCE2/34－Quick Work.mp3">34－Quick Work</li>
+            <li data-src="./NCE2/35－Stop Thief.mp3">35－Stop Thief</li>
+            <li data-src="./NCE2/36－Across the Channel.mp3">36－Across the Channel</li>
+            <li data-src="./NCE2/37－The Olympic Games.mp3">37－The Olympic Games</li>
+            <li data-src="./NCE2/38－Everything Except the Weather.mp3">38－Everything Except the Weather</li>
+            <li data-src="./NCE2/39－Am I All Right.mp3">39－Am I All Right</li>
+            <li data-src="./NCE2/40－Food and Talk.mp3">40－Food and Talk</li>
+            <li data-src="./NCE2/41－Do You Call That a Hat.mp3">41－Do You Call That a Hat</li>
+            <li data-src="./NCE2/42－Not Very Musical.mp3">42－Not Very Musical</li>
+            <li data-src="./NCE2/43－Over the South Pole.mp3">43－Over the South Pole</li>
+            <li data-src="./NCE2/44－Through the Forest.mp3">44－Through the Forest</li>
+            <li data-src="./NCE2/45－A Clear Conscience.mp3">45－A Clear Conscience</li>
+            <li data-src="./NCE2/46－Expensive and Uncomfortable.mp3">46－Expensive and Uncomfortable</li>
+            <li data-src="./NCE2/47－A Thirsty Ghost.mp3">47－A Thirsty Ghost</li>
+            <li data-src="./NCE2/48－Did You Want to Tell Me Something.mp3">48－Did You Want to Tell Me Something</li>
+            <li data-src=""></li>
+            <li data-src="./NCE2/49－The End of a Dream.mp3">49－The End of a Dream</li>
+            <li data-src="./NCE2/50－Taken for a Ride.mp3">50－Taken for a Ride</li>
+            <li data-src="./NCE2/51－Reward for Virtue.mp3">51－Reward for Virtue</li>
+            <li data-src="./NCE2/52－A Pretty Carpet.mp3">52－A Pretty Carpet</li>
+            <li data-src="./NCE2/53－Hot Snake.mp3">53－Hot Snake</li>
+            <li data-src="./NCE2/54－Sticky Fingers.mp3">54－Sticky Fingers</li>
+            <li data-src="./NCE2/55－Not a Gold Mine.mp3">55－Not a Gold Mine</li>
+            <li data-src="./NCE2/56－Faster Than Sound.mp3">56－Faster Than Sound</li>
+            <li data-src="./NCE2/57－Can I Help You, Madam.mp3">57－Can I Help You, Madam</li>
+            <li data-src="./NCE2/58－A Blessing in Disguise.mp3">58－A Blessing in Disguise</li>
+            <li data-src="./NCE2/59－In or Out.mp3">59－In or Out</li>
+            <li data-src="./NCE2/60－The Future.mp3">60－The Future</li>
+            <li data-src="./NCE2/61－Trouble with the Hubble.mp3">61－Trouble with the Hubble</li>
+            <li data-src="./NCE2/62－After the Fire.mp3">62－After the Fire</li>
+            <li data-src="./NCE2/63－She Was Not Amused.mp3">63－She Was Not Amused</li>
+            <li data-src="./NCE2/64－The Channel Tunnel.mp3">64－The Channel Tunnel</li>
+            <li data-src="./NCE2/65－Jumbo Versus the Police.mp3">65－Jumbo Versus the Police</li>
+            <li data-src="./NCE2/66－Sweet as Honey.mp3">66－Sweet as Honey</li>
+            <li data-src="./NCE2/67－Volcanoes.mp3">67－Volcanoes</li>
+            <li data-src="./NCE2/68－Persistent.mp3">68－Persistent</li>
+            <li data-src="./NCE2/69－But not Murder.mp3">69－But not Murder</li>
+            <li data-src="./NCE2/70－Red for Danger.mp3">70－Red for Danger</li>
+            <li data-src="./NCE2/71－A Famous Clock.mp3">71－A Famous Clock</li>
+            <li data-src="./NCE2/72－A Car Called Bluebird.mp3">72－A Car Called Bluebird</li>
+            <li data-src=""></li>
+            <li data-src="./NCE2/73－The Record-Holder.mp3">73－The Record-Holder</li>
+            <li data-src="./NCE2/74－Out of the Limelight.mp3">74－Out of the Limelight</li>
+            <li data-src="./NCE2/75－SOS.mp3">75－SOS</li>
+            <li data-src="./NCE2/76－April Fools' Day.mp3">76－April Fools' Day</li>
+            <li data-src="./NCE2/77－A Successful Operation.mp3">77－A Successful Operation</li>
+            <li data-src="./NCE2/78－The Last One.mp3">78－The Last One</li>
+            <li data-src="./NCE2/79－By Air.mp3">79－By Air</li>
+            <li data-src="./NCE2/80－The Crystal Palace.mp3">80－The Crystal Palace</li>
+            <li data-src="./NCE2/81－Escape.mp3">81－Escape</li>
+            <li data-src="./NCE2/82－Monster or Fish.mp3">82－Monster or Fish</li>
+            <li data-src="./NCE2/83－After the Elections.mp3">83－After the Elections</li>
+            <li data-src="./NCE2/84－On Strike.mp3">84－On Strike</li>
+            <li data-src="./NCE2/85－Never Too Old To Learn.mp3">85－Never Too Old To Learn</li>
+            <li data-src="./NCE2/86－Out of Control.mp3">86－Out of Control</li>
+            <li data-src="./NCE2/87－A Perfect Alibi.mp3">87－A Perfect Alibi</li>
+            <li data-src="./NCE2/88－Trapped in a Mine.mp3">88－Trapped in a Mine</li>
+            <li data-src="./NCE2/89－A Slip of the Tongue.mp3">89－A Slip of the Tongue</li>
+            <li data-src="./NCE2/90－What's for Supper.mp3">90－What's for Supper</li>
+            <li data-src="./NCE2/91－Three Men in a Basket.mp3">91－Three Men in a Basket</li>
+            <li data-src="./NCE2/92－Asking for Trouble.mp3">92－Asking for Trouble</li>
+            <li data-src="./NCE2/93－A Noble Gift.mp3">93－A Noble Gift</li>
+            <li data-src="./NCE2/94－Future Champions.mp3">94－Future Champions</li>
+            <li data-src="./NCE2/95－A Fantasy.mp3">95－A Fantasy</li>
+            <li data-src="./NCE2/96－The Dead Return.mp3">96－The Dead Return</li>
+            <li data-src=""></li>
+            <li data-src="./NCE3/01－A Puma at Large.mp3">01－A Puma at Large</li>
+            <li data-src="./NCE3/02－Thirteen Equals One.mp3">02－Thirteen Equals One</li>
+            <li data-src="./NCE3/03－An Unknown Goddess.mp3">03－An Unknown Goddess</li>
+            <li data-src="./NCE3/04－The Double Life of Alfred Bloggs.mp3">04－The Double Life of Alfred Bloggs</li>
+            <li data-src="./NCE3/05－The Facts.mp3">05－The Facts</li>
+            <li data-src="./NCE3/06－Smash-and-Grab.mp3">06－Smash-and-Grab</li>
+            <li data-src="./NCE3/07－Mutilated Ladies.mp3">07－Mutilated Ladies</li>
+            <li data-src="./NCE3/08－A Famous Monastery.mp3">08－A Famous Monastery</li>
+            <li data-src="./NCE3/09－Flying Cats.mp3">09－Flying Cats</li>
+            <li data-src="./NCE3/10－The Loss of the Titanic.mp3">10－The Loss of the Titanic</li>
+            <li data-src="./NCE3/11－Not Guilty.mp3">11－Not Guilty</li>
+            <li data-src="./NCE3/12－Life on a Desert Island.mp3">12－Life on a Desert Island</li>
+            <li data-src="./NCE3/13－It's Only Me.mp3">13－It's Only Me</li>
+            <li data-src="./NCE3/14－A Noble Gangster.mp3">14－A Noble Gangster</li>
+            <li data-src="./NCE3/15－Fifty Pence Worth of Trouble.mp3">15－Fifty Pence Worth of Trouble</li>
+            <li data-src="./NCE3/16－Mary Had a Little Lamb.mp3">16－Mary Had a Little Lamb</li>
+            <li data-src="./NCE3/17－The Longest Suspension Bridge in the World.mp3">17－The Longest Suspension Bridge in the World</li>
+            <li data-src="./NCE3/18－Electric Currents in Modern Art.mp3">18－Electric Currents in Modern Art</li>
+            <li data-src="./NCE3/19－A Very Dear Cat.mp3">19－A Very Dear Cat</li>
+            <li data-src="./NCE3/20－Pioneer Pilots.mp3">20－Pioneer Pilots</li>
+            <li data-src=""></li>
+            <li data-src="./NCE3/21－Daniel Mendoza.mp3">21－Daniel Mendoza</li>
+            <li data-src="./NCE3/22－By Heart.mp3">22－By Heart</li>
+            <li data-src="./NCE3/23－One Man's Meat is Another Man's Poison.mp3">23－One Man's Meat is Another Man's Poison</li>
+            <li data-src="./NCE3/24－A Skeleton in the Cupboard.mp3">24－A Skeleton in the Cupboard</li>
+            <li data-src="./NCE3/25－The Cutty Sark.mp3">25－The Cutty Sark</li>
+            <li data-src="./NCE3/26－Wanted a Large Biscuit Tin.mp3">26－Wanted a Large Biscuit Tin</li>
+            <li data-src="./NCE3/27－Nothing to Sell and Nothing to Buy.mp3">27－Nothing to Sell and Nothing to Buy</li>
+            <li data-src="./NCE3/28－Five Pounds Too Dear.mp3">28－Five Pounds Too Dear</li>
+            <li data-src="./NCE3/29－Funny or Not.mp3">29－Funny or Not</li>
+            <li data-src="./NCE3/30－The Death of a Ghost.mp3">30－The Death of a Ghost</li>
+            <li data-src=""></li>
+            <li data-src="./NCE3/31－A Lovable Eccentric.mp3">31－A Lovable Eccentric</li>
+            <li data-src="./NCE3/32－A Lost Ship.mp3">32－A Lost Ship</li>
+            <li data-src="./NCE3/33－A Day to Remember.mp3">33－A Day to Remember</li>
+            <li data-src="./NCE3/34－A Happy Discovery.mp3">34－A Happy Discovery</li>
+            <li data-src="./NCE3/35－Justice was Done.mp3">35－Justice was Done</li>
+            <li data-src="./NCE3/36－A Chance in a Million.mp3">36－A Chance in a Million</li>
+            <li data-src="./NCE3/37－The Westhaven Express.mp3">37－The Westhaven Express</li>
+            <li data-src="./NCE3/38－The First Calendar.mp3">38－The First Calendar</li>
+            <li data-src="./NCE3/39－Nothing to Worry About.mp3">39－Nothing to Worry About</li>
+            <li data-src="./NCE3/40－Who's Who.mp3">40－Who's Who</li>
+            <li data-src=""></li>
+            <li data-src="./NCE3/41－Illusions of Pastoral Peace.mp3">41－Illusions of Pastoral Peace</li>
+            <li data-src="./NCE3/42－Modern Cavemen.mp3">42－Modern Cavemen</li>
+            <li data-src="./NCE3/43－Fully Insured.mp3">43－Fully Insured</li>
+            <li data-src="./NCE3/44－Speed and Comfort.mp3">44－Speed and Comfort</li>
+            <li data-src="./NCE3/45－The Power of the Press.mp3">45－The Power of the Press</li>
+            <li data-src=""></li>
+            <li data-src="./NCE3/46－Do It Yourself.mp3">46－Do It Yourself</li>
+            <li data-src="./NCE3/47－Too High a Price.mp3">47－Too High a Price</li>
+            <li data-src="./NCE3/48－The Silent Village.mp3">48－The Silent Village</li>
+            <li data-src="./NCE3/49－The Ideal Servant.mp3">49－The Ideal Servant</li>
+            <li data-src="./NCE3/50－New Year Resolutions.mp3">50－New Year Resolutions</li>
+            <li data-src="./NCE3/.mp3"></li>
+            <li data-src="./NCE3/51－Predicting the Future.mp3">51－Predicting the Future</li>
+            <li data-src="./NCE3/52－Mud is Mud.mp3">52－Mud is Mud</li>
+            <li data-src="./NCE3/53－In the Public Interest.mp3">53－In the Public Interest</li>
+            <li data-src="./NCE3/54－Instinct or Cleverness.mp3">54－Instinct or Cleverness</li>
+            <li data-src="./NCE3/55－From the Earth Greetings.mp3">55－From the Earth Greetings</li>
+            <li data-src="./NCE3/.mp3"></li>
+            <li data-src="./NCE3/56－Our Neighbour, the River.mp3">56－Our Neighbour, the River</li>
+            <li data-src="./NCE3/57－Back in the Old Country.mp3">57－Back in the Old Country</li>
+            <li data-src="./NCE3/58－A Spot of Bother.mp3">58－A Spot of Bother</li>
+            <li data-src="./NCE3/59－Collecting.mp3">59－Collecting</li>
+            <li data-src="./NCE3/60－Too Early and Too Late.mp3">60－Too Early and Too Late</li>
+            <li data-src=""></li>
+            <!-- 更多歌曲项 -->
+        </ul>
+    </div>
+
+    <script>
+        const audio = document.getElementById('audio');
+        const playlist = document.getElementById('playlist');
+        const tracks = playlist.querySelectorAll('li');
+        const speedSlider = document.getElementById('speed');
+        const speedValue = document.getElementById('speed-value');
+        let currentTrackIndex = 0;
+
+        // 初始化播放列表
+        function loadTrack(index) {
+            tracks.forEach(track => track.classList.remove('active'));
+            const selectedTrack = tracks[index];
+            selectedTrack.classList.add('active');
+            const currentSpeed = parseFloat(speedSlider.value); // 获取当前播放速度
+            audio.src = selectedTrack.getAttribute('data-src');
+            audio.playbackRate = currentSpeed; // 应用当前速度
+            audio.play();
+        }
+
+        // 绑定点击事件
+        tracks.forEach((track, index) => {
+            track.addEventListener('click', () => {
+                currentTrackIndex = index;
+                loadTrack(currentTrackIndex);
+            });
+        });
+
+        // 播放上一首
+        function playPrevious() {
+            currentTrackIndex = (currentTrackIndex - 1 + tracks.length) % tracks.length;
+            loadTrack(currentTrackIndex);
+        }
+
+        // 播放下一首
+        function playNext() {
+            currentTrackIndex = (currentTrackIndex + 1) % tracks.length;
+            loadTrack(currentTrackIndex);
+        }
+
+        // 更新播放速度
+        speedSlider.addEventListener('input', () => {
+            const speed = parseFloat(speedSlider.value);
+            audio.playbackRate = speed;
+            speedValue.textContent = speed.toFixed(1); // 显示 1 位小数
+        });
+
+        // 默认加载第一首
+        loadTrack(currentTrackIndex);
+    </script>
+
+</body>
+</html>
+

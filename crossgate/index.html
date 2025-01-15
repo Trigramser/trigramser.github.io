@@ -3,81 +3,179 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>音乐播放器 - 播放列表</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+        }
+
+        #player-container {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        #playlist-container {
+            width: 300px;
+            background: #fff;
+            border-left: 2px solid #ccc;
+            overflow-y: auto;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        #playlist {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        #playlist li {
+            padding: 15px;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        #playlist li:hover {
+            background: #f4f4f4;
+        }
+
+        #playlist li.active {
+            background: #007bff;
+            color: white;
+        }
+
+        .controls {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .slider-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .slider-container label {
+            font-size: 14px;
+            margin-right: 10px;
+        }
+
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: #fff;
+            font-size: 14px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        input[type="range"] {
+            margin: 10px 0;
+        }
+    </style>
 </head>
 <body>
 
-    <h1>登录</h1>
-    <audio id="cgbgm_t0" src="./bgm/cgbgm_t0.wav" controls></audio>
-    
-    <h1>里谢里雅碉</h1>
-    <audio id="cgbgm_m0" src="./bgm/cgbgm_m0.wav" controls></audio>
+    <div id="player-container">
+        <h1>音乐播放器</h1>
+        <audio id="audio" controls></audio>
+        <div class="controls">
+            <button onclick="playPrevious()">上一首</button>
+            <button onclick="playNext()">下一首</button>
+        </div>
+        <div class="slider-container">
+            <label for="speed">播放速度: <span id="speed-value">1.0</span>x</label>
+            <input type="range" id="speed" min="0.1" max="2" step="0.1" value="1">
+        </div>
+    </div>
 
-    <h1>法兰城 亚诺曼城</h1>
-    <audio id="cgbgm_m1" src="./bgm/cgbgm_m1.wav" controls></audio>
-    <button onclick="playMusic()">播放</button>
-    <button onclick="pauseMusic()">暂停</button>
+    <div id="playlist-container">
+        <h2 style="text-align: center; padding: 10px; background: #f7f7f7;">播放列表</h2>
+        <ul id="playlist">
+            <li data-src="./bgm/cgbgm_t0.wav">登录</li>
+            <li data-src="./bgm/cgbgm_m0.wav">里谢里雅碉</li>
+            <li data-src="./bgm/cgbgm_m1.wav">法兰城 亚诺曼城</li>
+            <li data-src="./bgm/cgbgm_m2.wav">杰诺瓦 蒂娜 阿巴尼斯 魔法大学</li>
+            <li data-src="./bgm/cgbgm_m3.wav">伊尔 圣拉鲁卡 亚留特 维诺亚</li>
+            <li data-src="./bgm/cgbgm_m4.wav">奇利 加纳</li>
+            <li data-src="./bgm/cgbgm_f0.wav">莎莲娜</li>
+            <li data-src="./bgm/cgbgm_f1.wav">芙蕾雅</li>
+            <li data-src="./bgm/cgbgm_f2.wav">索奇亚</li>
+            <li data-src="./bgm/cgbgm_d0.wav">地下灵堂</li>
+            <li data-src="./bgm/cgbgm_d1.wav">洞窟</li>
+            <li data-src="./bgm/cgbgm_d2.wav">迷宫1</li>
+            <li data-src="./bgm/cgbgm_d3.wav">迷宫2</li>
+            <li data-src="./bgm/cgbgm_b0.wav">普通战斗</li>
+            <li data-src="./bgm/cgbgm_b1.wav">Boss战</li>
+            <li data-src="./bgm/cgbgm_b2.wav">高级Boss战</li>
+            <li data-src="./bgm/cgbgm_b3.wav">PK战</li>
+        </ul>
+    </div>
 
     <script>
-        const audio = document.querySelector('#cgbgm_m1')
+        const audio = document.getElementById('audio');
+        const playlist = document.getElementById('playlist');
+        const tracks = playlist.querySelectorAll('li');
+        const speedSlider = document.getElementById('speed');
+        const speedValue = document.getElementById('speed-value');
+        let currentTrackIndex = 0;
 
-        function playMusic() {
-            audio.play() // 播放音乐
+        // 初始化播放列表
+        function loadTrack(index) {
+            tracks.forEach(track => track.classList.remove('active'));
+            const selectedTrack = tracks[index];
+            selectedTrack.classList.add('active');
+            audio.src = selectedTrack.getAttribute('data-src');
+            audio.play();
         }
 
-        function pauseMusic() {
-            audio.pause() // 暂停音乐
+        // 绑定点击事件
+        tracks.forEach((track, index) => {
+            track.addEventListener('click', () => {
+                currentTrackIndex = index;
+                loadTrack(currentTrackIndex);
+            });
+        });
+
+        // 播放上一首
+        function playPrevious() {
+            currentTrackIndex = (currentTrackIndex - 1 + tracks.length) % tracks.length;
+            loadTrack(currentTrackIndex);
         }
+
+        // 播放下一首
+        function playNext() {
+            currentTrackIndex = (currentTrackIndex + 1) % tracks.length;
+            loadTrack(currentTrackIndex);
+        }
+
+        // 更新播放速度
+        speedSlider.addEventListener('input', () => {
+            const speed = parseFloat(speedSlider.value);
+            audio.playbackRate = speed;
+            speedValue.textContent = speed.toFixed(1); // 显示 1 位小数
+        });
+
+        // 默认加载第一首
+        loadTrack(currentTrackIndex);
     </script>
-
-
-<h1>杰诺瓦 蒂娜 阿巴尼斯 魔法大学</h1>
-<audio id="cgbgm_m2" src="./bgm/cgbgm_m2.wav" controls></audio>
-
-<h1>伊尔 圣拉鲁卡 亚留特 维诺亚</h1>
-<audio id="cgbgm_m3" src="./bgm/cgbgm_m3.wav" controls></audio>
-
-<h1>奇利 加纳</h1>
-<audio id="cgbgm_m4" src="./bgm/cgbgm_m4.wav" controls></audio>
-
-<h1>莎莲娜</h1>
-<audio id="cgbgm_f0" src="./bgm/cgbgm_f0.wav" controls></audio>
-
-<h1>芙蕾雅</h1>
-<audio id="cgbgm_f1" src="./bgm/cgbgm_f1.wav" controls></audio>
-
-<h1>索奇亚</h1>
-<audio id="cgbgm_f2" src="./bgm/cgbgm_f2.wav" controls></audio>
-
-
-<h1>地下灵堂</h1>
-<audio id="cgbgm_d0" src="./bgm/cgbgm_d0.wav" controls></audio>
-
-<h1>洞窟</h1>
-<audio id="cgbgm_d1" src="./bgm/cgbgm_d1.wav" controls></audio>
-
-<h1>迷宫1</h1>
-<audio id="cgbgm_d2" src="./bgm/cgbgm_d2.wav" controls></audio>
-
-<h1>迷宫2</h1>
-<audio id="cgbgm_d3" src="./bgm/cgbgm_d3.wav" controls></audio>
-
-<h1>神殿</h1>
-<audio id="cgbgm_d3" src="./bgm/cgbgm_d3.wav" controls></audio>
-
-<h1>普通战斗</h1>
-<audio id="cgbgm_b0" src="./bgm/cgbgm_b0.wav" controls></audio>
-
-<h1>Boss战</h1>
-<audio id="cgbgm_b1" src="./bgm/cgbgm_b1.wav" controls></audio>
-
-<h1>高级Boss战</h1>
-<audio id="cgbgm_b2" src="./bgm/cgbgm_b2.wav" controls></audio>
-
-<h1>PK战</h1>
-<audio id="cgbgm_b3" src="./bgm/cgbgm_b3.wav" controls></audio>
-
-
 
 </body>
 </html>
