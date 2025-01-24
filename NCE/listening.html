@@ -291,6 +291,7 @@
     </div>
 
     <script>
+        // 获取音频元素
         const audio = document.getElementById('audio');
         const playlist = document.getElementById('playlist');
         const tracks = playlist.querySelectorAll('li');
@@ -298,6 +299,7 @@
         const speedValue = document.getElementById('speed-value');
         let currentTrackIndex = 0;
 
+        
         // 初始化播放列表
         function loadTrack(index) {
             tracks.forEach(track => track.classList.remove('active'));
@@ -306,6 +308,7 @@
             const currentSpeed = parseFloat(speedSlider.value); // 获取当前播放速度
             audio.src = selectedTrack.getAttribute('data-src');
             audio.playbackRate = currentSpeed; // 应用当前速度
+            // audio.volume = 1; // 设置音量为100%
             audio.play(); // 打开页面后自动播放
         }
 
