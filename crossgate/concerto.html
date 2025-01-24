@@ -192,7 +192,7 @@
             const currentSpeed = parseFloat(speedSlider.value); // 获取当前播放速度
             audio.src = selectedTrack.getAttribute('data-src');
             audio.playbackRate = currentSpeed; // 应用当前速度
-            audio.volume = 0.5; // 设置音量为50%
+            audio.volume = 0.6; // 设置音量为50%
             audio.play(); // 自动播放
         }
 
@@ -221,6 +221,27 @@
             const speed = parseFloat(speedSlider.value);
             audio.playbackRate = speed;
             speedValue.textContent = speed.toFixed(1); // 显示 1 位小数
+        });
+
+        // 监听空格键，播放或暂停音频
+        window.addEventListener('keydown', (event) => {
+            if (event.code === 'Space' || event.keyCode === 32) {
+                event.preventDefault();  // 阻止滚动等默认行为
+                event.stopPropagation(); // 阻止事件冒泡
+
+                if (audio.paused) {
+                    audio.play();
+                } else {
+                    audio.pause();
+                }
+            }
+        }, true);
+
+        // 修复进度条点击后空格键失效的问题
+        audio.addEventListener('focus', () => {
+            setTimeout(() => {
+                audio.blur();  // 移除焦点，确保空格键有效
+            }, 100);
         });
 
         // 默认加载第一首
