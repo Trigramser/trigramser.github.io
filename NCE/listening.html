@@ -119,7 +119,7 @@
     </div>
 
     <div id="playlist-container">
-        <h2 style="text-align: center; padding: 10px; background: #f7f7f7;">LList</h2>
+        <h2 style="text-align: center; padding: 10px; background: #f7f7f7;">List</h2>
         <ul id="playlist">
             <li data-src="./NCE2/01－A Private Conversation.mp3">01－A Private Conversation</li>
             <li data-src="./NCE2/02－Breakfast or Lunch.mp3">02－Breakfast or Lunch</li>
@@ -339,6 +339,14 @@
             speedValue.textContent = speed.toFixed(1); // 显示 1 位小数
         });
 
+
+        // 监听滑块的键盘事件，阻止左右键默认行为
+        speedSlider.addEventListener('keydown', (event) => {
+            if (event.code === 'ArrowLeft' || event.code === 'ArrowRight') {
+                event.preventDefault();  // 阻止滑块默认的左右键行为
+            }
+        });
+
         // 监听空格键，播放或暂停音频
         window.addEventListener('keydown', (event) => {
             if (event.code === 'Space' || event.keyCode === 32) {
@@ -351,6 +359,13 @@
                     audio.pause();
                 }
             }
+
+            // 处理左右键快进/快退
+            if (event.code === 'ArrowRight') {
+                    audio.currentTime += 3; // 快进 5 秒
+                } else if (event.code === 'ArrowLeft') {
+                    audio.currentTime = Math.max(0, audio.currentTime - 5); // 快退 5 秒
+            }
         }, true);
         // 修复进度条点击后空格键失效的问题
         audio.addEventListener('focus', () => {
@@ -358,7 +373,7 @@
                 audio.blur();  // 移除焦点，确保空格键有效
             }, 100);
         });
-    
+
 
         // 默认加载第一首
         // loadTrack(currentTrackIndex);
