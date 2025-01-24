@@ -109,17 +109,17 @@
         <h1>Concerto Gate</h1>
         <audio id="audio" controls></audio>
         <div class="controls">
-            <button onclick="playPrevious()">上一首</button>
-            <button onclick="playNext()">下一首</button>
+            <button onclick="playPrevious()">Previous</button>
+            <button onclick="playNext()">Next</button>
         </div>
         <div class="slider-container">
-            <label for="speed">播放速度: <span id="speed-value">1.0</span>x</label>
+            <label for="speed">Speed: <span id="speed-value">1.0</span>x</label>
             <input type="range" id="speed" min="0.1" max="2" step="0.1" value="1">
         </div>
     </div>
 
     <div id="playlist-container">
-        <h2 style="text-align: center; padding: 10px; background: #f7f7f7;">播放列表</h2>
+        <h2 style="text-align: center; padding: 10px; background: #f7f7f7;">Playlist</h2>
         <ul id="playlist">
             <li data-src="./bgm/cgbgm_t0.wav">登入</li>
             <li data-src=""></li>
@@ -223,6 +223,13 @@
             speedValue.textContent = speed.toFixed(1); // 显示 1 位小数
         });
 
+        // 监听滑块的键盘事件，阻止左右键默认行为
+        speedSlider.addEventListener('keydown', (event) => {
+            if (event.code === 'ArrowLeft' || event.code === 'ArrowRight') {
+                event.preventDefault();  // 阻止滑块默认的左右键行为
+            }
+        });
+
         // 监听空格键，播放或暂停音频
         window.addEventListener('keydown', (event) => {
             if (event.code === 'Space' || event.keyCode === 32) {
@@ -235,14 +242,22 @@
                     audio.pause();
                 }
             }
+
+            // 处理左右键快进/快退
+            if (event.code === 'ArrowRight') {
+                    audio.currentTime += 3; // 快进 5 秒
+                } else if (event.code === 'ArrowLeft') {
+                    audio.currentTime = Math.max(0, audio.currentTime - 5); // 快退 5 秒
+            }
         }, true);
 
-        // 修复进度条点击后空格键失效的问题
+        // 击后空格键失效的问题
         audio.addEventListener('focus', () => {
             setTimeout(() => {
                 audio.blur();  // 移除焦点，确保空格键有效
             }, 100);
         });
+
 
         // 默认加载第一首
         // loadTrack(currentTrackIndex);
