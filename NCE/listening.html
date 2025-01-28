@@ -167,13 +167,17 @@
     <div id="player-container">
         <h1>Audio Play</h1>
         <audio id="audio" controls></audio>
+        <div class="slider-container">
+            <label for="speed">Speed: <span id="speed-value">1.0</span>x</label>
+            <input type="range" id="speed" min="0.1" max="2" step="0.1" value="1">
+        </div>
         <div class="controls">
             <button onclick="playPrevious()">Previous</button>
             <button onclick="playNext()">Next</button>
         </div>
-        <div class="slider-container">
-            <label for="speed">Speed: <span id="speed-value">1.0</span>x</label>
-            <input type="range" id="speed" min="0.1" max="2" step="0.1" value="1">
+        <div class="controls">
+            <button onclick="rewindAudio()">⏪ 快退 3 秒</button>
+            <button onclick="forwardAudio()">⏩ 快进 3 秒</button>
         </div>
     </div>
 
@@ -554,6 +558,17 @@
         function playNext() {
             currentTrackIndex = (currentTrackIndex + 1) % tracks.length;
             loadTrack(currentTrackIndex);
+        }
+
+
+        // 快退功能
+        function rewindAudio() {
+            audio.currentTime = Math.max(0, audio.currentTime - 3); // 最小值不低于 0 秒
+        }
+
+        // 快进功能
+        function forwardAudio() {
+            audio.currentTime = Math.min(audio.duration, audio.currentTime + 3); // 最大值不超过音频长度
         }
 
         // 更新播放速度
