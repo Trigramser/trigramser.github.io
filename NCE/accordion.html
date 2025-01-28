@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEC Listening - Accordion Playlist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+        }
+
+        #player-container {
+            flex: 2;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        #audio {
+            width: 100%;
+            max-width: 800px;
+            margin-top: 20px;
+        }
+
+        #playlist-container {
+            flex: 1;
+            width: 400px;
+            background: #fff;
+            border-left: 2px solid #ccc;
+            overflow-y: auto;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            text-align: center;
+            padding: 10px;
+            background: #f7f7f7;
+            margin: 0;
+        }
+
+        #playlist {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .accordion-section {
+            border-bottom: 1px solid #ddd;
+        }
+
+        .accordion-header {
+            padding: 15px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: white;
+            transition: background-color 0.3s ease;
+        }
+
+        .accordion-header:hover {
+            background-color: #0056b3;
+        }
+
+        .accordion-content {
+            display: none;
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-top: 1px solid #ddd;
+        }
+
+        .accordion-content ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .accordion-content li {
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .accordion-content li:hover {
+            background: #f4f4f4;
+        }
+
+        .accordion-content li.active {
+            background: #007bff;
+            color: white;
+        }
+
+        .controls, .slider-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .slider-container label {
+            font-size: 16px;
+            margin-right: 10px;
+        }
+
+        .slider-container input[type="range"] {
+            width: 100%;
+            max-width: 800px;
+            margin: 10px auto;
+        }
+
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: #fff;
+            font-size: 14px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="player-container">
+        <h1>Audio Play</h1>
+        <audio id="audio" controls></audio>
+        <div class="controls">
+            <button onclick="playPrevious()">Previous</button>
+            <button onclick="playNext()">Next</button>
+        </div>
+        <div class="slider-container">
+            <label for="speed">Speed: <span id="speed-value">1.0</span>x</label>
+            <input type="range" id="speed" min="0.1" max="2" step="0.1" value="1">
+        </div>
+    </div>
+
+    <div id="playlist-container">
+        <h2>Playlist</h2>
+        <div id="playlist">
+            <div class="accordion-section">
+                <div class="accordion-header">NCE2</div>
+                <div class="accordion-content">
+                    <ul>
+                        <li data-src="./NCE2/01－A Private Conversation.mp3">01－A Private Conversation</li>
+                        <li data-src="./NCE2/02－Breakfast or Lunch.mp3">02－Breakfast or Lunch</li>
+                        <li data-src="./NCE2/03－Please Send Me a Card.mp3">03－Please Send Me a Card</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="accordion-section">
+                <div class="accordion-header">NCE3</div>
+                <div class="accordion-content">
+                    <ul>
+                        <li data-src="./NCE3/01－A Puma at Large.mp3">01－A Puma at Large</li>
+                        <li data-src="./NCE3/02－Thirteen Equals One.mp3">02－Thirteen Equals One</li>
+                        <li data-src="./NCE3/03－An Unknown Goddess.mp3">03－An Unknown Goddess</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 获取音频元素
+        const audio = document.getElementById('audio');
+        const speedSlider = document.getElementById('speed');
+        const speedValue = document.getElementById('speed-value');
+        const accordionHeaders = document.querySelectorAll('.accordion-header');
+
+        // 切换 Accordion 显示状态
+        accordionHeaders.forEach(header => {
+            header.addEventListener('click', () => {
+                const content = header.nextElementSibling;
+                const isOpen = content.style.display === 'block';
+
+                // 折叠所有内容
+                document.querySelectorAll('.accordion-content').forEach(content => {
+                    content.style.display = 'none';
+                });
+
+                // 如果当前未展开，则展开
+                if (!isOpen) content.style.display = 'block';
+            });
+        });
+
+        // 处理播放列表中的每首歌
+        const tracks = document.querySelectorAll('.accordion-content li');
+        let currentTrackIndex = 0;
+
+        function loadTrack(index) {
+            tracks.forEach(track => track.classList.remove('active'));
+            const selectedTrack = tracks[index];
+            selectedTrack.classList.add('active');
+            audio.src = selectedTrack.getAttribute('data-src');
+            audio.play();
+        }
+
+        tracks.forEach((track, index) => {
+            track.addEventListener('click', () => {
+                currentTrackIndex = index;
+                loadTrack(currentTrackIndex);
+            });
+        });
+
+        function playPrevious() {
+            currentTrackIndex = (currentTrackIndex - 1 + tracks.length) % tracks.length;
+            loadTrack(currentTrackIndex);
+        }
+
+        function playNext() {
+            currentTrackIndex = (currentTrackIndex + 1) % tracks.length;
+            loadTrack(currentTrackIndex);
+        }
+
+        speedSlider.addEventListener('input', () => {
+            const speed = parseFloat(speedSlider.value);
+            audio.playbackRate = speed;
+            speedValue.textContent = speed.toFixed(1);
+        });
+    </script>
+
+</body>
+</html>
