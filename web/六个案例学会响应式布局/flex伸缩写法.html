@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        #div-0{
+            display: flex;
+            width: 400px;
+            height: 400px;
+            background-color:  pink;
+        }
+        #div-0 div:nth-child(1){
+            width: 100px;
+            height: 200px;
+            background-color: blue;
+            flex:1;
+        }     
+        #div-0 div:nth-child(2){
+            width: 100px;
+            height: 200px;
+            flex: 1 0 20%;
+            background-color: red;
+        }     
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div id="div-0">
+        <div></div>
+        <div></div>
+    </div>
+</body>
+</html>

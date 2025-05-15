@@ -1,0 +1,325 @@
+
+<!DOCTYPE html>
+<html itemscope itemtype="https://schema.org/WebPage" lang="zh-cn">
+<head>
+<meta HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>免费在线 BMI 计算器 - 免费计算你的身体质量指数 (BMI)</title>
+<meta name="keywords" content="免费 BMI 计算器, BMI 计算器, BMI 指数 计算器, 身体质量指数, 减肥, 肥胖">
+<meta name="description" content="免费计算你的身体质量指数 (BMI). 身体质量指数 (Body Mass Index, 简称BMI), 亦称克托莱指数, 是目前国际上常用的衡量人体胖瘦程度以及是否健康的一个标准。BMI 值超标，意味着你必须减肥了。">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="distribution" content="Global">
+<meta name="Classification" content="Software">
+<meta name="robots" content="ALL">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="BMI 计算器">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="icon" sizes="16x16" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" sizes="192x192" href="https://image.onlinebmicalculator.com/logo/logo-android-192x192.png" type="image/png">
+<link rel="manifest" href="/manifest-cn.json">
+<meta name="msapplication-config" content="browserconfig-cn.xml" />
+<script>
+function Unit(pi_strHeightUnit, pi_strWeightUnit)
+{
+  document.getElementById("id_height_unit1").innerHTML = "("+pi_strHeightUnit+")";
+  document.getElementById("id_weight_unit1").innerHTML = "("+pi_strWeightUnit+")";
+  document.getElementById("id_height_unit2").innerHTML = pi_strHeightUnit;
+  document.getElementById("id_weight_unit2").innerHTML = pi_strWeightUnit;
+}
+</script> 
+
+<style type="text/css">
+body{text-align:center; margin:0px;padding:0px;font-size: 63%;font-family: "Segoe UI", verdana,arial,sans-serif,"微软雅黑","宋体";}
+div,p,td,th,ul,li,ol{}
+h1{font-size:1.8em;line-height:160%;padding:0px;margin:0px;text-align:left}
+h2 {font-size:1.4em;line-height:160%;padding:0px;margin:0px;text-align:left;}
+.h2_bmi{font-size:1.4em;line-height:180%;font-style:normal;padding:0px;margin:0px;}
+hr{height:0px;border:solid #ddd 0px;border-top-width:1px}
+a.external {background: url(https://image.onlinebmicalculator.com/external.png) center right no-repeat;padding-right: 13px}
+.clear{clear:both}
+
+/*lang*/
+.full_line{width:100%;margin:0px auto;padding:0px;border-bottom: 1px solid #e7e7fe;outline: 0px;
+-webkit-box-shadow: 0 4px 0 0 rgba(255,255,255,.06) inset,0 2px 3px 0 rgba(0,0,0,.1);
+-moz-box-shadow: 0 4px 0 0 rgba(255,255,255,.06) inset,0 2px 3px 0 rgba(0,0,0,.1);
+box-shadow: 0 4px 0 0 rgba(255,255,255,.06) inset,0 2px 3px 0 rgba(0,0,0,.1);}
+.full_top{background:#8DD8F8;margin:0px;padding:0px;width:100%;
+border-bottom: 1px solid #ffffff;
+background: #f0f0f0;
+background-image: -ms-linear-gradient (top,#8DD8F8 0%,#F4FAFD 100%);
+background-image: -moz-linear-gradient (top,#8DD8F8 0%,#F4FAFD 100%);
+background-image: -o-linear-gradient (top,#8DD8F8 0%,#F4FAFD 100%);
+background-image: -webkit-linear-gradient(top,#8DD8F8 0%,#F4FAFD 100%);
+background-image: linear-gradient(to bottom, #8DD8F8 0%,#F4FAFD 100%);
+background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0,#8DD8F8),color-stop(1,#F4FAFD));
+filter: progid:DXImageTransform.Microsoft.Gradient( gradientType=0,startColorStr=#8DD8F8,endColorStr=#F4FAFD);
+}
+.full_top #lang{color:#555;padding:0px;margin:0px auto;padding-top:5px;text-align:right;font-size:1.2em;line-height:150%;width:900px;}
+.full_top #lang a{padding: 0px 2px}
+
+/*head*/
+#bt{margin:0px auto; text-align:center; border:0px;width:900px}
+#head {height:135px;padding:0px 0px 0px 0px;color:#333;text-align:center;width:900px;margin:0px auto;}
+#head_l{margin:0px;padding:0px;width:220px;height:135px;overflow:hidden;float:left;}
+#head_l #head_logo{padding:0px}
+#head_r{margin:0px;padding:0px;margin-left:230px;height:135px;overflow:hidden;text-align:left;color:#ddd;}
+#head_r #head_title{padding-right:10px;}
+#head_r .title{font-size:2em;color:#444;Text-Decoration:none;margin:0px;padding-top:15px;}
+#head_r .desc{color:#666;padding-top:10px;margin:0px;font-size:1.2em;line-height:160%;text-align:left}
+
+/*menu*/
+.full{margin:10px 0px;padding:0px;}
+.menu{width:100%;padding:0px 4px 0px 4px;text-align:right;color:#404040}
+.menu A{font-size:12px;color:#404040;Text-Decoration:none}
+.menu A:hover{color:#0000ff;Text-Decoration:underline}
+#link_1{}
+#link_1 IMG{max-width:99%;margin:0px auto;height:auto}
+
+/*ad zone*/
+.azone{text-align:center;margin:20px auto}
+.ad_top_wrapper{width:auto;height:92px;overflow:hidden;}
+.ad_top{width:728px;height:90px;text-align:center;margin:0px;float:left}
+
+/*BMI Input area*/
+
+
+.my_bmi{margin:10px 0px 10px 0px}
+.my_bmi_ipt{float:left;width:500px}
+.my_bmi_def{float:right;width:350px}
+.my_bmi_def H2{padding-left:34px}
+.my_bmi_def table{border-spacing:0px;border-collapse: separate;width:100%;border:0px;}
+.my_bmi_def td,
+.my_bmi_def TH{font-size:1.4em;line-height:180%}
+.my_bmi_def TH{font-weight:bold;background-color:#8DD8F8;}
+.my_bmi_def .arrow{width:32px;background:#fff}
+
+.my_bmi_title{height:30px;margin-bottom:10px;}
+.bmi_result{border:1px dotted #ddd;background-color:#ffa;margin: 10px 0px 15px 0px;padding:2px;text-align:lef}
+.bmi_info{font-size:1.6em;line-height:180%;text-align:left;margin:5px 0px;padding:0px;}
+.bmi_val{font-weight:bold;}
+.bmi_val_normal{color:#390}
+.bmi_val_warning{color:#ff0000}
+
+/*Bmi History*/
+.my_history{margin:20px 0px 20px 0px}
+.my_history table{border-spacing: 1px;border-collapse: separate;width:99%;margin:0px auto;}
+.my_history TD{font-size:1.2em;line-height:180%}
+.bmi_history_img{margin:0px auto}
+#bmi_history_js{width:100%;height:480px}
+.nodata{padding:10px;line-height:180%;font-size:1.2em}
+
+/* forms */
+form {margin: 0;outline: none}
+input[type="text"],textarea{background:#eff8ff;border:1px solid #999}
+.DarkLines{background-color:#7CB5EC}
+.FieldTitle{background-color:#7CB5EC;color:#fff;vertical-align:middle;text-align:center;padding:0px}
+.FieldBody{background-color:#fff;color:#000;padding:0px}
+.ctrl input:focus,
+.ctrl textarea:focus,{background: #fffeec;border:2px solid #73A6FF;	}
+input[type="text"],
+input[type="password"],
+textarea,
+select{background:#eff8ff;border:1px solid #999;	font-size:1.2em;line-height:1.6em;}
+input[type="submit"],
+input[type="reset"]{padding:2px 10px;font-size:1.0em;line-height:100%;}
+.NL_Title{color:#444;vertical-align:middle;text-align:center}
+.NL_Msg{color:#444;padding:2px;font-weight:normal;font-size:1.4em;text-align:left;width:7em}
+.NL_Body{color:#000;padding:2px; font-size:1.4em;text-align:left}
+.note{font-size:11px;text-align:right}
+
+
+.div_tbl{border:1p solid #ccc;}
+.div_tbl .col{float:left;text-align:left;}
+.div_tbl .empty,
+.div_tbl .msg{width:120px;height:2.4em;font-size:1.4em;line-height:180%;}
+.div_tbl .ctrl{width:360px;height:2.4em;font-size:1.4em;line-height:180%;}
+.div_tbl .ctrl INPUT[type="text"],
+.div_tbl .ctrl INPUT[type="submit"],
+.div_tbl .ctrl SELECT {width:180px}
+.div_tbl .ctrl span{margin-left:10px}
+
+/*footer*/
+.footer{margin:20px auto;color:#666;}
+
+/*for mobile*/
+.for_desktop{}
+.for_mobile,
+.for_mobible_span{display:none}
+@media screen and (max-width: 992px)
+{
+.for_desktop{display:none;}
+.for_mobile{display:block}
+.for_mobible_span{display:inline}
+
+h1{font-size:1.4em}
+
+/*lang*/
+.full_top #lang{width:100%;}
+.full_top #lang .last{padding-right:15px;}
+
+/*head menu*/
+#bt{width:100%}
+#head{width:100%;height:4.5em;}
+#head_l{width:5em;height:4.5em}
+#head_r{margin-left:5.5em;height:4.5em}
+#head_logo{margin-left:1em}
+#head_logo IMG{max-width:95%;height:auto}
+#head_title{margin:0px 0px 0px 0px;}
+#head_r #head_title{padding:0px 4em 0px 0px}
+#head_r .title{padding:0.5em 0px 0px 0px;text-align:center;font-size:1.6em}
+.bmi_desc{margin:20px 10px;font-size:1.2em;line-height:160%;color:#555;text-align:left}
+
+
+/*bmi form*/
+.my_bmi{margin:10px}
+.my_bmi_ipt{float:none;width:100%;margin:10px auto;}
+.my_bmi_def{float:none;width:100%}
+.my_bmi_def h2{text-align:left;padding-left:0px}
+.bmi_history_img{max-width:95%;HEIGHT:auto;}
+
+.div_tbl{width:100%}
+.div_tbl .col{float:none}
+.div_tbl .msg{width:100%;font-size:1.4em;line-height:100%;height:1.4em;margin:1em 0em 0.5em 0em;}
+.div_tbl .ctrl{width:100%;font-size:1.4em;line-height:100%;}
+.div_tbl .ctrl INPUT[type="radio"]{margin-top:0.4em}
+.div_tbl .ctrl INPUT[type="text"]{width:99%;border:0px;outline: 0px;padding:0px;}
+.div_tbl .ctrl INPUT[type="submit"]{width:99%;}
+.div_tbl .ctrl SELECT {width:99%;padding:0px;}
+.div_tbl .first{}
+.div_tbl .empty{height:0px}
+.div_tbl .box{height:2em;width:99%;border:1px solid #999;background:#eff8ff;padding:2px;overflow:hidden}
+
+
+/*history*/
+.my_history{margin:10px}
+#bmi_history_js{width:100%;height:400px}
+
+/*my link*/
+#link_1{margin:10px}
+}
+
+@media (min-width:728px) and (max-width: 992px) 
+{
+.ad_top_wrapper{width:auto; height: 200px;}
+.ad_top{width: 728px;height:90px;margin:0px auto;float:none}
+
+#bmi_history_js{width:100%;height:320px}
+}
+@media (min-width:468px) and (max-width: 728px) 
+{
+.ad_top_wrapper{width:auto; height: 140px;margin:0px auto;}
+.ad_top{width: 468px; height: 60px;margin: 0px auto;float:none}
+#bmi_history_js{width:100%;height:300px}
+}
+@media (max-width: 467px) 
+{
+.ad_top_wrapper{width:auto; height: 140px;}
+.ad_top{width: 234px; height:60px;margin:0px auto;float:none}
+#bmi_history_js{width:100%;height:280px}
+}
+</style>
+</head>
+<body >
+<div class="full_line">
+<div class="full_top">
+<div id=lang>
+语言: 
+<a href='https://www.onlinebmicalculator.com/'>English</a> | 
+<a href='https://cn.onlinebmicalculator.com/'>简体中文</a> | 
+<a href='https://tw.onlinebmicalculator.com/' class="last">繁体中文</a>
+</div>
+
+<div id=head>
+<div id=head_l>
+  <div id=head_logo><a href="https://cn.onlinebmicalculator.com/" title="免费在线 BMI 计算器: 身体质量指数 (Body Mass Index, 简称BMI), 亦称克托莱指数, 是目前国际上常用的衡量人体胖瘦程度以及是否健康的一个标准。BMI 值超标，意味着你必须减肥了。"><img src="https://image.onlinebmicalculator.com/bmi-logo.png" width=200 height=135 border=0 align=left alt="免费在线 BMI 计算器: 身体质量指数 (Body Mass Index, 简称BMI), 亦称克托莱指数, 是目前国际上常用的衡量人体胖瘦程度以及是否健康的一个标准。BMI 值超标，意味着你必须减肥了。"></a></div>
+</DIV>
+<div id=head_r>
+  <div id=head_title>
+  <p class=title><b>免费在线 BMI 计算器</B></span><p class="desc for_desktop">身体质量指数 (Body Mass Index, 简称BMI), 亦称克托莱指数, 是目前国际上常用的衡量人体胖瘦程度以及是否健康的一个标准。BMI 值超标，意味着你必须减肥了。</p>
+  </div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="full">
+<div id=bt>
+
+
+
+<div class="bmi_desc for_mobile">身体质量指数 (Body Mass Index, 简称BMI), 亦称克托莱指数, 是目前国际上常用的衡量人体胖瘦程度以及是否健康的一个标准。BMI 值超标，意味着你必须减肥了。</div>
+
+
+<div class="azone for_desktop"><div class="ad_top_wrapper">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BMI.com top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5801877696325956"
+     data-ad-slot="3318273157"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+<div class="my_bmi">
+<div class="my_bmi_ipt">
+<div class="my_bmi_title"><h1>免费计算你的身体质量指数 (BMI)</h1></div>
+<form method="post" action="/">
+<div class="div_tbl">
+<div class="col msg first">度量单位:</div><div class="col ctrl"><div class="box"><input type="radio" name="f_units" value="units_is" id="f_units_is" checked OnClick="Unit('单位: 厘米 cm', '单位: 千克 kg');"> <label for="f_units_is">公制</label> &nbsp; <input type="radio" name="f_units" value="units_us" id="f_units_us"  OnClick="Unit('单位: 英寸 in', '单位: 磅 lb');"> <label for="f_units_us">英制</label></div></div>
+<div class="col msg">我的身高<span id="id_height_unit1" class="for_mobible_span">(单位: 厘米 cm)</span>:</div><div class="col ctrl"><div class="box"><input type=text size=6 name="f_height" value=""><span id="id_height_unit2" class="for_desktop">单位: 厘米 cm</span></div></div>
+<div class="col msg">我的体重<span id="id_weight_unit1" class="for_mobible_span">(单位: 千克 kg)</span>:</div><div class="col ctrl"><div class="box"><input type=text size=6 name="f_weight" value=""><span id="id_weight_unit2" class="for_desktop">单位: 千克 kg</span></div></div>
+<div class="col msg">BMI 标准:</div><div class="col ctrl"><select id="f_def" name="f_def">
+    <option value="def_international">国际标准</option>
+    <option value="def_chinese" selected="selected">中国标准</option>
+    <option value="def_japanese">日本标准</option>
+    <option value="def_singapore">新加坡标准</option>
+  </select> </div>
+<div class="col empty"></div><div class="col ctrl"><input type="checkbox" name="f_autosave" value="1"  checked> 自动保存 BMI 历史记录</div>
+<div class="col empty"></div><div class="col ctrl"><input type="submit" value="计算 BMI" title="计算 BMI" name="f_submit"/></div>
+<div class="clear"></div>
+</div>
+</form>
+</div>
+
+<div class="my_bmi_def">
+<div class="my_bmi_title"><h2 class="h2_bmi">BMI 中国标准</h2></div>
+<table><thead><tr><th class="arrow"></th><th>分类</th><th>BMI 范围</th></tr></thead><tbody><tr><td class="arrow"></td><td bgcolor="#CCCCCC">偏瘦</td><td bgcolor="#CCCCCC">&lt;= 18.4</td></tr>
+<tr><td class="arrow"></td><td bgcolor="#66cc00">正常</td><td bgcolor="#66cc00">18.5 ~ 23.9</td></tr>
+<tr><td class="arrow"></td><td bgcolor="#ffff00">过重</td><td bgcolor="#ffff00">24.0 ~ 27.9</td></tr>
+<tr><td class="arrow"></td><td bgcolor="#ff9900">肥胖</td><td bgcolor="#ff9900">&gt;= 28.0</td></tr>
+</tbody></table>
+</div>
+<div class="clear"></div>
+</div>
+<div class="azone for_mobile"><div class="ad_top_wrapper">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- BMI.com top -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5801877696325956"
+     data-ad-slot="3318273157"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div><div class="my_history"><div class="my_bmi_title"><h2>我的 BMI 历史记录</h2></div>
+    <table width=99% border=0 cellpadding=3 cellspacing=1 class=DarkLines>
+    <tr class=FieldTitle><td>#</td><td>日期</td><td>身高</td><td>体重</td><td>BMI</td><td>操作</td></tr><tr><td colspan=13 class=FieldBody><p class="nodata">当前没有任何 BMI 记录。请输入你的身高和体重，并选中“自动保存 BMI 历史记录”，记算你的 BMI 指数。</p></td></tr></table><p class="note">提示: 浏览器的 Cookie 和 JavaScript 必须启用. &nbsp; </p></div>
+<hr><div class="footer">版权所有 &copy; 2010 - 2024  保留所有权利
+  <br>Email: </div>
+
+
+</div>
+</div>
+
+
+</body>

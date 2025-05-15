@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Device Specific CSS</title>
+    <link rel="stylesheet" href="styles.css">
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var userAgent = navigator.userAgent.toLowerCase()
+            var link = document.createElement('link')
+            link.rel = 'stylesheet'
+            
+            if (/mobile/i.test(userAgent)) {
+                link.href = 'mobile.css'
+            } else if (/tablet|ipad|playbook|silk/i.test(userAgent)) {
+                link.href = 'tablet.css'
+            } else {
+                link.href = 'desktop.css'
+            }
+
+            document.head.appendChild(link)
+        })
+    </script>
+</head>
+<body>
+    <h1>Welcome to Device Specific CSS</h1>
+</body>
+</html>

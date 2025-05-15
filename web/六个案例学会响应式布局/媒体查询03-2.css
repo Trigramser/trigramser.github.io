@@ -1,0 +1,8 @@
+#div0 {
+    background-color: blue;
+}
+#div0 div {
+width: 50%;
+height: 50px;
+/* background-color: pink; */
+}

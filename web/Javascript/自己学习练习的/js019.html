@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>商品名称</th>
+            <th>商品价格</th>
+            <th>商品数量</th>
+            <th>总价</th>
+            <th>收货地址</th>
+        </tr>
+        <tr>
+            <th>小米青春版PLUS</th>
+            <th>1999元</th>
+            <th>10</th>
+            <th>100</th>
+            <th>昆明西山</th>
+        </tr>
+    </table>
+</body>
+    <script>
+        // 1 用户输入
+        let price = prompt('请输入商品单价')
+        let num = prompt('请输入商品数量')
+        let address = prompt('请输入收货地址')
+        alert(`您需要支付${price*num}元，商品将在${address}发货`)
+
+        // 2 计算价格
+        let total = price * num
+
+        // 3 输出结果
+        document.write(`
+            <table>
+                <tr>
+                    <th>商品名称</th>
+                    <th>商品价格</th>
+                    <th>商品数量</th>
+                    <th>总价</th>
+                    <th>收货地址</th>
+                </tr>
+                <tr>
+                    <th>小米青春版PLUS</th>
+                    <th>${price}元</th>
+                    <th>${num}</th>
+                    <th>${total}</th>
+                    <th>${address}</th>
+                </tr>
+            </table>
+        `)
+    </script>
+</html>
