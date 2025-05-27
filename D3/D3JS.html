@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>D3 Zoom Arc - 弧线</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body { margin: 0; overflow: hidden; }
+    svg { border: 1px solid #ccc; display: block; margin: auto; }
+  </style>
+</head>
+<body>
+  <svg width="1000" height="800"></svg>
+
+  <script>
+    const svg = d3.select("svg");
+    const g = svg.append("g");
+
+    const centerX = 500;
+    const centerY = 400;
+    const radius = 100;
+
+    // 1/5 圆的角度
+    const startAngle = 0;
+    const endAngle = Math.PI * 2 / 5; // 72°
+
+    // 使用 arc path 创建圆弧路径（内外半径相同）
+    const arcPath = d3.arc()
+      .innerRadius(radius)
+      .outerRadius(radius) // 相同表示只有一条弧线
+      .startAngle(startAngle)
+      .endAngle(endAngle);
+
+    const arc = g.append("path")
+      .attr("d", arcPath())
+      .attr("fill", "none") // 不填充
+      .attr("stroke", "black")
+      .attr("stroke-width", 2)
+      .attr("transform", `translate(${centerX}, ${centerY})`)
+      .on("mouseover", function () {
+        d3.select(this)
+          .attr("stroke", "orange")
+          .attr("stroke-width", 6);
+      })
+      .on("mouseout", function () {
+        d3.select(this)
+          .attr("stroke", "black")
+          .attr("stroke-width", 2);
+      });
+
+    // 缩放支持
+    const zoom = d3.zoom()
+      .scaleExtent([0.5, 5])
+      .on("zoom", (event) => {
+        g.attr("transform", event.transform);
+      });
+
+    svg.call(zoom);
+  </script>
+</body>
+</html>

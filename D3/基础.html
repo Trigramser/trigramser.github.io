@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>D3 Line Chart with Zoom</title>
+  <script src="d3.v7.min.js"></script>
+  <style>
+    svg {
+      border: 1px solid #ccc;
+      background: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+  <svg width="800" height="500"></svg>
+
+  <script>
+    // 你的原始数据
+    const x = [0, 1, 2, 3, 4];
+    const y = [10, 20, 15, 25, 30];
+
+    // 合并为对象数组
+    const data = x.map((d, i) => ({ x: d, y: y[i] }));
+
+    const svg = d3.select("svg");
+    const width = +svg.attr("width");
+    const height = +svg.attr("height");
+    const margin = { top: 20, right: 30, bottom: 40, left: 50 };
+
+    const innerWidth = width - margin.left - margin.right;
+    const innerHeight = height - margin.top - margin.bottom;
+
+    const g = svg.append("g")
+      .attr("transform", `translate(${margin.left},${margin.top})`);
+
+    const xScale = d3.scaleLinear()
+      .domain(d3.extent(x))
+      .range([0, innerWidth]);
+
+    const yScale = d3.scaleLinear()
+      .domain(d3.extent(y))
+      .range([innerHeight, 0]);
+
+    // const xAxis = d3.axisBottom(xScale);
+    // const yAxis = d3.axisLeft(yScale);
+
+    // const xAxisGroup = g.append("g")
+    //   .attr("transform", `translate(0,${innerHeight})`)
+    //   .call(xAxis);
+
+    // const yAxisGroup = g.append("g")
+    //   .call(yAxis);
+
+    const line = d3.line()
+      .x(d => xScale(d.x))
+      .y(d => yScale(d.y));
+
+    const path = g.append("path")
+      .datum(data)
+      .attr("fill", "none")
+      .attr("stroke", "black")
+      .attr("stroke-width", 2)
+      .attr("d", line);
+
+    // 缩放行为
+    const zoom = d3.zoom()
+    //   .scaleExtent([0.5, 10])
+      .on("zoom", (event) => {
+
+        // xAxisGroup.call(xAxis.scale(zx));
+        // yAxisGroup.call(yAxis.scale(zy));
+
+        g.attr("transform", event.transform);
+      });
+
+    svg.call(zoom);
+  </script>
+</body>
+</html>

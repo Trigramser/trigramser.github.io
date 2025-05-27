@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>D3 Line Chart with Zoom</title>
+  <script src="d3.v7.min.js"></script>
+  <style>
+    svg {
+      border: 1px solid #ccc;
+      background: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+  <svg width="800" height="500"></svg>
+
+  <script>
+    // 示例二维数组数据
+    const x = [
+      [0, 1, 2, 3],
+      [0, 1, 2, 3]
+    ];
+
+    const y = [
+      [10, 15, 20, 25],
+      [30, 28, 25, 22]
+    ];
+
+
+    function drawMultiLineChart(svg, x, y, options = {}) {
+        const width = +svg.attr("width");
+        const height = +svg.attr("height");
+        const margin = options.margin || { top: 20, right: 20, bottom: 40, left: 50 };
+
+        const innerWidth = width - margin.left - margin.right;
+        const innerHeight = height - margin.top - margin.bottom;
+
+        const g = svg.append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        const lines = x.map((xRow, i) =>
+            xRow.map((xVal, j) => ({ x: xVal, y: y[i][j] }))
+        );
+
+        const xScale = d3.scaleLinear()
+            .domain([d3.min(x.flat()), d3.max(x.flat())])
+            .range([0, innerWidth]);
+
+        const yScale = d3.scaleLinear()
+            .domain([d3.min(y.flat()), d3.max(y.flat())])
+            .range([innerHeight, 0]);
+
+        const line = d3.line()
+            .x(d => xScale(d.x))
+            .y(d => yScale(d.y));
+
+        g.selectAll("path.line")
+            .data(lines)
+            .enter()
+            .append("path")
+            .attr("class", "line")
+            .attr("fill", "none")
+            .attr("stroke", options.stroke || "steelblue")
+            .attr("stroke-width", options.strokeWidth || 2)
+            .attr("d", d => line(d));
+
+        // 缩放行为
+        const zoom = d3.zoom()
+        //   .scaleExtent([0.5, 10])
+        .on("zoom", (event) => {
+
+            // xAxisGroup.call(xAxis.scale(zx));
+            // yAxisGroup.call(yAxis.scale(zy));
+
+            g.attr("transform", event.transform);
+        });
+
+        svg.call(zoom);
+    }
+    // 调用函数绘制图形
+    const svg = d3.select("svg");
+    drawMultiLineChart(svg, x, y, { stroke: "black", strokeWidth: 2 });
+    
+  </script>
+</body>
+</html>
