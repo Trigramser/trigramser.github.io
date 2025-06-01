@@ -44,14 +44,27 @@
             # 在/.ssh文件夹中创建一个config文件，里面写入如下5行内容。注意，最后一个test需要替换成上面相应的名称
                 # github
                 Host test
-                HostName github.com
-                PreferredAuthentications publickey
-                IdentityFile ~/.ssh/test
+                    HostName github.com
+                    PreferredAuthentications publickey
+                    IdentityFile ~/.ssh/test
                 # github
                 Host ch
-                HostName github.com
-                PreferredAuthentications publickey
-                IdentityFile ~/.ssh/ch
+                    HostName github.com
+                    PreferredAuthentications publickey
+                    IdentityFile ~/.ssh/ch
+            # 2025/0601 下面增加了：Port 443，还进行的这个更改：HostName ssh.github.com
+                # github
+                Host test
+                    HostName ssh.github.com
+                    Port 443
+                    PreferredAuthentications publickey
+                    IdentityFile ~/.ssh/test
+                # github
+                Host ch
+                    HostName ssh.github.com
+                    Port 443
+                    PreferredAuthentications publickey
+                    IdentityFile ~/.ssh/ch
         
             git clone <url> 
                 # <url>在github中右上点击绿色底框中“code”，选SSH查看，复制。
