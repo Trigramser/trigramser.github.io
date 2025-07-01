@@ -1,0 +1,467 @@
+<<<<<<< HEAD
+quaint:
+    It is a quaint little village.
+#那是一个颇具古风的 小村庄。
+
+vogue:
+    The popular vogue for tearing down buildings after the war virtually destroyed the city's architecture.
+#战后拆毁建筑物的潮流实际上破坏了该市的建筑风格。
+
+apply:
+    He wants a job in which he can apply his foreign language.
+#他希望得到一份能使他的外语有用武之地的工作。
+
+cite:
+    The minister cited the latest crime figures as proof of the need for more police.
+#部长引用最近的犯罪统计数字来证明需要增加警察。
+
+fast:
+    He is fasting for a week for religious reasons.
+#他因宗教原因斋戒一周。
+
+discourage:
+    The thought of how much he had to do discouraged him.
+#想想得干多少活，他就心灰意冷。
+
+somber:
+    A funeral is a somber occasion.
+#葬礼是个忧郁的场合。
+
+strip:
+    He stripped the bark with a knife.
+#他用小刀刮去树的外皮。
+
+eccentric:
+    The old man has some eccentric habits.
+#这位老人有一些古怪的习惯。
+
+imperative:
+    It is absolutely imperative that the government should pass laws to forbid a monopoly of any product or service.
+#政府立法禁止对任何一种商品或服务的垄断，这是非常必要的。
+
+ascribe:
+    They ascribed the outbreak of food poisoning to unhygienic conditions in the butchers' shops.
+#他们把食物中毒归咎于肉铺的卫生条件较差。
+
+thrive:
+    His business thrived in the years before the war.
+#在战前那些岁月里，他的生意兴隆。
+
+spectrum:
+    There's a wide spectrum of opinions on this question.
+#对这个问题的看法众说纷纭，莫衷一是。
+
+reinstate:
+    He was dismissed, but was later reinstated in his job.
+#他被解雇了，但后来恢复了原职。
+
+compassion:
+    He is a man with little compassion.
+#他没有多少同情心。
+
+glance:
+    The problem was less serious at first glance.
+#乍看之下，问题还没有那么严重。
+
+doctrine:
+    Not confined by doctrines, he made a breakthrough in the field.
+#他不拘泥于教条，所以在这个领域中获得了突破性的成就。
+
+optimism:
+    We are looking forward to the future with optimism.
+#我们以乐观的态度展望未来
+
+formidable:
+    She has a formidable list of qualifications.
+#她有一长串令人敬畏的资历。
+
+fascinate:
+    All the visitors were fascinated by the fantastic tropical scenery.
+#所有的游客都被奇异的热带景色迷住了。
+
+conventional:
+    She was a respectable married woman with conventional opinions.
+#她是位品行端正、观念传统的已婚女子。
+
+cabinet:
+    The Cabinet meets next week to discuss foreign trade.
+#内阁于下周开会讨论外贸问题。
+
+prohibit:
+    Swimming is prohibited in the lake because it provides the city with drinking water.
+#湖中禁止游泳，因为它向全城供应饮用水。
+
+recount:
+    I listened to him recount an anecdote about a woman he'd met on a train.
+#我听他讲述关于他在火车上遇到的一个妇女的铁事。
+
+theatrical:
+    His father is a theatrical agent.
+#他父亲是个演出经纪人。
+
+strive:
+    The poor woman strove to suppress her tears as if weeping were a disgrace.
+#那个可怜的妇女克制着泪水，仿佛哭是一种耻辱。
+
+temporal:
+    Temporal power and wealth are more important to some people than a spiritual promise of life after death.
+#现世的权力和财富对一些人来说比死后精神的永生更重要。
+
+sermon:
+    Today's sermon was on the importance of compassion.
+#今天的布道是关于同情的重要性。
+
+yacht:
+    Her yacht is moored in the harbor.
+#她的游艇停泊在港口里。
+
+cargo:
+    The ship was carrying a cargo of wool from China to France.
+#这艘船正将羊毛货品从中国运往法国。
+
+anticipate:
+    We had anticipated that the enemy would try to cross the river and had destroyed the bridge.
+#我们料到敌人可能设法过河，所以把桥毁了。
+
+indifferent:
+    I don't like the restaurant much -- the food was indifferent and the room was cold.
+#我不大喜欢这家餐馆——食物一般，房间还很冷。
+
+grill:
+    She decided to grill the sausages rather than fry them.
+#她决定烤香肠而不是煎香肠。
+
+spin:
+    She heard footsteps behind her, and spun around to see who was there.
+#她听见后面有脚步声，急忙转过身去看是谁。
+
+militia:
+    A UN force has been sent in to stop fighting in the city between the three rival militias.
+#一支联合国部队被派去制止城市中三个民兵组织之间的战斗。
+
+assess:
+    It is difficult to assess exactly how much damage was caused.
+#（我们）很难精确评估造成了多大损失。
+
+queue:
+    Students queued up in an orderly way for their turn to get served.
+#学生们有秩序地排着队等待打饭。
+
+emigrate:
+    Millions of Germans emigrated from Europe to America in the nineteenth century.
+#19 世纪数百万德国人从欧洲移民美国。
+
+stir:
+    A breath of wind stirred the lake.
+#一阵轻风吹皱了湖面。
+
+sideline:
+    Jim works in a bank, but teaches French as a sideline.
+#吉姆在银行工作，但也兼职教法语。
+
+fiscal:
+    In the US the government fiscal year starts on October 1st.
+#在美国，政府的财政年度始于10月1日。
+
+medieval:
+    We visited some medieval buildings.
+#我们参观了一些中世纪的建筑。
+
+muddy:
+    Our car drove slowly along the muddy country road.
+#我们的车在乡间泥污的道路上缓缓而行。
+
+spectacular:
+    There will be a spectacular display of fireworks in the park on the eve of National Day.
+#国庆节前夕公园将有壮观的烟火表演。
+
+slur:
+    Her letter contained several outrageous slurs on her former colleagues.
+#她的信中有好几处恶意诋毁她以前同事的话。
+
+bare:
+    Her arms were bare and covered with freckles.
+#她裸露的手臂上布满了斑点。
+
+groan:
+    The dying man groaned with agony as the rescuers tried to move him.
+#当救护人员试图移动他的时候，这名垂死的男子痛苦地呻吟起来。
+
+garment:
+    Each garment was inspected before leaving the factory.
+#每件衣服在出厂前都经过了仔细检查。
+
+commonplace:
+    It is believed that soon it will be commonplace for people to travel to the moon.
+#相信用不了多久，人们去月球旅行这件事就会变得很常见。
+
+compact:
+    The soil was so compact that I was hardly able to force a spade into it.
+#土地太硬实了，我拿铁锹也很难挖进去。
+
+acquit:
+    She was acquitted of all the charges against her.
+#对她所有的指控都宣判不成立。
+
+temper:
+    She is of a quick/hot/short temper.
+#她脾气急躁。
+
+drought:
+    The drought lasted for more than three months and half of the crops died.
+#干旱持续了三个多月，半的庄稼枯死了。
+
+emit:
+    People in the neighborhood accused the factory of emitting black smoke into the air.
+#工厂附近的居民指控该厂把黑烟排放到空气中。
+
+transfer:
+    You can transfer to Bus No.49 at the next stop
+#你可以在下一站转乘49路公共汽车。
+
+decree:
+    The committee decreed the film unsuitable for children.
+#委员会裁定该影片不适合儿童观看。
+
+swing:
+    He walked briskly along the path, swinging his rolled-up umbrella.
+#他轻快地走在路上，挥动着收拢的雨伞。
+
+gleam:
+    A gleam of interest came into his eyes.
+#他眼里流露出一丝感兴趣的神情。
+
+=======
+quaint:
+    It is a quaint little village.
+#那是一个颇具古风的 小村庄。
+
+vogue:
+    The popular vogue for tearing down buildings after the war virtually destroyed the city's architecture.
+#战后拆毁建筑物的潮流实际上破坏了该市的建筑风格。
+
+apply:
+    He wants a job in which he can apply his foreign language.
+#他希望得到一份能使他的外语有用武之地的工作。
+
+cite:
+    The minister cited the latest crime figures as proof of the need for more police.
+#部长引用最近的犯罪统计数字来证明需要增加警察。
+
+fast:
+    He is fasting for a week for religious reasons.
+#他因宗教原因斋戒一周。
+
+discourage:
+    The thought of how much he had to do discouraged him.
+#想想得干多少活，他就心灰意冷。
+
+somber:
+    A funeral is a somber occasion.
+#葬礼是个忧郁的场合。
+
+strip:
+    He stripped the bark with a knife.
+#他用小刀刮去树的外皮。
+
+eccentric:
+    The old man has some eccentric habits.
+#这位老人有一些古怪的习惯。
+
+imperative:
+    It is absolutely imperative that the government should pass laws to forbid a monopoly of any product or service.
+#政府立法禁止对任何一种商品或服务的垄断，这是非常必要的。
+
+ascribe:
+    They ascribed the outbreak of food poisoning to unhygienic conditions in the butchers' shops.
+#他们把食物中毒归咎于肉铺的卫生条件较差。
+
+thrive:
+    His business thrived in the years before the war.
+#在战前那些岁月里，他的生意兴隆。
+
+spectrum:
+    There's a wide spectrum of opinions on this question.
+#对这个问题的看法众说纷纭，莫衷一是。
+
+reinstate:
+    He was dismissed, but was later reinstated in his job.
+#他被解雇了，但后来恢复了原职。
+
+compassion:
+    He is a man with little compassion.
+#他没有多少同情心。
+
+glance:
+    The problem was less serious at first glance.
+#乍看之下，问题还没有那么严重。
+
+doctrine:
+    Not confined by doctrines, he made a breakthrough in the field.
+#他不拘泥于教条，所以在这个领域中获得了突破性的成就。
+
+optimism:
+    We are looking forward to the future with optimism.
+#我们以乐观的态度展望未来
+
+formidable:
+    She has a formidable list of qualifications.
+#她有一长串令人敬畏的资历。
+
+fascinate:
+    All the visitors were fascinated by the fantastic tropical scenery.
+#所有的游客都被奇异的热带景色迷住了。
+
+conventional:
+    She was a respectable married woman with conventional opinions.
+#她是位品行端正、观念传统的已婚女子。
+
+cabinet:
+    The Cabinet meets next week to discuss foreign trade.
+#内阁于下周开会讨论外贸问题。
+
+prohibit:
+    Swimming is prohibited in the lake because it provides the city with drinking water.
+#湖中禁止游泳，因为它向全城供应饮用水。
+
+recount:
+    I listened to him recount an anecdote about a woman he'd met on a train.
+#我听他讲述关于他在火车上遇到的一个妇女的铁事。
+
+theatrical:
+    His father is a theatrical agent.
+#他父亲是个演出经纪人。
+
+strive:
+    The poor woman strove to suppress her tears as if weeping were a disgrace.
+#那个可怜的妇女克制着泪水，仿佛哭是一种耻辱。
+
+temporal:
+    Temporal power and wealth are more important to some people than a spiritual promise of life after death.
+#现世的权力和财富对一些人来说比死后精神的永生更重要。
+
+sermon:
+    Today's sermon was on the importance of compassion.
+#今天的布道是关于同情的重要性。
+
+yacht:
+    Her yacht is moored in the harbor.
+#她的游艇停泊在港口里。
+
+cargo:
+    The ship was carrying a cargo of wool from China to France.
+#这艘船正将羊毛货品从中国运往法国。
+
+anticipate:
+    We had anticipated that the enemy would try to cross the river and had destroyed the bridge.
+#我们料到敌人可能设法过河，所以把桥毁了。
+
+indifferent:
+    I don't like the restaurant much -- the food was indifferent and the room was cold.
+#我不大喜欢这家餐馆——食物一般，房间还很冷。
+
+grill:
+    She decided to grill the sausages rather than fry them.
+#她决定烤香肠而不是煎香肠。
+
+spin:
+    She heard footsteps behind her, and spun around to see who was there.
+#她听见后面有脚步声，急忙转过身去看是谁。
+
+militia:
+    A UN force has been sent in to stop fighting in the city between the three rival militias.
+#一支联合国部队被派去制止城市中三个民兵组织之间的战斗。
+
+assess:
+    It is difficult to assess exactly how much damage was caused.
+#（我们）很难精确评估造成了多大损失。
+
+queue:
+    Students queued up in an orderly way for their turn to get served.
+#学生们有秩序地排着队等待打饭。
+
+emigrate:
+    Millions of Germans emigrated from Europe to America in the nineteenth century.
+#19 世纪数百万德国人从欧洲移民美国。
+
+stir:
+    A breath of wind stirred the lake.
+#一阵轻风吹皱了湖面。
+
+sideline:
+    Jim works in a bank, but teaches French as a sideline.
+#吉姆在银行工作，但也兼职教法语。
+
+fiscal:
+    In the US the government fiscal year starts on October 1st.
+#在美国，政府的财政年度始于10月1日。
+
+medieval:
+    We visited some medieval buildings.
+#我们参观了一些中世纪的建筑。
+
+muddy:
+    Our car drove slowly along the muddy country road.
+#我们的车在乡间泥污的道路上缓缓而行。
+
+spectacular:
+    There will be a spectacular display of fireworks in the park on the eve of National Day.
+#国庆节前夕公园将有壮观的烟火表演。
+
+slur:
+    Her letter contained several outrageous slurs on her former colleagues.
+#她的信中有好几处恶意诋毁她以前同事的话。
+
+bare:
+    Her arms were bare and covered with freckles.
+#她裸露的手臂上布满了斑点。
+
+groan:
+    The dying man groaned with agony as the rescuers tried to move him.
+#当救护人员试图移动他的时候，这名垂死的男子痛苦地呻吟起来。
+
+garment:
+    Each garment was inspected before leaving the factory.
+#每件衣服在出厂前都经过了仔细检查。
+
+commonplace:
+    It is believed that soon it will be commonplace for people to travel to the moon.
+#相信用不了多久，人们去月球旅行这件事就会变得很常见。
+
+compact:
+    The soil was so compact that I was hardly able to force a spade into it.
+#土地太硬实了，我拿铁锹也很难挖进去。
+
+acquit:
+    She was acquitted of all the charges against her.
+#对她所有的指控都宣判不成立。
+
+temper:
+    She is of a quick/hot/short temper.
+#她脾气急躁。
+
+drought:
+    The drought lasted for more than three months and half of the crops died.
+#干旱持续了三个多月，半的庄稼枯死了。
+
+emit:
+    People in the neighborhood accused the factory of emitting black smoke into the air.
+#工厂附近的居民指控该厂把黑烟排放到空气中。
+
+transfer:
+    You can transfer to Bus No.49 at the next stop
+#你可以在下一站转乘49路公共汽车。
+
+decree:
+    The committee decreed the film unsuitable for children.
+#委员会裁定该影片不适合儿童观看。
+
+swing:
+    He walked briskly along the path, swinging his rolled-up umbrella.
+#他轻快地走在路上，挥动着收拢的雨伞。
+
+gleam:
+    A gleam of interest came into his eyes.
+#他眼里流露出一丝感兴趣的神情。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,643 @@
+<<<<<<< HEAD
+insecure:
+    an insecure investment
+#无保障的投资
+    an insecure marriage
+#基础不牢的婚姻
+    be insecure about the future
+#无法把握前途
+    He always felt insecure in a group of strangers.
+#他在陌生人中间总感到局促不安。
+
+indemonstrable:
+    It's a theory that seems valid but is indemonstrable.
+#这是一个看上去有充分根据却无法加以证明的理论。
+
+interactive:
+    The concept is of an interactive museum whereby pressing buttons children can get the exhibits to work.
+#这个概念是一个互动的博物馆，在那里，通过按按钮，孩子们可以让展品工作。
+
+walrus:
+    The beach is thronged with walruses.
+#海滩上挤满了海象。
+
+enervate:
+    After the illness, he felt enervate and listless.
+#他生病后感到体力虚弱，精神倦怠。
+
+cannily:
+    I've watched you looking at people cannily.
+#我注意到你在机灵地看别人。
+
+heavenly:
+    heavenly spirits
+#天神
+    heavenly music
+#圣乐
+    have a heavenly time
+#玩得极其痛快
+    feel heavenly happy
+#感到非常快乐
+    The idea of spending two weeks with him may seem heavenly.
+#这个与他共度两周的主意似乎妙不可言。
+
+outlast:
+    The business they set up outlasted them all.
+#他们建立的公司在他们全部过世后还存在着。
+
+preconception:
+    He upset all his preconceptions about the opposite sex.
+#他改变了对异性的一切成见。
+
+spanking:
+    a spanking wind
+#凛冽的风
+    a spanking car
+#极好的车
+    We have made spanking speed in the journey.
+#我们旅行的速度非常快。
+
+stellar:
+    stellar light
+#星光
+    a stellar player
+#杰出的选手
+    the stellar name
+#影星的名字
+    Her career so far has been stellar.
+#她的事业至今很出色。
+
+misanthrope:
+    The play is about a neurotic philanthropist who turns into an embittered misanthrope.
+#这出戏讲的是一个神经质的慈善家变成一个愤世嫉俗的人的故事。
+
+beaded:
+    beaded dewdrops
+#成串的露珠
+    beaded lightning
+#珠状闪电
+    be beaded with sweat
+#满身是汗
+    She wore an elaborately beaded dress.
+#她穿着一件缀有精致珠子的连衣裙。
+
+convivial:
+    a convivial atmosphere
+#欢乐的气愤
+    The wine made the party very convivial.
+#这酒使宴会满座生欢。
+
+decrepit:
+    a decrepit old man
+#老翁
+    the decrepit economy
+#崩溃的经济
+    decrepit equipment
+#陈旧的设备
+    No one should have to live in a house that's so run-down and decrepit.
+#不能让人住在这样一座年久失修的破房子里。
+
+exigency:
+    take measures to meet any sudden exigency
+#采取措施以应付任何的突发危急
+    help in any exigency
+#危急中给予的帮助
+    The exigencies of work kept him from taking a vacation.
+#紧急的工作任务使他无法脱身度假。
+
+recast:
+    recast a cracked bell
+#重铸一个有裂缝的钟
+    recast one's political image
+#重塑政治形象
+    She recast her novel as a musical comedy.
+#她小说改写为一部音乐喜剧。
+
+stocky:
+    a stocky building
+#低矮结实的房屋
+    a stocky chap
+#矮壮的小伙子
+    He was a stocky and strong man.
+#他是个敦实强壮的男人。
+
+euphemistic:
+    euphemistic wording
+#委惋的措辞
+    I always smile all the day nowadays and I will express my thought in a euphemistic way.
+#现在，我常常保持着微笑，我会用委婉的方式表达我的想法。
+
+impermeable:
+    a coat impermeable to rain
+#防水外套
+    The bridge became absolutely impermeable.
+#大桥已绝对没法通过。
+
+recreational:
+    recreational facilities
+#娱乐设施
+    recreational activities
+#娱乐活动
+    recreational mathematics
+#趣味数学
+
+self-conscious:
+    a self-conscious smile
+#不自然得微笑
+    her self-conscious identification with the upper classes
+#她对上流社会的有意识的自我认同
+    The singer tried not to look self-conscious.
+#歌手试图使自己显得自然。
+
+exorbitant:
+    exorbitant rent
+#过高的租金
+    exorbitant demands
+#过高的要求
+    an exorbitant case
+#不在法律范围内的案件
+    The bill for the dinner was exorbitant.
+#晚餐的价格过高。
+
+transgress:
+    transgress the rules
+#违反规章
+    transgress the right of the individual
+#侵犯个人权利
+    His words transgressed the bounds of good taste.
+#他的话有伤大雅。
+
+impatience:
+    await sb. with impatience
+#不耐烦地等待某人
+    He's bursting with impatience to see her.
+#他迫不及待想见到她。
+
+insincere:
+    She is insincere with her neighbors.
+#她对邻居一片虚情假意。
+
+fumigate:
+    They had to fumigate the cellar to get rid of cockroaches.
+#他们不得不用烟熏地下室来清除章螂。
+
+perspire:
+    He was perspiring in his thick woolly suit.
+#他穿着厚毛质的衣服，热得直出汗。
+
+affective:
+    affective language
+#情感语言
+
+elongate:
+    elongate a rubber band
+#拉长像皮筋
+    an elongate tail
+#细长的尾巴
+    The plants have weak elongated stems.
+#这些植物都有着细长的茎。
+
+unjustifiable:
+    The cost to the taxpayers of such a celebration would be unjustifiable.
+#对纳税人来说，这一庆典的花费是毫无道理的。
+
+remiss:
+    be remiss in one's duty
+#玩忽职守
+    The service in this hotel is very remiss.
+#这家旅馆的服务极其马虎。
+
+revival:
+    stage a revival of a 1950s play
+#重演一部20世纪50年代的戏剧
+    An economic revival is sweeping the country.
+#经济复兴正在席卷全国。
+
+vigilance:
+    vigilance against terrorists
+#对恐怖分子的警惕
+    the vigilance of a person's nerves
+#人的神经敏感
+    The police said that it was thanks to the vigilance of a neighbor that the fire was discovered before it could spread.
+#警察称多亏一位邻居发现了火情，火势才没有蔓延开来。
+
+verbosity:
+    She's just spent two hours telling us about her future plans with her usual verbosity.
+#她和往常一样唠唠叨叨，刚刚花了两个小时告诉我们她今后的计划。
+
+venturesome:
+    a venturesome spirit
+#冒险精神
+    They set out on a venturesome journey across the mountains.
+#他们动身开始一次跨越群山的冒险旅程。
+
+naivete:
+    He demonstrated a worrying naivete about political issues.
+#他在政治问题上极其幼稚，令人担心。
+
+analogous:
+    Sleep is analogous to death.
+#睡眠可以和死亡相比拟。
+
+expressly:
+    This is an English dictionary expressly compiled for foreign students.
+#这是一部特地为外国学生编写的英语词典。
+
+verification:
+    After following various verification procedures, he declared the manuscript to be genuine.
+#经过了各种验证手法后，他宣布那部手稿是真迹。
+
+mysticism:
+    Part two introduces kinds of explanations to mysticism.
+#第二部分是介绍神秘主义的来源与多种解释。
+
+nonporous:
+    nonporous soil
+#不渗水的土壤
+
+unarticulated:
+    unarticulated sentences
+#表达不清的句子
+
+bonanza:
+    a tourist bonanza
+#旅游业的繁荣
+    The rise in house prices meant that those who were selling enjoyed a bonanza.
+#房价的上升意味着那些售房者赚了大钱。
+
+transitoriness:
+    the transitoriness of human glory
+#人类荣耀的转瞬即逝
+
+preternatural:
+    Her face not only kept its youth but did so to a preternatural extent.
+#她的脸不仅保持着青春，而且是异常地年轻。
+
+coalesce:
+    The edges of the wound coalesced.
+#伤口愈合了。
+
+pugnacious:
+    He became very pugnacious as a result of being bullied at school.
+#由于在学校受欺负，他变得非常好斗。
+
+spurn:
+    spurn the ground
+#践踏地面
+    spurn one's appeal
+#拒绝恳求
+    a person spurned by society
+#为社会所摒弃的人
+    She spurned my offer of help.
+#对于我的帮助她不屑一顾。
+
+dilatory:
+    be dilatory in action
+#行动拖拉
+    dilatory and evasive tactics
+#拖延规避战术
+    His behavior is generally dilatory, so it's not surprising he's late.
+#他一向慢吞吞的，所以迟到不奇怪。
+
+regulatory:
+    heat regulatory system
+#温度调节系统
+    The regulatory reform tends to eliminate red tape at all levels of government.
+#这些行政管理改革在消除各级政府的官僚主义。
+
+diurnal:
+    the diurnal task
+#每天得例行任务
+    a diurnal animal
+#昼行性动物
+    Most birds are diurnal.
+#大多数鸟在白天活动。
+
+underscore:
+    underscore one's diplomatic abilities
+#强调某人的外交能力
+    She underscored the phrase three times for emphasis.
+#为了强调重点，她在这个短语下面画了三条线。
+
+=======
+insecure:
+    an insecure investment
+#无保障的投资
+    an insecure marriage
+#基础不牢的婚姻
+    be insecure about the future
+#无法把握前途
+    He always felt insecure in a group of strangers.
+#他在陌生人中间总感到局促不安。
+
+indemonstrable:
+    It's a theory that seems valid but is indemonstrable.
+#这是一个看上去有充分根据却无法加以证明的理论。
+
+interactive:
+    The concept is of an interactive museum whereby pressing buttons children can get the exhibits to work.
+#这个概念是一个互动的博物馆，在那里，通过按按钮，孩子们可以让展品工作。
+
+walrus:
+    The beach is thronged with walruses.
+#海滩上挤满了海象。
+
+enervate:
+    After the illness, he felt enervate and listless.
+#他生病后感到体力虚弱，精神倦怠。
+
+cannily:
+    I've watched you looking at people cannily.
+#我注意到你在机灵地看别人。
+
+heavenly:
+    heavenly spirits
+#天神
+    heavenly music
+#圣乐
+    have a heavenly time
+#玩得极其痛快
+    feel heavenly happy
+#感到非常快乐
+    The idea of spending two weeks with him may seem heavenly.
+#这个与他共度两周的主意似乎妙不可言。
+
+outlast:
+    The business they set up outlasted them all.
+#他们建立的公司在他们全部过世后还存在着。
+
+preconception:
+    He upset all his preconceptions about the opposite sex.
+#他改变了对异性的一切成见。
+
+spanking:
+    a spanking wind
+#凛冽的风
+    a spanking car
+#极好的车
+    We have made spanking speed in the journey.
+#我们旅行的速度非常快。
+
+stellar:
+    stellar light
+#星光
+    a stellar player
+#杰出的选手
+    the stellar name
+#影星的名字
+    Her career so far has been stellar.
+#她的事业至今很出色。
+
+misanthrope:
+    The play is about a neurotic philanthropist who turns into an embittered misanthrope.
+#这出戏讲的是一个神经质的慈善家变成一个愤世嫉俗的人的故事。
+
+beaded:
+    beaded dewdrops
+#成串的露珠
+    beaded lightning
+#珠状闪电
+    be beaded with sweat
+#满身是汗
+    She wore an elaborately beaded dress.
+#她穿着一件缀有精致珠子的连衣裙。
+
+convivial:
+    a convivial atmosphere
+#欢乐的气愤
+    The wine made the party very convivial.
+#这酒使宴会满座生欢。
+
+decrepit:
+    a decrepit old man
+#老翁
+    the decrepit economy
+#崩溃的经济
+    decrepit equipment
+#陈旧的设备
+    No one should have to live in a house that's so run-down and decrepit.
+#不能让人住在这样一座年久失修的破房子里。
+
+exigency:
+    take measures to meet any sudden exigency
+#采取措施以应付任何的突发危急
+    help in any exigency
+#危急中给予的帮助
+    The exigencies of work kept him from taking a vacation.
+#紧急的工作任务使他无法脱身度假。
+
+recast:
+    recast a cracked bell
+#重铸一个有裂缝的钟
+    recast one's political image
+#重塑政治形象
+    She recast her novel as a musical comedy.
+#她小说改写为一部音乐喜剧。
+
+stocky:
+    a stocky building
+#低矮结实的房屋
+    a stocky chap
+#矮壮的小伙子
+    He was a stocky and strong man.
+#他是个敦实强壮的男人。
+
+euphemistic:
+    euphemistic wording
+#委惋的措辞
+    I always smile all the day nowadays and I will express my thought in a euphemistic way.
+#现在，我常常保持着微笑，我会用委婉的方式表达我的想法。
+
+impermeable:
+    a coat impermeable to rain
+#防水外套
+    The bridge became absolutely impermeable.
+#大桥已绝对没法通过。
+
+recreational:
+    recreational facilities
+#娱乐设施
+    recreational activities
+#娱乐活动
+    recreational mathematics
+#趣味数学
+
+self-conscious:
+    a self-conscious smile
+#不自然得微笑
+    her self-conscious identification with the upper classes
+#她对上流社会的有意识的自我认同
+    The singer tried not to look self-conscious.
+#歌手试图使自己显得自然。
+
+exorbitant:
+    exorbitant rent
+#过高的租金
+    exorbitant demands
+#过高的要求
+    an exorbitant case
+#不在法律范围内的案件
+    The bill for the dinner was exorbitant.
+#晚餐的价格过高。
+
+transgress:
+    transgress the rules
+#违反规章
+    transgress the right of the individual
+#侵犯个人权利
+    His words transgressed the bounds of good taste.
+#他的话有伤大雅。
+
+impatience:
+    await sb. with impatience
+#不耐烦地等待某人
+    He's bursting with impatience to see her.
+#他迫不及待想见到她。
+
+insincere:
+    She is insincere with her neighbors.
+#她对邻居一片虚情假意。
+
+fumigate:
+    They had to fumigate the cellar to get rid of cockroaches.
+#他们不得不用烟熏地下室来清除章螂。
+
+perspire:
+    He was perspiring in his thick woolly suit.
+#他穿着厚毛质的衣服，热得直出汗。
+
+affective:
+    affective language
+#情感语言
+
+elongate:
+    elongate a rubber band
+#拉长像皮筋
+    an elongate tail
+#细长的尾巴
+    The plants have weak elongated stems.
+#这些植物都有着细长的茎。
+
+unjustifiable:
+    The cost to the taxpayers of such a celebration would be unjustifiable.
+#对纳税人来说，这一庆典的花费是毫无道理的。
+
+remiss:
+    be remiss in one's duty
+#玩忽职守
+    The service in this hotel is very remiss.
+#这家旅馆的服务极其马虎。
+
+revival:
+    stage a revival of a 1950s play
+#重演一部20世纪50年代的戏剧
+    An economic revival is sweeping the country.
+#经济复兴正在席卷全国。
+
+vigilance:
+    vigilance against terrorists
+#对恐怖分子的警惕
+    the vigilance of a person's nerves
+#人的神经敏感
+    The police said that it was thanks to the vigilance of a neighbor that the fire was discovered before it could spread.
+#警察称多亏一位邻居发现了火情，火势才没有蔓延开来。
+
+verbosity:
+    She's just spent two hours telling us about her future plans with her usual verbosity.
+#她和往常一样唠唠叨叨，刚刚花了两个小时告诉我们她今后的计划。
+
+venturesome:
+    a venturesome spirit
+#冒险精神
+    They set out on a venturesome journey across the mountains.
+#他们动身开始一次跨越群山的冒险旅程。
+
+naivete:
+    He demonstrated a worrying naivete about political issues.
+#他在政治问题上极其幼稚，令人担心。
+
+analogous:
+    Sleep is analogous to death.
+#睡眠可以和死亡相比拟。
+
+expressly:
+    This is an English dictionary expressly compiled for foreign students.
+#这是一部特地为外国学生编写的英语词典。
+
+verification:
+    After following various verification procedures, he declared the manuscript to be genuine.
+#经过了各种验证手法后，他宣布那部手稿是真迹。
+
+mysticism:
+    Part two introduces kinds of explanations to mysticism.
+#第二部分是介绍神秘主义的来源与多种解释。
+
+nonporous:
+    nonporous soil
+#不渗水的土壤
+
+unarticulated:
+    unarticulated sentences
+#表达不清的句子
+
+bonanza:
+    a tourist bonanza
+#旅游业的繁荣
+    The rise in house prices meant that those who were selling enjoyed a bonanza.
+#房价的上升意味着那些售房者赚了大钱。
+
+transitoriness:
+    the transitoriness of human glory
+#人类荣耀的转瞬即逝
+
+preternatural:
+    Her face not only kept its youth but did so to a preternatural extent.
+#她的脸不仅保持着青春，而且是异常地年轻。
+
+coalesce:
+    The edges of the wound coalesced.
+#伤口愈合了。
+
+pugnacious:
+    He became very pugnacious as a result of being bullied at school.
+#由于在学校受欺负，他变得非常好斗。
+
+spurn:
+    spurn the ground
+#践踏地面
+    spurn one's appeal
+#拒绝恳求
+    a person spurned by society
+#为社会所摒弃的人
+    She spurned my offer of help.
+#对于我的帮助她不屑一顾。
+
+dilatory:
+    be dilatory in action
+#行动拖拉
+    dilatory and evasive tactics
+#拖延规避战术
+    His behavior is generally dilatory, so it's not surprising he's late.
+#他一向慢吞吞的，所以迟到不奇怪。
+
+regulatory:
+    heat regulatory system
+#温度调节系统
+    The regulatory reform tends to eliminate red tape at all levels of government.
+#这些行政管理改革在消除各级政府的官僚主义。
+
+diurnal:
+    the diurnal task
+#每天得例行任务
+    a diurnal animal
+#昼行性动物
+    Most birds are diurnal.
+#大多数鸟在白天活动。
+
+underscore:
+    underscore one's diplomatic abilities
+#强调某人的外交能力
+    She underscored the phrase three times for emphasis.
+#为了强调重点，她在这个短语下面画了三条线。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

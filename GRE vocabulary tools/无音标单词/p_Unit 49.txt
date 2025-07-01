@@ -1,0 +1,643 @@
+<<<<<<< HEAD
+cold-blooded:
+    cold-blooded animals
+#冷血动物
+    a cold-blooded murder
+#残忍的谋杀
+    She gave a cold-blooded account of the accident.
+#她冷静地描述了这一事件。
+
+crumple:
+    crumple into a heap on the floor
+#倒在地上成一滩团
+    crumple up the enemy
+#击溃敌军
+    crumple under the weight
+#被重量压塌
+    crumple the clothes
+#把衣服弄皱
+    She crumpled up the letter and threw it into the bin.
+#她把信揉成一团，扔进了垃圾桶。
+
+demur:
+    demur at eating meat
+#不愿吃肉
+    accept the criticism without demur
+#毫无异议地接受批评
+    He demurred from being involved in such questionable practices.
+#他对卷入这种可疑行为有顾忌。
+
+oppressive:
+    feel an oppressive sense of guilt
+#感到一种难以忍受的负罪感
+    oppressive taxes
+#沉重的税收
+    an oppressive ruler
+#暴虐的统治者
+    oppressive heat
+#闷热
+    oppressive weather
+#恼人的天气
+    The atmosphere was oppressive, as if there were about to be a thunderstorm.
+#天气闷热难受，似乎要下一场雷雨。
+
+adumbrate:
+    adumbrate the plan
+#简单谈一下计划
+    The film opens with a fierce storm which adumbrates the violence to follow.
+#这部电影以猛烈的风暴开始，这预示着即将发生暴力事件。
+
+anachronistic:
+    The law seems anachronistic.
+#该法律似乎有些过时了。
+
+infrequent:
+    an infrequent guest
+#稀客
+    infrequent opportunities for advancement
+#不多的几次提升机会
+    His letters become infrequent, then stopped completely.
+#他的来信变得越来越少，最后就完全没有了。
+
+solicitous:
+    be solicitous of patients
+#对病人关心
+    make a solicitous inquiry about one's health
+#关切地探问某人的健康状况
+    solicitous service
+#周到的服务
+    be solicitous in matters of dress
+#在穿着方面很讲究
+    She was solicitous of the esteem of others.
+#她渴望得到别人的尊重。
+
+demagnetize:
+    a demagnetized card
+#去磁的卡
+    This device works together with the cleaning machine and is used to demagnetize the objects before cleaning, which helps to get better cleaning effect.
+#本机配合清洗机使用，把进行清洗前的物体进行消磁处理。从而达到理想的清洗效果。
+
+dehumanise(dehumanize):
+    He said that disabled people are often treated in a dehumanizing way.
+#他说残疾人经常受到侮辱。
+
+uncharted:
+    The guide led us along the uncharted path.
+#向导领着我们沿着未经探索的小径走去。
+
+serendipity:
+    The famous actress, it is said, was discovered by serendipity at a drugstore.
+#据说这位著名女演员是在一个药店中被偶然发现的。
+
+snobbery:
+    He accused her of snobbery because she sent her son to a private school.
+#他指责她势利，因为她送儿子上私立学校。
+
+venial:
+    a venial sin
+#可赎的小罪
+    a venial error
+#轻微的错误
+
+half-hearted:
+    He made a rather half-hearted attempt to clear up the rubbish.
+#他不怎么情愿地清除垃圾。
+
+unscented:
+    an unscented rose
+#无香味的瑰花
+    an unscented soap
+#无香肥皂
+
+opalescent:
+    an opalescent veil
+#乳白色的面纱
+
+warp:
+    warp the floor-boards
+#使地板翘曲不平
+    warp justice
+#歪曲正义
+    warped by bias
+#为偏见所曲解
+    Years of living alone warped his personality.
+#多年的孤身生活使他的性情变得乖戾。
+
+garrulous:
+    a garrulous speech
+#冗长的演说
+    I had expected her to be garrulous.
+#我原以为她是个爱饶舌的女人。
+
+preferably:
+    Put the potatoes into boiling water, preferably after peeling them.
+#把土豆倒入沸水中，最好是在去皮之后。
+
+obfuscate:
+    A person's mind may be obfuscated by liquor.
+#酗酒会使人头脑迷糊。
+
+compensatory:
+    He may get compensatory leave for working overtime.
+#他加班可获补假。
+
+moratorium:
+    a moratorium on phone orders
+#电话订货的暂停
+    a moratorium on the killing of all ocean mammals
+#禁止捕杀所有海洋哺乳动物
+    A moratorium has been declared on all debts for five years.
+#已宣布一切债务延期五年偿付。
+
+sensitize:
+    sensitized paper
+#感光纸
+    She's now become sensitized to strange sound at night, and she often wakes up.
+#她现在对夜里异常的声响很敏感，常常醒来。
+
+aseptic:
+    an aseptic dressing
+#无菌包扎
+    an aseptic essay
+#毫无生气的文章
+    an aseptic view on civilization
+#超然独立的文明观
+    Surgery is always done in aseptic conditions.
+#外科手术总是在无菌条件下进行的。
+
+adaptability:
+    Adaptability is a necessary quality in an ever-changing work environment.
+#适应性在始终变化的工作环境中是一项必需的素质。
+
+domination:
+    The film was about a group of robots set on world domination.
+#这部电影描述了一群机器人意图统治整个世界的故事。
+
+unquestioning:
+    Like all tyrannical leaders, he demanded unquestioning obedience from his followers.
+#像所有的专制领导一样，他要求他的追随者绝对服从。
+
+discount:
+    discount the rumors
+#不相信谣传
+    give sb. (a) 10% discount
+#给某人打九折
+    get a discount of 20% on air fares
+#乘飞机享受8折优惠
+    The restaurant discounts 3 per cent on all bills paid when due.
+#那家饭店对如期付清的账单打了3%的折扣。
+
+pseudonym:
+    adopt the pseudonym of Henry
+#化名亨利
+    Many writers in those days wrote under pseudonyms.
+#那时候许多作家用笔名写文章。
+
+apprehensive:
+    be apprehensive of fatal consequences
+#担心发生致命的后果
+    feel apprehensive for one's safety
+#为某人的安全担心
+    an apprehensive scholar
+#聪颖的学者
+    be apprehensive of one's own folly
+#认识到自己的愚蠢行为
+    Though he was apprehensive about that prospect, he did not show it.
+#虽然他对那种前景感到忧虑，但并没有流露出来。
+
+perfervid:
+    perfervid patriotism
+#热烈的爱国主义
+    We've heard perfervid screams from the press about the freedom of the press.
+#我们听到了报界要求新闻自由的激昂呼声。
+
+truculent:
+    a truculent and quarrelsome man
+#凶狠而好斗的男子
+    be in a truculent mood
+#处于狂怒状态
+    a truculent satire
+#尖刻的讽刺
+    a truculent bombing
+#毁灭性轰炸
+    He's been very truculent since he heard he wasn't going to be promoted.
+#自从听说将不被提拔后，他的态度就一直咄咄逼人。
+
+truculence:
+    His truculence can make him very difficult to work with sometimes.
+#他的尖刻有时使人难以与之相处。
+
+moisten:
+    moisten one's throat
+#润喉
+    Her eyes moistend with tears.
+#她眼泪汪汪联
+
+typographic(al):
+    The magazine was blamed for its typographic errors.
+#那本杂志因排印错误而受到批评。
+
+mythic(al):
+    The explanation was entirely mythic.
+#这种解释纯属杜撰。
+
+glucose:
+    The body digests carbohydrates down to glucose, which itself is broken down in the muscles to release energy.
+#人体将碳水化合物消化成葡萄糖，然后在肌肉里分解释放能量。
+
+sociable:
+    a sociable disposition
+#合群的习性
+    a sociable party
+#社交聚会
+    sociable plants
+#群聚植物
+    play cards to be sociable
+#为社交玩牌
+    Man is said to be a sociable animal.
+#人被说成是一种社会性动物。
+
+incommensurate:
+    a supply incommensurate to the demand
+#与要求不相称的供应
+    His salary is incommensurate with the time he spends working.
+#他的薪俸同他花在工作上的时间是不相称的。
+
+summary:
+    a summary account
+#概括性的报道
+    a 10-minute summary film
+#十分钟的概括影片
+    a summary dismissal
+#立即开除
+    a summary arrest
+#当场逮捕
+    in summary
+#概括地说
+    No brief summary can possibly do justice to the depth of this report.
+#简单的概述不可能公正地反映这一报告的深度。
+
+penal:
+    a penal code
+#刑法典
+    a penal colony/settlement
+#流放地
+    penal labor
+#劳役
+    penal laws
+#刑法
+    a penal farm
+#劳役农场
+    Many people believe that execution has no place in the penal system of a civilized society.
+#许多人认为一个文明社会的刑罚体系中不应该有死刑。
+
+sycophant:
+    The prime minister is surrounded by sycophants.
+#首相周围尽是些拍马屁的人。
+
+bowlegged:
+    A bowlegged blond beast basically leapt out of her arms and into our hearts.
+#那只罗圈腿的金毛小家伙一下子就从她的臂弯里跳进了我们的心坎中。
+
+assuming:
+    He is all too assuming in his attitude to the energy supply.
+#他在对待能源问题的态度上实在显得过于自信。
+
+righteousness:
+    there was always a lot of self in your righteousness. 
+#在你们的正义之中，总是有太多自我。
+
+drowsy:
+    The room is so warm that it makes me feel drowsy.
+#房间里太暖和，使我有些昏昏欲睡。
+
+notate:
+    Much of the music has been notated and preserved.
+#这种音乐有许多已经记谱保存下来。
+
+underplay:
+    While not wanting to underplay the seriousness of the situation, I have to say that it is not as bad as people seem to think.
+#虽然不想低估形势的严重性，我不得不说它并不像人们所想的那么坏。
+
+=======
+cold-blooded:
+    cold-blooded animals
+#冷血动物
+    a cold-blooded murder
+#残忍的谋杀
+    She gave a cold-blooded account of the accident.
+#她冷静地描述了这一事件。
+
+crumple:
+    crumple into a heap on the floor
+#倒在地上成一滩团
+    crumple up the enemy
+#击溃敌军
+    crumple under the weight
+#被重量压塌
+    crumple the clothes
+#把衣服弄皱
+    She crumpled up the letter and threw it into the bin.
+#她把信揉成一团，扔进了垃圾桶。
+
+demur:
+    demur at eating meat
+#不愿吃肉
+    accept the criticism without demur
+#毫无异议地接受批评
+    He demurred from being involved in such questionable practices.
+#他对卷入这种可疑行为有顾忌。
+
+oppressive:
+    feel an oppressive sense of guilt
+#感到一种难以忍受的负罪感
+    oppressive taxes
+#沉重的税收
+    an oppressive ruler
+#暴虐的统治者
+    oppressive heat
+#闷热
+    oppressive weather
+#恼人的天气
+    The atmosphere was oppressive, as if there were about to be a thunderstorm.
+#天气闷热难受，似乎要下一场雷雨。
+
+adumbrate:
+    adumbrate the plan
+#简单谈一下计划
+    The film opens with a fierce storm which adumbrates the violence to follow.
+#这部电影以猛烈的风暴开始，这预示着即将发生暴力事件。
+
+anachronistic:
+    The law seems anachronistic.
+#该法律似乎有些过时了。
+
+infrequent:
+    an infrequent guest
+#稀客
+    infrequent opportunities for advancement
+#不多的几次提升机会
+    His letters become infrequent, then stopped completely.
+#他的来信变得越来越少，最后就完全没有了。
+
+solicitous:
+    be solicitous of patients
+#对病人关心
+    make a solicitous inquiry about one's health
+#关切地探问某人的健康状况
+    solicitous service
+#周到的服务
+    be solicitous in matters of dress
+#在穿着方面很讲究
+    She was solicitous of the esteem of others.
+#她渴望得到别人的尊重。
+
+demagnetize:
+    a demagnetized card
+#去磁的卡
+    This device works together with the cleaning machine and is used to demagnetize the objects before cleaning, which helps to get better cleaning effect.
+#本机配合清洗机使用，把进行清洗前的物体进行消磁处理。从而达到理想的清洗效果。
+
+dehumanise(dehumanize):
+    He said that disabled people are often treated in a dehumanizing way.
+#他说残疾人经常受到侮辱。
+
+uncharted:
+    The guide led us along the uncharted path.
+#向导领着我们沿着未经探索的小径走去。
+
+serendipity:
+    The famous actress, it is said, was discovered by serendipity at a drugstore.
+#据说这位著名女演员是在一个药店中被偶然发现的。
+
+snobbery:
+    He accused her of snobbery because she sent her son to a private school.
+#他指责她势利，因为她送儿子上私立学校。
+
+venial:
+    a venial sin
+#可赎的小罪
+    a venial error
+#轻微的错误
+
+half-hearted:
+    He made a rather half-hearted attempt to clear up the rubbish.
+#他不怎么情愿地清除垃圾。
+
+unscented:
+    an unscented rose
+#无香味的瑰花
+    an unscented soap
+#无香肥皂
+
+opalescent:
+    an opalescent veil
+#乳白色的面纱
+
+warp:
+    warp the floor-boards
+#使地板翘曲不平
+    warp justice
+#歪曲正义
+    warped by bias
+#为偏见所曲解
+    Years of living alone warped his personality.
+#多年的孤身生活使他的性情变得乖戾。
+
+garrulous:
+    a garrulous speech
+#冗长的演说
+    I had expected her to be garrulous.
+#我原以为她是个爱饶舌的女人。
+
+preferably:
+    Put the potatoes into boiling water, preferably after peeling them.
+#把土豆倒入沸水中，最好是在去皮之后。
+
+obfuscate:
+    A person's mind may be obfuscated by liquor.
+#酗酒会使人头脑迷糊。
+
+compensatory:
+    He may get compensatory leave for working overtime.
+#他加班可获补假。
+
+moratorium:
+    a moratorium on phone orders
+#电话订货的暂停
+    a moratorium on the killing of all ocean mammals
+#禁止捕杀所有海洋哺乳动物
+    A moratorium has been declared on all debts for five years.
+#已宣布一切债务延期五年偿付。
+
+sensitize:
+    sensitized paper
+#感光纸
+    She's now become sensitized to strange sound at night, and she often wakes up.
+#她现在对夜里异常的声响很敏感，常常醒来。
+
+aseptic:
+    an aseptic dressing
+#无菌包扎
+    an aseptic essay
+#毫无生气的文章
+    an aseptic view on civilization
+#超然独立的文明观
+    Surgery is always done in aseptic conditions.
+#外科手术总是在无菌条件下进行的。
+
+adaptability:
+    Adaptability is a necessary quality in an ever-changing work environment.
+#适应性在始终变化的工作环境中是一项必需的素质。
+
+domination:
+    The film was about a group of robots set on world domination.
+#这部电影描述了一群机器人意图统治整个世界的故事。
+
+unquestioning:
+    Like all tyrannical leaders, he demanded unquestioning obedience from his followers.
+#像所有的专制领导一样，他要求他的追随者绝对服从。
+
+discount:
+    discount the rumors
+#不相信谣传
+    give sb. (a) 10% discount
+#给某人打九折
+    get a discount of 20% on air fares
+#乘飞机享受8折优惠
+    The restaurant discounts 3 per cent on all bills paid when due.
+#那家饭店对如期付清的账单打了3%的折扣。
+
+pseudonym:
+    adopt the pseudonym of Henry
+#化名亨利
+    Many writers in those days wrote under pseudonyms.
+#那时候许多作家用笔名写文章。
+
+apprehensive:
+    be apprehensive of fatal consequences
+#担心发生致命的后果
+    feel apprehensive for one's safety
+#为某人的安全担心
+    an apprehensive scholar
+#聪颖的学者
+    be apprehensive of one's own folly
+#认识到自己的愚蠢行为
+    Though he was apprehensive about that prospect, he did not show it.
+#虽然他对那种前景感到忧虑，但并没有流露出来。
+
+perfervid:
+    perfervid patriotism
+#热烈的爱国主义
+    We've heard perfervid screams from the press about the freedom of the press.
+#我们听到了报界要求新闻自由的激昂呼声。
+
+truculent:
+    a truculent and quarrelsome man
+#凶狠而好斗的男子
+    be in a truculent mood
+#处于狂怒状态
+    a truculent satire
+#尖刻的讽刺
+    a truculent bombing
+#毁灭性轰炸
+    He's been very truculent since he heard he wasn't going to be promoted.
+#自从听说将不被提拔后，他的态度就一直咄咄逼人。
+
+truculence:
+    His truculence can make him very difficult to work with sometimes.
+#他的尖刻有时使人难以与之相处。
+
+moisten:
+    moisten one's throat
+#润喉
+    Her eyes moistend with tears.
+#她眼泪汪汪联
+
+typographic(al):
+    The magazine was blamed for its typographic errors.
+#那本杂志因排印错误而受到批评。
+
+mythic(al):
+    The explanation was entirely mythic.
+#这种解释纯属杜撰。
+
+glucose:
+    The body digests carbohydrates down to glucose, which itself is broken down in the muscles to release energy.
+#人体将碳水化合物消化成葡萄糖，然后在肌肉里分解释放能量。
+
+sociable:
+    a sociable disposition
+#合群的习性
+    a sociable party
+#社交聚会
+    sociable plants
+#群聚植物
+    play cards to be sociable
+#为社交玩牌
+    Man is said to be a sociable animal.
+#人被说成是一种社会性动物。
+
+incommensurate:
+    a supply incommensurate to the demand
+#与要求不相称的供应
+    His salary is incommensurate with the time he spends working.
+#他的薪俸同他花在工作上的时间是不相称的。
+
+summary:
+    a summary account
+#概括性的报道
+    a 10-minute summary film
+#十分钟的概括影片
+    a summary dismissal
+#立即开除
+    a summary arrest
+#当场逮捕
+    in summary
+#概括地说
+    No brief summary can possibly do justice to the depth of this report.
+#简单的概述不可能公正地反映这一报告的深度。
+
+penal:
+    a penal code
+#刑法典
+    a penal colony/settlement
+#流放地
+    penal labor
+#劳役
+    penal laws
+#刑法
+    a penal farm
+#劳役农场
+    Many people believe that execution has no place in the penal system of a civilized society.
+#许多人认为一个文明社会的刑罚体系中不应该有死刑。
+
+sycophant:
+    The prime minister is surrounded by sycophants.
+#首相周围尽是些拍马屁的人。
+
+bowlegged:
+    A bowlegged blond beast basically leapt out of her arms and into our hearts.
+#那只罗圈腿的金毛小家伙一下子就从她的臂弯里跳进了我们的心坎中。
+
+assuming:
+    He is all too assuming in his attitude to the energy supply.
+#他在对待能源问题的态度上实在显得过于自信。
+
+righteousness:
+    there was always a lot of self in your righteousness. 
+#在你们的正义之中，总是有太多自我。
+
+drowsy:
+    The room is so warm that it makes me feel drowsy.
+#房间里太暖和，使我有些昏昏欲睡。
+
+notate:
+    Much of the music has been notated and preserved.
+#这种音乐有许多已经记谱保存下来。
+
+underplay:
+    While not wanting to underplay the seriousness of the situation, I have to say that it is not as bad as people seem to think.
+#虽然不想低估形势的严重性，我不得不说它并不像人们所想的那么坏。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

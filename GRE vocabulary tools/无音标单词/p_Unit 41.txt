@@ -1,0 +1,611 @@
+<<<<<<< HEAD
+impermeability:
+    Air-entraining agent increases impermeability of hybrid fiber concrete. 
+#引气剂有助于提高混杂纤维混凝土的抗渗性。
+
+furor:
+    the furor of storms
+#暴风雨的肆虐
+    The government's decision to raise taxes has caused a great furor.
+#政府增加税收的决定引起了轩然大波。
+
+enfetter:
+    enfetter people's minds
+#束缚人们的思想
+
+asinine:
+    It's asinine of him to have asked such a question.
+#对他来说提出这样的问题也太蠢了。
+
+abash:
+    He looked rather abashed at her criticisms.
+#她的批评使他看上去相当窘迫。
+
+moody:
+    sit in moody silence
+#闷闷不乐地坐着一言不发
+    She turned moody at the thought of the dear departed.
+#想到死去的亲人，她的面色就变得很优郁。
+
+cacophony:
+    a cacophony of opinions
+#纷纭的意见
+    The wind screamed in a frightening cacophony.
+#风呼啸着发出尖锐刺耳的可怕声音。
+
+subterfuge:
+    It was clear that he must have obtained the information by subterfuge.
+#很明显他是靠诡计才获得这些资料的。
+
+hardihood:
+    He gave proof of his hardihood.
+#他证明了自己的勇敢。
+
+douse:
+    douse fruit in cold water
+#将水果浸在冷水中
+    douse oneself with perfume
+#往身上酒香水
+    douse the campfire
+#浇灭营火
+    They doused a car with gasoline and then set it on fire.
+#他们把汽油浇在一辆汽车上，然后点火焚烧。
+
+uproarious:
+    an uproarious crowd
+#喧闹的人群
+    an uproarious comedy
+#令人捧腹的喜剧
+    an uproarious burst of laughter
+#哄然大笑
+    It was a very amusing play with an uproarious final act.
+#那是一部非常有趣的戏剧，最后一幕令人捧腹。
+
+affected:
+    an affected person
+#做作的人
+    an affected diction
+#矫揉造作的用词
+    I hate that affected smile of hers.
+#我讨厌她那虚假的微笑。
+
+elephantine:
+    elephantine humor
+#笨拙的幽默
+    be elephantine in one's gait
+#步履笨重
+    All his limbs were elephantine.
+#他的四肢都特别粗壮。
+
+churl:
+    He must have had some ups and downs in life to make him such a churl. 
+#他一生一定经历过一些坎坷，才使他变成这么一个粗暴的人。
+
+churn:
+    churn the milk
+#搅拌牛奶
+    a butter churn
+#黄油搅拌器
+    churn out
+#粗制滥造
+
+collage:
+    The children made a collage of postcards.
+#孩子们用明信片做了一张拼贴画。
+
+ulcerate:
+    Continued worry ulcerated her stomach.
+#不断的担忧使她患了胃溃疡。
+
+burlesque:
+    His latest play features satire and burlesque.
+#他最近的剧作充满讽刺与嘲弄。
+
+blooming:
+    blooming shrubs
+#开着花的灌木
+    a blooming business
+#兴隆的事业
+    a blooming idiot
+#大傻瓜
+
+flimflam:
+    flimflam arguments
+#荒谬的论点
+    When they asked the management about their future plans, all they got was flimflam.
+#当他们询间管理人员将来的计划时，他们得到的只是些扯皮的话。
+
+wheeze:
+    I could hear the old man behind me wheezing.
+#能听到我后面的老人呼哧呼味的喘息声
+
+dint:
+    by dint of
+#由于
+    The cattle's bones stuck out by dint of hunger.
+#那些牛由于饥饿而瘦骨嶙峋。
+
+germicide:
+    There are many kinds of germicide, which have different ecological effects to plant pathogenic bacteria.
+#杀菌剂种类很多，它们对植物病原菌的生态效应也各不相同。
+
+nil:
+    nil profits
+#无利润
+    Team A beat Team B by three goals to nil.
+#A队以3：0战胜B队。
+
+feline:
+    a feline look
+#狡黠的神色
+    They've got a wildlife park with tigers and various other felines.
+#他们有一个野生动物园，里面有老虎和各种其他猫科动物。
+
+lymphatic:
+    the lymphatic system
+#淋巴系统
+
+abase:
+    The president was not willing to abase himself before the nation, and admitted that he had made a mistake.
+#总统不愿意在全国人民面前降低自己的威信，承认自己犯了错。
+
+leach:
+    Rain water leaches heavy metals out of the dump site and carries them into the local water.
+#雨水滤出垃圾堆里的重金属并把它们带入当地的河流。
+
+infatuate:
+    The plot centers on a young farmer who becomes infatuated with his neighbor's daughter.
+#剧情是以一个年轻的农夫迷上了邻居的女儿为中心的。
+
+repressed:
+    He is a very repressed child who never speaks.
+#他是一个精神十分压抑而不说话的孩子。
+
+pecan:
+    chopped pecans
+#砍伐了的山核桃树
+
+nomad:
+    Nomads travel these arid regions with their camel herds.
+#游牧民族带着他们的骆驼群在这些不毛之地漫游。
+
+execrable:
+    execrable poetry
+#拙劣的诗
+    I've never heard such an execrable performance of the concerto.
+#我从没听到过演奏得如此糟糕的协奏曲。
+
+lattice:
+    a lattice screen
+#格子屏风
+    a lattice window
+#格子窗
+
+noxious:
+    a noxious book
+#一本坏书
+    a noxious political scandal
+#可憎的政治丑闻
+    Fumes from the exhaust of an automobile are noxious.
+#汽车排出的废气是有害的。
+
+nifty:
+    a nifty addition
+#点睛之笔
+    nifty clothes
+#时髦衣服
+    It's a real nifty book.
+#这是一本名副其实的好书。
+
+furbish:
+    furbish a rusty sword
+#擦亮一把生锈的刀
+    furbish up an old town
+#使一座旧城焕然一新
+    I wish to furbish up the French I learned at college
+#我想重温一下我在大学学过的法语
+
+pernickety:
+    Her pernickety style of managing was highly irritable for everyone
+#她吹毛求疵的管理风格使每个人都不舒服
+
+crass:
+    crass behavior
+#愚蠢的行为
+    He made a crass error of judgment.
+#他犯了一个愚蠢的判断错误
+
+abrogate:
+    The treaty was abrogated in 2019.
+#该条约于2019年废除。
+
+duress:
+    He claimed that he signed the confession under duress.
+#他说他是被迫在认罪书上签字的。
+
+aplomb:
+    He delivered the speech with his usual aplomb.
+#他以惯常的沉着语气做了演讲。
+
+iridescence:
+    the iridescence of his earliest novels
+#他精彩迷人的早期小说
+
+lactic:
+    lactic acid
+#乳酸
+
+modicum:
+    There's not even a modicum of truth in her statement.
+#在她的话里没有一点真话
+
+myopia:
+    political myopia
+#政治上缺乏远见
+
+boreal:
+    boreal customs
+#北方的风俗
+
+blasé:
+    He remained totally blasé about the alarming news.
+#他对于这个令人恐怖的消息全然无动于衷。
+
+comatose:
+    The market has been comatose for several months.
+#市场停滞已有数月
+
+exculpate:
+    Investigation exculpated the driver from the suspicion of having caused the accident.
+#调查结果已排除了司机造成此次车祸的嫌疑。
+
+boulder:
+    Severe floods carried 2,000 tons of boulders down to the town, killing 10 people.
+#强大的洪水夹带2 000吨卵石涌人那座小镇，导致10人死亡。
+
+mellifluous:
+    a mellifluous announcer
+#声音甜美的播报员
+    a mellifluous tone
+#悦耳的音调
+    The mellifluous sound of the violin flew in through the window.
+#小提琴甜美的声音从窗口传人。
+
+clement:
+    clement weather
+#温和的天气
+    a clement autumn day
+#温和的秋日
+    a clement judge
+#仁慈的法官
+    It's very clement for the time of year.
+#一年的这个时候天气非常温和。
+
+embolden:
+    Their encouragement emboldened him to accept the challenge.
+#他们的鼓励使他鼓起勇气接受挑战。
+
+fermentation:
+    Sugar is added to the wine during fermentation to increase the alcohol level.
+#发酵时在葡萄酒里加糖以提高酒精浓度。
+
+unification:
+    The traffic laws of the different places need unification.
+#各地的交通法规需要统一。
+
+char:
+    a charred steak
+#烧焦的牛排
+    Her grandmother charred for the same family for twenty years.
+#她祖母给同一家庭做杂务多达20年。
+
+even-tempered:
+    Mark is one of the most even-tempered individuals I know.
+#马克是我认识的脾气最好的人之一。
+
+=======
+impermeability:
+    Air-entraining agent increases impermeability of hybrid fiber concrete. 
+#引气剂有助于提高混杂纤维混凝土的抗渗性。
+
+furor:
+    the furor of storms
+#暴风雨的肆虐
+    The government's decision to raise taxes has caused a great furor.
+#政府增加税收的决定引起了轩然大波。
+
+enfetter:
+    enfetter people's minds
+#束缚人们的思想
+
+asinine:
+    It's asinine of him to have asked such a question.
+#对他来说提出这样的问题也太蠢了。
+
+abash:
+    He looked rather abashed at her criticisms.
+#她的批评使他看上去相当窘迫。
+
+moody:
+    sit in moody silence
+#闷闷不乐地坐着一言不发
+    She turned moody at the thought of the dear departed.
+#想到死去的亲人，她的面色就变得很优郁。
+
+cacophony:
+    a cacophony of opinions
+#纷纭的意见
+    The wind screamed in a frightening cacophony.
+#风呼啸着发出尖锐刺耳的可怕声音。
+
+subterfuge:
+    It was clear that he must have obtained the information by subterfuge.
+#很明显他是靠诡计才获得这些资料的。
+
+hardihood:
+    He gave proof of his hardihood.
+#他证明了自己的勇敢。
+
+douse:
+    douse fruit in cold water
+#将水果浸在冷水中
+    douse oneself with perfume
+#往身上酒香水
+    douse the campfire
+#浇灭营火
+    They doused a car with gasoline and then set it on fire.
+#他们把汽油浇在一辆汽车上，然后点火焚烧。
+
+uproarious:
+    an uproarious crowd
+#喧闹的人群
+    an uproarious comedy
+#令人捧腹的喜剧
+    an uproarious burst of laughter
+#哄然大笑
+    It was a very amusing play with an uproarious final act.
+#那是一部非常有趣的戏剧，最后一幕令人捧腹。
+
+affected:
+    an affected person
+#做作的人
+    an affected diction
+#矫揉造作的用词
+    I hate that affected smile of hers.
+#我讨厌她那虚假的微笑。
+
+elephantine:
+    elephantine humor
+#笨拙的幽默
+    be elephantine in one's gait
+#步履笨重
+    All his limbs were elephantine.
+#他的四肢都特别粗壮。
+
+churl:
+    He must have had some ups and downs in life to make him such a churl. 
+#他一生一定经历过一些坎坷，才使他变成这么一个粗暴的人。
+
+churn:
+    churn the milk
+#搅拌牛奶
+    a butter churn
+#黄油搅拌器
+    churn out
+#粗制滥造
+
+collage:
+    The children made a collage of postcards.
+#孩子们用明信片做了一张拼贴画。
+
+ulcerate:
+    Continued worry ulcerated her stomach.
+#不断的担忧使她患了胃溃疡。
+
+burlesque:
+    His latest play features satire and burlesque.
+#他最近的剧作充满讽刺与嘲弄。
+
+blooming:
+    blooming shrubs
+#开着花的灌木
+    a blooming business
+#兴隆的事业
+    a blooming idiot
+#大傻瓜
+
+flimflam:
+    flimflam arguments
+#荒谬的论点
+    When they asked the management about their future plans, all they got was flimflam.
+#当他们询间管理人员将来的计划时，他们得到的只是些扯皮的话。
+
+wheeze:
+    I could hear the old man behind me wheezing.
+#能听到我后面的老人呼哧呼味的喘息声
+
+dint:
+    by dint of
+#由于
+    The cattle's bones stuck out by dint of hunger.
+#那些牛由于饥饿而瘦骨嶙峋。
+
+germicide:
+    There are many kinds of germicide, which have different ecological effects to plant pathogenic bacteria.
+#杀菌剂种类很多，它们对植物病原菌的生态效应也各不相同。
+
+nil:
+    nil profits
+#无利润
+    Team A beat Team B by three goals to nil.
+#A队以3：0战胜B队。
+
+feline:
+    a feline look
+#狡黠的神色
+    They've got a wildlife park with tigers and various other felines.
+#他们有一个野生动物园，里面有老虎和各种其他猫科动物。
+
+lymphatic:
+    the lymphatic system
+#淋巴系统
+
+abase:
+    The president was not willing to abase himself before the nation, and admitted that he had made a mistake.
+#总统不愿意在全国人民面前降低自己的威信，承认自己犯了错。
+
+leach:
+    Rain water leaches heavy metals out of the dump site and carries them into the local water.
+#雨水滤出垃圾堆里的重金属并把它们带入当地的河流。
+
+infatuate:
+    The plot centers on a young farmer who becomes infatuated with his neighbor's daughter.
+#剧情是以一个年轻的农夫迷上了邻居的女儿为中心的。
+
+repressed:
+    He is a very repressed child who never speaks.
+#他是一个精神十分压抑而不说话的孩子。
+
+pecan:
+    chopped pecans
+#砍伐了的山核桃树
+
+nomad:
+    Nomads travel these arid regions with their camel herds.
+#游牧民族带着他们的骆驼群在这些不毛之地漫游。
+
+execrable:
+    execrable poetry
+#拙劣的诗
+    I've never heard such an execrable performance of the concerto.
+#我从没听到过演奏得如此糟糕的协奏曲。
+
+lattice:
+    a lattice screen
+#格子屏风
+    a lattice window
+#格子窗
+
+noxious:
+    a noxious book
+#一本坏书
+    a noxious political scandal
+#可憎的政治丑闻
+    Fumes from the exhaust of an automobile are noxious.
+#汽车排出的废气是有害的。
+
+nifty:
+    a nifty addition
+#点睛之笔
+    nifty clothes
+#时髦衣服
+    It's a real nifty book.
+#这是一本名副其实的好书。
+
+furbish:
+    furbish a rusty sword
+#擦亮一把生锈的刀
+    furbish up an old town
+#使一座旧城焕然一新
+    I wish to furbish up the French I learned at college
+#我想重温一下我在大学学过的法语
+
+pernickety:
+    Her pernickety style of managing was highly irritable for everyone
+#她吹毛求疵的管理风格使每个人都不舒服
+
+crass:
+    crass behavior
+#愚蠢的行为
+    He made a crass error of judgment.
+#他犯了一个愚蠢的判断错误
+
+abrogate:
+    The treaty was abrogated in 2019.
+#该条约于2019年废除。
+
+duress:
+    He claimed that he signed the confession under duress.
+#他说他是被迫在认罪书上签字的。
+
+aplomb:
+    He delivered the speech with his usual aplomb.
+#他以惯常的沉着语气做了演讲。
+
+iridescence:
+    the iridescence of his earliest novels
+#他精彩迷人的早期小说
+
+lactic:
+    lactic acid
+#乳酸
+
+modicum:
+    There's not even a modicum of truth in her statement.
+#在她的话里没有一点真话
+
+myopia:
+    political myopia
+#政治上缺乏远见
+
+boreal:
+    boreal customs
+#北方的风俗
+
+blasé:
+    He remained totally blasé about the alarming news.
+#他对于这个令人恐怖的消息全然无动于衷。
+
+comatose:
+    The market has been comatose for several months.
+#市场停滞已有数月
+
+exculpate:
+    Investigation exculpated the driver from the suspicion of having caused the accident.
+#调查结果已排除了司机造成此次车祸的嫌疑。
+
+boulder:
+    Severe floods carried 2,000 tons of boulders down to the town, killing 10 people.
+#强大的洪水夹带2 000吨卵石涌人那座小镇，导致10人死亡。
+
+mellifluous:
+    a mellifluous announcer
+#声音甜美的播报员
+    a mellifluous tone
+#悦耳的音调
+    The mellifluous sound of the violin flew in through the window.
+#小提琴甜美的声音从窗口传人。
+
+clement:
+    clement weather
+#温和的天气
+    a clement autumn day
+#温和的秋日
+    a clement judge
+#仁慈的法官
+    It's very clement for the time of year.
+#一年的这个时候天气非常温和。
+
+embolden:
+    Their encouragement emboldened him to accept the challenge.
+#他们的鼓励使他鼓起勇气接受挑战。
+
+fermentation:
+    Sugar is added to the wine during fermentation to increase the alcohol level.
+#发酵时在葡萄酒里加糖以提高酒精浓度。
+
+unification:
+    The traffic laws of the different places need unification.
+#各地的交通法规需要统一。
+
+char:
+    a charred steak
+#烧焦的牛排
+    Her grandmother charred for the same family for twenty years.
+#她祖母给同一家庭做杂务多达20年。
+
+even-tempered:
+    Mark is one of the most even-tempered individuals I know.
+#马克是我认识的脾气最好的人之一。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

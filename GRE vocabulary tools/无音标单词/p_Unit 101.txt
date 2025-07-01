@@ -1,0 +1,655 @@
+<<<<<<< HEAD
+involuntary:
+    an involuntary listener
+#非自愿的倾听者
+    an involuntary gesture
+#无意间的姿态
+
+conclusive:
+    a conclusive proof
+#确证
+    the conclusive result of election
+#选举的最终结果
+    a conclusive argument
+#无可置疑的论点
+    They have conclusive evidence of her guilt.
+#他们有确凿的证据证明她的罪行。
+
+destine:
+    be destined for a successful career
+#注定事业成功
+    be destined for the Asian market
+#（商品）预定销往亚洲市场
+    The letter was destined never to reach her.
+#那封信注定永远也到不了她的手里。
+
+amendment:
+    make a few last minute amendments
+#做最后几处修改
+    a promise of reform and amendment
+#改过自新的诺言
+    an amendment to a law
+#法律的修正条款
+    an amendment to the grammar
+#对语法的修正
+    All the amendments proposed by the opposition parties were defeated.
+#反对党提出的所有修正案都被否决了。
+
+decompose:
+    decompose a chemical compound
+#分解化合物
+    The great heat decomposed fruit and vegetables quickly.
+#炎热使得水果和蔬菜迅速腐烂。
+
+impersonal:
+    the impersonal and impartial point of view
+#公正、客观的看法
+    an impersonal tone
+#冷淡的语气
+    an impersonal verb
+#非人称动词
+    an impersonal pronoun
+#非人称代词
+    She was impersonal, with her head high up and a touch-me-not expression frozen on her face.
+#她很冷淡，头总是抬得高高的，脸上一副别碰我的冰冷样子。
+
+countless:
+    countless reasons against it
+#反对它的无数理由
+    The grassland was covered with countless locusts.
+#草地上密密麻麻地覆盖着无数的皇虫。
+
+volcanic:
+    volcanic ash
+#火山灰
+    volcanic activity
+#火山运动
+    a volcanic temper
+#火暴脾气
+    It was one of the biggest volcanic eruptions of last century.
+#那是上个世纪最大的一次火山爆发。
+
+pious:
+    pious obedience
+#唯命是从
+    a pious deception
+#伪善的蒙蔽
+    pious effort
+#值得称许的努力
+    He was brought up by pious female relatives.
+#他是由虔诚的女性亲属抚养大的。
+
+defrost:
+    defrost the refrigerator regularly
+#定期给冰箱除霜
+    Defrost the chicken thoroughly before cooking.
+#烧鸡肉之前把鸡肉彻底解冻。
+
+evocative:
+    an evocative description
+#令人浮想联翩的描述
+    be evocative of spring
+#令人联想起春天
+    an incident evocative of old memories
+#唤起对旧时回忆的事情
+    The pebbled streets and traditional shops are evocative of a completely different era.
+#铺着鹅卵石的街道和传统的商店令人想起一个完全不同的时代。
+
+modulate:
+    modulate the foreign policy
+#调整外交政策
+    modulate the sound on the TV
+#调整电视机的声音
+    An elected committee will meet monthly to modulate the government's energy policy.
+#一个选产生的委员会将每月碰面调整政府的能源政策。
+
+upheaval:
+    a period of political upheaval
+#政治动荡动期
+    He survived the upheaval that followed the murder.
+#他在那次谋杀之后的混乱局面中幸免于难。
+
+concord:
+    the concord of husband and wife
+#（夫妻间的）琴瑟和鸣
+    live in concord
+#和睡相处
+    These neighboring states have lived in concord for centuries.
+#这些邻国已和睡相处几个世纪了。
+
+heed:
+    He was unlikely to give heed to advice from such a source.
+#他不可能听从这种渠道来的建议。
+
+onset:
+    the onset of the enemy
+#敌人发起的进攻
+    the onset of spring
+#春天伊始
+    the onset of a nasty cold
+#重感冒的发作
+    The negotiators have given up hope of signing a peace settlement before the onset of winter.
+#谈判人员已放弃在冬天开始之前签署和平协议的希望。
+
+crystalline:
+    a crystalline sheet of ice
+#一层层晶莹的薄冰
+    crystalline pendants hanging from the chandelier
+#枝形吊灯垂下的水晶垂饰
+    Her singing voice has a pure, crystalline quality.
+#她的歌喉如水晶般纯净、清激。
+
+irritable:
+    Be careful of what you say -- he's rather irritable today.
+#当心你说的话，他今天脾气很大。
+
+lumber:
+    We saw an elephant lumbering along the road.
+#我们看见一头大象沿着公路缓缓走着。
+    get lumbered with money
+#陷入经济困难
+    lumber the junk together
+#把乱七八糟的东西堆到一起
+    a room lumbered with useless articles
+#堆满废物的房间
+
+tensile:
+    tensile force
+#拉力
+    a tensile metal
+#延展性金属
+
+muster:
+    muster the troops
+#召集军队
+    muster the ship crew
+#对全体船员点名
+    pass muster
+#通过检查，被认为合格
+    He managed to muster (up) his courage to ask her to the cinema.
+#他终于鼓起勇气请她去看电影。
+
+oxidize:
+    Iron becomes rusty when it oxidizes.
+#铁氧化时会生锈。
+
+buoy:
+    a light buoy
+#灯浮标
+    buoy a channel
+#用浮标指示航道
+    He was buoyed up by hopes of success.
+#成功的希望使他倍受鼓舞。
+
+certification:
+    certification of fitness
+#质量合格证
+    export certification
+#出口证明
+    The customs official asked her to show the certification of proof.
+#海关官员要她出示检验证书。
+
+expulsion:
+    expulsion from the country
+#驱逐出境
+    the expulsion of military advisers
+#军事顾问的被驱逐
+    The punishment for this kind of behavior is expulsion from school.
+#对这种行为的惩罚就是开除学籍。
+
+sterilize:
+    After having five children, she decided to be sterilized.
+#有了5个孩子后，她决定去做绝育。
+
+eloquence:
+    a flow of eloquence
+#口若悬河的辩才
+    a man of great eloquence
+#极善辞令的人
+    Talking and eloquence are not the same: to speak, and to speak well are two things.
+#说话和有口才不一样，一个是说，一个是说得好，这是两码事。
+
+gild:
+    gild bronze doors
+#给铜门镀金
+    gild a lie
+#掩饰谎言
+    gild the lily
+#画蛇添足
+    The statue, recently gilded, shone brightly in the mid-day sun.
+#这尊塑像最近镀了层金，在正午的阳光下格外耀眼。
+
+petal:
+    a yellow petal edged with pink
+#一片粉红色边的黄色花瓣
+    Petaling thoroughly, the rose in the garden looks quite beautiful.
+#花园里的玫瑰花绽放着，看上去美极了。
+
+mobility:
+    the mobility of the arm
+#手臂的灵活性
+    labor mobility
+#劳动力的流动性
+    the mobility of one's face
+#某人多变的面部表情
+    For children from poorer families, the main hope of social mobility is through education.
+#对于贫困家庭的孩子来说，出人头地的主要希望就是依靠教育。
+
+peck:
+    peck its way out of its shell
+#啄出売
+    peck sb. on the cheek
+#轻吻某人的脸频
+    peck a pottery jar out of the hole
+#从洞中挖出一陶罐
+    give sb. a slight peck of farewell
+#轻轻吻别某人
+    eat a peck of salt with sb.
+#很了解某人，与某人相处很久
+
+peril:
+    be fraught with perils
+#充满危险
+    survive the perils of the Arctic winter
+#扛过北极的严冬而生存下来
+    be full of perils
+#险象环生
+    peril one's life
+#冒生命的危险
+    at one's peril
+#（尤用以告诚自己）由自己负责，由自己承担风险
+    He never felt that his life was in peril.
+#他从未意识到自己的生活处于危险中。
+
+unfold:
+    unfold one's arms
+#张开双臂
+    unfold a map
+#打开地图
+    unfold a letter
+#打开信
+    unfold the plot from several angles
+#从个角度展开故事情节
+    unfolding flowers
+#绽放的花
+    I've arranged a lunch with him next Thursday at which I intended to unfold my proposal.
+#我已安排好下周四与他共进午餐，席间我打算披露我的计划。
+
+orchard:
+    a cherry orchard
+#樱桃园
+    There is an apple orchard at the back of the village.
+#村庄后面有一个苹果园。
+
+speck:
+    rub the specks off the window
+#擦去窗上的斑点
+    not a speck of dust/dirt
+#没有一点灰尘
+    a speck of light
+#一点光亮
+    be specked by ink
+#让墨水弄脏
+    a speck of courage
+#一丝勇气
+    After he'd painted the door, he found specks of paint all over the floor.
+#他给门上完漆后，发现地板上全是油漆斑点。
+
+engross:
+    be engrossed by an interesting story
+#被一个有趣的故事迷住
+    be deeply/completely engrossed in
+#沉醉其中
+    She was so engrossed in what she was doing that she didn't hear me come in.
+#她那么全神注地做着手头的事，我进来都没有听到。
+
+exclamation:
+    an exclamation of pain
+#痛苦的叫声
+    give aninvoluntary exclamation
+#不由自主地叫了一声
+    break into the most passionate exclamations against sb.
+#用最激烈的言辞咒骂某人
+    an exclamation mark
+#感叹号
+    They embraced with exclamations of happiness.
+#他们一边拥抱，一边互相喊着祝福的话。
+
+meddle:
+    meddle in one's affairs
+#干涉某人的事
+    This experience should have taught you what happens when you meddle with things you don't understand.
+#这次经历应该使你明白插手自己一窍不通的事情的危害是什么。
+
+bracelet:
+    There are some gold and silver bracelets on display in the window.
+#橱窗里展出了一些金手锡和银手锡。
+
+=======
+involuntary:
+    an involuntary listener
+#非自愿的倾听者
+    an involuntary gesture
+#无意间的姿态
+
+conclusive:
+    a conclusive proof
+#确证
+    the conclusive result of election
+#选举的最终结果
+    a conclusive argument
+#无可置疑的论点
+    They have conclusive evidence of her guilt.
+#他们有确凿的证据证明她的罪行。
+
+destine:
+    be destined for a successful career
+#注定事业成功
+    be destined for the Asian market
+#（商品）预定销往亚洲市场
+    The letter was destined never to reach her.
+#那封信注定永远也到不了她的手里。
+
+amendment:
+    make a few last minute amendments
+#做最后几处修改
+    a promise of reform and amendment
+#改过自新的诺言
+    an amendment to a law
+#法律的修正条款
+    an amendment to the grammar
+#对语法的修正
+    All the amendments proposed by the opposition parties were defeated.
+#反对党提出的所有修正案都被否决了。
+
+decompose:
+    decompose a chemical compound
+#分解化合物
+    The great heat decomposed fruit and vegetables quickly.
+#炎热使得水果和蔬菜迅速腐烂。
+
+impersonal:
+    the impersonal and impartial point of view
+#公正、客观的看法
+    an impersonal tone
+#冷淡的语气
+    an impersonal verb
+#非人称动词
+    an impersonal pronoun
+#非人称代词
+    She was impersonal, with her head high up and a touch-me-not expression frozen on her face.
+#她很冷淡，头总是抬得高高的，脸上一副别碰我的冰冷样子。
+
+countless:
+    countless reasons against it
+#反对它的无数理由
+    The grassland was covered with countless locusts.
+#草地上密密麻麻地覆盖着无数的皇虫。
+
+volcanic:
+    volcanic ash
+#火山灰
+    volcanic activity
+#火山运动
+    a volcanic temper
+#火暴脾气
+    It was one of the biggest volcanic eruptions of last century.
+#那是上个世纪最大的一次火山爆发。
+
+pious:
+    pious obedience
+#唯命是从
+    a pious deception
+#伪善的蒙蔽
+    pious effort
+#值得称许的努力
+    He was brought up by pious female relatives.
+#他是由虔诚的女性亲属抚养大的。
+
+defrost:
+    defrost the refrigerator regularly
+#定期给冰箱除霜
+    Defrost the chicken thoroughly before cooking.
+#烧鸡肉之前把鸡肉彻底解冻。
+
+evocative:
+    an evocative description
+#令人浮想联翩的描述
+    be evocative of spring
+#令人联想起春天
+    an incident evocative of old memories
+#唤起对旧时回忆的事情
+    The pebbled streets and traditional shops are evocative of a completely different era.
+#铺着鹅卵石的街道和传统的商店令人想起一个完全不同的时代。
+
+modulate:
+    modulate the foreign policy
+#调整外交政策
+    modulate the sound on the TV
+#调整电视机的声音
+    An elected committee will meet monthly to modulate the government's energy policy.
+#一个选产生的委员会将每月碰面调整政府的能源政策。
+
+upheaval:
+    a period of political upheaval
+#政治动荡动期
+    He survived the upheaval that followed the murder.
+#他在那次谋杀之后的混乱局面中幸免于难。
+
+concord:
+    the concord of husband and wife
+#（夫妻间的）琴瑟和鸣
+    live in concord
+#和睡相处
+    These neighboring states have lived in concord for centuries.
+#这些邻国已和睡相处几个世纪了。
+
+heed:
+    He was unlikely to give heed to advice from such a source.
+#他不可能听从这种渠道来的建议。
+
+onset:
+    the onset of the enemy
+#敌人发起的进攻
+    the onset of spring
+#春天伊始
+    the onset of a nasty cold
+#重感冒的发作
+    The negotiators have given up hope of signing a peace settlement before the onset of winter.
+#谈判人员已放弃在冬天开始之前签署和平协议的希望。
+
+crystalline:
+    a crystalline sheet of ice
+#一层层晶莹的薄冰
+    crystalline pendants hanging from the chandelier
+#枝形吊灯垂下的水晶垂饰
+    Her singing voice has a pure, crystalline quality.
+#她的歌喉如水晶般纯净、清激。
+
+irritable:
+    Be careful of what you say -- he's rather irritable today.
+#当心你说的话，他今天脾气很大。
+
+lumber:
+    We saw an elephant lumbering along the road.
+#我们看见一头大象沿着公路缓缓走着。
+    get lumbered with money
+#陷入经济困难
+    lumber the junk together
+#把乱七八糟的东西堆到一起
+    a room lumbered with useless articles
+#堆满废物的房间
+
+tensile:
+    tensile force
+#拉力
+    a tensile metal
+#延展性金属
+
+muster:
+    muster the troops
+#召集军队
+    muster the ship crew
+#对全体船员点名
+    pass muster
+#通过检查，被认为合格
+    He managed to muster (up) his courage to ask her to the cinema.
+#他终于鼓起勇气请她去看电影。
+
+oxidize:
+    Iron becomes rusty when it oxidizes.
+#铁氧化时会生锈。
+
+buoy:
+    a light buoy
+#灯浮标
+    buoy a channel
+#用浮标指示航道
+    He was buoyed up by hopes of success.
+#成功的希望使他倍受鼓舞。
+
+certification:
+    certification of fitness
+#质量合格证
+    export certification
+#出口证明
+    The customs official asked her to show the certification of proof.
+#海关官员要她出示检验证书。
+
+expulsion:
+    expulsion from the country
+#驱逐出境
+    the expulsion of military advisers
+#军事顾问的被驱逐
+    The punishment for this kind of behavior is expulsion from school.
+#对这种行为的惩罚就是开除学籍。
+
+sterilize:
+    After having five children, she decided to be sterilized.
+#有了5个孩子后，她决定去做绝育。
+
+eloquence:
+    a flow of eloquence
+#口若悬河的辩才
+    a man of great eloquence
+#极善辞令的人
+    Talking and eloquence are not the same: to speak, and to speak well are two things.
+#说话和有口才不一样，一个是说，一个是说得好，这是两码事。
+
+gild:
+    gild bronze doors
+#给铜门镀金
+    gild a lie
+#掩饰谎言
+    gild the lily
+#画蛇添足
+    The statue, recently gilded, shone brightly in the mid-day sun.
+#这尊塑像最近镀了层金，在正午的阳光下格外耀眼。
+
+petal:
+    a yellow petal edged with pink
+#一片粉红色边的黄色花瓣
+    Petaling thoroughly, the rose in the garden looks quite beautiful.
+#花园里的玫瑰花绽放着，看上去美极了。
+
+mobility:
+    the mobility of the arm
+#手臂的灵活性
+    labor mobility
+#劳动力的流动性
+    the mobility of one's face
+#某人多变的面部表情
+    For children from poorer families, the main hope of social mobility is through education.
+#对于贫困家庭的孩子来说，出人头地的主要希望就是依靠教育。
+
+peck:
+    peck its way out of its shell
+#啄出売
+    peck sb. on the cheek
+#轻吻某人的脸频
+    peck a pottery jar out of the hole
+#从洞中挖出一陶罐
+    give sb. a slight peck of farewell
+#轻轻吻别某人
+    eat a peck of salt with sb.
+#很了解某人，与某人相处很久
+
+peril:
+    be fraught with perils
+#充满危险
+    survive the perils of the Arctic winter
+#扛过北极的严冬而生存下来
+    be full of perils
+#险象环生
+    peril one's life
+#冒生命的危险
+    at one's peril
+#（尤用以告诚自己）由自己负责，由自己承担风险
+    He never felt that his life was in peril.
+#他从未意识到自己的生活处于危险中。
+
+unfold:
+    unfold one's arms
+#张开双臂
+    unfold a map
+#打开地图
+    unfold a letter
+#打开信
+    unfold the plot from several angles
+#从个角度展开故事情节
+    unfolding flowers
+#绽放的花
+    I've arranged a lunch with him next Thursday at which I intended to unfold my proposal.
+#我已安排好下周四与他共进午餐，席间我打算披露我的计划。
+
+orchard:
+    a cherry orchard
+#樱桃园
+    There is an apple orchard at the back of the village.
+#村庄后面有一个苹果园。
+
+speck:
+    rub the specks off the window
+#擦去窗上的斑点
+    not a speck of dust/dirt
+#没有一点灰尘
+    a speck of light
+#一点光亮
+    be specked by ink
+#让墨水弄脏
+    a speck of courage
+#一丝勇气
+    After he'd painted the door, he found specks of paint all over the floor.
+#他给门上完漆后，发现地板上全是油漆斑点。
+
+engross:
+    be engrossed by an interesting story
+#被一个有趣的故事迷住
+    be deeply/completely engrossed in
+#沉醉其中
+    She was so engrossed in what she was doing that she didn't hear me come in.
+#她那么全神注地做着手头的事，我进来都没有听到。
+
+exclamation:
+    an exclamation of pain
+#痛苦的叫声
+    give aninvoluntary exclamation
+#不由自主地叫了一声
+    break into the most passionate exclamations against sb.
+#用最激烈的言辞咒骂某人
+    an exclamation mark
+#感叹号
+    They embraced with exclamations of happiness.
+#他们一边拥抱，一边互相喊着祝福的话。
+
+meddle:
+    meddle in one's affairs
+#干涉某人的事
+    This experience should have taught you what happens when you meddle with things you don't understand.
+#这次经历应该使你明白插手自己一窍不通的事情的危害是什么。
+
+bracelet:
+    There are some gold and silver bracelets on display in the window.
+#橱窗里展出了一些金手锡和银手锡。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

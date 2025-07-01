@@ -1,0 +1,599 @@
+<<<<<<< HEAD
+resurge:
+    He fought off the resurging need for a drink.
+#他好不容易按捺住了再次袭来的想喝一杯的冲动。
+
+photosynthesis:
+    These plants have an impressive spread of leaves to enable them to produce enough food by photosynthesis.
+#这些植物的叶子展开得很大，这使他们能通过光合作用制造足够的养分供给自己。
+
+conciliatory:
+    a conciliatory act
+#安抚性的行动
+    a conciliatory policy
+#和解政策
+    Her conciliatory smile told him that they were friends again.
+#她那表示和解的微笑告诉他，他们又是朋友了。
+
+inedible:
+    The potato plant produces inedible fruits which look like green tomatoes.
+#马铃薯植株结出不可食的浆果，看似未熟的西红柿。
+
+igneous:
+    an igneous appearance
+#火红的外貌
+    igneous rock
+#火成岩
+
+nonentity:
+    a political nonentity
+#政坛上无足轻重的人物;
+    come from a family of nonentities
+#出身于寻常人家
+    The film is full of decorative nonentities.
+#这部电影充满了毫无价值的细节。
+
+reportorial:
+    His lecture was more reportorial than analytical.
+#他的演讲与其说是分析评价倒不如说是事实报道。
+
+ill-paying:
+    an ill-paying job
+#工资低的工作
+
+multicellular:
+    Students practice to apply the study of genetics to multicellular plants and fungi. 
+#学生们练习把基因学应用到多细胞植物和真菌中。
+
+arboreal:
+    A squirrel is an arboreal animal.
+#松鼠是一种栖树动物。
+
+quiescent:
+    a quiescent volcano
+#不活动的火山
+    The political situation was now relatively quiescent.
+#政治形势现在相对平静。
+
+tasteless:
+    a tasteless remark
+#不得体的话
+    a tasteless over-furnished room
+#摆设过多而显得俗气的房间
+    The tale comes to a tasteless end.
+#这个故事的结尾索然无味。
+
+aspen:
+    Aspens are usually used to make paper.
+#山杨通常用来造纸。
+
+efficacious:
+    an efficacious law
+#行之有效的法令
+    Vaccination is efficacious in preventing smallpox.
+#接种疫苗对预防天花很有效。
+
+applicability:
+    be of great/much applicability
+#适用性很强
+
+foodstuff:
+    frozen foodstuff
+#冷冻食品
+    They lack basic foodstuff, such as bread and milk.
+#他们缺少基本的食品，如面包和牛奶之类。
+
+exemplar:
+    the exemplar of virtue
+#美德的楷模
+    an exemplar of patriotism
+#爱国主义的典范
+    It is an exemplar of a house of the period.
+#这是那个时期房屋的典型。
+
+sedimentary:
+    Sedimentary rock forms the top geological layer in much of the area.
+#在这个地区的大部分地方，沉积岩形成了地质层的最上层。
+
+condescending:
+    I don't like his condescending manner toward his staff.
+#我讨厌他在员工面前那种居高临下的态度。
+
+idealism:
+    He never lost his youthful idealism and fought for the just cause all his life.
+#他从未丧失过他那种充满青春活力的理想主义，一生都在为正义事业而斗争。
+
+self-deprecating:
+    a self-deprecating manner
+#过于谦虚的态度
+    self-deprecating jokes
+#自嘲的笑话
+
+protozoan:
+    Amoebas are protozoans.
+#阿米巴虫是原生动物。
+
+inviolate:
+    For centuries the tomb lay inviolate until, by chance, it was discovered by two farmers.
+#这座坟墓若干世纪未遭破坏，直到被两个农夫偶然发现。
+
+periphery:
+    the periphery of the factory site
+#厂区的周边地区
+    the periphery of a metropolis
+#大都市的边缘地区
+    The ring road runs around the periphery of the city center.
+#内环线围绕市中心的边缘地带。
+
+caustic:
+    caustic remarks
+#挖苦讽刺的言语
+    She's famous in the office for her caustic humor.
+#她在办公室里因为擅长说笑话挖苦人而出名。
+
+recurrent:
+    recurrent spelling mistakes
+#经常发生的拼写错误
+    a recurrent dream
+#反复出现的梦
+    The father-daughter relationship is a recurrent theme throughout all her works.
+#父女关系是在她所有作品中反复出现的主题。
+
+unwarranted:
+    unwarranted search and seizure
+#无证搜查抓捕
+    an unwarranted intrusion
+#无正当理由的侵人
+    The company director claimed the criticism was unwarranted and unjust.
+#公司经理声称批评是无根据的、不公正的。
+
+traceable:
+    a barely traceable inscription
+#几乎难以辨认的铭文
+    the deaths traceable to the conflict
+#由于这次突而造成的死亡人数
+    His medical problems were shown to be traceable to his having been exposed to dangerous chemicals.
+#有迹象表明，他的健康问题是源于他接触过危险的化学药品。
+
+acerbic:
+    He sounded acerbic.
+#他的话听上去很尖刻。
+
+inadvisable:
+    It is inadvisable to generalize from the results of a single experiment.
+#就单个实验的结果进行概括是不可取的。
+
+discriminatory:
+    repeal racially discriminatory laws
+#废除种族视法规
+    discriminatory treatment
+#歧视性的待遇
+    The new regulations are, in a sense, discriminatory.
+#从某种意义上说，新的规则不公平。
+
+unsurpassed:
+    He's an economic analyst of unsurpassed genius.
+#他是个才华超群的经济分析家。
+
+potable:
+    potable water
+#饮用水
+    He bought eatables and potables.
+#他买了吃的喝的。
+
+stymie:
+    be stymied at the door
+#被拦在门外
+    The increased cost of oil aggravated inflation and stymied economic recovery.
+#石油价格的上涨加剧了通货膨胀并阻碍了经济复苏。
+
+exasperation:
+    the petty exasperations of daily life
+#日常生活中恼人的琐细小事
+    After ten hours of fruitless negotiation, he stormed out of the hall in exasperation.
+#10小时毫无结果的协商后，他愤怒地冲出了大厅。
+
+introspective:
+    She is famous for her introspective songs about failed relationships.
+#她以唱反省失败感情关系的歌曲而闻名。
+
+incorruptible:
+    incorruptible metal
+#不腐蚀的金属
+    The incorruptible man could not be bribed.
+#廉洁的人是贿赂不了的。
+
+agony:
+    in an agony of doubt
+#在疑惑的极大痛苦中;
+    suffer agonies of guilt
+#感到深切的内
+    go through the agony of war
+#历经战争的苦难
+    with agonies of wild joy
+#狂喜地
+    The people who had been injured in the bomb explosion lay screaming in agony.
+#在炸弹爆炸中受伤的人躺在那里，痛苦地尖叫着。
+
+skimp:
+    skimp the material when making a dress
+#做衣服时舍不得用料
+    skimp sb. with/in money
+#克扣某人的钱
+    skimp one's job
+#敷衍了事
+    They skimped on food and heating in order to meet their bills.
+#他们节约食物和暖气供应以偿付账单。
+
+receptive:
+    a receptive mind
+#接受能力强的头脑
+    be receptive to new ideas
+#能接受新思想
+    She was always receptive to new ideas.
+#她总是愿意接受新观点。
+
+rhapsodic:
+    a rhapsodic composer
+#狂想曲作家
+
+transcendent:
+    transcendent merit
+#卓越的功绩
+    a transcendent genius
+#杰出人才
+    Freud banished for many people the belief that a transcendent authority exists to which mankind is accountable for its actions.
+#弗洛伊德去除了许多人心目中的观念——认为有一种至高无上的权威主宰人类的行为。
+
+blissful:
+    eight blissful hours of sleep
+#8个小时无忧无虑的酣睡
+    They spent a blissful year together before things started to go wrong.
+#在境遇变坏前他们在一起度过了十分幸福的一年。
+
+recondite:
+    a recondite area of learning
+#一个深奥的学术领域
+    the recondite motives of human actions
+#隐秘的人类行为动机
+    We had to work from material that was both complex and recondite.
+#我们不得不从复杂而又难懂的材料着手。
+
+culpable:
+    She admitted that she was partly culpable for the breakup of her marriage.
+#她承认婚姻破裂她负有部分责任。
+
+tactile:
+    a tactile organ
+#触觉器官
+    children who are highly tactile
+#触觉特别发达的儿童
+    have tactile appeal
+#富有质感美
+    The theater has been refurnished with the tactile materials of wood, iron and copper.
+#这家剧院用木、铁、铜等质感较强的材料重新装饰过。
+
+prig:
+    A prig is usually a priggish, domineering man.
+#命不凡者往往是一本正经、盛气凌人的人。
+
+pomposity:
+    He said this with pomposity that didn't suit such a young man.
+#他说这话时带有一种年轻人不该有的自负。
+
+overpower:
+    be overpowered by grief
+#悲痛欲绝
+    He overpowered the thief.
+#他制伏了窃贼。
+
+viscous:
+    dark, viscous blood
+#深色且黏稠的血液
+
+disinterest:
+    be charged with a lack of disinterest
+#被指责不公平
+    His disinterest in art was due to his ignorance.
+#对艺术缺乏兴趣是由于无知。
+
+=======
+resurge:
+    He fought off the resurging need for a drink.
+#他好不容易按捺住了再次袭来的想喝一杯的冲动。
+
+photosynthesis:
+    These plants have an impressive spread of leaves to enable them to produce enough food by photosynthesis.
+#这些植物的叶子展开得很大，这使他们能通过光合作用制造足够的养分供给自己。
+
+conciliatory:
+    a conciliatory act
+#安抚性的行动
+    a conciliatory policy
+#和解政策
+    Her conciliatory smile told him that they were friends again.
+#她那表示和解的微笑告诉他，他们又是朋友了。
+
+inedible:
+    The potato plant produces inedible fruits which look like green tomatoes.
+#马铃薯植株结出不可食的浆果，看似未熟的西红柿。
+
+igneous:
+    an igneous appearance
+#火红的外貌
+    igneous rock
+#火成岩
+
+nonentity:
+    a political nonentity
+#政坛上无足轻重的人物;
+    come from a family of nonentities
+#出身于寻常人家
+    The film is full of decorative nonentities.
+#这部电影充满了毫无价值的细节。
+
+reportorial:
+    His lecture was more reportorial than analytical.
+#他的演讲与其说是分析评价倒不如说是事实报道。
+
+ill-paying:
+    an ill-paying job
+#工资低的工作
+
+multicellular:
+    Students practice to apply the study of genetics to multicellular plants and fungi. 
+#学生们练习把基因学应用到多细胞植物和真菌中。
+
+arboreal:
+    A squirrel is an arboreal animal.
+#松鼠是一种栖树动物。
+
+quiescent:
+    a quiescent volcano
+#不活动的火山
+    The political situation was now relatively quiescent.
+#政治形势现在相对平静。
+
+tasteless:
+    a tasteless remark
+#不得体的话
+    a tasteless over-furnished room
+#摆设过多而显得俗气的房间
+    The tale comes to a tasteless end.
+#这个故事的结尾索然无味。
+
+aspen:
+    Aspens are usually used to make paper.
+#山杨通常用来造纸。
+
+efficacious:
+    an efficacious law
+#行之有效的法令
+    Vaccination is efficacious in preventing smallpox.
+#接种疫苗对预防天花很有效。
+
+applicability:
+    be of great/much applicability
+#适用性很强
+
+foodstuff:
+    frozen foodstuff
+#冷冻食品
+    They lack basic foodstuff, such as bread and milk.
+#他们缺少基本的食品，如面包和牛奶之类。
+
+exemplar:
+    the exemplar of virtue
+#美德的楷模
+    an exemplar of patriotism
+#爱国主义的典范
+    It is an exemplar of a house of the period.
+#这是那个时期房屋的典型。
+
+sedimentary:
+    Sedimentary rock forms the top geological layer in much of the area.
+#在这个地区的大部分地方，沉积岩形成了地质层的最上层。
+
+condescending:
+    I don't like his condescending manner toward his staff.
+#我讨厌他在员工面前那种居高临下的态度。
+
+idealism:
+    He never lost his youthful idealism and fought for the just cause all his life.
+#他从未丧失过他那种充满青春活力的理想主义，一生都在为正义事业而斗争。
+
+self-deprecating:
+    a self-deprecating manner
+#过于谦虚的态度
+    self-deprecating jokes
+#自嘲的笑话
+
+protozoan:
+    Amoebas are protozoans.
+#阿米巴虫是原生动物。
+
+inviolate:
+    For centuries the tomb lay inviolate until, by chance, it was discovered by two farmers.
+#这座坟墓若干世纪未遭破坏，直到被两个农夫偶然发现。
+
+periphery:
+    the periphery of the factory site
+#厂区的周边地区
+    the periphery of a metropolis
+#大都市的边缘地区
+    The ring road runs around the periphery of the city center.
+#内环线围绕市中心的边缘地带。
+
+caustic:
+    caustic remarks
+#挖苦讽刺的言语
+    She's famous in the office for her caustic humor.
+#她在办公室里因为擅长说笑话挖苦人而出名。
+
+recurrent:
+    recurrent spelling mistakes
+#经常发生的拼写错误
+    a recurrent dream
+#反复出现的梦
+    The father-daughter relationship is a recurrent theme throughout all her works.
+#父女关系是在她所有作品中反复出现的主题。
+
+unwarranted:
+    unwarranted search and seizure
+#无证搜查抓捕
+    an unwarranted intrusion
+#无正当理由的侵人
+    The company director claimed the criticism was unwarranted and unjust.
+#公司经理声称批评是无根据的、不公正的。
+
+traceable:
+    a barely traceable inscription
+#几乎难以辨认的铭文
+    the deaths traceable to the conflict
+#由于这次突而造成的死亡人数
+    His medical problems were shown to be traceable to his having been exposed to dangerous chemicals.
+#有迹象表明，他的健康问题是源于他接触过危险的化学药品。
+
+acerbic:
+    He sounded acerbic.
+#他的话听上去很尖刻。
+
+inadvisable:
+    It is inadvisable to generalize from the results of a single experiment.
+#就单个实验的结果进行概括是不可取的。
+
+discriminatory:
+    repeal racially discriminatory laws
+#废除种族视法规
+    discriminatory treatment
+#歧视性的待遇
+    The new regulations are, in a sense, discriminatory.
+#从某种意义上说，新的规则不公平。
+
+unsurpassed:
+    He's an economic analyst of unsurpassed genius.
+#他是个才华超群的经济分析家。
+
+potable:
+    potable water
+#饮用水
+    He bought eatables and potables.
+#他买了吃的喝的。
+
+stymie:
+    be stymied at the door
+#被拦在门外
+    The increased cost of oil aggravated inflation and stymied economic recovery.
+#石油价格的上涨加剧了通货膨胀并阻碍了经济复苏。
+
+exasperation:
+    the petty exasperations of daily life
+#日常生活中恼人的琐细小事
+    After ten hours of fruitless negotiation, he stormed out of the hall in exasperation.
+#10小时毫无结果的协商后，他愤怒地冲出了大厅。
+
+introspective:
+    She is famous for her introspective songs about failed relationships.
+#她以唱反省失败感情关系的歌曲而闻名。
+
+incorruptible:
+    incorruptible metal
+#不腐蚀的金属
+    The incorruptible man could not be bribed.
+#廉洁的人是贿赂不了的。
+
+agony:
+    in an agony of doubt
+#在疑惑的极大痛苦中;
+    suffer agonies of guilt
+#感到深切的内
+    go through the agony of war
+#历经战争的苦难
+    with agonies of wild joy
+#狂喜地
+    The people who had been injured in the bomb explosion lay screaming in agony.
+#在炸弹爆炸中受伤的人躺在那里，痛苦地尖叫着。
+
+skimp:
+    skimp the material when making a dress
+#做衣服时舍不得用料
+    skimp sb. with/in money
+#克扣某人的钱
+    skimp one's job
+#敷衍了事
+    They skimped on food and heating in order to meet their bills.
+#他们节约食物和暖气供应以偿付账单。
+
+receptive:
+    a receptive mind
+#接受能力强的头脑
+    be receptive to new ideas
+#能接受新思想
+    She was always receptive to new ideas.
+#她总是愿意接受新观点。
+
+rhapsodic:
+    a rhapsodic composer
+#狂想曲作家
+
+transcendent:
+    transcendent merit
+#卓越的功绩
+    a transcendent genius
+#杰出人才
+    Freud banished for many people the belief that a transcendent authority exists to which mankind is accountable for its actions.
+#弗洛伊德去除了许多人心目中的观念——认为有一种至高无上的权威主宰人类的行为。
+
+blissful:
+    eight blissful hours of sleep
+#8个小时无忧无虑的酣睡
+    They spent a blissful year together before things started to go wrong.
+#在境遇变坏前他们在一起度过了十分幸福的一年。
+
+recondite:
+    a recondite area of learning
+#一个深奥的学术领域
+    the recondite motives of human actions
+#隐秘的人类行为动机
+    We had to work from material that was both complex and recondite.
+#我们不得不从复杂而又难懂的材料着手。
+
+culpable:
+    She admitted that she was partly culpable for the breakup of her marriage.
+#她承认婚姻破裂她负有部分责任。
+
+tactile:
+    a tactile organ
+#触觉器官
+    children who are highly tactile
+#触觉特别发达的儿童
+    have tactile appeal
+#富有质感美
+    The theater has been refurnished with the tactile materials of wood, iron and copper.
+#这家剧院用木、铁、铜等质感较强的材料重新装饰过。
+
+prig:
+    A prig is usually a priggish, domineering man.
+#命不凡者往往是一本正经、盛气凌人的人。
+
+pomposity:
+    He said this with pomposity that didn't suit such a young man.
+#他说这话时带有一种年轻人不该有的自负。
+
+overpower:
+    be overpowered by grief
+#悲痛欲绝
+    He overpowered the thief.
+#他制伏了窃贼。
+
+viscous:
+    dark, viscous blood
+#深色且黏稠的血液
+
+disinterest:
+    be charged with a lack of disinterest
+#被指责不公平
+    His disinterest in art was due to his ignorance.
+#对艺术缺乏兴趣是由于无知。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

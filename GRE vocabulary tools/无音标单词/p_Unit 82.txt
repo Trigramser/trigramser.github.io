@@ -1,0 +1,607 @@
+<<<<<<< HEAD
+dependable:
+    dependable friends
+#可靠的朋友
+    dependable information
+#可靠的消息
+    I need someone dependable to look after the children while I'm at work.
+#我需要一个可靠的人在我上班时照看孩子。
+
+stoic:
+    be stoic about the outcome
+#对结果毫不在意
+    a stoic indifference to reproaches
+#对责备的隐忍
+    We knew she must be in pain, despite her stoic attitude.
+#我们知道虽然她的态度坚忍，但她一定很痛苦。
+
+enviable:
+    She has earned herself an enviable position in the bank.
+#她在银行里获得了一个令人美慕的位置。
+
+dichotomy:
+    a rigid dichotomy between fact and fiction
+#事实和杜撰之间的截然对立
+    There is often a dichotomy between what politicians say and what they do.
+#政客们说的和做的之间常有天壤之别。
+
+overbear:
+    overbear sb. in the fight
+#在打斗中把某人压倒
+    overbear sb.'s objections
+#否决某人的异议
+
+disconsolate:
+    a disconsolate face
+#愁容
+    disconsolate prospects
+#暗淡的前景
+    She is disconsolate over the loss of her job.
+#失去工作而闷闷不乐。
+
+observant:
+    A careful driver is observant of the traffic rules.
+#谨慎小心的驾驶员严格遵守交通规则
+
+perspicacious:
+    a perspicacious student
+#聪颖的学生
+    a perspicacious lawyer
+#明辨是非的律师
+    His perspicacious grandfather had bought the land as an investment, guessing that there must be gold underground.
+#他睿智的祖父买下了这块地作为投资，猜想地下有黄金。
+
+specter:
+    the specter of bankruptcy
+#挥之不去的对破产的恐惧
+    the awful specter of war
+#战争的威胁
+
+    Drought and war have raised the specter of food shortages for the local people.
+#干旱和战争引起了当地人对食物短缺的恐惧。
+
+offhand:
+    an offhand attitude
+#随便的态度
+    offhand excuses
+#随口说出的借口
+    a relaxed offhand manner
+#放松不拘的举止
+    I can't quote the exact statistics for you offhand, but they're there for you to see in the report.
+#我不能随口为你举出确切的统计数字，但你可以在这篇报告中看到它们。
+
+incise:
+    incise the swollen tissue
+#切开肿张组织
+    be incised on the stone
+#刻在石头上
+    The design is incised into a metal plate.
+#图案是刻在金属板上的。
+
+dissimilar:
+    be reared in dissimilar families
+#在不同家庭环境里被抚养成人
+    The new house is not dissimilar to our old one except that it's a bit bigger.
+#新房子除了大了一些，跟我们的老房子没有什么不同。
+
+indent:
+    indent the horizon
+#使地平线呈锯齿状
+    indent the first word of each paragraph
+#缩写每一段的第一个词
+    indent for engine spares
+#订购发动机的零件
+    The coastline has been indented by the processes of erosion.
+#海岸在浸蚀过程中变成了锯齿状
+
+preservative:
+    be treated with preservative
+#经防腐处理
+    need for preservative action
+#争取保护行动的必要性
+
+    food preservative
+#食品防腐剂
+    This bread is completely free from artificial preservatives.
+#这种面包绝对不含人工防腐剂。
+
+deride:
+    deride sb. for his fear of the dark
+#嘲笑某人害怕黑暗
+    I was derided for making such a stupid suggestion.
+#人们嘲笑我提出这么蠢的建议。
+
+ignominious:
+    an ignominious end
+#可耻的下场
+    He suffered an ignominious defeat.
+#他经受了次声誉扫地的失败。
+
+furtive:
+    cast a furtive glance at sb.
+#朝某人偷偷警一眼
+    make furtive phone calls
+#偷偷摸摸打电话
+    be furtive in one's movements
+#行动诡秘
+    There was something furtive about his behavior and I immediately felt suspicious.
+#他的行为有些鬼鬼崇崇，我立刻觉得很可疑。
+
+interminable:
+    an interminable speech
+#冗长不堪的讲话
+    interminable thickets
+#漫无尽头的灌木
+    Our colleague was stirred by the remark into one of his interminable stories of his youth.
+#我们的同事受这句话的启发，开始大讲关于他青年时代的没完没了的故事。
+
+huckster:
+    huckster over prices on the black market
+#在黑上讨价还价
+    He huckstered for a living.
+#他以做小商販为生。
+
+orchestrate:
+    Their victory was largely a result of their brilliantly orchestrated election campaign.
+#他们胜利的主要原因是独具匠心地策划了竞选运动。
+
+averse:
+    be averse to coming/to come
+#不愿来
+    He's averse to flattery.
+#他不愿意听恭维的话。
+
+archaic:
+    an archaic statue
+#古代的雕像
+    The meaning of some archaic forms of writing is not always well understood today.
+#有些古代文字的意义在今天并非都能理解清楚。
+
+unpack:
+    unpack a briefcase
+#打开公文包取东
+    unpack one's grievances to sb.
+#向某人诉苦
+    take some unpacking
+#需要一些解释
+    I'll make us some supper while you're unpacking your bags.
+#在你打开行李整理东西的时候，我做晚饭。
+
+colloquial:
+    colloquial English
+#英语口语
+    The article was written in colloquial style.
+#这篇文章是用口语体写的。
+
+voluminous:
+    a voluminous silk dress
+#宽大的丝衣裙
+    a voluminous edition
+#大部头版本
+    voluminous praise
+#滔滔不绝的称赞
+    voluminous flow of lava
+#巨大的熔岩流
+    I've read the novelist's voluminous account of his early life and experiences.
+#我读过这位小说家有关他早年生活和经历的长篇著述。
+
+callous:
+    a pair of callous laboring hands
+#一双生着老的劳动的手
+    Going bare foot made the bottom of his feet callous.
+#打赤脚走路使他的脚底生茧。
+
+provocation:
+    military provocation
+#军事挑衅
+    wilful provocation of disorder
+#蓄意挑起动乱
+    a provocation designed to cause a clash
+#蓄意挑起冲突的挑衅行为
+    People under provocation can react in unexpected ways.
+#遭到挑衅的人会做出预料不到的反应。
+
+immaculate:
+    an immaculate shirt
+#洁白的衬衫
+    an immaculate test
+#精确无误的文本
+    have an immaculate record
+#一生清白
+    an immaculate garden lawn
+#洁净的花园草坪
+    He gave an immaculate performance of the aging king.
+#他完美地扮演了那个年迈的国王。
+
+dismember:
+    dismember a country
+#瓜分一个国家
+
+rancid:
+    rancid bacon
+#臭熏肉
+    the wet rancid smell of a basement
+#地下室潮湿而陈腐的气味
+    the most rancid form of caps
+#最难看的帽子
+
+attrition:
+    a war of attrition
+#消耗战
+    an attrition rate
+#耗损率
+    Most of the staff reduction will be achieved through attrition.
+#人员裁减将主要通过自然缩减来实现。
+
+accentuate:
+    accentuate the positive
+#强调积极面
+    Her dress was tightly belted, accentuating the slimness of her waist.
+#她的衣带系得很紧，凸显出她苗条的腰身。
+
+paradoxical:
+    It seems paradoxical to me, but if you drink a cup of hot coffee it does seem to cool you down.
+#对我来说似乎很矛盾，但是你要是喝一杯热咖啡的话，它似乎的确会让你冷静下来。
+
+tantamount:
+    tantamount to a declaration of war
+#等于宣战
+    Her refusal to answer was tantamount to guilt.
+#她拒绝回答等于是认罪。
+
+premonition:
+    have a premonition of disaster
+#预感到灾难临
+    feel an awful premonition
+#有一种不祥的预感
+    He had a premonition and rushed out of the house just before an explosion wrecked it.
+#他有一种不祥的预感，于是正好在房子被炸毁前跑了出来。
+
+imposing:
+    an imposing headmaster
+#威严的校长
+    an imposing appearance
+#堂堂仪表
+    make an imposing display of knowledge
+#显示出令人叹服的博学
+    Her weekends are spent in an imposing mansion by the sea.
+#她的周末是在海边一幢宏伟的房子里度过的。
+
+overestimate:
+    They were forced to the conclusion that they had overestimated his abilities.
+#他们被迫得出这样的结论，即过高估计了他的能力。
+
+satirize:
+    The television program satirized the way the wealthy behaved.
+#这档电视节目讽刺了富人的行为做派。
+
+introvert:
+    He used to be very sociable, but he's been an introvert since his wife's death.
+#他原来很爱交际，但自从妻子去世以后一直很内向。
+
+stalwart:
+    a stalwart man
+#体格健状的男子
+    the stalwart wall of the castle
+#城堡坚固的墙
+    a stalwart ally
+#坚定的同盟者
+    a stalwart knight
+#勇敢的骑士
+    He has been a stalwart supporter for the party for many years.
+#他多年来一直是该党的坚定支持者。
+
+covet:
+    covet the presidency
+#觊觎总统职位
+    covet after wealth
+#贪图财富
+    covet for popularity
+#贪求名望
+    He always coveted power but never quite achieved it.
+#他一直贪求权力，但从未达到过目标。
+
+=======
+dependable:
+    dependable friends
+#可靠的朋友
+    dependable information
+#可靠的消息
+    I need someone dependable to look after the children while I'm at work.
+#我需要一个可靠的人在我上班时照看孩子。
+
+stoic:
+    be stoic about the outcome
+#对结果毫不在意
+    a stoic indifference to reproaches
+#对责备的隐忍
+    We knew she must be in pain, despite her stoic attitude.
+#我们知道虽然她的态度坚忍，但她一定很痛苦。
+
+enviable:
+    She has earned herself an enviable position in the bank.
+#她在银行里获得了一个令人美慕的位置。
+
+dichotomy:
+    a rigid dichotomy between fact and fiction
+#事实和杜撰之间的截然对立
+    There is often a dichotomy between what politicians say and what they do.
+#政客们说的和做的之间常有天壤之别。
+
+overbear:
+    overbear sb. in the fight
+#在打斗中把某人压倒
+    overbear sb.'s objections
+#否决某人的异议
+
+disconsolate:
+    a disconsolate face
+#愁容
+    disconsolate prospects
+#暗淡的前景
+    She is disconsolate over the loss of her job.
+#失去工作而闷闷不乐。
+
+observant:
+    A careful driver is observant of the traffic rules.
+#谨慎小心的驾驶员严格遵守交通规则
+
+perspicacious:
+    a perspicacious student
+#聪颖的学生
+    a perspicacious lawyer
+#明辨是非的律师
+    His perspicacious grandfather had bought the land as an investment, guessing that there must be gold underground.
+#他睿智的祖父买下了这块地作为投资，猜想地下有黄金。
+
+specter:
+    the specter of bankruptcy
+#挥之不去的对破产的恐惧
+    the awful specter of war
+#战争的威胁
+
+    Drought and war have raised the specter of food shortages for the local people.
+#干旱和战争引起了当地人对食物短缺的恐惧。
+
+offhand:
+    an offhand attitude
+#随便的态度
+    offhand excuses
+#随口说出的借口
+    a relaxed offhand manner
+#放松不拘的举止
+    I can't quote the exact statistics for you offhand, but they're there for you to see in the report.
+#我不能随口为你举出确切的统计数字，但你可以在这篇报告中看到它们。
+
+incise:
+    incise the swollen tissue
+#切开肿张组织
+    be incised on the stone
+#刻在石头上
+    The design is incised into a metal plate.
+#图案是刻在金属板上的。
+
+dissimilar:
+    be reared in dissimilar families
+#在不同家庭环境里被抚养成人
+    The new house is not dissimilar to our old one except that it's a bit bigger.
+#新房子除了大了一些，跟我们的老房子没有什么不同。
+
+indent:
+    indent the horizon
+#使地平线呈锯齿状
+    indent the first word of each paragraph
+#缩写每一段的第一个词
+    indent for engine spares
+#订购发动机的零件
+    The coastline has been indented by the processes of erosion.
+#海岸在浸蚀过程中变成了锯齿状
+
+preservative:
+    be treated with preservative
+#经防腐处理
+    need for preservative action
+#争取保护行动的必要性
+
+    food preservative
+#食品防腐剂
+    This bread is completely free from artificial preservatives.
+#这种面包绝对不含人工防腐剂。
+
+deride:
+    deride sb. for his fear of the dark
+#嘲笑某人害怕黑暗
+    I was derided for making such a stupid suggestion.
+#人们嘲笑我提出这么蠢的建议。
+
+ignominious:
+    an ignominious end
+#可耻的下场
+    He suffered an ignominious defeat.
+#他经受了次声誉扫地的失败。
+
+furtive:
+    cast a furtive glance at sb.
+#朝某人偷偷警一眼
+    make furtive phone calls
+#偷偷摸摸打电话
+    be furtive in one's movements
+#行动诡秘
+    There was something furtive about his behavior and I immediately felt suspicious.
+#他的行为有些鬼鬼崇崇，我立刻觉得很可疑。
+
+interminable:
+    an interminable speech
+#冗长不堪的讲话
+    interminable thickets
+#漫无尽头的灌木
+    Our colleague was stirred by the remark into one of his interminable stories of his youth.
+#我们的同事受这句话的启发，开始大讲关于他青年时代的没完没了的故事。
+
+huckster:
+    huckster over prices on the black market
+#在黑上讨价还价
+    He huckstered for a living.
+#他以做小商販为生。
+
+orchestrate:
+    Their victory was largely a result of their brilliantly orchestrated election campaign.
+#他们胜利的主要原因是独具匠心地策划了竞选运动。
+
+averse:
+    be averse to coming/to come
+#不愿来
+    He's averse to flattery.
+#他不愿意听恭维的话。
+
+archaic:
+    an archaic statue
+#古代的雕像
+    The meaning of some archaic forms of writing is not always well understood today.
+#有些古代文字的意义在今天并非都能理解清楚。
+
+unpack:
+    unpack a briefcase
+#打开公文包取东
+    unpack one's grievances to sb.
+#向某人诉苦
+    take some unpacking
+#需要一些解释
+    I'll make us some supper while you're unpacking your bags.
+#在你打开行李整理东西的时候，我做晚饭。
+
+colloquial:
+    colloquial English
+#英语口语
+    The article was written in colloquial style.
+#这篇文章是用口语体写的。
+
+voluminous:
+    a voluminous silk dress
+#宽大的丝衣裙
+    a voluminous edition
+#大部头版本
+    voluminous praise
+#滔滔不绝的称赞
+    voluminous flow of lava
+#巨大的熔岩流
+    I've read the novelist's voluminous account of his early life and experiences.
+#我读过这位小说家有关他早年生活和经历的长篇著述。
+
+callous:
+    a pair of callous laboring hands
+#一双生着老的劳动的手
+    Going bare foot made the bottom of his feet callous.
+#打赤脚走路使他的脚底生茧。
+
+provocation:
+    military provocation
+#军事挑衅
+    wilful provocation of disorder
+#蓄意挑起动乱
+    a provocation designed to cause a clash
+#蓄意挑起冲突的挑衅行为
+    People under provocation can react in unexpected ways.
+#遭到挑衅的人会做出预料不到的反应。
+
+immaculate:
+    an immaculate shirt
+#洁白的衬衫
+    an immaculate test
+#精确无误的文本
+    have an immaculate record
+#一生清白
+    an immaculate garden lawn
+#洁净的花园草坪
+    He gave an immaculate performance of the aging king.
+#他完美地扮演了那个年迈的国王。
+
+dismember:
+    dismember a country
+#瓜分一个国家
+
+rancid:
+    rancid bacon
+#臭熏肉
+    the wet rancid smell of a basement
+#地下室潮湿而陈腐的气味
+    the most rancid form of caps
+#最难看的帽子
+
+attrition:
+    a war of attrition
+#消耗战
+    an attrition rate
+#耗损率
+    Most of the staff reduction will be achieved through attrition.
+#人员裁减将主要通过自然缩减来实现。
+
+accentuate:
+    accentuate the positive
+#强调积极面
+    Her dress was tightly belted, accentuating the slimness of her waist.
+#她的衣带系得很紧，凸显出她苗条的腰身。
+
+paradoxical:
+    It seems paradoxical to me, but if you drink a cup of hot coffee it does seem to cool you down.
+#对我来说似乎很矛盾，但是你要是喝一杯热咖啡的话，它似乎的确会让你冷静下来。
+
+tantamount:
+    tantamount to a declaration of war
+#等于宣战
+    Her refusal to answer was tantamount to guilt.
+#她拒绝回答等于是认罪。
+
+premonition:
+    have a premonition of disaster
+#预感到灾难临
+    feel an awful premonition
+#有一种不祥的预感
+    He had a premonition and rushed out of the house just before an explosion wrecked it.
+#他有一种不祥的预感，于是正好在房子被炸毁前跑了出来。
+
+imposing:
+    an imposing headmaster
+#威严的校长
+    an imposing appearance
+#堂堂仪表
+    make an imposing display of knowledge
+#显示出令人叹服的博学
+    Her weekends are spent in an imposing mansion by the sea.
+#她的周末是在海边一幢宏伟的房子里度过的。
+
+overestimate:
+    They were forced to the conclusion that they had overestimated his abilities.
+#他们被迫得出这样的结论，即过高估计了他的能力。
+
+satirize:
+    The television program satirized the way the wealthy behaved.
+#这档电视节目讽刺了富人的行为做派。
+
+introvert:
+    He used to be very sociable, but he's been an introvert since his wife's death.
+#他原来很爱交际，但自从妻子去世以后一直很内向。
+
+stalwart:
+    a stalwart man
+#体格健状的男子
+    the stalwart wall of the castle
+#城堡坚固的墙
+    a stalwart ally
+#坚定的同盟者
+    a stalwart knight
+#勇敢的骑士
+    He has been a stalwart supporter for the party for many years.
+#他多年来一直是该党的坚定支持者。
+
+covet:
+    covet the presidency
+#觊觎总统职位
+    covet after wealth
+#贪图财富
+    covet for popularity
+#贪求名望
+    He always coveted power but never quite achieved it.
+#他一直贪求权力，但从未达到过目标。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

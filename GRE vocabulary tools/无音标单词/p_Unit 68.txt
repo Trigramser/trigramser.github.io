@@ -1,0 +1,647 @@
+<<<<<<< HEAD
+escalation:
+    prevent the escalation of war
+#不使站争升级
+    an escalation of violence
+#暴力行动的升级
+
+frowzy:
+    The restaurant looked so frowzy that we did not dare to eat there.
+#那家餐馆看起来很邋遢，我们不敢在那里吃饭。
+
+foreclose:
+    foreclose a question
+#预先解决问题
+    They tried to foreclose the possibility of her meeting with the president.
+#他们试图排除她与总统会面的可能性。
+
+egotist:
+    Some politicians are notorious egotists interested only in promoting themselves.
+#有些政客是众所周知的利己主义者，一心只想着谋取高位。
+
+caper:
+    a typical undergraduate caper
+#典型的大学生恶作剧
+    cut a caper/capers
+#开玩笑，蹦跳
+    His caper cost him a twisted ankle.
+#他又蹦又跳，结果把脚踝给扭了。
+
+disgruntle:
+    disgruntled audience
+#不满的观众
+    The employees were disgruntled with their pay.
+#雇员们对工资不满意。
+
+peery:
+    peery eyes
+#好奇的眼睛
+
+kipper:
+    Kippers are sometimes eaten for breakfast.
+#（人们）有时早饭吃熏制鲜鱼。
+
+harrowing:
+    a harrowing story
+#令人伤心的故事
+    a harrowing experience
+#痛苦的经历
+
+trumpery:
+    a truck loaded with household trumpery
+#装满零星杂物的卡车
+    a trumpery argument
+#肤浅的论据
+
+illuminati:
+    Listen to the voice of illuminati.
+#聆听智者的声音。
+
+mutineer:
+    The mutineers who tried to take over the ship were all hanged.
+#企图控制船只的叛变者全部被吊死了。
+
+addle:
+    I have addled my head with writing all day.
+#我一整天都在写东西，整个人头昏脑涨的。
+
+rarefaction:
+    The rarefaction of the air made it hard for them to breathe.
+#空气稀薄使他们呼吸困难。
+
+macerate:
+    He served peaches macerated in wine for dessert.
+#他把浸过酒的桃子作为甜点。
+
+minuet:
+    When only four, mozart was composing minuets.
+#当莫扎特四岁时，就开始写小步舞曲。
+
+fiat:
+    the fiat of conscience
+#良心驱使下的决定
+    He tried to impose solutions to the country's problems by fiat.
+#他试图授权强行解决国家面临的问题。
+
+careworn:
+    a careworn face
+#愁云密布的脸
+
+velvety:
+    a velvety wine
+#味道醇和的酒
+    She heard the maid's velvety voice calling her from downstairs.
+#她听见女仆从楼下唤她的软绵绵的声音。
+
+diatribe:
+    sb.'s violent diatribes against gambling
+#某人对赌博行为的猛烈押击
+
+jaundice:
+    He developed a jaundiced view of personal relationships.
+#他已经习惯于戴着有色眼镜来看待人际关系。
+
+contumacy:
+    Most of successful men have the characteristics of contumacy and doughty.
+#绝大多数成功人士都由共同的特质：脾气倔强，性格刚强。
+
+penance:
+    He is doing penance for his sins.
+#他正在为自己所犯的罪而悔过。
+
+fatuity:
+    It also encourages people to banish the fatuity, to be creative and push the social progress continuously.
+#它激励人们驱除愚昧，求是创新，并不断推动着社会的进步。
+
+proverbial:
+    proverbial wisdom
+#谚语表达的智慧
+    the proverbial London fog
+#有名的伦敦雾
+    The general's devotion to his men is proverbial.
+#将军对部下的爱是众所周知的。
+
+pulchritude:
+    Her dress shows her pulchritude to advantage.
+#她的裙子衬托出了她的美丽。
+
+vying:
+    All vying swimmers came to the judge's desk.
+#所有的游泳选手都去了裁判台。
+
+prowl:
+    prowl at night
+#在夜晚徘徊
+    on the prowl
+#在潜行，在俳徊
+    I prowled around a farmer's field admiring the bridge.
+#我在一片农夫的田地里排徊，欣赏着那座桥。
+
+scalding:
+    scalding coffee
+#滚滚的咖啡
+    the scalding sun in summer
+#夏天毒辣的太阳
+    scalding criticism
+#尖刻的批评
+    scalding hot
+#灼热
+
+palliate:
+    palliate the pain
+#减轻疼痛
+
+leery:
+    a leery chap
+#狡猾的家伙
+    with a leery eye
+#以机灵的目光
+    I am leery about his motives.
+#我对他的动机持怀疑态度。
+
+centrifugal:
+    the centrifugal tendencies in modern society
+#现代社会的离心趋势
+
+prorogue:
+    prorogue a problem
+#搁置一个问题
+
+exultant:
+    The exultant crowds were dancing in the square.
+#欢腾的人群在广场上跳舞。
+
+rejoinder:
+    make no rejoinder
+#未作答
+    His talk brought a strong rejoinder from one of his opponents.
+#他的谈话招致一名对手的强烈反驳。
+
+defray:
+    defray the expenses of the trip
+#支付旅行费用
+
+supererogatory:
+    It was supererogatory for him to gloat.
+#他幸灾乐祸地看，真是多余。
+
+odium:
+    expose sb. to odium
+#使某人遭受憎恨
+    The politician has been exposed to public odium and contempt.
+#那名政客遭到了公众的憎恶和鄙视。
+
+elegy:
+    Gray's Elegy Written in a Country Churchyard is a famous English poem.
+#格雷的《乡村教堂墓地挽歌》是一首著名的英国诗歌。
+
+studied:
+    a studied insult
+#蓄意侮辱
+    a studied reply
+#深思熟虑的回应
+    The government treated the news of defeat with studied indifference.
+#政府对战败的消息故意装得满不在乎。
+
+attire:
+    neat attire
+#整洁的服装
+    night attire
+#睡衣
+    attire oneself in gray
+#穿灰色的衣服
+    She was completely attired in black, from head to toe.
+#她从头到脚穿一身黑。
+
+avow:
+    avow one's guilt
+#公开认罪
+    He avowed his support of the plan.
+#他公开表示支持这项计划。
+
+sampler:
+    a cotton sampler
+#棉花样品检样员
+    a sampler of English poetry
+#英国诗歌样本
+
+calumniate:
+    calumniate the leader of the opposition
+#诽谤反对派的领袖
+
+protean:
+    the protean changes of nature
+#自然界的千变万化
+    He was so protean an artist that critics could never categorize his work.
+#他是一个变化无常的艺术家，评论家们永远无法给他的作品归类。
+
+coronate:
+    coronate the king
+#为国王加冕
+
+glowing:
+    glowing colors
+#鲜亮的顔色
+    glowing prospects
+#光明的前景
+    glowing cheeks
+#红润的双频
+    glowing description
+#生动的描述
+
+preen:
+    preen oneself on the victory
+#因胜利而得意扬扬
+    She combed her long hair carefully, preening in the mirror.
+#她仔细梳理自己的一头秀发，对着镜子精心打扮。
+
+increment:
+    a sudden increment in birth rate
+#出生率的突然增长
+    the increment of knowledge
+#知识的增加
+
+travesty:
+    travesty sb.'s mode of speech
+#滑稽地模仿某人的讲话方式
+    The film is, in his view, a travesty of the truth.
+#在他看来，这部电影是对事实的歪曲。
+
+largess:
+    distribute largess to the poor
+#把赠品发给穷人
+    Christmas is a day of largess.
+#圣诞节是慷慨赠送礼物的日子。
+
+citation:
+    issue a citation
+#发传票
+    All citations are taken from the 2019 edition of the book.
+#所有的引文均取自于该书2019年的版本。
+
+muted:
+    speak in a muted voice
+#轻声说话
+    the sting of an old muted emotion
+#被淡忘的旧情引起的刺痛
+    On the whole, their criticism was muted.
+#总的来说，他们的批评是温和的。
+
+machination:
+    perform machinations
+#耍阴谋
+
+whimper:
+    whimper over one's troubles
+#哭诉自己的苦楚
+    without a whimper
+#一声不吭地
+    The wind whimpered in the woods.
+#风在树林中鸣咽。
+
+beseech:
+    beseech sb. for mercy
+#哀求某人开恩
+    beseech an interview
+#急切恳求一次晋见机会
+    I beseech you to do this before it is too late.
+#我恳求你做这件事吧，趁现在还来得及。
+
+stipple:
+    She created the impression of strong sunlight by stippling the canvas in yellow and white.
+#她在画布上用黄白两色点画出强烈的阳光效果。
+
+doff:
+    doff one's military uniform for a business suit
+#脱下军装换上便服
+    doff one's hat in salute
+#脱帽致敬
+
+stupefy:
+    We were so stupefied by the news that we all sat in silence for a long time.
+#听到这个消息我们都呆了，过了良久还一言不发。
+
+=======
+escalation:
+    prevent the escalation of war
+#不使站争升级
+    an escalation of violence
+#暴力行动的升级
+
+frowzy:
+    The restaurant looked so frowzy that we did not dare to eat there.
+#那家餐馆看起来很邋遢，我们不敢在那里吃饭。
+
+foreclose:
+    foreclose a question
+#预先解决问题
+    They tried to foreclose the possibility of her meeting with the president.
+#他们试图排除她与总统会面的可能性。
+
+egotist:
+    Some politicians are notorious egotists interested only in promoting themselves.
+#有些政客是众所周知的利己主义者，一心只想着谋取高位。
+
+caper:
+    a typical undergraduate caper
+#典型的大学生恶作剧
+    cut a caper/capers
+#开玩笑，蹦跳
+    His caper cost him a twisted ankle.
+#他又蹦又跳，结果把脚踝给扭了。
+
+disgruntle:
+    disgruntled audience
+#不满的观众
+    The employees were disgruntled with their pay.
+#雇员们对工资不满意。
+
+peery:
+    peery eyes
+#好奇的眼睛
+
+kipper:
+    Kippers are sometimes eaten for breakfast.
+#（人们）有时早饭吃熏制鲜鱼。
+
+harrowing:
+    a harrowing story
+#令人伤心的故事
+    a harrowing experience
+#痛苦的经历
+
+trumpery:
+    a truck loaded with household trumpery
+#装满零星杂物的卡车
+    a trumpery argument
+#肤浅的论据
+
+illuminati:
+    Listen to the voice of illuminati.
+#聆听智者的声音。
+
+mutineer:
+    The mutineers who tried to take over the ship were all hanged.
+#企图控制船只的叛变者全部被吊死了。
+
+addle:
+    I have addled my head with writing all day.
+#我一整天都在写东西，整个人头昏脑涨的。
+
+rarefaction:
+    The rarefaction of the air made it hard for them to breathe.
+#空气稀薄使他们呼吸困难。
+
+macerate:
+    He served peaches macerated in wine for dessert.
+#他把浸过酒的桃子作为甜点。
+
+minuet:
+    When only four, mozart was composing minuets.
+#当莫扎特四岁时，就开始写小步舞曲。
+
+fiat:
+    the fiat of conscience
+#良心驱使下的决定
+    He tried to impose solutions to the country's problems by fiat.
+#他试图授权强行解决国家面临的问题。
+
+careworn:
+    a careworn face
+#愁云密布的脸
+
+velvety:
+    a velvety wine
+#味道醇和的酒
+    She heard the maid's velvety voice calling her from downstairs.
+#她听见女仆从楼下唤她的软绵绵的声音。
+
+diatribe:
+    sb.'s violent diatribes against gambling
+#某人对赌博行为的猛烈押击
+
+jaundice:
+    He developed a jaundiced view of personal relationships.
+#他已经习惯于戴着有色眼镜来看待人际关系。
+
+contumacy:
+    Most of successful men have the characteristics of contumacy and doughty.
+#绝大多数成功人士都由共同的特质：脾气倔强，性格刚强。
+
+penance:
+    He is doing penance for his sins.
+#他正在为自己所犯的罪而悔过。
+
+fatuity:
+    It also encourages people to banish the fatuity, to be creative and push the social progress continuously.
+#它激励人们驱除愚昧，求是创新，并不断推动着社会的进步。
+
+proverbial:
+    proverbial wisdom
+#谚语表达的智慧
+    the proverbial London fog
+#有名的伦敦雾
+    The general's devotion to his men is proverbial.
+#将军对部下的爱是众所周知的。
+
+pulchritude:
+    Her dress shows her pulchritude to advantage.
+#她的裙子衬托出了她的美丽。
+
+vying:
+    All vying swimmers came to the judge's desk.
+#所有的游泳选手都去了裁判台。
+
+prowl:
+    prowl at night
+#在夜晚徘徊
+    on the prowl
+#在潜行，在俳徊
+    I prowled around a farmer's field admiring the bridge.
+#我在一片农夫的田地里排徊，欣赏着那座桥。
+
+scalding:
+    scalding coffee
+#滚滚的咖啡
+    the scalding sun in summer
+#夏天毒辣的太阳
+    scalding criticism
+#尖刻的批评
+    scalding hot
+#灼热
+
+palliate:
+    palliate the pain
+#减轻疼痛
+
+leery:
+    a leery chap
+#狡猾的家伙
+    with a leery eye
+#以机灵的目光
+    I am leery about his motives.
+#我对他的动机持怀疑态度。
+
+centrifugal:
+    the centrifugal tendencies in modern society
+#现代社会的离心趋势
+
+prorogue:
+    prorogue a problem
+#搁置一个问题
+
+exultant:
+    The exultant crowds were dancing in the square.
+#欢腾的人群在广场上跳舞。
+
+rejoinder:
+    make no rejoinder
+#未作答
+    His talk brought a strong rejoinder from one of his opponents.
+#他的谈话招致一名对手的强烈反驳。
+
+defray:
+    defray the expenses of the trip
+#支付旅行费用
+
+supererogatory:
+    It was supererogatory for him to gloat.
+#他幸灾乐祸地看，真是多余。
+
+odium:
+    expose sb. to odium
+#使某人遭受憎恨
+    The politician has been exposed to public odium and contempt.
+#那名政客遭到了公众的憎恶和鄙视。
+
+elegy:
+    Gray's Elegy Written in a Country Churchyard is a famous English poem.
+#格雷的《乡村教堂墓地挽歌》是一首著名的英国诗歌。
+
+studied:
+    a studied insult
+#蓄意侮辱
+    a studied reply
+#深思熟虑的回应
+    The government treated the news of defeat with studied indifference.
+#政府对战败的消息故意装得满不在乎。
+
+attire:
+    neat attire
+#整洁的服装
+    night attire
+#睡衣
+    attire oneself in gray
+#穿灰色的衣服
+    She was completely attired in black, from head to toe.
+#她从头到脚穿一身黑。
+
+avow:
+    avow one's guilt
+#公开认罪
+    He avowed his support of the plan.
+#他公开表示支持这项计划。
+
+sampler:
+    a cotton sampler
+#棉花样品检样员
+    a sampler of English poetry
+#英国诗歌样本
+
+calumniate:
+    calumniate the leader of the opposition
+#诽谤反对派的领袖
+
+protean:
+    the protean changes of nature
+#自然界的千变万化
+    He was so protean an artist that critics could never categorize his work.
+#他是一个变化无常的艺术家，评论家们永远无法给他的作品归类。
+
+coronate:
+    coronate the king
+#为国王加冕
+
+glowing:
+    glowing colors
+#鲜亮的顔色
+    glowing prospects
+#光明的前景
+    glowing cheeks
+#红润的双频
+    glowing description
+#生动的描述
+
+preen:
+    preen oneself on the victory
+#因胜利而得意扬扬
+    She combed her long hair carefully, preening in the mirror.
+#她仔细梳理自己的一头秀发，对着镜子精心打扮。
+
+increment:
+    a sudden increment in birth rate
+#出生率的突然增长
+    the increment of knowledge
+#知识的增加
+
+travesty:
+    travesty sb.'s mode of speech
+#滑稽地模仿某人的讲话方式
+    The film is, in his view, a travesty of the truth.
+#在他看来，这部电影是对事实的歪曲。
+
+largess:
+    distribute largess to the poor
+#把赠品发给穷人
+    Christmas is a day of largess.
+#圣诞节是慷慨赠送礼物的日子。
+
+citation:
+    issue a citation
+#发传票
+    All citations are taken from the 2019 edition of the book.
+#所有的引文均取自于该书2019年的版本。
+
+muted:
+    speak in a muted voice
+#轻声说话
+    the sting of an old muted emotion
+#被淡忘的旧情引起的刺痛
+    On the whole, their criticism was muted.
+#总的来说，他们的批评是温和的。
+
+machination:
+    perform machinations
+#耍阴谋
+
+whimper:
+    whimper over one's troubles
+#哭诉自己的苦楚
+    without a whimper
+#一声不吭地
+    The wind whimpered in the woods.
+#风在树林中鸣咽。
+
+beseech:
+    beseech sb. for mercy
+#哀求某人开恩
+    beseech an interview
+#急切恳求一次晋见机会
+    I beseech you to do this before it is too late.
+#我恳求你做这件事吧，趁现在还来得及。
+
+stipple:
+    She created the impression of strong sunlight by stippling the canvas in yellow and white.
+#她在画布上用黄白两色点画出强烈的阳光效果。
+
+doff:
+    doff one's military uniform for a business suit
+#脱下军装换上便服
+    doff one's hat in salute
+#脱帽致敬
+
+stupefy:
+    We were so stupefied by the news that we all sat in silence for a long time.
+#听到这个消息我们都呆了，过了良久还一言不发。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

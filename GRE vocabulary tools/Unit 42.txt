@@ -1,0 +1,821 @@
+<<<<<<< HEAD
+pullet: 英[ˈpʊlɪt] 美[ˈpʊlɪt]
+$n. （尤指未满一岁的）小母鸡
+%n. （Pullet）（美）普阿特（人名）
+    She killed a pullet to treat the guests.
+#她杀了一只小母鸡招待客人。
+
+daub: 英[dɔːb] 美[dɔːb]
+$v. （随意）涂抹（厚重或粘稠物质）；弄脏；乱画
+$n. 涂抹；涂料；（粘稠液体的）污迹；拙劣的画
+%n. （Daub）（美、德、加、法、俄、瑞士、丹）多布（人名）
+    daub the cracks in the wall with cement
+#用水泥涂抹墙上的裂缝
+    His trousers were daubed with paint.
+#他的裤子上沾满了油漆。
+
+interlace: 英[ˌɪntəˈleɪs] 美[ˌɪntərˈleɪs]
+$vt. 使交错；使交织
+%vi. 交织；交错
+    meadows interlaced with streams
+#有溪流点缀间的草地
+    The branches above interlaced.
+#上的树枝纵横交错。
+
+wiry: 英[ˈwaɪəri] 美[ˈwaɪəri]
+%adj. 金属线制的；金属丝般的；坚硬的；瘦长结实的；（噪音）尖细的
+    wiry hair
+#硬直的头发
+    a wiry little man
+#清瘦结实的小个子
+    His body is wiry and athletic.
+#他长得清瘦结实，体格健美。
+
+enthralling: 英[ɪnˈθrɔːlɪŋ] 美[ɪnˈθrɔːlɪŋ]
+$adj. 迷人的
+%v. 迷惑；奴役（enthral 的现在分词）
+    You will find the film most enthralling.
+#你会发现这部电影很吸引人。
+
+incogitant: 英[ɪnˈkɒdʒɪtənt] 美[ɪnˈkɑːdʒɪtənt]
+%adj. 无思想的；粗心的；不体谅的
+    My judgement is that the plan is incogitant.
+#据我看来该计划考虑不周。
+
+anneal: 英[əˈniːl] 美[əˈniːl]
+$v. 使（金属、玻璃等）退火（变坚硬）；使（DNA 链条）重组成双链形式；加强，使坚韧
+%n. 退火；重组（DNA 链条）；加强
+    Tough fighting annealed the troops.
+#艰苦的战斗磨炼了部队。
+
+disinter: 英[ˌdɪsɪnˈtɜː(r)] 美[ˌdɪsɪnˈtɜːr]
+%vt. 掘出；发掘；显露
+    The writer's autobiography disinterred a past era.
+#那位作家的自传重现了过去的一个时代。
+
+debark: 英[dɪˈbɑːk] 美[dɪˈbɑːrk]
+$vt. 使下船；使登陆；卸
+%vi. 登陆
+    Passengers are debarking from a bus.
+#乘客们从公共汽车上下来。
+
+malfeasance: 英[ˌmælˈfiːz(ə)ns] 美[ˌmælˈfiːz(ə)ns]
+%n. 渎职，违法行为；不正当，坏事
+    He was guilty of malfeasance.
+#他犯渎职罪。
+
+scurvy: 英[ˈskɜːvi] 美[ˈskɜːrvi]
+$n. 坏血病
+%adj. 卑鄙的，下流的；不中用的
+    a scurvy fellow
+#卑鄙的家伙
+    a scurvy neighborhood
+#下等街区
+
+pharmacology: 英[ˌfɑːməˈkɒlədʒi] 美[ˌfɑːrməˈkɑːlədʒi]
+%n. 药物学，药理学
+    study pharmacology at university
+#在大学学药理学
+
+vouch: 英[vaʊtʃ] 美[vaʊtʃ]
+$vt. 担保；证明；传出庭作证
+%vi. 保证；证明；确定
+    vouch for one's safety
+#为某人的安全做担保
+    She has checked the reports and vouched for the accuracy of the information.
+#她已经检查过这些报告，并且为信息的准确性做担保。
+
+cringe: 英[krɪndʒ] 美[krɪndʒ]
+$v. 退缩，畏缩；厌恶，反感；感到难堪，觉得难为情
+%n. 退缩，畏缩；窘迫，羞愧
+    cringe and bow to sb.
+#对某人打躬作揖
+    The child cringed every time the father raised his voice.
+#每当父亲一提高嗓门，那孩子便吓得往后退。
+
+wheedle: 英[ˈwiːd(ə)l] 美[ˈwiːd(ə)l]
+$vt. 以甜言蜜语诱惑；用甜言蜜语欺骗
+%vi. 用甜言蜜语哄骗
+    wheedle sb. into doing sth.
+#诱骗某人做某事
+    He wasn't going to tell me but I managed to wheedle it out of him.
+#他没打算告诉我，但我设法连哄带骗从他嘴里把话套了出来。
+
+careen: 英[kəˈriːn] 美[kəˈriːn]
+$vi. 倾侧，倾斜
+$vt. 使倾侧，使倾斜
+%n. 船的倾侧
+    The driver lost control of his truck and it went careening down the hill.
+#司机对卡车失去了控制，车开始歪歪斜斜地冲下山去了。
+
+peculate: 英[ˈpekjʊˌleɪt] 美[ˈpekjuˌleɪt]
+$vi. 盗用，挪用（公款等）
+%vt. 盗用，挪用（公款等）
+    peculate the state property
+#侵吞国家财产
+
+vandalism: 英[ˈvændəlɪzəm] 美[ˈvændəlɪzəm]
+%n. 故意破坏（或损坏）财产的行为；（对好事物的）糟蹋
+    These housing estates suffer from widespread vandalism.
+#这些住宅区遭受了大范围的故意破坏。
+
+entreaty: 英[ɪnˈtriːti] 美[ɪnˈtriːti]
+%n. 恳求；乞求
+    The managers gave in to her entreaties.
+#经理答应了她的请求。
+
+oratory: 英[ˈɒrətri] 美[ˈɔːrətɔːri]
+%n. 雄辩；演讲术
+    He has a reputation for powerful oratory.
+#他以雄辩有力的演讲而闻名。
+
+effulgent: 英[ɪˈfʌldʒənt] 美[ɪˈfʌldʒənt]
+%adj. 光辉灿烂的
+    She is the most effulgent of living actresses.
+#她是当代女演员中最出色的明星。
+
+encomiast: 英[ɪnˈkəʊmɪˌæst] 美[ɪnˈkoʊmiˌæst]
+%n. 赞美者；宣读或写作颂辞之人；阿谀奉承者
+    That guy is a real encomiast.
+#那个家伙真是个马屁精
+
+carouse: 英[kəˈraʊz] 美[kəˈraʊz]
+$vi. 畅饮；欢宴
+%n. 喧闹的酒会或宴会；一饮而尽
+    They'd been up carousing till dawn the night before and looked exhausted.
+#他们前一个晚上一直狂欢到黎明，显得精疲力竭了。
+
+dally: 英[ˈdæli] 美[ˈdæli]
+$v. 磨蹭；随意调情（或风流）；轻率对待；（途中）逗留
+%n. （Dally）（美）达利（人名）
+    He always dallies over tasks that he doesn't like doing.
+#他对不喜欢做的事，总是磨磨蹭赠。
+
+cephalic: 英[sɪˈfælɪk] 美[sɪˈfælɪk]
+%adj. [动] 头的
+    cephalic surgery
+#头部手术
+
+pellucid: 英[pəˈluːsɪd] 美[pəˈluːsɪd]
+%adj. 透明的；清晰的；明了的
+    pellucid water
+#清澈的水
+    a pellucid sky 
+#清澄的天空
+    pellucid handwriting
+#清晰的笔迹
+
+wan: 英[wɒn] 美[wɑːn]
+$adj. （脸色或外表）苍白的；乏力的；（光线）暗淡的，微弱的；（微笑）淡淡的，不自然的；（诗、文）（大海）暗淡的
+$v. （使）变苍白；（使）呈病态
+%n. （Wan）（美）旺（人名）
+    a wan complexion
+#苍白的脸色
+    a wan smile
+#懒洋洋的一笑
+    She would remember the child's wan face at the window.
+#她不会忘记那孩子在窗口苍白的脸。
+
+preponderate: 英[prɪˈpɒndəreɪt] 美[prɪˈpɑndəreɪt]
+%v. （在重量、影响、重要性等方面）占优势，胜过
+    In balancing his faults with his merits, the latter seemed rather to preponderate.
+#在比较他的缺点和优点时，后者似乎是主要的。
+
+snuggle: 英[ˈsnʌɡ(ə)l] 美[ˈsnʌɡ(ə)l]
+$vt. 使舒适温暖；紧抱；偎依
+%vi. 偎依；舒服地蜷伏
+    snuggle up/down in bed
+#舒适地躺在床上
+    She snuggled her cheek against his shoulder.
+#她把脸频紧靠在他的肩上。
+
+hubris: 英[ˈhjuːbrɪs] 美[ˈhjuːbrɪs]
+%n. 傲慢；狂妄自大
+    He was punished for his hubris.
+#他为自大付出了代价。
+
+riveting: 英[ˈrɪvɪtɪŋ] 美[ˈrɪvɪtɪŋ]
+$adj. 吸引人的
+$n. [机]铆接
+%v. 用铆钉固定；集中于……（rivet 的 ing 形式）
+    She told me a riveting tale of suspense and adventure.
+#她给我讲了一个充满最疑和奇遇的非常动听的故事。
+
+deprivation: 英[ˌdeprɪˈveɪʃn] 美[ˌdeprɪˈveɪʃn]
+%n. 贫困，匮乏，剥夺；免职（尤指圣职）
+    There were food shortages and other deprivation during the war.
+#战争期间食物短缺，其他必需品也极为匮乏。
+
+musket: 英[ˈmʌskɪt] 美[ˈmʌskɪt]
+%n. 步枪；滑膛枪，毛瑟枪
+    The musket was replaced by the rifle in the 19th century.
+#19世纪，火枪被步枪取代。
+
+evasion: 英[ɪˈveɪʒ(ə)n] 美[ɪˈveɪʒ(ə)n]
+%n. 逃脱，躲避；逃避手段，逃避方法；遁词，借口
+    tax evasion
+#逃税
+    fare evasion
+#逃票
+    Her speech was full of excuses and evasions.
+#她的讲话满是借口和闪烁其词。
+
+tangy: 英[ˈtæŋi] 美[ˈtæŋi]
+%adj. 扑鼻的；有刺激性的；强烈的；咸的
+    For dessert I had the most delicious tangy lemon tart.
+#我有美味的酸柠檬馅饼当饭后甜点。
+
+snappy: 英[ˈsnæpi] 美[ˈsnæpi]
+%adj. 厉声说话的；生气勃勃的；时髦的；爽快的
+    The play contained some good snappy dialogue.
+#这部戏剧中含有一些生动活泼的对话。
+
+acrid: 英[ˈækrɪd] 美[ˈækrɪd]
+%adj. （气味）辛辣的，苦的；刻薄的
+    Clouds of acrid smoke issued from the building.
+#大楼里散发出大团大团的辛辣烟气。
+
+pittance: 英[ˈpɪt(ə)ns] 美[ˈpɪt(ə)ns]
+%n. 少量；小额施舍；少量津贴
+    work for a pittance
+#为微薄的工资而工作
+    She had received a mere pittance of education.
+#她只受过一点儿教育。
+
+perverse: 英[pəˈvɜːs] 美[pərˈvɜːrs]
+%adj. 任性的，故意作对的；有悖常理的，反常的，不合人意的；（裁决）不合法的，不正当的；性欲反常的，性变态的
+    a man of perverse nature
+#性情执拗的人
+    a perverse view of liberty
+#对自由的曲解
+    a perverse verdict
+#不合法的裁定
+    It would be perverse to refuse to support this plea.
+#对于这个请愿不予支持是有悖常理的。
+
+nadir: 英[ˈneɪdɪə(r)] 美[ˈneɪdər]
+$n. 最低点，最底点；[天]天底
+%n. （Nadir）人名；（土、葡、巴基、阿拉伯）纳迪尔
+    the nadir of misery
+#苦难的深渊
+    the nadir of one's career
+#某人事业的低谷
+    Their relationship has reached its nadir.
+#他们的关系已经恶化到极点。
+
+lustrous: 英[ˈlʌstrəs] 美[ˈlʌstrəs]
+%adj. 有光泽的；光辉的
+    lustrous eyes
+#深邃明亮的眼睛
+    a lustrous actor of the period
+#那个时代红极一时的演员
+    He has a lustrous record of achievements.
+#他有着辉煌的成就。
+
+comeuppance: 英[kʌmˈʌpəns] 美[kʌmˈʌpəns]
+%n. 因果报应，应得的惩罚
+    He'll meet his comeuppance, don't worry.
+#别担心，他会得到应有的下场的。
+
+motility: 英[məʊˈtɪləti] 美[moʊˈtɪləti]
+%n. 运动性；能动性；自动力
+    These cells have low motility.
+#这些细胞有很低的能动性。
+
+forensic: 英[fəˈrenzɪk] 美[fəˈrenzɪk]
+$adj. 法医的；法院的；辩论的；适于法庭的
+%n. 司法鉴定手段；司法鉴定部门
+    a forensic test
+#法医的检验
+    a forensic gift of speech
+#雄辩的才能
+    Forensic examination revealed a large quantity of poison in the dead man's stomach.
+#法医检验发现死者胃里有大量毒药。
+
+dawdle: 英[ˈdɔːd(ə)l] 美[ˈdɔːd(ə)l]
+$vi. 混日子；游手好闲；偷懒
+%vt. 混日子；游手好闲；浪费时间
+    Some people like to spend an afternoon just dawdling around the shops.
+#有些人喜欢花一个下午在商店里闲逛。
+
+sneaking: 英[ˈsniːkɪŋ] 美[ˈsniːkɪŋ]
+$v. 偷偷地走；偷偷地做；偷偷地看；偷拿（不重要的或小的东西）；偷偷地走进；（非正式）打小报告；告密（sneak 的现在分词）
+%adj. 暗中的，私下的；暗暗扰人不止的；（非正式）偷偷摸摸的；隐隐的（尤指不妙的）
+    have a sneaking suspicion
+#私下怀疑
+    I don't like the woman, but I do have sneaking admiration for her.
+#我不喜欢这个女人，但私下里我确实很钦佩她。
+
+protuberant: 英[prəˈtjuːbərənt] 美[proʊˈtuːbərənt]
+%adj. 突起的；招人注意的；显著的
+    He stared at me with his heavy-lidded, protuberant eyes.
+#他用他那眼皮厚厚的、向外凸出的眼睛盯着我。
+
+twee: 英[twiː] 美[twiː]
+%adj. 矫饰的，故作多情的；过分俗丽的
+    It is a terribly twee dress.
+#那是一套俗气至极的衣服。
+
+nettle: 英[ˈnet(ə)l] 美[ˈnet(ə)l]
+$n. 荨麻，荨麻科
+%v. 惹怒，使恼火；用荨麻刺伤或鞭打（某人）
+    He looked at me sharply, clearly nettled by the interruption.
+#他狠狠地盯着我，显然被我的打断所激怒。
+
+reminisce: 英[ˌremɪˈnɪs] 美[ˌremɪˈnɪs]
+$vt. 追忆说
+%vi. 回忆
+    reminisce about one's youth
+#回忆青春时代
+    She reminisced about the years gone by.
+#她缅怀过去的岁月。
+
+assuage: 英[əˈsweɪdʒ] 美[əˈsweɪdʒ]
+%vt. 平息；缓和；减轻
+    assuage one's anger
+#消除某人的怒气
+    assuage pain
+#镇痛
+    assuage one's curiosity
+#满足好奇心
+    Not even his promotion to managing director assuaged his desire for power.
+#尽管已升任总经理，他仍渴望得到权力。
+
+oleaginous: 英[ˌəʊliˈædʒɪnəs] 美[ˌoʊliˈædʒɪnəs]
+%adj. 油质的；油腻的
+    oleaginous seeds
+#含油的种子
+    an oleaginous hypocrite
+#花言巧语的伪君子
+
+ruminate: 英[ˈruːmɪneɪt] 美[ˈruːmɪneɪt]
+$vt. 反刍；沉思；反复思考
+%vi. 沉思，反刍
+    He ruminated over/about/on recent events.
+#他反复思考着最近发生的事。
+
+variegate: 英[ˈveərɪˌɡeɪt] 美[ˈveriəˌgeɪt]
+%v. 使多样化；使丰富多彩；使成杂色
+    variegated leaves
+#斑叶
+    She will variegate her show with guest stars.
+#她因有特邀明星而将使演出变得丰富多彩。
+
+wallow: 英[ˈwɒləʊ] 美[ˈwɑːloʊ]
+$vi. 打滚；沉迷；颠簸
+$n. 打滚；堕落；泥坑
+%n. （Wallow）人名；（德）瓦洛
+    wallow in luxury
+#沉湎于奢侈
+    wallow in details
+#纠缠于细节
+    He saw a pig wallowing in the mire.
+#他看见一头猪在泥沼中打滚。
+
+menthol: 英[ˈmenθɒl] 美[ˈmenθɔːl]
+%n. 薄荷醇；薄荷脑
+    a menthol cigarette
+#薄荷香烟
+
+rigor: 英[ˈrɪɡə(r)] 美[ˈrɪɡər]
+$n. （尤指发热之初或高潮时的）寒战；严密，严格（rigour的美式拼法）
+%n. （Rigor）（菲、美）里戈尔（人名）
+    be trained with great rigor
+#受到严格训练
+    suffer from the rigors of life
+#经受生活的艰苦
+    He deserves to be punished with the full rigor of the law.
+#他应受法律的严厉惩处。
+
+rumpus: 英[ˈrʌmpəs] 美[ˈrʌmpəs]
+%n. 喧闹；骚乱
+    cause/raise a rumpus
+#引起一片骚乱
+    There was a real rumpus in the house next door last night.
+#昨晚隔壁的房子内吵得很凶。
+
+misshapen: 英[ˌmɪsˈʃeɪpən] 美[ˌmɪsˈʃeɪpən]
+%adj. 畸形的；丑恶的，怪异的
+    a misshapen body
+#畸形躯体
+    She met an oldish, misshapen, stooping woman.
+#她遇见一个上了年纪、形态丑陋、弯腰曲背的妇女。
+
+writ: 英[rɪt] 美[rɪt]
+%n. [法] 令状；文书；法院命令
+    serve a writ on sb.
+#将传票送达某人
+    The company has been served with a writ for breach of contract.
+#这家公司因违约已收到法院令状。
+
+=======
+pullet: 英[ˈpʊlɪt] 美[ˈpʊlɪt]
+$n. （尤指未满一岁的）小母鸡
+%n. （Pullet）（美）普阿特（人名）
+    She killed a pullet to treat the guests.
+#她杀了一只小母鸡招待客人。
+
+daub: 英[dɔːb] 美[dɔːb]
+$v. （随意）涂抹（厚重或粘稠物质）；弄脏；乱画
+$n. 涂抹；涂料；（粘稠液体的）污迹；拙劣的画
+%n. （Daub）（美、德、加、法、俄、瑞士、丹）多布（人名）
+    daub the cracks in the wall with cement
+#用水泥涂抹墙上的裂缝
+    His trousers were daubed with paint.
+#他的裤子上沾满了油漆。
+
+interlace: 英[ˌɪntəˈleɪs] 美[ˌɪntərˈleɪs]
+$vt. 使交错；使交织
+%vi. 交织；交错
+    meadows interlaced with streams
+#有溪流点缀间的草地
+    The branches above interlaced.
+#上的树枝纵横交错。
+
+wiry: 英[ˈwaɪəri] 美[ˈwaɪəri]
+%adj. 金属线制的；金属丝般的；坚硬的；瘦长结实的；（噪音）尖细的
+    wiry hair
+#硬直的头发
+    a wiry little man
+#清瘦结实的小个子
+    His body is wiry and athletic.
+#他长得清瘦结实，体格健美。
+
+enthralling: 英[ɪnˈθrɔːlɪŋ] 美[ɪnˈθrɔːlɪŋ]
+$adj. 迷人的
+%v. 迷惑；奴役（enthral 的现在分词）
+    You will find the film most enthralling.
+#你会发现这部电影很吸引人。
+
+incogitant: 英[ɪnˈkɒdʒɪtənt] 美[ɪnˈkɑːdʒɪtənt]
+%adj. 无思想的；粗心的；不体谅的
+    My judgement is that the plan is incogitant.
+#据我看来该计划考虑不周。
+
+anneal: 英[əˈniːl] 美[əˈniːl]
+$v. 使（金属、玻璃等）退火（变坚硬）；使（DNA 链条）重组成双链形式；加强，使坚韧
+%n. 退火；重组（DNA 链条）；加强
+    Tough fighting annealed the troops.
+#艰苦的战斗磨炼了部队。
+
+disinter: 英[ˌdɪsɪnˈtɜː(r)] 美[ˌdɪsɪnˈtɜːr]
+%vt. 掘出；发掘；显露
+    The writer's autobiography disinterred a past era.
+#那位作家的自传重现了过去的一个时代。
+
+debark: 英[dɪˈbɑːk] 美[dɪˈbɑːrk]
+$vt. 使下船；使登陆；卸
+%vi. 登陆
+    Passengers are debarking from a bus.
+#乘客们从公共汽车上下来。
+
+malfeasance: 英[ˌmælˈfiːz(ə)ns] 美[ˌmælˈfiːz(ə)ns]
+%n. 渎职，违法行为；不正当，坏事
+    He was guilty of malfeasance.
+#他犯渎职罪。
+
+scurvy: 英[ˈskɜːvi] 美[ˈskɜːrvi]
+$n. 坏血病
+%adj. 卑鄙的，下流的；不中用的
+    a scurvy fellow
+#卑鄙的家伙
+    a scurvy neighborhood
+#下等街区
+
+pharmacology: 英[ˌfɑːməˈkɒlədʒi] 美[ˌfɑːrməˈkɑːlədʒi]
+%n. 药物学，药理学
+    study pharmacology at university
+#在大学学药理学
+
+vouch: 英[vaʊtʃ] 美[vaʊtʃ]
+$vt. 担保；证明；传出庭作证
+%vi. 保证；证明；确定
+    vouch for one's safety
+#为某人的安全做担保
+    She has checked the reports and vouched for the accuracy of the information.
+#她已经检查过这些报告，并且为信息的准确性做担保。
+
+cringe: 英[krɪndʒ] 美[krɪndʒ]
+$v. 退缩，畏缩；厌恶，反感；感到难堪，觉得难为情
+%n. 退缩，畏缩；窘迫，羞愧
+    cringe and bow to sb.
+#对某人打躬作揖
+    The child cringed every time the father raised his voice.
+#每当父亲一提高嗓门，那孩子便吓得往后退。
+
+wheedle: 英[ˈwiːd(ə)l] 美[ˈwiːd(ə)l]
+$vt. 以甜言蜜语诱惑；用甜言蜜语欺骗
+%vi. 用甜言蜜语哄骗
+    wheedle sb. into doing sth.
+#诱骗某人做某事
+    He wasn't going to tell me but I managed to wheedle it out of him.
+#他没打算告诉我，但我设法连哄带骗从他嘴里把话套了出来。
+
+careen: 英[kəˈriːn] 美[kəˈriːn]
+$vi. 倾侧，倾斜
+$vt. 使倾侧，使倾斜
+%n. 船的倾侧
+    The driver lost control of his truck and it went careening down the hill.
+#司机对卡车失去了控制，车开始歪歪斜斜地冲下山去了。
+
+peculate: 英[ˈpekjʊˌleɪt] 美[ˈpekjuˌleɪt]
+$vi. 盗用，挪用（公款等）
+%vt. 盗用，挪用（公款等）
+    peculate the state property
+#侵吞国家财产
+
+vandalism: 英[ˈvændəlɪzəm] 美[ˈvændəlɪzəm]
+%n. 故意破坏（或损坏）财产的行为；（对好事物的）糟蹋
+    These housing estates suffer from widespread vandalism.
+#这些住宅区遭受了大范围的故意破坏。
+
+entreaty: 英[ɪnˈtriːti] 美[ɪnˈtriːti]
+%n. 恳求；乞求
+    The managers gave in to her entreaties.
+#经理答应了她的请求。
+
+oratory: 英[ˈɒrətri] 美[ˈɔːrətɔːri]
+%n. 雄辩；演讲术
+    He has a reputation for powerful oratory.
+#他以雄辩有力的演讲而闻名。
+
+effulgent: 英[ɪˈfʌldʒənt] 美[ɪˈfʌldʒənt]
+%adj. 光辉灿烂的
+    She is the most effulgent of living actresses.
+#她是当代女演员中最出色的明星。
+
+encomiast: 英[ɪnˈkəʊmɪˌæst] 美[ɪnˈkoʊmiˌæst]
+%n. 赞美者；宣读或写作颂辞之人；阿谀奉承者
+    That guy is a real encomiast.
+#那个家伙真是个马屁精
+
+carouse: 英[kəˈraʊz] 美[kəˈraʊz]
+$vi. 畅饮；欢宴
+%n. 喧闹的酒会或宴会；一饮而尽
+    They'd been up carousing till dawn the night before and looked exhausted.
+#他们前一个晚上一直狂欢到黎明，显得精疲力竭了。
+
+dally: 英[ˈdæli] 美[ˈdæli]
+$v. 磨蹭；随意调情（或风流）；轻率对待；（途中）逗留
+%n. （Dally）（美）达利（人名）
+    He always dallies over tasks that he doesn't like doing.
+#他对不喜欢做的事，总是磨磨蹭赠。
+
+cephalic: 英[sɪˈfælɪk] 美[sɪˈfælɪk]
+%adj. [动] 头的
+    cephalic surgery
+#头部手术
+
+pellucid: 英[pəˈluːsɪd] 美[pəˈluːsɪd]
+%adj. 透明的；清晰的；明了的
+    pellucid water
+#清澈的水
+    a pellucid sky 
+#清澄的天空
+    pellucid handwriting
+#清晰的笔迹
+
+wan: 英[wɒn] 美[wɑːn]
+$adj. （脸色或外表）苍白的；乏力的；（光线）暗淡的，微弱的；（微笑）淡淡的，不自然的；（诗、文）（大海）暗淡的
+$v. （使）变苍白；（使）呈病态
+%n. （Wan）（美）旺（人名）
+    a wan complexion
+#苍白的脸色
+    a wan smile
+#懒洋洋的一笑
+    She would remember the child's wan face at the window.
+#她不会忘记那孩子在窗口苍白的脸。
+
+preponderate: 英[prɪˈpɒndəreɪt] 美[prɪˈpɑndəreɪt]
+%v. （在重量、影响、重要性等方面）占优势，胜过
+    In balancing his faults with his merits, the latter seemed rather to preponderate.
+#在比较他的缺点和优点时，后者似乎是主要的。
+
+snuggle: 英[ˈsnʌɡ(ə)l] 美[ˈsnʌɡ(ə)l]
+$vt. 使舒适温暖；紧抱；偎依
+%vi. 偎依；舒服地蜷伏
+    snuggle up/down in bed
+#舒适地躺在床上
+    She snuggled her cheek against his shoulder.
+#她把脸频紧靠在他的肩上。
+
+hubris: 英[ˈhjuːbrɪs] 美[ˈhjuːbrɪs]
+%n. 傲慢；狂妄自大
+    He was punished for his hubris.
+#他为自大付出了代价。
+
+riveting: 英[ˈrɪvɪtɪŋ] 美[ˈrɪvɪtɪŋ]
+$adj. 吸引人的
+$n. [机]铆接
+%v. 用铆钉固定；集中于……（rivet 的 ing 形式）
+    She told me a riveting tale of suspense and adventure.
+#她给我讲了一个充满最疑和奇遇的非常动听的故事。
+
+deprivation: 英[ˌdeprɪˈveɪʃn] 美[ˌdeprɪˈveɪʃn]
+%n. 贫困，匮乏，剥夺；免职（尤指圣职）
+    There were food shortages and other deprivation during the war.
+#战争期间食物短缺，其他必需品也极为匮乏。
+
+musket: 英[ˈmʌskɪt] 美[ˈmʌskɪt]
+%n. 步枪；滑膛枪，毛瑟枪
+    The musket was replaced by the rifle in the 19th century.
+#19世纪，火枪被步枪取代。
+
+evasion: 英[ɪˈveɪʒ(ə)n] 美[ɪˈveɪʒ(ə)n]
+%n. 逃脱，躲避；逃避手段，逃避方法；遁词，借口
+    tax evasion
+#逃税
+    fare evasion
+#逃票
+    Her speech was full of excuses and evasions.
+#她的讲话满是借口和闪烁其词。
+
+tangy: 英[ˈtæŋi] 美[ˈtæŋi]
+%adj. 扑鼻的；有刺激性的；强烈的；咸的
+    For dessert I had the most delicious tangy lemon tart.
+#我有美味的酸柠檬馅饼当饭后甜点。
+
+snappy: 英[ˈsnæpi] 美[ˈsnæpi]
+%adj. 厉声说话的；生气勃勃的；时髦的；爽快的
+    The play contained some good snappy dialogue.
+#这部戏剧中含有一些生动活泼的对话。
+
+acrid: 英[ˈækrɪd] 美[ˈækrɪd]
+%adj. （气味）辛辣的，苦的；刻薄的
+    Clouds of acrid smoke issued from the building.
+#大楼里散发出大团大团的辛辣烟气。
+
+pittance: 英[ˈpɪt(ə)ns] 美[ˈpɪt(ə)ns]
+%n. 少量；小额施舍；少量津贴
+    work for a pittance
+#为微薄的工资而工作
+    She had received a mere pittance of education.
+#她只受过一点儿教育。
+
+perverse: 英[pəˈvɜːs] 美[pərˈvɜːrs]
+%adj. 任性的，故意作对的；有悖常理的，反常的，不合人意的；（裁决）不合法的，不正当的；性欲反常的，性变态的
+    a man of perverse nature
+#性情执拗的人
+    a perverse view of liberty
+#对自由的曲解
+    a perverse verdict
+#不合法的裁定
+    It would be perverse to refuse to support this plea.
+#对于这个请愿不予支持是有悖常理的。
+
+nadir: 英[ˈneɪdɪə(r)] 美[ˈneɪdər]
+$n. 最低点，最底点；[天]天底
+%n. （Nadir）人名；（土、葡、巴基、阿拉伯）纳迪尔
+    the nadir of misery
+#苦难的深渊
+    the nadir of one's career
+#某人事业的低谷
+    Their relationship has reached its nadir.
+#他们的关系已经恶化到极点。
+
+lustrous: 英[ˈlʌstrəs] 美[ˈlʌstrəs]
+%adj. 有光泽的；光辉的
+    lustrous eyes
+#深邃明亮的眼睛
+    a lustrous actor of the period
+#那个时代红极一时的演员
+    He has a lustrous record of achievements.
+#他有着辉煌的成就。
+
+comeuppance: 英[kʌmˈʌpəns] 美[kʌmˈʌpəns]
+%n. 因果报应，应得的惩罚
+    He'll meet his comeuppance, don't worry.
+#别担心，他会得到应有的下场的。
+
+motility: 英[məʊˈtɪləti] 美[moʊˈtɪləti]
+%n. 运动性；能动性；自动力
+    These cells have low motility.
+#这些细胞有很低的能动性。
+
+forensic: 英[fəˈrenzɪk] 美[fəˈrenzɪk]
+$adj. 法医的；法院的；辩论的；适于法庭的
+%n. 司法鉴定手段；司法鉴定部门
+    a forensic test
+#法医的检验
+    a forensic gift of speech
+#雄辩的才能
+    Forensic examination revealed a large quantity of poison in the dead man's stomach.
+#法医检验发现死者胃里有大量毒药。
+
+dawdle: 英[ˈdɔːd(ə)l] 美[ˈdɔːd(ə)l]
+$vi. 混日子；游手好闲；偷懒
+%vt. 混日子；游手好闲；浪费时间
+    Some people like to spend an afternoon just dawdling around the shops.
+#有些人喜欢花一个下午在商店里闲逛。
+
+sneaking: 英[ˈsniːkɪŋ] 美[ˈsniːkɪŋ]
+$v. 偷偷地走；偷偷地做；偷偷地看；偷拿（不重要的或小的东西）；偷偷地走进；（非正式）打小报告；告密（sneak 的现在分词）
+%adj. 暗中的，私下的；暗暗扰人不止的；（非正式）偷偷摸摸的；隐隐的（尤指不妙的）
+    have a sneaking suspicion
+#私下怀疑
+    I don't like the woman, but I do have sneaking admiration for her.
+#我不喜欢这个女人，但私下里我确实很钦佩她。
+
+protuberant: 英[prəˈtjuːbərənt] 美[proʊˈtuːbərənt]
+%adj. 突起的；招人注意的；显著的
+    He stared at me with his heavy-lidded, protuberant eyes.
+#他用他那眼皮厚厚的、向外凸出的眼睛盯着我。
+
+twee: 英[twiː] 美[twiː]
+%adj. 矫饰的，故作多情的；过分俗丽的
+    It is a terribly twee dress.
+#那是一套俗气至极的衣服。
+
+nettle: 英[ˈnet(ə)l] 美[ˈnet(ə)l]
+$n. 荨麻，荨麻科
+%v. 惹怒，使恼火；用荨麻刺伤或鞭打（某人）
+    He looked at me sharply, clearly nettled by the interruption.
+#他狠狠地盯着我，显然被我的打断所激怒。
+
+reminisce: 英[ˌremɪˈnɪs] 美[ˌremɪˈnɪs]
+$vt. 追忆说
+%vi. 回忆
+    reminisce about one's youth
+#回忆青春时代
+    She reminisced about the years gone by.
+#她缅怀过去的岁月。
+
+assuage: 英[əˈsweɪdʒ] 美[əˈsweɪdʒ]
+%vt. 平息；缓和；减轻
+    assuage one's anger
+#消除某人的怒气
+    assuage pain
+#镇痛
+    assuage one's curiosity
+#满足好奇心
+    Not even his promotion to managing director assuaged his desire for power.
+#尽管已升任总经理，他仍渴望得到权力。
+
+oleaginous: 英[ˌəʊliˈædʒɪnəs] 美[ˌoʊliˈædʒɪnəs]
+%adj. 油质的；油腻的
+    oleaginous seeds
+#含油的种子
+    an oleaginous hypocrite
+#花言巧语的伪君子
+
+ruminate: 英[ˈruːmɪneɪt] 美[ˈruːmɪneɪt]
+$vt. 反刍；沉思；反复思考
+%vi. 沉思，反刍
+    He ruminated over/about/on recent events.
+#他反复思考着最近发生的事。
+
+variegate: 英[ˈveərɪˌɡeɪt] 美[ˈveriəˌgeɪt]
+%v. 使多样化；使丰富多彩；使成杂色
+    variegated leaves
+#斑叶
+    She will variegate her show with guest stars.
+#她因有特邀明星而将使演出变得丰富多彩。
+
+wallow: 英[ˈwɒləʊ] 美[ˈwɑːloʊ]
+$vi. 打滚；沉迷；颠簸
+$n. 打滚；堕落；泥坑
+%n. （Wallow）人名；（德）瓦洛
+    wallow in luxury
+#沉湎于奢侈
+    wallow in details
+#纠缠于细节
+    He saw a pig wallowing in the mire.
+#他看见一头猪在泥沼中打滚。
+
+menthol: 英[ˈmenθɒl] 美[ˈmenθɔːl]
+%n. 薄荷醇；薄荷脑
+    a menthol cigarette
+#薄荷香烟
+
+rigor: 英[ˈrɪɡə(r)] 美[ˈrɪɡər]
+$n. （尤指发热之初或高潮时的）寒战；严密，严格（rigour的美式拼法）
+%n. （Rigor）（菲、美）里戈尔（人名）
+    be trained with great rigor
+#受到严格训练
+    suffer from the rigors of life
+#经受生活的艰苦
+    He deserves to be punished with the full rigor of the law.
+#他应受法律的严厉惩处。
+
+rumpus: 英[ˈrʌmpəs] 美[ˈrʌmpəs]
+%n. 喧闹；骚乱
+    cause/raise a rumpus
+#引起一片骚乱
+    There was a real rumpus in the house next door last night.
+#昨晚隔壁的房子内吵得很凶。
+
+misshapen: 英[ˌmɪsˈʃeɪpən] 美[ˌmɪsˈʃeɪpən]
+%adj. 畸形的；丑恶的，怪异的
+    a misshapen body
+#畸形躯体
+    She met an oldish, misshapen, stooping woman.
+#她遇见一个上了年纪、形态丑陋、弯腰曲背的妇女。
+
+writ: 英[rɪt] 美[rɪt]
+%n. [法] 令状；文书；法院命令
+    serve a writ on sb.
+#将传票送达某人
+    The company has been served with a writ for breach of contract.
+#这家公司因违约已收到法院令状。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,667 @@
+<<<<<<< HEAD
+scald:
+    scald the dishes
+#用开水烫盘碟
+    the sun-scalded ground
+#太阳烤焦的大地
+    He scalded his tongue with the hot coffee.
+#他被滚烫的咖啡烫伤了舌头。
+
+slake:
+    slake one's anger
+#息怒
+    slake one's thirst
+#解渴
+    slake one's curiosity
+#满足好奇心
+
+coagulate:
+    The sauce coagulated as it cooled down.
+#酱汁变冷后会凝固。
+
+pastiche:
+    His latest building is a pastiche of at least ten architectural styles.
+#他最近设计的建筑东拼西凑了至少十种建筑风格。
+
+namby-pamby:
+    a namby-pamby sort of young man
+#性格相当软弱的青年
+    a namby-pamby behavior
+#婆婆妈妈的行为
+
+derogate:
+    derogate from a right
+#损害一项权例
+    derogate one's works
+#贬低某人的作品
+
+neologism:
+    Technological development is often the cause of neologism.
+#技术的发展往往是产生新词的原因。
+
+externalize:
+    Spoken language externalizes thought.
+#言语使思想外化。
+
+lasso:
+    Lassos are used particularly by cowboys to catch cattle and horses.
+#套索是牛仔专门用来捕捉牛和马的。
+
+quotidian:
+    quotidian routine
+#日常工作
+    quotidian tasks
+#日常事务
+
+bonhomie:
+    Christmas bonhomie
+#圣诞节的欢乐气氛
+
+accost:
+    A stranger accosted me in the street.
+#一个陌生人在街上跟我搭讪。
+
+readily:
+    The facts may be readily ascertained.
+#事实不难查明。
+
+befoul:
+    befoul one's reputation
+#污蔑某人
+    It was a room befouled with soot.
+#那是一个沾满烟垢的房间。
+
+caulk:
+    caulk the windows
+#修补窗户漏缝
+
+croon:
+    He heard the wind crooning in the trees.
+#他听见在树林中低吟的风。
+
+penury:
+    live in penury
+#生活拮据
+    the years of penury
+#贫穷岁月
+
+disengage:
+    She disengaged herself from the group she was in.
+#她从自己所在的人群中脱身出来。
+
+raff:
+    a raff of old books
+#一大堆旧书
+
+nugatory:
+    a nugatory law
+#无效的法律
+
+untrustworthy:
+    The watch is untrustworthy.
+#这块手表走得不准。
+
+elegiac:
+    an elegiac lament for departed youth
+#对消逝的青春的悲悼怀念
+
+celibate:
+    She remained a celibate all her life.
+#她一生单身。
+
+also-ran:
+    Whatever you do, I'm with you, President or also-ran.
+#无论你当选总统还是落选，我总是站在你一边。
+
+offstage:
+    offstage political meetings
+#幕后政治会议
+    He was known offstage as a kindly man.
+#在舞台以外的私生活中，人们都知道他是一个亲切的人。
+
+apex:
+    the apex of a house
+#房子的顶部
+    the apex of the organization
+#该机构的顶层
+    He reached the apex of his career during that period.
+#在那一时期，他处于事业的顶峰。
+
+postwar:
+    the postwar period
+#战后时期
+    postwar rationing
+#战后配给制
+
+pantomime:
+    It's an evening of music, drama and pantomime.
+#这是一场音乐、戏剧和哑剧的晚会。
+
+soporific:
+    Her soporific voice made it difficult to stay awake in the lecture.
+#她那催眠的声音使人在听讲座时很难保持清醒。
+
+propriety:
+    act with propriety
+#行为得当
+    a breach of propriety
+#失礼行为
+    observe the propriety
+#遵守礼仪
+    I doubt the propriety of refusing him.
+#我觉得拒绝他恐怕不合适。
+
+akin:
+    words akin in form but different in meaning
+#形同异义的词
+    be closely akin to sb.
+#与某人是近亲
+    Training pet animals is somewhat akin to training children.
+#驯养宠物与教育孩子有些相似。
+
+craft:
+    traditional crafts
+#传统工艺
+    political craft
+#政治手腕
+    the craft of boat building
+#造船工艺
+    a craft shop
+#手工艺品商店
+    a rescue craft
+#救生艇
+    patrol craft
+#巡逻艇
+    You can always tell by the quality of a handmade piece of furniture if it was made by someone who knew his craft.
+#人们总能从手工制作的家具的质量判断这是否出自巧匠之手。
+
+halting:
+    speak in a halting tone
+#讲话话吞吐吐
+    a halting argument
+#软弱无力的论点
+    He walked home with heavy heart and halting steps.
+#他怀着沉重的心情，迈着瞒跚的步子走回家去。
+
+world-beater:
+    The race turned him into a world-beater.
+#这场赛跑使他成了一名世界冠军。
+
+pedant:
+    What we need is someone with common sense, not a pedant.
+#我们所需要的是一个有常识的人，而不是一个书呆子。
+
+interchangeable:
+    The terms "drinking problem" and “alcohol abuse" are often interchangeable.
+#"drinkingproblem"和"alcoholabuse"两个术语往往可以互换使用。
+
+unexceptionable:
+    His speech was unexceptionable though he didn't say much that we don't know.
+#虽然他并没有讲多少我们不知道的东西，但他的演讲是无懈可击的。
+
+apathetic:
+    be apathetic to/about/toward
+#对……冷淡/漠然
+    Public opinion was apathetic toward the whole affair.
+#公众舆论对整个事件态度漠然。
+
+mutable:
+    mutable customs
+#可以改变的风俗
+    a mutable mind
+#易变的心思
+    the mutable ways of fortune
+#命途多舛
+
+chorale:
+    a Bach chorale
+#巴赫谱曲的赞美诗
+
+unpromising:
+    an unpromising task
+#没有前途的工作
+
+willful:
+    a willful, difficult child
+#任性执拗的孩子
+    a willful murder
+#蓄意谋杀
+    be discharged for willful neglect
+#因故意玩忽职守而被解雇
+    They eat too many sweets and fried foods in willful disregard of their health.
+#他们很任性，无视自己的健康，吃了太多的甜食与油炸食物。
+
+time-consuming:
+    a time-consuming task
+#费时的工作
+    the time-consuming negotiations
+#旷日持久的谈判
+
+prophetic:
+    a prophetic saying
+#一则寓言
+    prophetic warnings
+#警示预言
+    Thunder is often prophetic of shower.
+#雷声往往是阵雨的预兆。
+
+subsist:
+    subsist on a diet of bread and water
+#靠吃面包和喝水生存
+    subsist on charity
+#靠施舍度日
+    Many superstitions of old times still subsist.
+#旧时的许多迷信至今尚存。
+
+iniquitous:
+    an iniquitous system
+#不公正的制度
+    iniquitous opinions
+#不公正的意见
+
+journalistic:
+    He left a job in banking to pursue a journalistic career.
+#他离开了银行业，开始了记者生涯。
+
+unbiased:
+    an unbiased opinion
+#公正的意见
+    an unbiased witness
+#公正的证人
+
+stagnation:
+    Industrial stagnation inevitably leads to the loss of jobs.
+#工业发展停滞必然造成就业机会减少。
+
+contrite:
+    a contrite apology
+#悔罪的道歉
+    The father felt contrite after he had hit his little son.
+#父亲在打了自己的小儿子后追悔莫及。
+
+self-deprecation:
+    Her autobiography is full of witty self-deprecation.
+#她的自传里全是该谐的自嘲。
+
+prominence:
+    a lawyer of prominence
+#著名律师
+    come to/rise to/gain prominence
+#成名
+    give prominence to the key points
+#突出重点
+    Most of the papers gave prominence to the same story this morning.
+#大多数报纸今大早上在显著位置写出了同一条新闻。
+
+autobiographical:
+    Nearly all of his films were autobiographical.
+#他的电影几乎都是自传性质的。
+
+indiscriminately:
+    They fired indiscriminately into the crowd.
+#他们向人群任意开火。
+
+unimpressed:
+    They looked the house over, but they seemed unimpressed by it.
+#他们看了一遍房子，但似乎没有动心。
+
+trenchant:
+    trenchant wit
+#机智
+    trenchant words
+#犀利的言辞
+    a trenchant argument
+#激烈的争论
+    a trenchant outline
+#清晰的轮廓
+    He wrote a series of trenchant articles on social injustices.
+#他就社会不公现象写了一系列犀利的文章。
+
+spineless:
+    spineless animals
+#无脊椎动物
+    After the fifth refusal letter, she decided that the publishers were a spineless lot.
+#她在收到第五封拒绝信后，认定出版商是一些缺乏魄力和决断的人。
+
+electromagnetic:
+    an electromagnetic wave
+#电磁波
+    electromagnetic radiation
+#电磁辐射
+    the sun's electromagnetic filed
+#太阳的电磁场
+
+=======
+scald:
+    scald the dishes
+#用开水烫盘碟
+    the sun-scalded ground
+#太阳烤焦的大地
+    He scalded his tongue with the hot coffee.
+#他被滚烫的咖啡烫伤了舌头。
+
+slake:
+    slake one's anger
+#息怒
+    slake one's thirst
+#解渴
+    slake one's curiosity
+#满足好奇心
+
+coagulate:
+    The sauce coagulated as it cooled down.
+#酱汁变冷后会凝固。
+
+pastiche:
+    His latest building is a pastiche of at least ten architectural styles.
+#他最近设计的建筑东拼西凑了至少十种建筑风格。
+
+namby-pamby:
+    a namby-pamby sort of young man
+#性格相当软弱的青年
+    a namby-pamby behavior
+#婆婆妈妈的行为
+
+derogate:
+    derogate from a right
+#损害一项权例
+    derogate one's works
+#贬低某人的作品
+
+neologism:
+    Technological development is often the cause of neologism.
+#技术的发展往往是产生新词的原因。
+
+externalize:
+    Spoken language externalizes thought.
+#言语使思想外化。
+
+lasso:
+    Lassos are used particularly by cowboys to catch cattle and horses.
+#套索是牛仔专门用来捕捉牛和马的。
+
+quotidian:
+    quotidian routine
+#日常工作
+    quotidian tasks
+#日常事务
+
+bonhomie:
+    Christmas bonhomie
+#圣诞节的欢乐气氛
+
+accost:
+    A stranger accosted me in the street.
+#一个陌生人在街上跟我搭讪。
+
+readily:
+    The facts may be readily ascertained.
+#事实不难查明。
+
+befoul:
+    befoul one's reputation
+#污蔑某人
+    It was a room befouled with soot.
+#那是一个沾满烟垢的房间。
+
+caulk:
+    caulk the windows
+#修补窗户漏缝
+
+croon:
+    He heard the wind crooning in the trees.
+#他听见在树林中低吟的风。
+
+penury:
+    live in penury
+#生活拮据
+    the years of penury
+#贫穷岁月
+
+disengage:
+    She disengaged herself from the group she was in.
+#她从自己所在的人群中脱身出来。
+
+raff:
+    a raff of old books
+#一大堆旧书
+
+nugatory:
+    a nugatory law
+#无效的法律
+
+untrustworthy:
+    The watch is untrustworthy.
+#这块手表走得不准。
+
+elegiac:
+    an elegiac lament for departed youth
+#对消逝的青春的悲悼怀念
+
+celibate:
+    She remained a celibate all her life.
+#她一生单身。
+
+also-ran:
+    Whatever you do, I'm with you, President or also-ran.
+#无论你当选总统还是落选，我总是站在你一边。
+
+offstage:
+    offstage political meetings
+#幕后政治会议
+    He was known offstage as a kindly man.
+#在舞台以外的私生活中，人们都知道他是一个亲切的人。
+
+apex:
+    the apex of a house
+#房子的顶部
+    the apex of the organization
+#该机构的顶层
+    He reached the apex of his career during that period.
+#在那一时期，他处于事业的顶峰。
+
+postwar:
+    the postwar period
+#战后时期
+    postwar rationing
+#战后配给制
+
+pantomime:
+    It's an evening of music, drama and pantomime.
+#这是一场音乐、戏剧和哑剧的晚会。
+
+soporific:
+    Her soporific voice made it difficult to stay awake in the lecture.
+#她那催眠的声音使人在听讲座时很难保持清醒。
+
+propriety:
+    act with propriety
+#行为得当
+    a breach of propriety
+#失礼行为
+    observe the propriety
+#遵守礼仪
+    I doubt the propriety of refusing him.
+#我觉得拒绝他恐怕不合适。
+
+akin:
+    words akin in form but different in meaning
+#形同异义的词
+    be closely akin to sb.
+#与某人是近亲
+    Training pet animals is somewhat akin to training children.
+#驯养宠物与教育孩子有些相似。
+
+craft:
+    traditional crafts
+#传统工艺
+    political craft
+#政治手腕
+    the craft of boat building
+#造船工艺
+    a craft shop
+#手工艺品商店
+    a rescue craft
+#救生艇
+    patrol craft
+#巡逻艇
+    You can always tell by the quality of a handmade piece of furniture if it was made by someone who knew his craft.
+#人们总能从手工制作的家具的质量判断这是否出自巧匠之手。
+
+halting:
+    speak in a halting tone
+#讲话话吞吐吐
+    a halting argument
+#软弱无力的论点
+    He walked home with heavy heart and halting steps.
+#他怀着沉重的心情，迈着瞒跚的步子走回家去。
+
+world-beater:
+    The race turned him into a world-beater.
+#这场赛跑使他成了一名世界冠军。
+
+pedant:
+    What we need is someone with common sense, not a pedant.
+#我们所需要的是一个有常识的人，而不是一个书呆子。
+
+interchangeable:
+    The terms "drinking problem" and “alcohol abuse" are often interchangeable.
+#"drinkingproblem"和"alcoholabuse"两个术语往往可以互换使用。
+
+unexceptionable:
+    His speech was unexceptionable though he didn't say much that we don't know.
+#虽然他并没有讲多少我们不知道的东西，但他的演讲是无懈可击的。
+
+apathetic:
+    be apathetic to/about/toward
+#对……冷淡/漠然
+    Public opinion was apathetic toward the whole affair.
+#公众舆论对整个事件态度漠然。
+
+mutable:
+    mutable customs
+#可以改变的风俗
+    a mutable mind
+#易变的心思
+    the mutable ways of fortune
+#命途多舛
+
+chorale:
+    a Bach chorale
+#巴赫谱曲的赞美诗
+
+unpromising:
+    an unpromising task
+#没有前途的工作
+
+willful:
+    a willful, difficult child
+#任性执拗的孩子
+    a willful murder
+#蓄意谋杀
+    be discharged for willful neglect
+#因故意玩忽职守而被解雇
+    They eat too many sweets and fried foods in willful disregard of their health.
+#他们很任性，无视自己的健康，吃了太多的甜食与油炸食物。
+
+time-consuming:
+    a time-consuming task
+#费时的工作
+    the time-consuming negotiations
+#旷日持久的谈判
+
+prophetic:
+    a prophetic saying
+#一则寓言
+    prophetic warnings
+#警示预言
+    Thunder is often prophetic of shower.
+#雷声往往是阵雨的预兆。
+
+subsist:
+    subsist on a diet of bread and water
+#靠吃面包和喝水生存
+    subsist on charity
+#靠施舍度日
+    Many superstitions of old times still subsist.
+#旧时的许多迷信至今尚存。
+
+iniquitous:
+    an iniquitous system
+#不公正的制度
+    iniquitous opinions
+#不公正的意见
+
+journalistic:
+    He left a job in banking to pursue a journalistic career.
+#他离开了银行业，开始了记者生涯。
+
+unbiased:
+    an unbiased opinion
+#公正的意见
+    an unbiased witness
+#公正的证人
+
+stagnation:
+    Industrial stagnation inevitably leads to the loss of jobs.
+#工业发展停滞必然造成就业机会减少。
+
+contrite:
+    a contrite apology
+#悔罪的道歉
+    The father felt contrite after he had hit his little son.
+#父亲在打了自己的小儿子后追悔莫及。
+
+self-deprecation:
+    Her autobiography is full of witty self-deprecation.
+#她的自传里全是该谐的自嘲。
+
+prominence:
+    a lawyer of prominence
+#著名律师
+    come to/rise to/gain prominence
+#成名
+    give prominence to the key points
+#突出重点
+    Most of the papers gave prominence to the same story this morning.
+#大多数报纸今大早上在显著位置写出了同一条新闻。
+
+autobiographical:
+    Nearly all of his films were autobiographical.
+#他的电影几乎都是自传性质的。
+
+indiscriminately:
+    They fired indiscriminately into the crowd.
+#他们向人群任意开火。
+
+unimpressed:
+    They looked the house over, but they seemed unimpressed by it.
+#他们看了一遍房子，但似乎没有动心。
+
+trenchant:
+    trenchant wit
+#机智
+    trenchant words
+#犀利的言辞
+    a trenchant argument
+#激烈的争论
+    a trenchant outline
+#清晰的轮廓
+    He wrote a series of trenchant articles on social injustices.
+#他就社会不公现象写了一系列犀利的文章。
+
+spineless:
+    spineless animals
+#无脊椎动物
+    After the fifth refusal letter, she decided that the publishers were a spineless lot.
+#她在收到第五封拒绝信后，认定出版商是一些缺乏魄力和决断的人。
+
+electromagnetic:
+    an electromagnetic wave
+#电磁波
+    electromagnetic radiation
+#电磁辐射
+    the sun's electromagnetic filed
+#太阳的电磁场
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,761 @@
+<<<<<<< HEAD
+prank: 英[præŋk] 美[præŋk]
+$n. 恶作剧，开玩笑；戏谑
+$vt. 装饰；打扮
+%vi. 炫耀自己；胡闹
+    play pranks on/upon sb.
+#捉弄某人
+    villages pranked with villas
+#别墅点缀着村庄
+    Mary pranked herself up in her best.
+#玛丽把自己打扮得漂漂亮亮的。
+
+hearsay: 英[ˈhɪəseɪ] 美[ˈhɪrseɪ]
+$n. 传闻，谣言
+%adj. 传闻的，风闻的
+    know from mere hearsay
+#风闻而已
+    spread hearsay about
+#到处散布流言蜚语
+
+redoubtable: 英[rɪˈdaʊtəb(ə)l] 美[rɪˈdaʊtəb(ə)l]
+%adj. 可怕的；令人敬畏的
+    He is the most redoubtable admiral in the navy.
+#他是海军中最令人敬畏的上将。
+
+ennui: 英[ɒnˈwiː] 美[ɑːnˈwiː]
+%n. （法）厌倦，无聊；倦怠
+    The endless lecture produced unbearable ennui.
+#无休止的演讲使人感到难以忍受的无聊。
+
+jarring: 英[ˈdʒɑːrɪŋ] 美[ˈdʒɑːrɪŋ]
+$adj. 不和谐的；刺耳的；辗轧的
+$n. 辗轧声；冲突；震动
+$v. 震惊；冲突；发刺耳声（jar 的现在分词）
+%n. （Jarring）人名；（瑞典）雅林
+    a jarring note
+#不和谐的调子
+
+foppish: 英[ˈfɒpɪʃ] 美[ˈfɑːpɪʃ]
+%adj. 浮华的；矫饰的；有纨绔习气的
+    foppish manners
+#矫揉造作的举止
+    a foppish man
+#花花公子
+
+yowl: 英[jaʊl] 美[jaʊl]
+$n. 号叫；吼声；斥责
+%vi. 号叫；斥责
+    The neighbor's dog is always yowling.
+#邻居的狗时常号叫不止。
+
+precocious: 英[prɪˈkəʊʃəs] 美[prɪˈkoʊʃəs]
+%adj. 早熟的；过早发育的
+    a precocious child with a mind of his own
+#有独立思考能力的早熟儿童
+    a precocious heat wave
+#来得过早的热浪
+
+denude: 英[dɪˈnjuːd] 美[dɪˈnuːd]
+%vt. 剥夺；使裸露
+    denude sb. of a right
+#剥夺某人的权例
+    be denuded of hope
+#失去希望
+    Most trees are denuded of their leaves in winter.
+#大多数树在冬天落叶。
+
+flatulent: 英[ˈflætʃələnt] 美[ˈflætʃələnt]
+%adj. 浮夸的；自负的；肠胃气胀的；空虚的
+    a flatulent style
+#浮夸的文体
+    He felt somewhat flatulent after eating a heavy meal.
+#吃了一顿大餐后，他觉得有点胀气。
+
+aver: 英[əˈvɜː(r)] 美[əˈvɜːr]
+$vt. 断言，极力声明；主张
+%n. （Aver）人名；（法、俄、塞）阿韦尔
+    The man averred that he had nothing to do with the theft.
+#那人断言他与盗窃无关。
+
+convoke: 英[kənˈvəʊk] 美[kənˈvoʊk]
+%vt. 召集；召集……开会
+    The mayor convoked a committee to discuss the beautification of the city.
+#市长召集了一个委员会讨论城市美化问题。
+
+lethargy: 英[ˈleθədʒi] 美[ˈleθərdʒi]
+%n. 无精打采，死气沉沉；昏睡，嗜眠（症）
+    economic lethargy
+#经济不振
+    shake off one's lethargy
+#振作起精神
+
+jingoism: 英[ˈdʒɪŋɡəʊɪzəm] 美[ˈdʒɪŋɡoʊɪzəm]
+%n. 侵略主义；沙文主义；武力外交政策
+    Such patriotism can turn into jingoism and intolerance very quickly.
+#这种爱国主义很快就会变成沙文主义和偏狭。
+
+grouch: 英[ɡraʊtʃ] 美[ɡraʊtʃ]
+$n. 心怀不满；不高兴的人；抱怨
+%vi. 发牢骚；闹脾气；抱怨
+    You are not going to spoil the party with one of your grouches.
+#你不该发脾气破坏聚会。
+
+verdure: 英[ˈvɜːdʒə(r)] 美[ˈvɜːrdʒər]
+$n. 青葱的草木；碧绿，翠绿；（诗、文）新鲜
+%n. （Verdure）（法、美、英）韦迪尔（人名）
+    the verdure of childhood
+#朝气蓬勃的童年
+
+goad: 英[ɡəʊd] 美[ɡoʊd]
+$n. 刺激；（赶牲口用的）刺棒；激励
+$vt. 刺激；激励；用刺棒驱赶；煽动
+%n. （Goad）人名；（英）戈德
+    goad a cow with a stick
+#用棒赶牛
+    goad the economy
+#刺激经济
+    His ambition goaded him on.
+#他的雄心壮志激励他前行。
+
+retiring: 英[rɪˈtaɪərɪŋ] 美[rɪˈtaɪərɪŋ]
+$adj. 不爱与人交往的；腼腆的；不合群的，孤僻的
+%v. 退休；退职；退役；就寝；退庭（retire 的现在分词）
+    retiring time
+#就寝时间
+    have a retiring nature
+#生性孤僻
+
+vestment: 英[ˈvestmənt] 美[ˈvestmənt]
+%n. （作礼拜时教士的）法衣；官服；祭坛布；礼服；衣服
+    Spring spread the verdant vestment over the land.
+#春天把青翠的衣裳铺在大地上。
+
+sideshow: 英[ˈsaɪdʃəʊ] 美[ˈsaɪdʃoʊ]
+%n. 穿插表演；串演的节；小事件
+    At the circus, the clowns put on a very clever sideshow.
+#在马戏表演中，小丑们上演了一出非常巧妙的杂耍。
+
+waggish: 英[ˈwæɡɪʃ] 美[ˈwæɡɪʃ]
+%adj. 爱开玩笑的；滑稽的
+    a waggish disposition
+#爱开玩笑打趣的性格
+    a waggish remark
+#俏皮话
+
+lumen: 英[ˈluːmɪn] 美[ˈluːmɪn]
+%n. 流明（光束的能量单位）；（管状器官内的）内腔
+    the lumen of a blood vessel
+#血管腔
+
+duplicitous: 英[djuːˈplɪsɪtəs] 美[duːˈplɪsɪtəs]
+%adj. 奸诈的；双重的；搞两面派的
+    a duplicitous character
+#双重性格
+
+cadence: 英[ˈkeɪd(ə)ns] 美[ˈkeɪd(ə)ns]
+%n. （说话时语调的）抑扬顿挫，起落；（乐曲的）收束，终止；节律，节拍
+    The teacher spoke with a pleasant cadence.
+#老师抑扬顿挫地讲着话，悦耳动听。
+
+interstice: 英[ɪnˈtɜːstɪs] 美[ɪnˈtɜːrstɪs]
+%n. [建] 裂缝；空隙
+    the interstices of a wall
+#墙上的裂缝
+    in the interstices between upheavals
+#动乱的间隙
+
+virility: 英[vəˈrɪləti] 美[vəˈrɪləti]
+%n. 男子气；男子特点；生殖力
+    political virility
+#政治活力
+    masculine virility
+#男子汉气概
+
+ail: 英[eɪl] 美[eɪl]
+%v. 困扰，使苦恼；（使）患病，（使）不适
+    She has been ailing for a week.
+#她生病已有一周。
+
+chandelier: 英[ˌʃændəˈlɪə(r)] 美[ˌʃændəˈlɪr]
+$n. 枝形吊灯
+%n. （Chandelier）人名；（法）尚德利耶
+    an expensive chandelier
+#昂贵的枝形吊灯
+
+credence: 英[ˈkriːd(ə)ns] 美[ˈkriːd(ə)ns]
+%n. 信任；凭证；祭器台（等于 credence table, credenza）
+    give/attach credence to gossip
+#听信流言蜚语
+    Such speculation gained added credence.
+#这种猜测被进一步证实了。
+
+buffoon: 英[bəˈfuːn] 美[bəˈfuːn]
+%n. 丑角；滑稽剧演员
+    He got tired of playing the buffoon in front of the audience.
+#他厌倦了在观众面前扮演小丑。
+
+pulverize: 英[ˈpʌlvəraɪz] 美[ˈpʌlvəraɪz]
+%vt. 粉碎；使成粉末；研磨
+    pulverize an opponent
+#彻底打败对手
+    Many houses were pulverized by a tornado.
+#龙卷风摧毁了许多房屋。
+
+embitter: 英[ɪmˈbɪtə(r)] 美[ɪmˈbɪtər]
+%vt. 使怨恨；使难受；使受苦
+    embitter the relations between the two countries
+#使两国关系恶化
+    She was embittered by her many disappointments.
+#她由于多次失望而十分痛苦。
+
+cloudburst: 英[ˈklaʊdbɜːst] 美[ˈklaʊdbɜːrst]
+%n. （突然的）大暴雨；突然涌来的事物
+    a cloudburst of locusts
+#大量的皇虫
+
+imputation: 英[ˌɪmpjuˈteɪʃn] 美[ˌɪmpjuˈteɪʃ(ə)n]
+%n. 归罪；非难；归咎；污名
+    the imputation of faults to sb.
+#把过错归咎于某人
+    No imputation has ever been made against his good name.
+#从来没有人诋毁过他的好名声。
+
+snappish: 英[ˈsnæpɪʃ] 美[ˈsnæpɪʃ]
+%adj. 厉声说话的；暴躁的
+    a snappish dog
+#爱咬人的狗
+    a snappish reply
+#没好气的回答
+
+omnipresent: 英[ˌɒmnɪˈprez(ə)nt] 美[ˌɑːmnɪˈprez(ə)nt]
+%adj. 无所不在的
+    the omnipresent spirit of competition in business
+#商业上普遍存在的竞争精神
+
+hortative: 英[ˈhɔːtətɪv] 美[ˈhɔːrtətɪv]
+%adj. 劝告的；奖励的
+    hortative words
+#勉励的话
+
+propulsion: 英[prəˈpʌlʃ(ə)n] 美[prəˈpʌlʃn]
+%n. 推进；推进力
+    jet propulsion
+#喷气推进
+
+mutinous: 英[ˈmjuːtənəs] 美[ˈmjuːtənəs]
+%adj. 暴动的；反抗的；难制服的
+    mutinous conduct
+#忤逆行为
+    mutinous passions
+#失控的感情
+    The mutinous soldiers were thrown into the jail.
+#叛乱的士兵被投入监狱。
+
+vilify: 英[ˈvɪlɪfaɪ] 美[ˈvɪlɪfaɪ]
+%vt. 诽谤；中伤；轻视；贬低
+    vilify one's character
+#污蔑某人的人格
+    Nothing vilifies and degrades more than pride.
+#骄傲者最易自损自毁。
+
+chicanery: 英[ʃɪˈkeɪnəri] 美[ʃɪˈkeɪnəri]
+%n. 狡辩；欺骗；强词夺理
+    The investigation has revealed chicanery of the group.
+#调查揭露了该组织的欺诈。
+
+palatial: 英[pəˈleɪʃ(ə)l] 美[pəˈleɪʃ(ə)l]
+%adj. 宫殿似的；宏伟的；壮丽的
+    a palatial hotel
+#富丽堂皇的宾馆
+
+disheveled: 英[dɪˈʃev(ə)ld] 美[dɪˈʃevld]
+$adj. 不整洁的；凌乱的
+%v. 使（头发等）蓬松（dishevel 的过去分词）
+    a disheveled traveler
+#衣冠不整的旅人
+    a disheveled play
+#结构松散的戏
+
+inebriate: 英[ɪnˈiːbrɪˌeɪt] 美[ɪˈniːbriˌeɪt]
+$v. 灌醉；（使）陶醉
+$adj. 酒醉的；陶醉的
+%n. 醉汉，酒鬼
+    be inebriated by success
+#被成功冲昏头脑
+
+wreak: 英[riːk] 美[riːk]
+%vt. 造成（巨大的破坏或伤害）；施行（报复）
+    wreak one's anger
+#泄愤
+    wreak vengeance/revenge on/upon sb.
+#对某人施行报复
+    The heavy bombardment wreaked terrible damage.
+#猛烈的轰炸造成了可怕的破坏。
+
+puny: 英[ˈpjuːni] 美[ˈpjuːni]
+%adj. 弱小的；微不足道的；微小的
+    My puny efforts are not worth much.
+#我微不足道的努力没有多大价值。
+
+askew: 英[əˈskjuː] 美[əˈskjuː]
+$adj. 歪斜的；错的
+$adv. 歪斜地；错地
+%n. （Askew）（美）艾斯丘（人名）
+    an askew lamppost
+#歪斜的灯柱
+    There were no shutters at the windows, and some of the doors hung askew.
+#窗户上没有百叶窗，有几扇门也是歪歪斜斜的。
+
+peak: 英[piːk] 美[piːk]
+$n. 巅峰，顶点；山顶；有尖峰的山；尖端，尖顶；帽檐，帽舌；极值，峰值；（艏或艉的）尖舱；斜桁外端，（帆的）后上角
+$v. 达到高峰，达到最大值；<古>消瘦，衰弱，精神萎靡
+%adj. 巅峰状态的，最高的；高峰时期的
+    Ever since then he had been peaked, red-eyed and miserable.
+#自那以后，他便显得惟悴，双眼充血，一副愁眉苦脸的样子。
+
+collogue: 英[kɒˈləʊɡ] 美[kəˈloʊɡ]
+%v. 密谈；密谋
+    a collogue between senators
+#参议员之间的密谈
+
+rifle: 英[ˈraɪf(ə)l] 美[ˈraɪf(ə)l]
+$n. 步枪，来复枪；步枪队（rifles）
+%v. 快速搜寻，匆忙翻找；偷窃，盗取；用力掷，猛踢（球）；为（枪、枪管或内膛）凿制来复线
+    The thief rifled his pockets of all their contents.
+#这个贼把他口袋里的东西都偷走了。
+
+erect: 英[ɪˈrekt] 美[ɪˈrekt]
+$v. 搭建，建造；使竖立，竖起；创立，建立；安装，装配；（使）勃起
+%adj. 竖直的，直立的；竖起的；勃起的，坚挺的
+    an erect bearing
+#挺直的体态
+    hair erect from fright
+#由于惊吓而竖直的毛发
+    erect a monument
+#竖立座纪念碑
+    erect an institution
+#建立一个机构
+    He erected himself to full height.
+#他把身子挺直。
+
+vapid: 英[ˈvæpɪd] 美[ˈvæpɪd]
+%adj. 无趣味的；无生气的；索然乏味的
+    vapid beer
+#走了气的啤酒
+    an uninspired and vapid address
+#枯燥而令人厌烦的讲话
+
+profligate: 英[ˈprɒflɪɡət] 美[ˈprɑːflɪɡət]
+$adj. 放荡的，不检点的；恣意挥霍的
+%n. 放荡者；享乐者
+    She is well-known for her profligate spending habits.
+#她以挥霍无度的消费习惯而闻名。
+
+belligerence: 英[bəˈlɪdʒərəns] 美[bəˈlɪdʒərəns]
+%n. 斗争性；好战性；交战
+    I can't stand his belligerence.
+#我无法忍受他好斗的个性。
+
+azure: 英[ˈæʒə(r)] 美[ˈæʒər]
+$adj. 蔚蓝的，天蓝色的；（纹章）蓝色的
+%n. 天蓝色；（文）碧空；琉灰蝶（属）
+    The once azure skies have been ruined by atmospheric pollution.
+#曾经蔚蓝的天空已经被大气污染破坏了。
+
+laxative: 英[ˈlæksətɪv] 美[ˈlæksətɪv]
+$n. 泻药；[药] 缓泻药
+%adj. 通便的
+    This medicine has laxative effect.
+#这种药有通便作用。
+
+expeditious: 英[ˌekspəˈdɪʃəs] 美[ˌekspəˈdɪʃəs]
+%adj. 迅速的；敏捷的
+    an expeditious answer to an enquiry
+#对询问的快速回答
+    expeditious service
+#快速服务
+    The local government was expeditious in replying to my letter.
+#当地政府迅速回复了我的信。
+
+=======
+prank: 英[præŋk] 美[præŋk]
+$n. 恶作剧，开玩笑；戏谑
+$vt. 装饰；打扮
+%vi. 炫耀自己；胡闹
+    play pranks on/upon sb.
+#捉弄某人
+    villages pranked with villas
+#别墅点缀着村庄
+    Mary pranked herself up in her best.
+#玛丽把自己打扮得漂漂亮亮的。
+
+hearsay: 英[ˈhɪəseɪ] 美[ˈhɪrseɪ]
+$n. 传闻，谣言
+%adj. 传闻的，风闻的
+    know from mere hearsay
+#风闻而已
+    spread hearsay about
+#到处散布流言蜚语
+
+redoubtable: 英[rɪˈdaʊtəb(ə)l] 美[rɪˈdaʊtəb(ə)l]
+%adj. 可怕的；令人敬畏的
+    He is the most redoubtable admiral in the navy.
+#他是海军中最令人敬畏的上将。
+
+ennui: 英[ɒnˈwiː] 美[ɑːnˈwiː]
+%n. （法）厌倦，无聊；倦怠
+    The endless lecture produced unbearable ennui.
+#无休止的演讲使人感到难以忍受的无聊。
+
+jarring: 英[ˈdʒɑːrɪŋ] 美[ˈdʒɑːrɪŋ]
+$adj. 不和谐的；刺耳的；辗轧的
+$n. 辗轧声；冲突；震动
+$v. 震惊；冲突；发刺耳声（jar 的现在分词）
+%n. （Jarring）人名；（瑞典）雅林
+    a jarring note
+#不和谐的调子
+
+foppish: 英[ˈfɒpɪʃ] 美[ˈfɑːpɪʃ]
+%adj. 浮华的；矫饰的；有纨绔习气的
+    foppish manners
+#矫揉造作的举止
+    a foppish man
+#花花公子
+
+yowl: 英[jaʊl] 美[jaʊl]
+$n. 号叫；吼声；斥责
+%vi. 号叫；斥责
+    The neighbor's dog is always yowling.
+#邻居的狗时常号叫不止。
+
+precocious: 英[prɪˈkəʊʃəs] 美[prɪˈkoʊʃəs]
+%adj. 早熟的；过早发育的
+    a precocious child with a mind of his own
+#有独立思考能力的早熟儿童
+    a precocious heat wave
+#来得过早的热浪
+
+denude: 英[dɪˈnjuːd] 美[dɪˈnuːd]
+%vt. 剥夺；使裸露
+    denude sb. of a right
+#剥夺某人的权例
+    be denuded of hope
+#失去希望
+    Most trees are denuded of their leaves in winter.
+#大多数树在冬天落叶。
+
+flatulent: 英[ˈflætʃələnt] 美[ˈflætʃələnt]
+%adj. 浮夸的；自负的；肠胃气胀的；空虚的
+    a flatulent style
+#浮夸的文体
+    He felt somewhat flatulent after eating a heavy meal.
+#吃了一顿大餐后，他觉得有点胀气。
+
+aver: 英[əˈvɜː(r)] 美[əˈvɜːr]
+$vt. 断言，极力声明；主张
+%n. （Aver）人名；（法、俄、塞）阿韦尔
+    The man averred that he had nothing to do with the theft.
+#那人断言他与盗窃无关。
+
+convoke: 英[kənˈvəʊk] 美[kənˈvoʊk]
+%vt. 召集；召集……开会
+    The mayor convoked a committee to discuss the beautification of the city.
+#市长召集了一个委员会讨论城市美化问题。
+
+lethargy: 英[ˈleθədʒi] 美[ˈleθərdʒi]
+%n. 无精打采，死气沉沉；昏睡，嗜眠（症）
+    economic lethargy
+#经济不振
+    shake off one's lethargy
+#振作起精神
+
+jingoism: 英[ˈdʒɪŋɡəʊɪzəm] 美[ˈdʒɪŋɡoʊɪzəm]
+%n. 侵略主义；沙文主义；武力外交政策
+    Such patriotism can turn into jingoism and intolerance very quickly.
+#这种爱国主义很快就会变成沙文主义和偏狭。
+
+grouch: 英[ɡraʊtʃ] 美[ɡraʊtʃ]
+$n. 心怀不满；不高兴的人；抱怨
+%vi. 发牢骚；闹脾气；抱怨
+    You are not going to spoil the party with one of your grouches.
+#你不该发脾气破坏聚会。
+
+verdure: 英[ˈvɜːdʒə(r)] 美[ˈvɜːrdʒər]
+$n. 青葱的草木；碧绿，翠绿；（诗、文）新鲜
+%n. （Verdure）（法、美、英）韦迪尔（人名）
+    the verdure of childhood
+#朝气蓬勃的童年
+
+goad: 英[ɡəʊd] 美[ɡoʊd]
+$n. 刺激；（赶牲口用的）刺棒；激励
+$vt. 刺激；激励；用刺棒驱赶；煽动
+%n. （Goad）人名；（英）戈德
+    goad a cow with a stick
+#用棒赶牛
+    goad the economy
+#刺激经济
+    His ambition goaded him on.
+#他的雄心壮志激励他前行。
+
+retiring: 英[rɪˈtaɪərɪŋ] 美[rɪˈtaɪərɪŋ]
+$adj. 不爱与人交往的；腼腆的；不合群的，孤僻的
+%v. 退休；退职；退役；就寝；退庭（retire 的现在分词）
+    retiring time
+#就寝时间
+    have a retiring nature
+#生性孤僻
+
+vestment: 英[ˈvestmənt] 美[ˈvestmənt]
+%n. （作礼拜时教士的）法衣；官服；祭坛布；礼服；衣服
+    Spring spread the verdant vestment over the land.
+#春天把青翠的衣裳铺在大地上。
+
+sideshow: 英[ˈsaɪdʃəʊ] 美[ˈsaɪdʃoʊ]
+%n. 穿插表演；串演的节；小事件
+    At the circus, the clowns put on a very clever sideshow.
+#在马戏表演中，小丑们上演了一出非常巧妙的杂耍。
+
+waggish: 英[ˈwæɡɪʃ] 美[ˈwæɡɪʃ]
+%adj. 爱开玩笑的；滑稽的
+    a waggish disposition
+#爱开玩笑打趣的性格
+    a waggish remark
+#俏皮话
+
+lumen: 英[ˈluːmɪn] 美[ˈluːmɪn]
+%n. 流明（光束的能量单位）；（管状器官内的）内腔
+    the lumen of a blood vessel
+#血管腔
+
+duplicitous: 英[djuːˈplɪsɪtəs] 美[duːˈplɪsɪtəs]
+%adj. 奸诈的；双重的；搞两面派的
+    a duplicitous character
+#双重性格
+
+cadence: 英[ˈkeɪd(ə)ns] 美[ˈkeɪd(ə)ns]
+%n. （说话时语调的）抑扬顿挫，起落；（乐曲的）收束，终止；节律，节拍
+    The teacher spoke with a pleasant cadence.
+#老师抑扬顿挫地讲着话，悦耳动听。
+
+interstice: 英[ɪnˈtɜːstɪs] 美[ɪnˈtɜːrstɪs]
+%n. [建] 裂缝；空隙
+    the interstices of a wall
+#墙上的裂缝
+    in the interstices between upheavals
+#动乱的间隙
+
+virility: 英[vəˈrɪləti] 美[vəˈrɪləti]
+%n. 男子气；男子特点；生殖力
+    political virility
+#政治活力
+    masculine virility
+#男子汉气概
+
+ail: 英[eɪl] 美[eɪl]
+%v. 困扰，使苦恼；（使）患病，（使）不适
+    She has been ailing for a week.
+#她生病已有一周。
+
+chandelier: 英[ˌʃændəˈlɪə(r)] 美[ˌʃændəˈlɪr]
+$n. 枝形吊灯
+%n. （Chandelier）人名；（法）尚德利耶
+    an expensive chandelier
+#昂贵的枝形吊灯
+
+credence: 英[ˈkriːd(ə)ns] 美[ˈkriːd(ə)ns]
+%n. 信任；凭证；祭器台（等于 credence table, credenza）
+    give/attach credence to gossip
+#听信流言蜚语
+    Such speculation gained added credence.
+#这种猜测被进一步证实了。
+
+buffoon: 英[bəˈfuːn] 美[bəˈfuːn]
+%n. 丑角；滑稽剧演员
+    He got tired of playing the buffoon in front of the audience.
+#他厌倦了在观众面前扮演小丑。
+
+pulverize: 英[ˈpʌlvəraɪz] 美[ˈpʌlvəraɪz]
+%vt. 粉碎；使成粉末；研磨
+    pulverize an opponent
+#彻底打败对手
+    Many houses were pulverized by a tornado.
+#龙卷风摧毁了许多房屋。
+
+embitter: 英[ɪmˈbɪtə(r)] 美[ɪmˈbɪtər]
+%vt. 使怨恨；使难受；使受苦
+    embitter the relations between the two countries
+#使两国关系恶化
+    She was embittered by her many disappointments.
+#她由于多次失望而十分痛苦。
+
+cloudburst: 英[ˈklaʊdbɜːst] 美[ˈklaʊdbɜːrst]
+%n. （突然的）大暴雨；突然涌来的事物
+    a cloudburst of locusts
+#大量的皇虫
+
+imputation: 英[ˌɪmpjuˈteɪʃn] 美[ˌɪmpjuˈteɪʃ(ə)n]
+%n. 归罪；非难；归咎；污名
+    the imputation of faults to sb.
+#把过错归咎于某人
+    No imputation has ever been made against his good name.
+#从来没有人诋毁过他的好名声。
+
+snappish: 英[ˈsnæpɪʃ] 美[ˈsnæpɪʃ]
+%adj. 厉声说话的；暴躁的
+    a snappish dog
+#爱咬人的狗
+    a snappish reply
+#没好气的回答
+
+omnipresent: 英[ˌɒmnɪˈprez(ə)nt] 美[ˌɑːmnɪˈprez(ə)nt]
+%adj. 无所不在的
+    the omnipresent spirit of competition in business
+#商业上普遍存在的竞争精神
+
+hortative: 英[ˈhɔːtətɪv] 美[ˈhɔːrtətɪv]
+%adj. 劝告的；奖励的
+    hortative words
+#勉励的话
+
+propulsion: 英[prəˈpʌlʃ(ə)n] 美[prəˈpʌlʃn]
+%n. 推进；推进力
+    jet propulsion
+#喷气推进
+
+mutinous: 英[ˈmjuːtənəs] 美[ˈmjuːtənəs]
+%adj. 暴动的；反抗的；难制服的
+    mutinous conduct
+#忤逆行为
+    mutinous passions
+#失控的感情
+    The mutinous soldiers were thrown into the jail.
+#叛乱的士兵被投入监狱。
+
+vilify: 英[ˈvɪlɪfaɪ] 美[ˈvɪlɪfaɪ]
+%vt. 诽谤；中伤；轻视；贬低
+    vilify one's character
+#污蔑某人的人格
+    Nothing vilifies and degrades more than pride.
+#骄傲者最易自损自毁。
+
+chicanery: 英[ʃɪˈkeɪnəri] 美[ʃɪˈkeɪnəri]
+%n. 狡辩；欺骗；强词夺理
+    The investigation has revealed chicanery of the group.
+#调查揭露了该组织的欺诈。
+
+palatial: 英[pəˈleɪʃ(ə)l] 美[pəˈleɪʃ(ə)l]
+%adj. 宫殿似的；宏伟的；壮丽的
+    a palatial hotel
+#富丽堂皇的宾馆
+
+disheveled: 英[dɪˈʃev(ə)ld] 美[dɪˈʃevld]
+$adj. 不整洁的；凌乱的
+%v. 使（头发等）蓬松（dishevel 的过去分词）
+    a disheveled traveler
+#衣冠不整的旅人
+    a disheveled play
+#结构松散的戏
+
+inebriate: 英[ɪnˈiːbrɪˌeɪt] 美[ɪˈniːbriˌeɪt]
+$v. 灌醉；（使）陶醉
+$adj. 酒醉的；陶醉的
+%n. 醉汉，酒鬼
+    be inebriated by success
+#被成功冲昏头脑
+
+wreak: 英[riːk] 美[riːk]
+%vt. 造成（巨大的破坏或伤害）；施行（报复）
+    wreak one's anger
+#泄愤
+    wreak vengeance/revenge on/upon sb.
+#对某人施行报复
+    The heavy bombardment wreaked terrible damage.
+#猛烈的轰炸造成了可怕的破坏。
+
+puny: 英[ˈpjuːni] 美[ˈpjuːni]
+%adj. 弱小的；微不足道的；微小的
+    My puny efforts are not worth much.
+#我微不足道的努力没有多大价值。
+
+askew: 英[əˈskjuː] 美[əˈskjuː]
+$adj. 歪斜的；错的
+$adv. 歪斜地；错地
+%n. （Askew）（美）艾斯丘（人名）
+    an askew lamppost
+#歪斜的灯柱
+    There were no shutters at the windows, and some of the doors hung askew.
+#窗户上没有百叶窗，有几扇门也是歪歪斜斜的。
+
+peak: 英[piːk] 美[piːk]
+$n. 巅峰，顶点；山顶；有尖峰的山；尖端，尖顶；帽檐，帽舌；极值，峰值；（艏或艉的）尖舱；斜桁外端，（帆的）后上角
+$v. 达到高峰，达到最大值；<古>消瘦，衰弱，精神萎靡
+%adj. 巅峰状态的，最高的；高峰时期的
+    Ever since then he had been peaked, red-eyed and miserable.
+#自那以后，他便显得惟悴，双眼充血，一副愁眉苦脸的样子。
+
+collogue: 英[kɒˈləʊɡ] 美[kəˈloʊɡ]
+%v. 密谈；密谋
+    a collogue between senators
+#参议员之间的密谈
+
+rifle: 英[ˈraɪf(ə)l] 美[ˈraɪf(ə)l]
+$n. 步枪，来复枪；步枪队（rifles）
+%v. 快速搜寻，匆忙翻找；偷窃，盗取；用力掷，猛踢（球）；为（枪、枪管或内膛）凿制来复线
+    The thief rifled his pockets of all their contents.
+#这个贼把他口袋里的东西都偷走了。
+
+erect: 英[ɪˈrekt] 美[ɪˈrekt]
+$v. 搭建，建造；使竖立，竖起；创立，建立；安装，装配；（使）勃起
+%adj. 竖直的，直立的；竖起的；勃起的，坚挺的
+    an erect bearing
+#挺直的体态
+    hair erect from fright
+#由于惊吓而竖直的毛发
+    erect a monument
+#竖立座纪念碑
+    erect an institution
+#建立一个机构
+    He erected himself to full height.
+#他把身子挺直。
+
+vapid: 英[ˈvæpɪd] 美[ˈvæpɪd]
+%adj. 无趣味的；无生气的；索然乏味的
+    vapid beer
+#走了气的啤酒
+    an uninspired and vapid address
+#枯燥而令人厌烦的讲话
+
+profligate: 英[ˈprɒflɪɡət] 美[ˈprɑːflɪɡət]
+$adj. 放荡的，不检点的；恣意挥霍的
+%n. 放荡者；享乐者
+    She is well-known for her profligate spending habits.
+#她以挥霍无度的消费习惯而闻名。
+
+belligerence: 英[bəˈlɪdʒərəns] 美[bəˈlɪdʒərəns]
+%n. 斗争性；好战性；交战
+    I can't stand his belligerence.
+#我无法忍受他好斗的个性。
+
+azure: 英[ˈæʒə(r)] 美[ˈæʒər]
+$adj. 蔚蓝的，天蓝色的；（纹章）蓝色的
+%n. 天蓝色；（文）碧空；琉灰蝶（属）
+    The once azure skies have been ruined by atmospheric pollution.
+#曾经蔚蓝的天空已经被大气污染破坏了。
+
+laxative: 英[ˈlæksətɪv] 美[ˈlæksətɪv]
+$n. 泻药；[药] 缓泻药
+%adj. 通便的
+    This medicine has laxative effect.
+#这种药有通便作用。
+
+expeditious: 英[ˌekspəˈdɪʃəs] 美[ˌekspəˈdɪʃəs]
+%adj. 迅速的；敏捷的
+    an expeditious answer to an enquiry
+#对询问的快速回答
+    expeditious service
+#快速服务
+    The local government was expeditious in replying to my letter.
+#当地政府迅速回复了我的信。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

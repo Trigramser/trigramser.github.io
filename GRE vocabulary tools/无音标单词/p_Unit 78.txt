@@ -1,0 +1,659 @@
+<<<<<<< HEAD
+trespass:
+    no trespassing
+#不得擅自进入
+    trespass on/upon one's rights
+#侵害某人的权利
+    forgive someone that trespasses against us
+#宽恕冒犯我们的人
+    be guilty of trespass
+#犯非法入侵罪
+    a trespass on decorum
+#失礼
+    This is a public footpath and we're not trespassing on someone's land.
+#这是条公共人行道，我们没有擅自进人别人的地盘。
+
+unskilled:
+    be unskilled in athletics
+#不善于体育
+    be unskilled in debate
+#不擅长辩论
+    an unskilled worker
+#非技术工人
+    He had a succession of unskilled jobs in restaurants and building sites.
+#他在餐馆和建筑工地做过一系列不需要特殊技能的工作。
+
+frenetic:
+    a frenetic lifestyle
+#疯狂的生活方式
+    frenetic activity
+#发狂似的活动
+    a frenetic desire
+#狂热的欲望
+    There was frenetic trading on the Stock Exchange yesterday.
+#昨天在股市交易所进行着疯狂的买卖。
+
+unremitting:
+    unremitting forts
+#不懈的努力
+    unremitting care
+#始终如一的关怀
+    Our thanks are due to Mr.Allen whose unremitting labors have ensured the success of the whole scheme.
+#我们要感谢艾伦先生，他的不懈努力确保了整个计划的成功。
+
+incipient:
+    incipient light of day
+#曙光
+    the incipient economic recovery
+#刚出现的经济复苏
+    an incipient habit
+#刚养成的习惯
+    The disease is curable if it is treated at an incipient stage.
+#这种疾病如果在早期阶段治疗的话是能治愈的。
+
+debase:
+    debase the value of the dollar
+#使美元贬值
+    Our world view has become debased and we no longer have a sense of the sacred.
+#我们的世界观堕落了，我们不再有神圣感了。
+
+wholesale:
+    a wholesale dealer
+#批发商
+    wholesale price
+#批发价
+    wholesale and retail distribution
+#批发和零售经销
+    the wholesale slaughter of innocent people
+#对无辜民众的大屠杀
+    buy goods wholesale
+#批量购进货物
+    send out Christmas cards wholesale
+#大量寄出圣诞卡
+    at wholesale
+#以批发价
+    by wholesale
+#成批地，以批发价
+    If you like, I can get that camera you want cheaper for you wholesale.
+#如果你愿意，我可以把你想要的那架照相机按批发价便宜卖给你。
+
+egoist:
+    Some politicians are notorious egoists, interested only in promoting themselves.
+#有些政客是众所周知的利己主义者，一心只想往上爬
+
+irrevocable:
+    an irrevocable promise
+#不可收回的诺言
+    an irrevocable decision
+#不可改变的决定
+
+infertile:
+    infertile women
+#不能生育的妇女
+    infertile soils
+#贫瘠的土壤
+    There is a telephone helpline to give professional advice and support to the infertile.
+#有一个服务热线给不能生育的人提供专业建议和支持。
+
+iterate:
+    She iterated her complaint.
+#她翻来覆去地抱怨。
+
+debilitate:
+    It is a debilitating disease which does not affect the mind but damages muscle control.
+#这是一种使人衰弱的疾病，对大脑无影响但有损肌肉的控制。
+
+climactic:
+    a climactic scene in a play
+#剧中的一场高潮
+    the climactic moments of one's career
+#某人事业的顶峰阶段
+
+thematic:
+    thematic teaching
+#主题教学
+    thematic commemorative stamps
+#主题纪念邮票
+    thematic treatment
+#主题处理
+    The author adopted a thematic rather than a chronological approach to the French Revolution.
+#作者在他对法国革命的研究中，采取了按主题而不是按年代的方法。
+
+condone:
+    good qualities that condone one's shortcomings
+#可弥补缺点的好品质
+    If the government is seen to condone violence, the bloodshed will never stop.
+#如果政府被视为容忍暴力，那么流血事件就永远不会停止。
+
+despicable:
+    despicable behavior
+#卑鄙行径
+    a despicable man
+#卑劣的人
+    a despicable lie
+#卑鄙的谎言
+    He is too nice a man to do anything as despicable as murder.
+#他是个很好的人，不会去做杀人之类可鄙的事情。
+
+adamant:
+    be adamant against appeasing sb.
+#坚决不迁就某人
+    be adamant to temptations
+#不为诱惑所动
+    I tried to persuade her to take the job but she was quite adamant that she didn't want it.
+#我试图说服她接受这项工作，但她却非常固执地不愿意。
+
+intractable:
+    an intractable adolescent
+#倔强的少年
+    intractable metal
+#不易加工的金属
+    intractable pain
+#难消除的疼痛
+    an intractable disease
+#顽症
+    Apparently intractable problems can sometimes be solved when a different person looks at them.
+#看起来十分棘手的问题换另一个人有时候就可以解决。
+
+serenity:
+    a Madonna-like serenity
+#圣母画像一样的安详
+    disturb sb.'s serenity
+#打扰某人的安宁
+    the serenity of the weather
+#天气的晴朗
+    I admire his serenity in the midst of so much chaos.
+#我钦佩他在那么多乱七八糟的事情中还能保持镇静。
+
+exacerbate:
+    This attack will exacerbate the already tense relations between the two countries.
+#这次攻击将会使两国之间本已紧张的关系进一步恶化。
+
+capitulate:
+    capitulate to one's demand
+#屈从某人的要求
+    capitulate in the face of aggression
+#在侵略面前屈服
+    Their forces capitulated five hours after the allied bombardment of the city began.
+#盟军在该市的炮轰开始后5小时，他们的军队投降了。
+
+gullible:
+    The local tourist guides delight gullible tourists with unlikely stories.
+#当地的导游以离奇的故事取悦轻信的游客。
+
+resurrect:
+    resurrect one's hopes
+#使某人重新萌生希望
+    resurrect an old custom
+#使旧习俗重新流行
+    a resurrected secret agent
+#被重新启用的秘密特工
+    With the recent change in leadership, several members of the party have resurrected the idea of constitutional change.
+#随着领导层最近的变化，该党派的几个成员已重新燃起了修宪的想法。
+
+caricature:
+    a master of caricature
+#漫画大师
+    be caricatured in the newspaper
+#在报纸上被画成漫画
+    There was a caricature of the prime minister in the paper yesterday.
+#昨天的报纸上有一幅指向首相的讽刺画。
+
+imposter:
+    He plays the imposter in that new adventure film.
+#在那部新冒险片中，他扮演一个江湖骗子。
+
+impetuous:
+    be impetuous in one's habits
+#生性急躁
+    an impetuous temperament
+#冲动型气质
+    an impetuous wind
+#狂风
+    an impetuous torrent of water
+#奔腾的急流
+    an impetuous decision
+#草率的决定
+    The president may now be regretting his impetuous promise to reduce unemployment by half.
+#总统现在可能后悔他冲动地允诺了要将失业人数减少一半。
+
+antagonize:
+    With the publication of this controversial book, you risk antagonizing a large section of the population.
+#出版了这本有争议的书，你就有冒天下之大不题的危险。
+
+purport:
+    the purport of what one said
+#某人话语的要旨
+    the main purport
+#主要目的
+    She purported to represent the wishes of the majority of parents at the school.
+#她声称代表了个学校大部分家长的意愿。
+
+curt:
+    give a curt nod
+#敷衍了事地点点头
+    a curt yet complete account
+#简要而完整的叙述
+    She gave a curt reply to his question.
+#她三言两语草草回答了他的问题。
+
+scenic:
+    scenic performance
+#舞台演出
+    scenic effects
+#戏剧效果
+    a scenic view
+#优美的景色
+    a scenic lift
+#观光电梯
+    The pamphlet contains full details of the national park's scenic attractions.
+#小册子对国家公园的名胜景点做了详细的介绍。
+
+ominous:
+    ominous silence
+#不祥的沉默
+    an ominous sound
+#不祥的声音
+    be ominous of disaster
+#预示灾祸
+    The company's disappointing sales figures are an ominous sign of worse things to come.
+#这家公司令人失望的销售数额是个不祥的征兆，预示着有更糟的事情发生。
+
+delude:
+    a poor deluded girl
+#可怜的受骗女孩
+    delude oneself with false hopes
+#用幻想欺骗自己
+    He's deluding himself if he thinks he's going to be promoted this year.
+#要是他认为自己今年会得到晋升，那是在自欺欺人。
+
+connoisseur:
+    an art connoisseur
+#艺术鉴赏家
+    a connoisseur in painting
+#绘画鉴赏家
+    I'm no connoisseur, but I know a good champagne when I taste it.
+#我不是行家，但我一尝就知道这是不是好香槟。
+
+homogeneity:
+    cultural homogeneity
+#文化的相同
+    ethnical homogeneity
+#种族的相同
+
+inestimable:
+    inestimable advantage
+#不可估量的优势
+    inestimable treasures
+#无价财宝
+    an inestimable contribution
+#宝贵的贡献
+    Rain forest supports half the world's species. whose medical importance is of inestimable value.
+#雨林维持着世界上一半的物种，而这些物种的药用价值是无法估量的。
+
+heinous:
+    They admitted to the most heinous crimes.
+#他们承认了极其恶劣的罪行。
+
+bravado:
+    out of sheer bravado
+#出于完全的虚张声势地
+    a show of bravado
+#装出一副气势汹汹的样子
+    It was an act of bravado that made him ask his manager to resign.
+#是蛮干逞能的心理促使他要求经理辞职。
+
+impermanent:
+    A lot of modern buildings seem somehow impermanent as if they aren't built to last more than ten years.
+#许多现代建筑看上去有种非永久性的味道，好像它们造了不是要使用10年以上。
+
+evasive:
+    an evasive answer
+#模棱两可的回答
+    evasive eyes
+#回避的眼光
+    evasive tactics
+#回避战术
+    Inspiration is not forever evasive.
+#灵感并不总是难以捕捉的。
+
+frigid:
+    a frigid atmosphere
+#拘谨的气氛
+    a frigid stare
+#呆滞的眼神
+    a frigid story
+#平淡无奇的故事
+    She gave him a frigid look.
+#她冷冷地看了他一眼。
+
+=======
+trespass:
+    no trespassing
+#不得擅自进入
+    trespass on/upon one's rights
+#侵害某人的权利
+    forgive someone that trespasses against us
+#宽恕冒犯我们的人
+    be guilty of trespass
+#犯非法入侵罪
+    a trespass on decorum
+#失礼
+    This is a public footpath and we're not trespassing on someone's land.
+#这是条公共人行道，我们没有擅自进人别人的地盘。
+
+unskilled:
+    be unskilled in athletics
+#不善于体育
+    be unskilled in debate
+#不擅长辩论
+    an unskilled worker
+#非技术工人
+    He had a succession of unskilled jobs in restaurants and building sites.
+#他在餐馆和建筑工地做过一系列不需要特殊技能的工作。
+
+frenetic:
+    a frenetic lifestyle
+#疯狂的生活方式
+    frenetic activity
+#发狂似的活动
+    a frenetic desire
+#狂热的欲望
+    There was frenetic trading on the Stock Exchange yesterday.
+#昨天在股市交易所进行着疯狂的买卖。
+
+unremitting:
+    unremitting forts
+#不懈的努力
+    unremitting care
+#始终如一的关怀
+    Our thanks are due to Mr.Allen whose unremitting labors have ensured the success of the whole scheme.
+#我们要感谢艾伦先生，他的不懈努力确保了整个计划的成功。
+
+incipient:
+    incipient light of day
+#曙光
+    the incipient economic recovery
+#刚出现的经济复苏
+    an incipient habit
+#刚养成的习惯
+    The disease is curable if it is treated at an incipient stage.
+#这种疾病如果在早期阶段治疗的话是能治愈的。
+
+debase:
+    debase the value of the dollar
+#使美元贬值
+    Our world view has become debased and we no longer have a sense of the sacred.
+#我们的世界观堕落了，我们不再有神圣感了。
+
+wholesale:
+    a wholesale dealer
+#批发商
+    wholesale price
+#批发价
+    wholesale and retail distribution
+#批发和零售经销
+    the wholesale slaughter of innocent people
+#对无辜民众的大屠杀
+    buy goods wholesale
+#批量购进货物
+    send out Christmas cards wholesale
+#大量寄出圣诞卡
+    at wholesale
+#以批发价
+    by wholesale
+#成批地，以批发价
+    If you like, I can get that camera you want cheaper for you wholesale.
+#如果你愿意，我可以把你想要的那架照相机按批发价便宜卖给你。
+
+egoist:
+    Some politicians are notorious egoists, interested only in promoting themselves.
+#有些政客是众所周知的利己主义者，一心只想往上爬
+
+irrevocable:
+    an irrevocable promise
+#不可收回的诺言
+    an irrevocable decision
+#不可改变的决定
+
+infertile:
+    infertile women
+#不能生育的妇女
+    infertile soils
+#贫瘠的土壤
+    There is a telephone helpline to give professional advice and support to the infertile.
+#有一个服务热线给不能生育的人提供专业建议和支持。
+
+iterate:
+    She iterated her complaint.
+#她翻来覆去地抱怨。
+
+debilitate:
+    It is a debilitating disease which does not affect the mind but damages muscle control.
+#这是一种使人衰弱的疾病，对大脑无影响但有损肌肉的控制。
+
+climactic:
+    a climactic scene in a play
+#剧中的一场高潮
+    the climactic moments of one's career
+#某人事业的顶峰阶段
+
+thematic:
+    thematic teaching
+#主题教学
+    thematic commemorative stamps
+#主题纪念邮票
+    thematic treatment
+#主题处理
+    The author adopted a thematic rather than a chronological approach to the French Revolution.
+#作者在他对法国革命的研究中，采取了按主题而不是按年代的方法。
+
+condone:
+    good qualities that condone one's shortcomings
+#可弥补缺点的好品质
+    If the government is seen to condone violence, the bloodshed will never stop.
+#如果政府被视为容忍暴力，那么流血事件就永远不会停止。
+
+despicable:
+    despicable behavior
+#卑鄙行径
+    a despicable man
+#卑劣的人
+    a despicable lie
+#卑鄙的谎言
+    He is too nice a man to do anything as despicable as murder.
+#他是个很好的人，不会去做杀人之类可鄙的事情。
+
+adamant:
+    be adamant against appeasing sb.
+#坚决不迁就某人
+    be adamant to temptations
+#不为诱惑所动
+    I tried to persuade her to take the job but she was quite adamant that she didn't want it.
+#我试图说服她接受这项工作，但她却非常固执地不愿意。
+
+intractable:
+    an intractable adolescent
+#倔强的少年
+    intractable metal
+#不易加工的金属
+    intractable pain
+#难消除的疼痛
+    an intractable disease
+#顽症
+    Apparently intractable problems can sometimes be solved when a different person looks at them.
+#看起来十分棘手的问题换另一个人有时候就可以解决。
+
+serenity:
+    a Madonna-like serenity
+#圣母画像一样的安详
+    disturb sb.'s serenity
+#打扰某人的安宁
+    the serenity of the weather
+#天气的晴朗
+    I admire his serenity in the midst of so much chaos.
+#我钦佩他在那么多乱七八糟的事情中还能保持镇静。
+
+exacerbate:
+    This attack will exacerbate the already tense relations between the two countries.
+#这次攻击将会使两国之间本已紧张的关系进一步恶化。
+
+capitulate:
+    capitulate to one's demand
+#屈从某人的要求
+    capitulate in the face of aggression
+#在侵略面前屈服
+    Their forces capitulated five hours after the allied bombardment of the city began.
+#盟军在该市的炮轰开始后5小时，他们的军队投降了。
+
+gullible:
+    The local tourist guides delight gullible tourists with unlikely stories.
+#当地的导游以离奇的故事取悦轻信的游客。
+
+resurrect:
+    resurrect one's hopes
+#使某人重新萌生希望
+    resurrect an old custom
+#使旧习俗重新流行
+    a resurrected secret agent
+#被重新启用的秘密特工
+    With the recent change in leadership, several members of the party have resurrected the idea of constitutional change.
+#随着领导层最近的变化，该党派的几个成员已重新燃起了修宪的想法。
+
+caricature:
+    a master of caricature
+#漫画大师
+    be caricatured in the newspaper
+#在报纸上被画成漫画
+    There was a caricature of the prime minister in the paper yesterday.
+#昨天的报纸上有一幅指向首相的讽刺画。
+
+imposter:
+    He plays the imposter in that new adventure film.
+#在那部新冒险片中，他扮演一个江湖骗子。
+
+impetuous:
+    be impetuous in one's habits
+#生性急躁
+    an impetuous temperament
+#冲动型气质
+    an impetuous wind
+#狂风
+    an impetuous torrent of water
+#奔腾的急流
+    an impetuous decision
+#草率的决定
+    The president may now be regretting his impetuous promise to reduce unemployment by half.
+#总统现在可能后悔他冲动地允诺了要将失业人数减少一半。
+
+antagonize:
+    With the publication of this controversial book, you risk antagonizing a large section of the population.
+#出版了这本有争议的书，你就有冒天下之大不题的危险。
+
+purport:
+    the purport of what one said
+#某人话语的要旨
+    the main purport
+#主要目的
+    She purported to represent the wishes of the majority of parents at the school.
+#她声称代表了个学校大部分家长的意愿。
+
+curt:
+    give a curt nod
+#敷衍了事地点点头
+    a curt yet complete account
+#简要而完整的叙述
+    She gave a curt reply to his question.
+#她三言两语草草回答了他的问题。
+
+scenic:
+    scenic performance
+#舞台演出
+    scenic effects
+#戏剧效果
+    a scenic view
+#优美的景色
+    a scenic lift
+#观光电梯
+    The pamphlet contains full details of the national park's scenic attractions.
+#小册子对国家公园的名胜景点做了详细的介绍。
+
+ominous:
+    ominous silence
+#不祥的沉默
+    an ominous sound
+#不祥的声音
+    be ominous of disaster
+#预示灾祸
+    The company's disappointing sales figures are an ominous sign of worse things to come.
+#这家公司令人失望的销售数额是个不祥的征兆，预示着有更糟的事情发生。
+
+delude:
+    a poor deluded girl
+#可怜的受骗女孩
+    delude oneself with false hopes
+#用幻想欺骗自己
+    He's deluding himself if he thinks he's going to be promoted this year.
+#要是他认为自己今年会得到晋升，那是在自欺欺人。
+
+connoisseur:
+    an art connoisseur
+#艺术鉴赏家
+    a connoisseur in painting
+#绘画鉴赏家
+    I'm no connoisseur, but I know a good champagne when I taste it.
+#我不是行家，但我一尝就知道这是不是好香槟。
+
+homogeneity:
+    cultural homogeneity
+#文化的相同
+    ethnical homogeneity
+#种族的相同
+
+inestimable:
+    inestimable advantage
+#不可估量的优势
+    inestimable treasures
+#无价财宝
+    an inestimable contribution
+#宝贵的贡献
+    Rain forest supports half the world's species. whose medical importance is of inestimable value.
+#雨林维持着世界上一半的物种，而这些物种的药用价值是无法估量的。
+
+heinous:
+    They admitted to the most heinous crimes.
+#他们承认了极其恶劣的罪行。
+
+bravado:
+    out of sheer bravado
+#出于完全的虚张声势地
+    a show of bravado
+#装出一副气势汹汹的样子
+    It was an act of bravado that made him ask his manager to resign.
+#是蛮干逞能的心理促使他要求经理辞职。
+
+impermanent:
+    A lot of modern buildings seem somehow impermanent as if they aren't built to last more than ten years.
+#许多现代建筑看上去有种非永久性的味道，好像它们造了不是要使用10年以上。
+
+evasive:
+    an evasive answer
+#模棱两可的回答
+    evasive eyes
+#回避的眼光
+    evasive tactics
+#回避战术
+    Inspiration is not forever evasive.
+#灵感并不总是难以捕捉的。
+
+frigid:
+    a frigid atmosphere
+#拘谨的气氛
+    a frigid stare
+#呆滞的眼神
+    a frigid story
+#平淡无奇的故事
+    She gave him a frigid look.
+#她冷冷地看了他一眼。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

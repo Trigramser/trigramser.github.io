@@ -1,0 +1,623 @@
+<<<<<<< HEAD
+discernable:
+    no discernable difference
+#没有明显的区别
+    There is no discernable reason why this should be the case.
+#情况为何应该如此，看不出有任何理由。
+
+tempting:
+    a tempting offer
+#诱人的提议
+    an extremely tempting dish
+#令人垂涎的佳肴
+    The display of fresh fruit looked tempting.
+#新鲜水果摆放得很诱人。
+
+inadvertent:
+    an inadvertent remark
+#漫不经心的话
+    some inadvertent errors
+#一些因疏忽而造成的错误
+    All authors need to be wary of inadvertent plagiarism of other people's work.
+#所有的作者都要注意不要在无意中抄袭了他人的作品。
+
+shoal:
+    a shoal channel
+#浅航道
+    a shoal of tourists
+#大批游客
+    shoals of people
+#成群结队的人
+    a shoal of troubles
+#一大堆困难
+    get letters in shoals
+#收到大批大批信件
+    In the shallower water, we could see shoals of tiny fish darting about.
+#在水浅的地方，我们能看见一群群的小鱼儿游来游去。
+
+evanescent:
+    evanescent flowers
+#很快凋谢的花
+    the evanescent beauty of the sunset
+#日落景象的短暂的美
+    The evanescent postwar economic boom was quickly followed by a deep recession.
+#衰退紧随着短暂的战后经济繁荣而来。
+
+unwieldy:
+    the country's unwieldy banking system
+#该国无效率的银行系统
+    The problem with pushchairs is that they're so unwieldy to take on public transport.
+#幼儿推车存在的问题是在上公共交通工具时不太灵便。
+
+decimate:
+    If the disease spreads it will decimate the cattle herds in this country.
+#若疾病蔓延开来，将导致这个国家的牛群大量死亡。
+
+commensurate:
+    The salary will be commensurate with age, experience and position.
+#薪水将和年龄、经验和职位相当。
+
+insider:
+    insider dealing/trading
+#内部交易
+    According to insiders, the committee is having difficulty making up its mind.
+#据知情人士称，委员会很难做出决定。
+
+bastion:
+    the last bastion of conservatism
+#保守派的最后堡垒
+    The club regarded itself as one of the last bastions of male supremacy.
+#这家俱乐部自称是持大男子主义的最后堡垒之一。
+
+flaunt:
+    flaunt himself at every opportunity
+#有机会就炫耀自己
+    flaunt one's wealth
+#炫富
+    One secret he learned very early was not to flaunt his success.
+#他很早就领悟到的秘诀便是不夸耀自己的成功。
+
+blithe:
+    blithe unconcern
+#漠不关心
+    a blithe indifference to other's feelings
+#毫不考虑别人的感情
+    I often think of those blithe summer days when I was young.
+#我时常想起年轻时那些快乐的夏日。
+
+spurious:
+    spurious coins
+#伪币
+    Some of the arguments in favor of shutting the factory are downright spurious.
+#有些赞同关闭工厂的言论具有明显的欺骗性。
+
+prodigal:
+    be prodigal of forests
+#浪费森林资源
+    be prodigal with money
+#挥霍金钱
+    be prodigal with praise
+#赞不绝口
+    a mind prodigal of ideas
+#足智多谋
+    the return of the prodigal
+#浪子的回头
+    play the prodigal
+#挥霍，浪荡
+    There have been rumors that he has been prodigal with company funds.
+#有谣言说他挥霍公司的资金。
+
+unwitting:
+    be unwitting of danger
+#不知道有危险
+    an unwitting mistake
+#无心之失
+    His insult, though unwitting, pained her.
+#他的侮辱，尽管不是出于故意，却使她很痛苦
+
+sedative:
+    have sedative properties
+#具有镇静特效
+    This drug has a sedative effect and should not be taken when driving.
+#这种药有镇静作用，开车时不应服用。
+
+ulterior:
+    an ulterior region
+#较远的地区
+    He assured us that there was no ulterior motive in his suggestion.
+#他向我们保证，他的建议没有不可告人的动机
+
+audacious:
+    an audacious warrior
+#无畏的战士
+    an audacious vision of the future
+#对未来的大胆幻想
+    He was known for risky tactics that ranged from audacious to outrageous.
+#他以大胆甚至是骇人听闻的冒险战术而闻名。
+
+monolith:
+    The statue is carved out of a monolith.
+#这座雕像由一块独块巨石雕刻而成。
+
+antiseptic:
+    antiseptic gauze
+#无菌纱布
+    antiseptic treatment
+#防腐处理
+    an antiseptic mind
+#一尘不染的天真头脑
+    an air of antiseptic cleanliness
+#过分讲究的洁净气氛
+    In the 1870s and 1880s, doctors began to follow the principles of antiseptic surgery.
+#自十九世纪七八十年代起，医生们开始遵循无菌外科手术的原则。
+
+inflamed:
+    inflamed eyes
+#红肿的眼睛
+    inflamed hands
+#红肿的手
+
+disjunctive:
+    a disjunctive narrative sequence
+#不连续的叙述顺序
+
+fractious:
+    a fractious horse
+#难驾驭的马
+    a fractious crew
+#一船不听指挥的水手
+    I'm afraid I don't have much patience in dealing with a fractious man.
+#恐怕我没有多少耐心应付个脾气暴躁的男人。
+
+diehard:
+    a diehard conservative
+#顽固的保守主义者
+    Only a few diehards on the right of the party object to the proposed changes.
+#只有该党几个右翼的顽固分子反对所建议的改革。
+
+sanguine:
+    a sanguine disposition
+#乐天的性格
+    a sanguine complexion
+#红润的脸色
+    The hope placed on the general election may be too sanguine.
+#对大选所抱的希望也许过于乐观了。
+
+intricacy:
+    the intricacy of one's philosophic notions
+#某人哲学观念的错综复杂
+    the intricacies of the processes
+#过程的错综复杂
+    These mechanisms are very expensive to repair because of the intricacies of the work involved in making them.
+#这些机械装置维修起来很昂贵，因为其制造工艺复杂精细。
+
+untenable:
+    an untenable position
+#难以防守的阵地
+    an untenable argument
+#站不住脚的论据
+    If three people in four no longer support the government, then it is an untenable situation.
+#如果四人中有三人不再支持政府，那就是难以为继的局面。
+
+inexhaustible:
+    an inexhaustible supply
+#用之不竭的供应
+    an inexhaustible hiker
+#不知疲倦的远足者
+    Oil and coal will run out one day, but wind and water power are inexhaustible.
+#石油和煤有一天终将用完，但风力和水力是取之不尽的。
+
+supercilious:
+    a supercilious manner
+#傲慢的态度
+    He spoke in a haughty, supercilious voice.
+#他说话的口气轻蔑而傲慢。
+
+idiosyncracy:
+    innate idiosyncracy
+#内在特质
+    It's an idiosyncracy of hers that she always smells a book before opening it.
+#打开书之前先闻闻是她的癖好。
+
+florid:
+    a florid complexion
+#脸色红润
+    florid language
+#华丽的言辞
+    be florid with excitement
+#激动得满脸通红
+    Mr. Higgins was the florid-faced gentleman in the blue jacket.
+#希金斯先生是那位脸色红润、身着蓝色上衣的绅士。
+
+salutary:
+    a salutary reminder
+#有益的提醒
+    salutary advice
+#有益的忠告
+    sea breezes salutary to insomniacs
+#对失眠症患者有好处的海上微风
+    His experience offers a salutary lesson to other people.
+#他的经历为其他人提供了一个有益的教训。
+
+unfailing:
+    with unfailing energy
+#精力充沛地
+    an unfailing pleasure
+#无穷的乐趣
+    an unfailing friend
+#忠实的朋友
+    One of the good things about her is that you always rely on her unfailing enthusiasm.
+#她身上的良好品质之一是你永远可以相信她经久不衰的热心。
+
+veer:
+    veer round to the east
+#转向东
+    There was a sudden flash of light, making the driver veer sharply.
+#突然闪出的一道光使得司机猛地改变了方向。
+
+hedonist:
+    According to the hedonists, the most important thing in life is to enjoy yourself.
+#按照享乐主义者的观点，人生最重要的事就是享受自我。
+
+domineer:
+    A mother who domineers over her family is likely to lose her children's love.
+#对子女专横的母亲可能会失去孩子们的爱。
+
+terse:
+    a terse writer
+#行文简洁的作者
+    be terse in one's answer
+#回答简洁
+    In a terse statement yesterday, the company announced that it was closing three of its factories.
+#在昨天简短的声明中，公司宣布将关闭它的三个工厂。
+
+unpretentious:
+    a large but unpretentious house
+#大而简朴的房子
+    She has a quiet and unpretentious disposition.
+#她有着娴静质朴的性情。
+
+enthral:
+    be enthralled by a woman's beauty
+#被一个女人的美色迷住
+    The audience was enthralled by a sparkling dramatic performance.
+#观众被一个精彩的戏剧表演迷住了。
+
+vindictive:
+    vindictive act
+#报复行为
+    The lawyer was threatened by a vindictive former prisoner.
+#这位律师受到一个怀恨在心的出狱囚犯的威胁。
+
+detriment:
+    a detriment to one's studies
+#影响学业
+    The civil war caused great detriment to the nation's economy.
+#内战极大地损害了该国经济。
+
+consummate:
+    consummate a business deal
+#完成交易
+    consummate a desire
+#使愿望变成现实
+    consummate skill
+#完美的技艺
+    a consummate master of piano
+#钢琴大师
+    a consummate liar
+#撒谎大王
+    With her he would lead a life of consummate happiness.
+#有了她，他就会过上圆满的幸福生活。
+
+=======
+discernable:
+    no discernable difference
+#没有明显的区别
+    There is no discernable reason why this should be the case.
+#情况为何应该如此，看不出有任何理由。
+
+tempting:
+    a tempting offer
+#诱人的提议
+    an extremely tempting dish
+#令人垂涎的佳肴
+    The display of fresh fruit looked tempting.
+#新鲜水果摆放得很诱人。
+
+inadvertent:
+    an inadvertent remark
+#漫不经心的话
+    some inadvertent errors
+#一些因疏忽而造成的错误
+    All authors need to be wary of inadvertent plagiarism of other people's work.
+#所有的作者都要注意不要在无意中抄袭了他人的作品。
+
+shoal:
+    a shoal channel
+#浅航道
+    a shoal of tourists
+#大批游客
+    shoals of people
+#成群结队的人
+    a shoal of troubles
+#一大堆困难
+    get letters in shoals
+#收到大批大批信件
+    In the shallower water, we could see shoals of tiny fish darting about.
+#在水浅的地方，我们能看见一群群的小鱼儿游来游去。
+
+evanescent:
+    evanescent flowers
+#很快凋谢的花
+    the evanescent beauty of the sunset
+#日落景象的短暂的美
+    The evanescent postwar economic boom was quickly followed by a deep recession.
+#衰退紧随着短暂的战后经济繁荣而来。
+
+unwieldy:
+    the country's unwieldy banking system
+#该国无效率的银行系统
+    The problem with pushchairs is that they're so unwieldy to take on public transport.
+#幼儿推车存在的问题是在上公共交通工具时不太灵便。
+
+decimate:
+    If the disease spreads it will decimate the cattle herds in this country.
+#若疾病蔓延开来，将导致这个国家的牛群大量死亡。
+
+commensurate:
+    The salary will be commensurate with age, experience and position.
+#薪水将和年龄、经验和职位相当。
+
+insider:
+    insider dealing/trading
+#内部交易
+    According to insiders, the committee is having difficulty making up its mind.
+#据知情人士称，委员会很难做出决定。
+
+bastion:
+    the last bastion of conservatism
+#保守派的最后堡垒
+    The club regarded itself as one of the last bastions of male supremacy.
+#这家俱乐部自称是持大男子主义的最后堡垒之一。
+
+flaunt:
+    flaunt himself at every opportunity
+#有机会就炫耀自己
+    flaunt one's wealth
+#炫富
+    One secret he learned very early was not to flaunt his success.
+#他很早就领悟到的秘诀便是不夸耀自己的成功。
+
+blithe:
+    blithe unconcern
+#漠不关心
+    a blithe indifference to other's feelings
+#毫不考虑别人的感情
+    I often think of those blithe summer days when I was young.
+#我时常想起年轻时那些快乐的夏日。
+
+spurious:
+    spurious coins
+#伪币
+    Some of the arguments in favor of shutting the factory are downright spurious.
+#有些赞同关闭工厂的言论具有明显的欺骗性。
+
+prodigal:
+    be prodigal of forests
+#浪费森林资源
+    be prodigal with money
+#挥霍金钱
+    be prodigal with praise
+#赞不绝口
+    a mind prodigal of ideas
+#足智多谋
+    the return of the prodigal
+#浪子的回头
+    play the prodigal
+#挥霍，浪荡
+    There have been rumors that he has been prodigal with company funds.
+#有谣言说他挥霍公司的资金。
+
+unwitting:
+    be unwitting of danger
+#不知道有危险
+    an unwitting mistake
+#无心之失
+    His insult, though unwitting, pained her.
+#他的侮辱，尽管不是出于故意，却使她很痛苦
+
+sedative:
+    have sedative properties
+#具有镇静特效
+    This drug has a sedative effect and should not be taken when driving.
+#这种药有镇静作用，开车时不应服用。
+
+ulterior:
+    an ulterior region
+#较远的地区
+    He assured us that there was no ulterior motive in his suggestion.
+#他向我们保证，他的建议没有不可告人的动机
+
+audacious:
+    an audacious warrior
+#无畏的战士
+    an audacious vision of the future
+#对未来的大胆幻想
+    He was known for risky tactics that ranged from audacious to outrageous.
+#他以大胆甚至是骇人听闻的冒险战术而闻名。
+
+monolith:
+    The statue is carved out of a monolith.
+#这座雕像由一块独块巨石雕刻而成。
+
+antiseptic:
+    antiseptic gauze
+#无菌纱布
+    antiseptic treatment
+#防腐处理
+    an antiseptic mind
+#一尘不染的天真头脑
+    an air of antiseptic cleanliness
+#过分讲究的洁净气氛
+    In the 1870s and 1880s, doctors began to follow the principles of antiseptic surgery.
+#自十九世纪七八十年代起，医生们开始遵循无菌外科手术的原则。
+
+inflamed:
+    inflamed eyes
+#红肿的眼睛
+    inflamed hands
+#红肿的手
+
+disjunctive:
+    a disjunctive narrative sequence
+#不连续的叙述顺序
+
+fractious:
+    a fractious horse
+#难驾驭的马
+    a fractious crew
+#一船不听指挥的水手
+    I'm afraid I don't have much patience in dealing with a fractious man.
+#恐怕我没有多少耐心应付个脾气暴躁的男人。
+
+diehard:
+    a diehard conservative
+#顽固的保守主义者
+    Only a few diehards on the right of the party object to the proposed changes.
+#只有该党几个右翼的顽固分子反对所建议的改革。
+
+sanguine:
+    a sanguine disposition
+#乐天的性格
+    a sanguine complexion
+#红润的脸色
+    The hope placed on the general election may be too sanguine.
+#对大选所抱的希望也许过于乐观了。
+
+intricacy:
+    the intricacy of one's philosophic notions
+#某人哲学观念的错综复杂
+    the intricacies of the processes
+#过程的错综复杂
+    These mechanisms are very expensive to repair because of the intricacies of the work involved in making them.
+#这些机械装置维修起来很昂贵，因为其制造工艺复杂精细。
+
+untenable:
+    an untenable position
+#难以防守的阵地
+    an untenable argument
+#站不住脚的论据
+    If three people in four no longer support the government, then it is an untenable situation.
+#如果四人中有三人不再支持政府，那就是难以为继的局面。
+
+inexhaustible:
+    an inexhaustible supply
+#用之不竭的供应
+    an inexhaustible hiker
+#不知疲倦的远足者
+    Oil and coal will run out one day, but wind and water power are inexhaustible.
+#石油和煤有一天终将用完，但风力和水力是取之不尽的。
+
+supercilious:
+    a supercilious manner
+#傲慢的态度
+    He spoke in a haughty, supercilious voice.
+#他说话的口气轻蔑而傲慢。
+
+idiosyncracy:
+    innate idiosyncracy
+#内在特质
+    It's an idiosyncracy of hers that she always smells a book before opening it.
+#打开书之前先闻闻是她的癖好。
+
+florid:
+    a florid complexion
+#脸色红润
+    florid language
+#华丽的言辞
+    be florid with excitement
+#激动得满脸通红
+    Mr. Higgins was the florid-faced gentleman in the blue jacket.
+#希金斯先生是那位脸色红润、身着蓝色上衣的绅士。
+
+salutary:
+    a salutary reminder
+#有益的提醒
+    salutary advice
+#有益的忠告
+    sea breezes salutary to insomniacs
+#对失眠症患者有好处的海上微风
+    His experience offers a salutary lesson to other people.
+#他的经历为其他人提供了一个有益的教训。
+
+unfailing:
+    with unfailing energy
+#精力充沛地
+    an unfailing pleasure
+#无穷的乐趣
+    an unfailing friend
+#忠实的朋友
+    One of the good things about her is that you always rely on her unfailing enthusiasm.
+#她身上的良好品质之一是你永远可以相信她经久不衰的热心。
+
+veer:
+    veer round to the east
+#转向东
+    There was a sudden flash of light, making the driver veer sharply.
+#突然闪出的一道光使得司机猛地改变了方向。
+
+hedonist:
+    According to the hedonists, the most important thing in life is to enjoy yourself.
+#按照享乐主义者的观点，人生最重要的事就是享受自我。
+
+domineer:
+    A mother who domineers over her family is likely to lose her children's love.
+#对子女专横的母亲可能会失去孩子们的爱。
+
+terse:
+    a terse writer
+#行文简洁的作者
+    be terse in one's answer
+#回答简洁
+    In a terse statement yesterday, the company announced that it was closing three of its factories.
+#在昨天简短的声明中，公司宣布将关闭它的三个工厂。
+
+unpretentious:
+    a large but unpretentious house
+#大而简朴的房子
+    She has a quiet and unpretentious disposition.
+#她有着娴静质朴的性情。
+
+enthral:
+    be enthralled by a woman's beauty
+#被一个女人的美色迷住
+    The audience was enthralled by a sparkling dramatic performance.
+#观众被一个精彩的戏剧表演迷住了。
+
+vindictive:
+    vindictive act
+#报复行为
+    The lawyer was threatened by a vindictive former prisoner.
+#这位律师受到一个怀恨在心的出狱囚犯的威胁。
+
+detriment:
+    a detriment to one's studies
+#影响学业
+    The civil war caused great detriment to the nation's economy.
+#内战极大地损害了该国经济。
+
+consummate:
+    consummate a business deal
+#完成交易
+    consummate a desire
+#使愿望变成现实
+    consummate skill
+#完美的技艺
+    a consummate master of piano
+#钢琴大师
+    a consummate liar
+#撒谎大王
+    With her he would lead a life of consummate happiness.
+#有了她，他就会过上圆满的幸福生活。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

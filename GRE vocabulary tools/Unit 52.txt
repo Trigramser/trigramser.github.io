@@ -1,0 +1,781 @@
+<<<<<<< HEAD
+untamed: 英[ˌʌnˈteɪmd] 美[ˌʌnˈteɪmd]
+%adj. （土地）未开发的，原生态的；未驯服的
+    an untamed look
+#粗野的样子
+    untamed passions
+#奔放的热情
+    Nature is still untamed in this magnificent region.
+#在这片广大的地区，大自然依然未得到开发。
+
+mortify: 英[ˈmɔːtɪfaɪ] 美[ˈmɔːrtɪfaɪ]
+$vt. 抑制；苦修；使…受辱
+%vi. 禁欲；苦行；约束；腐坏
+    He mortified his parents by his bad behavior.
+#他的不端行为使父母丢脸。
+
+contentious: 英[kənˈtenʃəs] 美[kənˈtenʃəs]
+%adj. 有争议的，引起争论的；爱争论的，好争吵的
+    a contentious problem/issue
+#有争议的问题
+    a man of a most contentious nature
+#生性极为好斗的人
+    He has some rather contentious views on education.
+#他对教育持有一些颇有争议的看法。
+
+flexible: 英[ˈfleksəb(ə)l] 美[ˈfleksəb(ə)l]
+%adj. 灵活的；柔韧的，易弯曲的
+    a flexible substance
+#有弹性的物质
+    a flexible schedule
+#可变通的日程表
+    flexible working hours
+#弹性的工作时间
+    Dancers need to be flexible.
+#舞蹈演员需要身体柔韧。
+
+deliberation: 英[dɪˌlɪbəˈreɪʃ(ə)n] 美[dɪˌlɪbəˈreɪʃ(ə)n]
+%n. 考虑，思考；从容，审慎；审议，商议；考虑，细想
+    speak with deliberation
+#字斟句酌地讲话
+    After much deliberation, she decided to accept their offer.
+#经慎重考虑，她决定接受他们的开价。
+
+reciprocation: 英[rɪˌsɪprəˈkeɪʃ(ə)n] 美[rɪˌsɪprəˈkeɪʃ(ə)n]
+%n. 交换；往复运动；报答
+    She had loved him almost all her life without reciprocation.
+#她爱了他近一辈子而未得到回报。
+
+billion: 英[ˈbɪljən] 美[ˈbɪljən]
+$num. 十亿；<旧>万亿
+%n. 十亿；亿万，大量（billions）
+    World sales reached one billion -- the profits are huge.
+#全球销售额达到了10亿——利润特别高。
+
+surmise: 英[səˈmaɪz] 美[sərˈmaɪz]
+$vt. 猜测；推测
+$vi. 猜测；认为
+%n. 推测；猜度
+    just wild surmise and innuendo
+#纯粹的猜测和影射
+    surmise one's thoughts
+#揣度某人的想法
+    As I surmised, he had not been telling the truth.
+#正像我猜测的，他没有讲真话。
+
+coloration: 英[ˌkʌləˈreɪʃ(ə)n] 美[ˌkʌləˈreɪʃ(ə)n]
+%n. （植物或动物的）自然色彩，自然花纹；着色法，染色法；普遍特性；染色效应；音调（或音质）的变化；（某种）特征，品质；表明（某种）态度的一面
+    camouflaged coloration
+#伪装色
+    a rock of strange coloration
+#颜色奇特的岩石
+    Many species of insect have bright coloration.
+#许多种类的昆虫带有鲜艳的颜色。
+
+distant: 英[ˈdɪstənt] 美[ˈdɪstənt]
+%adj. 遥远的，久远的；冷淡的；心不在焉的；远亲的；不相似的，不同的
+    a distant country
+#遥远的国家
+    a distant event
+#久远的事
+    a distant relative
+#远亲
+    distant politeness
+#冷漠的拘泥态度
+    distant leaves
+#稀疏的树叶
+    At the reunion she recognized one or two faces from the dim and distant past.
+#重逢时，她认出两张面孔，是在记忆模糊的遥远的过去见过的。
+
+terrorize: 英[ˈterəraɪz] 美[ˈterəraɪz]
+%vt. 使…恐怖；实施恐怖统治；恐吓
+    He was terrorized by numerous death threats.
+#他多次受到死亡威胁的恐吓。
+
+intentional: 英[ɪnˈtenʃən(ə)l] 美[ɪnˈtenʃən(ə)l]
+%adj. 故意的，蓄意的
+    Did you leave his name out by accident or was it intentional?
+#你漏掉了他的名字，是无心还是有意的？
+
+profuse: 英[prəˈfjuːs] 美[prəˈfjuːs]
+%adj. 丰富的；很多的；慷慨的；浪费的
+    a profuse spender
+#花钱大手大脚的人
+    be profuse of one's money
+#乱花钱
+    make a profuse show of colorful flowers
+#展出大量色彩缤纷的花卉
+    profuse sweat
+#大汗淋漓
+    The company accepted blame and sent us profuse apologies.
+#这家公司接受了指责，向我们一再道款
+
+skew: 英[skjuː] 美[skjuː]
+$v. 偏离，歪斜；歪曲，使有误差；使曲解，使存有偏见；（统计）使（分布）偏态，使不匀称；斜视
+$adj. 歪斜的；（数）异面的，（曲线）不在一个平面的；（统计）偏态的
+%n. 斜角，倾斜；（对特定人或对象的）偏见；（统计）偏态，偏斜性
+    a skewed stone
+#一块歪斜的石头
+    wear one's hat on the skew
+#歪戴帽子
+    I think that picture is skew.
+#我想那幅画挂歪了。
+
+pliant: 英[ˈplaɪənt] 美[ˈplaɪənt]
+$adj. 顺从的；易弯的；易受影响的；能适应的
+%n. 顺从
+    a pliant public
+#易受影响的公众
+    pliant leather
+#柔韧的皮革
+    a pliant nature
+#柔顺的性格
+    The management has now adopted a more pliant position, and agreed to listen to the staffs requests.
+#管理部门现在采取了灵活的立场，并同意听取员工的要求。
+
+virtuoso: 英[ˌvɜːtʃuˈəʊsəʊ] 美[ˌvɜːrtʃuˈoʊsoʊ]
+$n. （尤指演奏乐器的）能手，大家
+%adj. 熟练的
+    a virtuoso of politics
+#政坛老手
+    Famous mainly for his wonderful voice, he was also a virtuoso on/at the piano.
+#他主要因他的优美嗓音而闻名，同时还是位钢琴大师。
+
+antiquated: 英[ˈæntɪkweɪtɪd] 美[ˈæntɪkweɪtɪd]
+$adj. 过时的；陈旧的；年老的
+%v. 使古旧；废弃（antiquate 的过去分词）
+    antiquated ideas
+#陈旧的观念
+    notoriously antiquated customs
+#众所周知的陈腐习俗
+    It will take many years to modernize these antiquated industries.
+#要使这些陈旧的行业现代化，得花许多年。
+
+tenable: 英[ˈtenəb(ə)l] 美[ˈtenəb(ə)l]
+%adj. （主张等）站得住脚的；可维持的
+    a scholarship tenable for four years
+#为期4年的奖学金
+    His theory is no longer tenable now that new facts have appeared.
+#现在出现了新情况，他的说法站不住脚了。
+
+solicitude: 英[səˈlɪsɪtjuːd] 美[səˈlɪsɪtuːd]
+%n. 牵挂，关怀
+    the tender solicitude of a parent
+#父亲/母亲的温柔关怀
+    care for the patient with great solicitude
+#以极大的关怀照顾病人
+    I was moved by the doctor's genuine kindness and solicitude.
+#医生的真诚仁爱和关怀使我感动。
+
+ill-will: 英[ˌɪl ˈwɪl] 美[ˌɪl ˈwɪl]
+%n. 敌意；憎恶
+    have no ill-will against sb.
+#不恨某人
+    invite sb.'s ill-will
+#招致某人的愤恨
+    provoke ill-will against sb.
+#挑起对某人的仇恨
+    He bears you no ill-will.
+#他对你没有敌意。
+
+cast: 英[kɑːst] 美[kæst]
+$vt. 投射（光，影）；将（视线，目光）投向；浇铸（金属等）；分配角色，选派角色；扔，掷，抛；把某人描写成，把某人表现为；投票；使产生怀疑，不确信；使（魔咒）生效，施法；抛（钓丝），撒（网）；（生长过程中）蜕（皮），脱（角）；（马）失（蹄铁）；用（星相）占卜；抛锚，放测；安排，表现；（乡村舞蹈中的）转向（舞者沿外线移动位置）；（猎）（狗）四处探寻失踪的嗅迹；用绳子绊倒（动物，尤指母牛）
+%n. （电影、戏剧等的）全体演员；铸型，模型；（固定断骨用的）石膏； 特性，外貌；轻度斜视；（蚯蚓钻洞时拱到地面的）小土堆；抛鱼线，撒网；浅淡的色调；（鹰或猫头鹰的）颗粒状呕吐物；<澳新>（牧羊犬赶拢羊群时的）四周搜寻；<罕>一群鹰，隼
+    cast a fishing lure
+#投鱼饵
+    cast an anchor
+#抛锚
+    cast a vote
+#投票
+    cast a glance/look on/over/at
+#向……瞧一瞧
+    The tree cast its shadow on the window.
+#树影投在窗户上。
+
+obsess: 英[əbˈses] 美[əbˈses]
+%v. 使着迷；使心神不宁；挂牵，念念不忘
+    be obsessed by money
+#财迷心窍
+    He was obsessed with a craving for materialistic gratification.
+#他一心追求物质享受。
+
+obsession: 英[əbˈseʃ(ə)n] 美[əbˈseʃn]
+%n. 痴迷，困扰；令人着迷的人（或事物）
+    In therapy, she began to let go of her obsession with Mike.
+#在心理治疗中，她开始逐渐放下对麦克的痴迷。
+
+gouge: 英[ɡaʊdʒ] 美[ɡaʊdʒ]
+$vt. 用半圆凿子挖；欺骗
+$n. 沟；圆凿；以圆凿刨
+%n. （Gouge）人名；（英）古奇；（法）古热
+    gouge out a cork
+#凿成一个软木塞
+    doctors gouging on patients
+#敲病人竹杠的医生
+    He drove into railings and gouged a hole in the back of his car.
+#他开车撞人栏杆，在车子后面撞出一个洞。
+
+jocular: 英[ˈdʒɒkjələ(r)] 美[ˈdʒɑːkjələr]
+%adj. 爱开玩笑的；打趣的；滑稽的
+    say in a jocular fashion
+#以打趣的方式说
+    He is a jocular man, especially around women.
+#他好开玩笑，特别是当着女人的面。
+
+coterie: 英[ˈkəʊtəri] 美[ˈkoʊtəri]
+%n. 圈内人；小集团；伙伴；同志
+    a small coterie of wealthy family
+#富家小圈子
+    a coterie of publishers
+#一帮出版商
+    It's always the same coterie who go/goes to Jean's parties.
+#参加琼的晚会的一直是同一圈子里的人。
+
+burdensome: 英[ˈbɜːd(ə)nsəm] 美[ˈbɜːd(ə)nsəm]
+%adj. 负担沉重的，繁重的
+    a burdensome load
+#沉重的担子
+    burdensome taxes
+#苛税
+    The extra tasks will be too burdensome for us.
+#额外的任务对我们来说会很麻烦。
+
+apropos: 英[ˌæprəˈpəʊ] 美[ˌæprəˈpoʊ]
+$adj. 恰好的；适当的
+$adv. 恰好地；适当地；恰当地
+%prep. 关于
+    speak very apropos
+#讲得很恰当
+    a remark not apropos for the occasion
+#不合时宜的话
+    apropos of
+#关于
+    I thought his remarks about his father were hardly apropos.
+#我觉得他说的那些关于他父亲的话是不恰当的。
+
+taxing: 英[ˈtæksɪŋ] 美[ˈtæksɪŋ]
+$adj. 费力的；繁重的
+%v. 征税（tax 的 ing 形式）
+    He looked forward to retirement as a release from dull and taxing jobs.
+#他盼望着退休以摆脱枯燥而繁重的工作。
+
+perfidious: 英[pəˈfɪdiəs] 美[pərˈfɪdiəs]
+%adj. 背信弃义的；不忠的
+    a perfidious lover
+#负心的情人
+    a perfidious act
+#背信弃义之举
+    She described the new rule as a perfidious attack on principles.
+#她把新规章描述成违背原则。
+
+eviscerate: 英[ɪˈvɪsəreɪt] 美[ɪˈvɪsəreɪt]
+$vt. 取出内脏；除去精华
+$vi. 内脏凸出
+%adj. 内脏被取出的
+    eviscerate a pig
+#挖出猪的内脏
+    The hearts of many old towns have been eviscerated and replaced with anonymous shopping centers.
+#许多老城镇的中心被铲除干净之后，代之以千篇一律的购物中心。
+
+compelling: 英[kəmˈpelɪŋ] 美[kəmˈpelɪŋ]
+$adj. 令人信服的，有说服力的；引人入胜的，扣人心弦的；非常强烈的，不可抗拒的
+%v. 强迫，迫使；使发生，促使（compel 的现在分词形式）
+    a compelling novel
+#引人入胜的小说
+    a compelling reason
+#令人信服的理由
+    He remains a compelling figure in politics.
+#他在政坛上仍是一个引人注目的人物。
+
+exalted: 英[ɪɡˈzɔːltɪd] 美[ɪɡˈzɔːltɪd]
+$adj. 高尚的；尊贵的；兴奋的
+%v. 高举；赞扬；使激动（exalt 的过去分词）
+    an exalted literary style
+#高雅的文笔
+    take no exalted view of the situation
+#对局势不抱太乐观的看法
+    an exalted mood
+#兴奋的心情
+    We were absolutely exalted when we learned of your success.
+#我们得知你的成功的消息兴奋极了。
+
+exhale: 英[eksˈheɪl] 美[eksˈheɪl]
+%v. 呼（气），呼出；散发出（蒸气，烟雾）
+    exhale carbon dioxide from the lungs
+#从肺里呼出二氧化碳
+    exhale a sigh
+#发出一声叹息
+    Exhale a delicate fragrance
+#散发出一种美妙的香味
+    This machine records the ratios of various gases exhaled during exercise.
+#这台机器记录运动过程中呼出的不同气体的比率。
+
+munificence: 英[mjuːˈnɪfɪs(ə)ns] 美[mjuːˈnɪfɪs(ə)ns]
+%n. 慷慨给与；宽宏大量
+    I thanked him for his munificence.
+#我感谢他的慷慨。
+
+recapitulate: 英[ˌriːkəˈpɪtʃuleɪt] 美[ˌriːkəˈpɪtʃuleɪt]
+$vi. 概括；重述要点；摘要
+%vt. 概括；重述要点；摘要
+    He recapitulated his speech for the benefit of late comers.
+#考虑到迟到者，他简要重述了他的讲话。
+
+eulogistic: 英[ˌjuːləˈdʒɪstɪk] 美[ˌjuːləˈdʒɪstɪk]
+%adj. 颂扬的；歌功颂德的
+    eulogistic words
+#赞美的话
+
+iconoclastic: 英[aɪˌkɒnəˈklæstɪk] 美[aɪˌkɑːnəˈklæstɪk]
+%adj. 打破旧习的；偶像破坏的
+    Jack is an irreverent, iconoclastic figure who refuses to conform.
+#杰克是个无礼的、反偶像崇拜的、拒绝循规蹈矩的人。
+
+hilarity: 英[hɪˈlærəti] 美[hɪˈlærəti]
+%n. 欢喜；高兴；欢闹
+    He came to the party dressed in a yellow suit and pink bow tie, which caused great hilarity among the other guests.
+#他穿着一套黄色的衣服，戴着粉红色领结来到了聚会，这身打扮引起了其他客人的哄笑。
+
+impermissible: 英[ˌɪmpɜːˈmɪsəb(ə)l] 美[ˌɪmpɜːrˈmɪsəb(ə)l]
+%adj. 不允许的，不许可的
+    There are certain topics of conversation that are impermissible in polite society.
+#有一些交谈的话题在上流社会中是不被允许的。
+
+misapprehension: 英[ˌmɪsæprɪˈhenʃn] 美[ˌmɪsæprɪˈhenʃ(ə)n]
+%n. 误解；误会
+    He slowly spelled out each word to ensure there were no mistakes or misapprehensions.
+#他慢慢地说出每一个字以保证没有错误和误解。
+
+prescient: 英[ˈpresiənt] 美[ˈpreʃ(ə)nt]
+%adj. 预知的；有先见之明的
+    the prescient comments about the danger of lead
+#对铅的危险性的预知
+    a prescient film
+#预知未来的影片
+
+short-range: 英[ˌʃɔːt ˈreɪndʒ] 美[ˌʃɔːrt ˈreɪndʒ]
+%adj. 短射程的；短期间的
+    a short-range missile
+#近程导弹
+    a short-range plan
+#近期计划
+    a short-range forecast
+#近期天气预报
+
+imperturbable: 英[ˌɪmpəˈtɜːbəb(ə)l] 美[ˌɪmpərˈtɜːrbəb(ə)l]
+%adj. 冷静的；泰然自若的
+    As a nurse she was ideal -- calmly competent and imperturbable in a crisis.
+#她当护士是很理想的——在紧急时刻镇静沉着，非常胜任。
+
+eventual: 英[ɪˈventʃuəl] 美[ɪˈventʃuəl]
+%adj. 最终的，结局的；<古>有条件的
+    There are still many problems to be resolved, but we remain optimistic about an eventual agreement.
+#我们还有很多问题要解决，但我们对最终达成协议保持乐观态度。
+
+cacophonous: 英[kəˈkɒfənəs] 美[kəˈkɑːfənəs]
+%adj. 粗腔横调的；发音不和谐的
+    They form quite a cacophonous minority in Congress.
+#他们在国会里构成一个唱反调的少数派。
+
+artless: 英[ˈɑːtləs] 美[ˈɑːrtləs]
+%adj. 天真的；朴实的；无虚饰的
+    artless child
+#直率的孩子
+    artless eloquence
+#朴实的辩才
+    an artless translation
+#拙劣的翻译
+    She's an artless young woman who would never dream of trying to mislead anyone.
+#她是个单纯的年轻女子，从未想过要去误导任何人。
+
+=======
+untamed: 英[ˌʌnˈteɪmd] 美[ˌʌnˈteɪmd]
+%adj. （土地）未开发的，原生态的；未驯服的
+    an untamed look
+#粗野的样子
+    untamed passions
+#奔放的热情
+    Nature is still untamed in this magnificent region.
+#在这片广大的地区，大自然依然未得到开发。
+
+mortify: 英[ˈmɔːtɪfaɪ] 美[ˈmɔːrtɪfaɪ]
+$vt. 抑制；苦修；使…受辱
+%vi. 禁欲；苦行；约束；腐坏
+    He mortified his parents by his bad behavior.
+#他的不端行为使父母丢脸。
+
+contentious: 英[kənˈtenʃəs] 美[kənˈtenʃəs]
+%adj. 有争议的，引起争论的；爱争论的，好争吵的
+    a contentious problem/issue
+#有争议的问题
+    a man of a most contentious nature
+#生性极为好斗的人
+    He has some rather contentious views on education.
+#他对教育持有一些颇有争议的看法。
+
+flexible: 英[ˈfleksəb(ə)l] 美[ˈfleksəb(ə)l]
+%adj. 灵活的；柔韧的，易弯曲的
+    a flexible substance
+#有弹性的物质
+    a flexible schedule
+#可变通的日程表
+    flexible working hours
+#弹性的工作时间
+    Dancers need to be flexible.
+#舞蹈演员需要身体柔韧。
+
+deliberation: 英[dɪˌlɪbəˈreɪʃ(ə)n] 美[dɪˌlɪbəˈreɪʃ(ə)n]
+%n. 考虑，思考；从容，审慎；审议，商议；考虑，细想
+    speak with deliberation
+#字斟句酌地讲话
+    After much deliberation, she decided to accept their offer.
+#经慎重考虑，她决定接受他们的开价。
+
+reciprocation: 英[rɪˌsɪprəˈkeɪʃ(ə)n] 美[rɪˌsɪprəˈkeɪʃ(ə)n]
+%n. 交换；往复运动；报答
+    She had loved him almost all her life without reciprocation.
+#她爱了他近一辈子而未得到回报。
+
+billion: 英[ˈbɪljən] 美[ˈbɪljən]
+$num. 十亿；<旧>万亿
+%n. 十亿；亿万，大量（billions）
+    World sales reached one billion -- the profits are huge.
+#全球销售额达到了10亿——利润特别高。
+
+surmise: 英[səˈmaɪz] 美[sərˈmaɪz]
+$vt. 猜测；推测
+$vi. 猜测；认为
+%n. 推测；猜度
+    just wild surmise and innuendo
+#纯粹的猜测和影射
+    surmise one's thoughts
+#揣度某人的想法
+    As I surmised, he had not been telling the truth.
+#正像我猜测的，他没有讲真话。
+
+coloration: 英[ˌkʌləˈreɪʃ(ə)n] 美[ˌkʌləˈreɪʃ(ə)n]
+%n. （植物或动物的）自然色彩，自然花纹；着色法，染色法；普遍特性；染色效应；音调（或音质）的变化；（某种）特征，品质；表明（某种）态度的一面
+    camouflaged coloration
+#伪装色
+    a rock of strange coloration
+#颜色奇特的岩石
+    Many species of insect have bright coloration.
+#许多种类的昆虫带有鲜艳的颜色。
+
+distant: 英[ˈdɪstənt] 美[ˈdɪstənt]
+%adj. 遥远的，久远的；冷淡的；心不在焉的；远亲的；不相似的，不同的
+    a distant country
+#遥远的国家
+    a distant event
+#久远的事
+    a distant relative
+#远亲
+    distant politeness
+#冷漠的拘泥态度
+    distant leaves
+#稀疏的树叶
+    At the reunion she recognized one or two faces from the dim and distant past.
+#重逢时，她认出两张面孔，是在记忆模糊的遥远的过去见过的。
+
+terrorize: 英[ˈterəraɪz] 美[ˈterəraɪz]
+%vt. 使…恐怖；实施恐怖统治；恐吓
+    He was terrorized by numerous death threats.
+#他多次受到死亡威胁的恐吓。
+
+intentional: 英[ɪnˈtenʃən(ə)l] 美[ɪnˈtenʃən(ə)l]
+%adj. 故意的，蓄意的
+    Did you leave his name out by accident or was it intentional?
+#你漏掉了他的名字，是无心还是有意的？
+
+profuse: 英[prəˈfjuːs] 美[prəˈfjuːs]
+%adj. 丰富的；很多的；慷慨的；浪费的
+    a profuse spender
+#花钱大手大脚的人
+    be profuse of one's money
+#乱花钱
+    make a profuse show of colorful flowers
+#展出大量色彩缤纷的花卉
+    profuse sweat
+#大汗淋漓
+    The company accepted blame and sent us profuse apologies.
+#这家公司接受了指责，向我们一再道款
+
+skew: 英[skjuː] 美[skjuː]
+$v. 偏离，歪斜；歪曲，使有误差；使曲解，使存有偏见；（统计）使（分布）偏态，使不匀称；斜视
+$adj. 歪斜的；（数）异面的，（曲线）不在一个平面的；（统计）偏态的
+%n. 斜角，倾斜；（对特定人或对象的）偏见；（统计）偏态，偏斜性
+    a skewed stone
+#一块歪斜的石头
+    wear one's hat on the skew
+#歪戴帽子
+    I think that picture is skew.
+#我想那幅画挂歪了。
+
+pliant: 英[ˈplaɪənt] 美[ˈplaɪənt]
+$adj. 顺从的；易弯的；易受影响的；能适应的
+%n. 顺从
+    a pliant public
+#易受影响的公众
+    pliant leather
+#柔韧的皮革
+    a pliant nature
+#柔顺的性格
+    The management has now adopted a more pliant position, and agreed to listen to the staffs requests.
+#管理部门现在采取了灵活的立场，并同意听取员工的要求。
+
+virtuoso: 英[ˌvɜːtʃuˈəʊsəʊ] 美[ˌvɜːrtʃuˈoʊsoʊ]
+$n. （尤指演奏乐器的）能手，大家
+%adj. 熟练的
+    a virtuoso of politics
+#政坛老手
+    Famous mainly for his wonderful voice, he was also a virtuoso on/at the piano.
+#他主要因他的优美嗓音而闻名，同时还是位钢琴大师。
+
+antiquated: 英[ˈæntɪkweɪtɪd] 美[ˈæntɪkweɪtɪd]
+$adj. 过时的；陈旧的；年老的
+%v. 使古旧；废弃（antiquate 的过去分词）
+    antiquated ideas
+#陈旧的观念
+    notoriously antiquated customs
+#众所周知的陈腐习俗
+    It will take many years to modernize these antiquated industries.
+#要使这些陈旧的行业现代化，得花许多年。
+
+tenable: 英[ˈtenəb(ə)l] 美[ˈtenəb(ə)l]
+%adj. （主张等）站得住脚的；可维持的
+    a scholarship tenable for four years
+#为期4年的奖学金
+    His theory is no longer tenable now that new facts have appeared.
+#现在出现了新情况，他的说法站不住脚了。
+
+solicitude: 英[səˈlɪsɪtjuːd] 美[səˈlɪsɪtuːd]
+%n. 牵挂，关怀
+    the tender solicitude of a parent
+#父亲/母亲的温柔关怀
+    care for the patient with great solicitude
+#以极大的关怀照顾病人
+    I was moved by the doctor's genuine kindness and solicitude.
+#医生的真诚仁爱和关怀使我感动。
+
+ill-will: 英[ˌɪl ˈwɪl] 美[ˌɪl ˈwɪl]
+%n. 敌意；憎恶
+    have no ill-will against sb.
+#不恨某人
+    invite sb.'s ill-will
+#招致某人的愤恨
+    provoke ill-will against sb.
+#挑起对某人的仇恨
+    He bears you no ill-will.
+#他对你没有敌意。
+
+cast: 英[kɑːst] 美[kæst]
+$vt. 投射（光，影）；将（视线，目光）投向；浇铸（金属等）；分配角色，选派角色；扔，掷，抛；把某人描写成，把某人表现为；投票；使产生怀疑，不确信；使（魔咒）生效，施法；抛（钓丝），撒（网）；（生长过程中）蜕（皮），脱（角）；（马）失（蹄铁）；用（星相）占卜；抛锚，放测；安排，表现；（乡村舞蹈中的）转向（舞者沿外线移动位置）；（猎）（狗）四处探寻失踪的嗅迹；用绳子绊倒（动物，尤指母牛）
+%n. （电影、戏剧等的）全体演员；铸型，模型；（固定断骨用的）石膏； 特性，外貌；轻度斜视；（蚯蚓钻洞时拱到地面的）小土堆；抛鱼线，撒网；浅淡的色调；（鹰或猫头鹰的）颗粒状呕吐物；<澳新>（牧羊犬赶拢羊群时的）四周搜寻；<罕>一群鹰，隼
+    cast a fishing lure
+#投鱼饵
+    cast an anchor
+#抛锚
+    cast a vote
+#投票
+    cast a glance/look on/over/at
+#向……瞧一瞧
+    The tree cast its shadow on the window.
+#树影投在窗户上。
+
+obsess: 英[əbˈses] 美[əbˈses]
+%v. 使着迷；使心神不宁；挂牵，念念不忘
+    be obsessed by money
+#财迷心窍
+    He was obsessed with a craving for materialistic gratification.
+#他一心追求物质享受。
+
+obsession: 英[əbˈseʃ(ə)n] 美[əbˈseʃn]
+%n. 痴迷，困扰；令人着迷的人（或事物）
+    In therapy, she began to let go of her obsession with Mike.
+#在心理治疗中，她开始逐渐放下对麦克的痴迷。
+
+gouge: 英[ɡaʊdʒ] 美[ɡaʊdʒ]
+$vt. 用半圆凿子挖；欺骗
+$n. 沟；圆凿；以圆凿刨
+%n. （Gouge）人名；（英）古奇；（法）古热
+    gouge out a cork
+#凿成一个软木塞
+    doctors gouging on patients
+#敲病人竹杠的医生
+    He drove into railings and gouged a hole in the back of his car.
+#他开车撞人栏杆，在车子后面撞出一个洞。
+
+jocular: 英[ˈdʒɒkjələ(r)] 美[ˈdʒɑːkjələr]
+%adj. 爱开玩笑的；打趣的；滑稽的
+    say in a jocular fashion
+#以打趣的方式说
+    He is a jocular man, especially around women.
+#他好开玩笑，特别是当着女人的面。
+
+coterie: 英[ˈkəʊtəri] 美[ˈkoʊtəri]
+%n. 圈内人；小集团；伙伴；同志
+    a small coterie of wealthy family
+#富家小圈子
+    a coterie of publishers
+#一帮出版商
+    It's always the same coterie who go/goes to Jean's parties.
+#参加琼的晚会的一直是同一圈子里的人。
+
+burdensome: 英[ˈbɜːd(ə)nsəm] 美[ˈbɜːd(ə)nsəm]
+%adj. 负担沉重的，繁重的
+    a burdensome load
+#沉重的担子
+    burdensome taxes
+#苛税
+    The extra tasks will be too burdensome for us.
+#额外的任务对我们来说会很麻烦。
+
+apropos: 英[ˌæprəˈpəʊ] 美[ˌæprəˈpoʊ]
+$adj. 恰好的；适当的
+$adv. 恰好地；适当地；恰当地
+%prep. 关于
+    speak very apropos
+#讲得很恰当
+    a remark not apropos for the occasion
+#不合时宜的话
+    apropos of
+#关于
+    I thought his remarks about his father were hardly apropos.
+#我觉得他说的那些关于他父亲的话是不恰当的。
+
+taxing: 英[ˈtæksɪŋ] 美[ˈtæksɪŋ]
+$adj. 费力的；繁重的
+%v. 征税（tax 的 ing 形式）
+    He looked forward to retirement as a release from dull and taxing jobs.
+#他盼望着退休以摆脱枯燥而繁重的工作。
+
+perfidious: 英[pəˈfɪdiəs] 美[pərˈfɪdiəs]
+%adj. 背信弃义的；不忠的
+    a perfidious lover
+#负心的情人
+    a perfidious act
+#背信弃义之举
+    She described the new rule as a perfidious attack on principles.
+#她把新规章描述成违背原则。
+
+eviscerate: 英[ɪˈvɪsəreɪt] 美[ɪˈvɪsəreɪt]
+$vt. 取出内脏；除去精华
+$vi. 内脏凸出
+%adj. 内脏被取出的
+    eviscerate a pig
+#挖出猪的内脏
+    The hearts of many old towns have been eviscerated and replaced with anonymous shopping centers.
+#许多老城镇的中心被铲除干净之后，代之以千篇一律的购物中心。
+
+compelling: 英[kəmˈpelɪŋ] 美[kəmˈpelɪŋ]
+$adj. 令人信服的，有说服力的；引人入胜的，扣人心弦的；非常强烈的，不可抗拒的
+%v. 强迫，迫使；使发生，促使（compel 的现在分词形式）
+    a compelling novel
+#引人入胜的小说
+    a compelling reason
+#令人信服的理由
+    He remains a compelling figure in politics.
+#他在政坛上仍是一个引人注目的人物。
+
+exalted: 英[ɪɡˈzɔːltɪd] 美[ɪɡˈzɔːltɪd]
+$adj. 高尚的；尊贵的；兴奋的
+%v. 高举；赞扬；使激动（exalt 的过去分词）
+    an exalted literary style
+#高雅的文笔
+    take no exalted view of the situation
+#对局势不抱太乐观的看法
+    an exalted mood
+#兴奋的心情
+    We were absolutely exalted when we learned of your success.
+#我们得知你的成功的消息兴奋极了。
+
+exhale: 英[eksˈheɪl] 美[eksˈheɪl]
+%v. 呼（气），呼出；散发出（蒸气，烟雾）
+    exhale carbon dioxide from the lungs
+#从肺里呼出二氧化碳
+    exhale a sigh
+#发出一声叹息
+    Exhale a delicate fragrance
+#散发出一种美妙的香味
+    This machine records the ratios of various gases exhaled during exercise.
+#这台机器记录运动过程中呼出的不同气体的比率。
+
+munificence: 英[mjuːˈnɪfɪs(ə)ns] 美[mjuːˈnɪfɪs(ə)ns]
+%n. 慷慨给与；宽宏大量
+    I thanked him for his munificence.
+#我感谢他的慷慨。
+
+recapitulate: 英[ˌriːkəˈpɪtʃuleɪt] 美[ˌriːkəˈpɪtʃuleɪt]
+$vi. 概括；重述要点；摘要
+%vt. 概括；重述要点；摘要
+    He recapitulated his speech for the benefit of late comers.
+#考虑到迟到者，他简要重述了他的讲话。
+
+eulogistic: 英[ˌjuːləˈdʒɪstɪk] 美[ˌjuːləˈdʒɪstɪk]
+%adj. 颂扬的；歌功颂德的
+    eulogistic words
+#赞美的话
+
+iconoclastic: 英[aɪˌkɒnəˈklæstɪk] 美[aɪˌkɑːnəˈklæstɪk]
+%adj. 打破旧习的；偶像破坏的
+    Jack is an irreverent, iconoclastic figure who refuses to conform.
+#杰克是个无礼的、反偶像崇拜的、拒绝循规蹈矩的人。
+
+hilarity: 英[hɪˈlærəti] 美[hɪˈlærəti]
+%n. 欢喜；高兴；欢闹
+    He came to the party dressed in a yellow suit and pink bow tie, which caused great hilarity among the other guests.
+#他穿着一套黄色的衣服，戴着粉红色领结来到了聚会，这身打扮引起了其他客人的哄笑。
+
+impermissible: 英[ˌɪmpɜːˈmɪsəb(ə)l] 美[ˌɪmpɜːrˈmɪsəb(ə)l]
+%adj. 不允许的，不许可的
+    There are certain topics of conversation that are impermissible in polite society.
+#有一些交谈的话题在上流社会中是不被允许的。
+
+misapprehension: 英[ˌmɪsæprɪˈhenʃn] 美[ˌmɪsæprɪˈhenʃ(ə)n]
+%n. 误解；误会
+    He slowly spelled out each word to ensure there were no mistakes or misapprehensions.
+#他慢慢地说出每一个字以保证没有错误和误解。
+
+prescient: 英[ˈpresiənt] 美[ˈpreʃ(ə)nt]
+%adj. 预知的；有先见之明的
+    the prescient comments about the danger of lead
+#对铅的危险性的预知
+    a prescient film
+#预知未来的影片
+
+short-range: 英[ˌʃɔːt ˈreɪndʒ] 美[ˌʃɔːrt ˈreɪndʒ]
+%adj. 短射程的；短期间的
+    a short-range missile
+#近程导弹
+    a short-range plan
+#近期计划
+    a short-range forecast
+#近期天气预报
+
+imperturbable: 英[ˌɪmpəˈtɜːbəb(ə)l] 美[ˌɪmpərˈtɜːrbəb(ə)l]
+%adj. 冷静的；泰然自若的
+    As a nurse she was ideal -- calmly competent and imperturbable in a crisis.
+#她当护士是很理想的——在紧急时刻镇静沉着，非常胜任。
+
+eventual: 英[ɪˈventʃuəl] 美[ɪˈventʃuəl]
+%adj. 最终的，结局的；<古>有条件的
+    There are still many problems to be resolved, but we remain optimistic about an eventual agreement.
+#我们还有很多问题要解决，但我们对最终达成协议保持乐观态度。
+
+cacophonous: 英[kəˈkɒfənəs] 美[kəˈkɑːfənəs]
+%adj. 粗腔横调的；发音不和谐的
+    They form quite a cacophonous minority in Congress.
+#他们在国会里构成一个唱反调的少数派。
+
+artless: 英[ˈɑːtləs] 美[ˈɑːrtləs]
+%adj. 天真的；朴实的；无虚饰的
+    artless child
+#直率的孩子
+    artless eloquence
+#朴实的辩才
+    an artless translation
+#拙劣的翻译
+    She's an artless young woman who would never dream of trying to mislead anyone.
+#她是个单纯的年轻女子，从未想过要去误导任何人。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

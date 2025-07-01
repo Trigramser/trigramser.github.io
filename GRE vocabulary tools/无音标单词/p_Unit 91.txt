@@ -1,0 +1,663 @@
+<<<<<<< HEAD
+waddle:
+    imitate the waddle of a duck
+#学鸭子摇摇摆摆地走路
+    The fat woman waddled out of the hut to fetch water.
+#那胖女人一摇一摆地走出小屋提水去了。
+
+outgoing:
+    an outgoing plane
+#离去的飞机
+    an outgoing and generous man
+#友好慷慨的人
+    the outgoing president
+#即将离职的总统
+    the outgoing of the tide
+#退潮
+    domestic outgoings
+#家庭开销
+    She was outgoing and popular.
+#她为人爽直，人缘好。
+
+infantile:
+    infantile diseases
+#小儿病
+    infantile behavior
+#稚嫩的行为
+    The immature parents have so many infantile traits themselves.
+#这一对未成熟的年轻父母本身就有不少孩子气。
+
+obligatory:
+    The medical examination is obligatory before you start your work.
+#你开始工作前必须接受健康检查。
+
+hunch:
+    have a hunch (that)
+#有预感
+    hunch (up) one's shoulders
+#耸着肩
+    a hunch of bread
+#一块面包
+    hunch one's chair closer to the table
+#把椅子移近桌子
+    play one's hunch
+#凭直觉行事
+    Sometimes you have to be prepared to act on/follow a hunch.
+#有时你得准备着凭直觉行事。
+
+pod:
+    a missile pod
+#一个导弹发射器
+    an instrument pod
+#一个仪器吊舱
+    She stripped peas from a pod.
+#她从豆荚中剥出琬豆。
+
+rabid:
+    a rabid nationalist
+#狂暴的民族主义者
+    be rabid with anger
+#暴怒
+    a rabid football fan
+#狂热的足球迷
+    Even the survey's most rabid critics acknowledge the utility of this kind of data.
+#连该调查最狂热的批评者也承认这类数据的用处。
+
+slit:
+    slit open the envelope with a knife
+#用刀将信纸拆开
+    slit cloth into strips
+#把布斯成条
+    slit one's eyes
+#眯起眼睛
+    the slit tongue of a snake
+#蛇的叉状舌
+    I could see that it was getting light through the slits in the blind.
+#通过百叶窗的缝隙，我能看到天在逐渐变亮。
+
+ineluctable:
+    the ineluctable conclusion of logical deduction
+#逻辑推断的必然结果
+
+stench:
+    the stench of rotting eggs
+#臭蛋的气味
+    There was a strong stench of dead fish in the house.
+#屋子里有股死鱼的浓重臭气。
+
+defuse:
+    The two groups will meet next week to try to defuse the tension.
+#这两个小组下周将会面，试图缓和紧张局面。
+
+hew:
+    hew the wood to pieces
+#把木头劈成碎片
+    hew branches from a tree
+#砍去树枝
+    hew (down) a tree
+#伐树
+    hew a statue from marble
+#用大理石凿刻石像
+    hew one's way through the forest
+#辟出一条穿过森林的路
+    hew out a career for oneself
+#奋斗出一番事业
+    hew to a principle
+#坚持原则
+    The monument was hewn out of the side of a mountain.
+#这座纪念碑是在山的一边凿刻出来的。
+
+molest:
+    The woman complained that she had been molested in the park.
+#那名女子投诉说在公园里遭到了性骚扰。
+
+sprint:
+    break into a sprint
+#突然奔跑起来
+    put up a sprint to catch the train
+#奔跑着赶火车
+    sprint for the finishing line
+#向重点线冲刺
+    a sprint at the finish
+#近终点时的冲刺
+    She put on a marvellous sprint down the last two hundred meters.
+#她在最后200米时的冲刺十分精彩。
+
+amity:
+    amity within an industry
+#行业内部的和谐
+    The two groups had lived in perfect amity for many years before the recent troubles.
+#在发生最近这些纠葛之前，这两个团体多年来一直和睡相处。
+
+bile:
+    aim one's bile at
+#把怒气指向……
+    His article was full of loathing and bile.
+#他的文章充斥着憎恶和愤怒。
+
+remittance:
+    remittance from overseas
+#海外汇款
+    make weekly remittance
+#每周汇款
+    send sb. regular remittance
+#给某人定期汇款
+    a remittance slip
+#汇款通知单
+    He sends a small remittance home to his parents each month.
+#他每月给家中父母寄一小笔钱。
+
+harangue:
+    harangue a girl
+#训斥一个女孩
+    In parliament yesterday he harangued the opposition about the education reforms.
+#昨天在国会，他对反对派大讲教育改革。
+
+distaste:
+    a distaste for publicity of any sort
+#厌恶任何出风头的事
+    have a distaste for hard work
+#不喜欢艰苦的工作
+    She looked at the advertisement with distaste before walking quickly on.
+#她厌恶地看了看广告，又赶紧走开。
+
+cheeky:
+    a cheeky fellow
+#无耻的家伙
+    The boy was cheeky and casual.
+#这个男孩既无礼又随便。
+
+ransom:
+    demand a huge ransom
+#要求一大笔赎金
+    a king's ransom
+#一笔巨款
+    hold sb. to ransom
+#绑某人的票，要挟某人
+    The kidnappers specified that the ransom money should be left in the bus station after midnight.
+#绑匪特别说明赎金要在午夜后放到公共汽车站。
+
+scorching:
+    scorching weather
+#大热天
+    scorching heat
+#灼热
+    a scorching summer day
+#炎炎的夏日
+    a scorching speech
+#激烈尖刻的讲话
+    A dozen woman carrying buckets of water walked slowly under the scorching sun.
+#十几个妇女担着水缓慢地走在火辣辣的太阳底下。
+
+inflame:
+    inflame nationalist feelings
+#煽动民族主义情绪
+    inflame sb. with anger
+#激起某人的愤怒
+    Reducing the number of staff is certain to inflame the uneasy mood in the factory.
+#裁减人员一定会加剧工厂里的不安情绪。
+
+earring:
+    gold earrings
+#金耳环
+    She was wearing an earring in her left ear.
+#她左耳上戴着一只耳环。
+
+hidebound:
+    a hidebound pedant
+#迂夫子
+    a hidebound society
+#保守的社会
+    He is so hidebound that he views anything new with suspicion.
+#他太顽固守旧，对任何新事物都抱着怀疑的态度。
+
+contort:
+    a face contorted with fear
+#因害怕而扭曲的脸
+    contort one's body
+#扭曲身子
+    His face contorted with bitterness and rage.
+#他的脸因痛和愤怒而扭曲。
+
+demeanor(demeanour):
+    most engaging demeanor
+#非常吸引人的风度
+    She has the demeanor of a woman who is content with her life.
+#她有着一副知足女子的风度。
+
+genteel:
+    a genteel old lady
+#高贵的老妇人
+    ask a genteel question
+#彬彬有礼地提个问题
+    a genteel manner
+#矫揉造作的举止
+    live in genteel poverty
+#生活清苦却仍装作很有气派
+    The mansion had an atmosphere of genteel elegance.
+#这座豪宅有着上流社会的那种雅致。
+
+inundate:
+    inundate sb. with letters of protest
+#潮水般地向某人投寄抗议信
+    be inundated with telephone calls
+#电话多得应接不暇
+    be inundated with swarms of tourists
+#挤满一群又一群的游客
+    After the heavy rain, the river inundated the fields.
+#大雨过后，泛滥的河水淹没了农田。
+
+virile:
+    a virile voice
+#富有阳刚气的嗓音
+    a new and virile leadership
+#强有力的新领导
+    He is tall, weather-beaten, short-haired and virile.
+#他高个头，饱经风霜，剪着短发，男子气十足。
+
+deaden:
+    deaden sb.'s enthusiasm
+#抑制某人的热情
+    deaden sb.'s taste
+#使某人失去味觉
+    deaden the headway of a ship
+#减低船的速度
+    Double glazing has helped to deaden the noise from the motorway.
+#双层玻璃装置有助于减弱高速公路上传来的噪声。
+
+flinch:
+    flinch at pain
+#因痛而畏缩
+    flinch from a difficulty
+#面对困难而退缩
+    She flinched as the doctor touched her wounded arm.
+#医生碰了碰她的伤臂，她痛得向后一缩。
+
+repulsion:
+    the repulsion of the enemy
+#击退敌人
+    His badly scarred face produced an involuntary feeling of repulsion in her.
+#他伤痕累累的面孔使她不由自主地产生了厌恶感。
+
+prologue:
+    write a prologue to a book
+#为书作序
+    a prologue to a play
+#戏剧的开场白
+    A series of struggles was the prologue to the full scale war.
+#一系列的斗争是全面战争的序幕。
+
+canary:
+    a caged canary
+#笼中的金丝雀
+
+understudy:
+    She's understudying the actress playing Lady Macbeth.
+#她正在代替演麦克白夫人的演员演出。
+
+accrete:
+    There exists one kind of natural and accrete relationship between city commercial bank and small business.
+#城市商业银行与小企业有着天然的、共生共荣的联系。
+
+condescend:
+    not like being condescended to
+#不喜欢别人用恩赐态度对待
+    The director condescended to take advice from the actors and actresses.
+#导演放下架子接受演员们的意见。
+
+rove:
+    rove around the room
+#环顾房间
+    rove over sea and land
+#在海上陆上漂泊
+    rove the woods
+#漫游森林
+    He spent most of his life roving the world in search of fortune.
+#他的一生大部分时间在世界上流浪，寻找好运。
+
+corrugated:
+    corrugated cardboard
+#瓦楞纸板
+    The roof is made from sheets of corrugated iron.
+#屋顶用有波纹的铁板做成。
+
+extricate:
+    extricate oneself from debt
+#摆脱债务
+    extricate oneself from his mother's embrace
+#挣脱母亲的怀抱
+    It took hours to extricate the car from the sand.
+#花了好几个小时才把车从沙里推出来。
+
+=======
+waddle:
+    imitate the waddle of a duck
+#学鸭子摇摇摆摆地走路
+    The fat woman waddled out of the hut to fetch water.
+#那胖女人一摇一摆地走出小屋提水去了。
+
+outgoing:
+    an outgoing plane
+#离去的飞机
+    an outgoing and generous man
+#友好慷慨的人
+    the outgoing president
+#即将离职的总统
+    the outgoing of the tide
+#退潮
+    domestic outgoings
+#家庭开销
+    She was outgoing and popular.
+#她为人爽直，人缘好。
+
+infantile:
+    infantile diseases
+#小儿病
+    infantile behavior
+#稚嫩的行为
+    The immature parents have so many infantile traits themselves.
+#这一对未成熟的年轻父母本身就有不少孩子气。
+
+obligatory:
+    The medical examination is obligatory before you start your work.
+#你开始工作前必须接受健康检查。
+
+hunch:
+    have a hunch (that)
+#有预感
+    hunch (up) one's shoulders
+#耸着肩
+    a hunch of bread
+#一块面包
+    hunch one's chair closer to the table
+#把椅子移近桌子
+    play one's hunch
+#凭直觉行事
+    Sometimes you have to be prepared to act on/follow a hunch.
+#有时你得准备着凭直觉行事。
+
+pod:
+    a missile pod
+#一个导弹发射器
+    an instrument pod
+#一个仪器吊舱
+    She stripped peas from a pod.
+#她从豆荚中剥出琬豆。
+
+rabid:
+    a rabid nationalist
+#狂暴的民族主义者
+    be rabid with anger
+#暴怒
+    a rabid football fan
+#狂热的足球迷
+    Even the survey's most rabid critics acknowledge the utility of this kind of data.
+#连该调查最狂热的批评者也承认这类数据的用处。
+
+slit:
+    slit open the envelope with a knife
+#用刀将信纸拆开
+    slit cloth into strips
+#把布斯成条
+    slit one's eyes
+#眯起眼睛
+    the slit tongue of a snake
+#蛇的叉状舌
+    I could see that it was getting light through the slits in the blind.
+#通过百叶窗的缝隙，我能看到天在逐渐变亮。
+
+ineluctable:
+    the ineluctable conclusion of logical deduction
+#逻辑推断的必然结果
+
+stench:
+    the stench of rotting eggs
+#臭蛋的气味
+    There was a strong stench of dead fish in the house.
+#屋子里有股死鱼的浓重臭气。
+
+defuse:
+    The two groups will meet next week to try to defuse the tension.
+#这两个小组下周将会面，试图缓和紧张局面。
+
+hew:
+    hew the wood to pieces
+#把木头劈成碎片
+    hew branches from a tree
+#砍去树枝
+    hew (down) a tree
+#伐树
+    hew a statue from marble
+#用大理石凿刻石像
+    hew one's way through the forest
+#辟出一条穿过森林的路
+    hew out a career for oneself
+#奋斗出一番事业
+    hew to a principle
+#坚持原则
+    The monument was hewn out of the side of a mountain.
+#这座纪念碑是在山的一边凿刻出来的。
+
+molest:
+    The woman complained that she had been molested in the park.
+#那名女子投诉说在公园里遭到了性骚扰。
+
+sprint:
+    break into a sprint
+#突然奔跑起来
+    put up a sprint to catch the train
+#奔跑着赶火车
+    sprint for the finishing line
+#向重点线冲刺
+    a sprint at the finish
+#近终点时的冲刺
+    She put on a marvellous sprint down the last two hundred meters.
+#她在最后200米时的冲刺十分精彩。
+
+amity:
+    amity within an industry
+#行业内部的和谐
+    The two groups had lived in perfect amity for many years before the recent troubles.
+#在发生最近这些纠葛之前，这两个团体多年来一直和睡相处。
+
+bile:
+    aim one's bile at
+#把怒气指向……
+    His article was full of loathing and bile.
+#他的文章充斥着憎恶和愤怒。
+
+remittance:
+    remittance from overseas
+#海外汇款
+    make weekly remittance
+#每周汇款
+    send sb. regular remittance
+#给某人定期汇款
+    a remittance slip
+#汇款通知单
+    He sends a small remittance home to his parents each month.
+#他每月给家中父母寄一小笔钱。
+
+harangue:
+    harangue a girl
+#训斥一个女孩
+    In parliament yesterday he harangued the opposition about the education reforms.
+#昨天在国会，他对反对派大讲教育改革。
+
+distaste:
+    a distaste for publicity of any sort
+#厌恶任何出风头的事
+    have a distaste for hard work
+#不喜欢艰苦的工作
+    She looked at the advertisement with distaste before walking quickly on.
+#她厌恶地看了看广告，又赶紧走开。
+
+cheeky:
+    a cheeky fellow
+#无耻的家伙
+    The boy was cheeky and casual.
+#这个男孩既无礼又随便。
+
+ransom:
+    demand a huge ransom
+#要求一大笔赎金
+    a king's ransom
+#一笔巨款
+    hold sb. to ransom
+#绑某人的票，要挟某人
+    The kidnappers specified that the ransom money should be left in the bus station after midnight.
+#绑匪特别说明赎金要在午夜后放到公共汽车站。
+
+scorching:
+    scorching weather
+#大热天
+    scorching heat
+#灼热
+    a scorching summer day
+#炎炎的夏日
+    a scorching speech
+#激烈尖刻的讲话
+    A dozen woman carrying buckets of water walked slowly under the scorching sun.
+#十几个妇女担着水缓慢地走在火辣辣的太阳底下。
+
+inflame:
+    inflame nationalist feelings
+#煽动民族主义情绪
+    inflame sb. with anger
+#激起某人的愤怒
+    Reducing the number of staff is certain to inflame the uneasy mood in the factory.
+#裁减人员一定会加剧工厂里的不安情绪。
+
+earring:
+    gold earrings
+#金耳环
+    She was wearing an earring in her left ear.
+#她左耳上戴着一只耳环。
+
+hidebound:
+    a hidebound pedant
+#迂夫子
+    a hidebound society
+#保守的社会
+    He is so hidebound that he views anything new with suspicion.
+#他太顽固守旧，对任何新事物都抱着怀疑的态度。
+
+contort:
+    a face contorted with fear
+#因害怕而扭曲的脸
+    contort one's body
+#扭曲身子
+    His face contorted with bitterness and rage.
+#他的脸因痛和愤怒而扭曲。
+
+demeanor(demeanour):
+    most engaging demeanor
+#非常吸引人的风度
+    She has the demeanor of a woman who is content with her life.
+#她有着一副知足女子的风度。
+
+genteel:
+    a genteel old lady
+#高贵的老妇人
+    ask a genteel question
+#彬彬有礼地提个问题
+    a genteel manner
+#矫揉造作的举止
+    live in genteel poverty
+#生活清苦却仍装作很有气派
+    The mansion had an atmosphere of genteel elegance.
+#这座豪宅有着上流社会的那种雅致。
+
+inundate:
+    inundate sb. with letters of protest
+#潮水般地向某人投寄抗议信
+    be inundated with telephone calls
+#电话多得应接不暇
+    be inundated with swarms of tourists
+#挤满一群又一群的游客
+    After the heavy rain, the river inundated the fields.
+#大雨过后，泛滥的河水淹没了农田。
+
+virile:
+    a virile voice
+#富有阳刚气的嗓音
+    a new and virile leadership
+#强有力的新领导
+    He is tall, weather-beaten, short-haired and virile.
+#他高个头，饱经风霜，剪着短发，男子气十足。
+
+deaden:
+    deaden sb.'s enthusiasm
+#抑制某人的热情
+    deaden sb.'s taste
+#使某人失去味觉
+    deaden the headway of a ship
+#减低船的速度
+    Double glazing has helped to deaden the noise from the motorway.
+#双层玻璃装置有助于减弱高速公路上传来的噪声。
+
+flinch:
+    flinch at pain
+#因痛而畏缩
+    flinch from a difficulty
+#面对困难而退缩
+    She flinched as the doctor touched her wounded arm.
+#医生碰了碰她的伤臂，她痛得向后一缩。
+
+repulsion:
+    the repulsion of the enemy
+#击退敌人
+    His badly scarred face produced an involuntary feeling of repulsion in her.
+#他伤痕累累的面孔使她不由自主地产生了厌恶感。
+
+prologue:
+    write a prologue to a book
+#为书作序
+    a prologue to a play
+#戏剧的开场白
+    A series of struggles was the prologue to the full scale war.
+#一系列的斗争是全面战争的序幕。
+
+canary:
+    a caged canary
+#笼中的金丝雀
+
+understudy:
+    She's understudying the actress playing Lady Macbeth.
+#她正在代替演麦克白夫人的演员演出。
+
+accrete:
+    There exists one kind of natural and accrete relationship between city commercial bank and small business.
+#城市商业银行与小企业有着天然的、共生共荣的联系。
+
+condescend:
+    not like being condescended to
+#不喜欢别人用恩赐态度对待
+    The director condescended to take advice from the actors and actresses.
+#导演放下架子接受演员们的意见。
+
+rove:
+    rove around the room
+#环顾房间
+    rove over sea and land
+#在海上陆上漂泊
+    rove the woods
+#漫游森林
+    He spent most of his life roving the world in search of fortune.
+#他的一生大部分时间在世界上流浪，寻找好运。
+
+corrugated:
+    corrugated cardboard
+#瓦楞纸板
+    The roof is made from sheets of corrugated iron.
+#屋顶用有波纹的铁板做成。
+
+extricate:
+    extricate oneself from debt
+#摆脱债务
+    extricate oneself from his mother's embrace
+#挣脱母亲的怀抱
+    It took hours to extricate the car from the sand.
+#花了好几个小时才把车从沙里推出来。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

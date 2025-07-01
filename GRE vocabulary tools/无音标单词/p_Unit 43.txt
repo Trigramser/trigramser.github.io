@@ -1,0 +1,615 @@
+<<<<<<< HEAD
+obeisance:
+    bow in obeisance to the president
+#向总统鞠躬致敬
+    pay obeisance to principles
+#尊重法则
+    They made the traditional obeisance to their monarch.
+#他们按传统仪式向君主行礼。
+
+peremptory:
+    a few words of peremptory English
+#几句应急英语
+    a peremptory conclusion
+#最终结论
+    a peremptory thudding at the door
+#嘭嘭嘭急迫的敲门声
+    He spoke with a peremptory tone in his voice.
+#他用咄咄逼人的口气说话。
+
+beget:
+    Rumor begets rumor.
+#谣言接踵而起。
+
+choleric:
+    a choleric disposition
+#暴躁性情
+
+aspirant:
+    an aspirant to medicine
+#有志于医学的人
+    He is an aspirant for literary honor.
+#他渴望在文坛扬名。
+
+predilection:
+    have a predilection for
+#偏爱
+    personal predilections
+#个人偏好
+    This explained her predilection for desserts.
+#这是她偏爱甜食的原因。
+
+exiguous:
+    exiguous resources
+#稀少的资源
+    an exiguous income
+#微薄的收入
+
+provenance:
+    a group of terrorists of unknown provenance
+#伙来历不明的恐怖分子
+    I don't need to see a label to identify the provenance of a garment that someone is wearing.
+#我不用看商标就能认出别人穿的衣服的牌子。
+
+disfranchise:
+    Many voters have been disfranchised.
+#许多选民被剥夺了选举权。
+
+modish:
+    She was wearing an extravagantly modish outfit at the party.
+#她在晚会上穿了套非常时髦的衣服。
+
+numismatist:
+    Numismatist said that you have completed the collection of coins.
+#货币学家说你完成了货币的搜集。
+
+self-assertion:
+    the increasing self-assertion of surrounding countries
+#周围国家日益一意孤行
+
+gourmand:
+    a gourmand fellow
+#贪吃的家伙
+    Gourmand is a lover of good food. 
+#美食家是爱吃好东西的人。
+
+agog:
+    be agog at a sight
+#好奇地看着一种景象
+    He watched eyes agog with excitement.
+#他激动地注视着，满眼的兴奋。
+
+toothsome:
+    a toothsome girl
+#标致的姑娘
+    The crab is a toothsome favorite of man.
+#蟹是一种特别受人喜爱的美味佳肴。
+
+gargoyle:
+    The gargoyles at the top of Notre Dame look down over Paris.
+#巴黎圣母院顶上的怪兽状滴水嘴俯瞰着巴黎城。
+
+particularize:
+    He particularized the items of a bill.
+#他把账单逐项列出。
+
+delusion:
+    He was under the delusion that he could succeed.
+#他有种他能成功的错觉。
+
+gander:
+    gander down to the port
+#漫步到港口
+
+putrid:
+    putrid odor
+#腐臭味
+    The fish become putrid in the hot sun.
+#鱼在烈日下腐烂了。
+
+remonstrance:
+    We heard loud cries of remonstrance.
+#我们听见一声声响亮的抗议呼喊声。
+
+abnegate:
+    a self-abnegating life
+#恬淡自若的生活
+    He has abnegated all his rights to the property.
+#他已经放弃了对财产的所有权利。
+
+hoodoo:
+    a hoodoo doctor
+#巫医
+
+cloy:
+    be cloyed with pleasure
+#对玩乐感到厌倦
+    A diet of candy soon cloys.
+#经常吃糖果会很快倒胃口。
+
+pitiless:
+    the dictator's pitiless rule
+#独裁者无情的统治
+    Few people went out in the pitiless midday sun.
+#很少有人冒着正午的烈日出去。
+
+tusk:
+    It's illegal to smuggle elephants' tusks.
+#走私象牙是违法的。
+
+trounce:
+    She trounced her rivals in the election.
+#在举中她击败了所有对手。
+
+winkle:
+    winkle truth out of sb.
+#从某人嘴里套出事实真相
+    The security services will go to any lengths to winkle out information.
+#安全部门会不遗余力地套取情报。
+
+cohesion:
+    The lack of cohesion within the party lost them votes at election time.
+#政党内部缺乏凝聚力，所以他们在大选时失去了选票。
+
+leak:
+    If you suspect a gas leak, phone the emergency number.
+#如果你怀疑煤气泄漏，就拨打应急电话。
+
+parturition:
+    the month of parturition
+#临产月
+
+dogmatism:
+    We cannot allow dogmatism to stand in the way of progress.
+#我们不能让教条主义阻碍前进的步伐。
+
+curdle:
+    make one's blood curdle
+#使人毛骨悚然
+    Beat the eggs into the cake mixture carefully, so as not to curdle it.
+#小心地把蛋打人蛋糕的混合原料中，别让它凝结了。
+
+gaffe:
+    That was a bit of gaffe, starting to eat before everyone else had been served.
+#没有等到每个人的菜上好就开始吃起来，这真有点失态。
+
+wend:
+    The thief then wended his way through the unlit back streets to the dock.
+#小偷随后穿过暗无灯光的后街绕到码头。
+
+traduce:
+    Clark claimed that he had been traduced by the press.
+#克拉克声称他遭到新闻界的诽谤。
+
+vicissitudinous:
+    Simultaneously, the development of complex dramas is constant and vicissitudinous. As the carrier of the spirit of literati, complex dramas present the tracks of their mood.
+#同时，杂剧的发展是连续而有变化的，作为剧作家精神的载体，能够呈现出文人心态变化的轨迹。
+
+scud:
+    It was a windy day, and small white clouds were scudding across the blue sky.
+#这是一个有风的日子，小片白云在蓝天上迅速飘过。
+
+gutless:
+    a gutless soldier
+#懦弱的士兵
+
+magniloquent:
+    He is bent on the choice of magniloquent phrases.
+#他专门选夸张的措辞。
+
+potboiler:
+    Her most recent book was dismissed by critics as little more than a romantic potboiler.
+#她刚出的书被批评家贬作粗制的言情作品。
+
+boding:
+    a boding of disaster
+#灾难的先兆
+
+demarcate:
+    a border demarcated by a river
+#以河流为界的国界
+
+opulence:
+    She lived in great opulence. 
+#她的生活非常奢侈。
+
+resigned:
+    a resigned government official
+#辞职的政府官员
+    with a resigned air
+#带着一种屈从的神态
+
+everlasting:
+    believe in everlasting life
+#相信永生
+    the zone of everlasting snow
+#常年下雪带
+    from everlasting
+#开天辟地以来
+    These tyres are advertised as being everlasting.
+#广告说这些轮胎经久耐用。
+
+corporeal:
+    corporeal property
+#有形财产
+    Food and drink are corporeal needs.
+#食物和饮料是身体的必需品。
+
+overriding:
+    an overriding need
+#压倒一切的需要
+    an overriding issue
+#首要问题
+
+zealotry:
+    political and religious zealotry
+#政治和宗教狂热
+    zealotic
+#狂热的
+
+pother:
+    The children are making a great pother about the picnic.
+#孩子们正在为野餐的事吵吵嚷嚷。
+
+beholden:
+    We are much beholden to you for your help.
+#对于你的帮助，我们不胜感激。
+
+obtrude:
+    obtrude one's opinion on others
+#把意见强加于人
+    Music from the next room obtruded upon his thoughts.
+#隔壁的音乐声打扰了他的思绪。
+
+perforate:
+    perforate a wooden box
+#在木箱上开孔
+    He perforated his opponent's shield.
+#他刺穿了对手的盾。
+
+hone:
+    hone a razor
+#磨快剃刀
+    hone one's artistic skills
+#磨砺技艺
+    hone for a simple life
+#渴望简朴的生活
+
+niggling:
+    a niggling difference
+#细微差别
+    a niggling task
+#琐碎的工作
+
+ersatz:
+    ersatz coffee
+#代用咖啡
+    ersatz material
+#代用材料
+
+fallibility:
+    the fallibility of human perceptions
+#人的感观的不可靠性
+
+odoriferous:
+    The rose is an odoriferous flower.
+#玫瑰花带有香味。
+
+jibe:
+    The report does not jibe with the facts.
+#报告与事实不符。
+
+natal:
+    one's natal place
+#出生地
+    one's natal and acquired abilities
+#先天和后天的能力
+
+=======
+obeisance:
+    bow in obeisance to the president
+#向总统鞠躬致敬
+    pay obeisance to principles
+#尊重法则
+    They made the traditional obeisance to their monarch.
+#他们按传统仪式向君主行礼。
+
+peremptory:
+    a few words of peremptory English
+#几句应急英语
+    a peremptory conclusion
+#最终结论
+    a peremptory thudding at the door
+#嘭嘭嘭急迫的敲门声
+    He spoke with a peremptory tone in his voice.
+#他用咄咄逼人的口气说话。
+
+beget:
+    Rumor begets rumor.
+#谣言接踵而起。
+
+choleric:
+    a choleric disposition
+#暴躁性情
+
+aspirant:
+    an aspirant to medicine
+#有志于医学的人
+    He is an aspirant for literary honor.
+#他渴望在文坛扬名。
+
+predilection:
+    have a predilection for
+#偏爱
+    personal predilections
+#个人偏好
+    This explained her predilection for desserts.
+#这是她偏爱甜食的原因。
+
+exiguous:
+    exiguous resources
+#稀少的资源
+    an exiguous income
+#微薄的收入
+
+provenance:
+    a group of terrorists of unknown provenance
+#伙来历不明的恐怖分子
+    I don't need to see a label to identify the provenance of a garment that someone is wearing.
+#我不用看商标就能认出别人穿的衣服的牌子。
+
+disfranchise:
+    Many voters have been disfranchised.
+#许多选民被剥夺了选举权。
+
+modish:
+    She was wearing an extravagantly modish outfit at the party.
+#她在晚会上穿了套非常时髦的衣服。
+
+numismatist:
+    Numismatist said that you have completed the collection of coins.
+#货币学家说你完成了货币的搜集。
+
+self-assertion:
+    the increasing self-assertion of surrounding countries
+#周围国家日益一意孤行
+
+gourmand:
+    a gourmand fellow
+#贪吃的家伙
+    Gourmand is a lover of good food. 
+#美食家是爱吃好东西的人。
+
+agog:
+    be agog at a sight
+#好奇地看着一种景象
+    He watched eyes agog with excitement.
+#他激动地注视着，满眼的兴奋。
+
+toothsome:
+    a toothsome girl
+#标致的姑娘
+    The crab is a toothsome favorite of man.
+#蟹是一种特别受人喜爱的美味佳肴。
+
+gargoyle:
+    The gargoyles at the top of Notre Dame look down over Paris.
+#巴黎圣母院顶上的怪兽状滴水嘴俯瞰着巴黎城。
+
+particularize:
+    He particularized the items of a bill.
+#他把账单逐项列出。
+
+delusion:
+    He was under the delusion that he could succeed.
+#他有种他能成功的错觉。
+
+gander:
+    gander down to the port
+#漫步到港口
+
+putrid:
+    putrid odor
+#腐臭味
+    The fish become putrid in the hot sun.
+#鱼在烈日下腐烂了。
+
+remonstrance:
+    We heard loud cries of remonstrance.
+#我们听见一声声响亮的抗议呼喊声。
+
+abnegate:
+    a self-abnegating life
+#恬淡自若的生活
+    He has abnegated all his rights to the property.
+#他已经放弃了对财产的所有权利。
+
+hoodoo:
+    a hoodoo doctor
+#巫医
+
+cloy:
+    be cloyed with pleasure
+#对玩乐感到厌倦
+    A diet of candy soon cloys.
+#经常吃糖果会很快倒胃口。
+
+pitiless:
+    the dictator's pitiless rule
+#独裁者无情的统治
+    Few people went out in the pitiless midday sun.
+#很少有人冒着正午的烈日出去。
+
+tusk:
+    It's illegal to smuggle elephants' tusks.
+#走私象牙是违法的。
+
+trounce:
+    She trounced her rivals in the election.
+#在举中她击败了所有对手。
+
+winkle:
+    winkle truth out of sb.
+#从某人嘴里套出事实真相
+    The security services will go to any lengths to winkle out information.
+#安全部门会不遗余力地套取情报。
+
+cohesion:
+    The lack of cohesion within the party lost them votes at election time.
+#政党内部缺乏凝聚力，所以他们在大选时失去了选票。
+
+leak:
+    If you suspect a gas leak, phone the emergency number.
+#如果你怀疑煤气泄漏，就拨打应急电话。
+
+parturition:
+    the month of parturition
+#临产月
+
+dogmatism:
+    We cannot allow dogmatism to stand in the way of progress.
+#我们不能让教条主义阻碍前进的步伐。
+
+curdle:
+    make one's blood curdle
+#使人毛骨悚然
+    Beat the eggs into the cake mixture carefully, so as not to curdle it.
+#小心地把蛋打人蛋糕的混合原料中，别让它凝结了。
+
+gaffe:
+    That was a bit of gaffe, starting to eat before everyone else had been served.
+#没有等到每个人的菜上好就开始吃起来，这真有点失态。
+
+wend:
+    The thief then wended his way through the unlit back streets to the dock.
+#小偷随后穿过暗无灯光的后街绕到码头。
+
+traduce:
+    Clark claimed that he had been traduced by the press.
+#克拉克声称他遭到新闻界的诽谤。
+
+vicissitudinous:
+    Simultaneously, the development of complex dramas is constant and vicissitudinous. As the carrier of the spirit of literati, complex dramas present the tracks of their mood.
+#同时，杂剧的发展是连续而有变化的，作为剧作家精神的载体，能够呈现出文人心态变化的轨迹。
+
+scud:
+    It was a windy day, and small white clouds were scudding across the blue sky.
+#这是一个有风的日子，小片白云在蓝天上迅速飘过。
+
+gutless:
+    a gutless soldier
+#懦弱的士兵
+
+magniloquent:
+    He is bent on the choice of magniloquent phrases.
+#他专门选夸张的措辞。
+
+potboiler:
+    Her most recent book was dismissed by critics as little more than a romantic potboiler.
+#她刚出的书被批评家贬作粗制的言情作品。
+
+boding:
+    a boding of disaster
+#灾难的先兆
+
+demarcate:
+    a border demarcated by a river
+#以河流为界的国界
+
+opulence:
+    She lived in great opulence. 
+#她的生活非常奢侈。
+
+resigned:
+    a resigned government official
+#辞职的政府官员
+    with a resigned air
+#带着一种屈从的神态
+
+everlasting:
+    believe in everlasting life
+#相信永生
+    the zone of everlasting snow
+#常年下雪带
+    from everlasting
+#开天辟地以来
+    These tyres are advertised as being everlasting.
+#广告说这些轮胎经久耐用。
+
+corporeal:
+    corporeal property
+#有形财产
+    Food and drink are corporeal needs.
+#食物和饮料是身体的必需品。
+
+overriding:
+    an overriding need
+#压倒一切的需要
+    an overriding issue
+#首要问题
+
+zealotry:
+    political and religious zealotry
+#政治和宗教狂热
+    zealotic
+#狂热的
+
+pother:
+    The children are making a great pother about the picnic.
+#孩子们正在为野餐的事吵吵嚷嚷。
+
+beholden:
+    We are much beholden to you for your help.
+#对于你的帮助，我们不胜感激。
+
+obtrude:
+    obtrude one's opinion on others
+#把意见强加于人
+    Music from the next room obtruded upon his thoughts.
+#隔壁的音乐声打扰了他的思绪。
+
+perforate:
+    perforate a wooden box
+#在木箱上开孔
+    He perforated his opponent's shield.
+#他刺穿了对手的盾。
+
+hone:
+    hone a razor
+#磨快剃刀
+    hone one's artistic skills
+#磨砺技艺
+    hone for a simple life
+#渴望简朴的生活
+
+niggling:
+    a niggling difference
+#细微差别
+    a niggling task
+#琐碎的工作
+
+ersatz:
+    ersatz coffee
+#代用咖啡
+    ersatz material
+#代用材料
+
+fallibility:
+    the fallibility of human perceptions
+#人的感观的不可靠性
+
+odoriferous:
+    The rose is an odoriferous flower.
+#玫瑰花带有香味。
+
+jibe:
+    The report does not jibe with the facts.
+#报告与事实不符。
+
+natal:
+    one's natal place
+#出生地
+    one's natal and acquired abilities
+#先天和后天的能力
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

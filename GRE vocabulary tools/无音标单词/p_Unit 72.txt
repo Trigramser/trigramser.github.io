@@ -1,0 +1,587 @@
+<<<<<<< HEAD
+perambulate:
+    She perambulated aimlessly in the park.
+#她在公园里面漫步。
+
+luminary:
+    political luminaries
+#政界名流
+
+refulgent:
+    the refulgent glory of the midday sun
+#正午灿烂的太阳
+
+cavort:
+    Some dolphins are cavorting above the surface of the sea.
+#一些海豚在海面上嬉戏。
+
+pirouette:
+    She swirled round in well-controlled pirouettes.
+#她快速旋转着，身体控制得很好。
+
+outfox:
+    We managed to outfox him.
+#我们设法用计谋把他击败。
+
+recumbent:
+    be recumbent on a sofa
+#躺在沙发上
+    one's recumbent conscience
+#冷漠的良心
+    be recumbent against a tree
+#靠着一棵树躺着
+    The archaeologist found a statue of a recumbent woman.
+#考古学家发现了一个躺着的女人雕像。
+
+frigidity:
+    The frigidity of the department unnerved her.
+#那个部门的冷淡气氛使她深感不安。
+
+pundit:
+    a pundit on local history
+#地方史权威
+    a television pundit
+#电视专家
+
+dejected:
+    She became more and more melancholy and pale and dejected.
+#她变得越来越忧郁、苍白和沮丧了。
+
+mortification:
+    David was hiding his head in his hands with mortification.
+#戴维羞愧地双手抱着头。
+
+comedienne:
+    the wonderful performance of a comedienne
+#女喜剧演员的精彩表演
+
+dalliance:
+    It seemed that life had been a series of meaningless dalliances before she met Mark.
+#在她遇见马克之前，生活似乎是一连串毫无意义的闲混。
+
+munch:
+    He munched on peanuts as he walked along the path.
+#他边沿着小路走着，边吃着花生。
+
+condole:
+    I condole with Henry on the death of his mother.
+#我对享利母亲的去世表示哀悼。
+
+percolate:
+    percolate some coffee
+#煮点咖啡
+    The rain percolated inside the collar of my raincoat.
+#雨水渗进了我雨衣的领子里。
+
+emote:
+    The actress was emoting in front of the camera.
+#女演员正在摄影机前表达夸张的情绪。
+
+lamentable:
+    the lamentable state of economy
+#糟糕的经济状况
+    lamentable fate
+#可悲的命运
+
+excruciate:
+    The very sound of his voice excruciates me.
+#一听到他讲话的声音就使我心烦。
+
+depressed:
+    be depressed about the failure
+#为失败而沮丧
+    a depressed basin
+#盆地
+    depressed prices
+#降低了的价格
+
+contumacious:
+    a contumacious witness
+#违抗法院命令的证人
+
+intrude:
+    intrude on sb.'s time
+#占用某人的时间
+    An unidentified military plane intruded into the airspace of the country.
+#一架国籍不明的军用飞机侵人该国领空。
+
+morsel:
+    a morsel of fun
+#一点乐趣
+    morsels of news
+#点滴新闻
+    a dainty morsel
+#美味小吃
+    He ate his morsel quickly and left.
+#他很快地吃了一口就走了。
+
+verbal:
+    verbal instructions
+#文字说明
+    a verbal translation
+#逐字翻译
+    We have a verbal agreement with her.
+#我们和她有一个口头协议。
+
+stooge:
+    I don't want to spend my life stooging for other people.
+#我不愿终身充当别人的下手。
+
+scutter:
+    A crab scuttered away under a rock as we passed.
+#我们经过一块岩石时，一只螃蟹从下面溜掉了。
+
+measly:
+    a measly performance
+#拙略的表演
+    a measly bit of work
+#微不足道的工作
+
+gratuity:
+    He dismissed the post boy with a handsome gratuity.
+#他用可观的小费把送信人打发走。
+
+suborn:
+    He was suborned into working for the secret police.
+#他受人唆使为秘密警察工作。
+
+wroth:
+    the wroth sea
+#波涛汹涌的大海
+    He was wroth to see the damage to the house.
+#看到房子被损坏，他很恼怒。
+
+countrified:
+    a countrified bedroom pattern
+#有乡村风味的卧室布置式样
+    countrified rock music
+#乡村摇滚乐
+
+incubus:
+    the incubus of inflation
+#通货膨胀的重负
+
+abstemious:
+    be abstemious in one's eating habits
+#饮食一贯有度
+    an abstemious meal
+#简朴的一餐
+
+vertigo:
+    Looking out of the window still gives him vertigo.
+#从窗口往外望仍令他眩晕。
+
+simonize:
+    simonize a car
+#给汽车上蜡
+
+expatiate:
+    expatiate on a subject
+#阐述主题
+    expatiate through the countryside
+#在乡间漫步
+
+limnetic:
+    limnetic birds
+#湖栖鸟类
+
+terminus:
+    a ferry boat terminus
+#游船码头
+    the terminus of a peninsula
+#半岛之端
+
+interlay:
+    Foreign phrases interlaid his writing.
+#他写的文章里尽是些外来语。
+
+bruit:
+    News of his resignation was bruited about.
+#他辞职的消息传开了。
+
+implode:
+    The police found all the windows had imploded rather than exploded.
+#警方发现窗玻璃全部向室内而非朝户外爆裂。
+
+misrepresentation:
+    All political policies are open to misrepresentation.
+#所有的政治政策都可能被曲解。
+
+ballyhoo:
+    newspaper ballyhoo
+#报纸大肆宣传
+    The ads ballyhooed the movie's virtues.
+#广告大肆宣扬这部电影的优点。
+
+calibrate:
+    They calibrated their responses to the urgent need of public-relations men.
+#他们按照公关人员的急切要求做出相应的反应。
+
+sunder:
+    Time and distance often sunder friends.
+#时间和距离常使朋友疏远。
+
+anonymity:
+    He wanted the anonymity of suburban life where his reputation was not known.
+#他想过一种默默无闻的郊区生活，在那里他的名声无人知晓。
+
+proceeds:
+    The proceeds from the concert will go towards famine relief.
+#演唱会所得收人将用于赈济饥荒。
+
+arrant:
+    an arrant nonsense
+#一派胡言
+    an arrant knave
+#大坏蛋
+
+prehensile:
+    The monkey has a prehensile tail.
+#猴子有能缠住东西的尾巴，
+
+belongings:
+    She left all her belongings to her sister.
+#她把所有的财产都留给了妹妹。
+
+scraggly:
+    a scraggly growth of hair
+#一头蓬乱的头发
+    scraggly beard
+#稀稀拉拉的胡子
+    a scraggly little path
+#坑坑洼洼的小路
+
+tweak:
+    He gave her nose a playful tweak.
+#他顽皮地柠了下她的鼻子。
+
+ashen:
+    The refugee's skin was ashen, indicating severe malnutrition.
+#难民的皮肤是灰白色的，表明严重的营养不良。
+
+brattish:
+    brattish country boys
+#调皮的乡下男孩
+
+ravening:
+    a ravening wolf
+#贪婪的狼
+
+narcissism:
+    Actors must need a certain amount of narcissism to get up on a stage and perform in front of an audience.
+#演员必须有一定程度的自我欣赏，才能走上舞台，在观众面前表演。
+
+chaff:
+    They chaffed him for fear of a nagging wife.
+#他们取笑他害怕唠叨个没完没了的妻子。
+
+illiberal:
+    illiberal thinking
+#狭隘的思想
+    illiberal attitudes
+#偏执的态度
+    an illiberal giver
+#各啬的施主
+
+blather:
+    He blathered on for half an hour about his high paying job.
+#他喋喋不休地谈了半个小时他的高薪工作。
+
+peruse:
+    He sat there perusing until he was ready to speak.
+#他坐在那里一个劲儿苦思冥想，直到打好腹稿准备发言。
+
+=======
+perambulate:
+    She perambulated aimlessly in the park.
+#她在公园里面漫步。
+
+luminary:
+    political luminaries
+#政界名流
+
+refulgent:
+    the refulgent glory of the midday sun
+#正午灿烂的太阳
+
+cavort:
+    Some dolphins are cavorting above the surface of the sea.
+#一些海豚在海面上嬉戏。
+
+pirouette:
+    She swirled round in well-controlled pirouettes.
+#她快速旋转着，身体控制得很好。
+
+outfox:
+    We managed to outfox him.
+#我们设法用计谋把他击败。
+
+recumbent:
+    be recumbent on a sofa
+#躺在沙发上
+    one's recumbent conscience
+#冷漠的良心
+    be recumbent against a tree
+#靠着一棵树躺着
+    The archaeologist found a statue of a recumbent woman.
+#考古学家发现了一个躺着的女人雕像。
+
+frigidity:
+    The frigidity of the department unnerved her.
+#那个部门的冷淡气氛使她深感不安。
+
+pundit:
+    a pundit on local history
+#地方史权威
+    a television pundit
+#电视专家
+
+dejected:
+    She became more and more melancholy and pale and dejected.
+#她变得越来越忧郁、苍白和沮丧了。
+
+mortification:
+    David was hiding his head in his hands with mortification.
+#戴维羞愧地双手抱着头。
+
+comedienne:
+    the wonderful performance of a comedienne
+#女喜剧演员的精彩表演
+
+dalliance:
+    It seemed that life had been a series of meaningless dalliances before she met Mark.
+#在她遇见马克之前，生活似乎是一连串毫无意义的闲混。
+
+munch:
+    He munched on peanuts as he walked along the path.
+#他边沿着小路走着，边吃着花生。
+
+condole:
+    I condole with Henry on the death of his mother.
+#我对享利母亲的去世表示哀悼。
+
+percolate:
+    percolate some coffee
+#煮点咖啡
+    The rain percolated inside the collar of my raincoat.
+#雨水渗进了我雨衣的领子里。
+
+emote:
+    The actress was emoting in front of the camera.
+#女演员正在摄影机前表达夸张的情绪。
+
+lamentable:
+    the lamentable state of economy
+#糟糕的经济状况
+    lamentable fate
+#可悲的命运
+
+excruciate:
+    The very sound of his voice excruciates me.
+#一听到他讲话的声音就使我心烦。
+
+depressed:
+    be depressed about the failure
+#为失败而沮丧
+    a depressed basin
+#盆地
+    depressed prices
+#降低了的价格
+
+contumacious:
+    a contumacious witness
+#违抗法院命令的证人
+
+intrude:
+    intrude on sb.'s time
+#占用某人的时间
+    An unidentified military plane intruded into the airspace of the country.
+#一架国籍不明的军用飞机侵人该国领空。
+
+morsel:
+    a morsel of fun
+#一点乐趣
+    morsels of news
+#点滴新闻
+    a dainty morsel
+#美味小吃
+    He ate his morsel quickly and left.
+#他很快地吃了一口就走了。
+
+verbal:
+    verbal instructions
+#文字说明
+    a verbal translation
+#逐字翻译
+    We have a verbal agreement with her.
+#我们和她有一个口头协议。
+
+stooge:
+    I don't want to spend my life stooging for other people.
+#我不愿终身充当别人的下手。
+
+scutter:
+    A crab scuttered away under a rock as we passed.
+#我们经过一块岩石时，一只螃蟹从下面溜掉了。
+
+measly:
+    a measly performance
+#拙略的表演
+    a measly bit of work
+#微不足道的工作
+
+gratuity:
+    He dismissed the post boy with a handsome gratuity.
+#他用可观的小费把送信人打发走。
+
+suborn:
+    He was suborned into working for the secret police.
+#他受人唆使为秘密警察工作。
+
+wroth:
+    the wroth sea
+#波涛汹涌的大海
+    He was wroth to see the damage to the house.
+#看到房子被损坏，他很恼怒。
+
+countrified:
+    a countrified bedroom pattern
+#有乡村风味的卧室布置式样
+    countrified rock music
+#乡村摇滚乐
+
+incubus:
+    the incubus of inflation
+#通货膨胀的重负
+
+abstemious:
+    be abstemious in one's eating habits
+#饮食一贯有度
+    an abstemious meal
+#简朴的一餐
+
+vertigo:
+    Looking out of the window still gives him vertigo.
+#从窗口往外望仍令他眩晕。
+
+simonize:
+    simonize a car
+#给汽车上蜡
+
+expatiate:
+    expatiate on a subject
+#阐述主题
+    expatiate through the countryside
+#在乡间漫步
+
+limnetic:
+    limnetic birds
+#湖栖鸟类
+
+terminus:
+    a ferry boat terminus
+#游船码头
+    the terminus of a peninsula
+#半岛之端
+
+interlay:
+    Foreign phrases interlaid his writing.
+#他写的文章里尽是些外来语。
+
+bruit:
+    News of his resignation was bruited about.
+#他辞职的消息传开了。
+
+implode:
+    The police found all the windows had imploded rather than exploded.
+#警方发现窗玻璃全部向室内而非朝户外爆裂。
+
+misrepresentation:
+    All political policies are open to misrepresentation.
+#所有的政治政策都可能被曲解。
+
+ballyhoo:
+    newspaper ballyhoo
+#报纸大肆宣传
+    The ads ballyhooed the movie's virtues.
+#广告大肆宣扬这部电影的优点。
+
+calibrate:
+    They calibrated their responses to the urgent need of public-relations men.
+#他们按照公关人员的急切要求做出相应的反应。
+
+sunder:
+    Time and distance often sunder friends.
+#时间和距离常使朋友疏远。
+
+anonymity:
+    He wanted the anonymity of suburban life where his reputation was not known.
+#他想过一种默默无闻的郊区生活，在那里他的名声无人知晓。
+
+proceeds:
+    The proceeds from the concert will go towards famine relief.
+#演唱会所得收人将用于赈济饥荒。
+
+arrant:
+    an arrant nonsense
+#一派胡言
+    an arrant knave
+#大坏蛋
+
+prehensile:
+    The monkey has a prehensile tail.
+#猴子有能缠住东西的尾巴，
+
+belongings:
+    She left all her belongings to her sister.
+#她把所有的财产都留给了妹妹。
+
+scraggly:
+    a scraggly growth of hair
+#一头蓬乱的头发
+    scraggly beard
+#稀稀拉拉的胡子
+    a scraggly little path
+#坑坑洼洼的小路
+
+tweak:
+    He gave her nose a playful tweak.
+#他顽皮地柠了下她的鼻子。
+
+ashen:
+    The refugee's skin was ashen, indicating severe malnutrition.
+#难民的皮肤是灰白色的，表明严重的营养不良。
+
+brattish:
+    brattish country boys
+#调皮的乡下男孩
+
+ravening:
+    a ravening wolf
+#贪婪的狼
+
+narcissism:
+    Actors must need a certain amount of narcissism to get up on a stage and perform in front of an audience.
+#演员必须有一定程度的自我欣赏，才能走上舞台，在观众面前表演。
+
+chaff:
+    They chaffed him for fear of a nagging wife.
+#他们取笑他害怕唠叨个没完没了的妻子。
+
+illiberal:
+    illiberal thinking
+#狭隘的思想
+    illiberal attitudes
+#偏执的态度
+    an illiberal giver
+#各啬的施主
+
+blather:
+    He blathered on for half an hour about his high paying job.
+#他喋喋不休地谈了半个小时他的高薪工作。
+
+peruse:
+    He sat there perusing until he was ready to speak.
+#他坐在那里一个劲儿苦思冥想，直到打好腹稿准备发言。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

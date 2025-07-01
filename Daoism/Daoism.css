@@ -1,0 +1,48 @@
+html {
+    font-size: 10px;
+}
+h1 {
+    color: orange;
+}
+
+p {
+    /* font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    font-family: "仿宋"; */
+    /*font 的综合写法，这里就是按照上面的顺序横着写*/
+    /* font:italic bold 2rem "仿宋"; */
+    /* 前两个可以没有，但是必须有font-size和family */
+    font: normal normal 2rem /3rem "仿宋";
+    color: blue;
+    letter-spacing: 0.1rem;
+    /* word-spacing: 2rem; */
+    text-indent: 4.3rem;
+    text-shadow: 1rem 1rem 0.2rem rgba(0, 0, 0, 0.5);
+}
+
+.qian {
+    font: 2rem "楷体";
+    color: red;
+}
+
+li:nth-child(even) {
+    color:red;
+}
+
+li:nth-child(3n) {
+    color:blue;
+}
+
+li:nth-last-child(odd) {
+    color:aqua;
+}
+
+:target {
+    color:red;
+}
+
+
+
+
+

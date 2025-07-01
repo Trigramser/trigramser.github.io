@@ -1,0 +1,276 @@
+html {
+    font-size: 10px;
+}
+body {
+    font-size: 1.6rem;
+    width: 100%;
+    padding-top: 6rem;
+    line-height: 2.5rem;
+    max-width: 720px;
+    min-width: 320px;
+    margin: 0 auto;
+    /* font: normal 14px/1.5 Tahoma, "Lucida Grande", Verdana, "Microsoft Yahei", STXihei, hei; */
+    background: #000;
+    overflow-x: hidden;
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+a {
+    text-decoration: none;
+    color:#fff;
+    /* transition: text-shadow 0.3s ease; */
+    transition:0.2s ease;
+    /* color:#ffce2e; */
+}
+
+/* a:hover { */
+    /* color: #CD2626; */
+    /* color:#4AC3E9;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, .5);
+} */
+
+div {
+    box-sizing: border-box;
+}
+
+ul {
+    flex: 1;
+    width:100%;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: yellow;
+}
+h4 {
+    padding: 0rem;
+    margin: 0.4rem 1rem 0rem;
+}
+.searcher {
+    /* width: 100%; */
+    /* max-width: 90%; */
+    margin: 2rem 0;
+    /* padding-left: 4rem; */
+}
+.searcher form {
+    display: flex;
+    flex-wrap: wrap;  
+    justify-content: left;
+    align-content: left;
+    align-items: center;
+    border-radius: 1rem;
+    margin: 1rem;
+    color: #aaa;
+}
+
+.searcher form input, .General form input  {
+    display: inline-block;
+    height: 3rem;
+    border-radius: 0.5rem;
+}
+
+.searcher form input:nth-child(1), .searcher form input:nth-child(2).term-input, .General form input:nth-child(1), #Anaconda form input:nth-child(1) {
+    width: 70%;
+}
+/* .searcher form input:nth-child(2) {
+    flex: 1 1 20%;
+} */
+
+select, textarea {
+    height: 3rem; 
+    margin: 1rem 0rem; 
+    border: 1px solid #999; 
+    padding: .2rem .5rem;
+}
+label {
+    color: #999; 
+    margin-left: 1rem
+}
+
+
+.header-bar {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    top:0;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 1rem;
+    margin: 0 auto;
+    padding: 0.5rem 0rem;
+    /* 帝王绿 */
+    background-color: #006400;  
+    color: #aaa;
+    z-index: 999;
+    align-items: center;
+}
+.header-bar-middle {
+    flex: 1;
+    /* width: 96rem; */
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+.header-bar a{
+    margin: 0rem 1rem;
+    /* gold color */
+    color: #FFD700;
+    padding: 0.2rem 1rem;
+    border-radius: 1rem;
+    box-shadow: 0rem 0rem 0.5rem -0.1rem;
+}
+.header-bar a:hover{
+    background-color: #40A440;
+    color: #FFD700;
+}
+
+.General, .Biology, .Bioinformatics, .Analysis, .Finance {
+    display: flex;
+    flex-wrap: wrap;   
+    justify-content: left;
+    align-content: left;
+    align-items: center;
+    border-radius: 1rem;
+    scroll-margin-top: 2rem; /* 设置偏移，避免遮挡 */
+}
+.General h1, .Biology h1, .Bioinformatics h1, .Analysis, h1, .Finance h1 {
+    flex: 1 1 100%;
+}
+.General li , .Biology li , .Bioinformatics li, .Analysis li, .Finance li  {
+    /* display: flex; */
+    flex-wrap: wrap;   
+    flex: 1 1 100%;
+    align-content: left;
+    align-items: center;
+    text-align: left;
+    color: #fff;
+    border-radius: 1rem;
+    margin: 0.5rem;
+    scroll-margin-top: 3.9rem; 
+}
+ul h2{
+    scroll-margin-top: 5rem; 
+}
+
+.General p, .Biology p , .Bioinformatics p, .Analysis p, .Finance p {
+    /* flex: 1 1 100%; */
+    /* font-style: italic; */
+    font-weight: bold;
+    margin: 6px 3px;
+    color: #aaa;
+}
+.General a, .Biology a, .Bioinformatics a,  .Analysis a, .Finance a{
+    /* flex: 1 1 25%; */
+    display: inline-block;
+    margin: 1rem 1rem;
+}
+.General li:nth-child(-n+2) , .Biology li:nth-child(-n+2) , .Bioinformatics li:nth-child(-n+2), .Analysis li:nth-child(-n+2), .Finance li:nth-child(-n+2) , .Academics li:nth-child(-n+3), .bilibili li:nth-child(-n+3) , .YouTube li:nth-child(-n+3) {
+    display: inline-block;
+    flex: 1 1 100%;
+    padding: 1rem 0px;
+} 
+
+li a {
+    padding: 0 1rem;
+    border-radius: 1rem;
+    box-shadow: 0rem 0rem 0.5rem -0.1rem;
+}
+li a:hover  {
+    color: #000;
+}
+
+
+.General li {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #0F52BA;
+    /* 午夜蓝 */
+    /* background-color: #03257E; */
+}
+.General li a:hover {
+    background-color: #7fbbfa;
+
+}
+
+.Biology li {
+    /* 鸽血红 */
+    /* background-color: #B03060; */
+    /* google红 */
+    background-color: #B53C16;
+}
+.Biology li a:hover {
+    background-color: #F57C56;
+}
+
+.Bioinformatics li {
+    background-color: #9966CC;
+}
+.Bioinformatics li a:hover {
+    background-color: #C9A6FC;
+}
+
+.Analysis li {
+    /* 午夜蓝 */
+    background-color: #03257E;
+}
+.Analysis li a:hover {
+    background-color: #5395EE;
+}
+
+.Artificial-Intelligence li {
+    /* Devil Red */
+    background-color: #860111;
+}
+.Artificial-Intelligence li a:hover {
+    background-color: #B64151;
+}
+
+.Finance li {
+    /* chocolate color */
+    /* background-color: #5C3317; */
+    /* coffee color */
+    background-color: #603811;
+}
+.Finance li a:hover {
+    background-color: #A07851;
+}
+
+.Academics li {
+    /* 常春藤绿 */
+    background-color: #225922;
+    scroll-margin-top: 4.5rem; /* 设置偏移，避免遮挡 */
+}
+.Academics li:nth-child(2) a{
+    /* 海南黄花梨 */
+    color: #CD853F;
+}
+.Academics li a:hover {
+    background-color: #62B962;
+}
+.Academics li:nth-child(2) a:hover{
+    /* 海南黄花梨 */
+    color: #CD853F;
+}
+
+.bilibili li {
+    /* bili pink */
+    /* background-color: #E96589; */
+    /* bili pink 80% */
+    /* background-color: #BA516E; */
+    /* bili pink 90% */
+    background-color: #D25B7B;
+}
+.bilibili li a:hover {
+    background-color: #F29BBB;
+}
+
+.bilibili li:nth-child(2) a{
+    color: #00A0E4;
+}
+
+
+
+

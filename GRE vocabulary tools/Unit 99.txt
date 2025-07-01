@@ -1,0 +1,759 @@
+<<<<<<< HEAD
+ambience: 英[ˈæmbiəns] 美[ˈæmbiəns]
+%n. 气氛，布景；周围环境
+    They created a pleasant ambience in the office.
+#他们在办公室里营造了一种愉快的氛围。
+
+conciliate: 英[kənˈsɪlieɪt] 美[kənˈsɪlieɪt]
+%vt. 安抚，安慰；调和；驯服；怀柔；赢得
+    conciliate an opponent
+#安抚对手
+    conciliate disagreeing parties
+#在意见分歧的各方间进行调解
+    conciliate the views
+#调和看法
+    He conciliated the respect of his associates with his cooperativeness.
+#他以合作态度赢得了同事的尊敬。
+
+signify: 英[ˈsɪɡnɪfaɪ] 美[ˈsɪɡnɪfaɪ]
+%v. 意味着，象征；<正式> 表达，显示（感情、意愿等）；<正式> 要紧，有重要性；<美，非正式>（作为一种游戏或习俗，美国黑人之间）相互吹牛，相互辱骂
+    signify danger
+#标志着危险
+    signify one's agreement by raising one's hands
+#举手表示赞同
+    signify the coming rain
+#预示着将要下雨
+    Nobody really knows what the marks on the ancient stone signify.
+#没有人真正知道这些远古石头上的记号意味着什么。
+
+lunge: 英[lʌndʒ] 美[lʌndʒ]
+$v. 猛冲，猛扑；刺，戳；用驯马索训练
+$n. 猛冲，猛扑；（击剑中）弓箭步（刺）；驯马索；北美狗鱼
+%n. （Lunge）（美、印）隆格（人名）
+    make a lunge at the door
+#向门口冲去
+    make a lunge to catch the ball
+#猛扑过去接球
+    He lunged at the burglar and wrestled with him for the weapon.
+#他扑向窃贼，为争夺武器与之搏斗。
+
+prelude: 英[ˈpreljuːd] 美[ˈpreljuːd]
+$n. 前奏，序幕；前奏曲，序曲；（诗歌等文学作品）引子，序诗
+%v. 成为……的前奏，作为……的序幕
+    the prelude to a reform
+#改革的前奏
+    a prelude to World War II
+#第二次世界大战的序幕
+    Fighting in the streets may be a prelude to more serious trouble.
+#街头打斗可能是更严重事端的序幕。
+
+crusade: 英[kruːˈseɪd] 美[kruːˈseɪd]
+$n. （为维护道义而从事的长期）运动；（中世纪的）十字军东征（同 Crusade）
+%v. 从事改革运动，长期坚定不移地奋斗；加入十字军东征
+    a crusade against crime
+#打击刑事犯罪运动
+    a crusade against corruption
+#打击贪污腐化运动
+    a crusade for women's rights
+#维护女权运动
+    He's running a one-man crusade against cigarette smoking.
+#他在单枪匹马地进行反吸烟运动。
+
+plank: 英[plæŋk] 美[plæŋk]
+$n. 木板，板条；（政党等的）政策准则，（政策或纲领的）要点；（成败的）关键；平板支撑；<英，非正式>蠢人，笨蛋
+%v. 提供木板，铺上木板；<非正式>重重地放下；<苏格兰>藏（物）；立即付款
+    We used a plank to block the garden gate.
+#我们用一块厚木堵住院门。
+
+spew: 英[spjuː] 美[spjuː]
+$vt. 喷出；呕吐
+%vi. 喷涌；呕吐
+    spew one's vomit onto the road
+#呕吐在路面上
+    tens of thousands of gallons of oil spewing into the sea
+#成千上万加仑的油涌人海中
+    spew black smoke
+#冒出黑烟
+    Water spewed slowly from the soil.
+#水从土中慢慢渗出。
+
+inscribe: 英[ɪnˈskraɪb] 美[ɪnˈskraɪb]
+%vt. 题写；题献；铭记；雕
+    inscribe one's name on the ring
+#将名字刻在戒指上
+    inscribe one's name in the book
+#在书上签名
+    inscribe a book to a friend
+#把一本书题赠给朋友
+    The gravestone was inscribed with the name and dates of the dead scientist.
+#墓碑上刻着这位已故4学家的名字和生卒日期。
+
+husbandry: 英[ˈhʌzbəndri] 美[ˈhʌzbəndri]
+%n. 饲养业，农牧业；（金钱和其他必要物品的）管理，妥善使用；<古>家政
+    The old man is a good hand at crop husbandry.
+#这位老人是种庄稼的能手。
+
+glimmer: 英[ˈɡlɪmə(r)] 美[ˈɡlɪmər]
+$n. 微光；闪光；少许
+%vi. 闪烁；发微光
+    I saw a glimmer of light from their campfire a long way off.
+#我看见很远处他们生起的营火闪着微光。
+    a glimmer of hope
+#一丝希望
+    a glimmer of interest
+#一点兴趣
+
+domesticate: 英[dəˈmestɪkeɪt] 美[dəˈmestɪkeɪt]
+$vt. 驯养；教化；引进
+%vi. 驯养；使习惯于或喜爱家务和家庭生活
+    domesticated animals
+#驯养的动物
+    Since they had their baby they've both become quite domesticated.
+#自从有了孩子，他们都开始喜欢家庭生活。
+
+saunter: 英[ˈsɔːntə(r)] 美[ˈsɔːntər]
+$n. 漫步；闲逛
+%vi. 闲逛；漫步
+    saunter along the street
+#在街上闲逛
+    People sauntered through the park on summer mornings.
+#夏日的早晨，人们在公园里漫步。
+
+pound: 英[paʊnd] 美[paʊnd]
+$n. 磅（重量单位）；英镑（英国货币单位）；一英镑纸币（或硬币），一镑纸币（或硬币）；英镑与外币的比值（the pound）；（流浪猫狗的）收留所，待领场；（违规停放车辆的）临时扣押场；镑（英国以外某些国家的货币单位）；井号键；<古> 拘留所，监禁所；重击，重击声
+%v. 连续重击，猛打；（心脏）剧烈地跳动；（头）剧痛；脚步声沉重地走（跑）；连续轰炸，猛烈袭击；捣碎，击碎；长时间苦干；<美，非正式> 快速地喝；<非正式> 彻底打败（对手）；大声播放；监禁，拘留
+    twenty pounds' worth of petrol
+#20英磅的汽油
+    pound the garlic into paste
+#把大蒜捣成酱
+    I could feel my heart pounding as I went on stage to collect the prize.
+#上台领奖时我感到心怦怦直跳。
+
+adroit: 英[əˈdrɔɪt] 美[əˈdrɔɪt]
+%adj. 敏捷的，灵巧的；熟练的
+    be adroit with one's hands
+#双手很灵巧
+    an adroit excuse
+#巧妙的借口
+    an adroit lawyer
+#精明干练律师
+    adroit in posing questions
+#善于提问题
+    She has never been adroit at concealment.
+#她从来不善于隐瞒。
+
+cosmos: 英[ˈkɒzmɒs] 美[ˈkɑːzmoʊs]
+%n. 宇宙；完整和谐的一统体系；秋英属植物
+    There may be other intelligent life elsewhere in the cosmos.
+#在宇宙的其他地方也许有别的智慧生物。
+
+emanate: 英[ˈeməneɪt] 美[ˈeməneɪt]
+%v. 产生；（抽象可感的东西）散发；表现出（品质）
+    emanate dangerous radiations
+#射出危险的射线
+    Strange-smelling gases emanated from holes in the ground.
+#怪味气体从地上的洞里散发出来。
+
+erupt: 英[ɪˈrʌpt] 美[ɪˈrʌpt]
+%v. 喷发；爆发，突然发生；（感情）迸发；（斑疹等）突然冒出；长牙
+    The volcano on the island erupted in 1908 after two hundred years of silence.
+#这个岛上的火山沉寂了200年后在1908年爆发了。
+
+bargain: 英[ˈbɑːɡən] 美[ˈbɑːrɡən]
+$n. 便宜货，减价品；协议，交易
+%v. 讨价还价，谈判
+    a real bargain
+#买得合算
+    a bargain sale
+#廉价出售
+    When the middle-aged woman was bargaining with the pedlar, the thief stole her purse.
+#当那位中年妇女同小贩讨价还价时，一个小偷偷了她的钱包。
+
+unravel: 英[ʌnˈræv(ə)l] 美[ʌnˈræv(ə)l]
+%v. （使）解开，（使）松开；弄清，阐明；崩溃，失败
+    unravel the threads
+#解开线
+    unravel a mystery
+#解谜
+    unravel a difficulty
+#解决一个难题
+    The sweater is unraveling at the elbow.
+#毛衣的部脱线了。
+
+wrench: 英[rentʃ] 美[rentʃ]
+$v. 猛拉，猛扭，挣脱；扭伤；夺走（某人），拆散；使痛苦，使十分难过（尤指以致哭喊出声）；用扳钳拧
+%n. 扳手，扳钳；（离别的）痛苦，难受；猛扭，猛拉；（机械）偶单力组；扭伤；歪曲
+    He gave a wrench at the door knob.
+#他猛地扭了一下门的把手。
+
+confederacy: 英[kənˈfedərəsi] 美[kənˈfedərəsi]
+%n. 联盟；联邦；私党
+    in close confederacy with
+#与……联盟/勾结
+
+imbibe: 英[ɪmˈbaɪb] 美[ɪmˈbaɪb]
+%vt. 吸收，接受；喝；吸入
+    imbibe intoxicating liquor
+#饮烈酒
+    imbibe freely of champagne
+#痛饮香槟酒
+    A sponge imbibes moisture.
+#海绵吸收水分。
+
+vagrant: 英[ˈveɪɡrənt] 美[ˈveɪɡrənt]
+$n. 流浪者，乞丐；离群鸟
+%adj. 流浪（者）的，流浪生活的；无定向的，游移不定的；<文>无常的
+    a vagrant musician
+#流浪乐师
+    vagrant habits
+#游民习性
+    a band of vagrants
+#一群流浪汉
+    A vagrant current carried off his raft.
+#一股无定向的激流把他的筏子冲走了。
+
+pigment: 英[ˈpɪɡmənt] 美[ˈpɪɡmənt]
+$n. 色素；颜料
+%v. 给……染色；呈现颜色
+    the pigment of the skin
+#皮肤的色素
+    pigment the photograph
+#给照片着色
+    The shop sells organic pigments.
+#这家商店出售有机颜料。
+
+rendition: 英[renˈdɪʃ(ə)n] 美[renˈdɪʃ(ə)n]
+%n. 表演，演奏；视觉形象，视觉再现；翻译，译文；秘密引渡
+    timely rendition of medical care
+#及时的医疗
+    the first rendition of the work into English
+#这部作品的第一个英文译本
+    an English rendition of a Greek poem
+#一首希腊诗的英文译本
+    She gave a splendid rendition of the song.
+#这首歌她唱得动听极了。
+
+requisite: 英[ˈrekwɪzɪt] 美[ˈrekwɪzɪt]
+$adj. <正式>必需的，必要的
+%n. <正式>必需品，必要条件
+    a requisite for long journeys
+#长途旅行的必需品
+    requisite documents
+#必备文件
+    Self-esteem, self-judgment and self-will are said to be the three requisites of independence.
+#据说，自我尊重、自我判断和自我意志是独立自主的三个必要条件。
+
+exterminate: 英[ɪkˈstɜːmɪneɪt] 美[ɪkˈstɜːrmɪneɪt]
+%vt. 消灭；根除
+    a poison to exterminate rats
+#灭鼠药
+    exterminate mosquitos
+#消灭蚊子
+    Fishing must stop before the species is exterminated.
+#趁这种鱼类尚未灭绝，（人们）必须立即停止捕捞。
+
+incidental: 英[ˌɪnsɪˈdent(ə)l] 美[ˌɪnsɪˈdent(ə)l]
+$adj. 附带的，次要的；伴随而来的，免不了的；偶然发生的
+%n. 杂费，附带事件
+    the pleasures incidental to teaching children
+#教育孩子带来的乐趣
+    trivial incidental things
+#琐细的小事
+    a report full of incidental details
+#一份满是附带细节的报告
+    a series of incidental questions
+#一连串无关紧要的问题
+    incidental happenings
+#偶然发生的事
+    problems incidental to setting up in business
+#生意开张时难免要遇到的麻烦
+    There are always a lot of incidental expenses when you go on foreign trips.
+#当你去国外旅行时总会有许多附带的花费。
+
+agitation: 英[ˌædʒɪˈteɪʃ(ə)n] 美[ˌædʒɪˈteɪʃ(ə)n]
+%n. 焦虑不安；煽动，鼓动；（液体的）搅动
+    create agitation
+#引起骚动
+    make an agitation on the surface of water
+#搅动着水面
+    conduct propaganda and agitation
+#进行宣传鼓动
+    Agitation of the leaves in the breeze made rustling sound.
+#树叶在微风中摇动，发出飒飒的风声。
+
+proficient: 英[prəˈfɪʃ(ə)nt] 美[prəˈfɪʃ(ə)nt]
+$adj. 熟练的，精通的
+%n. <古>专家，能手
+    be proficient at several languages
+#精通几门语言
+    It takes a couple of years of regular driving before you became proficient in it.
+#得开上两三年车，你才能熟练自如。
+
+hypothetical: 英[ˌhaɪpəˈθetɪk(ə)l] 美[ˌhaɪpəˈθetɪk(ə)l]
+$adj. （基于）假设的，假定的
+%n. 假设命题，假设陈述
+    This is only a hypothetical example, but it will help us consider the problem.
+#虽然这只是个假定的例子，但它对我们思考这个问题会有帮助。
+
+boredom: 英[ˈbɔːdəm] 美[ˈbɔːrdəm]
+%n. 厌烦，无聊
+    conceal one's boredom
+#掩饰自己的厌烦情绪
+    walk out through sheer boredom
+#因无聊而中途退却
+    They started quarreling out of sheer boredom.
+#他们开始争吵，完全是出于无聊。
+
+juncture: 英[ˈdʒʌŋktʃə(r)] 美[ˈdʒʌŋktʃər]
+%n. 接缝；连接；接合；特定时刻，关头；交接处，接合点；音渡
+    at the juncture of three fields
+#在三块田地的交界处
+    at an important historical juncture
+#在重大历史关头
+    at this juncture
+#在这个当头
+
+symbolic: 英[sɪmˈbɒlɪk] 美[sɪmˈbɑːlɪk]
+%adj. 用作象征的，被认为是象征的；有象征意义的；（行为举动）象征性的，没有甚么实际影响的；符号的，使用象征的
+    symbolic meanings
+#象征意义
+    a symbolic method of writing
+#符号书写方法
+
+inquisitive: 英[ɪnˈkwɪzətɪv] 美[ɪnˈkwɪzətɪv]
+%adj. 过分好奇的，爱打听的；好学的，兴趣广泛的
+    a very inquisitive woman
+#好管事的女人
+    show an inquisitive mind
+#表现出好钻研的精神
+    It annoys me that she's so inquisitive about everything that I do.
+#她对我做的任何事情都爱打听，真让我生气。
+
+illegitimate: 英[ˌɪləˈdʒɪtəmət] 美[ˌɪləˈdʒɪtəmət]
+$adj. 私生的；非法的；不合理的
+$vt. 认做私生子；认为违法
+%n. 非嫡出子；庶子
+    an illegitimate child
+#私生子
+    an illegitimate claim to property
+#不合法的财产要求
+    an illegitimate conclusion
+#不合逻辑的结论
+    They discovered he had an illegitimate child.
+#他们发现他有一个私生子。
+
+negligent: 英[ˈneɡlɪdʒənt] 美[ˈneɡlɪdʒənt]
+%adj. 疏忽的，玩忽职守的，失职的；<文>放松的，随便的，不拘谨的
+    be negligent of one's duties
+#玩忽职守
+    dress with negligent grace
+#穿着随便却不失优雅
+    The judge said the teacher had been negligent in allowing the children to swim in the dangerous river.
+#法官说让孩子们在有危险的河里游泳是教师的失职。
+
+colorful: 英[ˈkʌləf(ə)l] 美[ˈkʌlərf(ə)l]
+%adj. 华美的；有趣的；富有色彩的
+    colorful paintings
+#色彩斑斓的油画
+    have a very colorful past
+#有着辉煌的过去
+    a bird with colorful wings
+#羽毛鲜艳的小鸟
+    a colorful character
+#生动活泼的性格
+    a colorful garden
+#绚丽多姿的庭院
+    a colorful narrative
+#绘声绘色的描述
+    She was wearing a colorful blue and yellow dress.
+#她穿了一件鲜艳的蓝黄相间的衣服。
+
+treacherous: 英[ˈtretʃərəs] 美[ˈtretʃərəs]
+%adj. （人）不忠的，背信弃义的；（地面、道路、天气情况等）暗藏危险的
+    a scheming and treacherous person
+#一个工于心计、轻诺寡信的人
+    cover treacherous purposes with smiles
+#用微笑掩盖阴险心肠
+    Snow and ice in the north has left many roads treacherous.
+#北部的冰雪使得很多道路很危险。
+
+=======
+ambience: 英[ˈæmbiəns] 美[ˈæmbiəns]
+%n. 气氛，布景；周围环境
+    They created a pleasant ambience in the office.
+#他们在办公室里营造了一种愉快的氛围。
+
+conciliate: 英[kənˈsɪlieɪt] 美[kənˈsɪlieɪt]
+%vt. 安抚，安慰；调和；驯服；怀柔；赢得
+    conciliate an opponent
+#安抚对手
+    conciliate disagreeing parties
+#在意见分歧的各方间进行调解
+    conciliate the views
+#调和看法
+    He conciliated the respect of his associates with his cooperativeness.
+#他以合作态度赢得了同事的尊敬。
+
+signify: 英[ˈsɪɡnɪfaɪ] 美[ˈsɪɡnɪfaɪ]
+%v. 意味着，象征；<正式> 表达，显示（感情、意愿等）；<正式> 要紧，有重要性；<美，非正式>（作为一种游戏或习俗，美国黑人之间）相互吹牛，相互辱骂
+    signify danger
+#标志着危险
+    signify one's agreement by raising one's hands
+#举手表示赞同
+    signify the coming rain
+#预示着将要下雨
+    Nobody really knows what the marks on the ancient stone signify.
+#没有人真正知道这些远古石头上的记号意味着什么。
+
+lunge: 英[lʌndʒ] 美[lʌndʒ]
+$v. 猛冲，猛扑；刺，戳；用驯马索训练
+$n. 猛冲，猛扑；（击剑中）弓箭步（刺）；驯马索；北美狗鱼
+%n. （Lunge）（美、印）隆格（人名）
+    make a lunge at the door
+#向门口冲去
+    make a lunge to catch the ball
+#猛扑过去接球
+    He lunged at the burglar and wrestled with him for the weapon.
+#他扑向窃贼，为争夺武器与之搏斗。
+
+prelude: 英[ˈpreljuːd] 美[ˈpreljuːd]
+$n. 前奏，序幕；前奏曲，序曲；（诗歌等文学作品）引子，序诗
+%v. 成为……的前奏，作为……的序幕
+    the prelude to a reform
+#改革的前奏
+    a prelude to World War II
+#第二次世界大战的序幕
+    Fighting in the streets may be a prelude to more serious trouble.
+#街头打斗可能是更严重事端的序幕。
+
+crusade: 英[kruːˈseɪd] 美[kruːˈseɪd]
+$n. （为维护道义而从事的长期）运动；（中世纪的）十字军东征（同 Crusade）
+%v. 从事改革运动，长期坚定不移地奋斗；加入十字军东征
+    a crusade against crime
+#打击刑事犯罪运动
+    a crusade against corruption
+#打击贪污腐化运动
+    a crusade for women's rights
+#维护女权运动
+    He's running a one-man crusade against cigarette smoking.
+#他在单枪匹马地进行反吸烟运动。
+
+plank: 英[plæŋk] 美[plæŋk]
+$n. 木板，板条；（政党等的）政策准则，（政策或纲领的）要点；（成败的）关键；平板支撑；<英，非正式>蠢人，笨蛋
+%v. 提供木板，铺上木板；<非正式>重重地放下；<苏格兰>藏（物）；立即付款
+    We used a plank to block the garden gate.
+#我们用一块厚木堵住院门。
+
+spew: 英[spjuː] 美[spjuː]
+$vt. 喷出；呕吐
+%vi. 喷涌；呕吐
+    spew one's vomit onto the road
+#呕吐在路面上
+    tens of thousands of gallons of oil spewing into the sea
+#成千上万加仑的油涌人海中
+    spew black smoke
+#冒出黑烟
+    Water spewed slowly from the soil.
+#水从土中慢慢渗出。
+
+inscribe: 英[ɪnˈskraɪb] 美[ɪnˈskraɪb]
+%vt. 题写；题献；铭记；雕
+    inscribe one's name on the ring
+#将名字刻在戒指上
+    inscribe one's name in the book
+#在书上签名
+    inscribe a book to a friend
+#把一本书题赠给朋友
+    The gravestone was inscribed with the name and dates of the dead scientist.
+#墓碑上刻着这位已故4学家的名字和生卒日期。
+
+husbandry: 英[ˈhʌzbəndri] 美[ˈhʌzbəndri]
+%n. 饲养业，农牧业；（金钱和其他必要物品的）管理，妥善使用；<古>家政
+    The old man is a good hand at crop husbandry.
+#这位老人是种庄稼的能手。
+
+glimmer: 英[ˈɡlɪmə(r)] 美[ˈɡlɪmər]
+$n. 微光；闪光；少许
+%vi. 闪烁；发微光
+    I saw a glimmer of light from their campfire a long way off.
+#我看见很远处他们生起的营火闪着微光。
+    a glimmer of hope
+#一丝希望
+    a glimmer of interest
+#一点兴趣
+
+domesticate: 英[dəˈmestɪkeɪt] 美[dəˈmestɪkeɪt]
+$vt. 驯养；教化；引进
+%vi. 驯养；使习惯于或喜爱家务和家庭生活
+    domesticated animals
+#驯养的动物
+    Since they had their baby they've both become quite domesticated.
+#自从有了孩子，他们都开始喜欢家庭生活。
+
+saunter: 英[ˈsɔːntə(r)] 美[ˈsɔːntər]
+$n. 漫步；闲逛
+%vi. 闲逛；漫步
+    saunter along the street
+#在街上闲逛
+    People sauntered through the park on summer mornings.
+#夏日的早晨，人们在公园里漫步。
+
+pound: 英[paʊnd] 美[paʊnd]
+$n. 磅（重量单位）；英镑（英国货币单位）；一英镑纸币（或硬币），一镑纸币（或硬币）；英镑与外币的比值（the pound）；（流浪猫狗的）收留所，待领场；（违规停放车辆的）临时扣押场；镑（英国以外某些国家的货币单位）；井号键；<古> 拘留所，监禁所；重击，重击声
+%v. 连续重击，猛打；（心脏）剧烈地跳动；（头）剧痛；脚步声沉重地走（跑）；连续轰炸，猛烈袭击；捣碎，击碎；长时间苦干；<美，非正式> 快速地喝；<非正式> 彻底打败（对手）；大声播放；监禁，拘留
+    twenty pounds' worth of petrol
+#20英磅的汽油
+    pound the garlic into paste
+#把大蒜捣成酱
+    I could feel my heart pounding as I went on stage to collect the prize.
+#上台领奖时我感到心怦怦直跳。
+
+adroit: 英[əˈdrɔɪt] 美[əˈdrɔɪt]
+%adj. 敏捷的，灵巧的；熟练的
+    be adroit with one's hands
+#双手很灵巧
+    an adroit excuse
+#巧妙的借口
+    an adroit lawyer
+#精明干练律师
+    adroit in posing questions
+#善于提问题
+    She has never been adroit at concealment.
+#她从来不善于隐瞒。
+
+cosmos: 英[ˈkɒzmɒs] 美[ˈkɑːzmoʊs]
+%n. 宇宙；完整和谐的一统体系；秋英属植物
+    There may be other intelligent life elsewhere in the cosmos.
+#在宇宙的其他地方也许有别的智慧生物。
+
+emanate: 英[ˈeməneɪt] 美[ˈeməneɪt]
+%v. 产生；（抽象可感的东西）散发；表现出（品质）
+    emanate dangerous radiations
+#射出危险的射线
+    Strange-smelling gases emanated from holes in the ground.
+#怪味气体从地上的洞里散发出来。
+
+erupt: 英[ɪˈrʌpt] 美[ɪˈrʌpt]
+%v. 喷发；爆发，突然发生；（感情）迸发；（斑疹等）突然冒出；长牙
+    The volcano on the island erupted in 1908 after two hundred years of silence.
+#这个岛上的火山沉寂了200年后在1908年爆发了。
+
+bargain: 英[ˈbɑːɡən] 美[ˈbɑːrɡən]
+$n. 便宜货，减价品；协议，交易
+%v. 讨价还价，谈判
+    a real bargain
+#买得合算
+    a bargain sale
+#廉价出售
+    When the middle-aged woman was bargaining with the pedlar, the thief stole her purse.
+#当那位中年妇女同小贩讨价还价时，一个小偷偷了她的钱包。
+
+unravel: 英[ʌnˈræv(ə)l] 美[ʌnˈræv(ə)l]
+%v. （使）解开，（使）松开；弄清，阐明；崩溃，失败
+    unravel the threads
+#解开线
+    unravel a mystery
+#解谜
+    unravel a difficulty
+#解决一个难题
+    The sweater is unraveling at the elbow.
+#毛衣的部脱线了。
+
+wrench: 英[rentʃ] 美[rentʃ]
+$v. 猛拉，猛扭，挣脱；扭伤；夺走（某人），拆散；使痛苦，使十分难过（尤指以致哭喊出声）；用扳钳拧
+%n. 扳手，扳钳；（离别的）痛苦，难受；猛扭，猛拉；（机械）偶单力组；扭伤；歪曲
+    He gave a wrench at the door knob.
+#他猛地扭了一下门的把手。
+
+confederacy: 英[kənˈfedərəsi] 美[kənˈfedərəsi]
+%n. 联盟；联邦；私党
+    in close confederacy with
+#与……联盟/勾结
+
+imbibe: 英[ɪmˈbaɪb] 美[ɪmˈbaɪb]
+%vt. 吸收，接受；喝；吸入
+    imbibe intoxicating liquor
+#饮烈酒
+    imbibe freely of champagne
+#痛饮香槟酒
+    A sponge imbibes moisture.
+#海绵吸收水分。
+
+vagrant: 英[ˈveɪɡrənt] 美[ˈveɪɡrənt]
+$n. 流浪者，乞丐；离群鸟
+%adj. 流浪（者）的，流浪生活的；无定向的，游移不定的；<文>无常的
+    a vagrant musician
+#流浪乐师
+    vagrant habits
+#游民习性
+    a band of vagrants
+#一群流浪汉
+    A vagrant current carried off his raft.
+#一股无定向的激流把他的筏子冲走了。
+
+pigment: 英[ˈpɪɡmənt] 美[ˈpɪɡmənt]
+$n. 色素；颜料
+%v. 给……染色；呈现颜色
+    the pigment of the skin
+#皮肤的色素
+    pigment the photograph
+#给照片着色
+    The shop sells organic pigments.
+#这家商店出售有机颜料。
+
+rendition: 英[renˈdɪʃ(ə)n] 美[renˈdɪʃ(ə)n]
+%n. 表演，演奏；视觉形象，视觉再现；翻译，译文；秘密引渡
+    timely rendition of medical care
+#及时的医疗
+    the first rendition of the work into English
+#这部作品的第一个英文译本
+    an English rendition of a Greek poem
+#一首希腊诗的英文译本
+    She gave a splendid rendition of the song.
+#这首歌她唱得动听极了。
+
+requisite: 英[ˈrekwɪzɪt] 美[ˈrekwɪzɪt]
+$adj. <正式>必需的，必要的
+%n. <正式>必需品，必要条件
+    a requisite for long journeys
+#长途旅行的必需品
+    requisite documents
+#必备文件
+    Self-esteem, self-judgment and self-will are said to be the three requisites of independence.
+#据说，自我尊重、自我判断和自我意志是独立自主的三个必要条件。
+
+exterminate: 英[ɪkˈstɜːmɪneɪt] 美[ɪkˈstɜːrmɪneɪt]
+%vt. 消灭；根除
+    a poison to exterminate rats
+#灭鼠药
+    exterminate mosquitos
+#消灭蚊子
+    Fishing must stop before the species is exterminated.
+#趁这种鱼类尚未灭绝，（人们）必须立即停止捕捞。
+
+incidental: 英[ˌɪnsɪˈdent(ə)l] 美[ˌɪnsɪˈdent(ə)l]
+$adj. 附带的，次要的；伴随而来的，免不了的；偶然发生的
+%n. 杂费，附带事件
+    the pleasures incidental to teaching children
+#教育孩子带来的乐趣
+    trivial incidental things
+#琐细的小事
+    a report full of incidental details
+#一份满是附带细节的报告
+    a series of incidental questions
+#一连串无关紧要的问题
+    incidental happenings
+#偶然发生的事
+    problems incidental to setting up in business
+#生意开张时难免要遇到的麻烦
+    There are always a lot of incidental expenses when you go on foreign trips.
+#当你去国外旅行时总会有许多附带的花费。
+
+agitation: 英[ˌædʒɪˈteɪʃ(ə)n] 美[ˌædʒɪˈteɪʃ(ə)n]
+%n. 焦虑不安；煽动，鼓动；（液体的）搅动
+    create agitation
+#引起骚动
+    make an agitation on the surface of water
+#搅动着水面
+    conduct propaganda and agitation
+#进行宣传鼓动
+    Agitation of the leaves in the breeze made rustling sound.
+#树叶在微风中摇动，发出飒飒的风声。
+
+proficient: 英[prəˈfɪʃ(ə)nt] 美[prəˈfɪʃ(ə)nt]
+$adj. 熟练的，精通的
+%n. <古>专家，能手
+    be proficient at several languages
+#精通几门语言
+    It takes a couple of years of regular driving before you became proficient in it.
+#得开上两三年车，你才能熟练自如。
+
+hypothetical: 英[ˌhaɪpəˈθetɪk(ə)l] 美[ˌhaɪpəˈθetɪk(ə)l]
+$adj. （基于）假设的，假定的
+%n. 假设命题，假设陈述
+    This is only a hypothetical example, but it will help us consider the problem.
+#虽然这只是个假定的例子，但它对我们思考这个问题会有帮助。
+
+boredom: 英[ˈbɔːdəm] 美[ˈbɔːrdəm]
+%n. 厌烦，无聊
+    conceal one's boredom
+#掩饰自己的厌烦情绪
+    walk out through sheer boredom
+#因无聊而中途退却
+    They started quarreling out of sheer boredom.
+#他们开始争吵，完全是出于无聊。
+
+juncture: 英[ˈdʒʌŋktʃə(r)] 美[ˈdʒʌŋktʃər]
+%n. 接缝；连接；接合；特定时刻，关头；交接处，接合点；音渡
+    at the juncture of three fields
+#在三块田地的交界处
+    at an important historical juncture
+#在重大历史关头
+    at this juncture
+#在这个当头
+
+symbolic: 英[sɪmˈbɒlɪk] 美[sɪmˈbɑːlɪk]
+%adj. 用作象征的，被认为是象征的；有象征意义的；（行为举动）象征性的，没有甚么实际影响的；符号的，使用象征的
+    symbolic meanings
+#象征意义
+    a symbolic method of writing
+#符号书写方法
+
+inquisitive: 英[ɪnˈkwɪzətɪv] 美[ɪnˈkwɪzətɪv]
+%adj. 过分好奇的，爱打听的；好学的，兴趣广泛的
+    a very inquisitive woman
+#好管事的女人
+    show an inquisitive mind
+#表现出好钻研的精神
+    It annoys me that she's so inquisitive about everything that I do.
+#她对我做的任何事情都爱打听，真让我生气。
+
+illegitimate: 英[ˌɪləˈdʒɪtəmət] 美[ˌɪləˈdʒɪtəmət]
+$adj. 私生的；非法的；不合理的
+$vt. 认做私生子；认为违法
+%n. 非嫡出子；庶子
+    an illegitimate child
+#私生子
+    an illegitimate claim to property
+#不合法的财产要求
+    an illegitimate conclusion
+#不合逻辑的结论
+    They discovered he had an illegitimate child.
+#他们发现他有一个私生子。
+
+negligent: 英[ˈneɡlɪdʒənt] 美[ˈneɡlɪdʒənt]
+%adj. 疏忽的，玩忽职守的，失职的；<文>放松的，随便的，不拘谨的
+    be negligent of one's duties
+#玩忽职守
+    dress with negligent grace
+#穿着随便却不失优雅
+    The judge said the teacher had been negligent in allowing the children to swim in the dangerous river.
+#法官说让孩子们在有危险的河里游泳是教师的失职。
+
+colorful: 英[ˈkʌləf(ə)l] 美[ˈkʌlərf(ə)l]
+%adj. 华美的；有趣的；富有色彩的
+    colorful paintings
+#色彩斑斓的油画
+    have a very colorful past
+#有着辉煌的过去
+    a bird with colorful wings
+#羽毛鲜艳的小鸟
+    a colorful character
+#生动活泼的性格
+    a colorful garden
+#绚丽多姿的庭院
+    a colorful narrative
+#绘声绘色的描述
+    She was wearing a colorful blue and yellow dress.
+#她穿了一件鲜艳的蓝黄相间的衣服。
+
+treacherous: 英[ˈtretʃərəs] 美[ˈtretʃərəs]
+%adj. （人）不忠的，背信弃义的；（地面、道路、天气情况等）暗藏危险的
+    a scheming and treacherous person
+#一个工于心计、轻诺寡信的人
+    cover treacherous purposes with smiles
+#用微笑掩盖阴险心肠
+    Snow and ice in the north has left many roads treacherous.
+#北部的冰雪使得很多道路很危险。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

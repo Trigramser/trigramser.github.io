@@ -1,0 +1,627 @@
+<<<<<<< HEAD
+inducible:
+    eukaryotic inducible expression systems: advances in research
+#真和细胞诱导表达系统研究进展
+
+codify:
+    Most of the laws of war have been codified in international agreement.
+#大多数关于战争的法典被编进了国际公约中。
+
+habituate:
+    habituate oneself to/be habituated to a solitary life
+#习惯于独居的生活
+    The responsibility of command has habituated him to making quick decisions.
+#指挥的职责已使他习惯于当机立断。
+
+distortion:
+    These accusations are outrageous distortions of the truth.
+#这些指控是对真相的严重歪曲。
+
+titular:
+    It is already agreed that Mr. Brown will be that titular head of the new bank.
+#已经达成一致意见，布朗先生将作为新银行的名义上的负责人。
+
+temperate:
+    a very temperate man
+#性格非常温和的人
+    be temperate in eating and drinking
+#饮食有节制
+    temperate climate
+#温和的气候
+    Temperate criticism can encourage people to make improvements.
+#适度批评能激励人上进。
+
+predestine:
+    It seems the expedition is predestined to fail because there have been so many problems.
+#看来这次远征注定失败，因为已经出现了这么多问题。
+
+sun-bronzed:
+    The old farmer's face is sun-bronzed.
+#这位老农夫的脸被晒成了古铜色。
+
+quarantine:
+    The horse had to spend several days in quarantine when it reached Britain.
+#这匹马到达英国时，要接受数天的隔离检疫。
+
+trepidation:
+    We view future developments with some trepidation.
+#我们惴惴不安地展望未来的动态。
+
+verse:
+    prose and verse
+#散文与诗歌
+    satirical verse
+#讽刺的诗句
+    His publications include a book of short stories and several volumes of verse.
+#他出版的书包括一部短篇小说集和几部诗集。
+
+propensity:
+    She has inherited from her mother a propensity to talk too much.
+#她从母亲那里继承了说话太多的毛病。
+
+hiatus:
+    The company expects to resume production of air conditioners again after a three-month hiatus.
+#该公司期待在中断三个月后再次恢复空调的生产。
+
+uncommunicative:
+    He's been so uncommunicative recently.
+#他最近寡言少语。
+
+downplay:
+    The government has been trying to downplay the crisis.
+#政府试图对危机进行低调处理。
+
+genus:
+    Oranges and lemons belong to the same genus.
+#橙子和柠檬均为柑橘属植物。
+
+atheist:
+    She has been a confirmed atheist for many years.
+#许多年来，她一直是坚定的无神论者。
+
+unspotted:
+    unspotted honor
+#未被玷污的荣誉
+    unspotted reputation
+#清白的名声
+    an unspotted breed dog
+#一种身上无斑点的狗
+
+aspiring:
+    Aspiring ballet dancers need to be strong as well as agile.
+#想要薪露头角的芭蕾舞演员需要具有强健的体格和敏捷的身段。
+
+textured:
+    a textured fabric
+#有条纹的织物
+    coarse-textured sand
+#粗质沙
+    a rich textured poem
+#富有律的诗
+
+paltry:
+    The company offered Jim a paltry sum which he refused.
+#公司给了吉姆一笔微不足道的钱，但他拒绝了。
+
+tentatively:
+    She spoke tentatively scared that someone might interrupt her or criticize her ideas.
+#她迟疑不决地说着，生怕有人会打断她或批评她的想法。
+
+culinary:
+    culinary implements
+#烹饪用具
+    culinary skills
+#烹饪技能
+    My culinary skills are rather limited, I am afraid.
+#我恐怕不太会烧菜。
+
+vainglorious:
+    He was rather vainglorious about his own war record.
+#他非常喜欢吹嘘自己的战争经历。
+
+unconvinced:
+    remain unconvinced
+#仍然不信服
+
+ineptitude:
+    The newspaper editorial correctly pointed out the government's ineptitude in dealing with the crisis.
+#报纸社论正确地指出了该政府在处理危机中的无能。
+
+impolitic:
+    Fiona was coming to the party so I thought it impolitic to her ex-husband.
+#菲奥娜要来参加聚会，所以我认为这对她的前夫是不妥当的。
+
+ephemeral:
+    ephemeral pleasures
+#短暂的欢乐
+    ephemeral gains
+#短暂的收益
+    Fame in the world of rock and pop is largely ephemeral.
+#在摇滚音乐和流行音乐界，名声往往是县花一现的。
+
+promulgate:
+    promulgate a constitution
+#颁布宪法
+    promulgate a decree
+#公布法令
+    The new law was finally promulgated in the autumn of last year.
+#新法律最终在去年秋天须布。
+
+dearth:
+    a dearth of corn
+#谷物供应不足
+    in time of dearth
+#荒年时
+    The factory's closure has been blamed on the dearth of orders for its products during the recession.
+#工厂的倒闭被归咎于是经济衰退期间缺少产品订单。
+
+idiosyncratic:
+    The film, 5 hours long, is directed in his usual idiosyncratic style.
+#这部长达5小时的电影是以他一贯的独特风格导演的。
+
+individualism:
+    Because of individualism of her work, I think we should accept this candidate.
+#由于她工作中的个人主义，我认为我们应该接受这个候选人。
+
+tardy:
+    a tardy reader
+#阅读速度缓慢的读者
+    be tardy for/to school
+#上学迟到
+    Dinner was somewhat delayed on account of David's rather tardy arrival.
+#由于戴维的迟到，晚餐推迟了一会儿。
+
+transitional:
+    a transitional government
+#过渡政府
+    We had a transitional period of two or three months.
+#我们有两三个月的过渡时期。
+
+irate:
+    He received some irate phone calls from customers.
+#他接到顾客打来的一些愤怒的电话。
+
+sequential:
+    The book constitutes the first sequential exposition of events.
+#这本书是对这些事件的第一次连续的阐述。
+
+clannish:
+    We moved to the area two years ago and found the clannish quality of village life hard to cope with.
+#两年前我们搬到这个地区，发现乡村生活的排外性很难应付。
+
+stilted:
+    He writes in a formal and rather stilted style.
+#他用一种正式又相当生硬的文体写作。
+
+crossfire:
+    One boat of refugees was caught in the naval crossfire and sank.
+#一艘难民船在海上交火中被困并沉没。
+
+suppliant:
+    suppliant words
+#恳求的话语
+    He's a suppliant sinner seeking forgiveness.
+#他是个恳求宽恕的罪人。
+
+bygone:
+    an England of bygone days
+#昔日的英国
+    a bygone era
+#消逝的时代
+    let bygones be bygones
+#过去的就让它过去吧
+    The empty factories are relics of a bygone age, no longer required by the modern world.
+#空荡荡的工厂是过往时代的遗留物，不再是现代世界所需要的。
+
+allusive:
+    His music is witty, ironic and allusive.
+#他的音乐诙谐讥讽，并充满了暗示。
+
+awestruck:
+    an awestruck admirer
+#充满崇敬之情的钦佩者
+    awestruck visitors
+#充满崇敬之情的参观者
+    I could tell she was impressed from the awestruck expression on her face.
+#从她脸上敬畏的表情，我可以看出她深受感动。
+
+conifer:
+    Conifers are an important source of timber for manufacture of furniture.
+#针叶树是一种重要的木材来源，用于制造家具。
+
+unwonted:
+    speak with unwonted severity
+#以不同寻常的严峻口气说话
+    a word of unwonted kindness
+#异常亲切的话
+    unwonted silence
+#少有的寂静
+    He spoke with unwonted enthusiasm.
+#他讲话显得出人意料地热心。
+
+scavenge:
+    scavenge through rubbish dumps for old furniture
+#搜寻垃圾堆捡回旧家具
+    scavenge a street
+#清扫街道
+    The flood has left villagers and animals desperately scavenging for food.
+#洪水使村民和牲畜不顾一切地寻找食物。
+
+disavow:
+    disavow a rumor
+#否认传言
+    disavow a proposal
+#拒绝接受一项建议
+    He publicly disavowed any connection with terrorist groups.
+#他公开否认与恐怖集团存在干系。
+
+septic:
+    septic pneumonia
+#肺脓肿
+    She had her ears pierced and one of them went septic.
+#她打了耳洞，然后其中一个耳朵受感染了。
+
+soundproof:
+    a soundproof room
+#隔音房间
+    a soundproof studio
+#隔音演播室
+    a soundproof door
+#隔音门
+    The walls of our house were so soundproof that we very rarely heard our neighbors.
+#我们屋子的墙壁隔音效果很强，几乎听不见邻居的声音。
+
+unseemly:
+    an unseemly act
+#不得体的举动
+    at the most unseemly hour
+#在最不合适的时间
+    It used to be thought unseemly for women to go to church without a hat.
+#过去女于不戴帽子到教堂去做礼拜被认为不合礼仪。
+
+thorny:
+    a thorny bush
+#多刺灌木丛
+    a thorny ground
+#荆棘丛
+    tread a thorny path
+#走在布满荆棘的小道上
+    a thorny predicament
+#令人苦恼的困境
+    Rose bushes are often thorny.
+#蕃薇丛往往有刺。
+
+interconnect:
+    Everything in the world interconnects somehow.
+#世界上一切事物都以某种方式互相联系。
+
+overdraw:
+    overdraw at a bank
+#在银行透支
+    If you overdraw your account without making arrangements to do so you get charged a very high interest rate.
+#如果你未做安排而透支你的账户，你会被收取很高的利息率。
+
+distend:
+    distended veins
+#扩张的血管
+    distended ego
+#膨胀的自我
+    distended profits
+#激增的利润
+    In the refugee center we saw children whose bellies were distended because of lack of food.
+#在难民中心，我们看到许多孩子的肚子由于缺乏食物浮肿了。
+
+=======
+inducible:
+    eukaryotic inducible expression systems: advances in research
+#真和细胞诱导表达系统研究进展
+
+codify:
+    Most of the laws of war have been codified in international agreement.
+#大多数关于战争的法典被编进了国际公约中。
+
+habituate:
+    habituate oneself to/be habituated to a solitary life
+#习惯于独居的生活
+    The responsibility of command has habituated him to making quick decisions.
+#指挥的职责已使他习惯于当机立断。
+
+distortion:
+    These accusations are outrageous distortions of the truth.
+#这些指控是对真相的严重歪曲。
+
+titular:
+    It is already agreed that Mr. Brown will be that titular head of the new bank.
+#已经达成一致意见，布朗先生将作为新银行的名义上的负责人。
+
+temperate:
+    a very temperate man
+#性格非常温和的人
+    be temperate in eating and drinking
+#饮食有节制
+    temperate climate
+#温和的气候
+    Temperate criticism can encourage people to make improvements.
+#适度批评能激励人上进。
+
+predestine:
+    It seems the expedition is predestined to fail because there have been so many problems.
+#看来这次远征注定失败，因为已经出现了这么多问题。
+
+sun-bronzed:
+    The old farmer's face is sun-bronzed.
+#这位老农夫的脸被晒成了古铜色。
+
+quarantine:
+    The horse had to spend several days in quarantine when it reached Britain.
+#这匹马到达英国时，要接受数天的隔离检疫。
+
+trepidation:
+    We view future developments with some trepidation.
+#我们惴惴不安地展望未来的动态。
+
+verse:
+    prose and verse
+#散文与诗歌
+    satirical verse
+#讽刺的诗句
+    His publications include a book of short stories and several volumes of verse.
+#他出版的书包括一部短篇小说集和几部诗集。
+
+propensity:
+    She has inherited from her mother a propensity to talk too much.
+#她从母亲那里继承了说话太多的毛病。
+
+hiatus:
+    The company expects to resume production of air conditioners again after a three-month hiatus.
+#该公司期待在中断三个月后再次恢复空调的生产。
+
+uncommunicative:
+    He's been so uncommunicative recently.
+#他最近寡言少语。
+
+downplay:
+    The government has been trying to downplay the crisis.
+#政府试图对危机进行低调处理。
+
+genus:
+    Oranges and lemons belong to the same genus.
+#橙子和柠檬均为柑橘属植物。
+
+atheist:
+    She has been a confirmed atheist for many years.
+#许多年来，她一直是坚定的无神论者。
+
+unspotted:
+    unspotted honor
+#未被玷污的荣誉
+    unspotted reputation
+#清白的名声
+    an unspotted breed dog
+#一种身上无斑点的狗
+
+aspiring:
+    Aspiring ballet dancers need to be strong as well as agile.
+#想要薪露头角的芭蕾舞演员需要具有强健的体格和敏捷的身段。
+
+textured:
+    a textured fabric
+#有条纹的织物
+    coarse-textured sand
+#粗质沙
+    a rich textured poem
+#富有律的诗
+
+paltry:
+    The company offered Jim a paltry sum which he refused.
+#公司给了吉姆一笔微不足道的钱，但他拒绝了。
+
+tentatively:
+    She spoke tentatively scared that someone might interrupt her or criticize her ideas.
+#她迟疑不决地说着，生怕有人会打断她或批评她的想法。
+
+culinary:
+    culinary implements
+#烹饪用具
+    culinary skills
+#烹饪技能
+    My culinary skills are rather limited, I am afraid.
+#我恐怕不太会烧菜。
+
+vainglorious:
+    He was rather vainglorious about his own war record.
+#他非常喜欢吹嘘自己的战争经历。
+
+unconvinced:
+    remain unconvinced
+#仍然不信服
+
+ineptitude:
+    The newspaper editorial correctly pointed out the government's ineptitude in dealing with the crisis.
+#报纸社论正确地指出了该政府在处理危机中的无能。
+
+impolitic:
+    Fiona was coming to the party so I thought it impolitic to her ex-husband.
+#菲奥娜要来参加聚会，所以我认为这对她的前夫是不妥当的。
+
+ephemeral:
+    ephemeral pleasures
+#短暂的欢乐
+    ephemeral gains
+#短暂的收益
+    Fame in the world of rock and pop is largely ephemeral.
+#在摇滚音乐和流行音乐界，名声往往是县花一现的。
+
+promulgate:
+    promulgate a constitution
+#颁布宪法
+    promulgate a decree
+#公布法令
+    The new law was finally promulgated in the autumn of last year.
+#新法律最终在去年秋天须布。
+
+dearth:
+    a dearth of corn
+#谷物供应不足
+    in time of dearth
+#荒年时
+    The factory's closure has been blamed on the dearth of orders for its products during the recession.
+#工厂的倒闭被归咎于是经济衰退期间缺少产品订单。
+
+idiosyncratic:
+    The film, 5 hours long, is directed in his usual idiosyncratic style.
+#这部长达5小时的电影是以他一贯的独特风格导演的。
+
+individualism:
+    Because of individualism of her work, I think we should accept this candidate.
+#由于她工作中的个人主义，我认为我们应该接受这个候选人。
+
+tardy:
+    a tardy reader
+#阅读速度缓慢的读者
+    be tardy for/to school
+#上学迟到
+    Dinner was somewhat delayed on account of David's rather tardy arrival.
+#由于戴维的迟到，晚餐推迟了一会儿。
+
+transitional:
+    a transitional government
+#过渡政府
+    We had a transitional period of two or three months.
+#我们有两三个月的过渡时期。
+
+irate:
+    He received some irate phone calls from customers.
+#他接到顾客打来的一些愤怒的电话。
+
+sequential:
+    The book constitutes the first sequential exposition of events.
+#这本书是对这些事件的第一次连续的阐述。
+
+clannish:
+    We moved to the area two years ago and found the clannish quality of village life hard to cope with.
+#两年前我们搬到这个地区，发现乡村生活的排外性很难应付。
+
+stilted:
+    He writes in a formal and rather stilted style.
+#他用一种正式又相当生硬的文体写作。
+
+crossfire:
+    One boat of refugees was caught in the naval crossfire and sank.
+#一艘难民船在海上交火中被困并沉没。
+
+suppliant:
+    suppliant words
+#恳求的话语
+    He's a suppliant sinner seeking forgiveness.
+#他是个恳求宽恕的罪人。
+
+bygone:
+    an England of bygone days
+#昔日的英国
+    a bygone era
+#消逝的时代
+    let bygones be bygones
+#过去的就让它过去吧
+    The empty factories are relics of a bygone age, no longer required by the modern world.
+#空荡荡的工厂是过往时代的遗留物，不再是现代世界所需要的。
+
+allusive:
+    His music is witty, ironic and allusive.
+#他的音乐诙谐讥讽，并充满了暗示。
+
+awestruck:
+    an awestruck admirer
+#充满崇敬之情的钦佩者
+    awestruck visitors
+#充满崇敬之情的参观者
+    I could tell she was impressed from the awestruck expression on her face.
+#从她脸上敬畏的表情，我可以看出她深受感动。
+
+conifer:
+    Conifers are an important source of timber for manufacture of furniture.
+#针叶树是一种重要的木材来源，用于制造家具。
+
+unwonted:
+    speak with unwonted severity
+#以不同寻常的严峻口气说话
+    a word of unwonted kindness
+#异常亲切的话
+    unwonted silence
+#少有的寂静
+    He spoke with unwonted enthusiasm.
+#他讲话显得出人意料地热心。
+
+scavenge:
+    scavenge through rubbish dumps for old furniture
+#搜寻垃圾堆捡回旧家具
+    scavenge a street
+#清扫街道
+    The flood has left villagers and animals desperately scavenging for food.
+#洪水使村民和牲畜不顾一切地寻找食物。
+
+disavow:
+    disavow a rumor
+#否认传言
+    disavow a proposal
+#拒绝接受一项建议
+    He publicly disavowed any connection with terrorist groups.
+#他公开否认与恐怖集团存在干系。
+
+septic:
+    septic pneumonia
+#肺脓肿
+    She had her ears pierced and one of them went septic.
+#她打了耳洞，然后其中一个耳朵受感染了。
+
+soundproof:
+    a soundproof room
+#隔音房间
+    a soundproof studio
+#隔音演播室
+    a soundproof door
+#隔音门
+    The walls of our house were so soundproof that we very rarely heard our neighbors.
+#我们屋子的墙壁隔音效果很强，几乎听不见邻居的声音。
+
+unseemly:
+    an unseemly act
+#不得体的举动
+    at the most unseemly hour
+#在最不合适的时间
+    It used to be thought unseemly for women to go to church without a hat.
+#过去女于不戴帽子到教堂去做礼拜被认为不合礼仪。
+
+thorny:
+    a thorny bush
+#多刺灌木丛
+    a thorny ground
+#荆棘丛
+    tread a thorny path
+#走在布满荆棘的小道上
+    a thorny predicament
+#令人苦恼的困境
+    Rose bushes are often thorny.
+#蕃薇丛往往有刺。
+
+interconnect:
+    Everything in the world interconnects somehow.
+#世界上一切事物都以某种方式互相联系。
+
+overdraw:
+    overdraw at a bank
+#在银行透支
+    If you overdraw your account without making arrangements to do so you get charged a very high interest rate.
+#如果你未做安排而透支你的账户，你会被收取很高的利息率。
+
+distend:
+    distended veins
+#扩张的血管
+    distended ego
+#膨胀的自我
+    distended profits
+#激增的利润
+    In the refugee center we saw children whose bellies were distended because of lack of food.
+#在难民中心，我们看到许多孩子的肚子由于缺乏食物浮肿了。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

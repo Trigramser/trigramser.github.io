@@ -1,0 +1,671 @@
+<<<<<<< HEAD
+puncture:
+    a punctured balloon
+#泄了气的气球
+    a punctured lie
+#被揭穿的谎言
+    puncture one's confidence
+#挫伤某人的信心
+    A nail on the road punctured the tire.
+#路上的一个钉子把轮胎戳破了。
+
+quash:
+    quash a rebellion
+#镇压叛乱
+    quash a verdict
+#撤销裁决
+    Rage swept over him for an instant, but he quashed it.
+#他勃然大怒，但立刻又把怒气按捺下去。
+
+derivative:
+    His music is terribly derivative.
+#他的音乐有明显的模仿痕迹。
+
+mighty:
+    a mighty nation
+#强大的国家
+    a mighty thrust
+#猛刺
+    a mighty accomplishment
+#巨大成就
+    one of the three mighties
+#三强之一
+    He is one of the mightiest poets of our time.
+#他是当代最伟大的诗人之一。
+
+shirk:
+    shirk the difficult decisions
+#规避做出困难的决定
+    shirk going to the office
+#逃避上班
+    shirk school
+#逃学
+    If you shirk duties now, the situation will just be much harder to deal with next year.
+#如果你现在逃避责任的话，到了明年情况只会变得更难处理。
+
+entreat:
+    She would spend every meal time entreating the child to eat his vegetables.
+#她每顿饭的功夫都花在求孩子吃蔬菜上。
+
+sardonic:
+    a sardonic comment
+#嘲讽的评语
+    a chilling, sardonic chuckle
+#令人害怕的讪笑
+    There was a sardonic expression on his face.
+#他脸上有一种嘲讽的表情。
+
+jot:
+    jot down
+#草草记下
+    a jot of truth
+#一点真理
+    The policeman jotted down the license number.
+#警察匆匆抄下了牌照号码。
+
+gaseous:
+    water in its gaseous state
+#气态水
+    unconnected gaseous information
+#互不相连而又无实质内容的资料
+    Jupiter is a large, gaseous planet.
+#木星是一颗巨大的气态行星。
+
+pertain:
+    We are only interested in the parts of the proposals that pertain to local issues.
+#我们只对建议中涉及当地事务的那部分感兴趣。
+
+dote:
+    dote on/upon
+#溺爱，宠爱
+    a doting father
+#溺爱的父亲
+    He dotes on the new baby.
+#他很溺爱新生的婴儿。
+
+wane:
+    one's waning years
+#风烛残年
+    at the time of the waning power
+#在权力没落之时
+    the wane of a pleasant evening
+#美好的夜晚即将过去
+    on the wane
+#在减少，在衰退，（月亮）正在亏缺
+    strength on the wane
+#每况愈下的体力
+    I stood in the waning light watching the final rays of the sun.
+#我站在越来越暗淡的光线之中观看落日的余晖。
+
+filial:
+    filial obedience
+#孝道
+    filial affection
+#孝心
+    filial respect
+#子女对父母的尊敬
+    Filial piety is considered the first virtue in Chinese culture.
+#孝是中国文化中的第一美德。
+
+ensconce:
+    be ensconced in the forest
+#隐藏在森林中
+    She ensconced herself comfortably before the blazing hearth.
+#她舒适地安坐在炉火熊熊的壁炉前。
+
+acumen:
+    He is a man of considerable political acumen.
+#他是个政治上相当敏锐的人。
+
+stanza:
+    She asked me to recite the third stanza of the poem.
+#她让我背诵诗的第三节。
+
+lateral:
+    a lateral view
+#侧面图
+    lateral pressure
+#侧面压力
+    lateral movement
+#横向运动
+    Lateral thinking tries to use imagination and humor to find new and clever answers to problems.
+#横向思维试图利用想象力和幽默感找到解决问题的新的巧妙办法。
+
+contiguous:
+    a contiguous angle
+#邻角
+    contiguous row houses
+#紧挨的成排房屋
+    be contiguous to/with
+#与……接壤
+    The two countries are contiguous with each other, but the religion and tradition are quite different.
+#这两个国家毗邻，但其宗教和风俗都大不相同。
+
+ooze:
+    blood oozing from the wound
+#从伤口渗出的血
+    a writing that oozes with hostility
+#充满敌意的文章
+    popular songs which ooze optimism
+#洋溢着乐观主义的流行音乐
+    Sweat oozed from his forehead and trickled down his cheeks.
+#汗珠从他的额头上冒出来，慢慢顺着面频消下。
+
+manifesto:
+    issue a manifesto
+#发表一项宣言
+    one's election manifesto
+#某人的竟选宣言
+    In the UK, the main political parties each produce a manifesto before the general election.
+#在英国，各大政党在大选之前都要发表一项宣言。
+
+allergic:
+    allergic reaction
+#过敏反应
+    be allergic to milk
+#对牛奶过敏
+    She's allergic to the fur of the cat.
+#她对猫的毛皮过敏。
+
+depose:
+    The head of state was deposed by the army.
+#该的首脑被军队废黜了。
+
+lubricant:
+    He believed in the smile as a social lubricant.
+#他相信相逢开口笑乃是社交之道。
+
+dissimulate:
+    be good at dissimulating
+#善于装腔作势
+    He dissimulated his cowardice by bragging about how brave he was.
+#他自吹多么勇敢，以此来掩饰自己的怯懦。
+
+simile:
+    Simile is not the same as metaphor.
+#明喻与暗喻不同。
+
+gist:
+    the gist of a report
+#报告的主旨
+    the gist of those conclusions
+#那些结论的要点
+    provide gist for sb.
+#为某人提供依据
+    I haven't time to read the document, can you give me the gist of it?
+#我没时间看这份文件，你能把要点告诉我吗？
+
+obsolete:
+    Gas lamps became obsolete when electric lighting became possible.
+#有了电灯之后煤气灯就被淘汰了。
+
+recline:
+    recline against a fence ; recline on a sofa
+#躺在沙发上
+    recline one's head on a pillow
+#把头靠在枕上
+    recline upon the grass
+#躺在草地上
+    You shouldn't recline too much on your parents.
+#你不应该过多地依赖父母。
+
+confidant:
+    She told me that he was her confidant.
+#她告诉我他是她的知己。
+
+agile:
+    an agile wit
+#机智
+    an agile tongue
+#巧妙善的口才
+    an agile mind
+#机敏的头脑
+    The boy escaped with an agile leap.
+#这男孩机敏地一跳逃脱了。
+
+abate:
+    abate the pain
+#缓解疼痛
+    abate a tax
+#减税
+    abate part of a price
+#对某价格打折扣
+    abate one's fury
+#平息某人的暴怒
+    The rain has abated somewhat.
+#雨下得小一点了。
+
+luster:
+    a pearl with a beautiful luster
+#耀眼夺目的珍珠
+    the luster of stars
+#灿烂的星光
+    add luster to/shed luster on
+#给……增光
+    luster Chinese literature
+#为中国文学增光
+    Their feathers lustered in the moonlight as they passed.
+#它们飞过时，羽毛在月光下烟烟闪光。
+
+squalid:
+    squalid living conditions
+#脏乱的居住环境
+    a squalid life
+#清贫的生活
+    squalid affairs
+#伤风败俗的事
+    an overcrowded, squalid place
+#人满为患、肮脏不堪的地方
+    It is easy to see how crime can breed in such a squalid neighborhood.
+#不难看出，在这种道德败坏的环境里罪恶是如何滋生的。
+
+singularity:
+    the singularity of a work of art
+#一件艺术品的独特性
+    singularity of viewpoints
+#观点的新颖独到
+    The singularity of this coincidence absolutely stupefied me for a time.
+#碰到这种异常的巧合，我一时愣住了。
+
+retrieve:
+    retrieve information efficiently
+#有效地检索信息
+    retrieve a lost piece of luggage
+#找回一件丢失的行李
+    retrieve a mistake /an error
+#纠错
+    retrieve oneself
+#重整旗鼓，再次振作
+    retrieve one's spirits
+#恢复精神
+    retrieve the situation
+#扭转局面
+    beyond/past retrieve
+#无可挽回，不可恢复
+    Jim retrieved his kite from the tree.
+#吉姆从树上取回他的风筝。
+
+perceptive:
+    a perceptive critic
+#颇有洞察力的评论家
+    a romantically perceptive girl
+#颇具风情的女孩
+    perceptive organs
+#感觉器官
+    Her books are full of perceptive insights into the human condition.
+#她书中充满了对人生现状有洞察力的见解。
+
+folly:
+    an act of folly
+#愚蠢行为
+    commit a folly
+#做蠢事
+    counterfeit folly
+#装傻
+    His latest folly was buying a second-hand car which turned out to have a faulty engine.
+#他最近做的蠢事是买了一辆二手车，结果发动机老是出毛病。
+
+commonsense:
+    the commonsense ideas about learning
+#关于学习的常识性见解
+    a commonsense person
+#通情达理的人
+    Although she's not very academic, she's got a lot of commonsense.
+#她没有多大的学问，但处事却通情达理。
+
+projection:
+    a microeconomic projection
+#微观经济预测
+    the screen projection
+#屏幕上的投影
+    Part of the display involves the projection of a series of images.
+#这次展览的一部分包括一系列图像的放映。
+
+spacious:
+    a spacious house
+#宽敞的房子
+    a spacious parking
+#宽敝的公园
+    a rich spacious novel
+#一部内容丰富、题材广泛的小说
+    sun oneself on the turf of the spacious lawns
+#躺在宽广草坪的草皮上晒太阳
+    That is a spacious living room.
+#那是一间宽的起居室。
+
+=======
+puncture:
+    a punctured balloon
+#泄了气的气球
+    a punctured lie
+#被揭穿的谎言
+    puncture one's confidence
+#挫伤某人的信心
+    A nail on the road punctured the tire.
+#路上的一个钉子把轮胎戳破了。
+
+quash:
+    quash a rebellion
+#镇压叛乱
+    quash a verdict
+#撤销裁决
+    Rage swept over him for an instant, but he quashed it.
+#他勃然大怒，但立刻又把怒气按捺下去。
+
+derivative:
+    His music is terribly derivative.
+#他的音乐有明显的模仿痕迹。
+
+mighty:
+    a mighty nation
+#强大的国家
+    a mighty thrust
+#猛刺
+    a mighty accomplishment
+#巨大成就
+    one of the three mighties
+#三强之一
+    He is one of the mightiest poets of our time.
+#他是当代最伟大的诗人之一。
+
+shirk:
+    shirk the difficult decisions
+#规避做出困难的决定
+    shirk going to the office
+#逃避上班
+    shirk school
+#逃学
+    If you shirk duties now, the situation will just be much harder to deal with next year.
+#如果你现在逃避责任的话，到了明年情况只会变得更难处理。
+
+entreat:
+    She would spend every meal time entreating the child to eat his vegetables.
+#她每顿饭的功夫都花在求孩子吃蔬菜上。
+
+sardonic:
+    a sardonic comment
+#嘲讽的评语
+    a chilling, sardonic chuckle
+#令人害怕的讪笑
+    There was a sardonic expression on his face.
+#他脸上有一种嘲讽的表情。
+
+jot:
+    jot down
+#草草记下
+    a jot of truth
+#一点真理
+    The policeman jotted down the license number.
+#警察匆匆抄下了牌照号码。
+
+gaseous:
+    water in its gaseous state
+#气态水
+    unconnected gaseous information
+#互不相连而又无实质内容的资料
+    Jupiter is a large, gaseous planet.
+#木星是一颗巨大的气态行星。
+
+pertain:
+    We are only interested in the parts of the proposals that pertain to local issues.
+#我们只对建议中涉及当地事务的那部分感兴趣。
+
+dote:
+    dote on/upon
+#溺爱，宠爱
+    a doting father
+#溺爱的父亲
+    He dotes on the new baby.
+#他很溺爱新生的婴儿。
+
+wane:
+    one's waning years
+#风烛残年
+    at the time of the waning power
+#在权力没落之时
+    the wane of a pleasant evening
+#美好的夜晚即将过去
+    on the wane
+#在减少，在衰退，（月亮）正在亏缺
+    strength on the wane
+#每况愈下的体力
+    I stood in the waning light watching the final rays of the sun.
+#我站在越来越暗淡的光线之中观看落日的余晖。
+
+filial:
+    filial obedience
+#孝道
+    filial affection
+#孝心
+    filial respect
+#子女对父母的尊敬
+    Filial piety is considered the first virtue in Chinese culture.
+#孝是中国文化中的第一美德。
+
+ensconce:
+    be ensconced in the forest
+#隐藏在森林中
+    She ensconced herself comfortably before the blazing hearth.
+#她舒适地安坐在炉火熊熊的壁炉前。
+
+acumen:
+    He is a man of considerable political acumen.
+#他是个政治上相当敏锐的人。
+
+stanza:
+    She asked me to recite the third stanza of the poem.
+#她让我背诵诗的第三节。
+
+lateral:
+    a lateral view
+#侧面图
+    lateral pressure
+#侧面压力
+    lateral movement
+#横向运动
+    Lateral thinking tries to use imagination and humor to find new and clever answers to problems.
+#横向思维试图利用想象力和幽默感找到解决问题的新的巧妙办法。
+
+contiguous:
+    a contiguous angle
+#邻角
+    contiguous row houses
+#紧挨的成排房屋
+    be contiguous to/with
+#与……接壤
+    The two countries are contiguous with each other, but the religion and tradition are quite different.
+#这两个国家毗邻，但其宗教和风俗都大不相同。
+
+ooze:
+    blood oozing from the wound
+#从伤口渗出的血
+    a writing that oozes with hostility
+#充满敌意的文章
+    popular songs which ooze optimism
+#洋溢着乐观主义的流行音乐
+    Sweat oozed from his forehead and trickled down his cheeks.
+#汗珠从他的额头上冒出来，慢慢顺着面频消下。
+
+manifesto:
+    issue a manifesto
+#发表一项宣言
+    one's election manifesto
+#某人的竟选宣言
+    In the UK, the main political parties each produce a manifesto before the general election.
+#在英国，各大政党在大选之前都要发表一项宣言。
+
+allergic:
+    allergic reaction
+#过敏反应
+    be allergic to milk
+#对牛奶过敏
+    She's allergic to the fur of the cat.
+#她对猫的毛皮过敏。
+
+depose:
+    The head of state was deposed by the army.
+#该的首脑被军队废黜了。
+
+lubricant:
+    He believed in the smile as a social lubricant.
+#他相信相逢开口笑乃是社交之道。
+
+dissimulate:
+    be good at dissimulating
+#善于装腔作势
+    He dissimulated his cowardice by bragging about how brave he was.
+#他自吹多么勇敢，以此来掩饰自己的怯懦。
+
+simile:
+    Simile is not the same as metaphor.
+#明喻与暗喻不同。
+
+gist:
+    the gist of a report
+#报告的主旨
+    the gist of those conclusions
+#那些结论的要点
+    provide gist for sb.
+#为某人提供依据
+    I haven't time to read the document, can you give me the gist of it?
+#我没时间看这份文件，你能把要点告诉我吗？
+
+obsolete:
+    Gas lamps became obsolete when electric lighting became possible.
+#有了电灯之后煤气灯就被淘汰了。
+
+recline:
+    recline against a fence ; recline on a sofa
+#躺在沙发上
+    recline one's head on a pillow
+#把头靠在枕上
+    recline upon the grass
+#躺在草地上
+    You shouldn't recline too much on your parents.
+#你不应该过多地依赖父母。
+
+confidant:
+    She told me that he was her confidant.
+#她告诉我他是她的知己。
+
+agile:
+    an agile wit
+#机智
+    an agile tongue
+#巧妙善的口才
+    an agile mind
+#机敏的头脑
+    The boy escaped with an agile leap.
+#这男孩机敏地一跳逃脱了。
+
+abate:
+    abate the pain
+#缓解疼痛
+    abate a tax
+#减税
+    abate part of a price
+#对某价格打折扣
+    abate one's fury
+#平息某人的暴怒
+    The rain has abated somewhat.
+#雨下得小一点了。
+
+luster:
+    a pearl with a beautiful luster
+#耀眼夺目的珍珠
+    the luster of stars
+#灿烂的星光
+    add luster to/shed luster on
+#给……增光
+    luster Chinese literature
+#为中国文学增光
+    Their feathers lustered in the moonlight as they passed.
+#它们飞过时，羽毛在月光下烟烟闪光。
+
+squalid:
+    squalid living conditions
+#脏乱的居住环境
+    a squalid life
+#清贫的生活
+    squalid affairs
+#伤风败俗的事
+    an overcrowded, squalid place
+#人满为患、肮脏不堪的地方
+    It is easy to see how crime can breed in such a squalid neighborhood.
+#不难看出，在这种道德败坏的环境里罪恶是如何滋生的。
+
+singularity:
+    the singularity of a work of art
+#一件艺术品的独特性
+    singularity of viewpoints
+#观点的新颖独到
+    The singularity of this coincidence absolutely stupefied me for a time.
+#碰到这种异常的巧合，我一时愣住了。
+
+retrieve:
+    retrieve information efficiently
+#有效地检索信息
+    retrieve a lost piece of luggage
+#找回一件丢失的行李
+    retrieve a mistake /an error
+#纠错
+    retrieve oneself
+#重整旗鼓，再次振作
+    retrieve one's spirits
+#恢复精神
+    retrieve the situation
+#扭转局面
+    beyond/past retrieve
+#无可挽回，不可恢复
+    Jim retrieved his kite from the tree.
+#吉姆从树上取回他的风筝。
+
+perceptive:
+    a perceptive critic
+#颇有洞察力的评论家
+    a romantically perceptive girl
+#颇具风情的女孩
+    perceptive organs
+#感觉器官
+    Her books are full of perceptive insights into the human condition.
+#她书中充满了对人生现状有洞察力的见解。
+
+folly:
+    an act of folly
+#愚蠢行为
+    commit a folly
+#做蠢事
+    counterfeit folly
+#装傻
+    His latest folly was buying a second-hand car which turned out to have a faulty engine.
+#他最近做的蠢事是买了一辆二手车，结果发动机老是出毛病。
+
+commonsense:
+    the commonsense ideas about learning
+#关于学习的常识性见解
+    a commonsense person
+#通情达理的人
+    Although she's not very academic, she's got a lot of commonsense.
+#她没有多大的学问，但处事却通情达理。
+
+projection:
+    a microeconomic projection
+#微观经济预测
+    the screen projection
+#屏幕上的投影
+    Part of the display involves the projection of a series of images.
+#这次展览的一部分包括一系列图像的放映。
+
+spacious:
+    a spacious house
+#宽敞的房子
+    a spacious parking
+#宽敝的公园
+    a rich spacious novel
+#一部内容丰富、题材广泛的小说
+    sun oneself on the turf of the spacious lawns
+#躺在宽广草坪的草皮上晒太阳
+    That is a spacious living room.
+#那是一间宽的起居室。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

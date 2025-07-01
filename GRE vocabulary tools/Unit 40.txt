@@ -1,0 +1,823 @@
+<<<<<<< HEAD
+pushy: 英[ˈpʊʃi] 美[ˈpʊʃi]
+%adj. 执意强求的，爱出风头的；野心勃勃的，有进取心的
+    His teachers said that many of his problems stemmed from being the child of pushy parents.
+#他的老师们说他的许多问题出自他那急于求成的父母。
+
+nullify: 英[ˈnʌlɪfaɪ] 美[ˈnʌlɪfaɪ]
+%vt. 使无效，作废；取消
+    nullify a will
+#使遗嘱无效
+    nullify one's efforts
+#使某人徒劳无功
+    The country's death penalty was nullified in 2010.
+#这个国家于2010年废除了死刑。
+
+unbidden: 英[ʌnˈbɪdn] 美[ʌnˈbɪd(ə)n]
+%adj. 未受邀请的；未受指使的；自愿的
+    an unbidden guest
+#不速之客
+    The tears came unbidden to his eyes.
+#眼泪不由自主地涌上他的双眼。
+
+repartee: 英[ˌrepɑːˈtiː] 美[ˌrepɑːrˈtiː]
+%n. 机敏的应答；妙语；巧辩
+    quick repartee
+#敏捷的应答
+    be good at repartee
+#善于机敏地应答
+    He is a storehouse of repartee.
+#他一肚子全是对答如流的巧辩。
+
+presage: 英[ˈpresɪdʒ] 美[ˈpresɪdʒ]
+$v. 预示，预兆（尤指不祥之事）；预言，预感
+%n. 预示，预兆；预感，预知
+    the presage of a storm
+#风暴的前兆
+    the presage of the spring
+#春天的预兆
+    The change could presage serious problems.
+#这一变化可能预示着会发生严重问题。
+
+guzzle: 英[ˈɡʌz(ə)l] 美[ˈɡʌz(ə)l]
+$vt. 狂饮；暴食
+$vi. 狂饮；暴食；狼吞虎咽
+$n. 狂饮；豪饮作乐
+%n. （Guzzle）人名；（英）古兹尔
+    guzzle gasoline
+#大量耗油
+    guzzle away the family income
+#挥霍掉家庭收入
+    spend a weekend guzzling 
+#以狂饮度周末
+    I'm not surprised you feel sick after guzzling three ice creams.
+#我并不惊奇你狂吃三块冰激凌后感到不适。
+
+emaciation: 英[ɪˌmeɪsiˈeɪʃ(ə)n] 美[ɪˌmeɪsiˈeɪʃ(ə)n]
+%n. 消瘦，瘦弱；憔悴
+    She was very thin, almost to the point of emaciation. 
+#她很瘦，几乎到了憔悴的地步。
+
+chameleon: 英[kəˈmiːliən] 美[kəˈmiːliən]
+%n. 变色龙，变色蜥蜴；见风使舵的人，善变的人
+    a chameleon little man
+#反复无常的小人
+
+lackluster: 英[ˈlæklʌstə(r)] 美[ˈlæklʌstər]
+$adj. 无光泽的；无趣味的；单调的；枯燥乏味的
+%n. 无光泽；黯淡
+    The number-one tennis player gave a disappointingly lackluster performance.
+#这名头号网球运动员的表现毫无生气，令人失望。
+
+gangling: 英[ˈɡæŋɡlɪŋ] 美[ˈɡæŋɡlɪŋ]
+$adj. 过分瘦长的；动作笨拙难看的
+%v. 笨拙地移动（gangle 的 ing 形式）
+    From a gangling boy he had grown into an elegant young man.
+#他从一个笨手笨脚的瘦高男孩成长为一名举止优雅的青年。
+
+wispy: 英[ˈwɪspi] 美[ˈwɪspi]
+%adj. 象小束状的，纤细的；脆弱的
+    wispy gray hair
+#一缕缕白发
+    have a few wispy memories of one's childhood
+#依稀记得几童年的往事
+    She looked wispy in this dress.
+#穿上这件连衣裙她显得娇小纤弱。
+
+inveigle: 英[ɪnˈveɪɡ(ə)l] 美[ɪnˈveɪɡ(ə)l]
+%vt. 诱骗；诱使
+    inveigle sb. home
+#诱骗某人回家
+    inveigle a promise
+#骗取允诺
+    inveigle sb. into a place
+#诱骗某人去某地
+    Eventually a nurse inveigled him into taking some of the medicine.
+#最终一名护士哄他吃了些药。
+
+aspersion: 英[əˈspɜːʃ(ə)n] 美[əˈspɜːrʒ(ə)n]
+%n. 中伤，诽谤；洒水
+    cast aspersions on/upon sb.
+#诽谤某人
+
+scamper: 英[ˈskæmpə(r)] 美[ˈskæmpər]
+$vi. 蹦蹦跳跳；奔跑，惊惶奔跑
+%n. 蹦跳；奔跑
+    take the dog for a scamper
+#带狗去遛弯
+    A gray squirrel is scampering from limb to limb.
+#一只灰色的松鼠在树枝上面跳来跳去。
+
+trapeze: 英[trəˈpiːz] 美[trəˈpiːz]
+%n. 秋千；吊架
+    He hung from the trapeze by one leg.
+#他用一条腿勾在高空秋千上倒悬着。
+
+offish: 英[ˈɒfɪʃ] 美[ˈɔːfɪʃ]
+%adj. 冷漠的；不亲热的；疏远的
+    an offish attitude
+#冷漠的态度
+
+tamp: 英[tæmp] 美[tæmp]
+$vt. 夯实，砸实；填塞
+%n. 捣棒；打夯的工具
+    a floor of tamped earth
+#夯实的地面
+    He tamped down the soil around the post.
+#他把柱子四周的土夯实。
+
+vindication: 英[ˌvɪndɪˈkeɪʃ(ə)n] 美[ˌvɪndɪˈkeɪʃ(ə)n]
+%n. 辩护；证明无罪
+    speak in vindication of one's behavior
+#为自己的行为辩护
+    He used his ignorance as a vindication of his crimes.
+#他以无知开脱自己的罪行。
+
+unregenerate: 英[ˌʌnrɪˈdʒenərət] 美[ˌʌnrɪˈdʒenərət]
+%adj. 不悔改的；灵魂未得再生的；顽固不化的
+    an unregenerate sinner
+#不会改的罪人
+    an unregenerate way of life
+#放荡的生活方式
+
+ken: 英[ken] 美[ken]
+%n. 视野范围，见地，知识范围
+    in/within one's ken
+#在视野之内，在知识范围之内
+    beyond/out of/outside one's ken
+#在视野之外，在知识范围之外
+    Abstract words are beyond the ken of young children.
+#抽象的词语非幼童所能理解。
+
+hearken: 英[ˈhɑːkən] 美[ˈhɑːrkən]
+$vi. 倾听；听给予注意
+%vt. 留心；听明白
+    Hearken to the waves.
+#听那涛声。
+
+voracity: 英[vəˈræsəti] 美[vəˈræsəti]
+%n. 贪食，贪婪
+    His voracity ruined him.
+#他的贪婪害了他。
+
+swarthy: 英[ˈswɔːði] 美[ˈswɔːrði]
+%adj. 黝黑的；黑皮肤的
+    swarthy complexion
+#黝黑的肤色
+    The sailor was swarthy from the sun of the tropics.
+#那个水手被热带的阳光晒得黑不溜秋的。
+
+earthshaking: 英[ˈɜːθˌʃeɪkɪŋ] 美[ˈɜːrθˌʃeɪkɪŋ]
+%adj. 极为重大的；震撼全球的
+    an earthshaking event
+#石破天惊的大事件
+    be of earthshaking importance
+#极其重要
+
+snide: 英[snaɪd] 美[snaɪd]
+$adj. 伪造的；卑鄙的；暗讽的
+%n. 赝品；骗子
+    a snide remark
+#恶意的话
+    a snide trick
+#奸计
+    a snide bill
+#假单据
+    a snide job
+#低贱的工作
+    He was taken in by a snide merchant.
+#他上了奸商的当。
+
+verbiage: 英[ˈvɜːbiɪdʒ] 美[ˈvɜːrbiɪdʒ]
+%n. 冗词；废话；措辞方式
+    flowery verbiage
+#华丽的辞藻
+    The speaker lost himself in verbiage.
+#讲话人废话连篇，忘乎所以。
+
+ingress: 英[ˈɪnɡres] 美[ˈɪnɡres]
+$n. 进入；入口；准许进入；入境
+%n. （Ingress）人名；（英）英格雷斯
+    the ingress of summer tourists
+#夏季游客的涌入
+    the ingress viza
+#入境签证
+    All citizens have free ingress to the public library.
+#所有公民均有进人公共图书馆的自由。
+
+lope: 英[ləʊp] 美[loʊp]
+$v. 大步慢跑
+$n. 大步慢跑，大步踏走
+%n. （Lope）（美、西班牙）洛佩（人名）
+    at a slow lope
+#以舒缓的步子
+    The lion loped across the grass.
+#那头狮子缓步走过草地。
+
+enjoin: 英[ɪnˈdʒɔɪn] 美[ɪnˈdʒɔɪn]
+%vt. 命令；吩咐；嘱咐；禁止
+    enjoin silence on a class
+#要班上保持安静
+    be enjoined by conscience from telling a lie
+#受良心约束不说谎
+    The judge enjoined both companies from engaging in such practices in the future. 
+#法官责令两家公司以后不许再做出类似的行为。
+
+filibuster: 英[ˈfɪlɪbʌstə(r)] 美[ˈfɪlɪbʌstər]
+$n. 海盗；暴兵，掠夺兵；阻挠议事的议员；阻挠议事的行动
+$vt. 阻碍议案通过
+%vi. 掠夺；阻饶议事
+    The Republican senators mounted a filibuster against the issue.
+#共和党的参议员们对这个议题掀起了一股阻挠的浪潮。
+
+prescience: 英[ˈpresiəns] 美[ˈpreʃ(ə)ns]
+%n. 先见；预知
+    foresee dangers with prescience
+#未h先知地预见到危险
+    Some animals have an instinctive prescience of earthquakes.
+#有些动物有预知地震的本能。
+
+miserly: 英[ˈmaɪzəli] 美[ˈmaɪzərli]
+%adj. 吝啬的；贪婪的
+    It's very miserly of her to refuse to give any money to the church.
+#她很小气，不愿给教堂捐一分钱。
+
+garnish: 英[ˈɡɑːnɪʃ] 美[ˈɡɑːrnɪʃ]
+$v. 装饰（尤指食物）；（为合法扣押属于债务人或被告的钱财）传讯（第三方）
+$n. （为增加色香味而添加的）配菜，装饰品
+%n. （Garnish）（美、英）加尼什（人名）
+    a fireplace garnished with cooking utensils
+#配备有炊具的壁炉
+    It is a speech with a garnish of humor.
+#这是个穿插着一些幽默的演讲。
+
+gargantuan: 英[ɡɑːˈɡæntʃuən] 美[ɡɑːrˈɡæntʃuən]
+%adj. 庞大的，巨大的
+    a gargantuan tanker
+#巨大的油轮
+    Many countries have gargantuan debts.
+#许多国家负有巨额债务。
+
+tauten: 英[ˈtɔːt(ə)n] 美[ˈtɔːt(ə)n]
+$vi. 拉紧
+%vt. 拉紧；使绷紧
+    The ropes were tautened.
+#绳子都拉紧了。
+
+embryonic: 英[ˌembriˈɒnɪk] 美[ˌembriˈɑːnɪk]
+%adj. [胚] 胚胎的；似胚胎的
+    an embryonic plan
+#酝酿中的计划
+    the embryonic stage
+#初始阶段
+    The plan, as yet, only exists in embryonic form.
+#这个计划迄今还只是在酝酿之中。
+
+distrait: 英[dɪˈstreɪ] 美[dɪˈstreɪ]
+%adj. （法）心不在焉的（因烦恼、忧惧等）
+    He answered my question in a distrait manner.
+#他心不在焉地回答我的问题。
+
+iconoclast: 英[aɪˈkɒnəklæst] 美[aɪˈkɑːnəklæst]
+%n. 偶像破坏者；提倡打破旧习的人
+    Kant was a great iconoclast.
+#康德是个伟大的打破旧传统的勇士。
+
+flay: 英[fleɪ] 美[fleɪ]
+%vt. 剥皮；掠夺；严厉批评
+    In prehistoric times, people used flint to flay the animals they killed.
+#在史前时期，人们常用燧石将他们打死的动物剥皮。
+
+retch: 英[retʃ] 美[retʃ]
+$vi. 作呕，反胃；恶心
+%n. 反胃，呕吐
+    The sight of blood makes him retch.
+#看到血使他呕吐。
+
+occlude: 英[əˈkluːd] 美[əˈkluːd]
+%v. 阻塞（口、孔等）；（使）闭塞；遮盖（一只眼睛）使看不见；（固体）吸收（气体、杂质）；（上下齿）咬合
+    The tree occludes the light.
+#那棵树挡住了光线。
+
+traipse: 英[treɪps] 美[treɪps]
+$vi. 疲惫地走；闲荡；拖曳
+$n. 闲荡；漫步；无精打采者
+%vt. 在……游荡；走过
+    traipse along the boulevard
+#沿着林荫大道溜达
+    She spent the day traipsing round the shops, but found nothing suitable to buy.
+#她花了一天的时间逛商店，但是没发现什么合适的东西可买。
+
+squeamish: 英[ˈskwiːmɪʃ] 美[ˈskwiːmɪʃ]
+%adj. 易呕吐的；易生气的；神经质的；过于拘谨的；洁癖的
+    She's squeamish about spiders.
+#她看见蜘蛛就害怕。
+
+camouflage: 英[ˈkæməflɑːʒ] 美[ˈkæməflɑːʒ]
+$n. （军事上的）伪装，隐蔽；（士兵作伪装用的）迷彩服，伪装色；（动物的）保护色，保护形状；掩饰，欺瞒
+%v. 掩饰；伪装；掩盖（真相）；（用声音）盖过
+    the camouflage of a chameleon
+#变色龙的保护色
+    patrols in camouflage
+#穿迷彩服的巡逻队
+    camouflage in the bushes
+#在灌木丛里伪装起来
+    The hunters were camouflaged with branches so that they blended with the trees.
+#猎人们用树枝伪装起来，因而与树木浑然一体。
+
+unsettling: 英[ʌnˈsetlɪŋ] 美[ʌnˈsetlɪŋ]
+$v. （使）紊乱；（使）不安；令人不安（unsettle 的现在分词）
+%adj. 令人不安（或紧张、担忧）的；扰乱的
+    unsettling news
+#令人不安的消息
+    It has become a potentially unsettling element in East-West relations.
+#这已经成为东西方关系中一个潜在的不稳定因素。
+
+overhaul: 英[ˌəʊvəˈhɔːl] 美[ˌoʊvərˈhɔːl]
+$v. 彻底检修，全面改造；全面改革（制度或方法）；（尤指在体育竞赛中）赶上，超过
+%n. 大修，彻底检修；（制度或方法的）全面改革
+    overhaul a faulty machine
+#拆修出了故障的机器
+    undergo a thorough overhaul
+#经彻底检修
+    a major overhaul of the foreign policy
+#外交政策的重大修订
+    overhaul advanced countries
+#赶上先进国家
+    The travel book with pictures has been completely overhauled.
+#那本有插图的旅游指南已经全面修订。
+
+prognosis: 英[prɒɡˈnəʊsɪs] 美[prɑːɡˈnoʊsɪs]
+%n. [医] 预后；预知
+    All intelligence sources support this prognosis.
+#一切情报来源都证实了这个预测。
+
+extrovert: 英[ˈekstrəvɜːt] 美[ˈekstrəvɜːrt]
+$n. 性格外向者，善于社交的人
+%adj. 外向的，活泼友好的
+    He was possessed of an extrovert personality.
+#他是个外向的人。
+
+rendering: 英[ˈrendərɪŋ] 美[ˈrendərɪŋ]
+$n. 表演，演奏；翻译，描述；（涂抹墙壁的）灰泥，水泥；给（墙壁）抹灰（或水泥），粉刷；（计算机）描绘（指用色彩和明暗处理手法使轮廓图像更具立体感）；<正式>给予，交出；将动物尸体开膛取出脂肪
+%v. 使成为，使处于某种状态；<正式>给予，提供；<正式>（以某种方式）表达，展现（render 的现在分词形式）
+    exquisite renderings of ancient Chinese verse
+#中国古诗的优美译文
+    renderings of buildings
+#房屋透视图
+    Her rendering of the song was delightful.
+#她对这首歌的艺术表现很令人欣喜。
+
+procrastinate: 英[prəˈkræstɪneɪt] 美[prəˈkræstɪneɪt]
+%v. 拖延，耽搁
+    She procrastinated her return on various pretexts.
+#她以种种借口拖延归程。
+
+cozen: 英[ˈkʌz(ə)n] 美[ˈkʌz(ə)n]
+$vt. 瞒；欺骗
+%vi. 瞒；欺骗
+    He cozened her out of her money.
+#他诈骗了她的钱财。
+
+consequential: 英[ˌkɒnsɪˈkwenʃ(ə)l] 美[ˌkɑːnsɪˈkwenʃ(ə)l]
+%adj. 随之而来的，作为结果的；<法律>间接发生的，间接引起的；重要的，意义重大的；自大的, 傲慢的, 自傲的，神气活现的
+    consequential deportment
+#傲慢的态度
+    Our use of harmful chemicals and the consequential damage to the environment is a very serious matter.
+#我们使用有害化学物品，并因此损害了环境，这是非常严重的事情。
+
+sequestrate: 英[ˈsiːkwəstreɪt] 美[ˈsiːkwəstreɪt]
+%v. 扣押，强制管理（债务人资产）；没收；宣布……破产
+    sequestrate oneself from the world
+#使自己与世隔绝
+    The police continued to uncover and sequestrate arms and ammunition.
+#警方继续查找并没收武器和弹药。
+
+chipper: 英[ˈtʃɪpə(r)] 美[ˈtʃɪpər]
+$adj. 有活力的，生机勃勃的（非正式）
+%n. 削片机（人）；薯条机；薯条店（非正式）；社交吸烟者（指偶尔吸烟的人，一般是在社交场合）
+    You seem mighty chipper this morning.
+#你今天早晨看上去开心极了。
+
+drub: 英[drʌb] 美[drʌb]
+$vt. 用棒打；硬灌；打击
+%vi. 打击；敲击
+    drub the opponent
+#大胜对手
+    drub a novel
+#严厉批评一部小说
+    The man was drubbed for stealing the bike.
+#那人因偷自行车被痛打了一顿。
+
+=======
+pushy: 英[ˈpʊʃi] 美[ˈpʊʃi]
+%adj. 执意强求的，爱出风头的；野心勃勃的，有进取心的
+    His teachers said that many of his problems stemmed from being the child of pushy parents.
+#他的老师们说他的许多问题出自他那急于求成的父母。
+
+nullify: 英[ˈnʌlɪfaɪ] 美[ˈnʌlɪfaɪ]
+%vt. 使无效，作废；取消
+    nullify a will
+#使遗嘱无效
+    nullify one's efforts
+#使某人徒劳无功
+    The country's death penalty was nullified in 2010.
+#这个国家于2010年废除了死刑。
+
+unbidden: 英[ʌnˈbɪdn] 美[ʌnˈbɪd(ə)n]
+%adj. 未受邀请的；未受指使的；自愿的
+    an unbidden guest
+#不速之客
+    The tears came unbidden to his eyes.
+#眼泪不由自主地涌上他的双眼。
+
+repartee: 英[ˌrepɑːˈtiː] 美[ˌrepɑːrˈtiː]
+%n. 机敏的应答；妙语；巧辩
+    quick repartee
+#敏捷的应答
+    be good at repartee
+#善于机敏地应答
+    He is a storehouse of repartee.
+#他一肚子全是对答如流的巧辩。
+
+presage: 英[ˈpresɪdʒ] 美[ˈpresɪdʒ]
+$v. 预示，预兆（尤指不祥之事）；预言，预感
+%n. 预示，预兆；预感，预知
+    the presage of a storm
+#风暴的前兆
+    the presage of the spring
+#春天的预兆
+    The change could presage serious problems.
+#这一变化可能预示着会发生严重问题。
+
+guzzle: 英[ˈɡʌz(ə)l] 美[ˈɡʌz(ə)l]
+$vt. 狂饮；暴食
+$vi. 狂饮；暴食；狼吞虎咽
+$n. 狂饮；豪饮作乐
+%n. （Guzzle）人名；（英）古兹尔
+    guzzle gasoline
+#大量耗油
+    guzzle away the family income
+#挥霍掉家庭收入
+    spend a weekend guzzling 
+#以狂饮度周末
+    I'm not surprised you feel sick after guzzling three ice creams.
+#我并不惊奇你狂吃三块冰激凌后感到不适。
+
+emaciation: 英[ɪˌmeɪsiˈeɪʃ(ə)n] 美[ɪˌmeɪsiˈeɪʃ(ə)n]
+%n. 消瘦，瘦弱；憔悴
+    She was very thin, almost to the point of emaciation. 
+#她很瘦，几乎到了憔悴的地步。
+
+chameleon: 英[kəˈmiːliən] 美[kəˈmiːliən]
+%n. 变色龙，变色蜥蜴；见风使舵的人，善变的人
+    a chameleon little man
+#反复无常的小人
+
+lackluster: 英[ˈlæklʌstə(r)] 美[ˈlæklʌstər]
+$adj. 无光泽的；无趣味的；单调的；枯燥乏味的
+%n. 无光泽；黯淡
+    The number-one tennis player gave a disappointingly lackluster performance.
+#这名头号网球运动员的表现毫无生气，令人失望。
+
+gangling: 英[ˈɡæŋɡlɪŋ] 美[ˈɡæŋɡlɪŋ]
+$adj. 过分瘦长的；动作笨拙难看的
+%v. 笨拙地移动（gangle 的 ing 形式）
+    From a gangling boy he had grown into an elegant young man.
+#他从一个笨手笨脚的瘦高男孩成长为一名举止优雅的青年。
+
+wispy: 英[ˈwɪspi] 美[ˈwɪspi]
+%adj. 象小束状的，纤细的；脆弱的
+    wispy gray hair
+#一缕缕白发
+    have a few wispy memories of one's childhood
+#依稀记得几童年的往事
+    She looked wispy in this dress.
+#穿上这件连衣裙她显得娇小纤弱。
+
+inveigle: 英[ɪnˈveɪɡ(ə)l] 美[ɪnˈveɪɡ(ə)l]
+%vt. 诱骗；诱使
+    inveigle sb. home
+#诱骗某人回家
+    inveigle a promise
+#骗取允诺
+    inveigle sb. into a place
+#诱骗某人去某地
+    Eventually a nurse inveigled him into taking some of the medicine.
+#最终一名护士哄他吃了些药。
+
+aspersion: 英[əˈspɜːʃ(ə)n] 美[əˈspɜːrʒ(ə)n]
+%n. 中伤，诽谤；洒水
+    cast aspersions on/upon sb.
+#诽谤某人
+
+scamper: 英[ˈskæmpə(r)] 美[ˈskæmpər]
+$vi. 蹦蹦跳跳；奔跑，惊惶奔跑
+%n. 蹦跳；奔跑
+    take the dog for a scamper
+#带狗去遛弯
+    A gray squirrel is scampering from limb to limb.
+#一只灰色的松鼠在树枝上面跳来跳去。
+
+trapeze: 英[trəˈpiːz] 美[trəˈpiːz]
+%n. 秋千；吊架
+    He hung from the trapeze by one leg.
+#他用一条腿勾在高空秋千上倒悬着。
+
+offish: 英[ˈɒfɪʃ] 美[ˈɔːfɪʃ]
+%adj. 冷漠的；不亲热的；疏远的
+    an offish attitude
+#冷漠的态度
+
+tamp: 英[tæmp] 美[tæmp]
+$vt. 夯实，砸实；填塞
+%n. 捣棒；打夯的工具
+    a floor of tamped earth
+#夯实的地面
+    He tamped down the soil around the post.
+#他把柱子四周的土夯实。
+
+vindication: 英[ˌvɪndɪˈkeɪʃ(ə)n] 美[ˌvɪndɪˈkeɪʃ(ə)n]
+%n. 辩护；证明无罪
+    speak in vindication of one's behavior
+#为自己的行为辩护
+    He used his ignorance as a vindication of his crimes.
+#他以无知开脱自己的罪行。
+
+unregenerate: 英[ˌʌnrɪˈdʒenərət] 美[ˌʌnrɪˈdʒenərət]
+%adj. 不悔改的；灵魂未得再生的；顽固不化的
+    an unregenerate sinner
+#不会改的罪人
+    an unregenerate way of life
+#放荡的生活方式
+
+ken: 英[ken] 美[ken]
+%n. 视野范围，见地，知识范围
+    in/within one's ken
+#在视野之内，在知识范围之内
+    beyond/out of/outside one's ken
+#在视野之外，在知识范围之外
+    Abstract words are beyond the ken of young children.
+#抽象的词语非幼童所能理解。
+
+hearken: 英[ˈhɑːkən] 美[ˈhɑːrkən]
+$vi. 倾听；听给予注意
+%vt. 留心；听明白
+    Hearken to the waves.
+#听那涛声。
+
+voracity: 英[vəˈræsəti] 美[vəˈræsəti]
+%n. 贪食，贪婪
+    His voracity ruined him.
+#他的贪婪害了他。
+
+swarthy: 英[ˈswɔːði] 美[ˈswɔːrði]
+%adj. 黝黑的；黑皮肤的
+    swarthy complexion
+#黝黑的肤色
+    The sailor was swarthy from the sun of the tropics.
+#那个水手被热带的阳光晒得黑不溜秋的。
+
+earthshaking: 英[ˈɜːθˌʃeɪkɪŋ] 美[ˈɜːrθˌʃeɪkɪŋ]
+%adj. 极为重大的；震撼全球的
+    an earthshaking event
+#石破天惊的大事件
+    be of earthshaking importance
+#极其重要
+
+snide: 英[snaɪd] 美[snaɪd]
+$adj. 伪造的；卑鄙的；暗讽的
+%n. 赝品；骗子
+    a snide remark
+#恶意的话
+    a snide trick
+#奸计
+    a snide bill
+#假单据
+    a snide job
+#低贱的工作
+    He was taken in by a snide merchant.
+#他上了奸商的当。
+
+verbiage: 英[ˈvɜːbiɪdʒ] 美[ˈvɜːrbiɪdʒ]
+%n. 冗词；废话；措辞方式
+    flowery verbiage
+#华丽的辞藻
+    The speaker lost himself in verbiage.
+#讲话人废话连篇，忘乎所以。
+
+ingress: 英[ˈɪnɡres] 美[ˈɪnɡres]
+$n. 进入；入口；准许进入；入境
+%n. （Ingress）人名；（英）英格雷斯
+    the ingress of summer tourists
+#夏季游客的涌入
+    the ingress viza
+#入境签证
+    All citizens have free ingress to the public library.
+#所有公民均有进人公共图书馆的自由。
+
+lope: 英[ləʊp] 美[loʊp]
+$v. 大步慢跑
+$n. 大步慢跑，大步踏走
+%n. （Lope）（美、西班牙）洛佩（人名）
+    at a slow lope
+#以舒缓的步子
+    The lion loped across the grass.
+#那头狮子缓步走过草地。
+
+enjoin: 英[ɪnˈdʒɔɪn] 美[ɪnˈdʒɔɪn]
+%vt. 命令；吩咐；嘱咐；禁止
+    enjoin silence on a class
+#要班上保持安静
+    be enjoined by conscience from telling a lie
+#受良心约束不说谎
+    The judge enjoined both companies from engaging in such practices in the future. 
+#法官责令两家公司以后不许再做出类似的行为。
+
+filibuster: 英[ˈfɪlɪbʌstə(r)] 美[ˈfɪlɪbʌstər]
+$n. 海盗；暴兵，掠夺兵；阻挠议事的议员；阻挠议事的行动
+$vt. 阻碍议案通过
+%vi. 掠夺；阻饶议事
+    The Republican senators mounted a filibuster against the issue.
+#共和党的参议员们对这个议题掀起了一股阻挠的浪潮。
+
+prescience: 英[ˈpresiəns] 美[ˈpreʃ(ə)ns]
+%n. 先见；预知
+    foresee dangers with prescience
+#未h先知地预见到危险
+    Some animals have an instinctive prescience of earthquakes.
+#有些动物有预知地震的本能。
+
+miserly: 英[ˈmaɪzəli] 美[ˈmaɪzərli]
+%adj. 吝啬的；贪婪的
+    It's very miserly of her to refuse to give any money to the church.
+#她很小气，不愿给教堂捐一分钱。
+
+garnish: 英[ˈɡɑːnɪʃ] 美[ˈɡɑːrnɪʃ]
+$v. 装饰（尤指食物）；（为合法扣押属于债务人或被告的钱财）传讯（第三方）
+$n. （为增加色香味而添加的）配菜，装饰品
+%n. （Garnish）（美、英）加尼什（人名）
+    a fireplace garnished with cooking utensils
+#配备有炊具的壁炉
+    It is a speech with a garnish of humor.
+#这是个穿插着一些幽默的演讲。
+
+gargantuan: 英[ɡɑːˈɡæntʃuən] 美[ɡɑːrˈɡæntʃuən]
+%adj. 庞大的，巨大的
+    a gargantuan tanker
+#巨大的油轮
+    Many countries have gargantuan debts.
+#许多国家负有巨额债务。
+
+tauten: 英[ˈtɔːt(ə)n] 美[ˈtɔːt(ə)n]
+$vi. 拉紧
+%vt. 拉紧；使绷紧
+    The ropes were tautened.
+#绳子都拉紧了。
+
+embryonic: 英[ˌembriˈɒnɪk] 美[ˌembriˈɑːnɪk]
+%adj. [胚] 胚胎的；似胚胎的
+    an embryonic plan
+#酝酿中的计划
+    the embryonic stage
+#初始阶段
+    The plan, as yet, only exists in embryonic form.
+#这个计划迄今还只是在酝酿之中。
+
+distrait: 英[dɪˈstreɪ] 美[dɪˈstreɪ]
+%adj. （法）心不在焉的（因烦恼、忧惧等）
+    He answered my question in a distrait manner.
+#他心不在焉地回答我的问题。
+
+iconoclast: 英[aɪˈkɒnəklæst] 美[aɪˈkɑːnəklæst]
+%n. 偶像破坏者；提倡打破旧习的人
+    Kant was a great iconoclast.
+#康德是个伟大的打破旧传统的勇士。
+
+flay: 英[fleɪ] 美[fleɪ]
+%vt. 剥皮；掠夺；严厉批评
+    In prehistoric times, people used flint to flay the animals they killed.
+#在史前时期，人们常用燧石将他们打死的动物剥皮。
+
+retch: 英[retʃ] 美[retʃ]
+$vi. 作呕，反胃；恶心
+%n. 反胃，呕吐
+    The sight of blood makes him retch.
+#看到血使他呕吐。
+
+occlude: 英[əˈkluːd] 美[əˈkluːd]
+%v. 阻塞（口、孔等）；（使）闭塞；遮盖（一只眼睛）使看不见；（固体）吸收（气体、杂质）；（上下齿）咬合
+    The tree occludes the light.
+#那棵树挡住了光线。
+
+traipse: 英[treɪps] 美[treɪps]
+$vi. 疲惫地走；闲荡；拖曳
+$n. 闲荡；漫步；无精打采者
+%vt. 在……游荡；走过
+    traipse along the boulevard
+#沿着林荫大道溜达
+    She spent the day traipsing round the shops, but found nothing suitable to buy.
+#她花了一天的时间逛商店，但是没发现什么合适的东西可买。
+
+squeamish: 英[ˈskwiːmɪʃ] 美[ˈskwiːmɪʃ]
+%adj. 易呕吐的；易生气的；神经质的；过于拘谨的；洁癖的
+    She's squeamish about spiders.
+#她看见蜘蛛就害怕。
+
+camouflage: 英[ˈkæməflɑːʒ] 美[ˈkæməflɑːʒ]
+$n. （军事上的）伪装，隐蔽；（士兵作伪装用的）迷彩服，伪装色；（动物的）保护色，保护形状；掩饰，欺瞒
+%v. 掩饰；伪装；掩盖（真相）；（用声音）盖过
+    the camouflage of a chameleon
+#变色龙的保护色
+    patrols in camouflage
+#穿迷彩服的巡逻队
+    camouflage in the bushes
+#在灌木丛里伪装起来
+    The hunters were camouflaged with branches so that they blended with the trees.
+#猎人们用树枝伪装起来，因而与树木浑然一体。
+
+unsettling: 英[ʌnˈsetlɪŋ] 美[ʌnˈsetlɪŋ]
+$v. （使）紊乱；（使）不安；令人不安（unsettle 的现在分词）
+%adj. 令人不安（或紧张、担忧）的；扰乱的
+    unsettling news
+#令人不安的消息
+    It has become a potentially unsettling element in East-West relations.
+#这已经成为东西方关系中一个潜在的不稳定因素。
+
+overhaul: 英[ˌəʊvəˈhɔːl] 美[ˌoʊvərˈhɔːl]
+$v. 彻底检修，全面改造；全面改革（制度或方法）；（尤指在体育竞赛中）赶上，超过
+%n. 大修，彻底检修；（制度或方法的）全面改革
+    overhaul a faulty machine
+#拆修出了故障的机器
+    undergo a thorough overhaul
+#经彻底检修
+    a major overhaul of the foreign policy
+#外交政策的重大修订
+    overhaul advanced countries
+#赶上先进国家
+    The travel book with pictures has been completely overhauled.
+#那本有插图的旅游指南已经全面修订。
+
+prognosis: 英[prɒɡˈnəʊsɪs] 美[prɑːɡˈnoʊsɪs]
+%n. [医] 预后；预知
+    All intelligence sources support this prognosis.
+#一切情报来源都证实了这个预测。
+
+extrovert: 英[ˈekstrəvɜːt] 美[ˈekstrəvɜːrt]
+$n. 性格外向者，善于社交的人
+%adj. 外向的，活泼友好的
+    He was possessed of an extrovert personality.
+#他是个外向的人。
+
+rendering: 英[ˈrendərɪŋ] 美[ˈrendərɪŋ]
+$n. 表演，演奏；翻译，描述；（涂抹墙壁的）灰泥，水泥；给（墙壁）抹灰（或水泥），粉刷；（计算机）描绘（指用色彩和明暗处理手法使轮廓图像更具立体感）；<正式>给予，交出；将动物尸体开膛取出脂肪
+%v. 使成为，使处于某种状态；<正式>给予，提供；<正式>（以某种方式）表达，展现（render 的现在分词形式）
+    exquisite renderings of ancient Chinese verse
+#中国古诗的优美译文
+    renderings of buildings
+#房屋透视图
+    Her rendering of the song was delightful.
+#她对这首歌的艺术表现很令人欣喜。
+
+procrastinate: 英[prəˈkræstɪneɪt] 美[prəˈkræstɪneɪt]
+%v. 拖延，耽搁
+    She procrastinated her return on various pretexts.
+#她以种种借口拖延归程。
+
+cozen: 英[ˈkʌz(ə)n] 美[ˈkʌz(ə)n]
+$vt. 瞒；欺骗
+%vi. 瞒；欺骗
+    He cozened her out of her money.
+#他诈骗了她的钱财。
+
+consequential: 英[ˌkɒnsɪˈkwenʃ(ə)l] 美[ˌkɑːnsɪˈkwenʃ(ə)l]
+%adj. 随之而来的，作为结果的；<法律>间接发生的，间接引起的；重要的，意义重大的；自大的, 傲慢的, 自傲的，神气活现的
+    consequential deportment
+#傲慢的态度
+    Our use of harmful chemicals and the consequential damage to the environment is a very serious matter.
+#我们使用有害化学物品，并因此损害了环境，这是非常严重的事情。
+
+sequestrate: 英[ˈsiːkwəstreɪt] 美[ˈsiːkwəstreɪt]
+%v. 扣押，强制管理（债务人资产）；没收；宣布……破产
+    sequestrate oneself from the world
+#使自己与世隔绝
+    The police continued to uncover and sequestrate arms and ammunition.
+#警方继续查找并没收武器和弹药。
+
+chipper: 英[ˈtʃɪpə(r)] 美[ˈtʃɪpər]
+$adj. 有活力的，生机勃勃的（非正式）
+%n. 削片机（人）；薯条机；薯条店（非正式）；社交吸烟者（指偶尔吸烟的人，一般是在社交场合）
+    You seem mighty chipper this morning.
+#你今天早晨看上去开心极了。
+
+drub: 英[drʌb] 美[drʌb]
+$vt. 用棒打；硬灌；打击
+%vi. 打击；敲击
+    drub the opponent
+#大胜对手
+    drub a novel
+#严厉批评一部小说
+    The man was drubbed for stealing the bike.
+#那人因偷自行车被痛打了一顿。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

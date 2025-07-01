@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV UTF-16 to UTF-8 Converter</title>
+</head>
+<body>
+    <h1>CSV UTF-16 to UTF-8 Converter</h1>
+    <input type="file" id="fileInput" accept=".csv" />
+    <button id="convertButton" disabled>Convert to UTF-8</button>
+    <a id="downloadLink" style="display: none;">Download UTF-8 CSV</a>
+
+    <script>
+        const fileInput = document.querySelector("#fileInput");
+        const convertButton = document.querySelector("#convertButton");
+        const downloadLink = document.querySelector("#downloadLink");
+
+        let utf16Content = "";
+
+        // Handle file selection
+        fileInput.addEventListener("change", function (event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+
+                // Read the file as UTF-16
+                reader.onload = function (e) {
+                    const arrayBuffer = e.target.result;
+                    utf16Content = new TextDecoder("utf-16").decode(arrayBuffer);
+                    convertButton.disabled = false;
+                    alert("File loaded successfully. Ready to convert.");
+                };
+
+                reader.onerror = function () {
+                    alert("Error reading file.");
+                };
+
+                reader.readAsArrayBuffer(file);
+            }
+        });
+
+        // Handle conversion and download
+        convertButton.addEventListener("click", function () {
+            // Convert the UTF-16 content to UTF-8
+            const utf8ArrayBuffer = new TextEncoder("utf-8").encode(utf16Content);
+
+            // Create a downloadable blob
+            const blob = new Blob([utf8ArrayBuffer], { type: "text/csv;charset=utf-8" });
+
+            // Create a URL for the blob
+            const url = URL.createObjectURL(blob);
+
+            // Configure the download link
+            downloadLink.href = url;
+            downloadLink.download = "converted_utf8.csv";
+            downloadLink.style.display = "inline";
+            downloadLink.textContent = "Download UTF-8 CSV";
+
+            alert("File converted successfully. Click the download link.");
+        });
+    </script>
+</body>
+</html>

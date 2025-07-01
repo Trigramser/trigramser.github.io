@@ -1,0 +1,749 @@
+<<<<<<< HEAD
+insolent: 英[ˈɪnsələnt] 美[ˈɪnsələnt]
+%adj. 无礼的；傲慢的；粗野的；无耻的
+    an insolent waiter
+#态度慢者
+    an insolent remark
+#傲慢无礼的话
+    At school he was the sort of child that teachers would describe as insolent.
+#上学时，他是那种被老师称之为傲慢无礼的孩子。
+
+fecund: 英[ˈfiːkənd] 美[ˈfiːkənd]
+%adj. 肥沃的；多产的；丰饶的；生殖力旺盛的
+    a fecund animal
+#繁殖力强的动物
+    a fecund field
+#丰饶的田野
+    a fecund imagination
+#丰富的想象力
+    a fecund mind
+#睿智的头脑
+
+rift: 英[rɪft] 美[rɪft]
+$n. （人际关系）不和，分歧；裂缝，裂口；地堑，裂谷
+%v. 开裂，断裂；使断裂，使开裂
+    cause a rift between the brothers
+#造成兄弟间的裂痕
+    a rift in the clouds
+#云罅
+    mend/heal the rift with a neighboring nation
+#与邻国弥补裂
+    The stream cut a deep rift in the rock.
+#小溪在岩石上冲出了一条深深的豁沟。
+
+recuperate: 英[rɪˈkuːpəreɪt] 美[rɪˈkuːpəreɪt]
+$vi. 恢复，复原；挽回损失
+%vt. 恢复，使恢复健康
+    I recuperate in the country
+#在乡下休养
+    He was in hospital recuperating from his injuries at the time.
+#他那时在医院养伤。
+
+proscribe: 英[prəˈskraɪb] 美[proʊˈskraɪb]
+%vt. 剥夺……的公权；禁止
+    proscribe gambling
+#禁赌
+    Any channel that offends against good taste and decency is proscribed.
+#任何触犯高雅趣味和体面的频道都被禁止播出。
+
+anarchy: 英[ˈænəki] 美[ˈænərki]
+%n. 无政府状态；混乱，无秩序
+    moral anarchy
+#道德混乱
+    What we are witnessing is the country's slow slide into anarchy.
+#我们正目睹的情况是，那个国家正慢慢陷入无政府状态。
+
+fallacious: 英[fəˈleɪʃəs] 美[fəˈleɪʃəs]
+%adj. 谬误的；骗人的；靠不住的；不合理的
+    a fallacious conclusion
+#错误的结论
+    fallacious testimony
+#虚妄的证言
+    fallacious peace
+#岌岌可危的和平
+    His argument is based on fallacious reasoning.
+#他的论点是在错误推理的基础上得出的。
+
+rivet: 英[ˈrɪvɪt] 美[ˈrɪvɪt]
+$n. 铆钉
+$vt. 铆接；固定；（把目光、注意力等）集中于
+%n. （Rivet）人名；（法）里韦；（英、西）里韦特
+    rivet one's attention
+#吸引某人的注意力
+    keep one's eyes riveted to the computer screen
+#目不转睛地看着电脑屏幕
+    be riveted to the ground
+#呆若木鸡
+    Many parts of an aircraft are riveted together.
+#一架飞机的许多零件是铆接在一起的。
+
+facile: 英[ˈfæsaɪl] 美[ˈfæs(ə)l]
+$adj. （言语或理论）轻率的，未经深思熟虑的
+%adj. 温和的；灵巧的；易做到的
+    a facile victory
+#唾手可得的胜利
+    facile reading
+#浅易读物
+    a facile mind
+#敏捷的头脑
+    a man with a facile tongue
+#能说会道的人
+    a facile liar
+#信口扯谎的人
+    a facile solution
+#治标不治本的解决办法
+    It is facile of reviewers to only point out the misprints in a book.
+#书评家仅仅指出书中的印刷错误也太省事了。
+
+insoluble: 英[ɪnˈsɒljəb(ə)l] 美[ɪnˈsɑːljəb(ə)l]
+%adj. 不能解决的；[化学] 不能溶解的；难以解释的
+    insoluble difficulty
+#难以解决的困难
+    Traffic congestion in large cities seems to be an insoluble problem.
+#大城市的交通拥挤看起来是难以解决的问题。
+
+insinuate: 英[ɪnˈsɪnjueɪt] 美[ɪnˈsɪnjueɪt]
+$vt. 暗示；使逐渐而巧妙地取得；使迂回地潜入
+%vi. 暗讽；说含沙射影的话
+    insinuate oneself into others' favor
+#巧妙地逐取得他人的宠信
+    insinuate doubt in one's mind
+#使某人慢慢滋生疑虑
+    He destroyed the witness's character by insinuating base motives to his actions.
+#他旁侧击地说证人的举动出于卑鄙的动机，以损毁其名誉。
+
+unobtrusive: 英[ˌʌnəbˈtruːsɪv] 美[ˌʌnəbˈtruːsɪv]
+%adj. 不唐突的；谦虚的；不引人注目的
+    He was a perfect waiter, being efficient, unobtrusive and yet attentive.
+#他是个完美的侍者，能干、不莽撞，且殷勤周到。
+
+provident: 英[ˈprɒvɪdənt] 美[ˈprɑːvɪdənt]
+%adj. 节俭的；有先见之明的；顾及未来的
+    a provident statesman
+#有远见的政治家
+    They tried to be provident in joint planning and management.
+#他们在联合计划和管理中力求节俭。
+
+servile: 英[ˈsɜːvaɪl] 美[ˈsɜːrv(ə)l]
+%adj. 奴隶的；奴性的；卑屈的；卑屈的
+    a servile rebellion
+#奴隶起义
+    a servile flatterer
+#卑躬屈膝的谄媚者
+    be too servile to established moralities
+#对传统的道德规范过于服从
+    As a waiter you need to be pleasant to people without appearing totally servile.
+#作为服务员，要对人友好，但不要表现出完全卑躬屈膝的样子。
+
+fragmentary: 英[ˈfræɡmənt(ə)ri] 美[ˈfræɡmənteri]
+%adj. 支离破碎的，不完整的
+    a few fragmentary piece of an old dish
+#旧盘子一些碎片
+    fragmentary conversation
+#断断续续的谈话
+    Early memories of childhood are mostly fragmentary.
+#早期孩提时代的记忆大多是零零碎碎的。
+
+commodious: 英[kəˈməʊdiəs] 美[kəˈmoʊdiəs]
+%adj. 宽敞的；方便的
+    a commodious suite of rooms
+#一套宽敞而舒适的房间
+
+parable: 英[ˈpærəb(ə)l] 美[ˈpærəbl]
+%n. （尤指《圣经》中耶稣所讲的的）（道德或宗教）寓言
+    The story is a pleasing parable of the problems created by excessive wealth.
+#这是个令人开怀的寓言，讲的是财富过剩造成的问题。
+
+clutter: 英[ˈklʌtə(r)] 美[ˈklʌtər]
+$n. 杂乱的东西；杂乱
+%v. 乱堆，塞满；使（脑子里）塞满（乱七八糟的事）
+    the clutter in the kitchen
+#厨房里的杂乱
+    full of clutter
+#乱七八糟
+    a cluttered mind
+#塞满无用东西的脑子
+    a room cluttered with kids' toys
+#塞满孩子的玩具的房间
+    He always leaves his office in clutter.
+#他总是把他的办公室弄得一团糟。
+
+bane: 英[beɪn] 美[beɪn]
+$n. 毒药；祸害；灭亡的原因
+%n. （Bane）人名；（法）巴纳；（塞）巴内；（日）伴卫（名）；（英）贝恩
+    the bane of one's life
+#毁了某人的生活
+    This kind of high tech is more of a bane than a boon to mankind.
+#这种高科技对于人类与其说造福不如说酿灾。
+
+spruce: 英[spruːs] 美[spruːs]
+$vi. 打扮整齐；使显干净
+$adj. 整洁的
+$vt. 打扮整齐
+%n. 云杉
+    spruce up one's boots
+#把靴子擦得锃亮
+    spruce up before going out
+#出门之前打扮-下
+    He looked spruce and clean-shaven in a clean white shirt.
+#他身着干净的白衬衫，胡子刮得光光的，看上去整洁漂亮。
+
+flabby: 英[ˈflæbi] 美[ˈflæbi]
+%adj. 松弛的；软弱的；没气力的；优柔寡断的
+    flabby cheeks
+#松弛的双颊
+    a flabby argument
+#软弱乏力的论点
+    a flabby character
+#软弱的性格
+    She's become so flabby since she started her job in the office.
+#她开始在办公室工作后肌肉变得很松弛。
+
+congenital: 英[kənˈdʒenɪt(ə)l] 美[kənˈdʒenɪt(ə)l]
+%adj. （病症等）先天的，天生的；（特定性格等）与生俱来的，生性的
+    congenital cheerfulness
+#天生的开朗
+    a congenital defect
+#先天缺陷
+    a congenital liar
+#生性好说谎的人
+    The child's heart disease was congenital.
+#这孩子的心脏病是先天性的。
+
+accredit: 英[əˈkredɪt] 美[əˈkredɪt]
+%v. 把……归于，归因于；委派；信任，正式认可；授权
+    accredit sb. as one's representative
+#委托某人当自己的代表
+    accredit an ambassador to/at a foreign country
+#向某一国派驻大使
+    They accredited him with the authorship of the book.
+#他们认为他是这本书的作者。
+
+irradiate: 英[ɪˈreɪdieɪt] 美[ɪˈreɪdieɪt]
+$vt. 照耀；使灿烂；启发；放射；使某物生辉
+$vi. 照射
+%adj. 发光的
+    a face irradiated with joy
+#喜气洋洋的脸
+    irradiate strength
+#散发出力量
+    It's safe to eat foods that have been irradiated to prolong their shelf life.
+#食用经过辐照处理以延长保存期的食品是安全的。
+
+opulent: 英[ˈɒpjələnt] 美[ˈɑːpjələnt]
+%adj. 豪华的，富丽堂皇的；富有的，阔绰的； 丰富的，大量的
+    an opulent lifestyle
+#奢侈的生活方式
+    an opulent hotel
+#豪华旅馆
+    opulent sunlight
+#充足的阳光
+    She lived in opulent comfort.
+#她过着阔绰舒适的生活。
+
+cardiac: 英[ˈkɑːdiæk] 美[ˈkɑːrdiæk]
+$adj. 心脏的；（与）贲门（有关）的
+%n. <非正式>心脏病患者
+    a cardiac disease
+#心脏病
+    the cardiac cycle
+#心脏周期
+    The king was suffering from cardiac weakness.
+#当时国王患有心脏衰弱。
+
+piety: 英[ˈpaɪəti] 美[ˈpaɪəti]
+%n. 虔诚，虔敬；虔诚信念，虔诚观点；伪善的言语（pieties）；伪善的言语（pieties）
+    The reformers attached great importance to hygiene, industriousness and piety.
+#改革者极其强调个人卫生、勤奋和虔诚。
+
+excise: 英[ˈeksaɪz] 美[ˈeksaɪz]
+$n. 消费税，货物税
+%v. 切除；删除；收税，征税
+    excise a tumor
+#切除肿瘤
+    The official censors have excised the controversial sections of the report.
+#官方审查员删掉了报告中有争议的地方。
+    Government sources have said that excise on tabacco will probably be increased under the new budget.
+#政府消息人士说香烟税在新的预算中可能会增加。
+
+stiffen: 英[ˈstɪf(ə)n] 美[ˈstɪf(ə)n]
+%v. （身体）变僵硬，绷紧；（使）变强硬，变坚定；使（材料）变硬（挺）；变僵硬，变得不灵活；变酸痛僵直；变生硬，变得拘谨
+    a shirt with a stiffened collar
+#硬领衬衫
+    stiffen one's position
+#坚定立场
+    The government has stiffened the penalties for drunk-driving convictions.
+#政府加重了对酒后驾车罪的处罚。
+
+conformity: 英[kənˈfɔːməti] 美[kənˈfɔːrməti]
+%n. 遵守，依照；随大流，循规蹈矩；符合，一致；信奉英国国教
+    in conformity with local codes
+#遵从当地的法规
+    behave in conformity with one's own beliefs
+#行为与自己的信念一致
+    conformity to social customs
+#顺从社会习俗
+    There is too much conformity in the design of these buildings.
+#这些建筑物的设计雷同。
+
+haughty: 英[ˈhɔːti] 美[ˈhɔːti]
+%adj. 傲慢的；自大的
+    a haughty smile
+#自负的微笑
+    treat sb. with haughty contempt
+#以不屑一顾的傲慢态度对待某人
+    a haughty restaurant
+#气派不凡的大饭店
+    Her personality, at times brittle, aggressive and haughty, irritated many people.
+#她的个性时而脆弱，时而放肆，时而又自负，激怒了很多人。
+
+supplant: 英[səˈplɑːnt] 美[səˈplænt]
+%v. 取代，代替
+    supplant hand labor
+#取代手工劳动
+    supplant the king
+#篡夺王位
+    Small children can often feel supplanted when a new brother or sister is born.
+#小孩往往会觉得小弟弟或小妹妹出生后会取代他们在父母心中的地位。
+
+bedraggled: 英[bɪˈdræɡ(ə)ld] 美[bɪˈdræɡ(ə)ld]
+$adj. 全身泥污的；满身湿透的；荒废的，破烂的
+%v. 把……在泥水中拖脏；把……拖湿（bedraggle 的过去分词）
+    bedraggled clothes
+#泥污的衣服
+    the bedraggled buildings in the slums
+#贫民窟里破旧的房屋
+    The children ran into the house, dirty and bedraggled from playing in the garden.
+#孩子们跑进屋子，他们在花园里玩得浑身是泥，脏兮兮的。
+
+victimize: 英[ˈvɪktɪmaɪz] 美[ˈvɪktɪmaɪz]
+%v. 使受害，迫害
+    The prime minister felt he was being victimized by the media.
+#首相感到他是被新闻媒体给害的。
+
+resit: 英[ˈriːsɪt] 美[ˈriːsɪt]
+$v. 重考，补考
+%n. 重考，补考
+    the September resit
+#9月份的重考
+    They resat the exams and this time all five passed.
+#他们参加重考，这次五人都及格了。
+
+jumbo: 英[ˈdʒʌmbəʊ] 美[ˈdʒʌmboʊ]
+$adj. 巨大的；特大的
+%n. 庞然大物；巨型喷气式飞机；体大而笨拙的人或物
+    a jumbo bottle of wine
+#一大瓶酒
+    a jumbo hamburger
+#巨型汉堡
+    Washing powder works out cheaper if you buy the jumbo size.
+#如果你买大袋洗衣粉，就会更便宜。
+
+knead: 英[niːd] 美[niːd]
+%vt. 揉合，揉捏；按摩；捏制
+    If your muscles are stiff, knead them with your fingers for a while.
+#要是你的肌肉僵硬了，就用手揉一会儿。
+
+juggle: 英[ˈdʒʌɡl] 美[ˈdʒʌɡl]
+$v. 玩杂耍（连续向空中抛接多个物体）；力图使平衡，尽力应付；歪曲，篡改；有效地组织，有效利用（信息、数字、开支等）
+%n. 手技杂耍；平衡；虚报，谎报
+    juggle with facts
+#歪曲事实
+    juggle a career and a family
+#勉为其难地既搞事业又照管家庭
+    juggle demands
+#应付各种要求
+    juggle an account to hide a loss
+#做假账隐瞒亏损
+    juggle sb.'s money away
+#骗走某人的钱
+    We all watched in amazement as he juggled flaming torches.
+#我们都惊地看着他耍几把燃烧的火炬。
+
+meander: 英[miˈændə(r)] 美[miˈændər]
+$v. （河流、道路等）蜿蜒，曲折前行；漫步，闲逛，徘徊；漫谈，闲聊；（文章）行文散漫
+%n. 河流（或道路）弯道，河曲；漫游
+    meander around the streets of the old town
+#在镇上闲逛
+    meander through rich farmlands
+#蜿蜓流过富饶的农田
+    stroll along the meandering bank
+#沿着蜿蜓的河岸散步
+    The stream meanders in a leisurely way through the valley.
+#小溪蜿蜓曲折，缓缓流过山谷。
+
+=======
+insolent: 英[ˈɪnsələnt] 美[ˈɪnsələnt]
+%adj. 无礼的；傲慢的；粗野的；无耻的
+    an insolent waiter
+#态度慢者
+    an insolent remark
+#傲慢无礼的话
+    At school he was the sort of child that teachers would describe as insolent.
+#上学时，他是那种被老师称之为傲慢无礼的孩子。
+
+fecund: 英[ˈfiːkənd] 美[ˈfiːkənd]
+%adj. 肥沃的；多产的；丰饶的；生殖力旺盛的
+    a fecund animal
+#繁殖力强的动物
+    a fecund field
+#丰饶的田野
+    a fecund imagination
+#丰富的想象力
+    a fecund mind
+#睿智的头脑
+
+rift: 英[rɪft] 美[rɪft]
+$n. （人际关系）不和，分歧；裂缝，裂口；地堑，裂谷
+%v. 开裂，断裂；使断裂，使开裂
+    cause a rift between the brothers
+#造成兄弟间的裂痕
+    a rift in the clouds
+#云罅
+    mend/heal the rift with a neighboring nation
+#与邻国弥补裂
+    The stream cut a deep rift in the rock.
+#小溪在岩石上冲出了一条深深的豁沟。
+
+recuperate: 英[rɪˈkuːpəreɪt] 美[rɪˈkuːpəreɪt]
+$vi. 恢复，复原；挽回损失
+%vt. 恢复，使恢复健康
+    I recuperate in the country
+#在乡下休养
+    He was in hospital recuperating from his injuries at the time.
+#他那时在医院养伤。
+
+proscribe: 英[prəˈskraɪb] 美[proʊˈskraɪb]
+%vt. 剥夺……的公权；禁止
+    proscribe gambling
+#禁赌
+    Any channel that offends against good taste and decency is proscribed.
+#任何触犯高雅趣味和体面的频道都被禁止播出。
+
+anarchy: 英[ˈænəki] 美[ˈænərki]
+%n. 无政府状态；混乱，无秩序
+    moral anarchy
+#道德混乱
+    What we are witnessing is the country's slow slide into anarchy.
+#我们正目睹的情况是，那个国家正慢慢陷入无政府状态。
+
+fallacious: 英[fəˈleɪʃəs] 美[fəˈleɪʃəs]
+%adj. 谬误的；骗人的；靠不住的；不合理的
+    a fallacious conclusion
+#错误的结论
+    fallacious testimony
+#虚妄的证言
+    fallacious peace
+#岌岌可危的和平
+    His argument is based on fallacious reasoning.
+#他的论点是在错误推理的基础上得出的。
+
+rivet: 英[ˈrɪvɪt] 美[ˈrɪvɪt]
+$n. 铆钉
+$vt. 铆接；固定；（把目光、注意力等）集中于
+%n. （Rivet）人名；（法）里韦；（英、西）里韦特
+    rivet one's attention
+#吸引某人的注意力
+    keep one's eyes riveted to the computer screen
+#目不转睛地看着电脑屏幕
+    be riveted to the ground
+#呆若木鸡
+    Many parts of an aircraft are riveted together.
+#一架飞机的许多零件是铆接在一起的。
+
+facile: 英[ˈfæsaɪl] 美[ˈfæs(ə)l]
+$adj. （言语或理论）轻率的，未经深思熟虑的
+%adj. 温和的；灵巧的；易做到的
+    a facile victory
+#唾手可得的胜利
+    facile reading
+#浅易读物
+    a facile mind
+#敏捷的头脑
+    a man with a facile tongue
+#能说会道的人
+    a facile liar
+#信口扯谎的人
+    a facile solution
+#治标不治本的解决办法
+    It is facile of reviewers to only point out the misprints in a book.
+#书评家仅仅指出书中的印刷错误也太省事了。
+
+insoluble: 英[ɪnˈsɒljəb(ə)l] 美[ɪnˈsɑːljəb(ə)l]
+%adj. 不能解决的；[化学] 不能溶解的；难以解释的
+    insoluble difficulty
+#难以解决的困难
+    Traffic congestion in large cities seems to be an insoluble problem.
+#大城市的交通拥挤看起来是难以解决的问题。
+
+insinuate: 英[ɪnˈsɪnjueɪt] 美[ɪnˈsɪnjueɪt]
+$vt. 暗示；使逐渐而巧妙地取得；使迂回地潜入
+%vi. 暗讽；说含沙射影的话
+    insinuate oneself into others' favor
+#巧妙地逐取得他人的宠信
+    insinuate doubt in one's mind
+#使某人慢慢滋生疑虑
+    He destroyed the witness's character by insinuating base motives to his actions.
+#他旁侧击地说证人的举动出于卑鄙的动机，以损毁其名誉。
+
+unobtrusive: 英[ˌʌnəbˈtruːsɪv] 美[ˌʌnəbˈtruːsɪv]
+%adj. 不唐突的；谦虚的；不引人注目的
+    He was a perfect waiter, being efficient, unobtrusive and yet attentive.
+#他是个完美的侍者，能干、不莽撞，且殷勤周到。
+
+provident: 英[ˈprɒvɪdənt] 美[ˈprɑːvɪdənt]
+%adj. 节俭的；有先见之明的；顾及未来的
+    a provident statesman
+#有远见的政治家
+    They tried to be provident in joint planning and management.
+#他们在联合计划和管理中力求节俭。
+
+servile: 英[ˈsɜːvaɪl] 美[ˈsɜːrv(ə)l]
+%adj. 奴隶的；奴性的；卑屈的；卑屈的
+    a servile rebellion
+#奴隶起义
+    a servile flatterer
+#卑躬屈膝的谄媚者
+    be too servile to established moralities
+#对传统的道德规范过于服从
+    As a waiter you need to be pleasant to people without appearing totally servile.
+#作为服务员，要对人友好，但不要表现出完全卑躬屈膝的样子。
+
+fragmentary: 英[ˈfræɡmənt(ə)ri] 美[ˈfræɡmənteri]
+%adj. 支离破碎的，不完整的
+    a few fragmentary piece of an old dish
+#旧盘子一些碎片
+    fragmentary conversation
+#断断续续的谈话
+    Early memories of childhood are mostly fragmentary.
+#早期孩提时代的记忆大多是零零碎碎的。
+
+commodious: 英[kəˈməʊdiəs] 美[kəˈmoʊdiəs]
+%adj. 宽敞的；方便的
+    a commodious suite of rooms
+#一套宽敞而舒适的房间
+
+parable: 英[ˈpærəb(ə)l] 美[ˈpærəbl]
+%n. （尤指《圣经》中耶稣所讲的的）（道德或宗教）寓言
+    The story is a pleasing parable of the problems created by excessive wealth.
+#这是个令人开怀的寓言，讲的是财富过剩造成的问题。
+
+clutter: 英[ˈklʌtə(r)] 美[ˈklʌtər]
+$n. 杂乱的东西；杂乱
+%v. 乱堆，塞满；使（脑子里）塞满（乱七八糟的事）
+    the clutter in the kitchen
+#厨房里的杂乱
+    full of clutter
+#乱七八糟
+    a cluttered mind
+#塞满无用东西的脑子
+    a room cluttered with kids' toys
+#塞满孩子的玩具的房间
+    He always leaves his office in clutter.
+#他总是把他的办公室弄得一团糟。
+
+bane: 英[beɪn] 美[beɪn]
+$n. 毒药；祸害；灭亡的原因
+%n. （Bane）人名；（法）巴纳；（塞）巴内；（日）伴卫（名）；（英）贝恩
+    the bane of one's life
+#毁了某人的生活
+    This kind of high tech is more of a bane than a boon to mankind.
+#这种高科技对于人类与其说造福不如说酿灾。
+
+spruce: 英[spruːs] 美[spruːs]
+$vi. 打扮整齐；使显干净
+$adj. 整洁的
+$vt. 打扮整齐
+%n. 云杉
+    spruce up one's boots
+#把靴子擦得锃亮
+    spruce up before going out
+#出门之前打扮-下
+    He looked spruce and clean-shaven in a clean white shirt.
+#他身着干净的白衬衫，胡子刮得光光的，看上去整洁漂亮。
+
+flabby: 英[ˈflæbi] 美[ˈflæbi]
+%adj. 松弛的；软弱的；没气力的；优柔寡断的
+    flabby cheeks
+#松弛的双颊
+    a flabby argument
+#软弱乏力的论点
+    a flabby character
+#软弱的性格
+    She's become so flabby since she started her job in the office.
+#她开始在办公室工作后肌肉变得很松弛。
+
+congenital: 英[kənˈdʒenɪt(ə)l] 美[kənˈdʒenɪt(ə)l]
+%adj. （病症等）先天的，天生的；（特定性格等）与生俱来的，生性的
+    congenital cheerfulness
+#天生的开朗
+    a congenital defect
+#先天缺陷
+    a congenital liar
+#生性好说谎的人
+    The child's heart disease was congenital.
+#这孩子的心脏病是先天性的。
+
+accredit: 英[əˈkredɪt] 美[əˈkredɪt]
+%v. 把……归于，归因于；委派；信任，正式认可；授权
+    accredit sb. as one's representative
+#委托某人当自己的代表
+    accredit an ambassador to/at a foreign country
+#向某一国派驻大使
+    They accredited him with the authorship of the book.
+#他们认为他是这本书的作者。
+
+irradiate: 英[ɪˈreɪdieɪt] 美[ɪˈreɪdieɪt]
+$vt. 照耀；使灿烂；启发；放射；使某物生辉
+$vi. 照射
+%adj. 发光的
+    a face irradiated with joy
+#喜气洋洋的脸
+    irradiate strength
+#散发出力量
+    It's safe to eat foods that have been irradiated to prolong their shelf life.
+#食用经过辐照处理以延长保存期的食品是安全的。
+
+opulent: 英[ˈɒpjələnt] 美[ˈɑːpjələnt]
+%adj. 豪华的，富丽堂皇的；富有的，阔绰的； 丰富的，大量的
+    an opulent lifestyle
+#奢侈的生活方式
+    an opulent hotel
+#豪华旅馆
+    opulent sunlight
+#充足的阳光
+    She lived in opulent comfort.
+#她过着阔绰舒适的生活。
+
+cardiac: 英[ˈkɑːdiæk] 美[ˈkɑːrdiæk]
+$adj. 心脏的；（与）贲门（有关）的
+%n. <非正式>心脏病患者
+    a cardiac disease
+#心脏病
+    the cardiac cycle
+#心脏周期
+    The king was suffering from cardiac weakness.
+#当时国王患有心脏衰弱。
+
+piety: 英[ˈpaɪəti] 美[ˈpaɪəti]
+%n. 虔诚，虔敬；虔诚信念，虔诚观点；伪善的言语（pieties）；伪善的言语（pieties）
+    The reformers attached great importance to hygiene, industriousness and piety.
+#改革者极其强调个人卫生、勤奋和虔诚。
+
+excise: 英[ˈeksaɪz] 美[ˈeksaɪz]
+$n. 消费税，货物税
+%v. 切除；删除；收税，征税
+    excise a tumor
+#切除肿瘤
+    The official censors have excised the controversial sections of the report.
+#官方审查员删掉了报告中有争议的地方。
+    Government sources have said that excise on tabacco will probably be increased under the new budget.
+#政府消息人士说香烟税在新的预算中可能会增加。
+
+stiffen: 英[ˈstɪf(ə)n] 美[ˈstɪf(ə)n]
+%v. （身体）变僵硬，绷紧；（使）变强硬，变坚定；使（材料）变硬（挺）；变僵硬，变得不灵活；变酸痛僵直；变生硬，变得拘谨
+    a shirt with a stiffened collar
+#硬领衬衫
+    stiffen one's position
+#坚定立场
+    The government has stiffened the penalties for drunk-driving convictions.
+#政府加重了对酒后驾车罪的处罚。
+
+conformity: 英[kənˈfɔːməti] 美[kənˈfɔːrməti]
+%n. 遵守，依照；随大流，循规蹈矩；符合，一致；信奉英国国教
+    in conformity with local codes
+#遵从当地的法规
+    behave in conformity with one's own beliefs
+#行为与自己的信念一致
+    conformity to social customs
+#顺从社会习俗
+    There is too much conformity in the design of these buildings.
+#这些建筑物的设计雷同。
+
+haughty: 英[ˈhɔːti] 美[ˈhɔːti]
+%adj. 傲慢的；自大的
+    a haughty smile
+#自负的微笑
+    treat sb. with haughty contempt
+#以不屑一顾的傲慢态度对待某人
+    a haughty restaurant
+#气派不凡的大饭店
+    Her personality, at times brittle, aggressive and haughty, irritated many people.
+#她的个性时而脆弱，时而放肆，时而又自负，激怒了很多人。
+
+supplant: 英[səˈplɑːnt] 美[səˈplænt]
+%v. 取代，代替
+    supplant hand labor
+#取代手工劳动
+    supplant the king
+#篡夺王位
+    Small children can often feel supplanted when a new brother or sister is born.
+#小孩往往会觉得小弟弟或小妹妹出生后会取代他们在父母心中的地位。
+
+bedraggled: 英[bɪˈdræɡ(ə)ld] 美[bɪˈdræɡ(ə)ld]
+$adj. 全身泥污的；满身湿透的；荒废的，破烂的
+%v. 把……在泥水中拖脏；把……拖湿（bedraggle 的过去分词）
+    bedraggled clothes
+#泥污的衣服
+    the bedraggled buildings in the slums
+#贫民窟里破旧的房屋
+    The children ran into the house, dirty and bedraggled from playing in the garden.
+#孩子们跑进屋子，他们在花园里玩得浑身是泥，脏兮兮的。
+
+victimize: 英[ˈvɪktɪmaɪz] 美[ˈvɪktɪmaɪz]
+%v. 使受害，迫害
+    The prime minister felt he was being victimized by the media.
+#首相感到他是被新闻媒体给害的。
+
+resit: 英[ˈriːsɪt] 美[ˈriːsɪt]
+$v. 重考，补考
+%n. 重考，补考
+    the September resit
+#9月份的重考
+    They resat the exams and this time all five passed.
+#他们参加重考，这次五人都及格了。
+
+jumbo: 英[ˈdʒʌmbəʊ] 美[ˈdʒʌmboʊ]
+$adj. 巨大的；特大的
+%n. 庞然大物；巨型喷气式飞机；体大而笨拙的人或物
+    a jumbo bottle of wine
+#一大瓶酒
+    a jumbo hamburger
+#巨型汉堡
+    Washing powder works out cheaper if you buy the jumbo size.
+#如果你买大袋洗衣粉，就会更便宜。
+
+knead: 英[niːd] 美[niːd]
+%vt. 揉合，揉捏；按摩；捏制
+    If your muscles are stiff, knead them with your fingers for a while.
+#要是你的肌肉僵硬了，就用手揉一会儿。
+
+juggle: 英[ˈdʒʌɡl] 美[ˈdʒʌɡl]
+$v. 玩杂耍（连续向空中抛接多个物体）；力图使平衡，尽力应付；歪曲，篡改；有效地组织，有效利用（信息、数字、开支等）
+%n. 手技杂耍；平衡；虚报，谎报
+    juggle with facts
+#歪曲事实
+    juggle a career and a family
+#勉为其难地既搞事业又照管家庭
+    juggle demands
+#应付各种要求
+    juggle an account to hide a loss
+#做假账隐瞒亏损
+    juggle sb.'s money away
+#骗走某人的钱
+    We all watched in amazement as he juggled flaming torches.
+#我们都惊地看着他耍几把燃烧的火炬。
+
+meander: 英[miˈændə(r)] 美[miˈændər]
+$v. （河流、道路等）蜿蜒，曲折前行；漫步，闲逛，徘徊；漫谈，闲聊；（文章）行文散漫
+%n. 河流（或道路）弯道，河曲；漫游
+    meander around the streets of the old town
+#在镇上闲逛
+    meander through rich farmlands
+#蜿蜓流过富饶的农田
+    stroll along the meandering bank
+#沿着蜿蜓的河岸散步
+    The stream meanders in a leisurely way through the valley.
+#小溪蜿蜓曲折，缓缓流过山谷。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

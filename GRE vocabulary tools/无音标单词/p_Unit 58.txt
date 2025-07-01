@@ -1,0 +1,593 @@
+<<<<<<< HEAD
+unobstructed:
+    unobstructed progress
+#顺利的进展
+    an unobstructed view
+#一览无余的景色
+
+counterproductive:
+    Improved safety measures in cars can be counterproductive as they encourage people to drive faster.
+#提高车辆安全度的措施可能产生促使人们开快车的相反结果。
+
+obdurate:
+    obdurate leaderships
+#顽固不化的领导层
+    These tough uniforms are made of obdurate material.
+#这些结实的制服是用很牢固的料子做的。
+
+pestilential:
+    a pestilential disease
+#疫病
+    pestilential nuisances
+#讨厌的事情
+
+unfounded:
+    an unfounded accusation
+#没有事实根据的指控
+    an unfounded hope
+#虚幻的希望
+    The palace has dismissed the rumors of a marriage break-up as totally unfounded.
+#王室澄清了婚姻破裂的谣言，说那是毫无事实根据的。
+
+ramshackle:
+    a ramshackle old building
+#一栋摇摇欲坠的老房子
+    a ramshackle taxi
+#破旧的出租车
+    ramshackle politics
+#腐败的政治
+    There's a ramshackle old shed at the bottom of the garden.
+#花园的尽头有一间东倒西歪的旧棚子。
+
+truncate:
+    There simply isn't enough time to teach everything, so we've had to truncate the syllabus.
+#绝对没有足够的时间教所有的东西，所以我们不得不删减教学大纲。
+
+coincidental:
+    Similarity between the two texts is too consistent to be coincidental.
+#这两个文本中的相似之处从头到尾比比皆是，不像是偶然的巧合。
+
+unctuous:
+    His unctuous manner bothered her.
+#他虚情假意的样子使她讨厌。
+
+contemplative:
+    sit in a contemplative mood
+#坐着沉思
+    a contemplative life
+#沉思的生活
+    Her mood was calm and contemplative.
+#她情绪平静，似是沉思。
+
+brutality:
+    The brutalities committed by them are glossed over in news reports.
+#新闻报道对他们所犯的暴行文过饰非。
+
+placate:
+    The letter made her furious and it took some time to placate her.
+#那封信使她很生气，过了好些时间她才平静下来。
+
+incompatibility:
+    Charles decided to leave the firm because of his incompatibility with his workmates.
+#查尔斯因为与同事不能和谐相处而决定离开这个公司。
+
+threadlike:
+    a threadlike path
+#线状的小路
+
+ostentation:
+    He was widely respected in the business world for both his business skills and lack of ostentation.
+#做生意的技巧和不炫耀卖弄使他在生意场上得到了人们广泛的尊敬。
+
+discourteous:
+    discourteous attitudes
+#粗鲁的态度
+    The customers said that the employees there were unhelpful and discourteous.
+#顾客说那里的雇员非但不乐于助人且粗鲁无礼。
+
+incorrigible:
+    He is an incorrigible liar, but he has great charm.
+#他是个不可救药的说谎者，但他却很有魅力。
+
+committed:
+    They are committed to withdraw their troops at the end of the year.
+#他们承诺在年底撤出军队。
+
+byzantine:
+    The procedures surrounding legal redress are byzantine.
+#修改法律的程序是错综复杂的。
+
+schematic:
+    Read the schematic before attempting any repairs.
+#开始修理之前先看一下简图。
+
+apprise:
+    apprise the general of the approach of the enemy
+#向将军通报敌人逼近的消息
+    The president has been apprised of the situation.
+#这一情况已向总统汇报。
+
+fruitlessly:
+    For years she has been fruitlessly searching for a company to sponsor her research.
+#多年来，她一直在寻找一家公司资助她的研究项目，但毫无结果。
+
+incongruity:
+    He seemed unaware of the incongruity of his appearance.
+#他似乎没有注意到自己的外表很怪。
+unrestricted:
+    the unrestricted dumping of waste
+#无限制的垃圾倾倒
+
+germinate:
+    The possibility of organizing a fact-finding mission was germinating in his mind.
+#组织一个事实调查团的可能性正在他的头脑中酝酿。
+
+civility:
+    after a few civilities
+#寒暄几句话后
+    an exchange of civilities
+#相互间的一阵寒暄
+    She greeted him with civility, but not much warmth.
+#她对他以礼相待，但不是很热情。
+
+undemanding:
+    an undemanding job
+#要求不高的工作
+    undemanding parents
+#不严苛的双亲
+
+undeserving:
+    be undeserving of sympathy
+#不值得同情
+    be undeserving of praise
+#不配得到表扬
+
+endemic:
+    endemic poverty
+#地区性的贫困
+    endemic disease
+#地方病
+    endemic species
+#特有物种
+    He said that situation was endemic in parts of the police force.
+#他说那种情况在部分警察队伍中很普遍。
+
+imposture:
+    by lying and imposture
+#靠撒谎和冒名顶替
+    a thorough imposture
+#彻头彻尾的欺骗行为
+
+unyielding:
+    unyielding determination
+#坚定不移的决心
+
+arresting:
+    an arresting woman
+#引人注目的女子
+    an arresting headline on the front page
+#头版上醒目的大标题
+    She gave an arresting account of how she was rescued from a burning building.
+#她生动地叙述了她怎样从着火的大楼中被救出来的情景。
+
+obviate:
+    A peaceful solution would obviate the need to send a UN peace-keeping force.
+#如果能和平解决的话就没有必要派联合国维和部队。
+
+precipitous:
+    the precipitous mountain road
+#陡峭的山路
+    the precipitous fall in car sales
+#汽车销售暴跌
+    He always chooses the most precipitous slopes to ski down because he loves a challenge.
+#他总是选择最陡峭的山坡向下滑雪，因为他喜欢冒险。
+
+prosaic:
+    lead a prosaic life
+#过平凡的生活
+    a prosaic job
+#乏味的工作
+    a prosaic statement of weather conditions
+#对天气情况的如实陈述
+    I felt the book was spoilt by its prosaic dialogue.
+#我觉得这本书被其中无趣的对话糟踢了。
+
+iconoclasm:
+    Mark's iconoclasm led him to mount a series of verbal and physical attacks on the church.
+#马克打破旧传统的主张使他对教堂发动了一系列言语和行动上的攻击。
+
+semi-molten:
+    semi-molten ice
+#半融化的冰
+
+amiability:
+    I hate all that false amiability that goes on at parties.
+#我讨厌聚会时人们的那种虚假的一团和气。
+
+chagrin:
+    feel chagrin over sth.
+#对某事感到懊恼
+    much to one's chagrin
+#使某人懊悔的是
+    Their neglect of his welfare chagrined him.
+#他们对他的福利漠不关心使他感到苦恼。
+
+chary:
+    They are understandably chary about disclosing their personal details.
+#他们对公开个人资料十分小心，这是可以理解的。
+
+hypocritical:
+    hypocritical affection
+#虚假的情谊
+    Their accusations of corruption are hypocritical -- they have been just as corrupt themselves.
+#他们对腐败的指控非常虚伪——他们自己也同样腐败。
+
+obsequious:
+    an obsequious compliment
+#谄媚的恭维
+    She was almost embarrassingly obsequious to anyone in authority.
+#她几乎去巴结了每一个当权者，真叫人难为情。
+
+abatement:
+    a society for noise abatement
+#一个致力于减少噪声的社团
+    the abatement of a storm
+#暴风雨的减弱
+    the abatement of hopes
+#希望的逐渐破灭
+
+spongy:
+    a spongy rock
+#多孔的岩石
+    a spongy moor
+#湿软的沼泽
+
+escapism:
+    For many people going on holiday is a form of escapism.
+#对很多人来说，度假是一种逃避现实的方法。
+
+underutilize:
+    A large portion of the country's mineral resources are currently underutilized.
+#那个国家的大部分矿产资源目前没有得到充分利用。
+
+radicalism:
+    The high prices threatened the standard of living of the rural poor and gave rise to radicalism.
+#高物价威胁了农村地区的生活水准，促使了激进主义抬头。
+
+acolyte:
+    the managing director's acolyte
+#总经理的助手
+
+inane:
+    the inane reaches of outer space
+#外层空间的空廓区域
+    There are too many inane quiz shows on television these days.
+#现在电视中毫无意义的智力竞赛节目太多。
+
+extricable:
+    I want to help them find some extricable approaches.
+#我想要帮助他们找到有效的方法。
+
+heretical:
+    Her belief that a split would be good for the party was regarded as heretical.
+#她认为分裂对政党有利，此观点被认为是异端邪说。
+
+inconsequential:
+    He considered the sum inconsequential.
+#他认为那笔钱微不足道。
+
+agrarian:
+    agrarian land
+#耕地
+    agrarian reform
+#土地改革
+    an agrarian movement
+#农民运动
+    Agrarian production in the region has increased in recent years.
+#这一地区的农业产量在近年来有所增加。
+
+circuitous:
+    a circuitous route
+#迂回的路线
+    be circuitous in speech
+#说话拐弯抹角
+    a circuitous argument
+#间接的论据
+
+=======
+unobstructed:
+    unobstructed progress
+#顺利的进展
+    an unobstructed view
+#一览无余的景色
+
+counterproductive:
+    Improved safety measures in cars can be counterproductive as they encourage people to drive faster.
+#提高车辆安全度的措施可能产生促使人们开快车的相反结果。
+
+obdurate:
+    obdurate leaderships
+#顽固不化的领导层
+    These tough uniforms are made of obdurate material.
+#这些结实的制服是用很牢固的料子做的。
+
+pestilential:
+    a pestilential disease
+#疫病
+    pestilential nuisances
+#讨厌的事情
+
+unfounded:
+    an unfounded accusation
+#没有事实根据的指控
+    an unfounded hope
+#虚幻的希望
+    The palace has dismissed the rumors of a marriage break-up as totally unfounded.
+#王室澄清了婚姻破裂的谣言，说那是毫无事实根据的。
+
+ramshackle:
+    a ramshackle old building
+#一栋摇摇欲坠的老房子
+    a ramshackle taxi
+#破旧的出租车
+    ramshackle politics
+#腐败的政治
+    There's a ramshackle old shed at the bottom of the garden.
+#花园的尽头有一间东倒西歪的旧棚子。
+
+truncate:
+    There simply isn't enough time to teach everything, so we've had to truncate the syllabus.
+#绝对没有足够的时间教所有的东西，所以我们不得不删减教学大纲。
+
+coincidental:
+    Similarity between the two texts is too consistent to be coincidental.
+#这两个文本中的相似之处从头到尾比比皆是，不像是偶然的巧合。
+
+unctuous:
+    His unctuous manner bothered her.
+#他虚情假意的样子使她讨厌。
+
+contemplative:
+    sit in a contemplative mood
+#坐着沉思
+    a contemplative life
+#沉思的生活
+    Her mood was calm and contemplative.
+#她情绪平静，似是沉思。
+
+brutality:
+    The brutalities committed by them are glossed over in news reports.
+#新闻报道对他们所犯的暴行文过饰非。
+
+placate:
+    The letter made her furious and it took some time to placate her.
+#那封信使她很生气，过了好些时间她才平静下来。
+
+incompatibility:
+    Charles decided to leave the firm because of his incompatibility with his workmates.
+#查尔斯因为与同事不能和谐相处而决定离开这个公司。
+
+threadlike:
+    a threadlike path
+#线状的小路
+
+ostentation:
+    He was widely respected in the business world for both his business skills and lack of ostentation.
+#做生意的技巧和不炫耀卖弄使他在生意场上得到了人们广泛的尊敬。
+
+discourteous:
+    discourteous attitudes
+#粗鲁的态度
+    The customers said that the employees there were unhelpful and discourteous.
+#顾客说那里的雇员非但不乐于助人且粗鲁无礼。
+
+incorrigible:
+    He is an incorrigible liar, but he has great charm.
+#他是个不可救药的说谎者，但他却很有魅力。
+
+committed:
+    They are committed to withdraw their troops at the end of the year.
+#他们承诺在年底撤出军队。
+
+byzantine:
+    The procedures surrounding legal redress are byzantine.
+#修改法律的程序是错综复杂的。
+
+schematic:
+    Read the schematic before attempting any repairs.
+#开始修理之前先看一下简图。
+
+apprise:
+    apprise the general of the approach of the enemy
+#向将军通报敌人逼近的消息
+    The president has been apprised of the situation.
+#这一情况已向总统汇报。
+
+fruitlessly:
+    For years she has been fruitlessly searching for a company to sponsor her research.
+#多年来，她一直在寻找一家公司资助她的研究项目，但毫无结果。
+
+incongruity:
+    He seemed unaware of the incongruity of his appearance.
+#他似乎没有注意到自己的外表很怪。
+unrestricted:
+    the unrestricted dumping of waste
+#无限制的垃圾倾倒
+
+germinate:
+    The possibility of organizing a fact-finding mission was germinating in his mind.
+#组织一个事实调查团的可能性正在他的头脑中酝酿。
+
+civility:
+    after a few civilities
+#寒暄几句话后
+    an exchange of civilities
+#相互间的一阵寒暄
+    She greeted him with civility, but not much warmth.
+#她对他以礼相待，但不是很热情。
+
+undemanding:
+    an undemanding job
+#要求不高的工作
+    undemanding parents
+#不严苛的双亲
+
+undeserving:
+    be undeserving of sympathy
+#不值得同情
+    be undeserving of praise
+#不配得到表扬
+
+endemic:
+    endemic poverty
+#地区性的贫困
+    endemic disease
+#地方病
+    endemic species
+#特有物种
+    He said that situation was endemic in parts of the police force.
+#他说那种情况在部分警察队伍中很普遍。
+
+imposture:
+    by lying and imposture
+#靠撒谎和冒名顶替
+    a thorough imposture
+#彻头彻尾的欺骗行为
+
+unyielding:
+    unyielding determination
+#坚定不移的决心
+
+arresting:
+    an arresting woman
+#引人注目的女子
+    an arresting headline on the front page
+#头版上醒目的大标题
+    She gave an arresting account of how she was rescued from a burning building.
+#她生动地叙述了她怎样从着火的大楼中被救出来的情景。
+
+obviate:
+    A peaceful solution would obviate the need to send a UN peace-keeping force.
+#如果能和平解决的话就没有必要派联合国维和部队。
+
+precipitous:
+    the precipitous mountain road
+#陡峭的山路
+    the precipitous fall in car sales
+#汽车销售暴跌
+    He always chooses the most precipitous slopes to ski down because he loves a challenge.
+#他总是选择最陡峭的山坡向下滑雪，因为他喜欢冒险。
+
+prosaic:
+    lead a prosaic life
+#过平凡的生活
+    a prosaic job
+#乏味的工作
+    a prosaic statement of weather conditions
+#对天气情况的如实陈述
+    I felt the book was spoilt by its prosaic dialogue.
+#我觉得这本书被其中无趣的对话糟踢了。
+
+iconoclasm:
+    Mark's iconoclasm led him to mount a series of verbal and physical attacks on the church.
+#马克打破旧传统的主张使他对教堂发动了一系列言语和行动上的攻击。
+
+semi-molten:
+    semi-molten ice
+#半融化的冰
+
+amiability:
+    I hate all that false amiability that goes on at parties.
+#我讨厌聚会时人们的那种虚假的一团和气。
+
+chagrin:
+    feel chagrin over sth.
+#对某事感到懊恼
+    much to one's chagrin
+#使某人懊悔的是
+    Their neglect of his welfare chagrined him.
+#他们对他的福利漠不关心使他感到苦恼。
+
+chary:
+    They are understandably chary about disclosing their personal details.
+#他们对公开个人资料十分小心，这是可以理解的。
+
+hypocritical:
+    hypocritical affection
+#虚假的情谊
+    Their accusations of corruption are hypocritical -- they have been just as corrupt themselves.
+#他们对腐败的指控非常虚伪——他们自己也同样腐败。
+
+obsequious:
+    an obsequious compliment
+#谄媚的恭维
+    She was almost embarrassingly obsequious to anyone in authority.
+#她几乎去巴结了每一个当权者，真叫人难为情。
+
+abatement:
+    a society for noise abatement
+#一个致力于减少噪声的社团
+    the abatement of a storm
+#暴风雨的减弱
+    the abatement of hopes
+#希望的逐渐破灭
+
+spongy:
+    a spongy rock
+#多孔的岩石
+    a spongy moor
+#湿软的沼泽
+
+escapism:
+    For many people going on holiday is a form of escapism.
+#对很多人来说，度假是一种逃避现实的方法。
+
+underutilize:
+    A large portion of the country's mineral resources are currently underutilized.
+#那个国家的大部分矿产资源目前没有得到充分利用。
+
+radicalism:
+    The high prices threatened the standard of living of the rural poor and gave rise to radicalism.
+#高物价威胁了农村地区的生活水准，促使了激进主义抬头。
+
+acolyte:
+    the managing director's acolyte
+#总经理的助手
+
+inane:
+    the inane reaches of outer space
+#外层空间的空廓区域
+    There are too many inane quiz shows on television these days.
+#现在电视中毫无意义的智力竞赛节目太多。
+
+extricable:
+    I want to help them find some extricable approaches.
+#我想要帮助他们找到有效的方法。
+
+heretical:
+    Her belief that a split would be good for the party was regarded as heretical.
+#她认为分裂对政党有利，此观点被认为是异端邪说。
+
+inconsequential:
+    He considered the sum inconsequential.
+#他认为那笔钱微不足道。
+
+agrarian:
+    agrarian land
+#耕地
+    agrarian reform
+#土地改革
+    an agrarian movement
+#农民运动
+    Agrarian production in the region has increased in recent years.
+#这一地区的农业产量在近年来有所增加。
+
+circuitous:
+    a circuitous route
+#迂回的路线
+    be circuitous in speech
+#说话拐弯抹角
+    a circuitous argument
+#间接的论据
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

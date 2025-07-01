@@ -1,0 +1,777 @@
+<<<<<<< HEAD
+lopsided: 英[ˌlɒpˈsaɪdɪd] 美[ˌlɑːpˈsaɪdɪd]
+%adj. 不平衡的，倾向一方的
+    lopsided economic development
+#经济的畸形发展
+    a lopsided victory
+#一边倒的胜利
+    He had a charming, lopsided smile.
+#他微笑时嘴撇着，很有魅力。
+
+epilogue: 英[ˈepɪlɒɡ] 美[ˈepɪlɔːɡ]
+%n. 结语，收场白；尾声，后记
+    Epilogue: Closing section at the end of a novel or play. 
+#跋（后记）：在小说或剧本后的结束文章。
+    The main body of this paper consists of four parts, with the introduction and the epilogue. 
+#本文的主体分为四部分，以及导论和后记。
+    The epilogue is about the preliminary research results. 
+#结语部分总结了从这些不同方面进行探讨的初步成果。
+
+
+sordid: 英[ˈsɔːdɪd] 美[ˈsɔːrdɪd]
+%adj. 肮脏的；卑鄙的；利欲熏心的；色彩暗淡的
+    sordid avarice
+#贪得无厌
+    a sordid affair
+#可耻的勾当
+    sordid motives
+#卑劣的动机
+    There are lots of really sordid apartments in the city's poorer areas.
+#在城市的贫民区确实有许多航脏的公寓。
+
+chirp: 英[tʃɜːp] 美[tʃɜːrp]
+$v. （鸟）啁啾，（昆虫）唧唧叫； 轻松愉快地说，嘁嘁喳喳地说；抱怨；故意惹怒（某人）而说，奚落
+%n. 吱吱声，唧唧声
+    the chirps of the birds
+#鸟儿的叽叽喳喳声
+    The crickets chirped in the garden.
+#蟋蟀在花园里哪哪地鸣唱。
+
+reproof: 英[rɪˈpruːf] 美[rɪˈpruːf]
+%n. 责备；谴责
+    He picked up the broken vase without a word of reproof to his son.
+#他拾起花瓶碎片，一句也没有责备他的儿子。
+
+raisin: 英[ˈreɪzn] 美[ˈreɪz(ə)n]
+%n. 葡萄干
+    I bought a packet of nuts and raisins.
+#我买了一包坚果和葡萄干。
+
+sincerity: 英[sɪnˈserəti] 美[sɪnˈserəti]
+%n. 真诚，真挚
+    a man of deep sincerity
+#十分诚挚的人
+    in all sincerity
+#诚心诚意地，真心实意地
+    Her sincerity was recognized by everyone.
+#她的真诚是大家公认的。
+
+impressionable: 英[ɪmˈpreʃənəb(ə)l] 美[ɪmˈpreʃənəb(ə)l]
+%adj. 敏感的；易受影响的
+    an impressionable heart
+#善感的心
+    an impressionable young girl
+#易动情的年轻姑娘
+    impressionable plastic material
+#可塑性强的塑料
+    He's at that impressionable age when he's very easily led by other children at school.
+#他正处于那种可塑性极强的年龄，会非常容易受学校里其他孩子影响。
+
+fussy: 英[ˈfʌsi] 美[ˈfʌsi]
+%adj. 爱挑剔的，难取悦的；过分装饰的，过于繁琐的；紧张不安的；<美>婴儿爱哭的
+    be not fussy about food
+#不挑食
+    a fussy wallpaper pattern
+#花里胡哨的墙纸图案
+    She's a bit fussy about people having clean hands.
+#她有点洁癖，总要求别人有一双干净的手。
+
+imprudent: 英[ɪmˈpruːd(ə)nt] 美[ɪmˈpruːd(ə)nt]
+%adj. 轻率的，鲁莽的；不小心的
+    imprudent action
+#轻率的行为
+    The report criticizes the banks for being imprudent in their lending.
+#这份报告批评银行贷款很不谨慎。
+
+soliloquy: 英[səˈlɪləkwi] 美[səˈlɪləkwi]
+%n. 独白；自言自语
+    "To be or not to be" is Hamlet's soliloquy.
+#“生存还是毁灭”是哈姆雷特的独白。
+
+flippant: 英[ˈflɪpənt] 美[ˈflɪpənt]
+%adj. 轻率的；嘴碎的；没礼貌的
+    flippant remarks
+#轻率的言辞
+    a flippant answer
+#轻率的回答
+    It's easy to be flippant, but we have a serious problem to deal with.
+#油嘴滑舌容易，但我们有正经的问题要解决。
+
+incendiary: 英[ɪnˈsendiəri] 美[ɪnˈsendieri]
+$adj. 纵火的；煽动性的；能引起燃烧的；非常辣的
+%n. 燃烧弹；纵火者；煽动者；易燃物
+    an incendiary bomb
+#燃烧弹
+    an incendiary speech
+#煽动性的发言
+    an incendiary crime
+#纵火罪
+    He's accused of placing an incendiary device in a litter bin in downtown area.
+#他被指控在商业区的一个垃圾箱里放了一件燃烧装置。
+
+truce: 英[truːs] 美[truːs]
+$n. 停战协定，休战，停战期
+%v. 停战；以休战结束
+    agree to a truce
+#同意休战，握手言和
+    truce with the insurgent force
+#同叛军休战
+    Few people expected the truce to last when it was signed last week.
+#很少有人相信上周签署的停战协定会持续很久。
+
+demean: 英[dɪˈmiːn] 美[dɪˈmiːn]
+%vt. 贬低...的身份；使...失去尊严
+    demean oneself by taking a bribe
+#因受贿而为人不齿
+    demean oneself well
+#表现良好
+    demean oneself with great charm
+#表现得十分有魅力
+    The entire family was demeaned by Jack's behavior.
+#全家因杰克的举动而损了面子。
+
+humility: 英[hjuːˈmɪləti] 美[hjuːˈmɪləti]
+%n. 谦逊，谦恭
+    He might be very rich, but it wouldn't hurt him to show a little humility.
+#他可能非常富有，但表现出一点谦恭并不会损害他什么。
+
+symbolize: 英[ˈsɪmbəlaɪz] 美[ˈsɪmbəlaɪz]
+%v. 象征，用符号代表；采用象征，使用符号
+    symbolize a nation by its flag
+#用旗帜代表国家
+    The lighting of the Olympic torch symbolizes peace and friendship among the nations of the world.
+#奥林匹克火炬的点燃象征着全世界各国人民的和平与友好。
+
+humdrum: 英[ˈhʌmdrʌm] 美[ˈhʌmdrʌm]
+$adj. 单调的；无聊的
+$n. 单调；乏味
+%vi. 单调乏味地进行
+    a humdrum job
+#单调的工作
+    He led a humdrum life.
+#他过着枯燥乏味的日子。
+
+saline: 英[ˈseɪlaɪn] 美[ˈseɪliːn]
+$adj. 盐的，含盐的；咸的；含氯化钠的；含镁盐类的；含碱金属盐类的
+%n. 盐溶液；生理盐水
+    a saline solution
+#盐溶液
+    a saline taste
+#咸味
+    saline particles
+#盐粒
+    saline water
+#盐水，海水
+    In the hospital they put her on a saline drip to restore her body fluids.
+#在医院里，他们让她滴注生理盐水以补充体液。
+
+acrimony: 英[ˈækrɪməni] 美[ˈækrɪmoʊni]
+%n. 辛辣；尖刻；严厉
+    The acrimony of the dispute has shocked a lot of people.
+#这场争论的激烈程度震惊了许多人。
+
+amicable: 英[ˈæmɪkəb(ə)l] 美[ˈæmɪkəb(ə)l]
+%adj. 心平气和的，友善的
+    an amicable agreement
+#友好的协议
+    an amicable divorce
+#不伤和气的离婚
+    His manner was perfectly amicable but I felt uncomfortable.
+#他的举止十分友善，可我还是觉得不舒服。
+
+unsuspecting: 英[ˌʌnsəˈspektɪŋ] 美[ˌʌnsəˈspektɪŋ]
+%adj. 不怀疑的；未猜想到……的
+    all unsuspecting
+#毫不提防
+
+defunct: 英[dɪˈfʌŋkt] 美[dɪˈfʌŋkt]
+%adj. 非现存的，失灵的，不再使用的；死的
+    a defunct tribe
+#已灭绝的部落
+    a defunct magazine
+#已停刊的杂志
+    a defunct theory
+#过时的理论
+    defunct laws
+#已废除的法律
+    the will of the defunct
+#死者的遗嘱
+    They used to be members of a now defunct organization.
+#他们过去是某个组织的成员，这个组织现已不复存在。
+
+recollect: 英[ˌrekəˈlekt] 美[ˌrekəˈlekt]
+%v. <正式>回忆，想起；使（自己）镇定下来（recollect oneself）
+    as for as I recollect
+#我记得
+    He began to recollect those battles in the war that he had witnessed.
+#他开始追忆自己在战争中目睹的那几次战斗。
+
+balmy: 英[ˈbɑːmi] 美[ˈbɑːmi]
+$adj. 芳香的；温和的；止痛的
+%n. （Balmy）人名；（法）巴尔米
+    a balmy breeze
+#微风
+    balmy climate
+#温和气候
+    It was a balmy night and we sat on the grass talking until after midnight.
+#晚上天气温和，我们坐在草地上聊到午夜之后。
+
+tepid: 英[ˈtepɪd] 美[ˈtepɪd]
+%adj. 微温的，温热的；不太热烈的；不热情的
+    tepid soup
+#温热的汤
+    tepid applause
+#零落的掌声
+    a tepid interest
+#淡薄的兴趣
+    get a tepid response
+#反应平淡
+    A baby's bath water should be tepid.
+#婴儿的洗澡水应该是温热的。
+
+ideological: 英[ˌaɪdiəˈlɒdʒɪk(ə)l] 美[ˌaɪdiəˈlɑːdʒɪk(ə)l]
+%adj. 思想体系的，意识形态的
+    wage ideological warfare
+#发动意识形态战
+    Half the political group isn't speaking to the other half because of profound ideological disagreements.
+#因为深刻的意识形态上的分歧，政治团体中一半人与另一半人不对话。
+
+ethereal: 英[ɪˈθɪəriəl] 美[ɪˈθɪriəl]
+%adj. 优雅的；轻飘的；缥缈的；超凡的
+    ethereal beauty
+#飘逸的美
+    She composed music which had a spiritual, ethereal quality.
+#她创作的音乐有一种超凡脱俗、空灵缥纱的气质。
+
+venerable: 英[ˈvenərəb(ə)l] 美[ˈvenərəb(ə)l]
+%adj. 庄严的，值得尊敬的；珍贵的
+    a venerable tradition
+#令人崇敬的传统
+    a venerable company
+#久负盛名的公司
+    the venerable ruins of the abbey
+#令人肃然起敬的修道院遗址
+    a venerable old car
+#一辆古董似的旧汽车
+    He seemed tremendously venerable to her.
+#在她心目中，他似乎非常受敬重。
+
+vanity: 英[ˈvænəti] 美[ˈvænəti]
+%n. 虚荣（心），自负；（相对于非常严肃的事而言）无意义，微不足道；梳妆台，盥洗柜；自负的行为，虚荣的态度；自费出版
+    do sth. out of vanity
+#出于虚荣心而做某事
+    the vanity of a selfish life
+#利己生活的空虚
+    He had a certain vanity about himself.
+#他有点自高自大。
+
+serviceable: 英[ˈsɜːvɪsəb(ə)l] 美[ˈsɜːrvɪsəb(ə)l]
+%adj. 有用的，可供使用的；耐用的
+    a serviceable fabric
+#耐用的织物
+    a pair of serviceable shoes
+#一双耐穿的鞋
+    serviceable instruments
+#有用的工具
+    His English was broken but serviceable.
+#他的英语结结巴巴，但还能交流。
+
+rueful: 英[ˈruːf(ə)l] 美[ˈruːf(ə)l]
+%adj. 可怜的；悲伤的；悔恨的
+    a rueful face
+#悔恨的脸色
+    a rueful sight
+#悲惨的景象
+    He turned away with a rueful laugh.
+#他懊悔地苦笑着转过脸去。
+
+vexation: 英[vekˈseɪʃ(ə)n] 美[vekˈseɪʃn]
+%n. 苦恼；恼怒；令人烦恼的事
+    be subjected to many vexations
+#遇到许多恼人的事
+    It was a great vexation to her that no one seemed to believe what she said.
+#似乎没有人相信她的话，这让她很是苦恼。
+
+inventive: 英[ɪnˈventɪv] 美[ɪnˈventɪv]
+%adj. 有创造力的，善于创新的；发明的
+    an inventive device
+#有新意的装置
+    inventive powers
+#发明创造能力
+    an inventive mind
+#有发明创造力的头脑
+    an inventive writer
+#有创作才能的作家
+    He was regarded as the most inventive poet of his generation.
+#他被认为是他那一代最有创作才能的诗人。
+
+enmity: 英[ˈenməti] 美[ˈenməti]
+%n. 敌意；憎恨
+    drop one's enmity against sb.
+#消除对某人的仇恨
+    be at enmity with
+#与……不和
+    She denied any personal enmity towards him.
+#她否认对他有敌意。
+
+compliant: 英[kəmˈplaɪənt] 美[kəmˈplaɪənt]
+%adj. 服从的，顺从的；（与规定或标准）符合的，一致的；（物理，医）有可塑性的，柔量的
+    be compliant with the demand of customers
+#依从顾客的要求
+    She's a very compliant child, who always does as she's told.
+#她是个非常顺从的孩子，叫她做什么，她就做什么。
+
+figment: 英[ˈfɪɡmənt] 美[ˈfɪɡmənt]
+%n. 虚构的事；臆造的事物
+    Ghosts are just a figment of the imagination.
+#幽灵只是凭空臆想出来的事物。
+
+supportive: 英[səˈpɔːtɪv] 美[səˈpɔːrtɪv]
+%adj. 支持的，拥护的，给予帮助的
+    supportive words
+#赞成的话
+    play a supportive role
+#担任配角
+    be supportive of
+#支持
+    Children with supportive parents often do better at school than those without.
+#有父母鼓励的孩子往往比没有父母鼓励的孩子在学校里表现更出色。
+
+rhythmic(al): 英[ˈrɪðmɪk] 美[ˈrɪðmɪk]
+$adj. 有节奏的，有韵律的；规律性发生的
+%n. 韵律学（=rhythmics）
+    the rhythmic beating of the heart
+#心脏有节律的跳动
+    the rhythmic courses of nature
+#自有节律的发展过程
+    an excellent rhythmic sense
+#出色的节奏感
+    The rhythmic sound of the train sent her to sleep.
+#火车有节奏的响声使她睡着了。
+
+regressive: 英[rɪˈɡresɪv] 美[rɪˈɡresɪv]
+%adj. 回归的；后退的；退化的
+    The new system of taxation is regressive, hurting poor people more than rich.
+#这种新税收体制实递减制，对穷人的伤害甚于有钱人。
+
+fastidious: 英[fæˈstɪdiəs] 美[fəˈstɪdiəs]
+%adj. 挑剔的；苛求的，难取悦的；（微生物等）需要复杂营养地
+    a fastidious reader
+#爱挑剔的读者
+    be fastidious about one's clothes
+#对衣着过分讲究
+    He's too fastidious to eat in a fast-food restaurant.
+#他太讲究了，不会在快餐店吃饭。
+
+inimitable: 英[ɪˈnɪmɪtəb(ə)l] 美[ɪˈnɪmɪtəb(ə)l]
+%adj. 独特的；无比的；无法仿效的
+    the inimitable beauties of lilies in the field
+#田野中百合花的绝美
+    He was describing, in his inimitable style, how to write a best-selling novel.
+#他用他那无与伦比的风格描述如何写一本畅销的小说。
+
+toxin: 英[ˈtɒksɪn] 美[ˈtɑːksɪn]
+%n. 毒素；毒质
+    Some types of bean contain a toxin which can only be destroyed by cooking them at high temperature.
+#有些豆子含有一种毒素，只有高温烹饪才能破坏它。
+
+taunt: 英[tɔːnt] 美[tɔːnt]
+$v. 奚落，逗弄
+$n. 嘲弄（话），讥讽（话）
+%adj. 很高的
+    taunt a boy about his big ears
+#嘲笑一个男孩长了一对大耳朵
+    endure the taunts of a successful rival
+#忍受获胜对手的奚落
+    The other children used to taunt him in the playground because he was fat.
+#其他孩子过去常在操场上嘲笑他，因为他长得胖。
+
+=======
+lopsided: 英[ˌlɒpˈsaɪdɪd] 美[ˌlɑːpˈsaɪdɪd]
+%adj. 不平衡的，倾向一方的
+    lopsided economic development
+#经济的畸形发展
+    a lopsided victory
+#一边倒的胜利
+    He had a charming, lopsided smile.
+#他微笑时嘴撇着，很有魅力。
+
+epilogue: 英[ˈepɪlɒɡ] 美[ˈepɪlɔːɡ]
+%n. 结语，收场白；尾声，后记
+    Epilogue: Closing section at the end of a novel or play. 
+#跋（后记）：在小说或剧本后的结束文章。
+    The main body of this paper consists of four parts, with the introduction and the epilogue. 
+#本文的主体分为四部分，以及导论和后记。
+    The epilogue is about the preliminary research results. 
+#结语部分总结了从这些不同方面进行探讨的初步成果。
+
+
+sordid: 英[ˈsɔːdɪd] 美[ˈsɔːrdɪd]
+%adj. 肮脏的；卑鄙的；利欲熏心的；色彩暗淡的
+    sordid avarice
+#贪得无厌
+    a sordid affair
+#可耻的勾当
+    sordid motives
+#卑劣的动机
+    There are lots of really sordid apartments in the city's poorer areas.
+#在城市的贫民区确实有许多航脏的公寓。
+
+chirp: 英[tʃɜːp] 美[tʃɜːrp]
+$v. （鸟）啁啾，（昆虫）唧唧叫； 轻松愉快地说，嘁嘁喳喳地说；抱怨；故意惹怒（某人）而说，奚落
+%n. 吱吱声，唧唧声
+    the chirps of the birds
+#鸟儿的叽叽喳喳声
+    The crickets chirped in the garden.
+#蟋蟀在花园里哪哪地鸣唱。
+
+reproof: 英[rɪˈpruːf] 美[rɪˈpruːf]
+%n. 责备；谴责
+    He picked up the broken vase without a word of reproof to his son.
+#他拾起花瓶碎片，一句也没有责备他的儿子。
+
+raisin: 英[ˈreɪzn] 美[ˈreɪz(ə)n]
+%n. 葡萄干
+    I bought a packet of nuts and raisins.
+#我买了一包坚果和葡萄干。
+
+sincerity: 英[sɪnˈserəti] 美[sɪnˈserəti]
+%n. 真诚，真挚
+    a man of deep sincerity
+#十分诚挚的人
+    in all sincerity
+#诚心诚意地，真心实意地
+    Her sincerity was recognized by everyone.
+#她的真诚是大家公认的。
+
+impressionable: 英[ɪmˈpreʃənəb(ə)l] 美[ɪmˈpreʃənəb(ə)l]
+%adj. 敏感的；易受影响的
+    an impressionable heart
+#善感的心
+    an impressionable young girl
+#易动情的年轻姑娘
+    impressionable plastic material
+#可塑性强的塑料
+    He's at that impressionable age when he's very easily led by other children at school.
+#他正处于那种可塑性极强的年龄，会非常容易受学校里其他孩子影响。
+
+fussy: 英[ˈfʌsi] 美[ˈfʌsi]
+%adj. 爱挑剔的，难取悦的；过分装饰的，过于繁琐的；紧张不安的；<美>婴儿爱哭的
+    be not fussy about food
+#不挑食
+    a fussy wallpaper pattern
+#花里胡哨的墙纸图案
+    She's a bit fussy about people having clean hands.
+#她有点洁癖，总要求别人有一双干净的手。
+
+imprudent: 英[ɪmˈpruːd(ə)nt] 美[ɪmˈpruːd(ə)nt]
+%adj. 轻率的，鲁莽的；不小心的
+    imprudent action
+#轻率的行为
+    The report criticizes the banks for being imprudent in their lending.
+#这份报告批评银行贷款很不谨慎。
+
+soliloquy: 英[səˈlɪləkwi] 美[səˈlɪləkwi]
+%n. 独白；自言自语
+    "To be or not to be" is Hamlet's soliloquy.
+#“生存还是毁灭”是哈姆雷特的独白。
+
+flippant: 英[ˈflɪpənt] 美[ˈflɪpənt]
+%adj. 轻率的；嘴碎的；没礼貌的
+    flippant remarks
+#轻率的言辞
+    a flippant answer
+#轻率的回答
+    It's easy to be flippant, but we have a serious problem to deal with.
+#油嘴滑舌容易，但我们有正经的问题要解决。
+
+incendiary: 英[ɪnˈsendiəri] 美[ɪnˈsendieri]
+$adj. 纵火的；煽动性的；能引起燃烧的；非常辣的
+%n. 燃烧弹；纵火者；煽动者；易燃物
+    an incendiary bomb
+#燃烧弹
+    an incendiary speech
+#煽动性的发言
+    an incendiary crime
+#纵火罪
+    He's accused of placing an incendiary device in a litter bin in downtown area.
+#他被指控在商业区的一个垃圾箱里放了一件燃烧装置。
+
+truce: 英[truːs] 美[truːs]
+$n. 停战协定，休战，停战期
+%v. 停战；以休战结束
+    agree to a truce
+#同意休战，握手言和
+    truce with the insurgent force
+#同叛军休战
+    Few people expected the truce to last when it was signed last week.
+#很少有人相信上周签署的停战协定会持续很久。
+
+demean: 英[dɪˈmiːn] 美[dɪˈmiːn]
+%vt. 贬低...的身份；使...失去尊严
+    demean oneself by taking a bribe
+#因受贿而为人不齿
+    demean oneself well
+#表现良好
+    demean oneself with great charm
+#表现得十分有魅力
+    The entire family was demeaned by Jack's behavior.
+#全家因杰克的举动而损了面子。
+
+humility: 英[hjuːˈmɪləti] 美[hjuːˈmɪləti]
+%n. 谦逊，谦恭
+    He might be very rich, but it wouldn't hurt him to show a little humility.
+#他可能非常富有，但表现出一点谦恭并不会损害他什么。
+
+symbolize: 英[ˈsɪmbəlaɪz] 美[ˈsɪmbəlaɪz]
+%v. 象征，用符号代表；采用象征，使用符号
+    symbolize a nation by its flag
+#用旗帜代表国家
+    The lighting of the Olympic torch symbolizes peace and friendship among the nations of the world.
+#奥林匹克火炬的点燃象征着全世界各国人民的和平与友好。
+
+humdrum: 英[ˈhʌmdrʌm] 美[ˈhʌmdrʌm]
+$adj. 单调的；无聊的
+$n. 单调；乏味
+%vi. 单调乏味地进行
+    a humdrum job
+#单调的工作
+    He led a humdrum life.
+#他过着枯燥乏味的日子。
+
+saline: 英[ˈseɪlaɪn] 美[ˈseɪliːn]
+$adj. 盐的，含盐的；咸的；含氯化钠的；含镁盐类的；含碱金属盐类的
+%n. 盐溶液；生理盐水
+    a saline solution
+#盐溶液
+    a saline taste
+#咸味
+    saline particles
+#盐粒
+    saline water
+#盐水，海水
+    In the hospital they put her on a saline drip to restore her body fluids.
+#在医院里，他们让她滴注生理盐水以补充体液。
+
+acrimony: 英[ˈækrɪməni] 美[ˈækrɪmoʊni]
+%n. 辛辣；尖刻；严厉
+    The acrimony of the dispute has shocked a lot of people.
+#这场争论的激烈程度震惊了许多人。
+
+amicable: 英[ˈæmɪkəb(ə)l] 美[ˈæmɪkəb(ə)l]
+%adj. 心平气和的，友善的
+    an amicable agreement
+#友好的协议
+    an amicable divorce
+#不伤和气的离婚
+    His manner was perfectly amicable but I felt uncomfortable.
+#他的举止十分友善，可我还是觉得不舒服。
+
+unsuspecting: 英[ˌʌnsəˈspektɪŋ] 美[ˌʌnsəˈspektɪŋ]
+%adj. 不怀疑的；未猜想到……的
+    all unsuspecting
+#毫不提防
+
+defunct: 英[dɪˈfʌŋkt] 美[dɪˈfʌŋkt]
+%adj. 非现存的，失灵的，不再使用的；死的
+    a defunct tribe
+#已灭绝的部落
+    a defunct magazine
+#已停刊的杂志
+    a defunct theory
+#过时的理论
+    defunct laws
+#已废除的法律
+    the will of the defunct
+#死者的遗嘱
+    They used to be members of a now defunct organization.
+#他们过去是某个组织的成员，这个组织现已不复存在。
+
+recollect: 英[ˌrekəˈlekt] 美[ˌrekəˈlekt]
+%v. <正式>回忆，想起；使（自己）镇定下来（recollect oneself）
+    as for as I recollect
+#我记得
+    He began to recollect those battles in the war that he had witnessed.
+#他开始追忆自己在战争中目睹的那几次战斗。
+
+balmy: 英[ˈbɑːmi] 美[ˈbɑːmi]
+$adj. 芳香的；温和的；止痛的
+%n. （Balmy）人名；（法）巴尔米
+    a balmy breeze
+#微风
+    balmy climate
+#温和气候
+    It was a balmy night and we sat on the grass talking until after midnight.
+#晚上天气温和，我们坐在草地上聊到午夜之后。
+
+tepid: 英[ˈtepɪd] 美[ˈtepɪd]
+%adj. 微温的，温热的；不太热烈的；不热情的
+    tepid soup
+#温热的汤
+    tepid applause
+#零落的掌声
+    a tepid interest
+#淡薄的兴趣
+    get a tepid response
+#反应平淡
+    A baby's bath water should be tepid.
+#婴儿的洗澡水应该是温热的。
+
+ideological: 英[ˌaɪdiəˈlɒdʒɪk(ə)l] 美[ˌaɪdiəˈlɑːdʒɪk(ə)l]
+%adj. 思想体系的，意识形态的
+    wage ideological warfare
+#发动意识形态战
+    Half the political group isn't speaking to the other half because of profound ideological disagreements.
+#因为深刻的意识形态上的分歧，政治团体中一半人与另一半人不对话。
+
+ethereal: 英[ɪˈθɪəriəl] 美[ɪˈθɪriəl]
+%adj. 优雅的；轻飘的；缥缈的；超凡的
+    ethereal beauty
+#飘逸的美
+    She composed music which had a spiritual, ethereal quality.
+#她创作的音乐有一种超凡脱俗、空灵缥纱的气质。
+
+venerable: 英[ˈvenərəb(ə)l] 美[ˈvenərəb(ə)l]
+%adj. 庄严的，值得尊敬的；珍贵的
+    a venerable tradition
+#令人崇敬的传统
+    a venerable company
+#久负盛名的公司
+    the venerable ruins of the abbey
+#令人肃然起敬的修道院遗址
+    a venerable old car
+#一辆古董似的旧汽车
+    He seemed tremendously venerable to her.
+#在她心目中，他似乎非常受敬重。
+
+vanity: 英[ˈvænəti] 美[ˈvænəti]
+%n. 虚荣（心），自负；（相对于非常严肃的事而言）无意义，微不足道；梳妆台，盥洗柜；自负的行为，虚荣的态度；自费出版
+    do sth. out of vanity
+#出于虚荣心而做某事
+    the vanity of a selfish life
+#利己生活的空虚
+    He had a certain vanity about himself.
+#他有点自高自大。
+
+serviceable: 英[ˈsɜːvɪsəb(ə)l] 美[ˈsɜːrvɪsəb(ə)l]
+%adj. 有用的，可供使用的；耐用的
+    a serviceable fabric
+#耐用的织物
+    a pair of serviceable shoes
+#一双耐穿的鞋
+    serviceable instruments
+#有用的工具
+    His English was broken but serviceable.
+#他的英语结结巴巴，但还能交流。
+
+rueful: 英[ˈruːf(ə)l] 美[ˈruːf(ə)l]
+%adj. 可怜的；悲伤的；悔恨的
+    a rueful face
+#悔恨的脸色
+    a rueful sight
+#悲惨的景象
+    He turned away with a rueful laugh.
+#他懊悔地苦笑着转过脸去。
+
+vexation: 英[vekˈseɪʃ(ə)n] 美[vekˈseɪʃn]
+%n. 苦恼；恼怒；令人烦恼的事
+    be subjected to many vexations
+#遇到许多恼人的事
+    It was a great vexation to her that no one seemed to believe what she said.
+#似乎没有人相信她的话，这让她很是苦恼。
+
+inventive: 英[ɪnˈventɪv] 美[ɪnˈventɪv]
+%adj. 有创造力的，善于创新的；发明的
+    an inventive device
+#有新意的装置
+    inventive powers
+#发明创造能力
+    an inventive mind
+#有发明创造力的头脑
+    an inventive writer
+#有创作才能的作家
+    He was regarded as the most inventive poet of his generation.
+#他被认为是他那一代最有创作才能的诗人。
+
+enmity: 英[ˈenməti] 美[ˈenməti]
+%n. 敌意；憎恨
+    drop one's enmity against sb.
+#消除对某人的仇恨
+    be at enmity with
+#与……不和
+    She denied any personal enmity towards him.
+#她否认对他有敌意。
+
+compliant: 英[kəmˈplaɪənt] 美[kəmˈplaɪənt]
+%adj. 服从的，顺从的；（与规定或标准）符合的，一致的；（物理，医）有可塑性的，柔量的
+    be compliant with the demand of customers
+#依从顾客的要求
+    She's a very compliant child, who always does as she's told.
+#她是个非常顺从的孩子，叫她做什么，她就做什么。
+
+figment: 英[ˈfɪɡmənt] 美[ˈfɪɡmənt]
+%n. 虚构的事；臆造的事物
+    Ghosts are just a figment of the imagination.
+#幽灵只是凭空臆想出来的事物。
+
+supportive: 英[səˈpɔːtɪv] 美[səˈpɔːrtɪv]
+%adj. 支持的，拥护的，给予帮助的
+    supportive words
+#赞成的话
+    play a supportive role
+#担任配角
+    be supportive of
+#支持
+    Children with supportive parents often do better at school than those without.
+#有父母鼓励的孩子往往比没有父母鼓励的孩子在学校里表现更出色。
+
+rhythmic(al): 英[ˈrɪðmɪk] 美[ˈrɪðmɪk]
+$adj. 有节奏的，有韵律的；规律性发生的
+%n. 韵律学（=rhythmics）
+    the rhythmic beating of the heart
+#心脏有节律的跳动
+    the rhythmic courses of nature
+#自有节律的发展过程
+    an excellent rhythmic sense
+#出色的节奏感
+    The rhythmic sound of the train sent her to sleep.
+#火车有节奏的响声使她睡着了。
+
+regressive: 英[rɪˈɡresɪv] 美[rɪˈɡresɪv]
+%adj. 回归的；后退的；退化的
+    The new system of taxation is regressive, hurting poor people more than rich.
+#这种新税收体制实递减制，对穷人的伤害甚于有钱人。
+
+fastidious: 英[fæˈstɪdiəs] 美[fəˈstɪdiəs]
+%adj. 挑剔的；苛求的，难取悦的；（微生物等）需要复杂营养地
+    a fastidious reader
+#爱挑剔的读者
+    be fastidious about one's clothes
+#对衣着过分讲究
+    He's too fastidious to eat in a fast-food restaurant.
+#他太讲究了，不会在快餐店吃饭。
+
+inimitable: 英[ɪˈnɪmɪtəb(ə)l] 美[ɪˈnɪmɪtəb(ə)l]
+%adj. 独特的；无比的；无法仿效的
+    the inimitable beauties of lilies in the field
+#田野中百合花的绝美
+    He was describing, in his inimitable style, how to write a best-selling novel.
+#他用他那无与伦比的风格描述如何写一本畅销的小说。
+
+toxin: 英[ˈtɒksɪn] 美[ˈtɑːksɪn]
+%n. 毒素；毒质
+    Some types of bean contain a toxin which can only be destroyed by cooking them at high temperature.
+#有些豆子含有一种毒素，只有高温烹饪才能破坏它。
+
+taunt: 英[tɔːnt] 美[tɔːnt]
+$v. 奚落，逗弄
+$n. 嘲弄（话），讥讽（话）
+%adj. 很高的
+    taunt a boy about his big ears
+#嘲笑一个男孩长了一对大耳朵
+    endure the taunts of a successful rival
+#忍受获胜对手的奚落
+    The other children used to taunt him in the playground because he was fat.
+#其他孩子过去常在操场上嘲笑他，因为他长得胖。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

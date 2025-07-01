@@ -1,0 +1,127 @@
+<<<<<<< HEAD
+.searcher {
+    width: 960px;
+    max-width: 960px;
+    margin: 20px auto;
+    padding-left: 4em;
+}
+input, select, textarea {
+    height: 30px; 
+    margin: 10px 0; 
+    border: 1px solid #999; 
+    padding: .2em .5em;
+}
+label {
+    color: #999; 
+    margin-left: 10px
+}
+body {
+    width: 960px;
+    margin: 20px auto; 
+
+    color: #ffce2e;
+    background-color:#000;
+    margin: 0 auto;
+    /* line-height: 2em; */
+}
+.box, .box1, .box2, .box3, .box4, .box5, .box6, .boxLast {
+    width: 960px;
+    margin: 0 auto;
+    line-height: 2em;
+
+}
+
+.box a, .box1 a, .box2 a, .box3 a, .box4 a, .box5 a, .box6 a{
+    color: #fff;
+    text-decoration: none;
+}
+.boxLast a:visited {
+    color: blue;
+}
+.totop {
+    color: #EE7621;
+    text-align: right;
+}
+.totop a{
+    color: #EE7621;
+}
+a:hover {
+    text-decoration: underline;
+    color: #CD2626;
+}
+h1, h2, h3, h4, h5 {
+    color: #777;
+}
+p {
+    color: #FFA500;
+}
+
+
+a.indented-link {
+  display: inline-block; /* 将a标签转换为内联块元素 */
+  text-indent: 2em; /* 设置文本缩进为2em */
+}
+=======
+.searcher {
+    width: 960px;
+    max-width: 960px;
+    margin: 20px auto;
+    padding-left: 4em;
+}
+input, select, textarea {
+    height: 30px; 
+    margin: 10px 0; 
+    border: 1px solid #999; 
+    padding: .2em .5em;
+}
+label {
+    color: #999; 
+    margin-left: 10px
+}
+body {
+    width: 960px;
+    margin: 20px auto; 
+
+    color: #ffce2e;
+    background-color:#000;
+    margin: 0 auto;
+    /* line-height: 2em; */
+}
+.box, .box1, .box2, .box3, .box4, .box5, .box6, .boxLast {
+    width: 960px;
+    margin: 0 auto;
+    line-height: 2em;
+
+}
+
+.box a, .box1 a, .box2 a, .box3 a, .box4 a, .box5 a, .box6 a{
+    color: #fff;
+    text-decoration: none;
+}
+.boxLast a:visited {
+    color: blue;
+}
+.totop {
+    color: #EE7621;
+    text-align: right;
+}
+.totop a{
+    color: #EE7621;
+}
+a:hover {
+    text-decoration: underline;
+    color: #CD2626;
+}
+h1, h2, h3, h4, h5 {
+    color: #777;
+}
+p {
+    color: #FFA500;
+}
+
+
+a.indented-link {
+  display: inline-block; /* 将a标签转换为内联块元素 */
+  text-indent: 2em; /* 设置文本缩进为2em */
+}
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

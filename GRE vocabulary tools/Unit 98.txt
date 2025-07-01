@@ -1,0 +1,797 @@
+<<<<<<< HEAD
+squabble: 英[ˈskwɒb(ə)l] 美[ˈskwɑːb(ə)l]
+$v. （为琐事）发生口角，大声争吵
+%n. 争吵，口角
+    a squabble over money
+#为了金钱而发生的争吵
+    She squabbled with her boss about/over who would pay the bill.
+#她与老板就谁付账的问题发生了争吵。
+
+interrogate: 英[ɪnˈterəɡeɪt] 美[ɪnˈterəɡeɪt]
+%v. 审问，讯问，质问；（在计算机或其他机器上）查询
+    interrogate the witness about the accident
+#讯问目击者有关事故的情况
+    The police interrogated the suspect for several hours.
+#警察盘问了犯罪嫌疑人好几个小时。
+
+impel: 英[ɪmˈpel] 美[ɪmˈpel]
+%v. 推动，驱使
+    There are various reasons that impel me to that conclusion.
+#有各种原因促使我做出那个结论。
+
+immunity: 英[ɪˈmjuːnəti] 美[ɪˈmjuːnəti]
+%n. 免疫力；免除，豁免
+    give sb. immunity from taxation
+#免除某人纳税
+    receive immunity from prosecution
+#获准免于起诉
+    Ambassadors have diplomatic immunity in the countries in which they are stationed.
+#大使在其所驻国享有外交豁免权。
+
+stampede: 英[stæmˈpiːd] 美[stæmˈpiːd]
+$n. （尤指兽群或人群因恐惧引发的）狂奔，奔逃，蜂拥；热潮，风尚，风气；<美>牛仔竞技表演，摩托车竞技表演
+%v. （使）惊逃，（使）奔逃；使冲动行事，使仓促行事；抢占
+    a stampede for tickets
+#购票热
+    a stampede of shoppers
+#蜂拥至的购物者
+    stampede in a thunderstorm
+#在雷雨中逃窜
+    The children stampeded out through the side doors.
+#孩子们从各个边门蜂拥而出。
+
+expropriate: 英[eksˈprəʊprieɪt] 美[eksˈproʊprieɪt]
+%vt. 没收，征用；剥夺
+    expropriate land for a park
+#征用土地建公园
+    expropriate sb.'s property
+#没收某人的财产
+    expropriate sb.'s ideas for one's article
+#剽窃他人的主意写文章
+    He threatened to expropriate the landowners from their estates.
+#他威胁要剥夺土地所有者的产业。
+
+microbe: 英[ˈmaɪkrəʊb] 美[ˈmaɪkroʊb]
+%n. 细菌，微生物
+    Microbes are among the oldest forms of life on the earth.
+#细菌是地球上最古老的生命形式之一。
+
+tally: 英[ˈtæli] 美[ˈtæli]
+$n. 记录，得分；账单；<史>符木；（对树或植物进行说明的）标志牌，标签
+%v. 相符，吻合；计算，合计；（在游戏或体育运动中）得分，进球
+    tally method
+#记账方法
+    keep a tally of your marks
+#把你的得分记下来
+    a running tally
+#流水账
+    Our figures don't tally -- you've made it thirty pounds more than me.
+#我们的数目不吻合，你比我多了30英镜。
+
+extort: 英[ɪkˈstɔːt] 美[ɪkˈstɔːrt]
+%vt. 敲诈；侵占；强求；牵强地引出
+    extort bribes from sb.
+#向某人勒索贿赂
+    extort a confession from sb.
+#逼取某人的招供
+    extort a meaning from a word
+#牵强地解释一个词
+    They accused him of trying to extort money with menaces.
+#他们控告他企图通过恐吓勒索钱财。
+
+glean: 英[ɡliːn] 美[ɡliːn]
+$vt. 收集（资料）；拾（落穗）
+%vi. 收集；拾落穗
+    glean stray ears of wheat
+#拾散落的麦穗
+    glean information about one's family
+#收集某人的家庭情况
+    glean old photos
+#收集老照片
+    From what I was able to glean, it appears they don't intend to take any action yet.
+#根据我所收集到的资料，他们看来还不打算采取任何行动。
+
+knack: 英[næk] 美[næk]
+%n. 诀窍；本领；熟练技术；巧妙手法
+    a knack for trade
+#做买卖的诀窍
+    a knack of versification
+#作诗的技巧
+    He has the knack of making friends wherever he goes.
+#他有一种能到处交朋友的本领。
+
+doodle: 英[ˈduːd(ə)l] 美[ˈduːd(ə)l]
+$v. （尤指厌烦或心不在焉时）乱涂；随意弹奏；闲混
+%n. （心不在焉地）乱涂的图画；蠢人
+    doodle a picture
+#信手涂出一张画
+    doodle on a pad talking on the phone
+#打电话时在一本便簿上信手乱涂乱画
+    For the last five years he has been doodling at an autobiography.
+#过去5年来他一直在写自传混日子。
+
+dissolute: 英[ˈdɪsəluːt] 美[ˈdɪsəluːt]
+%adj. 放荡的；风流的
+    The man led a dissolute life.
+#那个男人过着放纵的生活。
+
+asteroid: 英[ˈæstərɔɪd] 美[ˈæstərɔɪd]
+$n. 小行星；海星
+%adj. 星状的；类似海星的
+    The scientists have placed many asteroids in groups and families based on their orbital characteristics.
+#科学家们根据轨道特征对许多小行星进行了分类。
+
+despoil: 英[dɪˈspɔɪl] 美[dɪˈspɔɪl]
+%vt. 掠夺，剥夺；夺取
+    a city despoiled by invaders
+#遭到入侵者洗劫的城市
+    despoil sb. of rights
+#剥夺某人的权利
+    The victorious army despoiled the city of all its treasures.
+#获胜军队掠夺了那座城市的全部财宝。
+
+pictorial: 英[pɪkˈtɔːriəl] 美[pɪkˈtɔːriəl]
+$adj. 绘画的；形象化的
+%n. 画报；画刊
+    a pictorial weekly
+#每周出版的画报
+    a pictorial description of the countryside
+#对农村的生动描述
+
+luxurious: 英[lʌɡˈʒʊəriəs] 美[lʌɡˈʒʊriəs]
+%adj. 奢侈的，豪华的；心满意足的，舒适的；辞藻华丽的
+    live in a luxurious villa
+#住在一个豪华别墅里
+    He spent a luxurious weekend at a country hotel.
+#他在一家乡村旅馆度过了一个舒心的周末。
+
+project: 英[ˈprɒdʒekt] 美[ˈprɑːdʒekt]
+$n. 项目，计划；（学校的）课题，研究项目；<美>廉租房区，公共房屋区
+%v. 预计，推算；计划，规划；伸出，突出；投掷，喷射；投射，投影；展现，表现；使（声音，尤指嗓音）扩及远处；传播；想像（自己、场景等）在另一地点或时间；（尤指无意地把情感、愿望）投射转移（给别人）；使（某人）迅速成功，让（某人）获得更好的工作；作（曲线）的射影图；把（地球，天空等）投影在平面上
+    project a missile
+#发射导弹
+    under project
+#在规划中
+    do a project on water pollution
+#做一项关于水污染的研究
+    More and more money is being put into scientific research projects.
+#越来越多的钱正被投入科研项目。
+
+dissuade: 英[dɪˈsweɪd] 美[dɪˈsweɪd]
+%vt. 劝阻，劝止
+    dissuade sb. from sth./doing sth.
+#劝人不做某事
+    dissuade an action
+#劝阻某一行动
+    He wrote an article to dissuade people from the use of tobacco.
+#他写了一篇劝人勿吸烟的文章。
+
+slander: 英[ˈslɑːndə(r)] 美[ˈslændər]
+$n. 诽谤，诋毁；诽谤罪
+%v. （口头）诽谤，诋毁
+    She regarded his remarks as a slander on her good name.
+#她认为他的话是对她良好声誉的诋毁。
+
+ripen: 英[ˈraɪpən] 美[ˈraɪpən]
+%v. （使）成熟；时机成熟，条件成熟
+    ripen the corn
+#使谷物成熟
+    I'm waiting for the apples to ripen.
+#我在等这些苹果成熟。
+
+generic: 英[dʒəˈnerɪk] 美[dʒəˈnerɪk]
+$adj. 一般的，通用的；（货物，尤指药品）没有牌子的，无商标的；属的，类的；（生）属的，类的
+%n. 无商标消费品，不受商标注册保护的消费品
+    a generic term
+#通称
+    generic software
+#通用软件
+    purchase low-cost generics
+#购买低价的非专利药
+    Parmesan is a generic term used to describe a family of hard Italian cheeses.
+#巴尔马干酪是一个用来描述一类坚硬的意大利奶酪的通用名称。
+
+entourage: 英[ˈɒnturɑːʒ] 美[ˌɑːntuˈrɑːʒ]
+%n. 随从；周围；环境
+    It is a house with a charming entourage of trees and flowers.
+#那是一幢花木环绕的房子。
+
+whim: 英[wɪm] 美[wɪm]
+%n. 一时的兴致，突发的奇想
+    have/take a whim for doing sth.
+#突发奇想做某事
+    do sth. on (a) whim
+#一时心血来潮做某事
+    be governed by whim
+#受冲动支配
+    Government policy changes at the whim of the president.
+#总统冒出个什么新想法，政府的政策就随着改变。
+
+gourmet: 英[ˈɡʊəmeɪ] 美[ˈɡʊrmeɪ]
+$n. 美食家；美食家
+%adj. （食物）美味的；提供美食的
+    a gourmet dish
+#佳肴
+    a gourmet restaurant
+#菜肴精美的餐馆
+    gourmet living
+#饮食讲究的生活
+    The kitchen was described as the gourmet in town.
+#那个厨房做的菜被说成是全城最美味的。
+
+pivot: 英[ˈpɪvət] 美[ˈpɪvət]
+$n. 支点，枢轴；最重要的人（或事物），核心；转动，旋转；策应位置；<美>中锋
+%v. （使）在枢轴上旋转；（以脚为支点）转身；（为机械装置）提供枢轴
+    the pivot of the controversy
+#争论的中心
+    the pivot of family life
+#家庭生活的中心人物
+    pivot one's life on some particular motive
+#根据某种特殊动机改变生活
+    pivot on one's heel
+#以脚跟为中心转
+    the pivot of the plan
+#计划的核心
+    The future pivots on what is done today.
+#未来取决于今天的所为。
+
+refurbish: 英[ˌriːˈfɜːbɪʃ] 美[ˌriːˈfɜːrbɪʃ]
+%v. 整修，翻新重装；修改，完善
+    Refurbishing the old house has made it habitable again.
+#旧屋翻新整修之后又可以住人了。
+
+incinerate: 英[ɪnˈsɪnəreɪt] 美[ɪnˈsɪnəreɪt]
+%v. 把……烧成灰烬，焚毁
+    Dry leaves incinerate easily.
+#干燥的树叶容易烧成灰烬。
+
+throng: 英[θrɒŋ] 美[θrɔːŋ]
+$n. 一大群，众多
+$v. 蜂拥，群集
+%adj. <苏格兰，北英格兰>拥挤的
+    a huge throng
+#一大群人
+    a throng of children
+#一群儿童
+    throngs of ants
+#一群群蚂蚁
+    a throng of confused notions
+#一大堆混乱的想法
+    be thronged with people
+#挤满了人
+    Summer visitors thronged the narrow streets.
+#夏季游客挤满了狭窄的街道。
+
+swirl: 英[swɜːl] 美[swɜːrl]
+$v. （使）打旋，（使）旋动；流传（尤用于新闻报道）；眩晕
+%n. 打旋，旋涡；漩涡状，螺旋形；纷乱
+    come swirling into the yard
+#（雪花）飞飘进院子
+    swirl a pan
+#转动平底锅
+    swirl coffee
+#搅咖啡
+    the slow swirl of the stream
+#溪流缓慢的打旋
+    a swirl of events
+#一串串的事件
+    Puffs of smoke swirled up.
+#炊烟袅袅升起。
+
+vocation: 英[vəʊˈkeɪʃ(ə)n] 美[voʊˈkeɪʃ(ə)n]
+%n. （认为某种职业适合自己的）使命感；（认为特别适合自己的）工作，职业，生活方式；神召，天命，（宗教）使命感
+    work at one's vocation
+#从事某行业
+    change one's vocation from physics to painting
+#弃物理而从事绘画
+    feel a clear vocation for the job
+#明显地想从事此项职业
+    Being a husband and father is only one of many vocations of a married man.
+#作为丈夫和父亲仅是男子婚后的许多使命之一。
+
+inanimate: 英[ɪnˈænɪmət] 美[ɪnˈænɪmət]
+%adj. 无生命的；无生气的
+    an inanimate object
+#无生命物体
+    an inanimate conversation
+#沉闷的谈话
+    an inanimate scene
+#单调的景色
+    an inanimate expression
+#没精打采的表情
+    The lifeguard pulled the inanimate body out of the river.
+#救生员把不省人事的躯体从河中拖了上来。
+
+canvas: 英[ˈkænvəs] 美[ˈkænvəs]
+$n. 帆布；画布，油画
+%v. 用帆布覆盖
+    a canvas boat
+#帆布船
+    canvas shoes
+#帆布鞋
+    waterproof canvas
+#防水帆布
+    under canvas
+#在帐篷里，（船）张着帆，扬起帆
+    We spent the night under canvas by the lake.
+#我们在湖边的帐篷里过夜。
+
+ornate: 英[ɔːˈneɪt] 美[ɔːrˈneɪt]
+%adj. 华丽的；装饰的；（文体）绚丽的
+    an ornate ceiling
+#装饰华丽的天花板
+    an ornate style of writing
+#华丽的文体
+    The gold frame is much too ornate for that simple picture.
+#那幅很普通的画用金框装饰过于奢侈了。
+
+instil(l): 英[ɪnˈstɪl] 美[ɪnˈstɪl]
+%vt. 逐渐灌输，逐步培养（尤指好的思想、态度等）；滴注
+    instill morality into people's minds
+#将美德逐灌输进人们的头脑
+    She instilled medication into the infected eyes.
+#她把药液滴入受感染的眼睛。
+
+vaporize: 英[ˈveɪpəraɪz] 美[ˈveɪpəraɪz]
+$vi. 蒸发
+%vt. 使……蒸发
+    If you vaporize a liquid, other substances will be left behind.
+#如果你使液体蒸发，其他物质就会剩下。
+
+engulf: 英[ɪnˈɡʌlf] 美[ɪnˈɡʌlf]
+%v. 吞没，淹没；使陷入（某种思绪或情绪）；狼吞虎咽
+    engulf oneself in studies
+#埋头学习
+    be engulfed by drifting sand
+#为流沙所淹没
+    An almost unbearable loneliness engulfed her.
+#她陷人一种几乎无法忍受的寂寞之中。
+
+barter: 英[ˈbɑːtə(r)] 美[ˈbɑːrtər]
+$v. 以物易物，物物交换；讨价还价
+%n. 物物交易制度，易货贸易；用于易物的物品
+    barter wheat for tools
+#小麦交换工具
+    barter with a tax driver
+#同出租车司机讨价还价
+    barter away one's soul for wealth
+#为财富出卖灵魂
+    They bartered farm products for machinery.
+#他们用农产品交换机器。
+
+seep: 英[siːp] 美[siːp]
+$v. （液体）渗漏，渗透；逐渐移动，渐渐散开
+%n. （油、水）渗出地表的地方
+    Water seeped in through a crack.
+#水从裂缝中渗入
+
+mania: 英[ˈmeɪniə] 美[ˈmeɪniə]
+%n. 狂热，热衷；躁狂症
+    He has a mania for drinking.
+#他嗜酒成癖。
+
+resilience: 英[rɪˈzɪliəns] 美[rɪˈzɪliəns]
+%n. 恢复力，复原力；（橡胶等的）弹性
+    the resilience of rubber
+#橡皮的弹性
+    the resilience of the human body
+#人体的恢复力
+    He bounced on a mattress to demonstrate its resilience.
+#他在床垫上弹跳以显示其弹性。
+
+emerald: 英[ˈemərəld] 美[ˈemərəld]
+$n. 翡翠，绿宝石；翠绿色；尺娥；蜻蛉，豆娘；一种小型蜂鸟（羽亮绿色，翼尾色深，主要产于加勒比地区和中美洲）
+%adj. 翠绿色的，鲜绿色的
+    the emerald fields of spring
+#春天葱翠的田野
+    She bought an emerald ring.
+#她买了一枚绿宝石戒指。
+
+absolve: 英[əbˈzɒlv] 美[əbˈzɑːlv]
+%vt. 免除；赦免；宣告……无罪
+    absolve sb. from sin
+#赦免某人的罪恶
+    absolve sb. from any blame
+#免于究诘
+    He said he would absolve them of any responsibility.
+#他说他将免除他们所承担的任何责任。
+
+=======
+squabble: 英[ˈskwɒb(ə)l] 美[ˈskwɑːb(ə)l]
+$v. （为琐事）发生口角，大声争吵
+%n. 争吵，口角
+    a squabble over money
+#为了金钱而发生的争吵
+    She squabbled with her boss about/over who would pay the bill.
+#她与老板就谁付账的问题发生了争吵。
+
+interrogate: 英[ɪnˈterəɡeɪt] 美[ɪnˈterəɡeɪt]
+%v. 审问，讯问，质问；（在计算机或其他机器上）查询
+    interrogate the witness about the accident
+#讯问目击者有关事故的情况
+    The police interrogated the suspect for several hours.
+#警察盘问了犯罪嫌疑人好几个小时。
+
+impel: 英[ɪmˈpel] 美[ɪmˈpel]
+%v. 推动，驱使
+    There are various reasons that impel me to that conclusion.
+#有各种原因促使我做出那个结论。
+
+immunity: 英[ɪˈmjuːnəti] 美[ɪˈmjuːnəti]
+%n. 免疫力；免除，豁免
+    give sb. immunity from taxation
+#免除某人纳税
+    receive immunity from prosecution
+#获准免于起诉
+    Ambassadors have diplomatic immunity in the countries in which they are stationed.
+#大使在其所驻国享有外交豁免权。
+
+stampede: 英[stæmˈpiːd] 美[stæmˈpiːd]
+$n. （尤指兽群或人群因恐惧引发的）狂奔，奔逃，蜂拥；热潮，风尚，风气；<美>牛仔竞技表演，摩托车竞技表演
+%v. （使）惊逃，（使）奔逃；使冲动行事，使仓促行事；抢占
+    a stampede for tickets
+#购票热
+    a stampede of shoppers
+#蜂拥至的购物者
+    stampede in a thunderstorm
+#在雷雨中逃窜
+    The children stampeded out through the side doors.
+#孩子们从各个边门蜂拥而出。
+
+expropriate: 英[eksˈprəʊprieɪt] 美[eksˈproʊprieɪt]
+%vt. 没收，征用；剥夺
+    expropriate land for a park
+#征用土地建公园
+    expropriate sb.'s property
+#没收某人的财产
+    expropriate sb.'s ideas for one's article
+#剽窃他人的主意写文章
+    He threatened to expropriate the landowners from their estates.
+#他威胁要剥夺土地所有者的产业。
+
+microbe: 英[ˈmaɪkrəʊb] 美[ˈmaɪkroʊb]
+%n. 细菌，微生物
+    Microbes are among the oldest forms of life on the earth.
+#细菌是地球上最古老的生命形式之一。
+
+tally: 英[ˈtæli] 美[ˈtæli]
+$n. 记录，得分；账单；<史>符木；（对树或植物进行说明的）标志牌，标签
+%v. 相符，吻合；计算，合计；（在游戏或体育运动中）得分，进球
+    tally method
+#记账方法
+    keep a tally of your marks
+#把你的得分记下来
+    a running tally
+#流水账
+    Our figures don't tally -- you've made it thirty pounds more than me.
+#我们的数目不吻合，你比我多了30英镜。
+
+extort: 英[ɪkˈstɔːt] 美[ɪkˈstɔːrt]
+%vt. 敲诈；侵占；强求；牵强地引出
+    extort bribes from sb.
+#向某人勒索贿赂
+    extort a confession from sb.
+#逼取某人的招供
+    extort a meaning from a word
+#牵强地解释一个词
+    They accused him of trying to extort money with menaces.
+#他们控告他企图通过恐吓勒索钱财。
+
+glean: 英[ɡliːn] 美[ɡliːn]
+$vt. 收集（资料）；拾（落穗）
+%vi. 收集；拾落穗
+    glean stray ears of wheat
+#拾散落的麦穗
+    glean information about one's family
+#收集某人的家庭情况
+    glean old photos
+#收集老照片
+    From what I was able to glean, it appears they don't intend to take any action yet.
+#根据我所收集到的资料，他们看来还不打算采取任何行动。
+
+knack: 英[næk] 美[næk]
+%n. 诀窍；本领；熟练技术；巧妙手法
+    a knack for trade
+#做买卖的诀窍
+    a knack of versification
+#作诗的技巧
+    He has the knack of making friends wherever he goes.
+#他有一种能到处交朋友的本领。
+
+doodle: 英[ˈduːd(ə)l] 美[ˈduːd(ə)l]
+$v. （尤指厌烦或心不在焉时）乱涂；随意弹奏；闲混
+%n. （心不在焉地）乱涂的图画；蠢人
+    doodle a picture
+#信手涂出一张画
+    doodle on a pad talking on the phone
+#打电话时在一本便簿上信手乱涂乱画
+    For the last five years he has been doodling at an autobiography.
+#过去5年来他一直在写自传混日子。
+
+dissolute: 英[ˈdɪsəluːt] 美[ˈdɪsəluːt]
+%adj. 放荡的；风流的
+    The man led a dissolute life.
+#那个男人过着放纵的生活。
+
+asteroid: 英[ˈæstərɔɪd] 美[ˈæstərɔɪd]
+$n. 小行星；海星
+%adj. 星状的；类似海星的
+    The scientists have placed many asteroids in groups and families based on their orbital characteristics.
+#科学家们根据轨道特征对许多小行星进行了分类。
+
+despoil: 英[dɪˈspɔɪl] 美[dɪˈspɔɪl]
+%vt. 掠夺，剥夺；夺取
+    a city despoiled by invaders
+#遭到入侵者洗劫的城市
+    despoil sb. of rights
+#剥夺某人的权利
+    The victorious army despoiled the city of all its treasures.
+#获胜军队掠夺了那座城市的全部财宝。
+
+pictorial: 英[pɪkˈtɔːriəl] 美[pɪkˈtɔːriəl]
+$adj. 绘画的；形象化的
+%n. 画报；画刊
+    a pictorial weekly
+#每周出版的画报
+    a pictorial description of the countryside
+#对农村的生动描述
+
+luxurious: 英[lʌɡˈʒʊəriəs] 美[lʌɡˈʒʊriəs]
+%adj. 奢侈的，豪华的；心满意足的，舒适的；辞藻华丽的
+    live in a luxurious villa
+#住在一个豪华别墅里
+    He spent a luxurious weekend at a country hotel.
+#他在一家乡村旅馆度过了一个舒心的周末。
+
+project: 英[ˈprɒdʒekt] 美[ˈprɑːdʒekt]
+$n. 项目，计划；（学校的）课题，研究项目；<美>廉租房区，公共房屋区
+%v. 预计，推算；计划，规划；伸出，突出；投掷，喷射；投射，投影；展现，表现；使（声音，尤指嗓音）扩及远处；传播；想像（自己、场景等）在另一地点或时间；（尤指无意地把情感、愿望）投射转移（给别人）；使（某人）迅速成功，让（某人）获得更好的工作；作（曲线）的射影图；把（地球，天空等）投影在平面上
+    project a missile
+#发射导弹
+    under project
+#在规划中
+    do a project on water pollution
+#做一项关于水污染的研究
+    More and more money is being put into scientific research projects.
+#越来越多的钱正被投入科研项目。
+
+dissuade: 英[dɪˈsweɪd] 美[dɪˈsweɪd]
+%vt. 劝阻，劝止
+    dissuade sb. from sth./doing sth.
+#劝人不做某事
+    dissuade an action
+#劝阻某一行动
+    He wrote an article to dissuade people from the use of tobacco.
+#他写了一篇劝人勿吸烟的文章。
+
+slander: 英[ˈslɑːndə(r)] 美[ˈslændər]
+$n. 诽谤，诋毁；诽谤罪
+%v. （口头）诽谤，诋毁
+    She regarded his remarks as a slander on her good name.
+#她认为他的话是对她良好声誉的诋毁。
+
+ripen: 英[ˈraɪpən] 美[ˈraɪpən]
+%v. （使）成熟；时机成熟，条件成熟
+    ripen the corn
+#使谷物成熟
+    I'm waiting for the apples to ripen.
+#我在等这些苹果成熟。
+
+generic: 英[dʒəˈnerɪk] 美[dʒəˈnerɪk]
+$adj. 一般的，通用的；（货物，尤指药品）没有牌子的，无商标的；属的，类的；（生）属的，类的
+%n. 无商标消费品，不受商标注册保护的消费品
+    a generic term
+#通称
+    generic software
+#通用软件
+    purchase low-cost generics
+#购买低价的非专利药
+    Parmesan is a generic term used to describe a family of hard Italian cheeses.
+#巴尔马干酪是一个用来描述一类坚硬的意大利奶酪的通用名称。
+
+entourage: 英[ˈɒnturɑːʒ] 美[ˌɑːntuˈrɑːʒ]
+%n. 随从；周围；环境
+    It is a house with a charming entourage of trees and flowers.
+#那是一幢花木环绕的房子。
+
+whim: 英[wɪm] 美[wɪm]
+%n. 一时的兴致，突发的奇想
+    have/take a whim for doing sth.
+#突发奇想做某事
+    do sth. on (a) whim
+#一时心血来潮做某事
+    be governed by whim
+#受冲动支配
+    Government policy changes at the whim of the president.
+#总统冒出个什么新想法，政府的政策就随着改变。
+
+gourmet: 英[ˈɡʊəmeɪ] 美[ˈɡʊrmeɪ]
+$n. 美食家；美食家
+%adj. （食物）美味的；提供美食的
+    a gourmet dish
+#佳肴
+    a gourmet restaurant
+#菜肴精美的餐馆
+    gourmet living
+#饮食讲究的生活
+    The kitchen was described as the gourmet in town.
+#那个厨房做的菜被说成是全城最美味的。
+
+pivot: 英[ˈpɪvət] 美[ˈpɪvət]
+$n. 支点，枢轴；最重要的人（或事物），核心；转动，旋转；策应位置；<美>中锋
+%v. （使）在枢轴上旋转；（以脚为支点）转身；（为机械装置）提供枢轴
+    the pivot of the controversy
+#争论的中心
+    the pivot of family life
+#家庭生活的中心人物
+    pivot one's life on some particular motive
+#根据某种特殊动机改变生活
+    pivot on one's heel
+#以脚跟为中心转
+    the pivot of the plan
+#计划的核心
+    The future pivots on what is done today.
+#未来取决于今天的所为。
+
+refurbish: 英[ˌriːˈfɜːbɪʃ] 美[ˌriːˈfɜːrbɪʃ]
+%v. 整修，翻新重装；修改，完善
+    Refurbishing the old house has made it habitable again.
+#旧屋翻新整修之后又可以住人了。
+
+incinerate: 英[ɪnˈsɪnəreɪt] 美[ɪnˈsɪnəreɪt]
+%v. 把……烧成灰烬，焚毁
+    Dry leaves incinerate easily.
+#干燥的树叶容易烧成灰烬。
+
+throng: 英[θrɒŋ] 美[θrɔːŋ]
+$n. 一大群，众多
+$v. 蜂拥，群集
+%adj. <苏格兰，北英格兰>拥挤的
+    a huge throng
+#一大群人
+    a throng of children
+#一群儿童
+    throngs of ants
+#一群群蚂蚁
+    a throng of confused notions
+#一大堆混乱的想法
+    be thronged with people
+#挤满了人
+    Summer visitors thronged the narrow streets.
+#夏季游客挤满了狭窄的街道。
+
+swirl: 英[swɜːl] 美[swɜːrl]
+$v. （使）打旋，（使）旋动；流传（尤用于新闻报道）；眩晕
+%n. 打旋，旋涡；漩涡状，螺旋形；纷乱
+    come swirling into the yard
+#（雪花）飞飘进院子
+    swirl a pan
+#转动平底锅
+    swirl coffee
+#搅咖啡
+    the slow swirl of the stream
+#溪流缓慢的打旋
+    a swirl of events
+#一串串的事件
+    Puffs of smoke swirled up.
+#炊烟袅袅升起。
+
+vocation: 英[vəʊˈkeɪʃ(ə)n] 美[voʊˈkeɪʃ(ə)n]
+%n. （认为某种职业适合自己的）使命感；（认为特别适合自己的）工作，职业，生活方式；神召，天命，（宗教）使命感
+    work at one's vocation
+#从事某行业
+    change one's vocation from physics to painting
+#弃物理而从事绘画
+    feel a clear vocation for the job
+#明显地想从事此项职业
+    Being a husband and father is only one of many vocations of a married man.
+#作为丈夫和父亲仅是男子婚后的许多使命之一。
+
+inanimate: 英[ɪnˈænɪmət] 美[ɪnˈænɪmət]
+%adj. 无生命的；无生气的
+    an inanimate object
+#无生命物体
+    an inanimate conversation
+#沉闷的谈话
+    an inanimate scene
+#单调的景色
+    an inanimate expression
+#没精打采的表情
+    The lifeguard pulled the inanimate body out of the river.
+#救生员把不省人事的躯体从河中拖了上来。
+
+canvas: 英[ˈkænvəs] 美[ˈkænvəs]
+$n. 帆布；画布，油画
+%v. 用帆布覆盖
+    a canvas boat
+#帆布船
+    canvas shoes
+#帆布鞋
+    waterproof canvas
+#防水帆布
+    under canvas
+#在帐篷里，（船）张着帆，扬起帆
+    We spent the night under canvas by the lake.
+#我们在湖边的帐篷里过夜。
+
+ornate: 英[ɔːˈneɪt] 美[ɔːrˈneɪt]
+%adj. 华丽的；装饰的；（文体）绚丽的
+    an ornate ceiling
+#装饰华丽的天花板
+    an ornate style of writing
+#华丽的文体
+    The gold frame is much too ornate for that simple picture.
+#那幅很普通的画用金框装饰过于奢侈了。
+
+instil(l): 英[ɪnˈstɪl] 美[ɪnˈstɪl]
+%vt. 逐渐灌输，逐步培养（尤指好的思想、态度等）；滴注
+    instill morality into people's minds
+#将美德逐灌输进人们的头脑
+    She instilled medication into the infected eyes.
+#她把药液滴入受感染的眼睛。
+
+vaporize: 英[ˈveɪpəraɪz] 美[ˈveɪpəraɪz]
+$vi. 蒸发
+%vt. 使……蒸发
+    If you vaporize a liquid, other substances will be left behind.
+#如果你使液体蒸发，其他物质就会剩下。
+
+engulf: 英[ɪnˈɡʌlf] 美[ɪnˈɡʌlf]
+%v. 吞没，淹没；使陷入（某种思绪或情绪）；狼吞虎咽
+    engulf oneself in studies
+#埋头学习
+    be engulfed by drifting sand
+#为流沙所淹没
+    An almost unbearable loneliness engulfed her.
+#她陷人一种几乎无法忍受的寂寞之中。
+
+barter: 英[ˈbɑːtə(r)] 美[ˈbɑːrtər]
+$v. 以物易物，物物交换；讨价还价
+%n. 物物交易制度，易货贸易；用于易物的物品
+    barter wheat for tools
+#小麦交换工具
+    barter with a tax driver
+#同出租车司机讨价还价
+    barter away one's soul for wealth
+#为财富出卖灵魂
+    They bartered farm products for machinery.
+#他们用农产品交换机器。
+
+seep: 英[siːp] 美[siːp]
+$v. （液体）渗漏，渗透；逐渐移动，渐渐散开
+%n. （油、水）渗出地表的地方
+    Water seeped in through a crack.
+#水从裂缝中渗入
+
+mania: 英[ˈmeɪniə] 美[ˈmeɪniə]
+%n. 狂热，热衷；躁狂症
+    He has a mania for drinking.
+#他嗜酒成癖。
+
+resilience: 英[rɪˈzɪliəns] 美[rɪˈzɪliəns]
+%n. 恢复力，复原力；（橡胶等的）弹性
+    the resilience of rubber
+#橡皮的弹性
+    the resilience of the human body
+#人体的恢复力
+    He bounced on a mattress to demonstrate its resilience.
+#他在床垫上弹跳以显示其弹性。
+
+emerald: 英[ˈemərəld] 美[ˈemərəld]
+$n. 翡翠，绿宝石；翠绿色；尺娥；蜻蛉，豆娘；一种小型蜂鸟（羽亮绿色，翼尾色深，主要产于加勒比地区和中美洲）
+%adj. 翠绿色的，鲜绿色的
+    the emerald fields of spring
+#春天葱翠的田野
+    She bought an emerald ring.
+#她买了一枚绿宝石戒指。
+
+absolve: 英[əbˈzɒlv] 美[əbˈzɑːlv]
+%vt. 免除；赦免；宣告……无罪
+    absolve sb. from sin
+#赦免某人的罪恶
+    absolve sb. from any blame
+#免于究诘
+    He said he would absolve them of any responsibility.
+#他说他将免除他们所承担的任何责任。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

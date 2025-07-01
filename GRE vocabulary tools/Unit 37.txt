@@ -1,0 +1,847 @@
+<<<<<<< HEAD
+﻿liberality: 英[ˌlɪbəˈræləti] 美[ˌlɪbəˈræləti]
+%n. 慷慨，大方；心胸宽阔，胸怀广阔
+    distribute things with liberality to the poors
+#将东西慷慨地分发给穷人
+
+imprecation: 英[ˌɪmprɪˈkeɪʃn] 美[ˌɪmprɪˈkeɪʃ(ə)n]
+%n. 祈求；诅咒；咒语
+    She shouted imprecations after him.
+#她冲着他的背影大声咒骂。
+
+leeward: 英[ˈliːwəd] 美[ˈliːwərd]
+$adj. 背风的；靠下风的；顺风的
+$adv. 背风地；靠下风地；顺风地
+%n. 背风，下风
+    stand leeward to the wind
+#站在下风
+    on the leeward of
+#在……的下风
+
+square: 英[skweə(r)] 美[skwer]
+$adj. 正方形的，四方形的；成直角的；（表示面积单位）平方的；两清的，互不欠账的；诚实公正的；<非正式>古板守旧的，不谙时尚的；平行的，水平的；宽阔结实的；打平的，平局的；一致的，可共存的；（用于长度面积后表示四方形物的边长）长宽为…...的；整齐的；（占星）方照的，90°角的；（板球，英足）与击球手成直角地，以横传方式；（韵律）简单易懂的，简单直接的；直线的，笔直的
+$n. 正方形，正方形物；广场；平方，二次幂；<非正式>古板守旧的人，不谙时尚的人；（棋盘上的）方格；直角尺，丁字尺；<史>（步兵的）方阵；方围巾；<英>托灰板，灰浆板；（板球）内场；（军营中的）操练场；<美>四条街中间的房屋区，街区；（占星）90度星位（四分之一个圆）；<美，非正式>美餐，饱餐（square meal）；用作房屋地面和屋面面积的计量单位百平方英尺；（精装书封面的）封皮突出边
+$v. 使成平方，使成二次幂；使（比赛的比分）打平；（表示决心已定）挺起胸膛，挺直身子；使成正方形，使成方形；<非正式>贿赂，收买；使谐调，使符合；就…...征得…...的同意；结帐，付清欠款；横（向）传（球）；（占星）（行星）与（另一行星，方位）处于方照位置；（航海）使（帆桁或船的其他部分）与龙骨（或其他基点）成直角
+%adv. 直接地；成直角，垂直地；<非正式>公正地，诚实地
+    square for a meal
+#付饭钱
+    square a debt
+#还清债务
+    This money will square him.
+#这钱可以让他还清欠款了。
+
+concatenate: 英[kɒnˈkætɪˌneɪt] 美[kənˈkæt(ə)nˌeɪt]
+$v. 连接，连结，使连锁
+%adj. 连接的，连结的，连锁的
+    Often, you need to concatenate a variable between two strings.
+#通常，您需要在两个字符串之间连接一个变量。
+
+spank: 英[spæŋk] 美[spæŋk]
+$v. （用手掌）打屁股；飞跑
+%n. 拍打，一巴掌
+    He was spanked by the boss.
+#他受到头儿的严厉斥责。
+
+charade: 英[ʃəˈrɑːd] 美[ʃəˈreɪd]
+$n. 装模作样，做戏；打哑谜猜字游戏
+%n. （Charade）（加、法、美）谢拉德（人名）
+    No one is fooled by this charade.
+#这种装模作样的把戏骗不了人。
+
+dolorous: 英[ˈdɒlərəs] 美[ˈdoʊlərəs]
+%adj. 忧伤的；悲痛的
+    a dolorous cry
+#悲哀的哭声
+    during the dolorous period
+#在那个令人悲痛的时期
+
+sweltering: 英[ˈsweltərɪŋ] 美[ˈsweltərɪŋ]
+%adj. 闷热的；热得难受的
+    the sweltering air
+#闷热的空气
+
+reek: 英[riːk] 美[riːk]
+$v. 散发臭味；带有令人不快（或不满）的内容；散发蒸汽（或浓烟）
+$n. 臭味；烟；蒸汽
+%n. （Reek）（美）瑞克（人名）
+    the reek of tobacco smoke
+#烟草呛人的烟味
+    in a reek of sweat
+#散发着汗臭
+    He walked in reeking powerfully of alcohol.
+#他带着一身酒气走了进来。
+
+expiate: 英[ˈekspieɪt] 美[ˈekspieɪt]
+$vt. 赎罪；补偿
+%vi. 赎罪；补偿
+    expiate one's guilt by assiduous labor
+#用辛劳来抵偿自己的罪恶
+    expiate for a loss
+#补偿损失
+
+sportive: 英[ˈspɔːtɪv] 美[ˈspɔːrtɪv]
+%adj. 运动的；嬉戏的；闹着玩的；适合运动穿戴的
+    a sportive puppy
+#顽皮的小狗
+    a sportive remark
+#开玩笑的话
+
+fractional: 英[ˈfrækʃən(ə)l] 美[ˈfrækʃən(ə)l]
+%adj. 部分的；[数] 分数的，小数的
+    a fractional glance
+#短促的一瞥
+    a fractional difference
+#很小的差别
+
+crackpot: 英[ˈkrækpɒt] 美[ˈkrækpɑːt]
+$n. 怪人
+%adj. 古怪的，不切实际的
+    a crackpot scheme
+#荒诞的计划
+
+lancet: 英[ˈlɑːnsɪt] 美[ˈlænsɪt]
+%n. [外科] 小刀，柳叶刀；尖顶窗；小枪
+    The doctor used a lancet to cut open the skin.
+#医生用柳叶刀切开皮肤。
+
+poncho: 英[ˈpɒntʃəʊ] 美[ˈpɑːntʃoʊ]
+%n. 雨披；南美披风
+    a water-proof poncho
+#防水披风
+
+spartan: 英[ˈspɑːt(ə)n] 美[ˈspɑːrt(ə)n]
+$adj. 斯巴达的；斯巴达式的；（生活方式）简朴的，清苦的。
+%n. 斯巴达人；勇士
+    a spartan meal
+#简单的饭菜
+    spartan living conditions
+#艰苦的生活条件
+    They led a rather spartan life, with no comforts or luxuries.
+#他们过着相当简朴的生活，没有舒适享乐的设施。
+
+sparring: 英[ˈspɑːrɪŋ] 美[ˈspɑːrɪŋ]
+$n. 对打；夹条板，保护条
+$v. 拳击（spar 的现在分词形式）
+%n. （Sparring）人名；（瑞典）斯帕林
+    stir up a sparring
+#挑起争斗
+
+spasm: 英[ˈspæzəm] 美[ˈspæzəm]
+%n. 痉挛；抽搐；发作
+    a muscle spasm
+#肌肉抽筋
+    a spasm of pain
+#一阵疼痛
+    a spasm of anger
+#一阵怒火
+    If your leg goes into spasm, take one of these pills immediately.
+#如果你的腿抽筋了，马上吃一粒这种药。
+
+jettison: 英[ˈdʒetɪs(ə)n] 美[ˈdʒetɪs(ə)n]
+$v. （为减轻重量而从行驶的飞机或船上）投弃；摆脱，处理掉；放弃；拒绝接受；把……作为废物抛弃
+%n. 扔，投；废弃；投弃（船舶遇难时投弃货物以减轻负载）
+    They were frightened and jettisoned their bombs in the jungle.
+#他们着慌了，把炸弹往丛林里扔。
+
+limn: 英[lɪm] 美[lɪm]
+%vt. 描写；描绘
+    Not every ancestral likeness has been limned.
+#并不是每一个祖先都画了肖像。
+
+bounteous: 英[ˈbaʊntiəs] 美[ˈbaʊntiəs]
+%adj. 慷慨的；丰富的；充裕的
+    a bounteous giver
+#慷慨的赠送人
+    a bounteous harvest
+#丰收
+
+authorization: 英[ˌɔːθəraɪˈzeɪʃ(ə)n] 美[ˌɔːθərəˈzeɪʃ(ə)n]
+%n. 批准书，授权书；批准，授权
+    It was impossible for a private citizen to cross the frontier without special authorization.
+#平民未经特批是不能越过边境的。
+
+condign: 英[kənˈdaɪn] 美[kənˈdaɪn]
+%adj. 相当的；应得的（尤指惩罚）；适宜的
+    a condign punishment
+#罪有应得的惩罚
+
+stodgy: 英[ˈstɒdʒi] 美[ˈstɑːdʒi]
+%adj. （食物）难消化的，易饱的；高糖分的；古板的，枯燥的；（外表）庞大的，笨重的
+    a stodgy book
+#乏味的书
+    a stodgy traveling bag
+#鼓鼓囊囊的旅行包
+
+lingual: 英[ˈlɪŋɡwəl] 美[ˈlɪŋɡwəl]
+$adj. 语言的；舌的，舌音的
+%n. 舌音，舌音字
+    lingual difference
+#语言的差异
+    lingual ability
+#语言能力
+
+burnish: 英[ˈbɜːnɪʃ] 美[ˈbɜːrnɪʃ]
+$vt. 擦亮；使……光亮；将……打磨光亮
+$n. 光泽；抛光；闪闪发光
+%vi. 磨光发亮
+    burnish the metal
+#擦亮金属
+    burnish one's reputation
+#为自己的名声增辉
+
+lusty: 英[ˈlʌsti] 美[ˈlʌsti]
+$adj. 精力充沛的；健壮的
+%n. （Lusty）人名；（英）勒斯蒂
+    a stout, lusty fellow
+#强壮结实的汉子
+    lusty passion
+#强烈的情感
+    lusty greed
+#贪得无厌
+
+spoliation: 英[ˌspəʊlɪˈeɪʃ(ə)n] 美[ˌspoʊliˈeɪʃ(ə)n]
+%n. 强夺；毁弃
+    condemn the spoliation of the invaders
+#谴责入侵者的掠夺行为
+
+subsume: 英[səbˈsjuːm] 美[səbˈsuːm]
+%vt. 把……归入；把……包括在内
+    All his thinking could be subsumed under the title of his last writing.
+#他的全部思想都可用他最后一部著作的题目来归纳。
+
+spat: 英[spæt] 美[spæt]
+$n. 口角；蚝卵；蚝仔；掌击
+$vi. 争吵；一巴掌打去
+$v. 吐口水（spit 的过去式）
+%n. （Spat）人名；（意）斯帕特
+    neighborhood spats
+#邻里之间的口角
+    a spat of rain
+#洒下的一阵雨点
+    bullets spatting the walls
+#噼噼啪啪打在墙上的子弹
+
+leer: 英[lɪə(r)] 美[lɪr]
+$v. （色迷迷地）看；抛媚眼，送秋波；斜睨；奸笑
+%n. （色迷迷的）目光；奸笑；媚眼，秋波；恶意的瞥视
+    He's leering at his neighbor's pretty young wife.
+#他正斜眼看看邻居那漂亮的年轻太太。
+
+phony: 英[ˈfəʊni] 美[ˈfoʊni]
+$adj. <非正式>伪造的，假的；<非正式>虚伪的，做作的
+%n. <非正式>骗子，假冒者；<非正式>假货，赝品
+    a phony name
+#假名
+    a phony address
+#假地址
+    phony up a paper
+#伪造文件
+    He'd telephoned with some phony excuse she didn't believe for a minute.
+#他用某种假的借口打电话，她根本就不信。
+
+tome: 英[təʊm] 美[toʊm]
+$n. 大部头巨著；（几卷中的）一册
+%n. （Tome）（美、巴西、西、葡）托梅（人名）
+    a history in 25 tomes
+#一部25卷的历史巨著
+
+splice: 英[splaɪs] 美[splaɪs]
+$v. 捻接（绳子）；拼接，接合（胶片等）；移接（基因）；使结婚
+%n. 接合处；（连接的）绳；（板球击板的）柄脚；结婚（非正式）
+    splice a rope to a chain
+#把一条绳子系在一根链条上
+    He wrote a speech by splicing parts of several old talks.
+#他把过去几次讲话的片段拼凑起来写成一篇演说稿。
+
+scruffy: 英[ˈskrʌfi] 美[ˈskrʌfi]
+%adj. 破旧的；肮脏的；不整齐的
+    a scruffy lie
+#可耻的谎言
+    a scruffy little inn
+#破烂的小客栈
+
+prate: 英[preɪt] 美[preɪt]
+$vt. 瞎扯
+$n. 唠叨；空谈；瞎扯
+$vi. 唠叨
+%n. （Prate）人名；（法）普拉特
+    prate without ceasing
+#唠叨个不停
+    prate nonsense
+#胡说八道
+
+forswear: 英[fɔːˈsweə(r)] 美[fɔːrˈswer]
+$vi. 作伪证
+%vt. 发誓抛弃
+    forswear a bad habit
+#发誓戒除坏习惯
+    He forswore any knowledge of the crime.
+#他坚决否认曾听闻这桩罪行。
+
+wile: 英[waɪl] 美[waɪl]
+$vt. 欺骗，诱骗；消遣
+$n. 诡计，阴谋
+%n. （Wile）人名；（英）怀尔
+    read a book to wile the time away
+#读书以消磨时间
+
+deputize: 英[ˈdepjutaɪz] 美[ˈdepjutaɪz]
+$vi. 代理；代表
+%vt. 指定……为代理；授权……为代表
+    He was deputized as officer in charge of the investigation.
+#他受委派负责这项调查。
+
+presupposition: 英[ˌpriːsʌpəˈzɪʃ(ə)n] 美[ˌpriːsʌpəˈzɪʃn]
+%n. 假定；预想；臆测
+    Your actions are based on some false presuppositions.
+#你的行为基于的是一些错误的推测。
+
+parallelism: 英[ˈpærəlelɪzəm] 美[ˈpærəlelɪzəm]
+%n. 平行；类似，对应
+    The parallelism with modern neurological findings is fascinating.
+#这一与现代神经学研究成果间的相似性令人非常感兴趣。
+
+cauterize: 英[ˈkɔːtəraɪz] 美[ˈkɔːtəraɪz]
+%vt. 烧灼；腐蚀；使麻木（等于 cauterise）
+    cauterize a wound
+#烙伤口
+    cauterize one's conscience
+#使某人的良心麻木不仁
+
+obloquy: 英[ˈɒbləkwi] 美[ˈɑːbləkwi]
+%n. 毁谤；耻辱；谩骂
+    I resent the obloquy that you are casting upon my reputation. 
+#我怨恨你对我的名誉横加诽谤。
+
+conterminous: 英[kənˈtɜːmɪnəs] 美[kənˈtɜːrmɪnəs]
+%adj. 相接的；连接的；同一延伸的
+    the side of China conterminous with Russia
+#与俄罗斯相邻的中国边界
+
+sodden: 英[ˈsɒd(ə)n] 美[ˈsɑːd(ə)n]
+$adj. 浸透的；浑身湿透的；浸过酒的
+%vt. 使浸透；使迷糊
+    the most nostalgia-sodden memories of one's childhood
+#对童年充满怀旧深情的回忆
+    a sodden mind
+#迟钝的头脑
+    rain-sodden skies
+#雨意浓浓的天空
+    My shirt was sodden with sweat.
+#我的衬衫给汗水湿透了。
+
+prepossessing: 英[ˌpriːpəˈzesɪŋ] 美[ˌpriːpəˈzesɪŋ]
+$adj. 给人好感的；有魅力的；引人注意的
+%v. 预先影响；使先具有（prepossess 的现在分词）
+    a prepossessing appearance
+#动人的外貌
+    a prepossessing book
+#引人入胜的书
+
+jabber: 英[ˈdʒæbə(r)] 美[ˈdʒæbər]
+$v. 急促（或激动）而含混不清地说；闲聊
+$n. 急促而无意义的话，无聊的话
+%n. （Jabber）（美、英、印）贾伯（人名）
+    jabber about nothing in particular
+#天南地北地闲聊
+    Listen to the jabber of those monkeys.
+#听群猴子叽叽喳喳的叫声。
+
+crepuscular: 英[krɪˈpʌskjələ(r)] 美[krɪˈpʌskjələr]
+%adj. 黄昏的；朦胧的；拂晓的
+    the crepuscular gloom of a winter afternoon
+#一个冬日下午的阴郁氛围
+    a crepuscular church
+#昏暗的教堂
+
+presentiment: 英[prɪˈzentɪmənt] 美[prɪˈzentɪmənt]
+%n. 预感
+    There was a presentiment of dread within her.
+#她心中有种恐怖的预感。
+
+purify: 英[ˈpjʊərɪfaɪ] 美[ˈpjʊrɪfaɪ]
+%v. 使（某物）洁净，净化；变纯净；洗涤（思想），净化（心灵）；提纯，精炼
+    purify water
+#净化水
+    purify the heart
+#净化心灵
+    purify one's spirit of evil thoughts
+#荡涤心中的邪念
+
+abrade: 英[əˈbreɪd] 美[əˈbreɪd]
+$vt. 擦伤；磨损
+%vi. 经受磨损；受擦伤
+    The skin on his knees was abraded.
+#他膝盖上的皮肤擦破了。
+
+ire: 英[ˈaɪə(r)] 美[ˈaɪər]
+$n. 愤怒
+%n. （Ire）（美、英、印度）谓例（人名）
+    arouse/draw/incur the ire of the people
+#激起人民的怒火
+
+inchoate: 英[ɪnˈkəʊət] 美[ɪnˈkoʊət]
+$adj. 早期的；刚开始的；未充分发展的
+$vt. 开始
+%vi. 开始
+    an inchoate but powerful yearning
+#模糊但强烈的渴望
+    Her father impeded her inchoate musical career.
+#她父亲阻碍了她刚起步的音乐事业。
+
+linguistics: 英[lɪŋˈɡwɪstɪks] 美[lɪŋˈɡwɪstɪks]
+%n. 语言学
+    She specialized in linguistics at university.
+#她大学的专业是语言学。
+
+lair: 英[leə(r)] 美[ler]
+$n. （野兽的）[动]巢穴；躲藏处
+$vi. 进入兽穴；在穴中休息
+$vt. 使陷入泥潭；放于穴中
+%n. （Lair）人名；（英、法）莱尔
+    a pirate's lair
+#海盗巢穴.
+
+gab: 英[ɡæb] 美[ɡæb]
+$v. 空谈，闲聊，啰嗦，唠叨
+$n. 谈话，唠叨；口才；（操纵阀上起临时连接作用的）钩或 V 形开口槽
+%n. (Gab) （美、俄、奥）加布（人名）
+    the gift of gab
+#口オ，辩才
+    Cut the gab.
+#别空谈了。
+
+rig: 英[rɪɡ] 美[rɪɡ]
+$v. 操纵（选举、比赛）；（给船只）装帆，提供索具；（秘密地）安装，装配；临时搭建，临时架起；（给某人或某物）装束，打扮
+%n. 钻井架，钻塔；<美>大型卡车；（成套的）装置，装备；帆桅的装配（方式）；服装，制服；<古>诡计，骗局
+    rig immigration figures
+#伪造移民数字
+    rig a ship with sails
+#给船装帆
+    The elections must cease to be rigged.
+#选举必须不受到操纵。
+
+=======
+﻿liberality: 英[ˌlɪbəˈræləti] 美[ˌlɪbəˈræləti]
+%n. 慷慨，大方；心胸宽阔，胸怀广阔
+    distribute things with liberality to the poors
+#将东西慷慨地分发给穷人
+
+imprecation: 英[ˌɪmprɪˈkeɪʃn] 美[ˌɪmprɪˈkeɪʃ(ə)n]
+%n. 祈求；诅咒；咒语
+    She shouted imprecations after him.
+#她冲着他的背影大声咒骂。
+
+leeward: 英[ˈliːwəd] 美[ˈliːwərd]
+$adj. 背风的；靠下风的；顺风的
+$adv. 背风地；靠下风地；顺风地
+%n. 背风，下风
+    stand leeward to the wind
+#站在下风
+    on the leeward of
+#在……的下风
+
+square: 英[skweə(r)] 美[skwer]
+$adj. 正方形的，四方形的；成直角的；（表示面积单位）平方的；两清的，互不欠账的；诚实公正的；<非正式>古板守旧的，不谙时尚的；平行的，水平的；宽阔结实的；打平的，平局的；一致的，可共存的；（用于长度面积后表示四方形物的边长）长宽为…...的；整齐的；（占星）方照的，90°角的；（板球，英足）与击球手成直角地，以横传方式；（韵律）简单易懂的，简单直接的；直线的，笔直的
+$n. 正方形，正方形物；广场；平方，二次幂；<非正式>古板守旧的人，不谙时尚的人；（棋盘上的）方格；直角尺，丁字尺；<史>（步兵的）方阵；方围巾；<英>托灰板，灰浆板；（板球）内场；（军营中的）操练场；<美>四条街中间的房屋区，街区；（占星）90度星位（四分之一个圆）；<美，非正式>美餐，饱餐（square meal）；用作房屋地面和屋面面积的计量单位百平方英尺；（精装书封面的）封皮突出边
+$v. 使成平方，使成二次幂；使（比赛的比分）打平；（表示决心已定）挺起胸膛，挺直身子；使成正方形，使成方形；<非正式>贿赂，收买；使谐调，使符合；就…...征得…...的同意；结帐，付清欠款；横（向）传（球）；（占星）（行星）与（另一行星，方位）处于方照位置；（航海）使（帆桁或船的其他部分）与龙骨（或其他基点）成直角
+%adv. 直接地；成直角，垂直地；<非正式>公正地，诚实地
+    square for a meal
+#付饭钱
+    square a debt
+#还清债务
+    This money will square him.
+#这钱可以让他还清欠款了。
+
+concatenate: 英[kɒnˈkætɪˌneɪt] 美[kənˈkæt(ə)nˌeɪt]
+$v. 连接，连结，使连锁
+%adj. 连接的，连结的，连锁的
+    Often, you need to concatenate a variable between two strings.
+#通常，您需要在两个字符串之间连接一个变量。
+
+spank: 英[spæŋk] 美[spæŋk]
+$v. （用手掌）打屁股；飞跑
+%n. 拍打，一巴掌
+    He was spanked by the boss.
+#他受到头儿的严厉斥责。
+
+charade: 英[ʃəˈrɑːd] 美[ʃəˈreɪd]
+$n. 装模作样，做戏；打哑谜猜字游戏
+%n. （Charade）（加、法、美）谢拉德（人名）
+    No one is fooled by this charade.
+#这种装模作样的把戏骗不了人。
+
+dolorous: 英[ˈdɒlərəs] 美[ˈdoʊlərəs]
+%adj. 忧伤的；悲痛的
+    a dolorous cry
+#悲哀的哭声
+    during the dolorous period
+#在那个令人悲痛的时期
+
+sweltering: 英[ˈsweltərɪŋ] 美[ˈsweltərɪŋ]
+%adj. 闷热的；热得难受的
+    the sweltering air
+#闷热的空气
+
+reek: 英[riːk] 美[riːk]
+$v. 散发臭味；带有令人不快（或不满）的内容；散发蒸汽（或浓烟）
+$n. 臭味；烟；蒸汽
+%n. （Reek）（美）瑞克（人名）
+    the reek of tobacco smoke
+#烟草呛人的烟味
+    in a reek of sweat
+#散发着汗臭
+    He walked in reeking powerfully of alcohol.
+#他带着一身酒气走了进来。
+
+expiate: 英[ˈekspieɪt] 美[ˈekspieɪt]
+$vt. 赎罪；补偿
+%vi. 赎罪；补偿
+    expiate one's guilt by assiduous labor
+#用辛劳来抵偿自己的罪恶
+    expiate for a loss
+#补偿损失
+
+sportive: 英[ˈspɔːtɪv] 美[ˈspɔːrtɪv]
+%adj. 运动的；嬉戏的；闹着玩的；适合运动穿戴的
+    a sportive puppy
+#顽皮的小狗
+    a sportive remark
+#开玩笑的话
+
+fractional: 英[ˈfrækʃən(ə)l] 美[ˈfrækʃən(ə)l]
+%adj. 部分的；[数] 分数的，小数的
+    a fractional glance
+#短促的一瞥
+    a fractional difference
+#很小的差别
+
+crackpot: 英[ˈkrækpɒt] 美[ˈkrækpɑːt]
+$n. 怪人
+%adj. 古怪的，不切实际的
+    a crackpot scheme
+#荒诞的计划
+
+lancet: 英[ˈlɑːnsɪt] 美[ˈlænsɪt]
+%n. [外科] 小刀，柳叶刀；尖顶窗；小枪
+    The doctor used a lancet to cut open the skin.
+#医生用柳叶刀切开皮肤。
+
+poncho: 英[ˈpɒntʃəʊ] 美[ˈpɑːntʃoʊ]
+%n. 雨披；南美披风
+    a water-proof poncho
+#防水披风
+
+spartan: 英[ˈspɑːt(ə)n] 美[ˈspɑːrt(ə)n]
+$adj. 斯巴达的；斯巴达式的；（生活方式）简朴的，清苦的。
+%n. 斯巴达人；勇士
+    a spartan meal
+#简单的饭菜
+    spartan living conditions
+#艰苦的生活条件
+    They led a rather spartan life, with no comforts or luxuries.
+#他们过着相当简朴的生活，没有舒适享乐的设施。
+
+sparring: 英[ˈspɑːrɪŋ] 美[ˈspɑːrɪŋ]
+$n. 对打；夹条板，保护条
+$v. 拳击（spar 的现在分词形式）
+%n. （Sparring）人名；（瑞典）斯帕林
+    stir up a sparring
+#挑起争斗
+
+spasm: 英[ˈspæzəm] 美[ˈspæzəm]
+%n. 痉挛；抽搐；发作
+    a muscle spasm
+#肌肉抽筋
+    a spasm of pain
+#一阵疼痛
+    a spasm of anger
+#一阵怒火
+    If your leg goes into spasm, take one of these pills immediately.
+#如果你的腿抽筋了，马上吃一粒这种药。
+
+jettison: 英[ˈdʒetɪs(ə)n] 美[ˈdʒetɪs(ə)n]
+$v. （为减轻重量而从行驶的飞机或船上）投弃；摆脱，处理掉；放弃；拒绝接受；把……作为废物抛弃
+%n. 扔，投；废弃；投弃（船舶遇难时投弃货物以减轻负载）
+    They were frightened and jettisoned their bombs in the jungle.
+#他们着慌了，把炸弹往丛林里扔。
+
+limn: 英[lɪm] 美[lɪm]
+%vt. 描写；描绘
+    Not every ancestral likeness has been limned.
+#并不是每一个祖先都画了肖像。
+
+bounteous: 英[ˈbaʊntiəs] 美[ˈbaʊntiəs]
+%adj. 慷慨的；丰富的；充裕的
+    a bounteous giver
+#慷慨的赠送人
+    a bounteous harvest
+#丰收
+
+authorization: 英[ˌɔːθəraɪˈzeɪʃ(ə)n] 美[ˌɔːθərəˈzeɪʃ(ə)n]
+%n. 批准书，授权书；批准，授权
+    It was impossible for a private citizen to cross the frontier without special authorization.
+#平民未经特批是不能越过边境的。
+
+condign: 英[kənˈdaɪn] 美[kənˈdaɪn]
+%adj. 相当的；应得的（尤指惩罚）；适宜的
+    a condign punishment
+#罪有应得的惩罚
+
+stodgy: 英[ˈstɒdʒi] 美[ˈstɑːdʒi]
+%adj. （食物）难消化的，易饱的；高糖分的；古板的，枯燥的；（外表）庞大的，笨重的
+    a stodgy book
+#乏味的书
+    a stodgy traveling bag
+#鼓鼓囊囊的旅行包
+
+lingual: 英[ˈlɪŋɡwəl] 美[ˈlɪŋɡwəl]
+$adj. 语言的；舌的，舌音的
+%n. 舌音，舌音字
+    lingual difference
+#语言的差异
+    lingual ability
+#语言能力
+
+burnish: 英[ˈbɜːnɪʃ] 美[ˈbɜːrnɪʃ]
+$vt. 擦亮；使……光亮；将……打磨光亮
+$n. 光泽；抛光；闪闪发光
+%vi. 磨光发亮
+    burnish the metal
+#擦亮金属
+    burnish one's reputation
+#为自己的名声增辉
+
+lusty: 英[ˈlʌsti] 美[ˈlʌsti]
+$adj. 精力充沛的；健壮的
+%n. （Lusty）人名；（英）勒斯蒂
+    a stout, lusty fellow
+#强壮结实的汉子
+    lusty passion
+#强烈的情感
+    lusty greed
+#贪得无厌
+
+spoliation: 英[ˌspəʊlɪˈeɪʃ(ə)n] 美[ˌspoʊliˈeɪʃ(ə)n]
+%n. 强夺；毁弃
+    condemn the spoliation of the invaders
+#谴责入侵者的掠夺行为
+
+subsume: 英[səbˈsjuːm] 美[səbˈsuːm]
+%vt. 把……归入；把……包括在内
+    All his thinking could be subsumed under the title of his last writing.
+#他的全部思想都可用他最后一部著作的题目来归纳。
+
+spat: 英[spæt] 美[spæt]
+$n. 口角；蚝卵；蚝仔；掌击
+$vi. 争吵；一巴掌打去
+$v. 吐口水（spit 的过去式）
+%n. （Spat）人名；（意）斯帕特
+    neighborhood spats
+#邻里之间的口角
+    a spat of rain
+#洒下的一阵雨点
+    bullets spatting the walls
+#噼噼啪啪打在墙上的子弹
+
+leer: 英[lɪə(r)] 美[lɪr]
+$v. （色迷迷地）看；抛媚眼，送秋波；斜睨；奸笑
+%n. （色迷迷的）目光；奸笑；媚眼，秋波；恶意的瞥视
+    He's leering at his neighbor's pretty young wife.
+#他正斜眼看看邻居那漂亮的年轻太太。
+
+phony: 英[ˈfəʊni] 美[ˈfoʊni]
+$adj. <非正式>伪造的，假的；<非正式>虚伪的，做作的
+%n. <非正式>骗子，假冒者；<非正式>假货，赝品
+    a phony name
+#假名
+    a phony address
+#假地址
+    phony up a paper
+#伪造文件
+    He'd telephoned with some phony excuse she didn't believe for a minute.
+#他用某种假的借口打电话，她根本就不信。
+
+tome: 英[təʊm] 美[toʊm]
+$n. 大部头巨著；（几卷中的）一册
+%n. （Tome）（美、巴西、西、葡）托梅（人名）
+    a history in 25 tomes
+#一部25卷的历史巨著
+
+splice: 英[splaɪs] 美[splaɪs]
+$v. 捻接（绳子）；拼接，接合（胶片等）；移接（基因）；使结婚
+%n. 接合处；（连接的）绳；（板球击板的）柄脚；结婚（非正式）
+    splice a rope to a chain
+#把一条绳子系在一根链条上
+    He wrote a speech by splicing parts of several old talks.
+#他把过去几次讲话的片段拼凑起来写成一篇演说稿。
+
+scruffy: 英[ˈskrʌfi] 美[ˈskrʌfi]
+%adj. 破旧的；肮脏的；不整齐的
+    a scruffy lie
+#可耻的谎言
+    a scruffy little inn
+#破烂的小客栈
+
+prate: 英[preɪt] 美[preɪt]
+$vt. 瞎扯
+$n. 唠叨；空谈；瞎扯
+$vi. 唠叨
+%n. （Prate）人名；（法）普拉特
+    prate without ceasing
+#唠叨个不停
+    prate nonsense
+#胡说八道
+
+forswear: 英[fɔːˈsweə(r)] 美[fɔːrˈswer]
+$vi. 作伪证
+%vt. 发誓抛弃
+    forswear a bad habit
+#发誓戒除坏习惯
+    He forswore any knowledge of the crime.
+#他坚决否认曾听闻这桩罪行。
+
+wile: 英[waɪl] 美[waɪl]
+$vt. 欺骗，诱骗；消遣
+$n. 诡计，阴谋
+%n. （Wile）人名；（英）怀尔
+    read a book to wile the time away
+#读书以消磨时间
+
+deputize: 英[ˈdepjutaɪz] 美[ˈdepjutaɪz]
+$vi. 代理；代表
+%vt. 指定……为代理；授权……为代表
+    He was deputized as officer in charge of the investigation.
+#他受委派负责这项调查。
+
+presupposition: 英[ˌpriːsʌpəˈzɪʃ(ə)n] 美[ˌpriːsʌpəˈzɪʃn]
+%n. 假定；预想；臆测
+    Your actions are based on some false presuppositions.
+#你的行为基于的是一些错误的推测。
+
+parallelism: 英[ˈpærəlelɪzəm] 美[ˈpærəlelɪzəm]
+%n. 平行；类似，对应
+    The parallelism with modern neurological findings is fascinating.
+#这一与现代神经学研究成果间的相似性令人非常感兴趣。
+
+cauterize: 英[ˈkɔːtəraɪz] 美[ˈkɔːtəraɪz]
+%vt. 烧灼；腐蚀；使麻木（等于 cauterise）
+    cauterize a wound
+#烙伤口
+    cauterize one's conscience
+#使某人的良心麻木不仁
+
+obloquy: 英[ˈɒbləkwi] 美[ˈɑːbləkwi]
+%n. 毁谤；耻辱；谩骂
+    I resent the obloquy that you are casting upon my reputation. 
+#我怨恨你对我的名誉横加诽谤。
+
+conterminous: 英[kənˈtɜːmɪnəs] 美[kənˈtɜːrmɪnəs]
+%adj. 相接的；连接的；同一延伸的
+    the side of China conterminous with Russia
+#与俄罗斯相邻的中国边界
+
+sodden: 英[ˈsɒd(ə)n] 美[ˈsɑːd(ə)n]
+$adj. 浸透的；浑身湿透的；浸过酒的
+%vt. 使浸透；使迷糊
+    the most nostalgia-sodden memories of one's childhood
+#对童年充满怀旧深情的回忆
+    a sodden mind
+#迟钝的头脑
+    rain-sodden skies
+#雨意浓浓的天空
+    My shirt was sodden with sweat.
+#我的衬衫给汗水湿透了。
+
+prepossessing: 英[ˌpriːpəˈzesɪŋ] 美[ˌpriːpəˈzesɪŋ]
+$adj. 给人好感的；有魅力的；引人注意的
+%v. 预先影响；使先具有（prepossess 的现在分词）
+    a prepossessing appearance
+#动人的外貌
+    a prepossessing book
+#引人入胜的书
+
+jabber: 英[ˈdʒæbə(r)] 美[ˈdʒæbər]
+$v. 急促（或激动）而含混不清地说；闲聊
+$n. 急促而无意义的话，无聊的话
+%n. （Jabber）（美、英、印）贾伯（人名）
+    jabber about nothing in particular
+#天南地北地闲聊
+    Listen to the jabber of those monkeys.
+#听群猴子叽叽喳喳的叫声。
+
+crepuscular: 英[krɪˈpʌskjələ(r)] 美[krɪˈpʌskjələr]
+%adj. 黄昏的；朦胧的；拂晓的
+    the crepuscular gloom of a winter afternoon
+#一个冬日下午的阴郁氛围
+    a crepuscular church
+#昏暗的教堂
+
+presentiment: 英[prɪˈzentɪmənt] 美[prɪˈzentɪmənt]
+%n. 预感
+    There was a presentiment of dread within her.
+#她心中有种恐怖的预感。
+
+purify: 英[ˈpjʊərɪfaɪ] 美[ˈpjʊrɪfaɪ]
+%v. 使（某物）洁净，净化；变纯净；洗涤（思想），净化（心灵）；提纯，精炼
+    purify water
+#净化水
+    purify the heart
+#净化心灵
+    purify one's spirit of evil thoughts
+#荡涤心中的邪念
+
+abrade: 英[əˈbreɪd] 美[əˈbreɪd]
+$vt. 擦伤；磨损
+%vi. 经受磨损；受擦伤
+    The skin on his knees was abraded.
+#他膝盖上的皮肤擦破了。
+
+ire: 英[ˈaɪə(r)] 美[ˈaɪər]
+$n. 愤怒
+%n. （Ire）（美、英、印度）谓例（人名）
+    arouse/draw/incur the ire of the people
+#激起人民的怒火
+
+inchoate: 英[ɪnˈkəʊət] 美[ɪnˈkoʊət]
+$adj. 早期的；刚开始的；未充分发展的
+$vt. 开始
+%vi. 开始
+    an inchoate but powerful yearning
+#模糊但强烈的渴望
+    Her father impeded her inchoate musical career.
+#她父亲阻碍了她刚起步的音乐事业。
+
+linguistics: 英[lɪŋˈɡwɪstɪks] 美[lɪŋˈɡwɪstɪks]
+%n. 语言学
+    She specialized in linguistics at university.
+#她大学的专业是语言学。
+
+lair: 英[leə(r)] 美[ler]
+$n. （野兽的）[动]巢穴；躲藏处
+$vi. 进入兽穴；在穴中休息
+$vt. 使陷入泥潭；放于穴中
+%n. （Lair）人名；（英、法）莱尔
+    a pirate's lair
+#海盗巢穴.
+
+gab: 英[ɡæb] 美[ɡæb]
+$v. 空谈，闲聊，啰嗦，唠叨
+$n. 谈话，唠叨；口才；（操纵阀上起临时连接作用的）钩或 V 形开口槽
+%n. (Gab) （美、俄、奥）加布（人名）
+    the gift of gab
+#口オ，辩才
+    Cut the gab.
+#别空谈了。
+
+rig: 英[rɪɡ] 美[rɪɡ]
+$v. 操纵（选举、比赛）；（给船只）装帆，提供索具；（秘密地）安装，装配；临时搭建，临时架起；（给某人或某物）装束，打扮
+%n. 钻井架，钻塔；<美>大型卡车；（成套的）装置，装备；帆桅的装配（方式）；服装，制服；<古>诡计，骗局
+    rig immigration figures
+#伪造移民数字
+    rig a ship with sails
+#给船装帆
+    The elections must cease to be rigged.
+#选举必须不受到操纵。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

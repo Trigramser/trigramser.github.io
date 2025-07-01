@@ -1,0 +1,775 @@
+<<<<<<< HEAD
+conjure: 英[ˈkʌndʒə(r)] 美[ˈkɑːndʒər]
+%v. 变魔术，使……变戏法般地出现（或消失）；想象出，设想出；使浮现于脑海，使想起；念咒召唤出（鬼魂等）；<古>恳求，祈求
+    conjure a rabbit out of one's hat
+#从帽子里变出只兔子
+    conjure up
+#用魔法使……出现，使呈现于脑际/眼帘，想出，想起
+    conjure up the happy past
+#想起幸福的往事
+    conjure up a good meal in half an hour
+#变戏法似的在半小时内做出一顿美味的饭菜
+    The very name of Siberia conjures images of exile and bitter hardship.
+#西伯利亚这个名字会使人想起流放和苦难的情景。
+
+panacea: 英[ˌpænəˈsiːə] 美[ˌpænəˈsiːə]
+%n. 灵丹妙药；万能药
+    a panacea for all social problems
+#解决各种社会问题的万能之计
+    Western aid may help but will not be a panacea.
+#西方援助可能会有所帮助，但不是灵丹妙药。
+
+disciple: 英[dɪˈsaɪp(ə)l] 美[dɪˈsaɪp(ə)l]
+%n. 耶稣的十二门徒之一（=the Disciples）；追随者，门徒
+    The distinguished economist has had many disciples over the years.
+#近几年来，那位著名经济学家赢得了许多人的崇奉。
+
+quantum: 英[ˈkwɒntəm] 美[ˈkwɑːntəm]
+$n. 量子；量子论；额（特指定额、定量）；（乙酰胆碱释放的）单元量；美国昆腾公司（世界领先的硬盘生产商）
+%adj. 量子的；(大小、数量的) 猛然剧增，(质量的) 突飞猛进
+    increase the quantum of material well-being
+#增加物质福利的比重
+    not a quantum of evidence
+#无一点证据
+    a quantum improvement
+#重大改进
+
+slouch: 英[slaʊtʃ] 美[slaʊtʃ]
+$n. 下垂；笨拙的人，懒散的人；懒散的样子
+$vi. 没精打采地站；耷拉
+%vt. 使下垂
+    slouch along in the street
+#耷拉着脑袋走在街上
+    slouch one's shoulders
+#垂下双肩
+    stand at a slouch
+#没精打采地站着
+    slouch one's hat over one's eyes
+#拉下帽子遮住眼睛
+    His hat slouched backward on his head.
+#他的帽子耷拉在后脑勺。
+
+palate: 英[ˈpælət] 美[ˈpælət]
+%n. 腭，上腭；味觉，品尝力；（葡萄酒、啤酒的）口味，香味；兴趣，趣味
+    have a good palate for wine
+#很会品酒
+    have no palate for washing bowls
+#很不乐意洗碗
+    No one had a finer palate than Allen; he could taste every delicate flavor.
+#谁也不如艾伦的味觉敏锐，他能够品尝出各种细微的味道。
+
+conducive: 英[kənˈdjuːsɪv] 美[kənˈduːsɪv]
+%adj. 有助的，有益的
+    The peaceful atmosphere is conducive to reconciliation.
+#和平的气気有助于和解。
+
+scrumptious: 英[ˈskrʌmpʃəs] 美[ˈskrʌmpʃəs]
+%adj. 美味的；绝妙的，极好的
+    scrumptious cakes
+#美味的蛋糕
+    a scrumptious satin gown
+#漂亮的缎子长袍
+
+acquiesce: 英[ˌækwiˈes] 美[ˌækwiˈes]
+%vi. 默许；勉强同意
+    No state can acquiesce such breaches of order.
+#没有一个国家会默认这种破坏秩序的行为
+
+demote: 英[diːˈməʊt] 美[diːˈmoʊt]
+%vt. 使降级；使降职
+    demote a pupil
+#使一个学生降级
+    demote a soldier from corporal to private
+#把一名士兵从下士降到列兵
+
+timbre: 英[ˈtæmbə(r)] 美[ˈtæmbər]
+%n. [声] 音色；音质；音品
+    The singer's voice had a pleasant timbre.
+#这位歌唱家的音色悦耳。
+
+brittle: 英[ˈbrɪt(ə)l] 美[ˈbrɪt(ə)l]
+$adj. 易碎的，脆的；（关系或局势）不牢固的，易变的；脆弱的；冷淡的；尖利的，刺耳的；（声音）像要哭的
+%n. 果仁薄脆糖
+    brittle glass
+#易碎的玻璃
+    a brittle tone of voice
+#尖利的声音
+    a brittle selfish man
+#冷淡自私的男人
+    a brittle personality
+#难以相处的个性
+
+angular: 英[ˈæŋɡjələ(r)] 美[ˈæŋɡjələr]
+%adj. [生物] 有角的；生硬的，笨拙的；瘦削的
+    an angular piece of rock
+#有尖角的石块
+    angular distance
+#角距离
+    an angular gait
+#僵硬的步态
+    a tall, angular man
+#身材瘦削的高个儿男人
+    talk in angular English
+#用生硬的英语讲话
+
+blackball: 英[ˈblækbɔːl] 美[ˈblækbɔːl]
+$v. 投票反对；（尤指以无记名投票方式）拒绝（申请者加入私人俱乐部）；排斥
+%n. 反对票；黑球（表示反对）
+    blackball sb. from all consideration for research grants
+#根本不考虑给某人从事研究的津贴
+    After the scandal, he was blackballed from the learned society.
+#出了这件丑事后，他被取消了这个学术团体会员的资格。
+
+strut: 英[strʌt] 美[strʌt]
+$v. 趾高气扬地走，昂首阔步；<非正式>展示自己的本领（或外表），炫耀（strut your stuff）；支撑，撑开
+%n. 支柱，撑杆；趾高气扬的步态，昂首阔步的样子
+    strut one's accomplishments
+#卖弄オ艺
+    He strutted the street like a gaudy fighting cock.
+#他在街上大摇大摆地走，像一只炫丽好斗的公鸡。
+
+slough: 英[slaʊ] 美[slaʊ]
+$n. 蜕下的皮（或壳）；绝境；[地理] 泥沼；[外科] 腐肉
+$vt. 使陷入泥沼；抛弃
+%vi. 蜕皮；脱落；在泥浆中跋涉
+    a slough in the road
+#道路上的泥坑
+    rescue sb. from a financial slough
+#救助某人摆脱经济困境
+    slough through the paddy fields
+#艰难地穿过水稻田
+    He got himself into the slough of self-pity.
+#他陷入顾影自怜的泥沼。
+    cast off the slough of primitive ways and beliefs
+#废弃原始的习俗和信仰
+    slough the outer layers of skin
+#蜕去表皮
+    His sweetness in friendship increased as the old will to power sloughed off.
+#他昔日的那种权力欲消退了，对人的亲切友爱之情就增加了。
+
+translucent: 英[trænzˈluːs(ə)nt] 美[trænzˈluːs(ə)nt]
+%adj. 透明的；半透明的
+    a translucent body
+#半透明体
+    a translucent exposition
+#清楚易懂的论述
+    She had fair hair, blue eyes and translucent skin.
+#她金发碧眼，皮肤透亮。
+
+frail: 英[freɪl] 美[freɪl]
+$adj. （人）脆弱的，虚弱的；易碎的，易坏的；（性格、道德方面）脆弱的，意志薄弱的
+%n. （装无花果或葡萄干的）灯心草篮；<美，非正式，旧>女人
+    frail china
+#易碎的瓷器
+    a frail girl
+#弱不禁风的少女
+
+unpredictable: 英[ˌʌnprɪˈdɪktəbl] 美[ˌʌnprɪˈdɪktəb(ə)l]
+$adj. 无法预测的，不定的；（人）善变的，难以捉摸的
+%n. 不可预言的事
+    unpredictable weather
+#变化无常的天气
+    Changes in the market are, of course, largely unpredictable.
+#当然，市场变化在相当程度上是不可预测的。
+
+yearn: 英[jɜːn] 美[jɜːrn]
+%v. 怀念，渴望
+    captives yearning for freedom
+#向往自由的囚徒
+    They yearn for the day when they can be together again.
+#他们渴望着能重逢的那一天。
+
+zest: 英[zest] 美[zest]
+$n. 风味；热心；强烈的兴趣
+%vt. 给……调味
+    add zest to the performance
+#给演出增添几分趣味
+    We'd hoped to recapture some of the zest and vigor of youth at the reunion.
+#我们希望再次团聚能重温一下青年时代的热情与活力。
+
+shear: 英[ʃɪə(r)] 美[ʃɪr]
+$v. 剪（羊或其他动物的）毛；剪（头发）；（尤指金属部件因剪切力）折断，断裂；剥夺
+%n. （尤指修剪篱笆用的）大剪刀（shears）；切变，剪应力
+    shear wool from the sheep
+#剪去身上的毛
+    shear a sheep
+#剪羊毛
+    shear a lawn
+#修剪草坪
+    have one's hair shorn
+#剪头发
+    a pair of shears
+#一把大剪刀
+
+deception: 英[dɪˈsepʃn] 美[dɪˈsepʃ(ə)n]
+%n. 欺骗，蒙骗；骗术，骗局
+    be under deception
+#受骗上当
+    a calculated deception
+#精心策划的骗局
+    use deception to get one's way
+#以欺骗出人头地
+
+implore: 英[ɪmˈplɔː(r)] 美[ɪmˈplɔːr]
+$vt. 恳求或乞求
+%vi. 恳求或乞求
+    implore aid from sb.
+#乞求某人援助
+    Implore one's forgiveness
+#恳求宽恕
+    He implored his parents not to send him to the countryside.
+#他恳求父母不要把他送到乡下去。
+
+conceit: 英[kənˈsiːt] 美[kənˈsiːt]
+$n. 自负，骄傲自大；艺术效果，幻想，奇想
+%v. <英> 幻想
+    have great conceit of oneself
+#非常自负
+    go off into wild conceits
+#胡思乱想
+    He knew, without conceit, he was considered a genius.
+#他知道，毫不自大地说，自己被视为天才。
+
+kernel: 英[ˈkɜːn(ə)l] 美[ˈkɜːrn(ə)l]
+%n. （坚果可食用的）仁，核；玉米粒；（陈述、观点、计划等的）核心，要点；（某物的）极小一部分，微量；（计算机操作系统的）核心程序；（语言学）核心句
+    The kernel of the problem is in the interpretation of the evidence.
+#问题的核心在于要对证据做出说明。
+
+legislation: 英[ˌledʒɪsˈleɪʃn] 美[ˌledʒɪsˈleɪʃ(ə)n]
+%n. 法规，法律；立法，制订法律
+    tax legislation
+#税法
+    legislation on prices
+#价格法规
+    the power of legislation
+#立法权
+    pass the legislation
+#通过法律
+    The government will introduce legislation to restrict the sale of firearms.
+#政府将制定法规限制枪支出售。
+
+glorify: 英[ˈɡlɔːrɪfaɪ] 美[ˈɡlɔːrɪfaɪ]
+%vt. 赞美；美化；崇拜（神）；使更壮丽
+    the names which glorify this country
+#为这个家增光添彩的名人们
+    glorify one's success
+#吹嘘某人的成就
+    glorify the valley
+#（落日使）山谷显得绚丽
+    His brave deeds were glorified in songs and stories.
+#他的英勇事迹被编成歌曲和故事而广为传诵。
+
+ramble: 英[ˈræmb(ə)l] 美[ˈræmb(ə)l]
+$v. 散步，闲逛；闲扯，随笔；（植物）蔓生，蔓延
+%n. （在乡间的）漫游，闲逛；杂乱无章的长篇大论
+    go rambling
+#去闲逛
+    ramble over the garden wall
+#爬满花园的墙
+    I love to ramble through the fields and lanes in this part of the country.
+#我喜欢在乡下这个地方的田野村巷中漫步。
+
+compulsion: 英[kəmˈpʌlʃn] 美[kəmˈpʌlʃ(ə)n]
+%n. 强烈的欲望，冲动；被迫的状态；强迫力，强制力；（法律等的）义务
+    a promise made under compulsion from external causes
+#迫于外部因素而做出的承诺
+    feel a moral compulsion to tell the truth
+#有一种道德感驱使着说真话
+    You are under no compulsion to tell me, but it will be better if you do.
+#你没有任何压力非告诉我不可，不过你说了会对你有好处。
+
+elliptical: 英[ɪˈlɪptɪk(ə)l] 美[ɪˈlɪptɪk(ə)l]
+%adj. 椭圆的；省略的，隐晦的
+    an elliptical sentence
+#省略句
+    an elliptical style of writing
+#省略的文风
+    The comet is in an elliptical orbit which brings it close to the earth at regular intervals.
+#替星沿着圆轨道运行，这使它有规律地靠近地球。
+
+trudge: 英[trʌdʒ] 美[trʌdʒ]
+$vi. 跋涉；步履艰难地走
+$vt. 跋涉
+%n. 长途跋涉；沉重的步伐
+    trudge through the deep snow
+#在雪地里深一脚浅一脚地走
+    trudge through the moor
+#费力地穿越旷野
+    We trudged along the muddy path to the top of the hill.
+#我们沿着泥宁的小路步履艰难地爬上山顶。
+
+torrent: 英[ˈtɒrənt] 美[ˈtɔːrənt]
+$n. （尤指似乎无法控制的）狂潮，迸发；洪流，激流；（Torrent）（西、法、美）托伦特（人名）
+$v. 在急流中移动；通过比特流下载或上传文件
+%adj. 像急流的
+    an angry/a rushing torrent
+#激流
+    a roaring torrent
+#咆哮的洪流
+    torrents of rain
+#瓢泼大雨
+    rain in torrent
+#大雨倾盆
+    break into a torrent of words
+#滔滔不绝地打开话厘子
+
+hull: 英[hʌl] 美[hʌl]
+$n. 船体；（果实的）外壳
+$vt. [粮食]去壳
+%n. （Hull）人名；（英）赫尔；（法）于尔
+    The hull was badly damaged when the ship hit an iceberg.
+#当船撞上冰山时，船体受到了严重的损坏。
+
+insanity: 英[ɪnˈsænəti] 美[ɪnˈsænəti]
+%n. 精神错乱，精神失常；愚蠢（或不理智）的事
+    temporary insanity
+#一时精神错乱
+    a family history of insanity
+#家族精神病史
+    suffer from periodic bouts of insanity
+#患周期性精神病
+    He was found not guilty of murder by reason of insanity.
+#他因为精神失常而未被判决犯有杀人罪。
+
+nimble: 英[ˈnɪmb(ə)l] 美[ˈnɪmb(ə)l]
+%adj. （行动）灵活的；（头脑）聪敏的
+    nimble fingers
+#灵巧的手指
+    the nimble wits of poets
+#诗人敏捷的才思
+    His nimble mind calculated the answer before I could key the numbers into my computer.
+#在我把数字输进计算机之前，他那敏锐的头脑已算出了答案。
+
+protagonist: 英[prəˈtæɡənɪst] 美[prəˈtæɡənɪst]
+%n. <正式>（戏剧、电影、小说等的）主人公；<正式>  （比赛、斗争中的）主要人物，主要参与者；<正式> （政策、运动的）倡导者，拥护者
+    the negative protagonist
+#反面角色
+    the protagonists of/for orthodoxy
+#正统观念的倡导者
+    This is one of the few successful films this year in which the protagonists are all female.
+#这是今年为数不多的成功电影中的一部，而且主角都是女性。
+
+fatuous: 英[ˈfætʃuəs] 美[ˈfætʃuəs]
+%adj. 愚蠢的，愚昧的；错误的；未经认真考虑的
+    a fatuous person
+#荒唐的人
+    fatuous talks
+#昏话
+    the fatuous notions of the world
+#对世界的虚幻看法
+
+amenable: 英[əˈmiːnəb(ə)l] 美[əˈmiːnəb(ə)l]
+%adj. 有责任的：顺从的，服从的；有义务的；经得起检验的
+    a person amenable to flattery
+#易受谄媚的人
+    amenable to the law
+#对法律负责
+    amenable data
+#经得起检验的数据
+    Once his son was taken hostage, he would be more amenable to their demands.
+#一旦儿子被扣作人质，他就会软下来答应他们的要求。
+
+prolific: 英[prəˈlɪfɪk] 美[prəˈlɪfɪk]
+%adj. （植物，动物，人）多产的，多育的；（艺术家，作家，作曲家）作品丰富的，多产的；（运动员）得分高的；众多的，大批的；富庶的，肥沃的
+    a prolific writer
+#多产作家
+    a garden prolific of weeds
+#野草丛生的花园
+    The composer remained prolific.
+#那位作曲家在创作上依然硕果累累。
+
+divert: 英[daɪˈvɜːt] 美[daɪˈvɜːrt]
+%v. 使转向，使绕道；分散，转移；娱乐，供消遣；转接（电话）；改变（资金、材料等）的用途
+    divert oneself by playing chess
+#以下国际象棋作为消遣
+    The river was diverted from its old course to supply water to the town.
+#河水被改道为那座小城供水。
+
+=======
+conjure: 英[ˈkʌndʒə(r)] 美[ˈkɑːndʒər]
+%v. 变魔术，使……变戏法般地出现（或消失）；想象出，设想出；使浮现于脑海，使想起；念咒召唤出（鬼魂等）；<古>恳求，祈求
+    conjure a rabbit out of one's hat
+#从帽子里变出只兔子
+    conjure up
+#用魔法使……出现，使呈现于脑际/眼帘，想出，想起
+    conjure up the happy past
+#想起幸福的往事
+    conjure up a good meal in half an hour
+#变戏法似的在半小时内做出一顿美味的饭菜
+    The very name of Siberia conjures images of exile and bitter hardship.
+#西伯利亚这个名字会使人想起流放和苦难的情景。
+
+panacea: 英[ˌpænəˈsiːə] 美[ˌpænəˈsiːə]
+%n. 灵丹妙药；万能药
+    a panacea for all social problems
+#解决各种社会问题的万能之计
+    Western aid may help but will not be a panacea.
+#西方援助可能会有所帮助，但不是灵丹妙药。
+
+disciple: 英[dɪˈsaɪp(ə)l] 美[dɪˈsaɪp(ə)l]
+%n. 耶稣的十二门徒之一（=the Disciples）；追随者，门徒
+    The distinguished economist has had many disciples over the years.
+#近几年来，那位著名经济学家赢得了许多人的崇奉。
+
+quantum: 英[ˈkwɒntəm] 美[ˈkwɑːntəm]
+$n. 量子；量子论；额（特指定额、定量）；（乙酰胆碱释放的）单元量；美国昆腾公司（世界领先的硬盘生产商）
+%adj. 量子的；(大小、数量的) 猛然剧增，(质量的) 突飞猛进
+    increase the quantum of material well-being
+#增加物质福利的比重
+    not a quantum of evidence
+#无一点证据
+    a quantum improvement
+#重大改进
+
+slouch: 英[slaʊtʃ] 美[slaʊtʃ]
+$n. 下垂；笨拙的人，懒散的人；懒散的样子
+$vi. 没精打采地站；耷拉
+%vt. 使下垂
+    slouch along in the street
+#耷拉着脑袋走在街上
+    slouch one's shoulders
+#垂下双肩
+    stand at a slouch
+#没精打采地站着
+    slouch one's hat over one's eyes
+#拉下帽子遮住眼睛
+    His hat slouched backward on his head.
+#他的帽子耷拉在后脑勺。
+
+palate: 英[ˈpælət] 美[ˈpælət]
+%n. 腭，上腭；味觉，品尝力；（葡萄酒、啤酒的）口味，香味；兴趣，趣味
+    have a good palate for wine
+#很会品酒
+    have no palate for washing bowls
+#很不乐意洗碗
+    No one had a finer palate than Allen; he could taste every delicate flavor.
+#谁也不如艾伦的味觉敏锐，他能够品尝出各种细微的味道。
+
+conducive: 英[kənˈdjuːsɪv] 美[kənˈduːsɪv]
+%adj. 有助的，有益的
+    The peaceful atmosphere is conducive to reconciliation.
+#和平的气気有助于和解。
+
+scrumptious: 英[ˈskrʌmpʃəs] 美[ˈskrʌmpʃəs]
+%adj. 美味的；绝妙的，极好的
+    scrumptious cakes
+#美味的蛋糕
+    a scrumptious satin gown
+#漂亮的缎子长袍
+
+acquiesce: 英[ˌækwiˈes] 美[ˌækwiˈes]
+%vi. 默许；勉强同意
+    No state can acquiesce such breaches of order.
+#没有一个国家会默认这种破坏秩序的行为
+
+demote: 英[diːˈməʊt] 美[diːˈmoʊt]
+%vt. 使降级；使降职
+    demote a pupil
+#使一个学生降级
+    demote a soldier from corporal to private
+#把一名士兵从下士降到列兵
+
+timbre: 英[ˈtæmbə(r)] 美[ˈtæmbər]
+%n. [声] 音色；音质；音品
+    The singer's voice had a pleasant timbre.
+#这位歌唱家的音色悦耳。
+
+brittle: 英[ˈbrɪt(ə)l] 美[ˈbrɪt(ə)l]
+$adj. 易碎的，脆的；（关系或局势）不牢固的，易变的；脆弱的；冷淡的；尖利的，刺耳的；（声音）像要哭的
+%n. 果仁薄脆糖
+    brittle glass
+#易碎的玻璃
+    a brittle tone of voice
+#尖利的声音
+    a brittle selfish man
+#冷淡自私的男人
+    a brittle personality
+#难以相处的个性
+
+angular: 英[ˈæŋɡjələ(r)] 美[ˈæŋɡjələr]
+%adj. [生物] 有角的；生硬的，笨拙的；瘦削的
+    an angular piece of rock
+#有尖角的石块
+    angular distance
+#角距离
+    an angular gait
+#僵硬的步态
+    a tall, angular man
+#身材瘦削的高个儿男人
+    talk in angular English
+#用生硬的英语讲话
+
+blackball: 英[ˈblækbɔːl] 美[ˈblækbɔːl]
+$v. 投票反对；（尤指以无记名投票方式）拒绝（申请者加入私人俱乐部）；排斥
+%n. 反对票；黑球（表示反对）
+    blackball sb. from all consideration for research grants
+#根本不考虑给某人从事研究的津贴
+    After the scandal, he was blackballed from the learned society.
+#出了这件丑事后，他被取消了这个学术团体会员的资格。
+
+strut: 英[strʌt] 美[strʌt]
+$v. 趾高气扬地走，昂首阔步；<非正式>展示自己的本领（或外表），炫耀（strut your stuff）；支撑，撑开
+%n. 支柱，撑杆；趾高气扬的步态，昂首阔步的样子
+    strut one's accomplishments
+#卖弄オ艺
+    He strutted the street like a gaudy fighting cock.
+#他在街上大摇大摆地走，像一只炫丽好斗的公鸡。
+
+slough: 英[slaʊ] 美[slaʊ]
+$n. 蜕下的皮（或壳）；绝境；[地理] 泥沼；[外科] 腐肉
+$vt. 使陷入泥沼；抛弃
+%vi. 蜕皮；脱落；在泥浆中跋涉
+    a slough in the road
+#道路上的泥坑
+    rescue sb. from a financial slough
+#救助某人摆脱经济困境
+    slough through the paddy fields
+#艰难地穿过水稻田
+    He got himself into the slough of self-pity.
+#他陷入顾影自怜的泥沼。
+    cast off the slough of primitive ways and beliefs
+#废弃原始的习俗和信仰
+    slough the outer layers of skin
+#蜕去表皮
+    His sweetness in friendship increased as the old will to power sloughed off.
+#他昔日的那种权力欲消退了，对人的亲切友爱之情就增加了。
+
+translucent: 英[trænzˈluːs(ə)nt] 美[trænzˈluːs(ə)nt]
+%adj. 透明的；半透明的
+    a translucent body
+#半透明体
+    a translucent exposition
+#清楚易懂的论述
+    She had fair hair, blue eyes and translucent skin.
+#她金发碧眼，皮肤透亮。
+
+frail: 英[freɪl] 美[freɪl]
+$adj. （人）脆弱的，虚弱的；易碎的，易坏的；（性格、道德方面）脆弱的，意志薄弱的
+%n. （装无花果或葡萄干的）灯心草篮；<美，非正式，旧>女人
+    frail china
+#易碎的瓷器
+    a frail girl
+#弱不禁风的少女
+
+unpredictable: 英[ˌʌnprɪˈdɪktəbl] 美[ˌʌnprɪˈdɪktəb(ə)l]
+$adj. 无法预测的，不定的；（人）善变的，难以捉摸的
+%n. 不可预言的事
+    unpredictable weather
+#变化无常的天气
+    Changes in the market are, of course, largely unpredictable.
+#当然，市场变化在相当程度上是不可预测的。
+
+yearn: 英[jɜːn] 美[jɜːrn]
+%v. 怀念，渴望
+    captives yearning for freedom
+#向往自由的囚徒
+    They yearn for the day when they can be together again.
+#他们渴望着能重逢的那一天。
+
+zest: 英[zest] 美[zest]
+$n. 风味；热心；强烈的兴趣
+%vt. 给……调味
+    add zest to the performance
+#给演出增添几分趣味
+    We'd hoped to recapture some of the zest and vigor of youth at the reunion.
+#我们希望再次团聚能重温一下青年时代的热情与活力。
+
+shear: 英[ʃɪə(r)] 美[ʃɪr]
+$v. 剪（羊或其他动物的）毛；剪（头发）；（尤指金属部件因剪切力）折断，断裂；剥夺
+%n. （尤指修剪篱笆用的）大剪刀（shears）；切变，剪应力
+    shear wool from the sheep
+#剪去身上的毛
+    shear a sheep
+#剪羊毛
+    shear a lawn
+#修剪草坪
+    have one's hair shorn
+#剪头发
+    a pair of shears
+#一把大剪刀
+
+deception: 英[dɪˈsepʃn] 美[dɪˈsepʃ(ə)n]
+%n. 欺骗，蒙骗；骗术，骗局
+    be under deception
+#受骗上当
+    a calculated deception
+#精心策划的骗局
+    use deception to get one's way
+#以欺骗出人头地
+
+implore: 英[ɪmˈplɔː(r)] 美[ɪmˈplɔːr]
+$vt. 恳求或乞求
+%vi. 恳求或乞求
+    implore aid from sb.
+#乞求某人援助
+    Implore one's forgiveness
+#恳求宽恕
+    He implored his parents not to send him to the countryside.
+#他恳求父母不要把他送到乡下去。
+
+conceit: 英[kənˈsiːt] 美[kənˈsiːt]
+$n. 自负，骄傲自大；艺术效果，幻想，奇想
+%v. <英> 幻想
+    have great conceit of oneself
+#非常自负
+    go off into wild conceits
+#胡思乱想
+    He knew, without conceit, he was considered a genius.
+#他知道，毫不自大地说，自己被视为天才。
+
+kernel: 英[ˈkɜːn(ə)l] 美[ˈkɜːrn(ə)l]
+%n. （坚果可食用的）仁，核；玉米粒；（陈述、观点、计划等的）核心，要点；（某物的）极小一部分，微量；（计算机操作系统的）核心程序；（语言学）核心句
+    The kernel of the problem is in the interpretation of the evidence.
+#问题的核心在于要对证据做出说明。
+
+legislation: 英[ˌledʒɪsˈleɪʃn] 美[ˌledʒɪsˈleɪʃ(ə)n]
+%n. 法规，法律；立法，制订法律
+    tax legislation
+#税法
+    legislation on prices
+#价格法规
+    the power of legislation
+#立法权
+    pass the legislation
+#通过法律
+    The government will introduce legislation to restrict the sale of firearms.
+#政府将制定法规限制枪支出售。
+
+glorify: 英[ˈɡlɔːrɪfaɪ] 美[ˈɡlɔːrɪfaɪ]
+%vt. 赞美；美化；崇拜（神）；使更壮丽
+    the names which glorify this country
+#为这个家增光添彩的名人们
+    glorify one's success
+#吹嘘某人的成就
+    glorify the valley
+#（落日使）山谷显得绚丽
+    His brave deeds were glorified in songs and stories.
+#他的英勇事迹被编成歌曲和故事而广为传诵。
+
+ramble: 英[ˈræmb(ə)l] 美[ˈræmb(ə)l]
+$v. 散步，闲逛；闲扯，随笔；（植物）蔓生，蔓延
+%n. （在乡间的）漫游，闲逛；杂乱无章的长篇大论
+    go rambling
+#去闲逛
+    ramble over the garden wall
+#爬满花园的墙
+    I love to ramble through the fields and lanes in this part of the country.
+#我喜欢在乡下这个地方的田野村巷中漫步。
+
+compulsion: 英[kəmˈpʌlʃn] 美[kəmˈpʌlʃ(ə)n]
+%n. 强烈的欲望，冲动；被迫的状态；强迫力，强制力；（法律等的）义务
+    a promise made under compulsion from external causes
+#迫于外部因素而做出的承诺
+    feel a moral compulsion to tell the truth
+#有一种道德感驱使着说真话
+    You are under no compulsion to tell me, but it will be better if you do.
+#你没有任何压力非告诉我不可，不过你说了会对你有好处。
+
+elliptical: 英[ɪˈlɪptɪk(ə)l] 美[ɪˈlɪptɪk(ə)l]
+%adj. 椭圆的；省略的，隐晦的
+    an elliptical sentence
+#省略句
+    an elliptical style of writing
+#省略的文风
+    The comet is in an elliptical orbit which brings it close to the earth at regular intervals.
+#替星沿着圆轨道运行，这使它有规律地靠近地球。
+
+trudge: 英[trʌdʒ] 美[trʌdʒ]
+$vi. 跋涉；步履艰难地走
+$vt. 跋涉
+%n. 长途跋涉；沉重的步伐
+    trudge through the deep snow
+#在雪地里深一脚浅一脚地走
+    trudge through the moor
+#费力地穿越旷野
+    We trudged along the muddy path to the top of the hill.
+#我们沿着泥宁的小路步履艰难地爬上山顶。
+
+torrent: 英[ˈtɒrənt] 美[ˈtɔːrənt]
+$n. （尤指似乎无法控制的）狂潮，迸发；洪流，激流；（Torrent）（西、法、美）托伦特（人名）
+$v. 在急流中移动；通过比特流下载或上传文件
+%adj. 像急流的
+    an angry/a rushing torrent
+#激流
+    a roaring torrent
+#咆哮的洪流
+    torrents of rain
+#瓢泼大雨
+    rain in torrent
+#大雨倾盆
+    break into a torrent of words
+#滔滔不绝地打开话厘子
+
+hull: 英[hʌl] 美[hʌl]
+$n. 船体；（果实的）外壳
+$vt. [粮食]去壳
+%n. （Hull）人名；（英）赫尔；（法）于尔
+    The hull was badly damaged when the ship hit an iceberg.
+#当船撞上冰山时，船体受到了严重的损坏。
+
+insanity: 英[ɪnˈsænəti] 美[ɪnˈsænəti]
+%n. 精神错乱，精神失常；愚蠢（或不理智）的事
+    temporary insanity
+#一时精神错乱
+    a family history of insanity
+#家族精神病史
+    suffer from periodic bouts of insanity
+#患周期性精神病
+    He was found not guilty of murder by reason of insanity.
+#他因为精神失常而未被判决犯有杀人罪。
+
+nimble: 英[ˈnɪmb(ə)l] 美[ˈnɪmb(ə)l]
+%adj. （行动）灵活的；（头脑）聪敏的
+    nimble fingers
+#灵巧的手指
+    the nimble wits of poets
+#诗人敏捷的才思
+    His nimble mind calculated the answer before I could key the numbers into my computer.
+#在我把数字输进计算机之前，他那敏锐的头脑已算出了答案。
+
+protagonist: 英[prəˈtæɡənɪst] 美[prəˈtæɡənɪst]
+%n. <正式>（戏剧、电影、小说等的）主人公；<正式>  （比赛、斗争中的）主要人物，主要参与者；<正式> （政策、运动的）倡导者，拥护者
+    the negative protagonist
+#反面角色
+    the protagonists of/for orthodoxy
+#正统观念的倡导者
+    This is one of the few successful films this year in which the protagonists are all female.
+#这是今年为数不多的成功电影中的一部，而且主角都是女性。
+
+fatuous: 英[ˈfætʃuəs] 美[ˈfætʃuəs]
+%adj. 愚蠢的，愚昧的；错误的；未经认真考虑的
+    a fatuous person
+#荒唐的人
+    fatuous talks
+#昏话
+    the fatuous notions of the world
+#对世界的虚幻看法
+
+amenable: 英[əˈmiːnəb(ə)l] 美[əˈmiːnəb(ə)l]
+%adj. 有责任的：顺从的，服从的；有义务的；经得起检验的
+    a person amenable to flattery
+#易受谄媚的人
+    amenable to the law
+#对法律负责
+    amenable data
+#经得起检验的数据
+    Once his son was taken hostage, he would be more amenable to their demands.
+#一旦儿子被扣作人质，他就会软下来答应他们的要求。
+
+prolific: 英[prəˈlɪfɪk] 美[prəˈlɪfɪk]
+%adj. （植物，动物，人）多产的，多育的；（艺术家，作家，作曲家）作品丰富的，多产的；（运动员）得分高的；众多的，大批的；富庶的，肥沃的
+    a prolific writer
+#多产作家
+    a garden prolific of weeds
+#野草丛生的花园
+    The composer remained prolific.
+#那位作曲家在创作上依然硕果累累。
+
+divert: 英[daɪˈvɜːt] 美[daɪˈvɜːrt]
+%v. 使转向，使绕道；分散，转移；娱乐，供消遣；转接（电话）；改变（资金、材料等）的用途
+    divert oneself by playing chess
+#以下国际象棋作为消遣
+    The river was diverted from its old course to supply water to the town.
+#河水被改道为那座小城供水。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

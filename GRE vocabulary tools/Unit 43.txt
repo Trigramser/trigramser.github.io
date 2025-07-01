@@ -1,0 +1,805 @@
+<<<<<<< HEAD
+obeisance: 英[əʊˈbeɪs(ə)ns] 美[oʊˈbiːs(ə)ns]
+%n. 敬礼；尊敬
+    bow in obeisance to the president
+#向总统鞠躬致敬
+    pay obeisance to principles
+#尊重法则
+    They made the traditional obeisance to their monarch.
+#他们按传统仪式向君主行礼。
+
+peremptory: 英[pəˈremptəri] 美[pəˈremptəri]
+%adj. 强制的；绝对的；断然的；专横的；紧急的，急迫的；最后决定的，不容改变的
+    a few words of peremptory English
+#几句应急英语
+    a peremptory conclusion
+#最终结论
+    a peremptory thudding at the door
+#嘭嘭嘭急迫的敲门声
+    He spoke with a peremptory tone in his voice.
+#他用咄咄逼人的口气说话。
+
+beget: 英[bɪˈɡet] 美[bɪˈɡet]
+%vt. 产生；招致；引起；当……的父亲
+    Rumor begets rumor.
+#谣言接踵而起。
+
+choleric: 英[ˈkɒlərɪk] 美[ˈkɑːlərɪk]
+%adj. 易怒的；暴躁的；胆汁质的
+    a choleric disposition
+#暴躁性情
+
+aspirant: 英[ˈæspərənt] 美[ˈæspərənt]
+$n. 有抱负的人；野心家
+%adj. 上进的；有野心的
+    an aspirant to medicine
+#有志于医学的人
+    He is an aspirant for literary honor.
+#他渴望在文坛扬名。
+
+predilection: 英[ˌpriːdɪˈlekʃ(ə)n] 美[ˌpred(ə)lˈekʃ(ə)n]
+%n. 偏爱，嗜好
+    have a predilection for
+#偏爱
+    personal predilections
+#个人偏好
+    This explained her predilection for desserts.
+#这是她偏爱甜食的原因。
+
+exiguous: 英[eɡˈzɪɡjuəs] 美[eɡˈzɪɡjuəs]
+%adj. 稀少的；细小的
+    exiguous resources
+#稀少的资源
+    an exiguous income
+#微薄的收入
+
+provenance: 英[ˈprɒvənəns] 美[ˈprɑːvənəns]
+%n. 出处，起源
+    a group of terrorists of unknown provenance
+#伙来历不明的恐怖分子
+    I don't need to see a label to identify the provenance of a garment that someone is wearing.
+#我不用看商标就能认出别人穿的衣服的牌子。
+
+disfranchise: 英[dɪsˈfræntʃaɪz] 美[dɪsˈfræntʃaɪz]
+%v. 剥夺选举权；剥夺权利（或特权）；剥夺（某地）往国会派代表的权利；剥夺……的居住权（等于 disenfranchise）
+    Many voters have been disfranchised.
+#许多选民被剥夺了选举权。
+
+modish: 英[ˈməʊdɪʃ] 美[ˈmoʊdɪʃ]
+%adj. 流行的；时髦的
+    She was wearing an extravagantly modish outfit at the party.
+#她在晚会上穿了套非常时髦的衣服。
+
+numismatist: 英[njuːˈmɪzmətɪst] 美[nuːˈmɪzmətɪst]
+%n. 钱币奖章收藏家
+    Numismatist said that you have completed the collection of coins.
+#货币学家说你完成了货币的搜集。
+
+self-assertion: 英[ˌself əˈsɜːʃ(ə)n] 美[ˌself əˈsɜːrʃ(ə)n]
+%n. 自信；自作主张；一意孤行
+    the increasing self-assertion of surrounding countries
+#周围国家日益一意孤行
+
+gourmand: 英[ˈɡʊəmənd] 美[ˈɡʊrmɑːnd]
+$n. 美食家；贪食者
+$adj. 贪食的
+%n. （Gourmand）人名；（法）古尔芒
+    a gourmand fellow
+#贪吃的家伙
+    Gourmand is a lover of good food. 
+#美食家是爱吃好东西的人。
+
+agog: 英[əˈɡɒɡ] 美[əˈɡɑːɡ]
+$adj. 兴奋的；有强烈兴趣的
+%adv. 热切地；渴望地
+    be agog at a sight
+#好奇地看着一种景象
+    He watched, eyes agog with excitement.
+#他激动地注视着，满眼的兴奋。
+
+toothsome: 英[ˈtuːθsəm] 美[ˈtuːθsəm]
+%adj. 美味的；漂亮的；令人愉快的
+    a toothsome girl
+#标致的姑娘
+    The crab is a toothsome favorite of man.
+#蟹是一种特别受人喜爱的美味佳肴。
+
+gargoyle: 英[ˈɡɑːɡɔɪl] 美[ˈɡɑːrɡɔɪl]
+%n. 怪兽状滴水嘴；面貌丑恶的人
+    The gargoyles at the top of Notre Dame look down over Paris.
+#巴黎圣母院顶上的怪兽状滴水嘴俯瞰着巴黎城。
+
+particularize: 英[pəˈtɪkjələraɪz] 美[pərˈtɪkjələraɪz]
+$vt. 列举；使特殊
+%vi. 详细说明；大书特书
+    He particularized the items of a bill.
+#他把账单逐项列出。
+
+delusion: 英[dɪˈluːʒn] 美[dɪˈluːʒn]
+%n. 错觉；妄想
+    He was under the delusion that he could succeed.
+#他有种他能成功的错觉。
+
+gander: 英[ˈɡændə(r)] 美[ˈɡændər]
+$n. 雄鹅；呆子；一瞥
+$vi. 闲逛
+%n. （Gander）人名；（英、葡、匈、瑞典）甘德
+    gander down to the port
+#漫步到港口
+
+putrid: 英[ˈpjuːtrɪd] 美[ˈpjuːtrɪd]
+%adj. 腐败的；腐烂的；令人厌恶的
+    putrid odor
+#腐臭味
+    The fish become putrid in the hot sun.
+#鱼在烈日下腐烂了。
+
+remonstrance: 英[rɪˈmɒnstrəns] 美[rɪˈmɑːnstrəns]
+%n. 抗议；规劝；谏书
+    We heard loud cries of remonstrance.
+#我们听见一声声响亮的抗议呼喊声。
+
+abnegate: 英[ˈæbnɪˌɡeɪt] 美[ˈæbnəˌgeɪt]
+%vt. 放弃；舍弃；禁忌
+    a self-abnegating life
+#恬淡自若的生活
+    He has abnegated all his rights to the property.
+#他已经放弃了对财产的所有权利。
+
+hoodoo: 英[ˈhuːduː] 美[ˈhuːduː]
+$n. 招来不幸的人，不祥的人；伏都教；魔法，巫术；（岩石风化而成的）圆柱岩石，尖顶岩石
+%v. 使倒霉；蛊惑，迷惑
+    a hoodoo doctor
+#巫医
+
+cloy: 英[klɔɪ] 美[klɔɪ]
+%v. （因过量而）厌倦，发腻
+    be cloyed with pleasure
+#对玩乐感到厌倦
+    A diet of candy soon cloys.
+#经常吃糖果会很快倒胃口。
+
+pitiless: 英[ˈpɪtiləs] 美[ˈpɪtiləs]
+%adj. 冷酷的，无情的；无同情心的
+    the dictator's pitiless rule
+#独裁者无情的统治
+    Few people went out in the pitiless midday sun.
+#很少有人冒着正午的烈日出去。
+
+tusk: 英[tʌsk] 美[tʌsk]
+$n. 长牙；尖头，尖形物
+$vt. 以牙刺戳；以长牙掘
+%n. （Tusk）人名；（波）图斯克
+    It's illegal to smuggle elephants' tusks.
+#走私象牙是违法的。
+
+trounce: 英[traʊns] 美[traʊns]
+%vt. 痛打；严责；打败
+    She trounced her rivals in the election.
+#在举中她击败了所有对手。
+
+winkle: 英[ˈwɪŋk(ə)l] 美[ˈwɪŋk(ə)l]
+$n. 食用螺
+%v. 费劲取出，套出（信息等）
+    winkle truth out of sb.
+#从某人嘴里套出事实真相
+    The security services will go to any lengths to winkle out information.
+#安全部门会不遗余力地套取情报。
+
+cohesion: 英[kəʊˈhiːʒ(ə)n] 美[koʊˈhiːʒ(ə)n]
+%n. 凝聚力，团结；内聚力；（句子、文章等在语法或含义方面的）连贯，衔接
+    The lack of cohesion within the party lost them votes at election time.
+#政党内部缺乏凝聚力，所以他们在大选时失去了选票。
+
+leak: 英[liːk] 美[liːk]
+$v. 渗入，漏出；漏，渗漏；泄露，透露
+%n. 漏洞，裂缝；泄漏出的液体（或气体）；泄密；<俚>撒尿
+    If you suspect a gas leak, phone the emergency number.
+#如果你怀疑煤气泄漏，就拨打应急电话。
+
+parturition: 英[ˌpɑːtjuˈrɪʃn] 美[ˌpɑːrtʃəˈrɪʃ(ə)n]
+%n. 分娩，生产
+    the month of parturition
+#临产月
+    Did the parturition go well yesterday evening?
+#昨天晚上分娩顺利吗？
+
+dogmatism: 英[ˈdɒɡmətɪzəm] 美[ˈdɔːɡmətɪzəm]
+%n. 教条主义；独断，武断
+    We cannot allow dogmatism to stand in the way of progress.
+#我们不能让教条主义阻碍前进的步伐。
+
+curdle: 英[ˈkɜːd(ə)l] 美[ˈkɜːrd(ə)l]
+$vi. 凝固
+%vt. 使凝结
+    make one's blood curdle
+#使人毛骨悚然
+    Beat the eggs into the cake mixture carefully, so as not to curdle it.
+#小心地把蛋打人蛋糕的混合原料中，别让它凝结了。
+
+gaffe: 英[ɡæf] 美[ɡæf]
+$n. 失态；过失
+%n. （Gaffe）人名；（法）加夫
+    That was a bit of gaffe, starting to eat before everyone else had been served.
+#没有等到每个人的菜上好就开始吃起来，这真有点失态。
+
+wend: 英[wend] 美[wend]
+$vt. 走；前进
+$vi. 走；行
+%n. （Wend）人名；（德）文德
+    The thief then wended his way through the unlit back streets to the dock.
+#小偷随后穿过暗无灯光的后街绕到码头。
+
+traduce: 英[trəˈdjuːs] 美[trəˈduːs]
+%vt. 中伤；诽谤；背叛
+    Clark claimed that he had been traduced by the press.
+#克拉克声称他遭到新闻界的诽谤。
+
+vicissitudinous: 英[vɪsɪsɪˈtjuːdɪnəs] 美[vəˈsɪsəˌtuːdnəs]
+%adj. 变迁的；有变化的；有盛衰的
+    Simultaneously, the development of complex dramas is constant and vicissitudinous. As the carrier of the spirit of literati, complex dramas present the tracks of their mood.
+#同时，杂剧的发展是连续而有变化的，作为剧作家精神的载体，能够呈现出文人心态变化的轨迹。
+
+scud: 英[skʌd] 美[skʌd]
+$n. 飞毛腿；疾行；飘飞的云
+%vi. 疾行；顺风行驶
+    It was a windy day, and small white clouds were scudding across the blue sky.
+#这是一个有风的日子，小片白云在蓝天上迅速飘过。
+
+gutless: 英[ˈɡʌtləs] 美[ˈɡʌtləs]
+%adj. 无胆量的；没勇气的；没有生气的
+    a gutless soldier
+#懦弱的士兵
+
+magniloquent: 英[mæɡˈnɪləkwənt] 美[mæɡˈnɪləkwənt]
+%adj. 夸张的；说大话的
+    He is bent on the choice of magniloquent phrases.
+#他专门选夸张的措辞。
+
+potboiler: 英[ˈpɒtbɔɪlə(r)] 美[ˈpɑːtbɔɪlər]
+%n. 为营利而粗制滥造的（艺术或文学）作品
+    Her most recent book was dismissed by critics as little more than a romantic potboiler.
+#她刚出的书被批评家贬作粗制的言情作品。
+
+boding: 英[ˈbəʊdɪŋ] 美[ˈboʊdɪŋ]
+$n. 预感；凶兆；前兆
+$adj. 凶兆的，预兆的
+%n. （Boding）人名；（瑞典）博丁
+    a boding of disaster
+#灾难的先兆
+
+demarcate: 英[ˈdiːmɑːkeɪt] 美[ˈdiːmɑːrkeɪt]
+%vt. 划分界线；区别
+    a border demarcated by a river
+#以河流为界的国界
+
+opulence: 英[ˈɒpjələns] 美[ˈɑːpjələns]
+%n. 富裕；丰富
+    She lived in great opulence. 
+#她的生活非常奢侈。
+
+resigned: 英[rɪˈzaɪnd] 美[rɪˈzaɪnd]
+$adj. 顺从的；已辞职的；己放弃的
+%v. 辞职；顺从（resign 的过去分词）
+    a resigned government official
+#辞职的政府官员
+    with a resigned air
+#带着一种屈从的神态
+
+everlasting: 英[ˌevəˈlɑːstɪŋ] 美[ˌevərˈlæstɪŋ]
+%adj. 永恒的；接连不断的
+    believe in everlasting life
+#相信永生
+    the zone of everlasting snow
+#常年下雪带
+    from everlasting
+#开天辟地以来
+    These tyres are advertised as being everlasting.
+#广告说这些轮胎经久耐用。
+
+corporeal: 英[kɔːˈpɔːriəl] 美[kɔːrˈpɔːriəl]
+%adj. 物质的，有形的；肉体的
+    corporeal property
+#有形财产
+    Food and drink are corporeal needs.
+#食物和饮料是身体的必需品。
+
+overriding: 英[ˌəʊvəˈraɪdɪŋ] 美[ˌoʊvərˈraɪdɪŋ]
+$adj. 高于一切的，最重要的；在……之上延伸的
+%v. 不顾；践踏；压垮（override 的现在分词）
+    an overriding need
+#压倒一切的需要
+    an overriding issue
+#首要问题
+
+zealotry: 英[ˈzelətri] 美[ˈzelətri]
+%n. 狂热的行为；狂言；狂热
+    political and religious zealotry
+#政治和宗教狂热
+    zealotic
+#狂热的
+
+pother: 英[ˈpɒðə(r)] 美[ˈpɑːðər]
+$n. 喧扰，骚动；烦恼
+$vt. 使烦恼，使困扰
+%vi. 烦恼；忙乱
+    The children are making a great pother about the picnic.
+#孩子们正在为野餐的事吵吵嚷嚷。
+
+beholden: 英[bɪˈhəʊldən] 美[bɪˈhoʊldən]
+%adj. 负有义务的；蒙恩的；对……表示感谢的
+    We are much beholden to you for your help.
+#对于你的帮助，我们不胜感激。
+
+obtrude: 英[əbˈtruːd] 美[əbˈtruːd]
+$vt. 逼使；强迫；冲出
+%vi. 打扰；闯入；强加于人
+    obtrude one's opinion on others
+#把意见强加于人
+    Music from the next room obtruded upon his thoughts.
+#隔壁的音乐声打扰了他的思绪。
+
+perforate: 英[ˈpɜːfəreɪt] 美[ˈpɜːrfəreɪt]
+$vt. 穿孔于，打孔穿透；在……上打齿孔
+%vi. 穿过，贯穿；穿孔
+    perforate a wooden box
+#在木箱上开孔
+    He perforated his opponent's shield.
+#他刺穿了对手的盾。
+
+hone: 英[həʊn] 美[hoʊn]
+$v. 磨练，训练（尤指技艺）；磨（刀、剑等）；导向，朝向（hone in on）；渴望；发牢骚
+%n. 磨刀石
+    hone a razor
+#磨快剃刀
+    hone one's artistic skills
+#磨砺技艺
+    hone for a simple life
+#渴望简朴的生活
+
+niggling: 英[ˈnɪɡlɪŋ] 美[ˈnɪɡlɪŋ]
+$adj. 为琐事操心的；过于精细的；琐碎的
+$n. 过于琐碎的工作；无关紧要的事
+%v. 挑剔（niggle 的 ing 形式）
+    a niggling difference
+#细微差别
+    a niggling task
+#琐碎的工作
+
+ersatz: 英[ˈeəzæts] 美[ˈersɑːts]
+$adj. 代用的；人造的；假的
+%n. 代用品；仿制品
+    ersatz coffee
+#代用咖啡
+    ersatz material
+#代用材料
+
+fallibility: 英[ˌfæləˈbɪləti] 美[ˌfæləˈbɪləti]
+%n. 易误；不可靠；出错性
+    the fallibility of human perceptions
+#人的感观的不可靠性
+
+odoriferous: 英[ˌəʊdərˈɪfərəs] 美[ˌoʊdərˈɪfərəs]
+%adj. 臭的，散发气味的；芬芳的
+    The rose is an odoriferous flower.
+#玫瑰花带有香味。
+
+jibe: 英[dʒaɪb] 美[dʒaɪb]
+$vt. 嘲笑；嘲弄；<口>符合；相一致；
+$vi. （=gibe）讥笑﹑ 嘲弄
+$n. 嘲弄; 嘲讽
+%v. (=gybe) 顺风时将船帆自一舷转向另一舷以改变方向.
+    The report does not jibe with the facts.
+#报告与事实不符。
+
+natal: 英[ˈneɪt(ə)l] 美[ˈneɪt(ə)l]
+$adj. 出生的；诞生的；分娩的；出生地的
+%n. （Natal）人名；（英、法、西、葡）纳塔尔
+    one's natal place
+#出生地
+    one's natal and acquired abilities
+#先天和后天的能力
+
+=======
+obeisance: 英[əʊˈbeɪs(ə)ns] 美[oʊˈbiːs(ə)ns]
+%n. 敬礼；尊敬
+    bow in obeisance to the president
+#向总统鞠躬致敬
+    pay obeisance to principles
+#尊重法则
+    They made the traditional obeisance to their monarch.
+#他们按传统仪式向君主行礼。
+
+peremptory: 英[pəˈremptəri] 美[pəˈremptəri]
+%adj. 强制的；绝对的；断然的；专横的；紧急的，急迫的；最后决定的，不容改变的
+    a few words of peremptory English
+#几句应急英语
+    a peremptory conclusion
+#最终结论
+    a peremptory thudding at the door
+#嘭嘭嘭急迫的敲门声
+    He spoke with a peremptory tone in his voice.
+#他用咄咄逼人的口气说话。
+
+beget: 英[bɪˈɡet] 美[bɪˈɡet]
+%vt. 产生；招致；引起；当……的父亲
+    Rumor begets rumor.
+#谣言接踵而起。
+
+choleric: 英[ˈkɒlərɪk] 美[ˈkɑːlərɪk]
+%adj. 易怒的；暴躁的；胆汁质的
+    a choleric disposition
+#暴躁性情
+
+aspirant: 英[ˈæspərənt] 美[ˈæspərənt]
+$n. 有抱负的人；野心家
+%adj. 上进的；有野心的
+    an aspirant to medicine
+#有志于医学的人
+    He is an aspirant for literary honor.
+#他渴望在文坛扬名。
+
+predilection: 英[ˌpriːdɪˈlekʃ(ə)n] 美[ˌpred(ə)lˈekʃ(ə)n]
+%n. 偏爱，嗜好
+    have a predilection for
+#偏爱
+    personal predilections
+#个人偏好
+    This explained her predilection for desserts.
+#这是她偏爱甜食的原因。
+
+exiguous: 英[eɡˈzɪɡjuəs] 美[eɡˈzɪɡjuəs]
+%adj. 稀少的；细小的
+    exiguous resources
+#稀少的资源
+    an exiguous income
+#微薄的收入
+
+provenance: 英[ˈprɒvənəns] 美[ˈprɑːvənəns]
+%n. 出处，起源
+    a group of terrorists of unknown provenance
+#伙来历不明的恐怖分子
+    I don't need to see a label to identify the provenance of a garment that someone is wearing.
+#我不用看商标就能认出别人穿的衣服的牌子。
+
+disfranchise: 英[dɪsˈfræntʃaɪz] 美[dɪsˈfræntʃaɪz]
+%v. 剥夺选举权；剥夺权利（或特权）；剥夺（某地）往国会派代表的权利；剥夺……的居住权（等于 disenfranchise）
+    Many voters have been disfranchised.
+#许多选民被剥夺了选举权。
+
+modish: 英[ˈməʊdɪʃ] 美[ˈmoʊdɪʃ]
+%adj. 流行的；时髦的
+    She was wearing an extravagantly modish outfit at the party.
+#她在晚会上穿了套非常时髦的衣服。
+
+numismatist: 英[njuːˈmɪzmətɪst] 美[nuːˈmɪzmətɪst]
+%n. 钱币奖章收藏家
+    Numismatist said that you have completed the collection of coins.
+#货币学家说你完成了货币的搜集。
+
+self-assertion: 英[ˌself əˈsɜːʃ(ə)n] 美[ˌself əˈsɜːrʃ(ə)n]
+%n. 自信；自作主张；一意孤行
+    the increasing self-assertion of surrounding countries
+#周围国家日益一意孤行
+
+gourmand: 英[ˈɡʊəmənd] 美[ˈɡʊrmɑːnd]
+$n. 美食家；贪食者
+$adj. 贪食的
+%n. （Gourmand）人名；（法）古尔芒
+    a gourmand fellow
+#贪吃的家伙
+    Gourmand is a lover of good food. 
+#美食家是爱吃好东西的人。
+
+agog: 英[əˈɡɒɡ] 美[əˈɡɑːɡ]
+$adj. 兴奋的；有强烈兴趣的
+%adv. 热切地；渴望地
+    be agog at a sight
+#好奇地看着一种景象
+    He watched, eyes agog with excitement.
+#他激动地注视着，满眼的兴奋。
+
+toothsome: 英[ˈtuːθsəm] 美[ˈtuːθsəm]
+%adj. 美味的；漂亮的；令人愉快的
+    a toothsome girl
+#标致的姑娘
+    The crab is a toothsome favorite of man.
+#蟹是一种特别受人喜爱的美味佳肴。
+
+gargoyle: 英[ˈɡɑːɡɔɪl] 美[ˈɡɑːrɡɔɪl]
+%n. 怪兽状滴水嘴；面貌丑恶的人
+    The gargoyles at the top of Notre Dame look down over Paris.
+#巴黎圣母院顶上的怪兽状滴水嘴俯瞰着巴黎城。
+
+particularize: 英[pəˈtɪkjələraɪz] 美[pərˈtɪkjələraɪz]
+$vt. 列举；使特殊
+%vi. 详细说明；大书特书
+    He particularized the items of a bill.
+#他把账单逐项列出。
+
+delusion: 英[dɪˈluːʒn] 美[dɪˈluːʒn]
+%n. 错觉；妄想
+    He was under the delusion that he could succeed.
+#他有种他能成功的错觉。
+
+gander: 英[ˈɡændə(r)] 美[ˈɡændər]
+$n. 雄鹅；呆子；一瞥
+$vi. 闲逛
+%n. （Gander）人名；（英、葡、匈、瑞典）甘德
+    gander down to the port
+#漫步到港口
+
+putrid: 英[ˈpjuːtrɪd] 美[ˈpjuːtrɪd]
+%adj. 腐败的；腐烂的；令人厌恶的
+    putrid odor
+#腐臭味
+    The fish become putrid in the hot sun.
+#鱼在烈日下腐烂了。
+
+remonstrance: 英[rɪˈmɒnstrəns] 美[rɪˈmɑːnstrəns]
+%n. 抗议；规劝；谏书
+    We heard loud cries of remonstrance.
+#我们听见一声声响亮的抗议呼喊声。
+
+abnegate: 英[ˈæbnɪˌɡeɪt] 美[ˈæbnəˌgeɪt]
+%vt. 放弃；舍弃；禁忌
+    a self-abnegating life
+#恬淡自若的生活
+    He has abnegated all his rights to the property.
+#他已经放弃了对财产的所有权利。
+
+hoodoo: 英[ˈhuːduː] 美[ˈhuːduː]
+$n. 招来不幸的人，不祥的人；伏都教；魔法，巫术；（岩石风化而成的）圆柱岩石，尖顶岩石
+%v. 使倒霉；蛊惑，迷惑
+    a hoodoo doctor
+#巫医
+
+cloy: 英[klɔɪ] 美[klɔɪ]
+%v. （因过量而）厌倦，发腻
+    be cloyed with pleasure
+#对玩乐感到厌倦
+    A diet of candy soon cloys.
+#经常吃糖果会很快倒胃口。
+
+pitiless: 英[ˈpɪtiləs] 美[ˈpɪtiləs]
+%adj. 冷酷的，无情的；无同情心的
+    the dictator's pitiless rule
+#独裁者无情的统治
+    Few people went out in the pitiless midday sun.
+#很少有人冒着正午的烈日出去。
+
+tusk: 英[tʌsk] 美[tʌsk]
+$n. 长牙；尖头，尖形物
+$vt. 以牙刺戳；以长牙掘
+%n. （Tusk）人名；（波）图斯克
+    It's illegal to smuggle elephants' tusks.
+#走私象牙是违法的。
+
+trounce: 英[traʊns] 美[traʊns]
+%vt. 痛打；严责；打败
+    She trounced her rivals in the election.
+#在举中她击败了所有对手。
+
+winkle: 英[ˈwɪŋk(ə)l] 美[ˈwɪŋk(ə)l]
+$n. 食用螺
+%v. 费劲取出，套出（信息等）
+    winkle truth out of sb.
+#从某人嘴里套出事实真相
+    The security services will go to any lengths to winkle out information.
+#安全部门会不遗余力地套取情报。
+
+cohesion: 英[kəʊˈhiːʒ(ə)n] 美[koʊˈhiːʒ(ə)n]
+%n. 凝聚力，团结；内聚力；（句子、文章等在语法或含义方面的）连贯，衔接
+    The lack of cohesion within the party lost them votes at election time.
+#政党内部缺乏凝聚力，所以他们在大选时失去了选票。
+
+leak: 英[liːk] 美[liːk]
+$v. 渗入，漏出；漏，渗漏；泄露，透露
+%n. 漏洞，裂缝；泄漏出的液体（或气体）；泄密；<俚>撒尿
+    If you suspect a gas leak, phone the emergency number.
+#如果你怀疑煤气泄漏，就拨打应急电话。
+
+parturition: 英[ˌpɑːtjuˈrɪʃn] 美[ˌpɑːrtʃəˈrɪʃ(ə)n]
+%n. 分娩，生产
+    the month of parturition
+#临产月
+    Did the parturition go well yesterday evening?
+#昨天晚上分娩顺利吗？
+
+dogmatism: 英[ˈdɒɡmətɪzəm] 美[ˈdɔːɡmətɪzəm]
+%n. 教条主义；独断，武断
+    We cannot allow dogmatism to stand in the way of progress.
+#我们不能让教条主义阻碍前进的步伐。
+
+curdle: 英[ˈkɜːd(ə)l] 美[ˈkɜːrd(ə)l]
+$vi. 凝固
+%vt. 使凝结
+    make one's blood curdle
+#使人毛骨悚然
+    Beat the eggs into the cake mixture carefully, so as not to curdle it.
+#小心地把蛋打人蛋糕的混合原料中，别让它凝结了。
+
+gaffe: 英[ɡæf] 美[ɡæf]
+$n. 失态；过失
+%n. （Gaffe）人名；（法）加夫
+    That was a bit of gaffe, starting to eat before everyone else had been served.
+#没有等到每个人的菜上好就开始吃起来，这真有点失态。
+
+wend: 英[wend] 美[wend]
+$vt. 走；前进
+$vi. 走；行
+%n. （Wend）人名；（德）文德
+    The thief then wended his way through the unlit back streets to the dock.
+#小偷随后穿过暗无灯光的后街绕到码头。
+
+traduce: 英[trəˈdjuːs] 美[trəˈduːs]
+%vt. 中伤；诽谤；背叛
+    Clark claimed that he had been traduced by the press.
+#克拉克声称他遭到新闻界的诽谤。
+
+vicissitudinous: 英[vɪsɪsɪˈtjuːdɪnəs] 美[vəˈsɪsəˌtuːdnəs]
+%adj. 变迁的；有变化的；有盛衰的
+    Simultaneously, the development of complex dramas is constant and vicissitudinous. As the carrier of the spirit of literati, complex dramas present the tracks of their mood.
+#同时，杂剧的发展是连续而有变化的，作为剧作家精神的载体，能够呈现出文人心态变化的轨迹。
+
+scud: 英[skʌd] 美[skʌd]
+$n. 飞毛腿；疾行；飘飞的云
+%vi. 疾行；顺风行驶
+    It was a windy day, and small white clouds were scudding across the blue sky.
+#这是一个有风的日子，小片白云在蓝天上迅速飘过。
+
+gutless: 英[ˈɡʌtləs] 美[ˈɡʌtləs]
+%adj. 无胆量的；没勇气的；没有生气的
+    a gutless soldier
+#懦弱的士兵
+
+magniloquent: 英[mæɡˈnɪləkwənt] 美[mæɡˈnɪləkwənt]
+%adj. 夸张的；说大话的
+    He is bent on the choice of magniloquent phrases.
+#他专门选夸张的措辞。
+
+potboiler: 英[ˈpɒtbɔɪlə(r)] 美[ˈpɑːtbɔɪlər]
+%n. 为营利而粗制滥造的（艺术或文学）作品
+    Her most recent book was dismissed by critics as little more than a romantic potboiler.
+#她刚出的书被批评家贬作粗制的言情作品。
+
+boding: 英[ˈbəʊdɪŋ] 美[ˈboʊdɪŋ]
+$n. 预感；凶兆；前兆
+$adj. 凶兆的，预兆的
+%n. （Boding）人名；（瑞典）博丁
+    a boding of disaster
+#灾难的先兆
+
+demarcate: 英[ˈdiːmɑːkeɪt] 美[ˈdiːmɑːrkeɪt]
+%vt. 划分界线；区别
+    a border demarcated by a river
+#以河流为界的国界
+
+opulence: 英[ˈɒpjələns] 美[ˈɑːpjələns]
+%n. 富裕；丰富
+    She lived in great opulence. 
+#她的生活非常奢侈。
+
+resigned: 英[rɪˈzaɪnd] 美[rɪˈzaɪnd]
+$adj. 顺从的；已辞职的；己放弃的
+%v. 辞职；顺从（resign 的过去分词）
+    a resigned government official
+#辞职的政府官员
+    with a resigned air
+#带着一种屈从的神态
+
+everlasting: 英[ˌevəˈlɑːstɪŋ] 美[ˌevərˈlæstɪŋ]
+%adj. 永恒的；接连不断的
+    believe in everlasting life
+#相信永生
+    the zone of everlasting snow
+#常年下雪带
+    from everlasting
+#开天辟地以来
+    These tyres are advertised as being everlasting.
+#广告说这些轮胎经久耐用。
+
+corporeal: 英[kɔːˈpɔːriəl] 美[kɔːrˈpɔːriəl]
+%adj. 物质的，有形的；肉体的
+    corporeal property
+#有形财产
+    Food and drink are corporeal needs.
+#食物和饮料是身体的必需品。
+
+overriding: 英[ˌəʊvəˈraɪdɪŋ] 美[ˌoʊvərˈraɪdɪŋ]
+$adj. 高于一切的，最重要的；在……之上延伸的
+%v. 不顾；践踏；压垮（override 的现在分词）
+    an overriding need
+#压倒一切的需要
+    an overriding issue
+#首要问题
+
+zealotry: 英[ˈzelətri] 美[ˈzelətri]
+%n. 狂热的行为；狂言；狂热
+    political and religious zealotry
+#政治和宗教狂热
+    zealotic
+#狂热的
+
+pother: 英[ˈpɒðə(r)] 美[ˈpɑːðər]
+$n. 喧扰，骚动；烦恼
+$vt. 使烦恼，使困扰
+%vi. 烦恼；忙乱
+    The children are making a great pother about the picnic.
+#孩子们正在为野餐的事吵吵嚷嚷。
+
+beholden: 英[bɪˈhəʊldən] 美[bɪˈhoʊldən]
+%adj. 负有义务的；蒙恩的；对……表示感谢的
+    We are much beholden to you for your help.
+#对于你的帮助，我们不胜感激。
+
+obtrude: 英[əbˈtruːd] 美[əbˈtruːd]
+$vt. 逼使；强迫；冲出
+%vi. 打扰；闯入；强加于人
+    obtrude one's opinion on others
+#把意见强加于人
+    Music from the next room obtruded upon his thoughts.
+#隔壁的音乐声打扰了他的思绪。
+
+perforate: 英[ˈpɜːfəreɪt] 美[ˈpɜːrfəreɪt]
+$vt. 穿孔于，打孔穿透；在……上打齿孔
+%vi. 穿过，贯穿；穿孔
+    perforate a wooden box
+#在木箱上开孔
+    He perforated his opponent's shield.
+#他刺穿了对手的盾。
+
+hone: 英[həʊn] 美[hoʊn]
+$v. 磨练，训练（尤指技艺）；磨（刀、剑等）；导向，朝向（hone in on）；渴望；发牢骚
+%n. 磨刀石
+    hone a razor
+#磨快剃刀
+    hone one's artistic skills
+#磨砺技艺
+    hone for a simple life
+#渴望简朴的生活
+
+niggling: 英[ˈnɪɡlɪŋ] 美[ˈnɪɡlɪŋ]
+$adj. 为琐事操心的；过于精细的；琐碎的
+$n. 过于琐碎的工作；无关紧要的事
+%v. 挑剔（niggle 的 ing 形式）
+    a niggling difference
+#细微差别
+    a niggling task
+#琐碎的工作
+
+ersatz: 英[ˈeəzæts] 美[ˈersɑːts]
+$adj. 代用的；人造的；假的
+%n. 代用品；仿制品
+    ersatz coffee
+#代用咖啡
+    ersatz material
+#代用材料
+
+fallibility: 英[ˌfæləˈbɪləti] 美[ˌfæləˈbɪləti]
+%n. 易误；不可靠；出错性
+    the fallibility of human perceptions
+#人的感观的不可靠性
+
+odoriferous: 英[ˌəʊdərˈɪfərəs] 美[ˌoʊdərˈɪfərəs]
+%adj. 臭的，散发气味的；芬芳的
+    The rose is an odoriferous flower.
+#玫瑰花带有香味。
+
+jibe: 英[dʒaɪb] 美[dʒaɪb]
+$vt. 嘲笑；嘲弄；<口>符合；相一致；
+$vi. （=gibe）讥笑﹑ 嘲弄
+$n. 嘲弄; 嘲讽
+%v. (=gybe) 顺风时将船帆自一舷转向另一舷以改变方向.
+    The report does not jibe with the facts.
+#报告与事实不符。
+
+natal: 英[ˈneɪt(ə)l] 美[ˈneɪt(ə)l]
+$adj. 出生的；诞生的；分娩的；出生地的
+%n. （Natal）人名；（英、法、西、葡）纳塔尔
+    one's natal place
+#出生地
+    one's natal and acquired abilities
+#先天和后天的能力
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

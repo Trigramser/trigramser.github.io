@@ -1,0 +1,755 @@
+<<<<<<< HEAD
+impropriety: 英[ˌɪmprəˈpraɪəti] 美[ˌɪmprəˈpraɪəti]
+%n. 不适当；不正确；用词错误；[审计] 不正当行为
+    She denied the allegations of financial impropriety.
+#她否认了经济方面有不正当行为的指控。
+
+intensification: 英[ɪnˌtensɪfɪˈkeɪʃ(ə)n] 美[ɪnˌtensɪfɪˈkeɪʃ(ə)n]
+%n. 强化；加剧；激烈化；增强明暗度
+    the intensification of the crisis
+#危机的加剧
+
+chronological: 英[ˌkrɒnəˈlɒdʒɪk(ə)l] 美[ˌkrɑːnəˈlɑːdʒɪk(ə)l]
+%adj. 按发生时间顺序排列的；（年龄）按时间计算的
+    Give me the dates in chronological order.
+#把日期按时间顺序给我。
+
+antedate: 英[ˈæntideɪt] 美[ˈæntideɪt]
+$vt. 先于；前于
+%n. 比实际提前的日期
+    antedate a letter by three days
+#把信件的日期提早填3天
+    His biographical work antedates all his novels.
+#他的传记作品先于他所有的小说出版。
+
+ratify: 英[ˈrætɪfaɪ] 美[ˈrætɪfaɪ]
+%v. 批准，正式签署
+    The decision will have to be ratified by the executive board.
+#该决策须经执行委员会批准。
+
+pensive: 英[ˈpensɪv] 美[ˈpensɪv]
+%adj. 沉思的，忧郁的；悲伤的，哀愁的
+    in a pensive mood
+#忧心忡忡
+    the pensive shade of the ruins
+#废墟呈现出凄凉的色调
+    She became withdrawn and pensive, hardly speaking to anyone.
+#她变得孤僻忧虑，几乎不和任何人说话。
+
+drizzly: 英[ˈdrɪzli] 美[ˈdrɪzli]
+%adj. 下毛毛雨的，毛毛雨似的
+    It was a gray drizzly afternoon.
+#这是一个阴沉的、细雨蒙蒙的下午。
+
+architectural: 英[ˌɑːkɪˈtektʃərəl] 美[ˌɑːrkɪˈtektʃərəl]
+%adj. 建筑学的，建筑方面的；与建筑物相似的；
+    architectural drawings
+#建筑图纸
+    a building of architectural interest
+#具有建筑学价值的大厦
+
+ultimately: 英[ˈʌltɪmətli] 美[ˈʌltɪmətli]
+%adv. 最终，最后；根本上，最重要地
+    Everything will ultimately depend on what is said at the meeting with the directors next week.
+#一切最终都将取决于下周在会上和董事的讨论。
+
+remote: 英[rɪˈməʊt] 美[rɪˈmoʊt]
+$adj. 边远的，偏僻的；（距离或空间上）遥远的；（时间上）久远的；（机会或可能性）渺茫的；差别很大的，很不相同的；不友好的，冷漠的；远亲关系的；（电子设备）遥控的；（计算机）远程的，远程连接的
+%n. 遥控装置，遥控器
+    the remotest corners of the earth
+#天涯海角
+    the remote future
+#久远的未来
+    a remote relative
+#远亲
+    with a remote air
+#带着超然的神情
+    a remote computer
+#远程计算机
+    I have not the remotest idea of what you mean.
+#你的意思我一点也不明白。
+
+regale: 英[rɪˈɡeɪl] 美[rɪˈɡeɪl]
+$v. （以讲故事或笑话的方式）取悦；（用食物）款待；饱餐，尽情享用
+%n. 饕餮盛宴；佳肴
+    regale oneself on cream cakes
+#津津有味地吃奶油蛋糕
+    He regaled them with stories of his youth.
+#他讲述自己青年时代的见闻，让他们听得津津有味。
+
+emblematic: 英[ˌembləˈmætɪk] 美[ˌembləˈmætɪk]
+%adj. 象征的；可当标志的
+    A sword is emblematic of power gained by violence.
+#剑象征着用暴力获得的权力。
+
+braggart: 英[ˈbræɡət] 美[ˈbræɡərt]
+$n. 吹嘘；好自夸者；大言者
+%adj. 吹牛的；自夸的
+    The braggart said that he had never been beaten.
+#那个吹牛者说他从没被打败过。
+
+wordy: 英[ˈwɜːdi] 美[ˈwɜːrdi]
+%adj. 冗长的；口头的；唠叨的；文字的
+    As usual he gave a reply which was wordy and didn't answer the question.
+#像往常一样，他写了封啰唆冗长的回信，却没有回答这个问题。
+
+inferable: 英[ɪnˈfɜːrəb(ə)l] 美[ɪnˈfɜːrəb(ə)l]
+%adj. 能推论的；能推理的
+    reasons inferable from the map
+#可以从地图上推断出的一些理由
+
+infernal: 英[ɪnˈfɜːn(ə)l] 美[ɪnˈfɜːrn(ə)l]
+%adj. 地狱的；恶魔的；可憎的
+    infernal weather
+#糟透的天气
+    He described a journey through the infernal world.
+#他描绘了穿越阴间世界的历程。
+
+nubile: 英[ˈnjuːbaɪl] 美[ˈnuːb(ə)l]
+$adj. 适婚的
+%n. （Nubile）人名；（意）努比莱
+    a nubile actress
+#性感女演员
+    He likes to be surrounded by nubile young women.
+#他喜欢身边围着妙龄女郎。
+
+fraternity: 英[frəˈtɜːnəti] 美[frəˈtɜːrnəti]
+%n. （团体成员间的）情谊，兄弟般友谊；（有着相同职业、兴趣等的）群体，同仁；（美国男大学生的）联谊会， 兄弟会；博爱，友爱
+    liberty, equality and fraternity
+#自由、平等、博爱
+    He described sports as a means of promoting fraternity between nations.
+#他将体育运动描述为促进各民族间情谊的途径。
+
+unrepresentative: 英[ˌʌnˌreprɪˈzentətɪv] 美[ˌʌnˌreprɪˈzentətɪv]
+%adj. 非代表性的，不典型的
+    an unrepresentative case
+#非典型的案件
+
+unfertilized: 英[ʌnˈfɜːtɪˌlaɪzd] 美[ˌʌnˈfɜːrtəlaɪzd]
+%adj. 未施肥的；土地不肥沃的；未受精的（unfertilised 的美式拼写）
+    unfertilized field
+#未施肥的田地
+
+discomfit: 英[dɪsˈkʌmfɪt] 美[dɪsˈkʌmfɪt]
+%vt. 挫败；扰乱，破坏；使……为难；使……破灭
+    He is interviewed rarely and clearly finds it a discomfiting experience.
+#他很少被采访，清楚地感到这是叫人不舒服的经历。
+
+beleaguer: 英[bɪˈliːɡə(r)] 美[bɪˈliːɡər]
+%v. 包围，围攻；使处于困境，困扰
+    be beleaguered by problems
+#为成堆的问题所困扰
+    beleaguer a city
+#围困一座城市
+    It is a financially beleaguered university.
+#这是所财政上处于困境的大学。
+
+avaricious: 英[ˌævəˈrɪʃəs] 美[ˌævəˈrɪʃəs]
+%adj. 贪婪的；贪得无厌的
+    The employees of the avaricious tycoon were overworked and underpaid.
+#在那个贪得无厌的商业巨头手下工作的雇员拼命干活却得不到应有的报酬。
+
+corrosive: 英[kəˈrəʊsɪv] 美[kəˈroʊsɪv]
+$adj. 腐蚀的；侵蚀性的
+%n. 腐蚀物
+    corrosive influence
+#恶劣的影响
+    launch a corrosive attack on
+#对……进行恶毒攻击
+    His corrosive jealousy ruined their relationship.
+#他恶意的妒忌毁了他们的关系。
+
+exorcise: 英[ˈeksɔːsaɪz] 美[ˈeksɔːrsaɪz]
+%vt. 驱邪；除怪
+    exorcise the house
+#给房子驱邪
+    exorcise feelings of guilt
+#消除内疚感
+    exorcise guilt with work
+#用工作赎罪
+    It will take a long time to exorcise the memory of the accident.
+#需要很长时间才能消除对这次事故的记忆。
+
+debauch: 英[dɪˈbɔːtʃ] 美[dɪˈbɑːtʃ]
+$vt. 使堕落；使颓废
+$n. 放荡
+%vi. 放荡；诱使做不道德的事
+    His family were distressed by his increasingly debauched lifestyle.
+#他的家人为他日渐放荡的生活方式感到悲哀。
+
+opinionated: 英[əˈpɪnjəneɪtɪd] 美[əˈpɪnjəneɪtɪd]
+%adj. 固执己见的；武断的
+    The boss is too opinionated to listen to anyone else.
+#头儿太固执己见，听不进别人的意见。
+
+umbrage: 英[ˈʌmbrɪdʒ] 美[ˈʌmbrɪdʒ]
+%n. 不快，生气；树荫；怀疑
+    The Pope himself took great umbrage at the book.
+#教皇本人对这本书极为生气。
+
+nonplus: 英[nɒnˈplʌs] 美[nɑːnˈplʌs]
+$v. （使）惊讶，迷惑
+%n. 惊讶，困惑
+    be at a nonplus
+#进退维谷
+    put/reduce sb. to a nonplus
+#使某人为难
+    He was nonplused by the sudden announcement.
+#这突然宣布的消息使他不知所措。
+
+unavoidable: 英[ˌʌnəˈvɔɪdəb(ə)l] 美[ˌʌnəˈvɔɪdəb(ə)l]
+%adj. 不可避免的；不能废除的
+    It was an unavoidable accident because of bad weather.
+#这是一场恶劣天气导致的不可避免的事故。
+
+propitious: 英[prəˈpɪʃəs] 美[prəˈpɪʃəs]
+%adj. 适合的；吉利的；顺利的
+    propitious winds
+#顺风
+    a propitious omen
+#吉兆
+    The business contract is propitious to both sides.
+#这份商业合同对双方都有利。
+
+rekindle: 英[ˌriːˈkɪnd(ə)l] 美[ˌriːˈkɪnd(ə)l]
+$vi. 重新点燃
+%vt. 重新点燃；再点火
+    rekindle pride
+#重新激发自豪感
+    rekindle hope
+#重新点燃希望
+    Pour more water on the embers in case they rekindle.
+#多倒些水在余烬上，以防死灰复燃。
+
+unfettered: 英[ʌnˈfetəd] 美[ʌnˈfetərd]
+$adj. 无拘无束的；被除去脚镣的
+%v. 解开脚链；使自由，解放（unfetter 的过去式和过去分词）
+    live a gay unfettered life
+#过无忧无虑的生活
+
+ferromagnetic: 英[ˌferəʊmæɡˈnetɪk] 美[ˌferoʊmæɡˈnetɪk]
+%adj. [物] 铁磁的；铁磁体
+    Materials which have magnetic properties similar to iron are ferromagnetic. 
+#具有类似于铁那样的磁性的材料就是铁磁物质。
+
+antithesis: 英[ænˈtɪθəsɪs] 美[ænˈtɪθəsɪs]
+%n. 对立面，形成对照的事物；（二者间的）对比，对照；对仗；（黑格尔哲学用语）反题
+    the antithesis of theory and fact
+#理论与实际的对照
+    Their solution to the problem was in complete antithesis to mine.
+#他们对这个问题的解决方案与我的恰恰相反。
+
+impugn: 英[ɪmˈpjuːn] 美[ɪmˈpjuːn]
+%vt. 指责，非难；抨击；反驳；对…表示怀疑
+    His personal integrity, ability and intelligence are impugned by none.
+#对他个人的正直、能力和智力无人表示怀疑。
+
+sequester: 英[sɪˈkwestə(r)] 美[sɪˈkwestər]
+%vt. 使隔绝；使隐退；没收，扣押
+    The police continued to sequester arms and ammunition.
+#警方继续没收武器和弹药。
+
+awe-inspiring: 英[ˈɔː ɪnspaɪərɪŋ] 美[ˈɔː ɪnspaɪərɪŋ]
+%adj. 使人敬畏的；令人惊叹的
+    an awe-inspiring cathedral
+#使人产生敬畏之心的大教堂
+    Her knowledge of computers is quite awe-inspiring.
+#她渊博的电脑知识令人惊叹。
+
+glandular: 英[ˈɡlændʒələ(r)] 美[ˈɡlændʒələr]
+%adj. 腺的，腺状的
+    the almost glandular instinct for adventure
+#几乎是天生的冒险本能
+
+parsimony: 英[ˈpɑːsɪməni] 美[ˈpɑːrsɪmoʊni]
+%n. 吝啬；过度节俭
+    For reasons of parsimony she used half the recommended number of eggs in the recipe.
+#出于节省的原因，她做这个菜用的鸡蛋只是推荐的一半。
+
+shallowness: 英[ˈʃæləʊnəs] 美[ˈʃæloʊnəs]
+%n. 浅；肤浅
+    Because of the shallowness of the water, we could see the fish in it very clearly.
+#因为水很浅，所以我们能清楚地看到里面的鱼。
+
+bellicose: 英[ˈbelɪkəʊs] 美[ˈbelɪkoʊs]
+%adj. 好战的；好斗的
+    a bellicose nation
+#好战的国家
+    a person with a bellicose disposition
+#好斗成性的人
+
+unliterary: 英[ʌnˈlɪtərəri] 美[ʌnˈlɪtərəri]
+%adj. 缺乏文学知识的；非书面的，非文学语言的
+    unliterary books
+#非文学类书籍
+
+attune: 英[əˈtjuːn] 美[əˈtuːn]
+%vt. 使协调；使合拍；为……调音；调合波长
+    attune oneself to living in America
+#使自己适应美国的生活
+    old methods not attuned to the times
+#同时代不合拍的老办法
+    These workers are so attuned to their job that they can do them almost without thinking.
+#这些工人对工作已得心应手，不假思索就能去干。
+
+revile: 英[rɪˈvaɪl] 美[rɪˈvaɪl]
+$vt. 辱骂；斥责
+%vi. 辱骂；谩骂
+    They were reviled as extremists.
+#他们被斥责为极端主义分子。
+
+nonchalant: 英[ˈnɒnʃələnt] 美[ˌnɑːnʃəˈlɑːnt]
+%adj. 冷淡的，漠不关心的
+    a nonchalant attitude
+#冷淡的态度
+    act nonchalant
+#故作冷淡
+
+upstage: 英[ˌʌpˈsteɪdʒ] 美[ˌʌpˈsteɪdʒ]
+$vt. 抢……镜头；使相形见绌
+$adj. 自负的；在舞台后部的
+$adv. 在舞台后方
+%n. 舞台后部
+    walk upstage
+#走向舞台后部
+    She wasn't the least upstage about it.
+#关于此事，她一点也没有傲慢的态度了。
+
+egregious: 英[ɪˈɡriːdʒiəs] 美[ɪˈɡriːdʒiəs]
+%adj. 惊人的；过分的；恶名昭彰的
+    an egregious need
+#急切的需求
+    an egregious folly
+#极大的蠢事
+    It was an egregious error for a statesman to show such ignorance.
+#一个政治家表现出如此的无知是一个极大的过失。
+
+unscathed: 英[ʌnˈskeɪðd] 美[ʌnˈskeɪðd]
+%adj. 未受伤的
+    He emerged from the war, not unscathed.
+#战争结束了，多少给他留下了一些创伤。
+
+dissonant: 英[ˈdɪsənənt] 美[ˈdɪsənənt]
+%adj. 刺耳的；不谐和的；不调和的
+    clamor of dissonant and loud voices
+#又刺耳又嘈杂的喧嚷
+    They have dissonant views on the subject.
+#他们对这一问题有种种不一致的看法。
+
+amble: 英[ˈæmb(ə)l] 美[ˈæmb(ə)l]
+$vi. （马）缓行；从容漫步
+$n. （马的）缓行步态；漫步
+%n. （Amble）人名；（瑞典、挪）安布勒
+    amble along the path
+#沿着小径漫步
+    A brook ambled under an arched bridge.
+#一条小溪在拱桥下缓缓流过。
+
+synthesis: 英[ˈsɪnθəsɪs] 美[ˈsɪnθəsɪs]
+%n. 综合，综合体；（化学物质的）合成；音响合成；（黑格尔哲学中的）合题；（语法）合成；（语言学）综合
+    Plants need sunlight for the synthesis of their food from carbon dioxide and water.
+#植物需要阳光才能将二氧化碳和水合成养料。
+
+stagnate: 英[stæɡˈneɪt] 美[ˈstæɡneɪt]
+%v. 停滞，不发展，不进步；因不流动而变得污浊；使淤塞，使沉滞，使萧条
+    The economy stagnated as a result of these tax measures.
+#这些税收办法造成经济发展停滞。
+
+commingle: 英[kəˈmɪŋɡ(ə)l] 美[kəˈmɪŋɡ(ə)l]
+$vt. 使混合；掺和
+%vi. 混合
+    savage ridicule commingled with resentment
+#夹杂有怨恨的疯狂奚落
+    commingle accounts
+#合并账目
+
+extravagance: 英[ɪkˈstrævəɡəns] 美[ɪkˈstrævəɡəns]
+%n. 挥霍，浪费；奢侈品；奢华，富丽堂皇；过分，过度
+    love one's children with extravagance
+#溺爱孩子
+    I spend my money carefully and avoid these extravagances.
+#我谨慎用钱，避免铺张浪费。
+
+appal: 英[əˈpɔːl] 美[əˈpɔːl]
+%v. 使恐惧，使憎恶，使大为震惊
+    She was appalled to find that the river had risen to the doorstep.
+#她发现河水已涨到门口，惊恐万分。
+
+=======
+impropriety: 英[ˌɪmprəˈpraɪəti] 美[ˌɪmprəˈpraɪəti]
+%n. 不适当；不正确；用词错误；[审计] 不正当行为
+    She denied the allegations of financial impropriety.
+#她否认了经济方面有不正当行为的指控。
+
+intensification: 英[ɪnˌtensɪfɪˈkeɪʃ(ə)n] 美[ɪnˌtensɪfɪˈkeɪʃ(ə)n]
+%n. 强化；加剧；激烈化；增强明暗度
+    the intensification of the crisis
+#危机的加剧
+
+chronological: 英[ˌkrɒnəˈlɒdʒɪk(ə)l] 美[ˌkrɑːnəˈlɑːdʒɪk(ə)l]
+%adj. 按发生时间顺序排列的；（年龄）按时间计算的
+    Give me the dates in chronological order.
+#把日期按时间顺序给我。
+
+antedate: 英[ˈæntideɪt] 美[ˈæntideɪt]
+$vt. 先于；前于
+%n. 比实际提前的日期
+    antedate a letter by three days
+#把信件的日期提早填3天
+    His biographical work antedates all his novels.
+#他的传记作品先于他所有的小说出版。
+
+ratify: 英[ˈrætɪfaɪ] 美[ˈrætɪfaɪ]
+%v. 批准，正式签署
+    The decision will have to be ratified by the executive board.
+#该决策须经执行委员会批准。
+
+pensive: 英[ˈpensɪv] 美[ˈpensɪv]
+%adj. 沉思的，忧郁的；悲伤的，哀愁的
+    in a pensive mood
+#忧心忡忡
+    the pensive shade of the ruins
+#废墟呈现出凄凉的色调
+    She became withdrawn and pensive, hardly speaking to anyone.
+#她变得孤僻忧虑，几乎不和任何人说话。
+
+drizzly: 英[ˈdrɪzli] 美[ˈdrɪzli]
+%adj. 下毛毛雨的，毛毛雨似的
+    It was a gray drizzly afternoon.
+#这是一个阴沉的、细雨蒙蒙的下午。
+
+architectural: 英[ˌɑːkɪˈtektʃərəl] 美[ˌɑːrkɪˈtektʃərəl]
+%adj. 建筑学的，建筑方面的；与建筑物相似的；
+    architectural drawings
+#建筑图纸
+    a building of architectural interest
+#具有建筑学价值的大厦
+
+ultimately: 英[ˈʌltɪmətli] 美[ˈʌltɪmətli]
+%adv. 最终，最后；根本上，最重要地
+    Everything will ultimately depend on what is said at the meeting with the directors next week.
+#一切最终都将取决于下周在会上和董事的讨论。
+
+remote: 英[rɪˈməʊt] 美[rɪˈmoʊt]
+$adj. 边远的，偏僻的；（距离或空间上）遥远的；（时间上）久远的；（机会或可能性）渺茫的；差别很大的，很不相同的；不友好的，冷漠的；远亲关系的；（电子设备）遥控的；（计算机）远程的，远程连接的
+%n. 遥控装置，遥控器
+    the remotest corners of the earth
+#天涯海角
+    the remote future
+#久远的未来
+    a remote relative
+#远亲
+    with a remote air
+#带着超然的神情
+    a remote computer
+#远程计算机
+    I have not the remotest idea of what you mean.
+#你的意思我一点也不明白。
+
+regale: 英[rɪˈɡeɪl] 美[rɪˈɡeɪl]
+$v. （以讲故事或笑话的方式）取悦；（用食物）款待；饱餐，尽情享用
+%n. 饕餮盛宴；佳肴
+    regale oneself on cream cakes
+#津津有味地吃奶油蛋糕
+    He regaled them with stories of his youth.
+#他讲述自己青年时代的见闻，让他们听得津津有味。
+
+emblematic: 英[ˌembləˈmætɪk] 美[ˌembləˈmætɪk]
+%adj. 象征的；可当标志的
+    A sword is emblematic of power gained by violence.
+#剑象征着用暴力获得的权力。
+
+braggart: 英[ˈbræɡət] 美[ˈbræɡərt]
+$n. 吹嘘；好自夸者；大言者
+%adj. 吹牛的；自夸的
+    The braggart said that he had never been beaten.
+#那个吹牛者说他从没被打败过。
+
+wordy: 英[ˈwɜːdi] 美[ˈwɜːrdi]
+%adj. 冗长的；口头的；唠叨的；文字的
+    As usual he gave a reply which was wordy and didn't answer the question.
+#像往常一样，他写了封啰唆冗长的回信，却没有回答这个问题。
+
+inferable: 英[ɪnˈfɜːrəb(ə)l] 美[ɪnˈfɜːrəb(ə)l]
+%adj. 能推论的；能推理的
+    reasons inferable from the map
+#可以从地图上推断出的一些理由
+
+infernal: 英[ɪnˈfɜːn(ə)l] 美[ɪnˈfɜːrn(ə)l]
+%adj. 地狱的；恶魔的；可憎的
+    infernal weather
+#糟透的天气
+    He described a journey through the infernal world.
+#他描绘了穿越阴间世界的历程。
+
+nubile: 英[ˈnjuːbaɪl] 美[ˈnuːb(ə)l]
+$adj. 适婚的
+%n. （Nubile）人名；（意）努比莱
+    a nubile actress
+#性感女演员
+    He likes to be surrounded by nubile young women.
+#他喜欢身边围着妙龄女郎。
+
+fraternity: 英[frəˈtɜːnəti] 美[frəˈtɜːrnəti]
+%n. （团体成员间的）情谊，兄弟般友谊；（有着相同职业、兴趣等的）群体，同仁；（美国男大学生的）联谊会， 兄弟会；博爱，友爱
+    liberty, equality and fraternity
+#自由、平等、博爱
+    He described sports as a means of promoting fraternity between nations.
+#他将体育运动描述为促进各民族间情谊的途径。
+
+unrepresentative: 英[ˌʌnˌreprɪˈzentətɪv] 美[ˌʌnˌreprɪˈzentətɪv]
+%adj. 非代表性的，不典型的
+    an unrepresentative case
+#非典型的案件
+
+unfertilized: 英[ʌnˈfɜːtɪˌlaɪzd] 美[ˌʌnˈfɜːrtəlaɪzd]
+%adj. 未施肥的；土地不肥沃的；未受精的（unfertilised 的美式拼写）
+    unfertilized field
+#未施肥的田地
+
+discomfit: 英[dɪsˈkʌmfɪt] 美[dɪsˈkʌmfɪt]
+%vt. 挫败；扰乱，破坏；使……为难；使……破灭
+    He is interviewed rarely and clearly finds it a discomfiting experience.
+#他很少被采访，清楚地感到这是叫人不舒服的经历。
+
+beleaguer: 英[bɪˈliːɡə(r)] 美[bɪˈliːɡər]
+%v. 包围，围攻；使处于困境，困扰
+    be beleaguered by problems
+#为成堆的问题所困扰
+    beleaguer a city
+#围困一座城市
+    It is a financially beleaguered university.
+#这是所财政上处于困境的大学。
+
+avaricious: 英[ˌævəˈrɪʃəs] 美[ˌævəˈrɪʃəs]
+%adj. 贪婪的；贪得无厌的
+    The employees of the avaricious tycoon were overworked and underpaid.
+#在那个贪得无厌的商业巨头手下工作的雇员拼命干活却得不到应有的报酬。
+
+corrosive: 英[kəˈrəʊsɪv] 美[kəˈroʊsɪv]
+$adj. 腐蚀的；侵蚀性的
+%n. 腐蚀物
+    corrosive influence
+#恶劣的影响
+    launch a corrosive attack on
+#对……进行恶毒攻击
+    His corrosive jealousy ruined their relationship.
+#他恶意的妒忌毁了他们的关系。
+
+exorcise: 英[ˈeksɔːsaɪz] 美[ˈeksɔːrsaɪz]
+%vt. 驱邪；除怪
+    exorcise the house
+#给房子驱邪
+    exorcise feelings of guilt
+#消除内疚感
+    exorcise guilt with work
+#用工作赎罪
+    It will take a long time to exorcise the memory of the accident.
+#需要很长时间才能消除对这次事故的记忆。
+
+debauch: 英[dɪˈbɔːtʃ] 美[dɪˈbɑːtʃ]
+$vt. 使堕落；使颓废
+$n. 放荡
+%vi. 放荡；诱使做不道德的事
+    His family were distressed by his increasingly debauched lifestyle.
+#他的家人为他日渐放荡的生活方式感到悲哀。
+
+opinionated: 英[əˈpɪnjəneɪtɪd] 美[əˈpɪnjəneɪtɪd]
+%adj. 固执己见的；武断的
+    The boss is too opinionated to listen to anyone else.
+#头儿太固执己见，听不进别人的意见。
+
+umbrage: 英[ˈʌmbrɪdʒ] 美[ˈʌmbrɪdʒ]
+%n. 不快，生气；树荫；怀疑
+    The Pope himself took great umbrage at the book.
+#教皇本人对这本书极为生气。
+
+nonplus: 英[nɒnˈplʌs] 美[nɑːnˈplʌs]
+$v. （使）惊讶，迷惑
+%n. 惊讶，困惑
+    be at a nonplus
+#进退维谷
+    put/reduce sb. to a nonplus
+#使某人为难
+    He was nonplused by the sudden announcement.
+#这突然宣布的消息使他不知所措。
+
+unavoidable: 英[ˌʌnəˈvɔɪdəb(ə)l] 美[ˌʌnəˈvɔɪdəb(ə)l]
+%adj. 不可避免的；不能废除的
+    It was an unavoidable accident because of bad weather.
+#这是一场恶劣天气导致的不可避免的事故。
+
+propitious: 英[prəˈpɪʃəs] 美[prəˈpɪʃəs]
+%adj. 适合的；吉利的；顺利的
+    propitious winds
+#顺风
+    a propitious omen
+#吉兆
+    The business contract is propitious to both sides.
+#这份商业合同对双方都有利。
+
+rekindle: 英[ˌriːˈkɪnd(ə)l] 美[ˌriːˈkɪnd(ə)l]
+$vi. 重新点燃
+%vt. 重新点燃；再点火
+    rekindle pride
+#重新激发自豪感
+    rekindle hope
+#重新点燃希望
+    Pour more water on the embers in case they rekindle.
+#多倒些水在余烬上，以防死灰复燃。
+
+unfettered: 英[ʌnˈfetəd] 美[ʌnˈfetərd]
+$adj. 无拘无束的；被除去脚镣的
+%v. 解开脚链；使自由，解放（unfetter 的过去式和过去分词）
+    live a gay unfettered life
+#过无忧无虑的生活
+
+ferromagnetic: 英[ˌferəʊmæɡˈnetɪk] 美[ˌferoʊmæɡˈnetɪk]
+%adj. [物] 铁磁的；铁磁体
+    Materials which have magnetic properties similar to iron are ferromagnetic. 
+#具有类似于铁那样的磁性的材料就是铁磁物质。
+
+antithesis: 英[ænˈtɪθəsɪs] 美[ænˈtɪθəsɪs]
+%n. 对立面，形成对照的事物；（二者间的）对比，对照；对仗；（黑格尔哲学用语）反题
+    the antithesis of theory and fact
+#理论与实际的对照
+    Their solution to the problem was in complete antithesis to mine.
+#他们对这个问题的解决方案与我的恰恰相反。
+
+impugn: 英[ɪmˈpjuːn] 美[ɪmˈpjuːn]
+%vt. 指责，非难；抨击；反驳；对…表示怀疑
+    His personal integrity, ability and intelligence are impugned by none.
+#对他个人的正直、能力和智力无人表示怀疑。
+
+sequester: 英[sɪˈkwestə(r)] 美[sɪˈkwestər]
+%vt. 使隔绝；使隐退；没收，扣押
+    The police continued to sequester arms and ammunition.
+#警方继续没收武器和弹药。
+
+awe-inspiring: 英[ˈɔː ɪnspaɪərɪŋ] 美[ˈɔː ɪnspaɪərɪŋ]
+%adj. 使人敬畏的；令人惊叹的
+    an awe-inspiring cathedral
+#使人产生敬畏之心的大教堂
+    Her knowledge of computers is quite awe-inspiring.
+#她渊博的电脑知识令人惊叹。
+
+glandular: 英[ˈɡlændʒələ(r)] 美[ˈɡlændʒələr]
+%adj. 腺的，腺状的
+    the almost glandular instinct for adventure
+#几乎是天生的冒险本能
+
+parsimony: 英[ˈpɑːsɪməni] 美[ˈpɑːrsɪmoʊni]
+%n. 吝啬；过度节俭
+    For reasons of parsimony she used half the recommended number of eggs in the recipe.
+#出于节省的原因，她做这个菜用的鸡蛋只是推荐的一半。
+
+shallowness: 英[ˈʃæləʊnəs] 美[ˈʃæloʊnəs]
+%n. 浅；肤浅
+    Because of the shallowness of the water, we could see the fish in it very clearly.
+#因为水很浅，所以我们能清楚地看到里面的鱼。
+
+bellicose: 英[ˈbelɪkəʊs] 美[ˈbelɪkoʊs]
+%adj. 好战的；好斗的
+    a bellicose nation
+#好战的国家
+    a person with a bellicose disposition
+#好斗成性的人
+
+unliterary: 英[ʌnˈlɪtərəri] 美[ʌnˈlɪtərəri]
+%adj. 缺乏文学知识的；非书面的，非文学语言的
+    unliterary books
+#非文学类书籍
+
+attune: 英[əˈtjuːn] 美[əˈtuːn]
+%vt. 使协调；使合拍；为……调音；调合波长
+    attune oneself to living in America
+#使自己适应美国的生活
+    old methods not attuned to the times
+#同时代不合拍的老办法
+    These workers are so attuned to their job that they can do them almost without thinking.
+#这些工人对工作已得心应手，不假思索就能去干。
+
+revile: 英[rɪˈvaɪl] 美[rɪˈvaɪl]
+$vt. 辱骂；斥责
+%vi. 辱骂；谩骂
+    They were reviled as extremists.
+#他们被斥责为极端主义分子。
+
+nonchalant: 英[ˈnɒnʃələnt] 美[ˌnɑːnʃəˈlɑːnt]
+%adj. 冷淡的，漠不关心的
+    a nonchalant attitude
+#冷淡的态度
+    act nonchalant
+#故作冷淡
+
+upstage: 英[ˌʌpˈsteɪdʒ] 美[ˌʌpˈsteɪdʒ]
+$vt. 抢……镜头；使相形见绌
+$adj. 自负的；在舞台后部的
+$adv. 在舞台后方
+%n. 舞台后部
+    walk upstage
+#走向舞台后部
+    She wasn't the least upstage about it.
+#关于此事，她一点也没有傲慢的态度了。
+
+egregious: 英[ɪˈɡriːdʒiəs] 美[ɪˈɡriːdʒiəs]
+%adj. 惊人的；过分的；恶名昭彰的
+    an egregious need
+#急切的需求
+    an egregious folly
+#极大的蠢事
+    It was an egregious error for a statesman to show such ignorance.
+#一个政治家表现出如此的无知是一个极大的过失。
+
+unscathed: 英[ʌnˈskeɪðd] 美[ʌnˈskeɪðd]
+%adj. 未受伤的
+    He emerged from the war, not unscathed.
+#战争结束了，多少给他留下了一些创伤。
+
+dissonant: 英[ˈdɪsənənt] 美[ˈdɪsənənt]
+%adj. 刺耳的；不谐和的；不调和的
+    clamor of dissonant and loud voices
+#又刺耳又嘈杂的喧嚷
+    They have dissonant views on the subject.
+#他们对这一问题有种种不一致的看法。
+
+amble: 英[ˈæmb(ə)l] 美[ˈæmb(ə)l]
+$vi. （马）缓行；从容漫步
+$n. （马的）缓行步态；漫步
+%n. （Amble）人名；（瑞典、挪）安布勒
+    amble along the path
+#沿着小径漫步
+    A brook ambled under an arched bridge.
+#一条小溪在拱桥下缓缓流过。
+
+synthesis: 英[ˈsɪnθəsɪs] 美[ˈsɪnθəsɪs]
+%n. 综合，综合体；（化学物质的）合成；音响合成；（黑格尔哲学中的）合题；（语法）合成；（语言学）综合
+    Plants need sunlight for the synthesis of their food from carbon dioxide and water.
+#植物需要阳光才能将二氧化碳和水合成养料。
+
+stagnate: 英[stæɡˈneɪt] 美[ˈstæɡneɪt]
+%v. 停滞，不发展，不进步；因不流动而变得污浊；使淤塞，使沉滞，使萧条
+    The economy stagnated as a result of these tax measures.
+#这些税收办法造成经济发展停滞。
+
+commingle: 英[kəˈmɪŋɡ(ə)l] 美[kəˈmɪŋɡ(ə)l]
+$vt. 使混合；掺和
+%vi. 混合
+    savage ridicule commingled with resentment
+#夹杂有怨恨的疯狂奚落
+    commingle accounts
+#合并账目
+
+extravagance: 英[ɪkˈstrævəɡəns] 美[ɪkˈstrævəɡəns]
+%n. 挥霍，浪费；奢侈品；奢华，富丽堂皇；过分，过度
+    love one's children with extravagance
+#溺爱孩子
+    I spend my money carefully and avoid these extravagances.
+#我谨慎用钱，避免铺张浪费。
+
+appal: 英[əˈpɔːl] 美[əˈpɔːl]
+%v. 使恐惧，使憎恶，使大为震惊
+    She was appalled to find that the river had risen to the doorstep.
+#她发现河水已涨到门口，惊恐万分。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

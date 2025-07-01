@@ -1,0 +1,727 @@
+<<<<<<< HEAD
+bridle:
+    saddle and bridle the horse
+#给马装上马鞍和笼头
+    draw the bridle
+#勒马
+    wear a bridle
+#套着马笼头
+    bridle on sb.'s power
+#抑制某人的权力
+    bridle one's rage
+#制怒
+    She bridled at the suggestion that she had been dishonest.
+#有人暗示她不诚实，这使她大为气恼。
+
+backslide:
+    So far none of the reformed drinkers has backslid.
+#迄今这些改过自新的酒徒之中没有一个重染恶习的。
+
+gruesome:
+    the gruesome details of murder
+#令人毛骨然的谋杀细节
+
+straggle:
+    straggle down the hill
+#三三两两地下山
+    straggling branches
+#蔓生的枝条
+    a man with a straggle of beard
+#胡子蓬乱的人
+    straggling weeds
+#蔓生的杂草
+    houses straggling down the hillside
+#散落在山坡上的房子
+    A straggle of crumbing buildings is all that remains of this hillside village.
+#一些散乱的摇摇欲坠的建筑便是这个山村留下的一切。
+
+scrawl:
+    scrawl a note
+#草草写一张纸条
+    scrawl handwriting
+#潦草的字迹
+    I tried to read his directions, scrawled on a piece of paper.
+#我尽量弄明白他草草写在一片纸上的指示。
+
+finale:
+    a grand finale to the delicious meal
+#最后一道佳肴
+    All the dancers came on the stage during the grand finale.
+#所有舞蹈演员在盛大的最后一幕里都来到了舞台上。
+
+liquidate:
+    liquidate the national debt
+#偿清国债
+    liquidate a partnership
+#断绝合伙关系
+    Without government assistance the bank will have to liquidate.
+#如果没有政府援助的话，这家银行将不得不破产清算。
+
+grate:
+    grate the cheese
+#把干酪磨碎
+    grate the carrot
+#把胡萝卜切成丝
+    grate an angry reply
+#用刺耳的声音怒冲冲地回答
+    terrible grating sound
+#可怕的刺耳声
+    The man's rude manners and loud voice really started to grate on me.
+#那男人的粗野举止和大嗓门真的开始让我烦了。
+
+delve:
+    delve deep into one's past
+#深究一个人的过去
+    delve many libraries for a book
+#从多家图书馆查找一本书
+    delve into one's pocket
+#在口袋中摸索
+    She was tired of journalists digging and delving into her private life.
+#她厌倦了新闻记者对她的私生活的创根问底。
+
+flack:
+    dive through heavy flack fire
+#在猛烈的高射炮火力中俯冲下去
+    take the flack
+#接受批评
+    The government's proposal to change tax rate has run into/come into/received a lot of flack.
+#政府有意改变税收的提议已经引起了许多押击。
+
+con:
+    argue a matter pro and con
+#从正反两个方面论问题
+    the pros and cons of a plan
+#一个计划的利弊
+    an appraisal of pros and cons
+#正反两个方面的评价
+    con by rote
+#死记硬背地学习
+    con sb. out of a lot of money
+#骗走某人的许多钱
+    You must weigh up all the pros and cons of the matter before you make a decision.
+#在你做决定之前，必须权衡这个问题的正反两个方面。
+
+vicarious:
+    vicarious punishment
+#代受惩罚
+    a vicarious agent
+#代替人
+    hope for vicarious satisfaction through one's children
+#希望通过孩子获得成功的满足
+    There's certain vicarious pleasure in reading books about travel.
+#阅读游记书籍有某种身临其境的乐趣。
+
+boo:
+    a chorus of boos
+#一阵嘘声
+    be booed off the stage
+#被轰下台
+    can't/wouldn't say boo to a goose
+#非常胆怯
+    He sang so badly that the audience booed him.
+#他唱得实在太糟，以至于听众向他喝倒彩。
+
+satanic:
+    the viciously satanic enemies of man
+#人类的凶敌人
+    see the with satanic anger
+#怒火中烧
+    satanic conditions of climate
+#糟透的气候条件
+    give a satanic smile
+#露出邪恶的奸笑
+    The candlelight showed his satanic features.
+#烛光照出他那恶魔般的嘴脸。
+
+taciturn:
+    a brooding and taciturn man
+#忧心忡忡又沉默寡言的人
+    He was a reserved, taciturn person when I first met him two years ago.
+#两年前我刚见到他时，他是个矜持而沉默的人。
+
+blare:
+    the deafening blare of car horns
+#震耳欲聋的汽车喇叭声
+    the blare of a brass
+#铜管乐器的吹奏声
+    blare out
+#大声发出，大声响起
+    blare out loud music
+#播放嘈杂的音乐
+    A blare of light flooded the room as she opened the shutters.
+#她打开百叶窗，房间里酒进耀眼的阳光。
+
+gaunt:
+    a gaunt face
+#憔悴的脸
+    a gaunt place
+#荒凉的地方
+    The house looked gaunt and unwelcoming.
+#这房子看上去很荒凉，让人望而却步。
+
+teeter:
+    teeter down the road
+#蹒跚地走在路上
+    teeter on a decision
+#做决定犹豫不决
+    teeter on the brink/edge
+#面临危险，如临深渊
+    The ladder dangerously teetered and I nearly fell over.
+#梯子危险地摇晃起来，我差点摔下来。
+
+vicar:
+    They were married by their local vicar.
+#他们是由教区牧师主持结婚的。
+
+vernal:
+    vernal breeze
+#春风
+    vernal migration
+#春季迁徙
+    vernal green
+#春大的翠绿
+    the vernal equinox
+#春分
+    The vernal radiance of her smile captivated us all.
+#她那充满青春活力的微笑把我们大家都迷住了。
+
+heady:
+    the heady experience of first love
+#令人陶醉的初恋经历
+    give a heady opinion
+#发表轻率的意见;
+    a heady tempest
+#狂风暴雨
+    a heady wine
+#容易上头的酒
+    heady new prospects
+#令人陶醉的新前景
+    feel thick and heady
+#感到头昏脑胀
+    be heady with success
+#因成功而飘飘然
+    be heady with the aroma of perfumes
+#充满了香水味
+    In their heady days of youth they thought anything was possible.
+#在他们鲁莽的年轻时代，他们认为一切都是可能的。
+
+swagger:
+    swagger into the office
+#大摇大摆地走进办公室
+    swaggering self-confidence
+#狂妄自大
+    swagger about one's exploits
+#吹嘘自己的业绩
+    walk with a swagger
+#昂首阔步地走
+    He walked out of the room with a self-confident swagger.
+#他自鸣得意大摇大摆地走出房间。
+
+stupendous:
+    a stupendous achievement
+#惊人的成就
+    a young woman of stupendous beauty
+#美貌绝伦的年轻女子
+    stupendous scenes in nature
+#瑰丽的自然奇观
+    a stupendous feast
+#盛宴
+    a stupendous error
+#大错
+    Over the following year he ran up stupendous debts through his extravagant lifestyle.
+#在接下来一年里，他因生活极端奢侈而债台高筑。
+
+dire:
+    live in dire poverty
+#生活极度贫困
+    in dire need of help
+#急需帮助
+    dire consequences
+#严重后果
+    dire news
+#噩耗
+    dire days
+#惨淡的日子
+    dire predictions
+#不祥预言
+    in dire emergency
+#在最危急的关头
+    He gave a dire warning about the likelihood of there being an earthquake.
+#他提出了有地震可能性的可怕警告。
+
+hoax:
+    play a hoax on sb.
+#戏弄某人
+    hoax calls
+#恶作剧电话
+    The area was cleared of people but the telephone warning turned out to be a hoax.
+#该地区的人都被疏散了，但结果警告电话是个骗局。
+
+futility:
+    realize the futility of doing sth.
+#领悟到做某事是无用的
+    the futility of life
+#人生的空虚
+    He considers such things as parties and games as futilities.
+#他认为舞会和比赛这些事毫无意义。
+
+exhaustive:
+    conduct an exhaustive investigation
+#进行彻底调查
+    an exhaustive inventory
+#详尽的存货清单
+    an exhaustive study
+#详尽的研究
+    She made an exhaustive analysis of the new economic policy.
+#她对新经济政策做了透彻分析。
+
+bawl:
+    bawl at sb.
+#冲着某人大叫
+    bawl commands
+#大叫着发布命令
+    bawl one's head off
+#叫喊得声嘶力竭
+    bawl out
+#大叫，大声叫出
+    bawl sb. out for cutting school
+#因某人逃学而将其痛骂一顿
+    The hall was full of school children bawling the school song.
+#大厅里满是高唱校歌的孩子。
+
+stutter:
+    develop a little stutter
+#有点口吃
+    stutter out a reply
+#结结巴巴地说出回答
+    the stutter of the rain
+#滴滴答答的雨声
+    He stutters a bit, so let him finish what he's saying.
+#他有点口吃，所以让他把话说完。
+
+impale:
+    impale the meat on the fork
+#用叉子叉住肉
+    impale sb. on a dilemma
+#置某人于进退维谷的境地
+    The detective sat down facing John, his eyes impaling the young man.
+#侦探面对约翰坐下，犀利的目光逼视着这个年轻人。
+
+boggle:
+    boggle at a suggestion
+#对建议犹犹豫不决
+    boggle the mind
+#使人难以理解
+    The complexities of the functions of the human body boggle the imagination.
+#人体功能的复杂令人难以想象。
+
+drool:
+    drool over the prospect of promotion
+#对晋升的前景兴奋得不得了
+    drool over recipes for rich chocolate and desserts cakes
+#垂涎地读着做美味巧克力和甜点的食谱
+    drool over a green silk dress
+#垂涎地看着一条绿丝裙
+    She brought with her an enormous dog that lay drooling on the mat.
+#她带来一只大狗，那狗躺在垫子上流口水。
+
+dissemble:
+    Politicians frequently have to dissemble so as not to admit that mistakes have been made.
+#政客们不得不经常进行掩盖，免得承认已犯下错误。
+
+extradite:
+    He was arrested in India and extradited to America to stand trial for murder.
+#他在印度被捕，被引渡到美国以谋杀罪受审。
+
+arbitrate:
+    arbitrate in a dispute
+#对争端进行裁
+    arbitrate by default
+#缺席仲裁
+    arbitrate boundaries between the countries
+#裁决国与国之间的边界
+    An outside adviser has been brought in to arbitrate the opposing sides.
+#一位局外的调节者被请来给对立的双方进行仲裁。
+
+enshrine:
+    enshrine the image of the Buddha
+#供着佛像
+    be enshrined in law
+#受法律保护
+    A lot of memories are enshrined in this photograph album.
+#许多记忆铭刻在这部相册里。
+
+pervert:
+    accuse sb. of perverting youth
+#控告某人腐青年
+    pervert one's powers
+#滥用职权
+    pervert the course of justice
+#枉法
+    His original ideas have been shamelessly perverted by politicians for their own purposes.
+#他原始的想法被政客们无耻地为各自的目的歪曲了。
+
+=======
+bridle:
+    saddle and bridle the horse
+#给马装上马鞍和笼头
+    draw the bridle
+#勒马
+    wear a bridle
+#套着马笼头
+    bridle on sb.'s power
+#抑制某人的权力
+    bridle one's rage
+#制怒
+    She bridled at the suggestion that she had been dishonest.
+#有人暗示她不诚实，这使她大为气恼。
+
+backslide:
+    So far none of the reformed drinkers has backslid.
+#迄今这些改过自新的酒徒之中没有一个重染恶习的。
+
+gruesome:
+    the gruesome details of murder
+#令人毛骨然的谋杀细节
+
+straggle:
+    straggle down the hill
+#三三两两地下山
+    straggling branches
+#蔓生的枝条
+    a man with a straggle of beard
+#胡子蓬乱的人
+    straggling weeds
+#蔓生的杂草
+    houses straggling down the hillside
+#散落在山坡上的房子
+    A straggle of crumbing buildings is all that remains of this hillside village.
+#一些散乱的摇摇欲坠的建筑便是这个山村留下的一切。
+
+scrawl:
+    scrawl a note
+#草草写一张纸条
+    scrawl handwriting
+#潦草的字迹
+    I tried to read his directions, scrawled on a piece of paper.
+#我尽量弄明白他草草写在一片纸上的指示。
+
+finale:
+    a grand finale to the delicious meal
+#最后一道佳肴
+    All the dancers came on the stage during the grand finale.
+#所有舞蹈演员在盛大的最后一幕里都来到了舞台上。
+
+liquidate:
+    liquidate the national debt
+#偿清国债
+    liquidate a partnership
+#断绝合伙关系
+    Without government assistance the bank will have to liquidate.
+#如果没有政府援助的话，这家银行将不得不破产清算。
+
+grate:
+    grate the cheese
+#把干酪磨碎
+    grate the carrot
+#把胡萝卜切成丝
+    grate an angry reply
+#用刺耳的声音怒冲冲地回答
+    terrible grating sound
+#可怕的刺耳声
+    The man's rude manners and loud voice really started to grate on me.
+#那男人的粗野举止和大嗓门真的开始让我烦了。
+
+delve:
+    delve deep into one's past
+#深究一个人的过去
+    delve many libraries for a book
+#从多家图书馆查找一本书
+    delve into one's pocket
+#在口袋中摸索
+    She was tired of journalists digging and delving into her private life.
+#她厌倦了新闻记者对她的私生活的创根问底。
+
+flack:
+    dive through heavy flack fire
+#在猛烈的高射炮火力中俯冲下去
+    take the flack
+#接受批评
+    The government's proposal to change tax rate has run into/come into/received a lot of flack.
+#政府有意改变税收的提议已经引起了许多押击。
+
+con:
+    argue a matter pro and con
+#从正反两个方面论问题
+    the pros and cons of a plan
+#一个计划的利弊
+    an appraisal of pros and cons
+#正反两个方面的评价
+    con by rote
+#死记硬背地学习
+    con sb. out of a lot of money
+#骗走某人的许多钱
+    You must weigh up all the pros and cons of the matter before you make a decision.
+#在你做决定之前，必须权衡这个问题的正反两个方面。
+
+vicarious:
+    vicarious punishment
+#代受惩罚
+    a vicarious agent
+#代替人
+    hope for vicarious satisfaction through one's children
+#希望通过孩子获得成功的满足
+    There's certain vicarious pleasure in reading books about travel.
+#阅读游记书籍有某种身临其境的乐趣。
+
+boo:
+    a chorus of boos
+#一阵嘘声
+    be booed off the stage
+#被轰下台
+    can't/wouldn't say boo to a goose
+#非常胆怯
+    He sang so badly that the audience booed him.
+#他唱得实在太糟，以至于听众向他喝倒彩。
+
+satanic:
+    the viciously satanic enemies of man
+#人类的凶敌人
+    see the with satanic anger
+#怒火中烧
+    satanic conditions of climate
+#糟透的气候条件
+    give a satanic smile
+#露出邪恶的奸笑
+    The candlelight showed his satanic features.
+#烛光照出他那恶魔般的嘴脸。
+
+taciturn:
+    a brooding and taciturn man
+#忧心忡忡又沉默寡言的人
+    He was a reserved, taciturn person when I first met him two years ago.
+#两年前我刚见到他时，他是个矜持而沉默的人。
+
+blare:
+    the deafening blare of car horns
+#震耳欲聋的汽车喇叭声
+    the blare of a brass
+#铜管乐器的吹奏声
+    blare out
+#大声发出，大声响起
+    blare out loud music
+#播放嘈杂的音乐
+    A blare of light flooded the room as she opened the shutters.
+#她打开百叶窗，房间里酒进耀眼的阳光。
+
+gaunt:
+    a gaunt face
+#憔悴的脸
+    a gaunt place
+#荒凉的地方
+    The house looked gaunt and unwelcoming.
+#这房子看上去很荒凉，让人望而却步。
+
+teeter:
+    teeter down the road
+#蹒跚地走在路上
+    teeter on a decision
+#做决定犹豫不决
+    teeter on the brink/edge
+#面临危险，如临深渊
+    The ladder dangerously teetered and I nearly fell over.
+#梯子危险地摇晃起来，我差点摔下来。
+
+vicar:
+    They were married by their local vicar.
+#他们是由教区牧师主持结婚的。
+
+vernal:
+    vernal breeze
+#春风
+    vernal migration
+#春季迁徙
+    vernal green
+#春大的翠绿
+    the vernal equinox
+#春分
+    The vernal radiance of her smile captivated us all.
+#她那充满青春活力的微笑把我们大家都迷住了。
+
+heady:
+    the heady experience of first love
+#令人陶醉的初恋经历
+    give a heady opinion
+#发表轻率的意见;
+    a heady tempest
+#狂风暴雨
+    a heady wine
+#容易上头的酒
+    heady new prospects
+#令人陶醉的新前景
+    feel thick and heady
+#感到头昏脑胀
+    be heady with success
+#因成功而飘飘然
+    be heady with the aroma of perfumes
+#充满了香水味
+    In their heady days of youth they thought anything was possible.
+#在他们鲁莽的年轻时代，他们认为一切都是可能的。
+
+swagger:
+    swagger into the office
+#大摇大摆地走进办公室
+    swaggering self-confidence
+#狂妄自大
+    swagger about one's exploits
+#吹嘘自己的业绩
+    walk with a swagger
+#昂首阔步地走
+    He walked out of the room with a self-confident swagger.
+#他自鸣得意大摇大摆地走出房间。
+
+stupendous:
+    a stupendous achievement
+#惊人的成就
+    a young woman of stupendous beauty
+#美貌绝伦的年轻女子
+    stupendous scenes in nature
+#瑰丽的自然奇观
+    a stupendous feast
+#盛宴
+    a stupendous error
+#大错
+    Over the following year he ran up stupendous debts through his extravagant lifestyle.
+#在接下来一年里，他因生活极端奢侈而债台高筑。
+
+dire:
+    live in dire poverty
+#生活极度贫困
+    in dire need of help
+#急需帮助
+    dire consequences
+#严重后果
+    dire news
+#噩耗
+    dire days
+#惨淡的日子
+    dire predictions
+#不祥预言
+    in dire emergency
+#在最危急的关头
+    He gave a dire warning about the likelihood of there being an earthquake.
+#他提出了有地震可能性的可怕警告。
+
+hoax:
+    play a hoax on sb.
+#戏弄某人
+    hoax calls
+#恶作剧电话
+    The area was cleared of people but the telephone warning turned out to be a hoax.
+#该地区的人都被疏散了，但结果警告电话是个骗局。
+
+futility:
+    realize the futility of doing sth.
+#领悟到做某事是无用的
+    the futility of life
+#人生的空虚
+    He considers such things as parties and games as futilities.
+#他认为舞会和比赛这些事毫无意义。
+
+exhaustive:
+    conduct an exhaustive investigation
+#进行彻底调查
+    an exhaustive inventory
+#详尽的存货清单
+    an exhaustive study
+#详尽的研究
+    She made an exhaustive analysis of the new economic policy.
+#她对新经济政策做了透彻分析。
+
+bawl:
+    bawl at sb.
+#冲着某人大叫
+    bawl commands
+#大叫着发布命令
+    bawl one's head off
+#叫喊得声嘶力竭
+    bawl out
+#大叫，大声叫出
+    bawl sb. out for cutting school
+#因某人逃学而将其痛骂一顿
+    The hall was full of school children bawling the school song.
+#大厅里满是高唱校歌的孩子。
+
+stutter:
+    develop a little stutter
+#有点口吃
+    stutter out a reply
+#结结巴巴地说出回答
+    the stutter of the rain
+#滴滴答答的雨声
+    He stutters a bit, so let him finish what he's saying.
+#他有点口吃，所以让他把话说完。
+
+impale:
+    impale the meat on the fork
+#用叉子叉住肉
+    impale sb. on a dilemma
+#置某人于进退维谷的境地
+    The detective sat down facing John, his eyes impaling the young man.
+#侦探面对约翰坐下，犀利的目光逼视着这个年轻人。
+
+boggle:
+    boggle at a suggestion
+#对建议犹犹豫不决
+    boggle the mind
+#使人难以理解
+    The complexities of the functions of the human body boggle the imagination.
+#人体功能的复杂令人难以想象。
+
+drool:
+    drool over the prospect of promotion
+#对晋升的前景兴奋得不得了
+    drool over recipes for rich chocolate and desserts cakes
+#垂涎地读着做美味巧克力和甜点的食谱
+    drool over a green silk dress
+#垂涎地看着一条绿丝裙
+    She brought with her an enormous dog that lay drooling on the mat.
+#她带来一只大狗，那狗躺在垫子上流口水。
+
+dissemble:
+    Politicians frequently have to dissemble so as not to admit that mistakes have been made.
+#政客们不得不经常进行掩盖，免得承认已犯下错误。
+
+extradite:
+    He was arrested in India and extradited to America to stand trial for murder.
+#他在印度被捕，被引渡到美国以谋杀罪受审。
+
+arbitrate:
+    arbitrate in a dispute
+#对争端进行裁
+    arbitrate by default
+#缺席仲裁
+    arbitrate boundaries between the countries
+#裁决国与国之间的边界
+    An outside adviser has been brought in to arbitrate the opposing sides.
+#一位局外的调节者被请来给对立的双方进行仲裁。
+
+enshrine:
+    enshrine the image of the Buddha
+#供着佛像
+    be enshrined in law
+#受法律保护
+    A lot of memories are enshrined in this photograph album.
+#许多记忆铭刻在这部相册里。
+
+pervert:
+    accuse sb. of perverting youth
+#控告某人腐青年
+    pervert one's powers
+#滥用职权
+    pervert the course of justice
+#枉法
+    His original ideas have been shamelessly perverted by politicians for their own purposes.
+#他原始的想法被政客们无耻地为各自的目的歪曲了。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

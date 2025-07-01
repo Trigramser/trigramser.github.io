@@ -1,0 +1,20 @@
+# 设置VS Code路径
+# 这个路径可以更改，从而设置不同的程序用右键打开
+$vscodePath = "C:\Program Files\Microsoft VS Code\Code.exe"
+
+# 添加文件右键菜单
+New-Item -Path "HKCR:\*\shell\VSCode" -Force
+Set-ItemProperty -Path "HKCR:\*\shell\VSCode" -Name "(Default)" -Value "Open with VSCode"
+Set-ItemProperty -Path "HKCR:\*\shell\VSCode" -Name "Icon" -Value "`"$vscodePath`",0"
+New-Item -Path "HKCR:\*\shell\VSCode\command" -Force
+Set-ItemProperty -Path "HKCR:\*\shell\VSCode\command" -Name "(Default)" -Value "`"$vscodePath`" `"%1`""
+
+# 添加文件夹右键菜单
+New-Item -Path "HKCR:\Directory\shell\VSCode" -Force
+Set-ItemProperty -Path "HKCR:\Directory\shell\VSCode" -Name "(Default)" -Value "Open with VSCode"
+Set-ItemProperty -Path "HKCR:\Directory\shell\VSCode" -Name "Icon" -Value "`"$vscodePath`",0"
+New-Item -Path "HKCR:\Directory\shell\VSCode\command" -Force
+Set-ItemProperty -Path "HKCR:\Directory\shell\VSCode\command" -Name "(Default)" -Value "`"$vscodePath`" `"%V`""
+
+# 刷新资源管理器
+Stop-Process -Name explorer -Force

@@ -1,0 +1,737 @@
+<<<<<<< HEAD
+sententious: 英[senˈtenʃəs] 美[senˈtenʃəs]
+%adj. 简洁精炼的；警句的，富于格言的
+    a sententious speaker
+#一昧说教的演讲者
+
+nether: 英[ˈneðə(r)] 美[ˈneðər]
+$adj. 较低的，下面的，下方的；地下的，下界的
+%n. （Nether）（美、德、巴）内特尔（人名）
+    The boiler room is somewhere down in the building's nether regions.
+#锅炉房在大楼下面的地下室里。
+
+requite: 英[rɪˈkwaɪt] 美[rɪˈkwaɪt]
+%v. <正式>回报，报以（友爱、善意等）
+    The charm of travel requites its disadvantages.
+#旅行的魅力补偿了旅途中的不便。
+
+slink: 英[slɪŋk] 美[slɪŋk]
+$vi. 潜逃；溜走
+$vt. 早产；潜逃
+$n. 早产的动物；鬼鬼祟祟的人
+%adj. 早产的
+    He hurriedly paid his bills and slunk away.
+#他匆匆付了账就溜走了。
+
+mnemonics: 英[nɪˈmɒnɪks] 美[nɪˈmɑːnɪks]
+%n. 记忆术
+    a lecture on mnemonics
+#关于记忆法的讲座
+
+ultramundane: 英[ˌʌltrəˈmʌndeɪn] 美[ˌʌltrəˈmʌnˌdeɪn]
+%adj. 超俗的；世界之外的；太阳系之外的
+    She seems to be a ultramundane girl.
+#她好像是一个脱离尘世的人。
+
+malefactor: 英[ˈmælɪfæktə(r)] 美[ˈmælɪfæktər]
+%n. 作恶者；罪犯；坏人
+    The malefactor will be prosecuted.
+#罪犯将受到起诉。
+
+vegetate: 英[ˈvedʒəteɪt] 美[ˈvedʒəteɪt]
+%v. 无所事事地生活，过单调生活；（植物、种子）生长，发芽
+    The plants in my garden vegetate vigorously.
+#我家园子里的植物苗壮地生长。
+
+emolument: 英[ɪˈmɒljumənt] 美[ɪˈmɑːljumənt]
+%n. 薪水，报酬
+    a clearest example of taxable emolument
+#应纳税报酬的一个最清楚的例子
+
+subcelestial: 英[ˌsʌbsɪˈlestɪəl] 美[ˌsʌbsəˈlestʃəl]
+%adj. 尘世的；在天下面的
+    subcelestial is used to describe something situated beneath the heavens
+#subcelestial用来描述位于天空之下的事物。
+
+fatidic: 英[feɪˈtɪdɪk] 美[feɪˈtɪdɪk]
+%adj. 预言的；预言性的（等于 prophetic）
+    a fatidic witch
+#有预言能力的女巫
+
+jumpy: 英[ˈdʒʌmpi] 美[ˈdʒʌmpi]
+%adj. （人）焦虑不安的，神经质的；跳跃的，跳动的
+    I told myself not to be so jumpy 
+#我告诉自己别这么提心吊胆的。
+
+multifarious: 英[ˌmʌltɪˈfeəriəs] 美[ˌmʌltɪˈferiəs]
+%adj. 多种的；各式各样的；多方面的；多样性的
+    the multifarious noises of a great city
+#大城市里的种种噪声
+    the multifarious duties of a teacher
+#教师多方面的职责
+
+unfasten: 英[ʌnˈfɑːs(ə)n] 美[ʌnˈfæs(ə)n]
+$vt. 解开；放松
+%vi. 解开；放松
+    unfasten the seat belt
+#解开安全带
+
+miscellany: 英[mɪˈseləni] 美[ˈmɪsəleɪni]
+%n. 杂录，杂集；混杂；混合物
+    a literary miscellany
+#文学杂集
+
+engaging: 英[ɪnˈɡeɪdʒɪŋ] 美[ɪnˈɡeɪdʒɪŋ]
+$adj. 迷人的，吸引人的
+%v. 雇用，聘请；参加，从事；吸引，引起（engage 的现在分词）
+    an engaging smile
+#迷人的微笑
+    engaging manners
+#动人的风度
+
+inflame: 英[ɪnˈfleɪm] 美[ɪnˈfleɪm]
+$vt. 激怒；使燃烧；使发炎
+%vi. 燃烧；发炎；激动
+    The setting sun inflamed the sky.
+#夕阳使天空赤红如火烧一般。
+
+felicitous: 英[fəˈlɪsɪtəs] 美[fəˈlɪsɪtəs]
+%adj. 恰当的；善于措辞的；幸福的
+    a felicitous remark
+#妥帖的话
+    a felicitous journey
+#愉快的旅行
+
+podium: 英[ˈpəʊdiəm] 美[ˈpoʊdiəm]
+$n. 讲台，乐队指挥台，领奖台；<美>（放讲稿、书等面板倾斜的）讲桌；（建筑物的）基座，台基；（高层建筑的）墩座；（古圆形剧场中竞技场周围的）矮隔墙
+%v. 登上领奖台
+    The teacher stepped down from the lecture podium.
+#教师走下了讲台。
+
+disruptive: 英[dɪsˈrʌptɪv] 美[dɪsˈrʌptɪv]
+%adj. 引起混乱的，破坏的；创新的，开拓性的
+    the disruptive effects of war
+#战争的种种破坏作用
+    disruptive behavior
+#捣乱行为
+
+arraign: 英[əˈreɪn] 美[əˈreɪn]
+%vt. 传讯，控告；责难，指责
+    be arraigned on a charge of theft
+#因盗窃罪被传讯
+    arraign sb. for high treason
+#以叛国罪控告某人
+
+animus: 英[ˈænɪməs] 美[ˈænɪməs]
+%n. 敌意；意图；基本态度；女性的男性意向
+    have an animus against sb.
+#对某人怀有敌意
+
+abominate: 英[əˈbɒmɪneɪt] 美[əˈbɑːmɪneɪt]
+%vt. 痛恨；憎恶
+    She abominates hot weather.
+#她不喜欢炎热天气。
+
+jaunty: 英[ˈdʒɔːnti] 美[ˈdʒɑːnti]
+%adj. 快活的；活泼的；洋洋得意的；感到自信和自满的
+    walk with jaunty steps
+#蹦蹦跳跳地走
+    a jaunty hat
+#漂亮的帽子
+
+corrugate: 英[ˈkɒrəɡeɪt] 美[ˈkɔːrəɡeɪt]
+$vt. 使起皱；成波状
+$adj. 起皱的；波状的
+%vi. 起皱；缩成皱状
+    He corrugated his brows in thought.
+#他皱着眉头沉思。
+
+inscrutable: 英[ɪnˈskruːtəb(ə)l] 美[ɪnˈskruːtəb(ə)l]
+%adj. 神秘的；不可理解的；不能预测的；不可思议的
+    She looked up at me with inscrutable eyes.
+#她抬起头，用一种不可思议的眼神望着我。
+
+sensible: 英[ˈsensəb(ə)l] 美[ˈsensəb(ə)l]
+$adj. 理智的，合理的； 朴素而实用的；<正式>可感觉到的，明显的
+%n. 可感觉到的东西
+    His distress was sensible from his manner.
+#他的忧伤从他的举止就可以看出。
+
+atone: 英[əˈtəʊn] 美[əˈtoʊn]
+$vt. 赎罪；弥补；偿还
+%vi. 弥补；赎回
+    His hard work atones for his lack of skill.
+#他的辛勤工作补偿了技术的不熟练。
+
+troll: 英[trɒl] 美[troʊl]
+$n. 巨怪，侏儒怪物；恶意挑衅的帖子，发挑衅帖子的人；曳绳钓鱼法中用的曳绳或鱼饵；用曳绳法钓鱼；轮唱
+%v. 拖捞，拖钓；搜寻，寻找；随便浏览，随便翻翻；<英>闲逛，游荡；（无缘由地在网际网路上某处）留下侮辱性的讯息；快乐地唱
+    He rowed her ashore and then continued trolling around the lake.
+#他划船把她送上岸，然后继续慢悠悠地在湖上划。
+
+gestate: 英[dʒeˈsteɪt] 美[ˈdʒesteɪt]
+$vt. 使怀孕
+%vi. 孕育，创案
+    He was gestating the hero of the next chapter.
+#他在构思下一章的男主角。
+
+renascent: 英[rɪˈneɪs(ə)nt] 美[rɪˈneɪs(ə)nt]
+%adj. 新生的，复活的；复兴的
+    a renascent love for one's motherland
+#对自己的祖国重新产生的爱
+
+fecundity: 英[fɪˈkʌndəti] 美[fɪˈkʌndəti]
+%n. [生物] 繁殖力；多产；肥沃
+    the fecundity of the earth
+#土壤的肥沃
+    The boy's fecundity of imagination amazed his teacher.
+#男孩想像力的丰富使教师感到惊异。
+
+retrench: 英[rɪˈtrentʃ] 美[rɪˈtrentʃ]
+$vt. 删除；减少；紧缩开支
+%vi. 节省；紧缩
+    retrench the traveling expenses
+#削减旅费
+    retrench a long speech
+#删节长篇演说
+
+insignia: 英[ɪnˈsɪɡniə] 美[ɪnˈsɪɡniə]
+%n. 记号，标志；徽章；荣誉
+    different airline insignias
+#不同的航空公司标记
+    A national flag displayed on ships and aircraft, often with the special insignia of a branch or unit of the armed forces.
+#国旗挂于船只或飞机上的国旗，常带有部队分队或部队单位的特殊识别标记。
+
+pharisaic: 英[færi'seiik] 美[færi'seiik]
+%adj. （古犹太）法利赛人的；伪善的，假装虔诚的
+    Don't believe his pharisaic words.
+#不要相信他那伪善的言词。
+
+pharaoh: 英[ˈfeərəʊ] 美[ˈferoʊ]
+%n. 法老；暴君
+    He became pharaoh when still very young.
+#他在很小时就成了法老。
+
+sate: 英[seɪt] 美[seɪt]
+%v. 使心满意足，使饱享
+    Nothing will sate his lust for power.
+#他的权力欲永无满足之日。
+
+phenom: 英[fəˈnɒm; ˈfiːnɒm] 美[fəˈnɑːmˌˈfiːnɑːm]
+%n. 杰出人才（尤指运动员）
+    the team's phenom
+#队里杰出的运动员
+
+concinnity: 英[kənˈsɪnɪtɪ] 美[kənˈsɪnəti]
+%n. 优美，和谐，雅致
+    Tied arch bridge, not only has a concinnity outline, but also is fit for buildings in the watery region and cities on the soft clay ground.
+#系杆拱桥不仅外形简洁，而且适用于多水地区的建筑和软土地基上的城市。
+
+onus: 英[ˈəʊnəs] 美[ˈoʊnəs]
+$n. 责任，义务；负担
+%n. （Onus）人名；（英）奥纳斯
+    The onus is on the press.
+#责任在新闻界方面。
+
+miscreant: 英[ˈmɪskriənt] 美[ˈmɪskriənt]
+$adj. 异端的；邪道的；极恶的
+%n. 异端；恶棍；罪大恶极之人
+    a gang of miscreants
+#一伙歹徒
+
+vituperate: 英[vɪˈtjuːpəˌreɪt] 美[vaɪˈtuːpərˌeɪt]
+%v. <古>谩骂，责骂
+    She vituperated her former lover.
+#她对她从前的情人破口大骂。
+
+rive: 英[raɪv] 美[raɪv]
+$v. 劈开，撕开；（使）裂开；（木头、石头）裂开
+%n. （Rive）（法、美、意）赖夫（人名）
+    The army was riven with personal rivalries.
+#军队因军人间的钩心斗角而四分五裂。
+
+stature: 英[ˈstætʃə(r)] 美[ˈstætʃər]
+%n. 名望，声望；身高
+    He was rather small in stature.
+#他的身材相当矮小。
+
+dowdy: 英[ˈdaʊdi] 美[ˈdaʊdi]
+$adj. 懒散的；过时的；寒酸的
+$n. 懒散的女人；邋遢女人
+%n. （Dowdy）人名；（英）道迪
+    a dowdy woman
+#不时髦的女人
+    a dowdy novel
+#过时的小说
+
+long-winded: 英[ˌlɒŋ ˈwɪndɪd] 美[ˌlɔːŋ ˈwɪndɪd]
+%adj. 冗长的；啰嗦的；气长的
+    a long-winded speech
+#冗长的演讲
+
+pith: 英[pɪθ] 美[pɪθ]
+$n. 精髓；核心；木髓；要旨
+%vt. 杀死；使瘫痪；除去…中的髓
+    an argument without pith
+#没有实质意义的争论
+    the pith of the matter
+#问题的实质
+
+jamboree: 英[ˌdʒæmbəˈriː] 美[ˌdʒæmbəˈriː]
+%n. 少年团体大会；欢乐的聚会
+    The jamboree lasted until the midnight.
+#狂欢活动一直持续到午夜。
+
+abject: 英[ˈæbdʒekt] 美[ˈæbdʒekt]
+%adj. 极其苦恼的（处于赤贫，极度恐怖等境地）；卑躬屈膝的；下贱的；可怜的；不幸的
+    abject poverty
+#赤贫
+    an abject performance
+#拙劣的演出
+    an abject coward
+#可鄙的懦夫
+    abject submission
+#奴颜婢膝
+    in an abject way
+#自卑地
+
+abode: 英[əˈbəʊd] 美[əˈboʊd]
+$n. 住处；营业所
+%v. 遵守；停留；忍受（abide 的过去分词）
+    make one's abode
+#居住
+    take up one's abode with sb.
+#与某人同住
+    a person of no fixed abode
+#居无定所的人
+
+abrasive: 英[əˈbreɪsɪv] 美[əˈbreɪsɪv]
+$adj. 粗糙的；有研磨作用的；伤人感情的；（声音）刺耳的，难听的
+%n. 研磨料
+    His abrasive personality led to constant squabbles
+#他那粗暴的性格常导致争吵。
+
+abstention: 英[əbˈstenʃ(ə)n] 美[əbˈstenʃn]
+%n. 弃权；节制；戒绝
+    The agreement calls for abstention by both sides from provocative activities.
+#协议呼吁双方避免挑衅行动。
+
+abyss: 英[əˈbɪs] 美[əˈbɪs]
+%n. 危险（可怕）的局面，绝境；深渊，深不可测的地方；（人与人之间的）巨大差异，鸿沟；（地狱中的）无底深渊
+    the abyss of time
+#时光绵绵
+    She was plunged into an abyss of despair.
+#她落入绝望的深渊。
+
+acclimatize: 英[əˈklaɪmətaɪz] 美[əˈklaɪmətaɪz]
+%vt. 使适应新环境，使服水土
+    Jack has not become acclimatized to long hair.
+#杰克对蓄长发还不习惯。
+
+acerbity: 英[əˈsɜːbəti] 美[əˈsɜːrbəti]
+%n. 酸，涩；刻薄
+    The acerbity of his two volumes of memoirs shocked a lot of people.
+#他的两卷回忆录中的辛辣描写使许多人感到震惊。
+
+sear: 英[sɪə(r)] 美[sɪr]
+$vt. 烤焦；使……枯萎
+$vi. 干枯；烧焦；凋谢
+$adj. 枯萎的；烤焦的
+$n. 烙印；烧焦痕迹
+%n. （Sear）人名；（英）西尔
+    The heat from the explosion seared their hands and faces.
+#爆炸的热浪烧灼了他们的手和脸。
+
+opine: 英[əʊˈpaɪn] 美[oʊˈpaɪn]
+%v. 以为，表示意见，说明
+    You may opine about anything under the sun.
+#对世界上任何事你都可以发表意见。
+
+peep: 英[piːp] 美[piːp]
+$v. 窥视，偷看；隐现，微现；看；（使）发出喇叭声；（使）发出尖细的声音
+%n. 一瞥；<非正式>说话，声音；吱吱声，啾啾声；（汽车的）喇叭声；<非正式>人（杂志用语）
+    peep into the room
+#屋里偷窥
+    peep out from behind the clouds
+#(月亮)从云层后面露出脸来
+    a hurried/hasty peep
+#匆匆的一瞥
+    take/get/have a peep at one's telephone number
+#偷看一下某人的电话号码
+    at the peep of darkness
+#夜幕刚刚降临时
+
+pithy: 英[ˈpɪθi] 美[ˈpɪθi]
+%adj. 有髓的，多髓的；精练的；简洁有力的
+    Her later books are pithier and contain more critical social commentary.
+#她后来的书更加言简意赅，包含了更多对社会的批评性的评述。
+
+=======
+sententious: 英[senˈtenʃəs] 美[senˈtenʃəs]
+%adj. 简洁精炼的；警句的，富于格言的
+    a sententious speaker
+#一昧说教的演讲者
+
+nether: 英[ˈneðə(r)] 美[ˈneðər]
+$adj. 较低的，下面的，下方的；地下的，下界的
+%n. （Nether）（美、德、巴）内特尔（人名）
+    The boiler room is somewhere down in the building's nether regions.
+#锅炉房在大楼下面的地下室里。
+
+requite: 英[rɪˈkwaɪt] 美[rɪˈkwaɪt]
+%v. <正式>回报，报以（友爱、善意等）
+    The charm of travel requites its disadvantages.
+#旅行的魅力补偿了旅途中的不便。
+
+slink: 英[slɪŋk] 美[slɪŋk]
+$vi. 潜逃；溜走
+$vt. 早产；潜逃
+$n. 早产的动物；鬼鬼祟祟的人
+%adj. 早产的
+    He hurriedly paid his bills and slunk away.
+#他匆匆付了账就溜走了。
+
+mnemonics: 英[nɪˈmɒnɪks] 美[nɪˈmɑːnɪks]
+%n. 记忆术
+    a lecture on mnemonics
+#关于记忆法的讲座
+
+ultramundane: 英[ˌʌltrəˈmʌndeɪn] 美[ˌʌltrəˈmʌnˌdeɪn]
+%adj. 超俗的；世界之外的；太阳系之外的
+    She seems to be a ultramundane girl.
+#她好像是一个脱离尘世的人。
+
+malefactor: 英[ˈmælɪfæktə(r)] 美[ˈmælɪfæktər]
+%n. 作恶者；罪犯；坏人
+    The malefactor will be prosecuted.
+#罪犯将受到起诉。
+
+vegetate: 英[ˈvedʒəteɪt] 美[ˈvedʒəteɪt]
+%v. 无所事事地生活，过单调生活；（植物、种子）生长，发芽
+    The plants in my garden vegetate vigorously.
+#我家园子里的植物苗壮地生长。
+
+emolument: 英[ɪˈmɒljumənt] 美[ɪˈmɑːljumənt]
+%n. 薪水，报酬
+    a clearest example of taxable emolument
+#应纳税报酬的一个最清楚的例子
+
+subcelestial: 英[ˌsʌbsɪˈlestɪəl] 美[ˌsʌbsəˈlestʃəl]
+%adj. 尘世的；在天下面的
+    subcelestial is used to describe something situated beneath the heavens
+#subcelestial用来描述位于天空之下的事物。
+
+fatidic: 英[feɪˈtɪdɪk] 美[feɪˈtɪdɪk]
+%adj. 预言的；预言性的（等于 prophetic）
+    a fatidic witch
+#有预言能力的女巫
+
+jumpy: 英[ˈdʒʌmpi] 美[ˈdʒʌmpi]
+%adj. （人）焦虑不安的，神经质的；跳跃的，跳动的
+    I told myself not to be so jumpy 
+#我告诉自己别这么提心吊胆的。
+
+multifarious: 英[ˌmʌltɪˈfeəriəs] 美[ˌmʌltɪˈferiəs]
+%adj. 多种的；各式各样的；多方面的；多样性的
+    the multifarious noises of a great city
+#大城市里的种种噪声
+    the multifarious duties of a teacher
+#教师多方面的职责
+
+unfasten: 英[ʌnˈfɑːs(ə)n] 美[ʌnˈfæs(ə)n]
+$vt. 解开；放松
+%vi. 解开；放松
+    unfasten the seat belt
+#解开安全带
+
+miscellany: 英[mɪˈseləni] 美[ˈmɪsəleɪni]
+%n. 杂录，杂集；混杂；混合物
+    a literary miscellany
+#文学杂集
+
+engaging: 英[ɪnˈɡeɪdʒɪŋ] 美[ɪnˈɡeɪdʒɪŋ]
+$adj. 迷人的，吸引人的
+%v. 雇用，聘请；参加，从事；吸引，引起（engage 的现在分词）
+    an engaging smile
+#迷人的微笑
+    engaging manners
+#动人的风度
+
+inflame: 英[ɪnˈfleɪm] 美[ɪnˈfleɪm]
+$vt. 激怒；使燃烧；使发炎
+%vi. 燃烧；发炎；激动
+    The setting sun inflamed the sky.
+#夕阳使天空赤红如火烧一般。
+
+felicitous: 英[fəˈlɪsɪtəs] 美[fəˈlɪsɪtəs]
+%adj. 恰当的；善于措辞的；幸福的
+    a felicitous remark
+#妥帖的话
+    a felicitous journey
+#愉快的旅行
+
+podium: 英[ˈpəʊdiəm] 美[ˈpoʊdiəm]
+$n. 讲台，乐队指挥台，领奖台；<美>（放讲稿、书等面板倾斜的）讲桌；（建筑物的）基座，台基；（高层建筑的）墩座；（古圆形剧场中竞技场周围的）矮隔墙
+%v. 登上领奖台
+    The teacher stepped down from the lecture podium.
+#教师走下了讲台。
+
+disruptive: 英[dɪsˈrʌptɪv] 美[dɪsˈrʌptɪv]
+%adj. 引起混乱的，破坏的；创新的，开拓性的
+    the disruptive effects of war
+#战争的种种破坏作用
+    disruptive behavior
+#捣乱行为
+
+arraign: 英[əˈreɪn] 美[əˈreɪn]
+%vt. 传讯，控告；责难，指责
+    be arraigned on a charge of theft
+#因盗窃罪被传讯
+    arraign sb. for high treason
+#以叛国罪控告某人
+
+animus: 英[ˈænɪməs] 美[ˈænɪməs]
+%n. 敌意；意图；基本态度；女性的男性意向
+    have an animus against sb.
+#对某人怀有敌意
+
+abominate: 英[əˈbɒmɪneɪt] 美[əˈbɑːmɪneɪt]
+%vt. 痛恨；憎恶
+    She abominates hot weather.
+#她不喜欢炎热天气。
+
+jaunty: 英[ˈdʒɔːnti] 美[ˈdʒɑːnti]
+%adj. 快活的；活泼的；洋洋得意的；感到自信和自满的
+    walk with jaunty steps
+#蹦蹦跳跳地走
+    a jaunty hat
+#漂亮的帽子
+
+corrugate: 英[ˈkɒrəɡeɪt] 美[ˈkɔːrəɡeɪt]
+$vt. 使起皱；成波状
+$adj. 起皱的；波状的
+%vi. 起皱；缩成皱状
+    He corrugated his brows in thought.
+#他皱着眉头沉思。
+
+inscrutable: 英[ɪnˈskruːtəb(ə)l] 美[ɪnˈskruːtəb(ə)l]
+%adj. 神秘的；不可理解的；不能预测的；不可思议的
+    She looked up at me with inscrutable eyes.
+#她抬起头，用一种不可思议的眼神望着我。
+
+sensible: 英[ˈsensəb(ə)l] 美[ˈsensəb(ə)l]
+$adj. 理智的，合理的； 朴素而实用的；<正式>可感觉到的，明显的
+%n. 可感觉到的东西
+    His distress was sensible from his manner.
+#他的忧伤从他的举止就可以看出。
+
+atone: 英[əˈtəʊn] 美[əˈtoʊn]
+$vt. 赎罪；弥补；偿还
+%vi. 弥补；赎回
+    His hard work atones for his lack of skill.
+#他的辛勤工作补偿了技术的不熟练。
+
+troll: 英[trɒl] 美[troʊl]
+$n. 巨怪，侏儒怪物；恶意挑衅的帖子，发挑衅帖子的人；曳绳钓鱼法中用的曳绳或鱼饵；用曳绳法钓鱼；轮唱
+%v. 拖捞，拖钓；搜寻，寻找；随便浏览，随便翻翻；<英>闲逛，游荡；（无缘由地在网际网路上某处）留下侮辱性的讯息；快乐地唱
+    He rowed her ashore and then continued trolling around the lake.
+#他划船把她送上岸，然后继续慢悠悠地在湖上划。
+
+gestate: 英[dʒeˈsteɪt] 美[ˈdʒesteɪt]
+$vt. 使怀孕
+%vi. 孕育，创案
+    He was gestating the hero of the next chapter.
+#他在构思下一章的男主角。
+
+renascent: 英[rɪˈneɪs(ə)nt] 美[rɪˈneɪs(ə)nt]
+%adj. 新生的，复活的；复兴的
+    a renascent love for one's motherland
+#对自己的祖国重新产生的爱
+
+fecundity: 英[fɪˈkʌndəti] 美[fɪˈkʌndəti]
+%n. [生物] 繁殖力；多产；肥沃
+    the fecundity of the earth
+#土壤的肥沃
+    The boy's fecundity of imagination amazed his teacher.
+#男孩想像力的丰富使教师感到惊异。
+
+retrench: 英[rɪˈtrentʃ] 美[rɪˈtrentʃ]
+$vt. 删除；减少；紧缩开支
+%vi. 节省；紧缩
+    retrench the traveling expenses
+#削减旅费
+    retrench a long speech
+#删节长篇演说
+
+insignia: 英[ɪnˈsɪɡniə] 美[ɪnˈsɪɡniə]
+%n. 记号，标志；徽章；荣誉
+    different airline insignias
+#不同的航空公司标记
+    A national flag displayed on ships and aircraft, often with the special insignia of a branch or unit of the armed forces.
+#国旗挂于船只或飞机上的国旗，常带有部队分队或部队单位的特殊识别标记。
+
+pharisaic: 英[færi'seiik] 美[færi'seiik]
+%adj. （古犹太）法利赛人的；伪善的，假装虔诚的
+    Don't believe his pharisaic words.
+#不要相信他那伪善的言词。
+
+pharaoh: 英[ˈfeərəʊ] 美[ˈferoʊ]
+%n. 法老；暴君
+    He became pharaoh when still very young.
+#他在很小时就成了法老。
+
+sate: 英[seɪt] 美[seɪt]
+%v. 使心满意足，使饱享
+    Nothing will sate his lust for power.
+#他的权力欲永无满足之日。
+
+phenom: 英[fəˈnɒm; ˈfiːnɒm] 美[fəˈnɑːmˌˈfiːnɑːm]
+%n. 杰出人才（尤指运动员）
+    the team's phenom
+#队里杰出的运动员
+
+concinnity: 英[kənˈsɪnɪtɪ] 美[kənˈsɪnəti]
+%n. 优美，和谐，雅致
+    Tied arch bridge, not only has a concinnity outline, but also is fit for buildings in the watery region and cities on the soft clay ground.
+#系杆拱桥不仅外形简洁，而且适用于多水地区的建筑和软土地基上的城市。
+
+onus: 英[ˈəʊnəs] 美[ˈoʊnəs]
+$n. 责任，义务；负担
+%n. （Onus）人名；（英）奥纳斯
+    The onus is on the press.
+#责任在新闻界方面。
+
+miscreant: 英[ˈmɪskriənt] 美[ˈmɪskriənt]
+$adj. 异端的；邪道的；极恶的
+%n. 异端；恶棍；罪大恶极之人
+    a gang of miscreants
+#一伙歹徒
+
+vituperate: 英[vɪˈtjuːpəˌreɪt] 美[vaɪˈtuːpərˌeɪt]
+%v. <古>谩骂，责骂
+    She vituperated her former lover.
+#她对她从前的情人破口大骂。
+
+rive: 英[raɪv] 美[raɪv]
+$v. 劈开，撕开；（使）裂开；（木头、石头）裂开
+%n. （Rive）（法、美、意）赖夫（人名）
+    The army was riven with personal rivalries.
+#军队因军人间的钩心斗角而四分五裂。
+
+stature: 英[ˈstætʃə(r)] 美[ˈstætʃər]
+%n. 名望，声望；身高
+    He was rather small in stature.
+#他的身材相当矮小。
+
+dowdy: 英[ˈdaʊdi] 美[ˈdaʊdi]
+$adj. 懒散的；过时的；寒酸的
+$n. 懒散的女人；邋遢女人
+%n. （Dowdy）人名；（英）道迪
+    a dowdy woman
+#不时髦的女人
+    a dowdy novel
+#过时的小说
+
+long-winded: 英[ˌlɒŋ ˈwɪndɪd] 美[ˌlɔːŋ ˈwɪndɪd]
+%adj. 冗长的；啰嗦的；气长的
+    a long-winded speech
+#冗长的演讲
+
+pith: 英[pɪθ] 美[pɪθ]
+$n. 精髓；核心；木髓；要旨
+%vt. 杀死；使瘫痪；除去…中的髓
+    an argument without pith
+#没有实质意义的争论
+    the pith of the matter
+#问题的实质
+
+jamboree: 英[ˌdʒæmbəˈriː] 美[ˌdʒæmbəˈriː]
+%n. 少年团体大会；欢乐的聚会
+    The jamboree lasted until the midnight.
+#狂欢活动一直持续到午夜。
+
+abject: 英[ˈæbdʒekt] 美[ˈæbdʒekt]
+%adj. 极其苦恼的（处于赤贫，极度恐怖等境地）；卑躬屈膝的；下贱的；可怜的；不幸的
+    abject poverty
+#赤贫
+    an abject performance
+#拙劣的演出
+    an abject coward
+#可鄙的懦夫
+    abject submission
+#奴颜婢膝
+    in an abject way
+#自卑地
+
+abode: 英[əˈbəʊd] 美[əˈboʊd]
+$n. 住处；营业所
+%v. 遵守；停留；忍受（abide 的过去分词）
+    make one's abode
+#居住
+    take up one's abode with sb.
+#与某人同住
+    a person of no fixed abode
+#居无定所的人
+
+abrasive: 英[əˈbreɪsɪv] 美[əˈbreɪsɪv]
+$adj. 粗糙的；有研磨作用的；伤人感情的；（声音）刺耳的，难听的
+%n. 研磨料
+    His abrasive personality led to constant squabbles
+#他那粗暴的性格常导致争吵。
+
+abstention: 英[əbˈstenʃ(ə)n] 美[əbˈstenʃn]
+%n. 弃权；节制；戒绝
+    The agreement calls for abstention by both sides from provocative activities.
+#协议呼吁双方避免挑衅行动。
+
+abyss: 英[əˈbɪs] 美[əˈbɪs]
+%n. 危险（可怕）的局面，绝境；深渊，深不可测的地方；（人与人之间的）巨大差异，鸿沟；（地狱中的）无底深渊
+    the abyss of time
+#时光绵绵
+    She was plunged into an abyss of despair.
+#她落入绝望的深渊。
+
+acclimatize: 英[əˈklaɪmətaɪz] 美[əˈklaɪmətaɪz]
+%vt. 使适应新环境，使服水土
+    Jack has not become acclimatized to long hair.
+#杰克对蓄长发还不习惯。
+
+acerbity: 英[əˈsɜːbəti] 美[əˈsɜːrbəti]
+%n. 酸，涩；刻薄
+    The acerbity of his two volumes of memoirs shocked a lot of people.
+#他的两卷回忆录中的辛辣描写使许多人感到震惊。
+
+sear: 英[sɪə(r)] 美[sɪr]
+$vt. 烤焦；使……枯萎
+$vi. 干枯；烧焦；凋谢
+$adj. 枯萎的；烤焦的
+$n. 烙印；烧焦痕迹
+%n. （Sear）人名；（英）西尔
+    The heat from the explosion seared their hands and faces.
+#爆炸的热浪烧灼了他们的手和脸。
+
+opine: 英[əʊˈpaɪn] 美[oʊˈpaɪn]
+%v. 以为，表示意见，说明
+    You may opine about anything under the sun.
+#对世界上任何事你都可以发表意见。
+
+peep: 英[piːp] 美[piːp]
+$v. 窥视，偷看；隐现，微现；看；（使）发出喇叭声；（使）发出尖细的声音
+%n. 一瞥；<非正式>说话，声音；吱吱声，啾啾声；（汽车的）喇叭声；<非正式>人（杂志用语）
+    peep into the room
+#屋里偷窥
+    peep out from behind the clouds
+#(月亮)从云层后面露出脸来
+    a hurried/hasty peep
+#匆匆的一瞥
+    take/get/have a peep at one's telephone number
+#偷看一下某人的电话号码
+    at the peep of darkness
+#夜幕刚刚降临时
+
+pithy: 英[ˈpɪθi] 美[ˈpɪθi]
+%adj. 有髓的，多髓的；精练的；简洁有力的
+    Her later books are pithier and contain more critical social commentary.
+#她后来的书更加言简意赅，包含了更多对社会的批评性的评述。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

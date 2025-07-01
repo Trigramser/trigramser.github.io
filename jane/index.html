@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="persanal web bookmarks">
+    <meta name="description" content="multiple websides">
+
+    <title>🎻</title>
+    <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/normalize.css">
+    <link rel="stylesheet" type="text/css" href="https://trigramser.github.io/research.css"> 
+    <link rel="stylesheet" type="text/css" href="research.css">
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            let userAgent = navigator.userAgent.toLowerCase()
+            let mobile_device =  /ipad|iphone|midp|rv:1.2.3.4|ucweb|android|windows ce|windows mobile/
+            let tablet_device = /ipad|playbook|silk/
+
+            let htmlElement = document.documentElement
+            let bodyElement = document.body
+            if (mobile_device.test(userAgent))  {
+                htmlElement.style.fontSize = '22px'
+                bodyElement.style.maxWidth  = '960px'
+            } else {
+                htmlElement.style.fontSize = '10px'
+            }
+        })
+    </script>
+
+</head>
+<body>
+    <div class="header-bar">
+        <div class="header-bar-middle">
+            <a href="#TOP">TOP</a>
+            <a href="#General">General</a>
+            <a href="#SocialScience">社会科学</a>
+            <a href="#others">others</a>
+            <a href="#Finance">Finance</a>
+        </div>
+    </div>
+
+    <div class="searcher">
+        <h1>Resourse</h1>
+
+        <form action="https://cn.bing.com/" target="_blank">
+            <input type="search" class="form-control" name="q" size=60 maxlength=255 autocomplete="off" placeholder="Bing" >
+            <input type="submit" value="Bing">
+        </form>
+
+        <form action="https://www.baidu.com/s" target="_blank">
+            <input type="search" class="form-control" name="wd" size=60 maxlength=255 autocomplete="off" placeholder="百度" >
+            <input type="submit" value="百度">
+        </form>
+
+        <a href="https://navi.cnki.net/knavi/journals/" target="_blank">中国知网 刊名（曾用名）</a>
+        <form action="https://navi.cnki.net/knavi/journals/search" target="_blank">
+            <input type="search" name="q" data-skip-ie-scroll-to-top="" data-replace-term-with-exact="" data-exact-query="" size=60 placeholder="中国知网 刊名（曾用名）" autocomplete="off" class="term-input" id="id_term"/>
+            <input type="submit" value="中国知网 刊名（曾用名）">
+        </form>
+
+        <a href="https://navi.cnki.net/knavi/newspapers/" target="_blank">中国知网 报纸名称</a>
+        <form action="https://navi.cnki.net/knavi/newspapers/search" target="_blank">
+            <input type="search" name="q" data-skip-ie-scroll-to-top="" data-replace-term-with-exact="" data-exact-query="" size=60 placeholder="中国知网 报纸名称" autocomplete="off" class="term-input" id="id_term"/>
+            <input type="submit" value="中国知网 报纸名称">
+        </form>
+
+        <a href="https://navi.cnki.net/knavi/" target="_blank">中国知网 出版社来源</a>
+        <form action="https://navi.cnki.net/knavi/search" target="_blank">
+            <input type="search" name="q" data-skip-ie-scroll-to-top="" data-replace-term-with-exact="" data-exact-query="" size=60 placeholder="中国知网 出版社来源" autocomplete="off" class="term-input" id="id_term"/>
+            <input type="submit" value="中国知网 出版社来源">
+        </form>
+
+        <a href="https://www.cnki.net/" target="_blank">中国知网</a>
+        <form action="https://kns.cnki.net/kns8s/" target="_blank">
+            <input type="search" name="q" data-skip-ie-scroll-to-top="" data-replace-term-with-exact="" data-exact-query="" size=60 placeholder="中国知网" autocomplete="off" class="term-input" id="id_term"/>
+            <input type="submit" value="中国知网">
+        </form>
+
+        <a href="https://sci-hub.wf/" target="_blank">SCI-hub</a>
+        <form method="POST" action="https://sci-hub.wf/" target="_blank">
+            <input type="search" name="request" size=60 placeholder="enter URL, PMID / DOI or search string" autocomplete="off" autofocus>
+            <input type="submit" value="SCI-hub">
+        </form>    
+
+        <a href="https://www.ncbi.nlm.nih.gov/research/litsense/" target="_blank">LitSense</a>        
+        <form action="https://www.ncbi.nlm.nih.gov/research/litsense/" method="GET" target="_blank">
+            <!-- <textarea _ngcontent-aqr-c1="" title="search query" required="" class="search-input ng-pristine ng-invalid ng-touched">  </textarea> -->
+            <input type="hidden" name="view" value="docsum" class="term-input"/>
+            <input type="search" name="query" data-skip-ie-scroll-to-top="" data-replace-term-with-exact="" data-exact-query="" size=60 placeholder="LitSense" autocomplete="off" class="term-input" id="id_term"/>
+            <input type="submit" value="LitSense">
+        </form>
+
+        <a href="https://www.connectedpapers.com/" target="_blank">Connected Papers</a>
+        <form action="https://www.connectedpapers.com/search" target="_blank">
+            <input type="search" name="q" data-skip-ie-scroll-to-top="" data-replace-term-with-exact="" data-exact-query="" size=60 placeholder="Connected Papers" autocomplete="off" class="term-input" id="id_term"/>
+            <input type="submit" value="Connected Papers">
+        </form>
+
+
+
+    </div>
+
+    <ul class="General" id="General">
+        <li>
+            <h4>党校干部学院</h4>
+            <a href="https://www.ccps.gov.cn/" target="_blank">中共中央党校</a>
+            <a href="https://www.yndx.gov.cn/" target="_blank">中共云南省委党校</a>
+            <a href="https://www.zxgbxy.org.cn/" target="_blank">云南扎西干部学院</a>
+            <a href="https://www.cqdx.gov.cn/" target="_blank">中共重庆市委党校</a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+        <li>
+            <h4>政府机关单位</h4>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+        <li>
+            <h4>事业单位</h4>
+            <a href="http://www.sky.yn.gov.cn/jgsz/kfbm/ynshkxbjb/zgqs/5380006464957452512" target="_blank">云南省社会科学院（云南社会科学主管主办单位）</a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+
+    </ul>
+
+    <ul class="General" id="wenxiamxiezuo">
+        <li>
+            <h4>Literature Search</h4>
+            <a href="https://tool.yovisun.com/scihub/" target="_blank">SCI-Hub实时更新</a>
+            <a href="https://sci-hub.org.cn/" target="_blank">Sci-Hub文献检索</a>
+            <a href="https://www.home-for-researchers.com/static/index.html#/" target="_blank">科研者之家</a>
+            <a href="https://gg.xueshu5.com/" target="_blank">Glgoo</a>
+            <a href="http://459.org/" target="_blank">文献部落</a>
+        </li>
+        <li>
+            <h4>科研搜索</h4>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+        <li>
+            <h4>writing</h4>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+
+        </li>
+
+    </ul>
+
+    <ul class="Biology" id = 'SocialScience' >
+        <h1>SocialScience</h1>
+        <li class="sub-nav">
+            <p>Journal：<a href="#SocialJournal">SocialJournal</a> |   <a href="#"></a> |   <a href="#"></a> |  <a href="#"></a> | </p>
+            <p>social ： <a href="#"></a> |   <a href="#"></a> |   <a href="#"></a> <a href="#"></a> | <a href="#"></a> | </p>
+            <p>Project： <a href="#"></a> |   <a href="#"></a> |   <a href="#"></a> | </p>
+        </li>
+        <li id="SocialJournal">
+            <h4>SocialJournal</h4>
+                <h5>学习时报</h5>
+                <a href="https://paper.cntheory.com/" target="_blank">学习时报</a>
+                <a href="https://paper.cntheory.com/tplimg/" target="_blank">学习时报 投稿信箱</a>
+                <a href="" target="_blank"></a>
+                <h5>云南社会科学</h5>
+                <a href="https://yshx.cbpt.cnki.net/" target="_blank">云南社会科学</a>
+                <a href="" target="_blank"></a>
+                <a href="" target="_blank"></a>
+                <h5>重庆市委党校主办</h5>
+                <a href="https://www.cqdx.gov.cn/sylm/gbxygk22/ts2" target="_blank">探索 | 重庆市委党校</a>
+                <a href="https://www.cqdx.gov.cn/sylm/gbxygk22/zqhz2" target="_blank">重庆行政（重庆市委党校）</a>
+                <a href="https://www.cqdx.gov.cn/sylm/gbxygk22/zqdxb" target="_blank">重庆党校报(重庆市委党校)</a>
+                <a href="" target="_blank"></a>
+                <h5></h5>
+                <a href="" target="_blank"></a>
+                <a href="" target="_blank"></a>
+                <a href="" target="_blank"></a>
+                <h5></h5>
+                <a href="" target="_blank"></a>
+                <a href="" target="_blank"></a>
+                <a href="" target="_blank"></a>
+                <h5></h5>
+                <a href="" target="_blank"></a>
+                <a href="" target="_blank"></a>
+                <a href="" target="_blank"></a>
+        </li>
+        <li >
+            <h4>BioDatabase</h4>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+        <li id="BioDatabase">
+            <h4>BioDatabase</h4>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+        <li id="BioDatabase">
+            <h4>BioDatabase</h4>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+        <li id="BioDatabase">
+            <h4>BioDatabase</h4>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+    </ul>
+
+
+    <ul class="Biology" id = "others" >
+        <h1>others</h1>
+        <li class="sub-nav">
+            <p>social ： <a href="#"></a> |   <a href="#"></a> |   <a href="#"></a> <a href="#"></a> | <a href="#"></a> | </p>
+            <p>Project： <a href="#"></a> |   <a href="#"></a> |   <a href="#"></a> | </p>
+            <p>Journal：<a href="#SocialJournal"></a> |   <a href="#"></a> |   <a href="#"></a> | </p>
+        </li>
+        <li id="BioDatabase">
+            <h4>BioDatabase</h4>
+            <a href="https://www.yqskjt.com/" target="_blank">阳泉数科科技产业发展集团</a>
+            <a href="https://aiqicha.baidu.com/company_detail_88065509180091" target="_blank">爱企查 阳泉数科科技产业发展集团有限公司</a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+        <li id="BioDatabase">
+            <h4>BioDatabase</h4>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+        <li id="BioDatabase">
+            <h4>BioDatabase</h4>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+        <li id="BioDatabase">
+            <h4>BioDatabase</h4>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+            <a href="" target="_blank"></a>
+        </li>
+        
+        <li id="SocialJournal">
+            <h4>SocialJournal</h4>
+                <a href="" target="_blank"></a>
+                <a href="" target="_blank"></a>
+        </li>
+    </ul>
+
+
+    <footer>
+        &copy;copyright &nbsp; <a href="mailto:@qq.com">@qq.com</a>
+    </footer> 
+</body>
+</html>

@@ -1,0 +1,729 @@
+<<<<<<< HEAD
+unobstructed: 英[ˌʌnəbˈstrʌktɪd] 美[ˌʌnəbˈstrʌktɪd]
+%adj. 没有障碍的；畅通无阻的
+    unobstructed progress
+#顺利的进展
+    an unobstructed view
+#一览无余的景色
+
+counterproductive: 英[ˌkaʊntəprəˈdʌktɪv] 美[ˌkaʊntərprəˈdʌktɪv]
+%adj. 事与愿违的，起反作用的
+    Improved safety measures in cars can be counterproductive as they encourage people to drive faster.
+#提高车辆安全度的措施可能产生促使人们开快车的相反结果。
+
+obdurate: 英[ˈɒbdjərət] 美[ˈɑːbdərət]
+%adj. 顽固的，执拗的；冷酷无情的
+    obdurate leaderships
+#顽固不化的领导层
+    These tough uniforms are made of obdurate material.
+#这些结实的制服是用很牢固的料子做的。
+
+pestilential: 英[ˌpestɪˈlenʃ(ə)l] 美[ˌpestɪˈlenʃ(ə)l]
+%adj. 引起瘟疫的；瘟疫似的；讨厌的
+    a pestilential disease
+#疫病
+    pestilential nuisances
+#讨厌的事情
+
+unfounded: 英[ʌnˈfaʊndɪd] 美[ʌnˈfaʊndɪd]
+%adj. 未建立的；没有理由的；没有事实根据的
+    an unfounded accusation
+#没有事实根据的指控
+    an unfounded hope
+#虚幻的希望
+    The palace has dismissed the rumors of a marriage break-up as totally unfounded.
+#王室澄清了婚姻破裂的谣言，说那是毫无事实根据的。
+
+ramshackle: 英[ˈræmʃæk(ə)l] 美[ˈræmʃæk(ə)l]
+%adj. （建筑物、车辆等）摇摇欲坠的，破烂不堪的；（组织或体制）松散的，东拼西凑的
+    a ramshackle old building
+#一栋摇摇欲坠的老房子
+    a ramshackle taxi
+#破旧的出租车
+    ramshackle politics
+#腐败的政治
+    There's a ramshackle old shed at the bottom of the garden.
+#花园的尽头有一间东倒西歪的旧棚子。
+
+truncate: 英[trʌŋˈkeɪt] 美[ˈtrʌŋkeɪt]
+$v. 截断，删节；把……截成平面
+%adj. （叶、羽毛等）截形的；截短的
+    There simply isn't enough time to teach everything, so we've had to truncate the syllabus.
+#绝对没有足够的时间教所有的东西，所以我们不得不删减教学大纲。
+
+coincidental: 英[kəʊˌɪnsɪˈdent(ə)l] 美[koʊˌɪnsɪˈdent(ə)l]
+%adj. 巧合的；符合的；暗合的；一致的
+    Similarity between the two texts is too consistent to be coincidental.
+#这两个文本中的相似之处从头到尾比比皆是，不像是偶然的巧合。
+
+unctuous: 英[ˈʌŋktʃuəs] 美[ˈʌŋktʃuəs]
+%adj. 油质的；虚情假意的；油腔滑调的
+    His unctuous manner bothered her.
+#他虚情假意的样子使她讨厌。
+
+contemplative: 英[kənˈtemplətɪv] 美[kənˈtemplətɪv]
+$adj. 沉思的，冥思的；（对宗教问题）冥想的，敛心默祷的
+%n. 宗教思想家
+    sit in a contemplative mood
+#坐着沉思
+    a contemplative life
+#沉思的生活
+    Her mood was calm and contemplative.
+#她情绪平静，似是沉思。
+
+brutality: 英[bruːˈtæləti] 美[bruːˈtæləti]
+%n. 残忍，野蛮
+    The brutalities committed by them are glossed over in news reports.
+#新闻报道对他们所犯的暴行文过饰非。
+
+placate: 英[pləˈkeɪt] 美[ˈpleɪkeɪt]
+%v. 平息，安抚；怀柔
+    The letter made her furious and it took some time to placate her.
+#那封信使她很生气，过了好些时间她才平静下来。
+
+incompatibility: 英[ˌɪnkəmˌpætəˈbɪləti] 美[ˌɪnkəmˌpætəˈbɪləti]
+%n. 不相容；不协调；不一致
+    Charles decided to leave the firm because of his incompatibility with his workmates.
+#查尔斯因为与同事不能和谐相处而决定离开这个公司。
+
+threadlike: 英[ˈθredˌlaɪk] 美[ˈθredˌlaɪk]
+%adj. 丝状的；细长的
+    a threadlike path
+#线状的小路
+
+ostentation: 英[ˌɒstenˈteɪʃ(ə)n] 美[ˌɑːstenˈteɪʃ(ə)n]
+%n. 卖弄；虚饰；虚有其表
+    He was widely respected in the business world for both his business skills and lack of ostentation.
+#做生意的技巧和不炫耀卖弄使他在生意场上得到了人们广泛的尊敬。
+
+discourteous: 英[dɪsˈkɜːtiəs] 美[dɪsˈkɜːrtiəs]
+%adj. 失礼的，无礼貌的；粗鲁的
+    discourteous attitudes
+#粗鲁的态度
+    The customers said that the employees there were unhelpful and discourteous.
+#顾客说那里的雇员非但不乐于助人且粗鲁无礼。
+
+incorrigible: 英[ɪnˈkɒrɪdʒəb(ə)l] 美[ɪnˈkɔːrɪdʒəb(ə)l]
+$adj. 不可救药的；积习难改的
+%n. 不可救药的人
+    He is an incorrigible liar, but he has great charm.
+#他是个不可救药的说谎者，但他却很有魅力。
+
+committed: 英[kəˈmɪtɪd] 美[kəˈmɪtɪd]
+$adj. 尽心尽力的，忠诚的
+%v. 承诺；委托；干坏事（commit 的过去分词形式）
+    They are committed to withdraw their troops at the end of the year.
+#他们承诺在年底撤出军队。
+
+byzantine: 英[baɪˈzæntaɪn] 美[ˈbɪzəntiːn]
+$adj. 复杂又神秘的
+$adj. (Byzantine)拜占庭式的；东罗马帝国的
+%n. (Byzantine)拜占庭人，拜占庭派的建筑师
+    The procedures surrounding legal redress are byzantine.
+#修改法律的程序是错综复杂的。
+
+schematic: 英[skiːˈmætɪk] 美[skiːˈmætɪk]
+$adj. 概要的，略图的；严谨的，有章法的；（思想、观念等）过分简单化的，程式化的
+%n. （技术用语）（尤指电子电路的）示意图
+    Read the schematic before attempting any repairs.
+#开始修理之前先看一下简图。
+
+apprise: 英[əˈpraɪz] 美[əˈpraɪz]
+%vt. 通知；报告
+    apprise the general of the approach of the enemy
+#向将军通报敌人逼近的消息
+    The president has been apprised of the situation.
+#这一情况已向总统汇报。
+
+fruitlessly: 英[ˈfruːtləsli] 美[ˈfruːtləsli]
+%adv. 无益地，徒劳地
+    For years she has been fruitlessly searching for a company to sponsor her research.
+#多年来，她一直在寻找一家公司资助她的研究项目，但毫无结果。
+
+incongruity: 英[ˌɪnkənˈɡruːəti] 美[ˌɪnkənˈɡruːəti]
+%n. 不协调；不一致；不适宜
+    He seemed unaware of the incongruity of his appearance.
+#他似乎没有注意到自己的外表很怪。
+
+unrestricted: 英[ˌʌnrɪˈstrɪktɪd] 美[ˌʌnrɪˈstrɪktɪd]
+%adj. 自由的；无限制的；不受束缚的
+    the unrestricted dumping of waste
+#无限制的垃圾倾倒
+
+germinate: 英[ˈdʒɜːmɪneɪt] 美[ˈdʒɜːrmɪneɪt]
+$vt. 使发芽；使生长
+%vi. 发芽；生长
+    The possibility of organizing a fact-finding mission was germinating in his mind.
+#组织一个事实调查团的可能性正在他的头脑中酝酿。
+
+civility: 英[səˈvɪləti] 美[səˈvɪləti]
+%n. 礼貌；礼仪；端庄
+    after a few civilities
+#寒暄几句话后
+    an exchange of civilities
+#相互间的一阵寒暄
+    She greeted him with civility, but not much warmth.
+#她对他以礼相待，但不是很热情。
+
+undemanding: 英[ˌʌndɪˈmɑːndɪŋ] 美[ˌʌndɪˈmændɪŋ]
+%adj. 要求不高的；容易的；不严格的
+    an undemanding job
+#要求不高的工作
+    undemanding parents
+#不严苛的双亲
+
+undeserving: 英[ˌʌndɪˈzɜːvɪŋ] 美[ˌʌndɪˈzɜːrvɪŋ]
+%adj. 不值得……的；不配受到的
+    be undeserving of sympathy
+#不值得同情
+    be undeserving of praise
+#不配得到表扬
+
+endemic: 英[enˈdemɪk] 美[enˈdemɪk]
+$adj. 地方性的；风土的
+%n. 地方病
+    endemic poverty
+#地区性的贫困
+    endemic disease
+#地方病
+    endemic species
+#特有物种
+    He said that situation was endemic in parts of the police force.
+#他说那种情况在部分警察队伍中很普遍。
+
+imposture: 英[ɪmˈpɒstʃə(r)] 美[ɪmˈpɑːstʃər]
+%n. 欺诈，欺骗；冒牌
+    by lying and imposture
+#靠撒谎和冒名顶替
+    a thorough imposture
+#彻头彻尾的欺骗行为
+
+unyielding: 英[ʌnˈjiːldɪŋ] 美[ʌnˈjiːldɪŋ]
+%adj. 不屈的；坚强的；[材] 不易弯曲的
+    unyielding determination
+#坚定不移的决心
+
+arresting: 英[əˈrestɪŋ] 美[əˈrestɪŋ]
+$adj. 醒目的；引人注意的
+%v. 逮捕；扣留（船只）；抑制；心脏病发作；吸引（某人的）注意（arrest 的现在分词）
+    an arresting woman
+#引人注目的女子
+    an arresting headline on the front page
+#头版上醒目的大标题
+    She gave an arresting account of how she was rescued from a burning building.
+#她生动地叙述了她怎样从着火的大楼中被救出来的情景。
+
+obviate: 英[ˈɒbvieɪt] 美[ˈɑːbvieɪt]
+%vt. 排除；避免；消除
+    A peaceful solution would obviate the need to send a UN peace-keeping force.
+#如果能和平解决的话就没有必要派联合国维和部队。
+
+precipitous: 英[prɪˈsɪpɪtəs] 美[prɪˈsɪpɪtəs]
+%adj. 险峻的；急躁的，鲁莽的
+    the precipitous mountain road
+#陡峭的山路
+    the precipitous fall in car sales
+#汽车销售暴跌
+    He always chooses the most precipitous slopes to ski down because he loves a challenge.
+#他总是选择最陡峭的山坡向下滑雪，因为他喜欢冒险。
+
+prosaic: 英[prəˈzeɪɪk] 美[proʊˈzeɪɪk]
+%adj. 平凡的，乏味的；散文体的
+    lead a prosaic life
+#过平凡的生活
+    a prosaic job
+#乏味的工作
+    a prosaic statement of weather conditions
+#对天气情况的如实陈述
+    I felt the book was spoilt by its prosaic dialogue.
+#我觉得这本书被其中无趣的对话糟踢了。
+
+iconoclasm: 英[aɪˈkɒnəklæzəm] 美[aɪˈkɑːnəklæzəm]
+%n. 打破旧习；破坏偶像；破坏偶像主义
+    Mark's iconoclasm led him to mount a series of verbal and physical attacks on the church.
+#马克打破旧传统的主张使他对教堂发动了一系列言语和行动上的攻击。
+
+semi-molten: 英[ˈsemi ˈməʊltən] 美[ˈsemi ˈmoʊltən]
+%adj. 半熔化的
+    semi-molten ice
+#半融化的冰
+
+amiability: 英[ˌeɪmiəˈbɪləti] 美[ˌeɪmiəˈbɪləti]
+%n. 可爱；和蔼可亲；友善
+    I hate all that false amiability that goes on at parties.
+#我讨厌聚会时人们的那种虚假的一团和气。
+
+chagrin: 英[ˈʃæɡrɪn] 美[ʃəˈɡrɪn]
+$n. 懊恼；委屈；气愤
+$vt. 使……懊恼
+%n. （Chagrin）人名；（英）沙格兰
+    feel chagrin over sth.
+#对某事感到懊恼
+    much to one's chagrin
+#使某人懊悔的是
+    Their neglect of his welfare chagrined him.
+#他们对他的福利漠不关心使他感到苦恼。
+
+chary: 英[ˈtʃeəri] 美[ˈtʃeri]
+$adj. 谨慎的；仔细的；吝啬的；怕羞的
+%n. （Chary）人名；（法）沙里；（俄）恰雷
+    They are understandably chary about disclosing their personal details.
+#他们对公开个人资料十分小心，这是可以理解的。
+
+hypocritical: 英[ˌhɪpəˈkrɪtɪk(ə)l] 美[ˌhɪpəˈkrɪtɪk(ə)l]
+%adj. 虚伪的，伪善的
+    hypocritical affection
+#虚假的情谊
+    Their accusations of corruption are hypocritical -- they have been just as corrupt themselves.
+#他们对腐败的指控非常虚伪——他们自己也同样腐败。
+
+obsequious: 英[əbˈsiːkwiəs] 美[əbˈsiːkwiəs]
+%adj. 谄媚的；奉承的；顺从的
+    an obsequious compliment
+#谄媚的恭维
+    She was almost embarrassingly obsequious to anyone in authority.
+#她几乎去巴结了每一个当权者，真叫人难为情。
+
+abatement: 英[əˈbeɪtmənt] 美[əˈbeɪtmənt]
+%n. 减少；消除；减轻
+    a society for noise abatement
+#一个致力于减少噪声的社团
+    the abatement of a storm
+#暴风雨的减弱
+    the abatement of hopes
+#希望的逐渐破灭
+
+spongy: 英[ˈspʌndʒi] 美[ˈspʌndʒi]
+%adj. 海绵似的，柔软吸水的；（金属）多孔的；（尤指机动车辆的制动系统）不稳固的
+    a spongy rock
+#多孔的岩石
+    a spongy moor
+#湿软的沼泽
+
+escapism: 英[ɪˈskeɪpɪzəm] 美[ɪˈskeɪpɪzəm]
+%n. 逃避现实，空想；逃避主义
+    For many people going on holiday is a form of escapism.
+#对很多人来说，度假是一种逃避现实的方法。
+
+underutilize: 英[ʌndə'ju:tɪlaɪz] 美[ˌʌndə'ju:tlˌaɪz]
+%vt. 未充分使用
+    A large portion of the country's mineral resources are currently underutilized.
+#那个国家的大部分矿产资源目前没有得到充分利用。
+
+radicalism: 英[ˈrædɪkəlɪzəm] 美[ˈrædɪkəlɪzəm]
+%n. 激进主义
+    The high prices threatened the standard of living of the rural poor and gave rise to radicalism.
+#高物价威胁了农村地区的生活水准，促使了激进主义抬头。
+
+acolyte: 英[ˈækəlaɪt] 美[ˈækəlaɪt]
+%n. 侍僧；助手（指教士的）
+    the managing director's acolyte
+#总经理的助手
+
+inane: 英[ɪˈneɪn] 美[ɪˈneɪn]
+%adj. 空洞的，空虚的；愚蠢的
+    the inane reaches of outer space
+#外层空间的空廓区域
+    There are too many inane quiz shows on television these days.
+#现在电视中毫无意义的智力竞赛节目太多。
+
+extricable: 英[ˈekstrɪkəb(ə)l] 美[ˈekstrɪkəbəl]
+%adj. 可解救的；可救出的
+    I want to help them find some extricable approaches.
+#我想要帮助他们找到有效的方法。
+
+heretical: 英[həˈretɪk(ə)l] 美[həˈretɪk(ə)l]
+%adj. 异端的；异教的
+    Her belief that a split would be good for the party was regarded as heretical.
+#她认为分裂对政党有利，此观点被认为是异端邪说。
+
+inconsequential: 英[ɪnˌkɒnsɪˈkwenʃ(ə)l] 美[ɪnˌkɑːnsɪˈkwenʃ(ə)l]
+%adj. 不重要的；不合理的；不合逻辑的
+    He considered the sum inconsequential.
+#他认为那笔钱微不足道。
+
+agrarian: 英[əˈɡreəriən] 美[əˈɡreriən]
+%adj. 土地的；耕地的；有关土地的
+    agrarian land
+#耕地
+    agrarian reform
+#土地改革
+    an agrarian movement
+#农民运动
+    Agrarian production in the region has increased in recent years.
+#这一地区的农业产量在近年来有所增加。
+
+circuitous: 英[səˈkjuːɪtəs] 美[sərˈkjuːɪtəs]
+%adj. 迂曲的；绕行的；迂回线路的
+    a circuitous route
+#迂回的路线
+    be circuitous in speech
+#说话拐弯抹角
+    a circuitous argument
+#间接的论据
+
+=======
+unobstructed: 英[ˌʌnəbˈstrʌktɪd] 美[ˌʌnəbˈstrʌktɪd]
+%adj. 没有障碍的；畅通无阻的
+    unobstructed progress
+#顺利的进展
+    an unobstructed view
+#一览无余的景色
+
+counterproductive: 英[ˌkaʊntəprəˈdʌktɪv] 美[ˌkaʊntərprəˈdʌktɪv]
+%adj. 事与愿违的，起反作用的
+    Improved safety measures in cars can be counterproductive as they encourage people to drive faster.
+#提高车辆安全度的措施可能产生促使人们开快车的相反结果。
+
+obdurate: 英[ˈɒbdjərət] 美[ˈɑːbdərət]
+%adj. 顽固的，执拗的；冷酷无情的
+    obdurate leaderships
+#顽固不化的领导层
+    These tough uniforms are made of obdurate material.
+#这些结实的制服是用很牢固的料子做的。
+
+pestilential: 英[ˌpestɪˈlenʃ(ə)l] 美[ˌpestɪˈlenʃ(ə)l]
+%adj. 引起瘟疫的；瘟疫似的；讨厌的
+    a pestilential disease
+#疫病
+    pestilential nuisances
+#讨厌的事情
+
+unfounded: 英[ʌnˈfaʊndɪd] 美[ʌnˈfaʊndɪd]
+%adj. 未建立的；没有理由的；没有事实根据的
+    an unfounded accusation
+#没有事实根据的指控
+    an unfounded hope
+#虚幻的希望
+    The palace has dismissed the rumors of a marriage break-up as totally unfounded.
+#王室澄清了婚姻破裂的谣言，说那是毫无事实根据的。
+
+ramshackle: 英[ˈræmʃæk(ə)l] 美[ˈræmʃæk(ə)l]
+%adj. （建筑物、车辆等）摇摇欲坠的，破烂不堪的；（组织或体制）松散的，东拼西凑的
+    a ramshackle old building
+#一栋摇摇欲坠的老房子
+    a ramshackle taxi
+#破旧的出租车
+    ramshackle politics
+#腐败的政治
+    There's a ramshackle old shed at the bottom of the garden.
+#花园的尽头有一间东倒西歪的旧棚子。
+
+truncate: 英[trʌŋˈkeɪt] 美[ˈtrʌŋkeɪt]
+$v. 截断，删节；把……截成平面
+%adj. （叶、羽毛等）截形的；截短的
+    There simply isn't enough time to teach everything, so we've had to truncate the syllabus.
+#绝对没有足够的时间教所有的东西，所以我们不得不删减教学大纲。
+
+coincidental: 英[kəʊˌɪnsɪˈdent(ə)l] 美[koʊˌɪnsɪˈdent(ə)l]
+%adj. 巧合的；符合的；暗合的；一致的
+    Similarity between the two texts is too consistent to be coincidental.
+#这两个文本中的相似之处从头到尾比比皆是，不像是偶然的巧合。
+
+unctuous: 英[ˈʌŋktʃuəs] 美[ˈʌŋktʃuəs]
+%adj. 油质的；虚情假意的；油腔滑调的
+    His unctuous manner bothered her.
+#他虚情假意的样子使她讨厌。
+
+contemplative: 英[kənˈtemplətɪv] 美[kənˈtemplətɪv]
+$adj. 沉思的，冥思的；（对宗教问题）冥想的，敛心默祷的
+%n. 宗教思想家
+    sit in a contemplative mood
+#坐着沉思
+    a contemplative life
+#沉思的生活
+    Her mood was calm and contemplative.
+#她情绪平静，似是沉思。
+
+brutality: 英[bruːˈtæləti] 美[bruːˈtæləti]
+%n. 残忍，野蛮
+    The brutalities committed by them are glossed over in news reports.
+#新闻报道对他们所犯的暴行文过饰非。
+
+placate: 英[pləˈkeɪt] 美[ˈpleɪkeɪt]
+%v. 平息，安抚；怀柔
+    The letter made her furious and it took some time to placate her.
+#那封信使她很生气，过了好些时间她才平静下来。
+
+incompatibility: 英[ˌɪnkəmˌpætəˈbɪləti] 美[ˌɪnkəmˌpætəˈbɪləti]
+%n. 不相容；不协调；不一致
+    Charles decided to leave the firm because of his incompatibility with his workmates.
+#查尔斯因为与同事不能和谐相处而决定离开这个公司。
+
+threadlike: 英[ˈθredˌlaɪk] 美[ˈθredˌlaɪk]
+%adj. 丝状的；细长的
+    a threadlike path
+#线状的小路
+
+ostentation: 英[ˌɒstenˈteɪʃ(ə)n] 美[ˌɑːstenˈteɪʃ(ə)n]
+%n. 卖弄；虚饰；虚有其表
+    He was widely respected in the business world for both his business skills and lack of ostentation.
+#做生意的技巧和不炫耀卖弄使他在生意场上得到了人们广泛的尊敬。
+
+discourteous: 英[dɪsˈkɜːtiəs] 美[dɪsˈkɜːrtiəs]
+%adj. 失礼的，无礼貌的；粗鲁的
+    discourteous attitudes
+#粗鲁的态度
+    The customers said that the employees there were unhelpful and discourteous.
+#顾客说那里的雇员非但不乐于助人且粗鲁无礼。
+
+incorrigible: 英[ɪnˈkɒrɪdʒəb(ə)l] 美[ɪnˈkɔːrɪdʒəb(ə)l]
+$adj. 不可救药的；积习难改的
+%n. 不可救药的人
+    He is an incorrigible liar, but he has great charm.
+#他是个不可救药的说谎者，但他却很有魅力。
+
+committed: 英[kəˈmɪtɪd] 美[kəˈmɪtɪd]
+$adj. 尽心尽力的，忠诚的
+%v. 承诺；委托；干坏事（commit 的过去分词形式）
+    They are committed to withdraw their troops at the end of the year.
+#他们承诺在年底撤出军队。
+
+byzantine: 英[baɪˈzæntaɪn] 美[ˈbɪzəntiːn]
+$adj. 复杂又神秘的
+$adj. (Byzantine)拜占庭式的；东罗马帝国的
+%n. (Byzantine)拜占庭人，拜占庭派的建筑师
+    The procedures surrounding legal redress are byzantine.
+#修改法律的程序是错综复杂的。
+
+schematic: 英[skiːˈmætɪk] 美[skiːˈmætɪk]
+$adj. 概要的，略图的；严谨的，有章法的；（思想、观念等）过分简单化的，程式化的
+%n. （技术用语）（尤指电子电路的）示意图
+    Read the schematic before attempting any repairs.
+#开始修理之前先看一下简图。
+
+apprise: 英[əˈpraɪz] 美[əˈpraɪz]
+%vt. 通知；报告
+    apprise the general of the approach of the enemy
+#向将军通报敌人逼近的消息
+    The president has been apprised of the situation.
+#这一情况已向总统汇报。
+
+fruitlessly: 英[ˈfruːtləsli] 美[ˈfruːtləsli]
+%adv. 无益地，徒劳地
+    For years she has been fruitlessly searching for a company to sponsor her research.
+#多年来，她一直在寻找一家公司资助她的研究项目，但毫无结果。
+
+incongruity: 英[ˌɪnkənˈɡruːəti] 美[ˌɪnkənˈɡruːəti]
+%n. 不协调；不一致；不适宜
+    He seemed unaware of the incongruity of his appearance.
+#他似乎没有注意到自己的外表很怪。
+
+unrestricted: 英[ˌʌnrɪˈstrɪktɪd] 美[ˌʌnrɪˈstrɪktɪd]
+%adj. 自由的；无限制的；不受束缚的
+    the unrestricted dumping of waste
+#无限制的垃圾倾倒
+
+germinate: 英[ˈdʒɜːmɪneɪt] 美[ˈdʒɜːrmɪneɪt]
+$vt. 使发芽；使生长
+%vi. 发芽；生长
+    The possibility of organizing a fact-finding mission was germinating in his mind.
+#组织一个事实调查团的可能性正在他的头脑中酝酿。
+
+civility: 英[səˈvɪləti] 美[səˈvɪləti]
+%n. 礼貌；礼仪；端庄
+    after a few civilities
+#寒暄几句话后
+    an exchange of civilities
+#相互间的一阵寒暄
+    She greeted him with civility, but not much warmth.
+#她对他以礼相待，但不是很热情。
+
+undemanding: 英[ˌʌndɪˈmɑːndɪŋ] 美[ˌʌndɪˈmændɪŋ]
+%adj. 要求不高的；容易的；不严格的
+    an undemanding job
+#要求不高的工作
+    undemanding parents
+#不严苛的双亲
+
+undeserving: 英[ˌʌndɪˈzɜːvɪŋ] 美[ˌʌndɪˈzɜːrvɪŋ]
+%adj. 不值得……的；不配受到的
+    be undeserving of sympathy
+#不值得同情
+    be undeserving of praise
+#不配得到表扬
+
+endemic: 英[enˈdemɪk] 美[enˈdemɪk]
+$adj. 地方性的；风土的
+%n. 地方病
+    endemic poverty
+#地区性的贫困
+    endemic disease
+#地方病
+    endemic species
+#特有物种
+    He said that situation was endemic in parts of the police force.
+#他说那种情况在部分警察队伍中很普遍。
+
+imposture: 英[ɪmˈpɒstʃə(r)] 美[ɪmˈpɑːstʃər]
+%n. 欺诈，欺骗；冒牌
+    by lying and imposture
+#靠撒谎和冒名顶替
+    a thorough imposture
+#彻头彻尾的欺骗行为
+
+unyielding: 英[ʌnˈjiːldɪŋ] 美[ʌnˈjiːldɪŋ]
+%adj. 不屈的；坚强的；[材] 不易弯曲的
+    unyielding determination
+#坚定不移的决心
+
+arresting: 英[əˈrestɪŋ] 美[əˈrestɪŋ]
+$adj. 醒目的；引人注意的
+%v. 逮捕；扣留（船只）；抑制；心脏病发作；吸引（某人的）注意（arrest 的现在分词）
+    an arresting woman
+#引人注目的女子
+    an arresting headline on the front page
+#头版上醒目的大标题
+    She gave an arresting account of how she was rescued from a burning building.
+#她生动地叙述了她怎样从着火的大楼中被救出来的情景。
+
+obviate: 英[ˈɒbvieɪt] 美[ˈɑːbvieɪt]
+%vt. 排除；避免；消除
+    A peaceful solution would obviate the need to send a UN peace-keeping force.
+#如果能和平解决的话就没有必要派联合国维和部队。
+
+precipitous: 英[prɪˈsɪpɪtəs] 美[prɪˈsɪpɪtəs]
+%adj. 险峻的；急躁的，鲁莽的
+    the precipitous mountain road
+#陡峭的山路
+    the precipitous fall in car sales
+#汽车销售暴跌
+    He always chooses the most precipitous slopes to ski down because he loves a challenge.
+#他总是选择最陡峭的山坡向下滑雪，因为他喜欢冒险。
+
+prosaic: 英[prəˈzeɪɪk] 美[proʊˈzeɪɪk]
+%adj. 平凡的，乏味的；散文体的
+    lead a prosaic life
+#过平凡的生活
+    a prosaic job
+#乏味的工作
+    a prosaic statement of weather conditions
+#对天气情况的如实陈述
+    I felt the book was spoilt by its prosaic dialogue.
+#我觉得这本书被其中无趣的对话糟踢了。
+
+iconoclasm: 英[aɪˈkɒnəklæzəm] 美[aɪˈkɑːnəklæzəm]
+%n. 打破旧习；破坏偶像；破坏偶像主义
+    Mark's iconoclasm led him to mount a series of verbal and physical attacks on the church.
+#马克打破旧传统的主张使他对教堂发动了一系列言语和行动上的攻击。
+
+semi-molten: 英[ˈsemi ˈməʊltən] 美[ˈsemi ˈmoʊltən]
+%adj. 半熔化的
+    semi-molten ice
+#半融化的冰
+
+amiability: 英[ˌeɪmiəˈbɪləti] 美[ˌeɪmiəˈbɪləti]
+%n. 可爱；和蔼可亲；友善
+    I hate all that false amiability that goes on at parties.
+#我讨厌聚会时人们的那种虚假的一团和气。
+
+chagrin: 英[ˈʃæɡrɪn] 美[ʃəˈɡrɪn]
+$n. 懊恼；委屈；气愤
+$vt. 使……懊恼
+%n. （Chagrin）人名；（英）沙格兰
+    feel chagrin over sth.
+#对某事感到懊恼
+    much to one's chagrin
+#使某人懊悔的是
+    Their neglect of his welfare chagrined him.
+#他们对他的福利漠不关心使他感到苦恼。
+
+chary: 英[ˈtʃeəri] 美[ˈtʃeri]
+$adj. 谨慎的；仔细的；吝啬的；怕羞的
+%n. （Chary）人名；（法）沙里；（俄）恰雷
+    They are understandably chary about disclosing their personal details.
+#他们对公开个人资料十分小心，这是可以理解的。
+
+hypocritical: 英[ˌhɪpəˈkrɪtɪk(ə)l] 美[ˌhɪpəˈkrɪtɪk(ə)l]
+%adj. 虚伪的，伪善的
+    hypocritical affection
+#虚假的情谊
+    Their accusations of corruption are hypocritical -- they have been just as corrupt themselves.
+#他们对腐败的指控非常虚伪——他们自己也同样腐败。
+
+obsequious: 英[əbˈsiːkwiəs] 美[əbˈsiːkwiəs]
+%adj. 谄媚的；奉承的；顺从的
+    an obsequious compliment
+#谄媚的恭维
+    She was almost embarrassingly obsequious to anyone in authority.
+#她几乎去巴结了每一个当权者，真叫人难为情。
+
+abatement: 英[əˈbeɪtmənt] 美[əˈbeɪtmənt]
+%n. 减少；消除；减轻
+    a society for noise abatement
+#一个致力于减少噪声的社团
+    the abatement of a storm
+#暴风雨的减弱
+    the abatement of hopes
+#希望的逐渐破灭
+
+spongy: 英[ˈspʌndʒi] 美[ˈspʌndʒi]
+%adj. 海绵似的，柔软吸水的；（金属）多孔的；（尤指机动车辆的制动系统）不稳固的
+    a spongy rock
+#多孔的岩石
+    a spongy moor
+#湿软的沼泽
+
+escapism: 英[ɪˈskeɪpɪzəm] 美[ɪˈskeɪpɪzəm]
+%n. 逃避现实，空想；逃避主义
+    For many people going on holiday is a form of escapism.
+#对很多人来说，度假是一种逃避现实的方法。
+
+underutilize: 英[ʌndə'ju:tɪlaɪz] 美[ˌʌndə'ju:tlˌaɪz]
+%vt. 未充分使用
+    A large portion of the country's mineral resources are currently underutilized.
+#那个国家的大部分矿产资源目前没有得到充分利用。
+
+radicalism: 英[ˈrædɪkəlɪzəm] 美[ˈrædɪkəlɪzəm]
+%n. 激进主义
+    The high prices threatened the standard of living of the rural poor and gave rise to radicalism.
+#高物价威胁了农村地区的生活水准，促使了激进主义抬头。
+
+acolyte: 英[ˈækəlaɪt] 美[ˈækəlaɪt]
+%n. 侍僧；助手（指教士的）
+    the managing director's acolyte
+#总经理的助手
+
+inane: 英[ɪˈneɪn] 美[ɪˈneɪn]
+%adj. 空洞的，空虚的；愚蠢的
+    the inane reaches of outer space
+#外层空间的空廓区域
+    There are too many inane quiz shows on television these days.
+#现在电视中毫无意义的智力竞赛节目太多。
+
+extricable: 英[ˈekstrɪkəb(ə)l] 美[ˈekstrɪkəbəl]
+%adj. 可解救的；可救出的
+    I want to help them find some extricable approaches.
+#我想要帮助他们找到有效的方法。
+
+heretical: 英[həˈretɪk(ə)l] 美[həˈretɪk(ə)l]
+%adj. 异端的；异教的
+    Her belief that a split would be good for the party was regarded as heretical.
+#她认为分裂对政党有利，此观点被认为是异端邪说。
+
+inconsequential: 英[ɪnˌkɒnsɪˈkwenʃ(ə)l] 美[ɪnˌkɑːnsɪˈkwenʃ(ə)l]
+%adj. 不重要的；不合理的；不合逻辑的
+    He considered the sum inconsequential.
+#他认为那笔钱微不足道。
+
+agrarian: 英[əˈɡreəriən] 美[əˈɡreriən]
+%adj. 土地的；耕地的；有关土地的
+    agrarian land
+#耕地
+    agrarian reform
+#土地改革
+    an agrarian movement
+#农民运动
+    Agrarian production in the region has increased in recent years.
+#这一地区的农业产量在近年来有所增加。
+
+circuitous: 英[səˈkjuːɪtəs] 美[sərˈkjuːɪtəs]
+%adj. 迂曲的；绕行的；迂回线路的
+    a circuitous route
+#迂回的路线
+    be circuitous in speech
+#说话拐弯抹角
+    a circuitous argument
+#间接的论据
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,757 @@
+<<<<<<< HEAD
+﻿raciness: 英[ˈreɪsɪnəs] 美[ˈreɪsinəs]
+%n. 辛辣；风味好；爽利；近乎淫猥
+    There is an innate raciness to this place, tinged with fun, squalor, a sense of tolerance and a hint of excitement.
+#这个地方有一种天生的活力，有趣，有点儿脏，存在一种容忍的意识和一点儿兴奋的感觉。
+
+calculable: 英[ˈkælkjələb(ə)l] 美[ˈkælkjələb(ə)l]
+%adj. 可计算的；能预测的；可靠的
+    The map was designed so that distances by road are easily calculable.
+#这幅地图的设计使陆路旅程很容易计算出来。
+
+natty: 英[ˈnæti] 美[ˈnæti]
+$adj. 整洁的；敏捷的；考虑周到的；清楚的
+%n. （Natty）人名；（英）纳蒂
+    a glamorous air hostess in a natty cap
+#戴一顶亮帽子的迷人的航空小姐
+    He's always been a natty dresser.
+#他总是衣冠楚楚。
+
+irreproachable: 英[ˌɪrɪˈprəʊtʃəb(ə)l] 美[ˌɪrɪˈproʊtʃəb(ə)l]
+%adj. 无可指责的；无过失的
+    an irreproachable conduct
+#无可指责的行为
+    He spoke excellent, irreproachable English.
+#他说着一口无懈可击的完美英语。
+
+psyche: 英[ˈsaɪki] 美[ˈsaɪki]
+%n. 灵魂；心智
+    recesses of the psyche
+#灵魂深处
+    These feelings lie deep in his psyche.
+#这些感情深深地埋藏在他的心灵中。
+
+unimpeachable: 英[ˌʌnɪmˈpiːtʃəb(ə)l] 美[ˌʌnɪmˈpiːtʃəb(ə)l]
+%adj. 无可指责的；无可怀疑的；无懈可击的；无过失的，无罪的
+    information from an unimpeachable source
+#来源可靠的消息
+    He was a man of unimpeachable integrity and character.
+#他是个正直高尚、品格上无可指责的人。
+
+fervid: 英[ˈfɜːvɪd] 美[ˈfɜːrvɪd]
+%adj. 热的；热心的
+    a fervid supporter
+#热情的支持者
+    a fervid hope
+#热切希望
+    fervid enthusiasm
+#高昂的热情
+    It was a debate which aroused fervid ethical arguments.
+#那是一场引发了热烈伦理道德争论的辩论。
+
+prostrate: 英[ˈprɒstreɪt] 美[ˈprɑːstreɪt]
+$adj. 俯卧的；拜倒的；降伏的；沮丧的
+%vt. 使……屈服；将……弄倒；使……俯伏
+    prostrate on the ground
+#俯卧在地上
+    prostrate oneself before the golden statue
+#拜倒在金色塑像前
+    be prostrated with grief
+#被悲痛所击垮
+    lie prostrate at the feet of sb.
+#拜倒在某人脚下
+    She lay prostrate on the cold chapel floor while the other nuns sat in silence.
+#她匐在教堂冰冷的地上，而其他修女默然坐着。
+
+undesirable: 英[ˌʌndɪˈzaɪərəb(ə)l] 美[ˌʌndɪˈzaɪərəb(ə)l]
+$adj. 不受欢迎的，不良的，不想要的
+%n. 不良分子，不受欢迎的人
+    undesirable reading material
+#不良读物
+    be led astray by undesirable companions
+#被行为不端的伙伴引人歧途
+    Houses near industrial sites often do not sell so quickly because they are regarded as undesirable.
+#邻近工厂的房屋经常出售得不那么顺利，因为它们不被看好。
+
+embezzlement: 英[ɪmˈbez(ə)lmənt] 美[ɪmˈbez(ə)lmənt]
+%n. 侵占；挪用；盗用
+    He was arrested for embezzlement of company funds.
+#他因贪污公司资金被逮捕。
+
+impiety: 英[ɪmˈpaɪəti] 美[ɪmˈpaɪəti]
+%n. 不虔诚；不尊敬；无信仰；无信心
+    The church accused him of impiety and had all his writings burned.
+#教会指责他不诚，并把他写的东西都焚毁。
+
+irrepressible: 英[ˌɪrɪˈpresəb(ə)l] 美[ˌɪrɪˈpresəb(ə)l]
+%adj. 抑制不住的；压服不了的
+    an irrepressible desire
+#抑制不住的欲望
+    an irrepressible shudder
+#不由自主的寒战
+    Even the bad weather failed to dampen his irrepressible spirits.
+#甚至坏天气也未能让他高涨的情绪消沉。
+
+untasted: 英[ʌnˈteɪstɪd] 美[ʌnˈteɪstəd]
+%adj. 未经辨味的；未体验过的
+    Her supper stood on the table, untasted.
+#她的晚饭搁在桌上，一口未动。
+
+immense: 英[ɪˈmens] 美[ɪˈmens]
+%adj. 极大的，巨大的；非常好，极好；无边无际的
+    an immense amount of time
+#大量时间
+    be of immense importance
+#非常重要
+    an immense ocean
+#浩渺的海洋
+    have immense faith in sb.
+#无限信任某人
+    The square is dominated by an immense statue of the president.
+#一尊总统的巨大塑像高耸于广场上。
+
+presumptuous: 英[prɪˈzʌmptʃuəs] 美[prɪˈzʌmptʃuəs]
+%adj. 专横的；放肆的；冒昧的
+    It would be presumptuous of me to comment on the matter.
+#我对这件事发表评论也许是很冒昧的。
+
+unenlightened: 英[ˌʌnɪnˈlaɪt(ə)nd] 美[ˌʌnɪnˈlaɪt(ə)nd]
+%adj. 落后的；无知的；未受启迪的
+    unenlightened mind
+#无知的头脑
+
+formulaic: 英[ˌfɔːmjuˈleɪɪk] 美[ˌfɔːrmjuˈleɪɪk]
+%adj. 公式化的；刻板的；套话堆砌的
+    The text was dull and formulaic.
+#这课文既枯燥又古板。
+
+unheralded: 英[ʌnˈherəldɪd] 美[ʌnˈherəldɪd]
+%adj. 未事先宣布的；没料到的；未被承认的
+    an unheralded author
+#无名氏作者
+    a totally unheralded letter
+#一封完全没有预料到的信
+    Unheralded conflicts have a way of exploding.
+#出其不意的冲突常有爆炸性。
+
+patriarchal: 英[ˌpeɪtriˈɑːk(ə)l] 美[ˌpeɪtriˈɑːrk(ə)l]
+%adj. 父权制的，男性主宰统治的；族长的，家长的
+    It was a patriarchal society.
+#那是一个父权制社会。
+
+burning: 英[ˈbɜːnɪŋ] 美[ˈbɜːrnɪŋ]
+$adj. 燃烧的，着火的；强烈的，热切的；炙热的，明亮的；疼痛的，火辣辣的；事关紧要的
+$adv. 炙热地，火热地
+$n. 灼热，烧毁
+%v. 燃烧，消耗；烧坏，烧毁；火辣辣地发痛，发烫（burn 的现在分词）
+    the burning sun
+#火辣辣的太阳
+    feel burning with fever
+#觉得烧得厉害
+    a burning anger
+#极度的恼火
+    walk in the burning cold
+#在严寒中行走
+    a burning issue
+#急迫之事
+    a burning shame
+#奇耻大辱
+    Suddenly she felt a burning sensation in her throat.
+#突然她感到喉呢如火烧。
+
+comprehensively: 英[ˌkɒmprɪˈhensɪvli] 美[ˌkɑːmprɪˈhensɪvli]
+%adv. 包括地；包括一切地；完全地；彻底地；全面地
+    a comprehensively illustrated book
+#一本有详尽插图的书
+    The plan has been comprehensively rejected.
+#这个计划遭到了全面拒绝。
+
+sedulous: 英[ˈsedʒələs] 美[ˈsedʒələs]
+%adj. 聚精会神的；勤勉的；勤苦工作的
+    a sedulous student
+#勤奋的学生
+    sedulous flattery
+#百般奉承
+
+uninspired: 英[ˌʌnɪnˈspaɪəd] 美[ˌʌnɪnˈspaɪərd]
+%adj. 无灵感的；缺乏创见的；平凡的
+    an uninspired teacher
+#缺乏想象力的教师
+    an uninspired performance
+#沉闷的演出
+
+antiquarianism: 英[ˌæntɪˈkweəriənɪzəm] 美[ˌæntɪˈkweriənɪzəm]
+%n. 古物研究，好古癖
+    Antiquarianism does not provide the answers any more than does immersion in today's technical achievements.
+#复古主义不是答案，就像沉醉于当今的技术发展不能解决问题一样。
+
+contravene: 英[ˌkɒntrəˈviːn] 美[ˌkɑːntrəˈviːn]
+%vt. 抵触；违反；反驳；否认
+    The penalties for contravening that law are very serious.
+#违反该法将受到严惩。
+
+unmatched: 英[ˌʌnˈmætʃt] 美[ˌʌnˈmætʃt]
+%adj. 无与伦比的；不相配的；无匹敌的
+    unmatched courage
+#无比的勇气
+    unmatched shoes
+#不配对的鞋子
+    She has an intellectual capacity unmatched in the rest of the group.
+#她拥有小组中其他人望尘莫及的知识水平。
+
+deference: 英[ˈdefərəns] 美[ˈdefərəns]
+%n. 尊重，遵从
+    in/out of deference to
+#遵从，鉴于，出于尊重
+    pay/show deference to
+#尊重
+    She covered her head out of deference to Muslim custom.
+#出于对穆斯林风俗的尊重，她把头包了起来。
+
+inexplicable: 英[ˌɪnɪkˈsplɪkəb(ə)l] 美[ˌɪnɪkˈsplɪkəb(ə)l]
+%adj. 费解的；无法说明的；不能解释的
+    an inexplicable fire
+#不明原因的火灾
+    an inexplicable action
+#费解的行为
+    I found her decision inexplicable.
+#我觉得她的决定令人费解。
+
+commiserate: 英[kəˈmɪzəreɪt] 美[kəˈmɪzəreɪt]
+$vt. 同情，怜悯
+%vi. 同情，怜悯；吊慰
+    commiserate with sb.
+#对某人表示同情
+    I was just commiserating with Dan over the loss of his pet dog.
+#我对丹失去了他的宠物狗表示同情。
+
+embellishment: 英[ɪmˈbelɪʃmənt] 美[ɪmˈbelɪʃmənt]
+%n. 装饰，修饰；润色
+    the embellishment of the new cathedral
+#新教堂的装修
+    a gown with many gold embellishments
+#有许多金饰的长袍
+    I told him flatly and without embellishment.
+#我直截了当地告诉了他，一点都不添枝加叶。
+
+disinclination: 英[ˌdɪsˌɪnklɪˈneɪʃ(ə)n] 美[ˌdɪsˌɪnklɪˈneɪʃn]
+%n. 不感兴趣；厌恶；不起劲
+    have a strong disinclination to do any work
+#一种强烈的、不愿做任何事情的感觉
+    have a disinclination for hard work
+#不愿做苦的工作
+
+topographical: 英[ˌtɒpəˈɡræfɪk(ə)l] 美[ˌtɑːpəˈɡræfɪk(ə)l]
+%adj. 地质的；地形学的（等于topographic）
+    topographical features
+#地形
+    a topographical poem
+#风景诗
+
+dysfunctional: 英[dɪsˈfʌŋkʃənl] 美[dɪsˈfʌŋkʃən(ə)l]
+%adj. 机能失调的，功能障碍的
+    a dysfunctional family
+#机能障碍的家族
+
+ameliorate: 英[əˈmiːliəreɪt] 美[əˈmiːliəreɪt]
+%v. <正式>改善，改良，减轻；变得更好
+    ameliorate relations
+#改善关系
+    ameliorate living conditions
+#改善居住条件
+    Foreign aid is badly needed to ameliorate the effects of the drought.
+#我们急需外国援助来缓解早灾的影响。
+
+null: 英[nʌl] 美[nʌl]
+$adj. 无约束力的，无效的；零值的，等于零的；（数）（集合，矩阵）空的，元素只有零的；无特征的，无内涵的
+$n. <文>零；（密码中的）无意义暗码；（电子）无信号；无电磁辐射的方向
+%v. 使（信号）与另一信号结合产生无信号状态，抵消
+    news as null as nothing
+#毫无价值的新闻
+    null and void
+#无效的，无约束力的
+    A promise obtained by force is legally null.
+#以强制手段取得的承诺在法律上是无效的。
+
+aberration: 英[ˌæbəˈreɪʃ(ə)n] 美[ˌæbəˈreɪʃ(ə)n]
+%n. 反常现象，异常行为；偏离；行为异常的人；精神失常；畸变；像差；光行差
+    a temporary aberration
+#暂时的失常
+    an aberration from the truth
+#对真理的歪曲
+    In a moment of aberration, she agreed to go with him.
+#她一时失常，同意与他一起走。
+
+transcontinental: 英[ˌtrænzˌkɒntɪˈnent(ə)l] 美[ˌtrænzˌkɑːntɪˈnentlˌˌtrænsˌkɑːntɪˈnentl]
+%adj. 横贯大陆的；大陆那边的
+    The transcontinental railway goes from New York in the east to San Francisco in the west.
+#横贯大陆的铁路从东部的纽约到西部的旧金山。
+
+unencumbered: 英[ˌʌnɪnˈkʌmbəd] 美[ˌʌnɪnˈkʌmbərd]
+%adj. 没有阻碍的；没有负担的；不受妨碍的
+    live an unencumbered life
+#过无牵挂的生活
+    an unencumbered woman
+#无牵挂的女子
+    He is a man unencumbered by material considerations.
+#他是个不为物质担忧的人。
+
+innermost: 英[ˈɪnəməʊst] 美[ˈɪnərmoʊst]
+%adj. 内心的；最里面的，最深处的；秘密的
+    one's innermost feelings
+#内心深处的感情
+    the innermost recesses of the forest
+#森林最幽深处
+    This is the diary to which she committed all her innermost thoughts and secrets.
+#这是她把内心深处所有的想法和秘密都写进去的那本日记。
+
+concomitant: 英[kənˈkɒmɪtənt] 美[kənˈkɑːmɪtənt]
+$adj. 相伴的；共存的；附随的
+%n. 伴随物
+    poverty and its concomitant misery
+#贫困和随之而来的不幸
+    Concomitant with the rapid economic growth, the volume of export rocketed.
+#随着经济的快速发展，出口量猛增。
+
+irritating: 英[ˈɪrɪteɪtɪŋ] 美[ˈɪrɪteɪtɪŋ]
+$adj. 烦人的，使人恼火的；有刺激性的，引发疼痛的
+%v. 使不耐烦，激怒；刺激（身体某部位），使疼痛；使（生物体、细胞或器官）兴奋（irritate 的现在分词形式）
+    We were continually delayed by small but irritating problems.
+#我们不断地被一些恼人的小问题误事。
+
+totalitarian: 英[təʊˌtæləˈteəriən] 美[toʊˌtæləˈteriən]
+$adj. 极权主义的
+%n. 极权主义者
+    a totalitarian state
+#极权主义国家
+    In totalitarian society, everyone tends to suspect everyone else.
+#在极权主义体制中，每个人往往都会怀疑其他人。
+
+compendium: 英[kəmˈpendiəm] 美[kəmˈpendiəm]
+%n. 纲要；概略
+    a compendium of physics
+#物理学概要
+    It is a gardener's compendium.
+#这是一本园丁手册。
+
+ambidextrous: 英[ˌæmbiˈdekstrəs] 美[ˌæmbiˈdekstrəs]
+%adj. 双手灵巧的；怀有二心的
+    an ambidextrous painter
+#熟练的画家
+    My grandmother was ambidextrous, so she could write with both her left and right hands.
+#我祖母的只手都同样灵活，因此会用两只手同时写字。
+
+boastful: 英[ˈbəʊstfl] 美[ˈboʊstfl]
+%adj. 自吹自擂的，自夸的
+    talk in boastful terms
+#用自夸的言辞讲话
+    a boastful person
+#喜欢自吹自擂的人
+    be boastful of
+#对……夸耀
+
+deprecatory: 英[deprəˈkeɪtərɪ] 美[ˈdeprəkəˌtori]
+%adj. 不赞成的；反对的；恳求的
+    The teacher gave the boys a deprecatory stare and told them to be quiet.
+#老师向男孩们表示责怪地瞪了瞪眼，告诉他们要安静。
+
+redistribute: 英[ˌriːdɪˈstrɪbjuːt; ˌriːˈdɪstrɪbjuːt] 美[ˌriːdɪˈstrɪbjuːt; ˌriːˈdɪstrɪbjuːt]
+%vt. 重新分配；再区分
+    He intends to redistribute income from the middle class to poorly paid employees and pensioners.
+#他意图把从中产阶级到低薪雇员和退休人员的收入做重新分配。
+
+preeminent: 英[ˌpriːˈemɪnənt] 美[ˌpriːˈemɪnənt]
+%adj. 卓越的；超群的
+    a preeminent figure in economic policy
+#经济策领域的卓越人物
+    He is preeminent in Shakespearian roles.
+#他扮演莎士比亚剧中的人物极为出色。
+
+faddish: 英[ˈfædɪʃ] 美[ˈfædɪʃ]
+%adj. 风行的；流行一时的
+    a faddish eater
+#挑食的人
+    a faddish crowd
+#趋附时尚的一伙人
+    Stop being so faddish about what you eat.
+#吃西不要再这么挑三拣四的。
+
+=======
+﻿raciness: 英[ˈreɪsɪnəs] 美[ˈreɪsinəs]
+%n. 辛辣；风味好；爽利；近乎淫猥
+    There is an innate raciness to this place, tinged with fun, squalor, a sense of tolerance and a hint of excitement.
+#这个地方有一种天生的活力，有趣，有点儿脏，存在一种容忍的意识和一点儿兴奋的感觉。
+
+calculable: 英[ˈkælkjələb(ə)l] 美[ˈkælkjələb(ə)l]
+%adj. 可计算的；能预测的；可靠的
+    The map was designed so that distances by road are easily calculable.
+#这幅地图的设计使陆路旅程很容易计算出来。
+
+natty: 英[ˈnæti] 美[ˈnæti]
+$adj. 整洁的；敏捷的；考虑周到的；清楚的
+%n. （Natty）人名；（英）纳蒂
+    a glamorous air hostess in a natty cap
+#戴一顶亮帽子的迷人的航空小姐
+    He's always been a natty dresser.
+#他总是衣冠楚楚。
+
+irreproachable: 英[ˌɪrɪˈprəʊtʃəb(ə)l] 美[ˌɪrɪˈproʊtʃəb(ə)l]
+%adj. 无可指责的；无过失的
+    an irreproachable conduct
+#无可指责的行为
+    He spoke excellent, irreproachable English.
+#他说着一口无懈可击的完美英语。
+
+psyche: 英[ˈsaɪki] 美[ˈsaɪki]
+%n. 灵魂；心智
+    recesses of the psyche
+#灵魂深处
+    These feelings lie deep in his psyche.
+#这些感情深深地埋藏在他的心灵中。
+
+unimpeachable: 英[ˌʌnɪmˈpiːtʃəb(ə)l] 美[ˌʌnɪmˈpiːtʃəb(ə)l]
+%adj. 无可指责的；无可怀疑的；无懈可击的；无过失的，无罪的
+    information from an unimpeachable source
+#来源可靠的消息
+    He was a man of unimpeachable integrity and character.
+#他是个正直高尚、品格上无可指责的人。
+
+fervid: 英[ˈfɜːvɪd] 美[ˈfɜːrvɪd]
+%adj. 热的；热心的
+    a fervid supporter
+#热情的支持者
+    a fervid hope
+#热切希望
+    fervid enthusiasm
+#高昂的热情
+    It was a debate which aroused fervid ethical arguments.
+#那是一场引发了热烈伦理道德争论的辩论。
+
+prostrate: 英[ˈprɒstreɪt] 美[ˈprɑːstreɪt]
+$adj. 俯卧的；拜倒的；降伏的；沮丧的
+%vt. 使……屈服；将……弄倒；使……俯伏
+    prostrate on the ground
+#俯卧在地上
+    prostrate oneself before the golden statue
+#拜倒在金色塑像前
+    be prostrated with grief
+#被悲痛所击垮
+    lie prostrate at the feet of sb.
+#拜倒在某人脚下
+    She lay prostrate on the cold chapel floor while the other nuns sat in silence.
+#她匐在教堂冰冷的地上，而其他修女默然坐着。
+
+undesirable: 英[ˌʌndɪˈzaɪərəb(ə)l] 美[ˌʌndɪˈzaɪərəb(ə)l]
+$adj. 不受欢迎的，不良的，不想要的
+%n. 不良分子，不受欢迎的人
+    undesirable reading material
+#不良读物
+    be led astray by undesirable companions
+#被行为不端的伙伴引人歧途
+    Houses near industrial sites often do not sell so quickly because they are regarded as undesirable.
+#邻近工厂的房屋经常出售得不那么顺利，因为它们不被看好。
+
+embezzlement: 英[ɪmˈbez(ə)lmənt] 美[ɪmˈbez(ə)lmənt]
+%n. 侵占；挪用；盗用
+    He was arrested for embezzlement of company funds.
+#他因贪污公司资金被逮捕。
+
+impiety: 英[ɪmˈpaɪəti] 美[ɪmˈpaɪəti]
+%n. 不虔诚；不尊敬；无信仰；无信心
+    The church accused him of impiety and had all his writings burned.
+#教会指责他不诚，并把他写的东西都焚毁。
+
+irrepressible: 英[ˌɪrɪˈpresəb(ə)l] 美[ˌɪrɪˈpresəb(ə)l]
+%adj. 抑制不住的；压服不了的
+    an irrepressible desire
+#抑制不住的欲望
+    an irrepressible shudder
+#不由自主的寒战
+    Even the bad weather failed to dampen his irrepressible spirits.
+#甚至坏天气也未能让他高涨的情绪消沉。
+
+untasted: 英[ʌnˈteɪstɪd] 美[ʌnˈteɪstəd]
+%adj. 未经辨味的；未体验过的
+    Her supper stood on the table, untasted.
+#她的晚饭搁在桌上，一口未动。
+
+immense: 英[ɪˈmens] 美[ɪˈmens]
+%adj. 极大的，巨大的；非常好，极好；无边无际的
+    an immense amount of time
+#大量时间
+    be of immense importance
+#非常重要
+    an immense ocean
+#浩渺的海洋
+    have immense faith in sb.
+#无限信任某人
+    The square is dominated by an immense statue of the president.
+#一尊总统的巨大塑像高耸于广场上。
+
+presumptuous: 英[prɪˈzʌmptʃuəs] 美[prɪˈzʌmptʃuəs]
+%adj. 专横的；放肆的；冒昧的
+    It would be presumptuous of me to comment on the matter.
+#我对这件事发表评论也许是很冒昧的。
+
+unenlightened: 英[ˌʌnɪnˈlaɪt(ə)nd] 美[ˌʌnɪnˈlaɪt(ə)nd]
+%adj. 落后的；无知的；未受启迪的
+    unenlightened mind
+#无知的头脑
+
+formulaic: 英[ˌfɔːmjuˈleɪɪk] 美[ˌfɔːrmjuˈleɪɪk]
+%adj. 公式化的；刻板的；套话堆砌的
+    The text was dull and formulaic.
+#这课文既枯燥又古板。
+
+unheralded: 英[ʌnˈherəldɪd] 美[ʌnˈherəldɪd]
+%adj. 未事先宣布的；没料到的；未被承认的
+    an unheralded author
+#无名氏作者
+    a totally unheralded letter
+#一封完全没有预料到的信
+    Unheralded conflicts have a way of exploding.
+#出其不意的冲突常有爆炸性。
+
+patriarchal: 英[ˌpeɪtriˈɑːk(ə)l] 美[ˌpeɪtriˈɑːrk(ə)l]
+%adj. 父权制的，男性主宰统治的；族长的，家长的
+    It was a patriarchal society.
+#那是一个父权制社会。
+
+burning: 英[ˈbɜːnɪŋ] 美[ˈbɜːrnɪŋ]
+$adj. 燃烧的，着火的；强烈的，热切的；炙热的，明亮的；疼痛的，火辣辣的；事关紧要的
+$adv. 炙热地，火热地
+$n. 灼热，烧毁
+%v. 燃烧，消耗；烧坏，烧毁；火辣辣地发痛，发烫（burn 的现在分词）
+    the burning sun
+#火辣辣的太阳
+    feel burning with fever
+#觉得烧得厉害
+    a burning anger
+#极度的恼火
+    walk in the burning cold
+#在严寒中行走
+    a burning issue
+#急迫之事
+    a burning shame
+#奇耻大辱
+    Suddenly she felt a burning sensation in her throat.
+#突然她感到喉呢如火烧。
+
+comprehensively: 英[ˌkɒmprɪˈhensɪvli] 美[ˌkɑːmprɪˈhensɪvli]
+%adv. 包括地；包括一切地；完全地；彻底地；全面地
+    a comprehensively illustrated book
+#一本有详尽插图的书
+    The plan has been comprehensively rejected.
+#这个计划遭到了全面拒绝。
+
+sedulous: 英[ˈsedʒələs] 美[ˈsedʒələs]
+%adj. 聚精会神的；勤勉的；勤苦工作的
+    a sedulous student
+#勤奋的学生
+    sedulous flattery
+#百般奉承
+
+uninspired: 英[ˌʌnɪnˈspaɪəd] 美[ˌʌnɪnˈspaɪərd]
+%adj. 无灵感的；缺乏创见的；平凡的
+    an uninspired teacher
+#缺乏想象力的教师
+    an uninspired performance
+#沉闷的演出
+
+antiquarianism: 英[ˌæntɪˈkweəriənɪzəm] 美[ˌæntɪˈkweriənɪzəm]
+%n. 古物研究，好古癖
+    Antiquarianism does not provide the answers any more than does immersion in today's technical achievements.
+#复古主义不是答案，就像沉醉于当今的技术发展不能解决问题一样。
+
+contravene: 英[ˌkɒntrəˈviːn] 美[ˌkɑːntrəˈviːn]
+%vt. 抵触；违反；反驳；否认
+    The penalties for contravening that law are very serious.
+#违反该法将受到严惩。
+
+unmatched: 英[ˌʌnˈmætʃt] 美[ˌʌnˈmætʃt]
+%adj. 无与伦比的；不相配的；无匹敌的
+    unmatched courage
+#无比的勇气
+    unmatched shoes
+#不配对的鞋子
+    She has an intellectual capacity unmatched in the rest of the group.
+#她拥有小组中其他人望尘莫及的知识水平。
+
+deference: 英[ˈdefərəns] 美[ˈdefərəns]
+%n. 尊重，遵从
+    in/out of deference to
+#遵从，鉴于，出于尊重
+    pay/show deference to
+#尊重
+    She covered her head out of deference to Muslim custom.
+#出于对穆斯林风俗的尊重，她把头包了起来。
+
+inexplicable: 英[ˌɪnɪkˈsplɪkəb(ə)l] 美[ˌɪnɪkˈsplɪkəb(ə)l]
+%adj. 费解的；无法说明的；不能解释的
+    an inexplicable fire
+#不明原因的火灾
+    an inexplicable action
+#费解的行为
+    I found her decision inexplicable.
+#我觉得她的决定令人费解。
+
+commiserate: 英[kəˈmɪzəreɪt] 美[kəˈmɪzəreɪt]
+$vt. 同情，怜悯
+%vi. 同情，怜悯；吊慰
+    commiserate with sb.
+#对某人表示同情
+    I was just commiserating with Dan over the loss of his pet dog.
+#我对丹失去了他的宠物狗表示同情。
+
+embellishment: 英[ɪmˈbelɪʃmənt] 美[ɪmˈbelɪʃmənt]
+%n. 装饰，修饰；润色
+    the embellishment of the new cathedral
+#新教堂的装修
+    a gown with many gold embellishments
+#有许多金饰的长袍
+    I told him flatly and without embellishment.
+#我直截了当地告诉了他，一点都不添枝加叶。
+
+disinclination: 英[ˌdɪsˌɪnklɪˈneɪʃ(ə)n] 美[ˌdɪsˌɪnklɪˈneɪʃn]
+%n. 不感兴趣；厌恶；不起劲
+    have a strong disinclination to do any work
+#一种强烈的、不愿做任何事情的感觉
+    have a disinclination for hard work
+#不愿做苦的工作
+
+topographical: 英[ˌtɒpəˈɡræfɪk(ə)l] 美[ˌtɑːpəˈɡræfɪk(ə)l]
+%adj. 地质的；地形学的（等于topographic）
+    topographical features
+#地形
+    a topographical poem
+#风景诗
+
+dysfunctional: 英[dɪsˈfʌŋkʃənl] 美[dɪsˈfʌŋkʃən(ə)l]
+%adj. 机能失调的，功能障碍的
+    a dysfunctional family
+#机能障碍的家族
+
+ameliorate: 英[əˈmiːliəreɪt] 美[əˈmiːliəreɪt]
+%v. <正式>改善，改良，减轻；变得更好
+    ameliorate relations
+#改善关系
+    ameliorate living conditions
+#改善居住条件
+    Foreign aid is badly needed to ameliorate the effects of the drought.
+#我们急需外国援助来缓解早灾的影响。
+
+null: 英[nʌl] 美[nʌl]
+$adj. 无约束力的，无效的；零值的，等于零的；（数）（集合，矩阵）空的，元素只有零的；无特征的，无内涵的
+$n. <文>零；（密码中的）无意义暗码；（电子）无信号；无电磁辐射的方向
+%v. 使（信号）与另一信号结合产生无信号状态，抵消
+    news as null as nothing
+#毫无价值的新闻
+    null and void
+#无效的，无约束力的
+    A promise obtained by force is legally null.
+#以强制手段取得的承诺在法律上是无效的。
+
+aberration: 英[ˌæbəˈreɪʃ(ə)n] 美[ˌæbəˈreɪʃ(ə)n]
+%n. 反常现象，异常行为；偏离；行为异常的人；精神失常；畸变；像差；光行差
+    a temporary aberration
+#暂时的失常
+    an aberration from the truth
+#对真理的歪曲
+    In a moment of aberration, she agreed to go with him.
+#她一时失常，同意与他一起走。
+
+transcontinental: 英[ˌtrænzˌkɒntɪˈnent(ə)l] 美[ˌtrænzˌkɑːntɪˈnentlˌˌtrænsˌkɑːntɪˈnentl]
+%adj. 横贯大陆的；大陆那边的
+    The transcontinental railway goes from New York in the east to San Francisco in the west.
+#横贯大陆的铁路从东部的纽约到西部的旧金山。
+
+unencumbered: 英[ˌʌnɪnˈkʌmbəd] 美[ˌʌnɪnˈkʌmbərd]
+%adj. 没有阻碍的；没有负担的；不受妨碍的
+    live an unencumbered life
+#过无牵挂的生活
+    an unencumbered woman
+#无牵挂的女子
+    He is a man unencumbered by material considerations.
+#他是个不为物质担忧的人。
+
+innermost: 英[ˈɪnəməʊst] 美[ˈɪnərmoʊst]
+%adj. 内心的；最里面的，最深处的；秘密的
+    one's innermost feelings
+#内心深处的感情
+    the innermost recesses of the forest
+#森林最幽深处
+    This is the diary to which she committed all her innermost thoughts and secrets.
+#这是她把内心深处所有的想法和秘密都写进去的那本日记。
+
+concomitant: 英[kənˈkɒmɪtənt] 美[kənˈkɑːmɪtənt]
+$adj. 相伴的；共存的；附随的
+%n. 伴随物
+    poverty and its concomitant misery
+#贫困和随之而来的不幸
+    Concomitant with the rapid economic growth, the volume of export rocketed.
+#随着经济的快速发展，出口量猛增。
+
+irritating: 英[ˈɪrɪteɪtɪŋ] 美[ˈɪrɪteɪtɪŋ]
+$adj. 烦人的，使人恼火的；有刺激性的，引发疼痛的
+%v. 使不耐烦，激怒；刺激（身体某部位），使疼痛；使（生物体、细胞或器官）兴奋（irritate 的现在分词形式）
+    We were continually delayed by small but irritating problems.
+#我们不断地被一些恼人的小问题误事。
+
+totalitarian: 英[təʊˌtæləˈteəriən] 美[toʊˌtæləˈteriən]
+$adj. 极权主义的
+%n. 极权主义者
+    a totalitarian state
+#极权主义国家
+    In totalitarian society, everyone tends to suspect everyone else.
+#在极权主义体制中，每个人往往都会怀疑其他人。
+
+compendium: 英[kəmˈpendiəm] 美[kəmˈpendiəm]
+%n. 纲要；概略
+    a compendium of physics
+#物理学概要
+    It is a gardener's compendium.
+#这是一本园丁手册。
+
+ambidextrous: 英[ˌæmbiˈdekstrəs] 美[ˌæmbiˈdekstrəs]
+%adj. 双手灵巧的；怀有二心的
+    an ambidextrous painter
+#熟练的画家
+    My grandmother was ambidextrous, so she could write with both her left and right hands.
+#我祖母的只手都同样灵活，因此会用两只手同时写字。
+
+boastful: 英[ˈbəʊstfl] 美[ˈboʊstfl]
+%adj. 自吹自擂的，自夸的
+    talk in boastful terms
+#用自夸的言辞讲话
+    a boastful person
+#喜欢自吹自擂的人
+    be boastful of
+#对……夸耀
+
+deprecatory: 英[deprəˈkeɪtərɪ] 美[ˈdeprəkəˌtori]
+%adj. 不赞成的；反对的；恳求的
+    The teacher gave the boys a deprecatory stare and told them to be quiet.
+#老师向男孩们表示责怪地瞪了瞪眼，告诉他们要安静。
+
+redistribute: 英[ˌriːdɪˈstrɪbjuːt; ˌriːˈdɪstrɪbjuːt] 美[ˌriːdɪˈstrɪbjuːt; ˌriːˈdɪstrɪbjuːt]
+%vt. 重新分配；再区分
+    He intends to redistribute income from the middle class to poorly paid employees and pensioners.
+#他意图把从中产阶级到低薪雇员和退休人员的收入做重新分配。
+
+preeminent: 英[ˌpriːˈemɪnənt] 美[ˌpriːˈemɪnənt]
+%adj. 卓越的；超群的
+    a preeminent figure in economic policy
+#经济策领域的卓越人物
+    He is preeminent in Shakespearian roles.
+#他扮演莎士比亚剧中的人物极为出色。
+
+faddish: 英[ˈfædɪʃ] 美[ˈfædɪʃ]
+%adj. 风行的；流行一时的
+    a faddish eater
+#挑食的人
+    a faddish crowd
+#趋附时尚的一伙人
+    Stop being so faddish about what you eat.
+#吃西不要再这么挑三拣四的。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

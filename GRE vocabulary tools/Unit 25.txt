@@ -1,0 +1,657 @@
+<<<<<<< HEAD
+quaint: 英[kweɪnt] 美[kweɪnt]
+%adj. 奇特有趣的，古色古香的；做得很精巧的
+    It is a quaint little village.
+#那是一个颇具古风的 小村庄。
+
+vogue: 英[vəʊɡ] 美[voʊɡ]
+$n. 流行，时髦
+$adj. 时髦的，流行的
+%v. （模仿模特在 T 形台上的姿态）随音乐跳舞
+    The popular vogue for tearing down buildings after the war virtually destroyed the city's architecture.
+#战后拆毁建筑物的潮流实际上破坏了该市的建筑风格。
+
+apply: 英[əˈplaɪ] 美[əˈplaɪ]
+%v. 申请；涂，敷；施加，实施；应用，运用；踩（刹车）；适用，适合；指称
+    He wants a job in which he can apply his foreign language.
+#他希望得到一份能使他的外语有用武之地的工作。
+
+cite: 英[saɪt] 美[saɪt]
+$v. 引用，援引；引证，引以为例；传唤，传讯；嘉奖，表彰
+%n. <美>引用，引文
+    The minister cited the latest crime figures as proof of the need for more police.
+#部长引用最近的犯罪统计数字来证明需要增加警察。
+
+fast: 英[fɑːst] 美[fæst]
+$adj. 快的，迅速的；系牢的，紧缚的；寻欢作乐的；不褪色的；忠实的，可靠的
+$adv. 快速地；坚定地，牢固地
+$v. 斋戒，禁食
+%n. 斋戒，斋戒期
+    He is fasting for a week for religious reasons.
+#他因宗教原因斋戒一周。
+
+discourage: 英[dɪsˈkʌrɪdʒ] 美[dɪsˈkɜːrɪdʒ]
+%v. 使泄气，使灰心；使打消念头，劝阻；阻碍
+    The thought of how much he had to do discouraged him.
+#想想得干多少活，他就心灰意冷。
+
+somber: 英[ˈsɒmbə(r)] 美[ˈsɑːmbər]
+%adj. 忧郁的；昏暗的；严峻的；阴天的
+    A funeral is a somber occasion.
+#葬礼是个忧郁的场合。
+
+strip: 英[strɪp] 美[strɪp]
+$v. 除去，撕掉（外皮或表层）；夺去，剥夺（地位，权力，财产）；脱衣服，脱光……的衣服；表演脱衣舞；为（奶牛）收奶；拆卸，拆开（机器、车辆或引擎 ）；<美>拆散（汽车等）卖零件；使空无一物，搬光（家具、设备等）；（使）（螺丝或齿轮）受损；（为利润）出售（公司资产）；分离（债券的）息票使二者分开出售；（子弹出膛时因膛面磨损而）不旋转
+%n. （纸、金属、织物等）条，带；带状地带；<英>（比赛时穿的）队服，球衣；商业街；脱衣舞；连环漫画；<英>（定时播出的）广播节目；飞机跑道
+    He stripped the bark with a knife.
+#他用小刀刮去树的外皮。
+
+eccentric: 英[ɪkˈsentrɪk] 美[ɪkˈsentrɪk]
+$adj. 古怪的，异乎寻常的；不同圆心的，不正圆的
+%n. 古怪的人
+    The old man has some eccentric habits.
+#这位老人有一些古怪的习惯。
+
+imperative: 英[ɪmˈperətɪv] 美[ɪmˈperətɪv]
+$adj. 极重要的，必要的；命令的，强制的；祈使的
+%n. 重要紧急的事，必要的事；祈使语气，祈使语气动词；命令
+    It is absolutely imperative that the government should pass laws to forbid a monopoly of any product or service.
+#政府立法禁止对任何一种商品或服务的垄断，这是非常必要的。
+
+ascribe: 英[əˈskraɪb] 美[əˈskraɪb]
+%v. 把……归因于；认为……是……所说（或所为）；认为……具有
+    They ascribed the outbreak of food poisoning to unhygienic conditions in the butchers' shops.
+#他们把食物中毒归咎于肉铺的卫生条件较差。
+
+thrive: 英[θraɪv] 美[θraɪv]
+%v. 茁壮成长，兴旺，繁荣；（尤指在别人觉得困难的时候）以……为乐，可以出色应对
+    His business thrived in the years before the war.
+#在战前那些岁月里，他的生意兴隆。
+
+spectrum: 英[ˈspektrəm] 美[ˈspektrəm]
+%n. 范围，幅度；光谱；波谱，频谱；余象
+    There's a wide spectrum of opinions on this question.
+#对这个问题的看法众说纷纭，莫衷一是。
+
+reinstate: 英[ˌriːɪnˈsteɪt] 美[ˌriːɪnˈsteɪt]
+%vt. 使恢复；使复原
+    He was dismissed, but was later reinstated in his job.
+#他被解雇了，但后来恢复了原职。
+
+compassion: 英[kəmˈpæʃ(ə)n] 美[kəmˈpæʃ(ə)n]
+%n. 同情，怜悯
+    He is a man with little compassion.
+#他没有多少同情心。
+
+glance: 英[ɡlɑːns] 美[ɡlæns]
+$v. 一瞥，看一眼；浏览；击中.......后弹开，擦过；反光， 闪烁；（球类运动用语）轻擦，轻抹（球，以调整其方向）；斜击（球）；提到，影射
+%n. 一瞥，很快的一看；（光的）闪烁，闪耀；（板球）斜击；（铅、铜或其他金属的）辉矿类，硫化矿类；<文>（光的）闪烁，闪耀
+    The problem was less serious at first glance.
+#乍看之下，问题还没有那么严重。
+
+doctrine: 英[ˈdɒktrɪn] 美[ˈdɑːktrɪn]
+%n. 教义，主义，信条；（政府政策的）正式声明
+    Not confined by doctrines, he made a breakthrough in the field.
+#他不拘泥于教条，所以在这个领域中获得了突破性的成就。
+
+optimism: 英[ˈɒptɪmɪzəm] 美[ˈɑːptɪmɪzəm]
+%n. 乐观；乐观主义
+    We are looking forward to the future with optimism.
+#我们以乐观的态度展望未来
+
+formidable: 英[fəˈmɪdəb(ə)l] 美[ˈfɔːrmɪdəb(ə)l]
+%adj. 可怕的，令人敬畏的；（形状、数量）巨大的；难对付的
+    She has a formidable list of qualifications.
+#她有一长串令人敬畏的资历。
+
+fascinate: 英[ˈfæsɪneɪt] 美[ˈfæsɪneɪt]
+%v. <旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹；深深吸引，迷住
+    All the visitors were fascinated by the fantastic tropical scenery.
+#所有的游客都被奇异的热带景色迷住了。
+
+conventional: 英[kənˈvenʃən(ə)l] 美[kənˈvenʃən(ə)l]
+%adj. 依照惯例的，遵循习俗的；老一套的，习惯的；（武器等）常规的，非核的
+    She was a respectable married woman with conventional opinions.
+#她是位品行端正、观念传统的已婚女子。
+
+cabinet: 英[ˈkæbɪnət] 美[ˈkæbɪnət]
+$n. 内阁；储藏柜，陈列柜；<古>私人小房间，密室；机箱，机壳
+%adj. 内阁的
+    The Cabinet meets next week to discuss foreign trade.
+#内阁于下周开会讨论外贸问题。
+
+prohibit: 英[prəˈhɪbɪt] 美[prəˈhɪbɪt]
+%v. （通过法律、条例等）禁止；阻止，使不可能
+    Swimming is prohibited in the lake because it provides the city with drinking water.
+#湖中禁止游泳，因为它向全城供应饮用水。
+
+recount: 英[rɪˈkaʊnt] 美[rɪˈkaʊnt]
+$v. 叙述，说明；重数，重新清点（选票）
+%n. 重新计算，重点选票；叙述，说明
+    I listened to him recount an anecdote about a woman he'd met on a train.
+#我听他讲述关于他在火车上遇到的一个妇女的铁事。
+
+theatrical: 英[θiˈætrɪk(ə)l] 美[θiˈætrɪk(ə)l]
+$adj. 戏剧的，演剧的；戏剧性的，夸张的；盛大的，壮观的
+%n. （尤指业余的）戏剧表演，娱乐表演；夸张的行为； 职业演员
+    His father is a theatrical agent.
+#他父亲是个演出经纪人。
+
+strive: 英[straɪv] 美[straɪv]
+%v. 努力，力争；斗争，反抗
+    The poor woman strove to suppress her tears as if weeping were a disgrace.
+#那个可怜的妇女克制着泪水，仿佛哭是一种耻辱。
+
+temporal: 英[ˈtempərəl] 美[ˈtempərəl]
+$adj. 世俗的，现世的；时间的，与时间有关的；太阳穴的，颞部的；（语法）表示时间的，时态的；暂时的
+%n. 世间万物，暂存的事物；颞部
+    Temporal power and wealth are more important to some people than a spiritual promise of life after death.
+#现世的权力和财富对一些人来说比死后精神的永生更重要。
+
+sermon: 英[ˈsɜːmən] 美[ˈsɜːrmən]
+%n. 布道，讲道；<非正式>冗长的说教，训诫
+    Today's sermon was on the importance of compassion.
+#今天的布道是关于同情的重要性。
+
+yacht: 英[jɒt] 美[jɑːt]
+$n. 帆船，快艇，游艇
+%v. 驾帆船比赛，驾驶帆船，乘游艇
+    Her yacht is moored in the harbor.
+#她的游艇停泊在港口里。
+
+cargo: 英[ˈkɑːɡəʊ] 美[ˈkɑːrɡoʊ]
+%n. （船或飞机装载的）货物
+    The ship was carrying a cargo of wool from China to France.
+#这艘船正将羊毛货品从中国运往法国。
+
+anticipate: 英[ænˈtɪsɪpeɪt] 美[ænˈtɪsɪpeɪt]
+%v. 预期，预料；预见（并做准备）；期望，盼望；先于……做，早于……行动；提前使用；在期限内履行（义务），偿还（债务）
+    We had anticipated that the enemy would try to cross the river and had destroyed the bridge.
+#我们料到敌人可能设法过河，所以把桥毁了。
+
+indifferent: 英[ɪnˈdɪfrənt] 美[ɪnˈdɪfrənt]
+%adj. 冷淡的，不关心的；中等的，平庸的；一般的，相当差的；中立的；不分化的
+    I don't like the restaurant much -- the food was indifferent and the room was cold.
+#我不大喜欢这家餐馆——食物一般，房间还很冷。
+
+grill: 英[ɡrɪl] 美[ɡrɪl]
+$n. 烤架；带烤架的炊具；电焙盘；一盘烧烤食物（尤指烤肉）；烤肉店；门窗护栏（同 grille）
+%v. 烧烤，烤制；盘问，追问
+    She decided to grill the sausages rather than fry them.
+#她决定烤香肠而不是煎香肠。
+
+spin: 英[spɪn] 美[spɪn]
+$v. （使）快速旋转；（使）急转身；（头感到）眩晕；纺纱，纺织；飞驰，疾驰；编故事；有倾向性地陈述；（用甩干机或洗衣机）甩干（衣服）；（昆虫）吐（丝），结（网）；（用旋式诱饵）钓鱼；播放（唱片）；抛（硬币）；（球）旋转；（用车床将金属薄板）旋压成形
+%n. 高速旋转；兜风；带倾向性的解释（或说法）；（政治上的）倾向性报道；（尤指板球、网球、斯诺克球中的）旋转球；（飞机的）旋冲，螺旋下降；晕头转向，焦虑不安；（物理）核素总角动量
+    She heard footsteps behind her, and spun around to see who was there.
+#她听见后面有脚步声，急忙转过身去看是谁。
+
+militia: 英[məˈlɪʃə] 美[məˈlɪʃə]
+%n. 民兵队伍，国民自卫队；武装叛乱分子，恐怖武装；（美国）可依法征召的所有公民
+    A UN force has been sent in to stop fighting in the city between the three rival militias.
+#一支联合国部队被派去制止城市中三个民兵组织之间的战斗。
+
+assess: 英[əˈses] 美[əˈses]
+%v. 评价，评定；估价，估计；征税，处以罚金
+    It is difficult to assess exactly how much damage was caused.
+#（我们）很难精确评估造成了多大损失。
+
+queue: 英[kjuː] 美[kjuː]
+$n. <英>（人、汽车等的）队，行列；<英>（为得到某机会而等待的）长列，长队；（计算机）队列；呼叫队列；<古>辫子
+%v. <英>排队（等候）；竞相，抢着（做某事）；（计算机）排成队列，排队
+    Students queued up in an orderly way for their turn to get served.
+#学生们有秩序地排着队等待打饭。
+
+emigrate: 英[ˈemɪɡreɪt] 美[ˈemɪɡreɪt]
+%v. 移居外国，移民；迫使（或帮助）……移居外国
+    Millions of Germans emigrated from Europe to America in the nineteenth century.
+#19 世纪数百万德国人从欧洲移民美国。
+
+stir: 英[stɜː(r)] 美[stɜːr]
+$v. 搅拌，搅和（液体等物质）；激发，打动；（情感）逐渐产生，萌发；（使）行动，活动；（使）微动；离开；<英，非正式>挑拨，惹是生非
+%n. 搅动，搅拌；激动（情绪），愤怒（情绪）；微动，颤动；轻微的感觉；监狱
+    A breath of wind stirred the lake.
+#一阵轻风吹皱了湖面。
+
+sideline: 英[ˈsaɪdlaɪn] 美[ˈsaɪdlaɪn]
+$n. 副业；球场边线；局外人的观点
+$vt. 迫使退出
+%adj. 倾斜的
+    Jim works in a bank, but teaches French as a sideline.
+#吉姆在银行工作，但也兼职教法语。
+
+fiscal: 英[ˈfɪsk(ə)l] 美[ˈfɪsk(ə)l]
+$adj. （政府）财政的；<美>财政年度的；<美>金融的
+%n. <旧>（某些国家的）检察官，财政官员；领伯劳
+    In the US the government fiscal year starts on October 1st.
+#在美国，政府的财政年度始于10月1日。
+
+medieval: 英[ˌmediˈiːv(ə)l] 美[ˌmiːdˈiːv(ə)l]
+%adj. 中世纪的；<非正式>非常老派的，极其过时的
+    We visited some medieval buildings.
+#我们参观了一些中世纪的建筑。
+
+muddy: 英[ˈmʌdi] 美[ˈmʌdi]
+$adj. 泥泞的，多泥的；含泥的，浑浊的；灰暗的，暗淡的；模糊的，不清晰的；（声音，尤指乐声）重浊的；像泥土般的
+%v. 使变得泥泞，使浑浊；使模糊，使混乱；使（颜色）变暗
+    Our car drove slowly along the muddy country road.
+#我们的车在乡间泥污的道路上缓缓而行。
+
+spectacular: 英[spekˈtækjələ(r)] 美[spekˈtækjələr]
+$adj. 壮观的，令人惊叹的；惊人的，突如其来的
+%n. 壮观场面，盛大演出
+    There will be a spectacular display of fireworks in the park on the eve of National Day.
+#国庆节前夕公园将有壮观的烟火表演。
+
+slur: 英[slɜː(r)] 美[slɜːr]
+$v. 含混不清地说话；连奏；诽谤；有意略过（事实）；用连音线标出
+%n. 诽谤；吐词含糊；连奏线；污点
+    Her letter contained several outrageous slurs on her former colleagues.
+#她的信中有好几处恶意诋毁她以前同事的话。
+
+bare: 英[beə(r)] 美[ber]
+$adj. 赤裸的；光秃秃的；无遮盖的，无装饰的；仅最基本的
+$v. 使暴露，使露出
+%adv. 非常，许多
+    Her arms were bare and covered with freckles.
+#她裸露的手臂上布满了斑点。
+
+groan: 英[ɡrəʊn] 美[ɡroʊn]
+$v. 呻吟，叹息；咕哝；抱怨，发牢骚；（树木等）发出嘎吱声；堆满（食物）；受……重压
+%n. 呻吟声，叹息声；抱怨，牢骚；低沉的声响
+    The dying man groaned with agony as the rescuers tried to move him.
+#当救护人员试图移动他的时候，这名垂死的男子痛苦地呻吟起来。
+
+garment: 英[ˈɡɑːmənt] 美[ˈɡɑːrmənt]
+%n. （一件）衣服
+    Each garment was inspected before leaving the factory.
+#每件衣服在出厂前都经过了仔细检查。
+
+commonplace: 英[ˈkɒmənpleɪs] 美[ˈkɑːmənpleɪs]
+$adj. 平凡的，不足为奇的；平庸的，陈腐的
+%n. 司空见惯的事，常见的东西；老生常谈，陈词滥调
+    It is believed that soon it will be commonplace for people to travel to the moon.
+#相信用不了多久，人们去月球旅行这件事就会变得很常见。
+
+compact: 英[kəmˈpækt] 美[kəmˈpækt]
+$adj. 小型的，袖珍的；紧凑的；紧密的，坚实的；矮小而健壮的；（演讲，作品）简洁的，简练的
+$n. 带镜小粉盒；合约，协定；小型汽车；袖珍物；坯块
+%v. 压紧，压实；缩短，精简；订立（或签订）（协定）
+    The soil was so compact that I was hardly able to force a spade into it.
+#土地太硬实了，我拿铁锹也很难挖进去。
+
+acquit: 英[əˈkwɪt] 美[əˈkwɪt]
+%vt. 无罪释放；表现；脱卸义务和责任；清偿
+    She was acquitted of all the charges against her.
+#对她所有的指控都宣判不成立。
+
+temper: 英[ˈtempə(r)] 美[ˈtempər]
+$n. 坏脾气，暴躁脾气；心情，情绪；怒气，火气；<正式>（时代的）气息，特征；（人或动物的）性格，性情；（钢等的）硬度，回火性；沉着，冷静
+%v. 使缓和，使温和；使（金属）回火，锻造；给（钢琴等）调音，调整（音阶）；回火，调和
+    She is of a quick/hot/short temper.
+#她脾气急躁。
+
+drought: 英[draʊt] 美[draʊt]
+%n. 长期缺乏，严重短缺；<古>口渴；干旱，旱灾
+    The drought lasted for more than three months and half of the crops died.
+#干旱持续了三个多月，半的庄稼枯死了。
+
+emit: 英[iˈmɪt] 美[iˈmɪt]
+%v. 排放，散发（尤指气体、辐射物）；发出（声音或噪音）；发行，发表
+    People in the neighborhood accused the factory of emitting black smoke into the air.
+#工厂附近的居民指控该厂把黑烟排放到空气中。
+
+transfer: 英[trænsˈfɜː(r)] 美[trænsˈfɜːr]
+$v. （使）转移，搬迁；转移（感情），传染（疾病），转让（权力等）；（使）调动，转职；转会，使转会（尤指职业足球队）；（将所得学分）转到（另一所学校）；转接（电话）；将（钱）转到（另一个账户上）；转让（财产，权利），移交（责任）；转用；转存，转录（资料、音乐等），改编；（旅途中）转乘，换乘；转印（图画，图案）；（通过延伸、隐喻）转变（词义，短语义）
+%n. 转移，转让，调动；（运动员）转会；转换，过渡；已调动的人，已转移的东西；（旅行中）转乘，转搭；<美>转车票，换乘票；纸上可转印的图画或图案；迁移（将已习得的行为在新的情况下应用）
+    You can transfer to Bus No.49 at the next stop
+#你可以在下一站转乘49路公共汽车。
+
+decree: 英[dɪˈkriː] 美[dɪˈkriː]
+$n. 法令，政令；裁定，判决
+%v. 裁定，判决，颁布
+    The committee decreed the film unsuitable for children.
+#委员会裁定该影片不适合儿童观看。
+
+swing: 英[swɪŋ] 美[swɪŋ]
+$v. （使）摆动，摇荡；改变（情绪、状况或想法等）；做弧线运动，转弯；（挥动某物）朝……打去；令人兴奋，欢快热闹；（使）突然转向；突然转身；节奏感强；（迈着有节奏的步伐）行进；<非正式> （有时略微不正当地）获得，办成；荡秋千；纵身跃向，荡向；绞死；（板球）投侧飞球；（球）向侧边飞去；<非正式> 男女乱交；移转（船，飞机）至各方位点
+$n. 摇摆，摆动；（为打某人而）挥舞，挥拳；挥杆动作；改变，变化；秋千；荡秋千；摇摆乐（流行于20世纪30年代）；以强劲的节奏演奏；<美> 多处逗留的旅行，竞选旅行；（板球）侧飞球；（音乐剧）替补
+%adj. 摇摆乐的；（在投票选举中）摇摆不定的
+    He walked briskly along the path, swinging his rolled-up umbrella.
+#他轻快地走在路上，挥动着收拢的雨伞。
+
+gleam: 英[ɡliːm] 美[ɡliːm]
+$v. 发微光，闪烁；显得光洁明亮；（眼睛）表露出，流露出；（因兴奋而眼睛）发光，发亮
+%n. 反光，闪光；微光，一丝光线；少量，一线；（情感等的）闪现；（指暂时还不能实现的）想法，愿望
+    A gleam of interest came into his eyes.
+#他眼里流露出一丝感兴趣的神情。
+
+=======
+quaint: 英[kweɪnt] 美[kweɪnt]
+%adj. 奇特有趣的，古色古香的；做得很精巧的
+    It is a quaint little village.
+#那是一个颇具古风的 小村庄。
+
+vogue: 英[vəʊɡ] 美[voʊɡ]
+$n. 流行，时髦
+$adj. 时髦的，流行的
+%v. （模仿模特在 T 形台上的姿态）随音乐跳舞
+    The popular vogue for tearing down buildings after the war virtually destroyed the city's architecture.
+#战后拆毁建筑物的潮流实际上破坏了该市的建筑风格。
+
+apply: 英[əˈplaɪ] 美[əˈplaɪ]
+%v. 申请；涂，敷；施加，实施；应用，运用；踩（刹车）；适用，适合；指称
+    He wants a job in which he can apply his foreign language.
+#他希望得到一份能使他的外语有用武之地的工作。
+
+cite: 英[saɪt] 美[saɪt]
+$v. 引用，援引；引证，引以为例；传唤，传讯；嘉奖，表彰
+%n. <美>引用，引文
+    The minister cited the latest crime figures as proof of the need for more police.
+#部长引用最近的犯罪统计数字来证明需要增加警察。
+
+fast: 英[fɑːst] 美[fæst]
+$adj. 快的，迅速的；系牢的，紧缚的；寻欢作乐的；不褪色的；忠实的，可靠的
+$adv. 快速地；坚定地，牢固地
+$v. 斋戒，禁食
+%n. 斋戒，斋戒期
+    He is fasting for a week for religious reasons.
+#他因宗教原因斋戒一周。
+
+discourage: 英[dɪsˈkʌrɪdʒ] 美[dɪsˈkɜːrɪdʒ]
+%v. 使泄气，使灰心；使打消念头，劝阻；阻碍
+    The thought of how much he had to do discouraged him.
+#想想得干多少活，他就心灰意冷。
+
+somber: 英[ˈsɒmbə(r)] 美[ˈsɑːmbər]
+%adj. 忧郁的；昏暗的；严峻的；阴天的
+    A funeral is a somber occasion.
+#葬礼是个忧郁的场合。
+
+strip: 英[strɪp] 美[strɪp]
+$v. 除去，撕掉（外皮或表层）；夺去，剥夺（地位，权力，财产）；脱衣服，脱光……的衣服；表演脱衣舞；为（奶牛）收奶；拆卸，拆开（机器、车辆或引擎 ）；<美>拆散（汽车等）卖零件；使空无一物，搬光（家具、设备等）；（使）（螺丝或齿轮）受损；（为利润）出售（公司资产）；分离（债券的）息票使二者分开出售；（子弹出膛时因膛面磨损而）不旋转
+%n. （纸、金属、织物等）条，带；带状地带；<英>（比赛时穿的）队服，球衣；商业街；脱衣舞；连环漫画；<英>（定时播出的）广播节目；飞机跑道
+    He stripped the bark with a knife.
+#他用小刀刮去树的外皮。
+
+eccentric: 英[ɪkˈsentrɪk] 美[ɪkˈsentrɪk]
+$adj. 古怪的，异乎寻常的；不同圆心的，不正圆的
+%n. 古怪的人
+    The old man has some eccentric habits.
+#这位老人有一些古怪的习惯。
+
+imperative: 英[ɪmˈperətɪv] 美[ɪmˈperətɪv]
+$adj. 极重要的，必要的；命令的，强制的；祈使的
+%n. 重要紧急的事，必要的事；祈使语气，祈使语气动词；命令
+    It is absolutely imperative that the government should pass laws to forbid a monopoly of any product or service.
+#政府立法禁止对任何一种商品或服务的垄断，这是非常必要的。
+
+ascribe: 英[əˈskraɪb] 美[əˈskraɪb]
+%v. 把……归因于；认为……是……所说（或所为）；认为……具有
+    They ascribed the outbreak of food poisoning to unhygienic conditions in the butchers' shops.
+#他们把食物中毒归咎于肉铺的卫生条件较差。
+
+thrive: 英[θraɪv] 美[θraɪv]
+%v. 茁壮成长，兴旺，繁荣；（尤指在别人觉得困难的时候）以……为乐，可以出色应对
+    His business thrived in the years before the war.
+#在战前那些岁月里，他的生意兴隆。
+
+spectrum: 英[ˈspektrəm] 美[ˈspektrəm]
+%n. 范围，幅度；光谱；波谱，频谱；余象
+    There's a wide spectrum of opinions on this question.
+#对这个问题的看法众说纷纭，莫衷一是。
+
+reinstate: 英[ˌriːɪnˈsteɪt] 美[ˌriːɪnˈsteɪt]
+%vt. 使恢复；使复原
+    He was dismissed, but was later reinstated in his job.
+#他被解雇了，但后来恢复了原职。
+
+compassion: 英[kəmˈpæʃ(ə)n] 美[kəmˈpæʃ(ə)n]
+%n. 同情，怜悯
+    He is a man with little compassion.
+#他没有多少同情心。
+
+glance: 英[ɡlɑːns] 美[ɡlæns]
+$v. 一瞥，看一眼；浏览；击中.......后弹开，擦过；反光， 闪烁；（球类运动用语）轻擦，轻抹（球，以调整其方向）；斜击（球）；提到，影射
+%n. 一瞥，很快的一看；（光的）闪烁，闪耀；（板球）斜击；（铅、铜或其他金属的）辉矿类，硫化矿类；<文>（光的）闪烁，闪耀
+    The problem was less serious at first glance.
+#乍看之下，问题还没有那么严重。
+
+doctrine: 英[ˈdɒktrɪn] 美[ˈdɑːktrɪn]
+%n. 教义，主义，信条；（政府政策的）正式声明
+    Not confined by doctrines, he made a breakthrough in the field.
+#他不拘泥于教条，所以在这个领域中获得了突破性的成就。
+
+optimism: 英[ˈɒptɪmɪzəm] 美[ˈɑːptɪmɪzəm]
+%n. 乐观；乐观主义
+    We are looking forward to the future with optimism.
+#我们以乐观的态度展望未来
+
+formidable: 英[fəˈmɪdəb(ə)l] 美[ˈfɔːrmɪdəb(ə)l]
+%adj. 可怕的，令人敬畏的；（形状、数量）巨大的；难对付的
+    She has a formidable list of qualifications.
+#她有一长串令人敬畏的资历。
+
+fascinate: 英[ˈfæsɪneɪt] 美[ˈfæsɪneɪt]
+%v. <旧>（尤指蛇）以眼神震慑（人，动物），使无法动弹；深深吸引，迷住
+    All the visitors were fascinated by the fantastic tropical scenery.
+#所有的游客都被奇异的热带景色迷住了。
+
+conventional: 英[kənˈvenʃən(ə)l] 美[kənˈvenʃən(ə)l]
+%adj. 依照惯例的，遵循习俗的；老一套的，习惯的；（武器等）常规的，非核的
+    She was a respectable married woman with conventional opinions.
+#她是位品行端正、观念传统的已婚女子。
+
+cabinet: 英[ˈkæbɪnət] 美[ˈkæbɪnət]
+$n. 内阁；储藏柜，陈列柜；<古>私人小房间，密室；机箱，机壳
+%adj. 内阁的
+    The Cabinet meets next week to discuss foreign trade.
+#内阁于下周开会讨论外贸问题。
+
+prohibit: 英[prəˈhɪbɪt] 美[prəˈhɪbɪt]
+%v. （通过法律、条例等）禁止；阻止，使不可能
+    Swimming is prohibited in the lake because it provides the city with drinking water.
+#湖中禁止游泳，因为它向全城供应饮用水。
+
+recount: 英[rɪˈkaʊnt] 美[rɪˈkaʊnt]
+$v. 叙述，说明；重数，重新清点（选票）
+%n. 重新计算，重点选票；叙述，说明
+    I listened to him recount an anecdote about a woman he'd met on a train.
+#我听他讲述关于他在火车上遇到的一个妇女的铁事。
+
+theatrical: 英[θiˈætrɪk(ə)l] 美[θiˈætrɪk(ə)l]
+$adj. 戏剧的，演剧的；戏剧性的，夸张的；盛大的，壮观的
+%n. （尤指业余的）戏剧表演，娱乐表演；夸张的行为； 职业演员
+    His father is a theatrical agent.
+#他父亲是个演出经纪人。
+
+strive: 英[straɪv] 美[straɪv]
+%v. 努力，力争；斗争，反抗
+    The poor woman strove to suppress her tears as if weeping were a disgrace.
+#那个可怜的妇女克制着泪水，仿佛哭是一种耻辱。
+
+temporal: 英[ˈtempərəl] 美[ˈtempərəl]
+$adj. 世俗的，现世的；时间的，与时间有关的；太阳穴的，颞部的；（语法）表示时间的，时态的；暂时的
+%n. 世间万物，暂存的事物；颞部
+    Temporal power and wealth are more important to some people than a spiritual promise of life after death.
+#现世的权力和财富对一些人来说比死后精神的永生更重要。
+
+sermon: 英[ˈsɜːmən] 美[ˈsɜːrmən]
+%n. 布道，讲道；<非正式>冗长的说教，训诫
+    Today's sermon was on the importance of compassion.
+#今天的布道是关于同情的重要性。
+
+yacht: 英[jɒt] 美[jɑːt]
+$n. 帆船，快艇，游艇
+%v. 驾帆船比赛，驾驶帆船，乘游艇
+    Her yacht is moored in the harbor.
+#她的游艇停泊在港口里。
+
+cargo: 英[ˈkɑːɡəʊ] 美[ˈkɑːrɡoʊ]
+%n. （船或飞机装载的）货物
+    The ship was carrying a cargo of wool from China to France.
+#这艘船正将羊毛货品从中国运往法国。
+
+anticipate: 英[ænˈtɪsɪpeɪt] 美[ænˈtɪsɪpeɪt]
+%v. 预期，预料；预见（并做准备）；期望，盼望；先于……做，早于……行动；提前使用；在期限内履行（义务），偿还（债务）
+    We had anticipated that the enemy would try to cross the river and had destroyed the bridge.
+#我们料到敌人可能设法过河，所以把桥毁了。
+
+indifferent: 英[ɪnˈdɪfrənt] 美[ɪnˈdɪfrənt]
+%adj. 冷淡的，不关心的；中等的，平庸的；一般的，相当差的；中立的；不分化的
+    I don't like the restaurant much -- the food was indifferent and the room was cold.
+#我不大喜欢这家餐馆——食物一般，房间还很冷。
+
+grill: 英[ɡrɪl] 美[ɡrɪl]
+$n. 烤架；带烤架的炊具；电焙盘；一盘烧烤食物（尤指烤肉）；烤肉店；门窗护栏（同 grille）
+%v. 烧烤，烤制；盘问，追问
+    She decided to grill the sausages rather than fry them.
+#她决定烤香肠而不是煎香肠。
+
+spin: 英[spɪn] 美[spɪn]
+$v. （使）快速旋转；（使）急转身；（头感到）眩晕；纺纱，纺织；飞驰，疾驰；编故事；有倾向性地陈述；（用甩干机或洗衣机）甩干（衣服）；（昆虫）吐（丝），结（网）；（用旋式诱饵）钓鱼；播放（唱片）；抛（硬币）；（球）旋转；（用车床将金属薄板）旋压成形
+%n. 高速旋转；兜风；带倾向性的解释（或说法）；（政治上的）倾向性报道；（尤指板球、网球、斯诺克球中的）旋转球；（飞机的）旋冲，螺旋下降；晕头转向，焦虑不安；（物理）核素总角动量
+    She heard footsteps behind her, and spun around to see who was there.
+#她听见后面有脚步声，急忙转过身去看是谁。
+
+militia: 英[məˈlɪʃə] 美[məˈlɪʃə]
+%n. 民兵队伍，国民自卫队；武装叛乱分子，恐怖武装；（美国）可依法征召的所有公民
+    A UN force has been sent in to stop fighting in the city between the three rival militias.
+#一支联合国部队被派去制止城市中三个民兵组织之间的战斗。
+
+assess: 英[əˈses] 美[əˈses]
+%v. 评价，评定；估价，估计；征税，处以罚金
+    It is difficult to assess exactly how much damage was caused.
+#（我们）很难精确评估造成了多大损失。
+
+queue: 英[kjuː] 美[kjuː]
+$n. <英>（人、汽车等的）队，行列；<英>（为得到某机会而等待的）长列，长队；（计算机）队列；呼叫队列；<古>辫子
+%v. <英>排队（等候）；竞相，抢着（做某事）；（计算机）排成队列，排队
+    Students queued up in an orderly way for their turn to get served.
+#学生们有秩序地排着队等待打饭。
+
+emigrate: 英[ˈemɪɡreɪt] 美[ˈemɪɡreɪt]
+%v. 移居外国，移民；迫使（或帮助）……移居外国
+    Millions of Germans emigrated from Europe to America in the nineteenth century.
+#19 世纪数百万德国人从欧洲移民美国。
+
+stir: 英[stɜː(r)] 美[stɜːr]
+$v. 搅拌，搅和（液体等物质）；激发，打动；（情感）逐渐产生，萌发；（使）行动，活动；（使）微动；离开；<英，非正式>挑拨，惹是生非
+%n. 搅动，搅拌；激动（情绪），愤怒（情绪）；微动，颤动；轻微的感觉；监狱
+    A breath of wind stirred the lake.
+#一阵轻风吹皱了湖面。
+
+sideline: 英[ˈsaɪdlaɪn] 美[ˈsaɪdlaɪn]
+$n. 副业；球场边线；局外人的观点
+$vt. 迫使退出
+%adj. 倾斜的
+    Jim works in a bank, but teaches French as a sideline.
+#吉姆在银行工作，但也兼职教法语。
+
+fiscal: 英[ˈfɪsk(ə)l] 美[ˈfɪsk(ə)l]
+$adj. （政府）财政的；<美>财政年度的；<美>金融的
+%n. <旧>（某些国家的）检察官，财政官员；领伯劳
+    In the US the government fiscal year starts on October 1st.
+#在美国，政府的财政年度始于10月1日。
+
+medieval: 英[ˌmediˈiːv(ə)l] 美[ˌmiːdˈiːv(ə)l]
+%adj. 中世纪的；<非正式>非常老派的，极其过时的
+    We visited some medieval buildings.
+#我们参观了一些中世纪的建筑。
+
+muddy: 英[ˈmʌdi] 美[ˈmʌdi]
+$adj. 泥泞的，多泥的；含泥的，浑浊的；灰暗的，暗淡的；模糊的，不清晰的；（声音，尤指乐声）重浊的；像泥土般的
+%v. 使变得泥泞，使浑浊；使模糊，使混乱；使（颜色）变暗
+    Our car drove slowly along the muddy country road.
+#我们的车在乡间泥污的道路上缓缓而行。
+
+spectacular: 英[spekˈtækjələ(r)] 美[spekˈtækjələr]
+$adj. 壮观的，令人惊叹的；惊人的，突如其来的
+%n. 壮观场面，盛大演出
+    There will be a spectacular display of fireworks in the park on the eve of National Day.
+#国庆节前夕公园将有壮观的烟火表演。
+
+slur: 英[slɜː(r)] 美[slɜːr]
+$v. 含混不清地说话；连奏；诽谤；有意略过（事实）；用连音线标出
+%n. 诽谤；吐词含糊；连奏线；污点
+    Her letter contained several outrageous slurs on her former colleagues.
+#她的信中有好几处恶意诋毁她以前同事的话。
+
+bare: 英[beə(r)] 美[ber]
+$adj. 赤裸的；光秃秃的；无遮盖的，无装饰的；仅最基本的
+$v. 使暴露，使露出
+%adv. 非常，许多
+    Her arms were bare and covered with freckles.
+#她裸露的手臂上布满了斑点。
+
+groan: 英[ɡrəʊn] 美[ɡroʊn]
+$v. 呻吟，叹息；咕哝；抱怨，发牢骚；（树木等）发出嘎吱声；堆满（食物）；受……重压
+%n. 呻吟声，叹息声；抱怨，牢骚；低沉的声响
+    The dying man groaned with agony as the rescuers tried to move him.
+#当救护人员试图移动他的时候，这名垂死的男子痛苦地呻吟起来。
+
+garment: 英[ˈɡɑːmənt] 美[ˈɡɑːrmənt]
+%n. （一件）衣服
+    Each garment was inspected before leaving the factory.
+#每件衣服在出厂前都经过了仔细检查。
+
+commonplace: 英[ˈkɒmənpleɪs] 美[ˈkɑːmənpleɪs]
+$adj. 平凡的，不足为奇的；平庸的，陈腐的
+%n. 司空见惯的事，常见的东西；老生常谈，陈词滥调
+    It is believed that soon it will be commonplace for people to travel to the moon.
+#相信用不了多久，人们去月球旅行这件事就会变得很常见。
+
+compact: 英[kəmˈpækt] 美[kəmˈpækt]
+$adj. 小型的，袖珍的；紧凑的；紧密的，坚实的；矮小而健壮的；（演讲，作品）简洁的，简练的
+$n. 带镜小粉盒；合约，协定；小型汽车；袖珍物；坯块
+%v. 压紧，压实；缩短，精简；订立（或签订）（协定）
+    The soil was so compact that I was hardly able to force a spade into it.
+#土地太硬实了，我拿铁锹也很难挖进去。
+
+acquit: 英[əˈkwɪt] 美[əˈkwɪt]
+%vt. 无罪释放；表现；脱卸义务和责任；清偿
+    She was acquitted of all the charges against her.
+#对她所有的指控都宣判不成立。
+
+temper: 英[ˈtempə(r)] 美[ˈtempər]
+$n. 坏脾气，暴躁脾气；心情，情绪；怒气，火气；<正式>（时代的）气息，特征；（人或动物的）性格，性情；（钢等的）硬度，回火性；沉着，冷静
+%v. 使缓和，使温和；使（金属）回火，锻造；给（钢琴等）调音，调整（音阶）；回火，调和
+    She is of a quick/hot/short temper.
+#她脾气急躁。
+
+drought: 英[draʊt] 美[draʊt]
+%n. 长期缺乏，严重短缺；<古>口渴；干旱，旱灾
+    The drought lasted for more than three months and half of the crops died.
+#干旱持续了三个多月，半的庄稼枯死了。
+
+emit: 英[iˈmɪt] 美[iˈmɪt]
+%v. 排放，散发（尤指气体、辐射物）；发出（声音或噪音）；发行，发表
+    People in the neighborhood accused the factory of emitting black smoke into the air.
+#工厂附近的居民指控该厂把黑烟排放到空气中。
+
+transfer: 英[trænsˈfɜː(r)] 美[trænsˈfɜːr]
+$v. （使）转移，搬迁；转移（感情），传染（疾病），转让（权力等）；（使）调动，转职；转会，使转会（尤指职业足球队）；（将所得学分）转到（另一所学校）；转接（电话）；将（钱）转到（另一个账户上）；转让（财产，权利），移交（责任）；转用；转存，转录（资料、音乐等），改编；（旅途中）转乘，换乘；转印（图画，图案）；（通过延伸、隐喻）转变（词义，短语义）
+%n. 转移，转让，调动；（运动员）转会；转换，过渡；已调动的人，已转移的东西；（旅行中）转乘，转搭；<美>转车票，换乘票；纸上可转印的图画或图案；迁移（将已习得的行为在新的情况下应用）
+    You can transfer to Bus No.49 at the next stop
+#你可以在下一站转乘49路公共汽车。
+
+decree: 英[dɪˈkriː] 美[dɪˈkriː]
+$n. 法令，政令；裁定，判决
+%v. 裁定，判决，颁布
+    The committee decreed the film unsuitable for children.
+#委员会裁定该影片不适合儿童观看。
+
+swing: 英[swɪŋ] 美[swɪŋ]
+$v. （使）摆动，摇荡；改变（情绪、状况或想法等）；做弧线运动，转弯；（挥动某物）朝……打去；令人兴奋，欢快热闹；（使）突然转向；突然转身；节奏感强；（迈着有节奏的步伐）行进；<非正式> （有时略微不正当地）获得，办成；荡秋千；纵身跃向，荡向；绞死；（板球）投侧飞球；（球）向侧边飞去；<非正式> 男女乱交；移转（船，飞机）至各方位点
+$n. 摇摆，摆动；（为打某人而）挥舞，挥拳；挥杆动作；改变，变化；秋千；荡秋千；摇摆乐（流行于20世纪30年代）；以强劲的节奏演奏；<美> 多处逗留的旅行，竞选旅行；（板球）侧飞球；（音乐剧）替补
+%adj. 摇摆乐的；（在投票选举中）摇摆不定的
+    He walked briskly along the path, swinging his rolled-up umbrella.
+#他轻快地走在路上，挥动着收拢的雨伞。
+
+gleam: 英[ɡliːm] 美[ɡliːm]
+$v. 发微光，闪烁；显得光洁明亮；（眼睛）表露出，流露出；（因兴奋而眼睛）发光，发亮
+%n. 反光，闪光；微光，一丝光线；少量，一线；（情感等的）闪现；（指暂时还不能实现的）想法，愿望
+    A gleam of interest came into his eyes.
+#他眼里流露出一丝感兴趣的神情。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

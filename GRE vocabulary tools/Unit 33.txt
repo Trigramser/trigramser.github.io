@@ -1,0 +1,693 @@
+<<<<<<< HEAD
+exhume: 英[eksˈhjuːm] 美[ɪɡˈzuːm]
+$vt. 发掘；掘出
+%n. （Exhume）人名；（法）埃克叙姆
+    His remains have been exhumed from a cemetery in the suburbs.
+#他的遗骸已经从郊区的一个公墓里被挖了出来。
+
+excogitate: 英[eksˈkɒdʒɪˌteɪt] 美[eksˈkɑːdʒəˌteɪt]
+%vt. 想出；发明；设计
+    excogitate an argument against going there
+#想出反对去那里的理由
+
+chastise: 英[tʃæˈstaɪz] 美[tʃæˈstaɪz]
+%vt. 惩罚；严惩；责骂
+    She chastised the government for cutting the education budget.
+#她评击政府削减教育经费。
+
+epitomize: 英[ɪˈpɪtəmaɪz] 美[ɪˈpɪtəmaɪz]
+%v. 成为……的典范，作为……的缩影；<古>概括，总结（一篇作品）
+    His problems epitomize the problems of the entire neighborhood.
+#他的问题是全体街坊问题的缩影。
+
+adulate: 英[ˈædjʊˌleɪt] 美[ˈædʒəˌleɪt]
+%vt. 过分称赞；谄媚；奉承
+    He respected science without adulating it.
+#他尊重科学而不迷信科学。
+
+goof: 英[ɡuːf] 美[ɡuːf]
+$v. 犯愚蠢的错误；消磨时间，闲荡；游手好闲，开小差（goof off）；过量服用（违禁药品）；取笑，奚落（goof on）
+%n. 愚蠢的错误；傻瓜，蠢人
+    He won the first round because I goofed.
+#由于我一时疏忽，他第一个回合赢了。
+
+slosh: 英[slɒʃ] 美[slɑːʃ]
+$vi. 溅，泼；在泥中荡
+$vt. 搅动，晃动；把……泼溅出
+%n. 泥泞；溅泼声
+    The water sloshed into a mass of water reeds.
+#水汩汩地流进一丛芦苇。
+
+flammable: 英[ˈflæməb(ə)l] 美[ˈflæməb(ə)l]
+$adj. 易燃的；可燃的；可燃性的
+%n. 易燃物
+    This solvent is highly flammable, so don't use it near a naked flame.
+#这种溶剂极其易燃，切勿在明火附近使用。
+
+scad: 英[skæd] 美[skæd]
+%n. 竹荚鱼；许多
+    He's caught a scad of fish.
+#他捕到了大量的鱼。
+
+pullulate: 英[ˈpʌljəleɪt] 美[ˈpʌljəleɪt]
+%vi. 成长；发芽；产生；充满；繁殖
+    The lagoon was pullulated with tropical fish.
+#那个咸水湖聚满了热带鱼。
+
+brat: 英[bræt] 美[bræt]
+$n. 乳臭未干的小孩；顽童
+%n. （Brat）人名；（法、塞）布拉特
+    She's a spoilt brat, never happy with what she has.
+#她是个被宠坏了的孩子，对她所拥有的东西从不满意。
+
+prude: 英[pruːd] 美[pruːd]
+$n. 拘守礼仪的人；故做正经的女人
+%n. （Prude）人名；（英）普鲁德
+    a girl who's prude with the boys
+#对小伙子故意本正经的姑娘
+
+measured: 英[ˈmeʒəd] 美[ˈmeʒərd]
+$adj. 慎重而缓慢的，慎重的；慢而稳的，有节奏的；量过的；基于标准的
+%v. 测量；（指尺寸、长短、数量等）量度为；估量，判定（重要性、价值或影响等）（measure 的过去式和过去分词）
+    His tone was very measured.
+#他的语气很有分寸。
+
+desideratum: 英[dɪˌzɪdəˈrɑːtəm] 美[dɪˌzɪdəˈrɑːtəm]
+%n. 迫切需要之物；所愿望之物
+    His only desideratum was health.
+#他唯一希望的就是身体健康。
+
+antecedence: 英[ˌæntɪˈsiːd(ə)ns] 美[ˌæntəˈsiːd(ə)ns]
+%n. 先行；居先；在先
+    Creative thinking is the antecedence of design.
+#创新性设计，必须有创新性思维。
+
+inexpedient: 英[ˌɪnɪkˈspiːdiənt] 美[ˌɪnɪkˈspiːdiənt]
+%adj. 不明智的；不适当的
+    To rely on such a measure is inexpedient.
+#依靠这种措施是失策的。
+
+apostate: 英[əˈpɒsteɪt] 美[əˈpɑːsteɪt]
+$n. 脱党者；变节者；叛教者
+%adj. 变节的；脱党的；背教的
+    an apostate from Christianity to Buddhism
+#放弃基督教而改信佛教
+
+strangulate: 英[ˈstræŋɡjʊˌleɪt] 美[ˈstræŋɡjəˌleɪt]
+$vt. 勒杀；使窒息；绞死
+%vi. 窒息
+    His voice is a strangulated growl.
+#他的声音有种闷闷的吼声。
+
+medicate: 英[ˈmedɪkeɪt] 美[ˈmedɪkeɪt]
+%vt. 用药治疗；加药品于
+    He was one of many to medicate their stress and worries away with pharmaceuticals.
+#跟许多人一样，他靠药物来调节压力，赶走焦虑。
+
+innuendo: 英[ˌɪnjuˈendəʊ] 美[ˌɪnjuˈendoʊ]
+$n. 暗讽，讽刺；影射
+$vt. 暗示，旁敲侧击地表达
+%vi. 影射；说讽刺话
+    The newspaper innuendos about his private life eventually made him resign.
+#报纸上关于他私生活的含沙射影的话最终迫使他辞职。
+
+delinquent: 英[dɪˈlɪŋkwənt] 美[dɪˈlɪŋkwənt]
+$adj. 有过失的；怠忽的；拖欠债务的
+%n. 流氓；行为不良的人；失职者
+    delinquent taxes
+#逾期未付的税款
+    A hard line with delinquent debtors risks alienating customers temporarily lacking cash.
+#对拖欠债务的债务人采取强硬路线有可能疏远这些暂时缺乏现金的客户。
+
+puerile: 英[ˈpjʊəraɪl] 美[ˈpjʊrəl]
+%adj. 幼稚的；孩子气的；未成熟的；天真的
+    He laughed with immense scorn of such a puerile opinion.
+#对于如此愚蠢的见解他极其轻蔑地嗤之以鼻。
+
+commencement: 英[kəˈmensmənt] 美[kəˈmensmənt]
+%n. 开始，开端；<美>毕业典礼
+    Please put out cigarettes before the commencement of the flight.
+#请在飞机起飞前熄灭香烟。
+
+subjugate: 英[ˈsʌbdʒuɡeɪt] 美[ˈsʌbdʒuɡeɪt]
+%vt. 征服；使服从；克制
+    Imperialism has not been able to subjugate China.
+#帝国主义不能征服中国。
+
+snitch: 英[snɪtʃ] 美[snɪtʃ]
+$v. 告密；进行小偷小摸，扒窃
+%n. 告密者；告发者
+    You little snitch! I'll never tell you anything again!
+#你这家伙就爱告密！以后我什么话都不跟你说了！
+
+wax: 英[wæks] 美[wæks]
+$n. 蜡，蜂蜡；耳垢； <英，非正式，旧>一阵愤怒；<非正式>唱片；类似蜡的黏性物质（尤指液体或碳氢化合物）
+$v. 给……上（或打）蜡；用蜡除去（身体部位）的毛发；（月亮）渐圆，渐满；（带着某种情绪）说，写；（数量、规模等）增加，变大；<非正式>把……灌制成唱片
+%adj. 蜡制的，似蜡的
+    It's in the nature of romantic love that it waxes and wanes.
+#悲欢离合是浪漫爱情的本质。
+
+complaisant: 英[kəmˈpleɪzənt] 美[kəmˈpleɪzənt]
+%adj. 彬彬有礼的；顺从的；殷勤的
+    The host's complaisant manner made everyone feel welcome.
+#主人的殷勤有礼使每个人都感到自己是受欢迎的。
+
+retouch: 英[ˌriːˈtʌtʃ] 美[ˌriːˈtʌtʃ]
+$v. 润饰，修整（图画、照片等）
+%n. 润饰，修整
+    He said the photographs had been retouched.
+#他说这些照片已经修饰过。
+
+accolade: 英[ˈækəleɪd] 美[ˈækəleɪd]
+%n. 荣誉；荣誉称号授予仪式；连谱号；称赞
+    The actor deserves every accolade.
+#那位演员理应领受各种各样的荣誉。
+
+parlous: 英[ˈpɑːləs] 美[ˈpɑːrləs]
+$adj. 危险的；狡猾的；不易对付的
+%adv. 非常地；极度地
+    The parlous state of China's health-care system has also given a powerful boost to religion.
+#危险的中国医疗体系也加速宗教力量的发展。
+
+underbid: 英[ˌʌndəˈbɪd] 美[ˌʌndərˈbɪd]
+$vt. 出价低于……；出较低的价钱
+%n. 叫牌偏低；出价较低
+    The manufacturers appear to have underbid the contracts by a wider margin than usual.
+#厂家对合同投的标似乎较一般低得太多。
+
+inculpate: 英[ɪnˈkʌlpeɪt; ˈɪnkʌlˌpeɪt] 美[ɪnˈkʌlˌpeɪt]
+%vt. 使连累；使负罪；控告
+    The fact that he ran away seemed to inculpate the boy.
+#他之所以逃跑似乎是因为与那个男孩有牵连。
+
+berate: 英[bɪˈreɪt] 美[bɪˈreɪt]
+%vt. 严责；申斥
+    His mother berated him for making a mess.
+#他因捣乱而被母亲训斥。
+
+unprovoked: 英[ˌʌnprəˈvəʊkt] 美[ˌʌnprəˈvoʊkt]
+%adj. 无缘无故的；未受挑衅的
+    make an unprovoked attack
+#无故发动进攻
+
+minutia: 英[mɪˈnjuːʃɪə] 美[mɪˈnuːʃiə]
+%n. 琐事，细节
+    Many of his early works are concerned with the minutiae of rural life.
+#他早期的许多作品关注的是农村生活的平凡琐事。
+
+debility: 英[dɪˈbɪləti] 美[dɪˈbɪləti]
+%n. 衰弱，虚弱；无活力
+    Long illness caused debility in her.
+#长期患病使她很虚弱。
+
+poisonous: 英[ˈpɔɪzənəs] 美[ˈpɔɪzənəs]
+%adj. 有毒的；会产生毒素的；恶毒的，令人很不愉快的；有许多危害的，恶性的
+    All parts of the tree are poisonous, including the berries.
+#这种树的各个部位都有毒，包括其浆果。
+
+recusant: 英[ˈrekjʊzənt] 美[rəˈkjuːzənt]
+$n. 拒绝服从的人
+%adj. 不服从权威的
+    The recusant electors cooperated in electing a new senate.
+#叛逆的选民的在选举新议员的问题上进行了配合。
+
+lampoon: 英[læmˈpuːn] 美[læmˈpuːn]
+$v. 公开讽刺，挖苦
+%n. 讽刺文章（或言论）
+    The comedian often lampoons the leading figures of the day.
+#这位喜剧演员经常嘲讽当今的名人。
+
+ministerial: 英[ˌmɪnɪˈstɪəriəl] 美[ˌmɪnɪˈstɪriəl]
+%adj. 部长的，公使的，内阁的；牧师的
+    The scandal cut short his dazzling ministerial career.
+#这件丑闻断送了他当部长的灿烂前程。
+
+wastrel: 英[ˈweɪstrəl] 美[ˈweɪstrəl]
+%n. 废品；浪费者
+    He turned to be a bit of a wastrel who drank and gambled away the family fortune.
+#他变得有些像一个喝酒赌博、挥霍家产的败家子。
+
+panorama: 英[ˌpænəˈrɑːmə] 美[ˌpænəˈræmə]
+%n. （陆地或海洋的）全景，全貌；全景画，全景摄影；（某一主题或系列事件的）概论，综述；万花筒，各种人物，多样事物
+    A vast panorama of the valley lies before us.
+#山谷宽阔的全景展现在我们的眼前。
+
+feral: 英[ˈferəl] 美[ˈferəl]
+%adj. 野生的；凶猛的；阴郁的
+    a feral look
+#一副凶相
+    Feral dogs behave very much like wolves.
+#野狗的行为很像狼。
+
+ponderable: 英[ˈpɒndərəb(ə)l] 美[ˈpɑːndərəbəl]
+$adj. 有重量的；可称量的；有价值的
+%n. 值得考虑的事物
+    Not all the advantages of a good education are ponderable.
+#良好教育的好处并非都是可以估量的。
+
+disport: 英[dɪˈspɔːt] 美[dɪˈspɔːrt]
+$vt. 使欢娱；使快乐
+$vi. 娱乐；玩耍
+%n. 娱乐
+    A butterfly disported itself among the flowers.
+#只蝴蝶在花丛中翩翩嬉戏。
+
+execrate: 英[ˈeksəkreɪt] 美[ˈeksəkreɪt]
+%v. 憎恶；痛骂；诅咒
+    He execrated all those who opposed him.
+#他痛骂所有反对他的人。
+
+outshine: 英[ˌaʊtˈʃaɪn] 美[ˌaʊtˈʃaɪn]
+$vt. 使相形见绌；胜过；比……更亮
+%vi. 放光
+    He outshone his colleagues in every skill.
+#他在各种技能上比他的同事更为出色。
+
+stigmatize: 英[ˈstɪɡmətaɪz] 美[ˈstɪɡmətaɪz]
+%vt. 诬蔑；玷污；给……打上烙印
+    His prison record stigmatized his parents.
+#他坐过牢，这让他的父母遭受侮辱。
+
+spree: 英[spriː] 美[spriː]
+$n. 放纵，狂热行为；一阵，一通（犯罪活动）
+%v. <旧>疯狂地无节制地干，狂饮
+    We are going on a spree tonight.
+#今晚我们将要痛痛快快玩一番。
+
+reprieve: 英[rɪˈpriːv] 美[rɪˈpriːv]
+$v. 取消（或缓期）执行……的死刑；取消关闭，暂缓终止
+%n. 缓刑，赦免；暂缓，暂时解救
+    The condemned has been reprieved for three weeks.
+#罪犯的刑罚缓期3周执行。
+
+quaff: 英[kwɒf] 美[kwɑːf]
+$vt. 大口地喝，痛饮
+%vi. 狂饮，痛饮
+    He quaffed himself to drowsiness.
+#他喝酒喝得昏昏欲睡。
+
+destitution: 英[ˌdestɪˈtjuːʃ(ə)n] 美[ˌdestɪˈtuːʃ(ə)n]
+%n. 穷困；缺乏
+    be reduced to destitution
+#陷于贫困
+    a family in destitution
+#赤贫的家庭
+
+potation: 英[pəʊˈteɪʃən] 美[poʊˈteɪʃən]
+%n. 喝；饮料
+    abstain from potation
+#戒酒
+
+sere: 英[sɪə] 美[sɪr]
+$adj. 干枯的，枯萎的
+$n. 演替系列
+%n. （Sere）（匈）谢雷；（西）塞雷（人名）
+    Leaves become sere in the hot and dry weather.
+#在炎热干燥的天气，树叶会枯萎。
+
+dour: 英[dʊə(r)] 美[ˈdaʊər]
+$adj. 严厉的；顽强的；阴沉的；不爱讲话的
+%n. （Dour）人名；（法）杜尔
+    His expression was dour.
+#他的表情阴郁。
+
+posit: 英[ˈpɒzɪt] 美[ˈpɑːzɪt]
+$v. <正式>假设，认定；建立在（假说）上（posit sth. on）；安置，放置
+%n. （哲）假想
+    His glance stayed posited at the target.
+#他的目光盯住目标不动。
+
+droll: 英[drəʊl] 美[droʊl]
+$adj. 滑稽的；好笑的；逗趣的
+$n. 小丑，滑稽可笑的人
+$vi. 开玩笑
+%n. （Droll）人名；（英、德、罗）德罗尔
+    a droll face
+#古怪有趣的脸
+    The band have a droll sense of humour.
+#这个乐队有一种滑稽古怪的幽默感。
+
+coeval: 英[kəʊˈiːv(ə)l] 美[koʊˈiːv(ə)l]
+$adj. 同时代的
+%n. 同时代的人
+    The manuscript is coeval with that one.
+#这份手稿与那份是同时代的。
+
+wizened: 英[ˈwɪz(ə)nd] 美[ˈwɪznd]
+$adj. 干瘪的；枯萎的；消瘦的
+%v. 枯萎（wizen 的过去式和过去分词）
+    a wizened tree
+#枯树
+
+nethermost: 英[ˈneðəˌməʊst] 美[ˈneðərˌmoʊst]
+%adj. 最下面的；最低的
+    the nethermost layer
+#最下面的一层
+
+=======
+exhume: 英[eksˈhjuːm] 美[ɪɡˈzuːm]
+$vt. 发掘；掘出
+%n. （Exhume）人名；（法）埃克叙姆
+    His remains have been exhumed from a cemetery in the suburbs.
+#他的遗骸已经从郊区的一个公墓里被挖了出来。
+
+excogitate: 英[eksˈkɒdʒɪˌteɪt] 美[eksˈkɑːdʒəˌteɪt]
+%vt. 想出；发明；设计
+    excogitate an argument against going there
+#想出反对去那里的理由
+
+chastise: 英[tʃæˈstaɪz] 美[tʃæˈstaɪz]
+%vt. 惩罚；严惩；责骂
+    She chastised the government for cutting the education budget.
+#她评击政府削减教育经费。
+
+epitomize: 英[ɪˈpɪtəmaɪz] 美[ɪˈpɪtəmaɪz]
+%v. 成为……的典范，作为……的缩影；<古>概括，总结（一篇作品）
+    His problems epitomize the problems of the entire neighborhood.
+#他的问题是全体街坊问题的缩影。
+
+adulate: 英[ˈædjʊˌleɪt] 美[ˈædʒəˌleɪt]
+%vt. 过分称赞；谄媚；奉承
+    He respected science without adulating it.
+#他尊重科学而不迷信科学。
+
+goof: 英[ɡuːf] 美[ɡuːf]
+$v. 犯愚蠢的错误；消磨时间，闲荡；游手好闲，开小差（goof off）；过量服用（违禁药品）；取笑，奚落（goof on）
+%n. 愚蠢的错误；傻瓜，蠢人
+    He won the first round because I goofed.
+#由于我一时疏忽，他第一个回合赢了。
+
+slosh: 英[slɒʃ] 美[slɑːʃ]
+$vi. 溅，泼；在泥中荡
+$vt. 搅动，晃动；把……泼溅出
+%n. 泥泞；溅泼声
+    The water sloshed into a mass of water reeds.
+#水汩汩地流进一丛芦苇。
+
+flammable: 英[ˈflæməb(ə)l] 美[ˈflæməb(ə)l]
+$adj. 易燃的；可燃的；可燃性的
+%n. 易燃物
+    This solvent is highly flammable, so don't use it near a naked flame.
+#这种溶剂极其易燃，切勿在明火附近使用。
+
+scad: 英[skæd] 美[skæd]
+%n. 竹荚鱼；许多
+    He's caught a scad of fish.
+#他捕到了大量的鱼。
+
+pullulate: 英[ˈpʌljəleɪt] 美[ˈpʌljəleɪt]
+%vi. 成长；发芽；产生；充满；繁殖
+    The lagoon was pullulated with tropical fish.
+#那个咸水湖聚满了热带鱼。
+
+brat: 英[bræt] 美[bræt]
+$n. 乳臭未干的小孩；顽童
+%n. （Brat）人名；（法、塞）布拉特
+    She's a spoilt brat, never happy with what she has.
+#她是个被宠坏了的孩子，对她所拥有的东西从不满意。
+
+prude: 英[pruːd] 美[pruːd]
+$n. 拘守礼仪的人；故做正经的女人
+%n. （Prude）人名；（英）普鲁德
+    a girl who's prude with the boys
+#对小伙子故意本正经的姑娘
+
+measured: 英[ˈmeʒəd] 美[ˈmeʒərd]
+$adj. 慎重而缓慢的，慎重的；慢而稳的，有节奏的；量过的；基于标准的
+%v. 测量；（指尺寸、长短、数量等）量度为；估量，判定（重要性、价值或影响等）（measure 的过去式和过去分词）
+    His tone was very measured.
+#他的语气很有分寸。
+
+desideratum: 英[dɪˌzɪdəˈrɑːtəm] 美[dɪˌzɪdəˈrɑːtəm]
+%n. 迫切需要之物；所愿望之物
+    His only desideratum was health.
+#他唯一希望的就是身体健康。
+
+antecedence: 英[ˌæntɪˈsiːd(ə)ns] 美[ˌæntəˈsiːd(ə)ns]
+%n. 先行；居先；在先
+    Creative thinking is the antecedence of design.
+#创新性设计，必须有创新性思维。
+
+inexpedient: 英[ˌɪnɪkˈspiːdiənt] 美[ˌɪnɪkˈspiːdiənt]
+%adj. 不明智的；不适当的
+    To rely on such a measure is inexpedient.
+#依靠这种措施是失策的。
+
+apostate: 英[əˈpɒsteɪt] 美[əˈpɑːsteɪt]
+$n. 脱党者；变节者；叛教者
+%adj. 变节的；脱党的；背教的
+    an apostate from Christianity to Buddhism
+#放弃基督教而改信佛教
+
+strangulate: 英[ˈstræŋɡjʊˌleɪt] 美[ˈstræŋɡjəˌleɪt]
+$vt. 勒杀；使窒息；绞死
+%vi. 窒息
+    His voice is a strangulated growl.
+#他的声音有种闷闷的吼声。
+
+medicate: 英[ˈmedɪkeɪt] 美[ˈmedɪkeɪt]
+%vt. 用药治疗；加药品于
+    He was one of many to medicate their stress and worries away with pharmaceuticals.
+#跟许多人一样，他靠药物来调节压力，赶走焦虑。
+
+innuendo: 英[ˌɪnjuˈendəʊ] 美[ˌɪnjuˈendoʊ]
+$n. 暗讽，讽刺；影射
+$vt. 暗示，旁敲侧击地表达
+%vi. 影射；说讽刺话
+    The newspaper innuendos about his private life eventually made him resign.
+#报纸上关于他私生活的含沙射影的话最终迫使他辞职。
+
+delinquent: 英[dɪˈlɪŋkwənt] 美[dɪˈlɪŋkwənt]
+$adj. 有过失的；怠忽的；拖欠债务的
+%n. 流氓；行为不良的人；失职者
+    delinquent taxes
+#逾期未付的税款
+    A hard line with delinquent debtors risks alienating customers temporarily lacking cash.
+#对拖欠债务的债务人采取强硬路线有可能疏远这些暂时缺乏现金的客户。
+
+puerile: 英[ˈpjʊəraɪl] 美[ˈpjʊrəl]
+%adj. 幼稚的；孩子气的；未成熟的；天真的
+    He laughed with immense scorn of such a puerile opinion.
+#对于如此愚蠢的见解他极其轻蔑地嗤之以鼻。
+
+commencement: 英[kəˈmensmənt] 美[kəˈmensmənt]
+%n. 开始，开端；<美>毕业典礼
+    Please put out cigarettes before the commencement of the flight.
+#请在飞机起飞前熄灭香烟。
+
+subjugate: 英[ˈsʌbdʒuɡeɪt] 美[ˈsʌbdʒuɡeɪt]
+%vt. 征服；使服从；克制
+    Imperialism has not been able to subjugate China.
+#帝国主义不能征服中国。
+
+snitch: 英[snɪtʃ] 美[snɪtʃ]
+$v. 告密；进行小偷小摸，扒窃
+%n. 告密者；告发者
+    You little snitch! I'll never tell you anything again!
+#你这家伙就爱告密！以后我什么话都不跟你说了！
+
+wax: 英[wæks] 美[wæks]
+$n. 蜡，蜂蜡；耳垢； <英，非正式，旧>一阵愤怒；<非正式>唱片；类似蜡的黏性物质（尤指液体或碳氢化合物）
+$v. 给……上（或打）蜡；用蜡除去（身体部位）的毛发；（月亮）渐圆，渐满；（带着某种情绪）说，写；（数量、规模等）增加，变大；<非正式>把……灌制成唱片
+%adj. 蜡制的，似蜡的
+    It's in the nature of romantic love that it waxes and wanes.
+#悲欢离合是浪漫爱情的本质。
+
+complaisant: 英[kəmˈpleɪzənt] 美[kəmˈpleɪzənt]
+%adj. 彬彬有礼的；顺从的；殷勤的
+    The host's complaisant manner made everyone feel welcome.
+#主人的殷勤有礼使每个人都感到自己是受欢迎的。
+
+retouch: 英[ˌriːˈtʌtʃ] 美[ˌriːˈtʌtʃ]
+$v. 润饰，修整（图画、照片等）
+%n. 润饰，修整
+    He said the photographs had been retouched.
+#他说这些照片已经修饰过。
+
+accolade: 英[ˈækəleɪd] 美[ˈækəleɪd]
+%n. 荣誉；荣誉称号授予仪式；连谱号；称赞
+    The actor deserves every accolade.
+#那位演员理应领受各种各样的荣誉。
+
+parlous: 英[ˈpɑːləs] 美[ˈpɑːrləs]
+$adj. 危险的；狡猾的；不易对付的
+%adv. 非常地；极度地
+    The parlous state of China's health-care system has also given a powerful boost to religion.
+#危险的中国医疗体系也加速宗教力量的发展。
+
+underbid: 英[ˌʌndəˈbɪd] 美[ˌʌndərˈbɪd]
+$vt. 出价低于……；出较低的价钱
+%n. 叫牌偏低；出价较低
+    The manufacturers appear to have underbid the contracts by a wider margin than usual.
+#厂家对合同投的标似乎较一般低得太多。
+
+inculpate: 英[ɪnˈkʌlpeɪt; ˈɪnkʌlˌpeɪt] 美[ɪnˈkʌlˌpeɪt]
+%vt. 使连累；使负罪；控告
+    The fact that he ran away seemed to inculpate the boy.
+#他之所以逃跑似乎是因为与那个男孩有牵连。
+
+berate: 英[bɪˈreɪt] 美[bɪˈreɪt]
+%vt. 严责；申斥
+    His mother berated him for making a mess.
+#他因捣乱而被母亲训斥。
+
+unprovoked: 英[ˌʌnprəˈvəʊkt] 美[ˌʌnprəˈvoʊkt]
+%adj. 无缘无故的；未受挑衅的
+    make an unprovoked attack
+#无故发动进攻
+
+minutia: 英[mɪˈnjuːʃɪə] 美[mɪˈnuːʃiə]
+%n. 琐事，细节
+    Many of his early works are concerned with the minutiae of rural life.
+#他早期的许多作品关注的是农村生活的平凡琐事。
+
+debility: 英[dɪˈbɪləti] 美[dɪˈbɪləti]
+%n. 衰弱，虚弱；无活力
+    Long illness caused debility in her.
+#长期患病使她很虚弱。
+
+poisonous: 英[ˈpɔɪzənəs] 美[ˈpɔɪzənəs]
+%adj. 有毒的；会产生毒素的；恶毒的，令人很不愉快的；有许多危害的，恶性的
+    All parts of the tree are poisonous, including the berries.
+#这种树的各个部位都有毒，包括其浆果。
+
+recusant: 英[ˈrekjʊzənt] 美[rəˈkjuːzənt]
+$n. 拒绝服从的人
+%adj. 不服从权威的
+    The recusant electors cooperated in electing a new senate.
+#叛逆的选民的在选举新议员的问题上进行了配合。
+
+lampoon: 英[læmˈpuːn] 美[læmˈpuːn]
+$v. 公开讽刺，挖苦
+%n. 讽刺文章（或言论）
+    The comedian often lampoons the leading figures of the day.
+#这位喜剧演员经常嘲讽当今的名人。
+
+ministerial: 英[ˌmɪnɪˈstɪəriəl] 美[ˌmɪnɪˈstɪriəl]
+%adj. 部长的，公使的，内阁的；牧师的
+    The scandal cut short his dazzling ministerial career.
+#这件丑闻断送了他当部长的灿烂前程。
+
+wastrel: 英[ˈweɪstrəl] 美[ˈweɪstrəl]
+%n. 废品；浪费者
+    He turned to be a bit of a wastrel who drank and gambled away the family fortune.
+#他变得有些像一个喝酒赌博、挥霍家产的败家子。
+
+panorama: 英[ˌpænəˈrɑːmə] 美[ˌpænəˈræmə]
+%n. （陆地或海洋的）全景，全貌；全景画，全景摄影；（某一主题或系列事件的）概论，综述；万花筒，各种人物，多样事物
+    A vast panorama of the valley lies before us.
+#山谷宽阔的全景展现在我们的眼前。
+
+feral: 英[ˈferəl] 美[ˈferəl]
+%adj. 野生的；凶猛的；阴郁的
+    a feral look
+#一副凶相
+    Feral dogs behave very much like wolves.
+#野狗的行为很像狼。
+
+ponderable: 英[ˈpɒndərəb(ə)l] 美[ˈpɑːndərəbəl]
+$adj. 有重量的；可称量的；有价值的
+%n. 值得考虑的事物
+    Not all the advantages of a good education are ponderable.
+#良好教育的好处并非都是可以估量的。
+
+disport: 英[dɪˈspɔːt] 美[dɪˈspɔːrt]
+$vt. 使欢娱；使快乐
+$vi. 娱乐；玩耍
+%n. 娱乐
+    A butterfly disported itself among the flowers.
+#只蝴蝶在花丛中翩翩嬉戏。
+
+execrate: 英[ˈeksəkreɪt] 美[ˈeksəkreɪt]
+%v. 憎恶；痛骂；诅咒
+    He execrated all those who opposed him.
+#他痛骂所有反对他的人。
+
+outshine: 英[ˌaʊtˈʃaɪn] 美[ˌaʊtˈʃaɪn]
+$vt. 使相形见绌；胜过；比……更亮
+%vi. 放光
+    He outshone his colleagues in every skill.
+#他在各种技能上比他的同事更为出色。
+
+stigmatize: 英[ˈstɪɡmətaɪz] 美[ˈstɪɡmətaɪz]
+%vt. 诬蔑；玷污；给……打上烙印
+    His prison record stigmatized his parents.
+#他坐过牢，这让他的父母遭受侮辱。
+
+spree: 英[spriː] 美[spriː]
+$n. 放纵，狂热行为；一阵，一通（犯罪活动）
+%v. <旧>疯狂地无节制地干，狂饮
+    We are going on a spree tonight.
+#今晚我们将要痛痛快快玩一番。
+
+reprieve: 英[rɪˈpriːv] 美[rɪˈpriːv]
+$v. 取消（或缓期）执行……的死刑；取消关闭，暂缓终止
+%n. 缓刑，赦免；暂缓，暂时解救
+    The condemned has been reprieved for three weeks.
+#罪犯的刑罚缓期3周执行。
+
+quaff: 英[kwɒf] 美[kwɑːf]
+$vt. 大口地喝，痛饮
+%vi. 狂饮，痛饮
+    He quaffed himself to drowsiness.
+#他喝酒喝得昏昏欲睡。
+
+destitution: 英[ˌdestɪˈtjuːʃ(ə)n] 美[ˌdestɪˈtuːʃ(ə)n]
+%n. 穷困；缺乏
+    be reduced to destitution
+#陷于贫困
+    a family in destitution
+#赤贫的家庭
+
+potation: 英[pəʊˈteɪʃən] 美[poʊˈteɪʃən]
+%n. 喝；饮料
+    abstain from potation
+#戒酒
+
+sere: 英[sɪə] 美[sɪr]
+$adj. 干枯的，枯萎的
+$n. 演替系列
+%n. （Sere）（匈）谢雷；（西）塞雷（人名）
+    Leaves become sere in the hot and dry weather.
+#在炎热干燥的天气，树叶会枯萎。
+
+dour: 英[dʊə(r)] 美[ˈdaʊər]
+$adj. 严厉的；顽强的；阴沉的；不爱讲话的
+%n. （Dour）人名；（法）杜尔
+    His expression was dour.
+#他的表情阴郁。
+
+posit: 英[ˈpɒzɪt] 美[ˈpɑːzɪt]
+$v. <正式>假设，认定；建立在（假说）上（posit sth. on）；安置，放置
+%n. （哲）假想
+    His glance stayed posited at the target.
+#他的目光盯住目标不动。
+
+droll: 英[drəʊl] 美[droʊl]
+$adj. 滑稽的；好笑的；逗趣的
+$n. 小丑，滑稽可笑的人
+$vi. 开玩笑
+%n. （Droll）人名；（英、德、罗）德罗尔
+    a droll face
+#古怪有趣的脸
+    The band have a droll sense of humour.
+#这个乐队有一种滑稽古怪的幽默感。
+
+coeval: 英[kəʊˈiːv(ə)l] 美[koʊˈiːv(ə)l]
+$adj. 同时代的
+%n. 同时代的人
+    The manuscript is coeval with that one.
+#这份手稿与那份是同时代的。
+
+wizened: 英[ˈwɪz(ə)nd] 美[ˈwɪznd]
+$adj. 干瘪的；枯萎的；消瘦的
+%v. 枯萎（wizen 的过去式和过去分词）
+    a wizened tree
+#枯树
+
+nethermost: 英[ˈneðəˌməʊst] 美[ˈneðərˌmoʊst]
+%adj. 最下面的；最低的
+    the nethermost layer
+#最下面的一层
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

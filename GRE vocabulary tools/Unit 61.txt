@@ -1,0 +1,775 @@
+<<<<<<< HEAD
+platitudinous: 英[ˌplætɪˈtjuːdɪnəs] 美[ˌplætɪˈtuːdənəs]
+%adj. 平凡的，陈腐的；陈词滥调的
+    platitudinous remarks
+#陈腐的言论
+
+refractory: 英[rɪˈfræktəri] 美[rɪˈfræktəri]
+$adj. 难治的；难熔的；不听话的
+%n. 倔强的人；耐火物质
+    a refractory horse
+#桀鸷不驯的马
+    He suffered from a refractory cough.
+#他得了一种咳嗽的顽疾。
+
+inhibition: 英[ˌɪnhɪˈbɪʃ(ə)n] 美[ˌɪnɪˈbɪʃ(ə)n]
+%n. 拘谨，拘束感；阻止，抑制；<法律>（尤指对处理指明土地或财产的）禁令
+    He soon lost his inhibitions when he had drunk two or three glasses of wine.
+#两三杯酒下肚，他很快就变得无所顾忌。
+
+clemency: 英[ˈklemənsi] 美[ˈklemənsi]
+%n. 仁慈；温和；宽厚
+    clemency to first offenders
+#对初犯从宽
+    the clemency of May
+#五月的风和日丽
+    an appeal for clemency
+#请求从宽处理
+
+defamation: 英[ˌdefəˈmeɪʃ(ə)n] 美[ˌdefəˈmeɪʃ(ə)n]
+%n. 诽谤；中伤
+    He sued the newspaper for defamation of character.
+#他控告那家报纸诽谤人格。
+
+disillusion: 英[ˌdɪsɪˈluːʒn] 美[ˌdɪsɪˈluːʒ(ə)n]
+$v. 使醒悟，使不再抱幻想
+%n. 幻灭，失望
+    be disillusioned with/about
+#对……不再抱有幻想
+    disillusion sb. of an idea
+#使某人摆脱某种幻想
+
+anterior: 英[ænˈtɪəriə(r)] 美[ænˈtɪriər]
+%adj. 前面的；先前的
+    events anterior to the war
+#战前得事件
+    the anterior part of a fish
+#鱼的前部
+
+vitriolic: 英[ˌvɪtriˈɒlɪk] 美[ˌvɪtriˈɑːlɪk]
+%adj. 硫酸的；刻薄的
+    vitriolic speech
+#尖刻的话
+    vitriolic temper
+#火辣性子
+
+anticlimactic: 英[ˌæntiklaɪˈmæktɪk] 美[ˌæntiklaɪˈmæktɪk]
+%adj. 虎头蛇尾的；突降法的；突减的
+    After a sumptuous lunch in a restaurant the hamburger supper is anticlimactic.
+#下馆子吃了一顿极丰盛的午餐之后，以汉堡包作晚餐无疑是虎头蛇尾的。
+
+respiratory: 英[rəˈspɪrət(ə)ri] 美[ˈrespərətɔːri]
+%adj. <正式>呼吸的
+    The lungs are respiratory organs.
+#肺是呼吸器官。
+
+proclivity: 英[prəˈklɪvəti] 美[prəˈklɪvəti]
+%n. 倾向；癖性
+    a snobbish proclivity
+#势利倾向
+    have a proclivity for finding fault
+#爱挑错的习性
+
+constrict: 英[kənˈstrɪkt] 美[kənˈstrɪkt]
+%v. （使）压缩，（使）收缩；限制，约束；（蛇）盘绕以使窒息
+    constrict a blood vessel to stop bleeding
+#压住血管以止血
+    a constricted point of view
+#狭隘观点
+    Her voice was constricted with emotion.
+#她的声音由于激动而哽咽住了。
+
+connive: 英[kəˈnaɪv] 美[kəˈnaɪv]
+%vi. 共谋；纵容；默许
+    The two gangs connived in the smuggling of goods.
+#这两个团伙共谋走私。
+
+controversial: 英[ˌkɒntrəˈvɜːʃ(ə)l] 美[ˌkɑːntrəˈvɜːrʃ(ə)l]
+%adj. 有争议的，引发争论的
+    a controversial writing
+#有争议的作品
+    a highly controversial subject
+#颇有争议的项目
+
+corroboration: 英[kəˌrɒbəˈreɪʃ(ə)n] 美[kəˌrɑːbəˈreɪʃ(ə)n]
+%n. 确证，证实；确证的事实
+    in corroboration of one's argument
+#为进一步证实某人的论点
+    seek corroboration for one's views
+#为自己的论点寻求证据
+
+undecipherable: 英[ˌʌndɪˈsaɪfərəb(ə)l] 美[ˌʌndɪˈsaɪfərəb(ə)l]
+%adj. 难辨认的；破译不出的
+    undecipherable code
+#难破解的密码
+
+rubbery: 英[ˈrʌbəri] 美[ˈrʌbəri]
+%adj. 橡胶似的；有弹力的；坚韧的
+    She had the most rubbery face.
+#她的脸非常有弹性。
+
+institutionalize: 英[ˌɪnstɪˈtjuːʃənəlaɪz] 美[ˌɪnstɪˈtuːʃənəlaɪz]
+%vt. 使……制度化
+    What was once an informal event has now become institutionalized.
+#一度非正式的活动已经制度化了。
+
+hysteria: 英[hɪˈstɪəriə] 美[hɪˈstɪriə]
+%n. 歇斯底里；（众人的）狂热情绪的爆发；癔症
+    One woman, close to hysteria, grabbed on my arm.
+#一个歇斯底里的女人抓住了我的胳膊。
+
+pollinate: 英[ˈpɒləneɪt] 美[ˈpɑːləneɪt]
+%vt. 对……授粉
+    Insects or wind pollinate the majority of plants.
+#大多数植物由昆虫或风传粉。
+
+skinflint: 英[ˈskɪnflɪnt] 美[ˈskɪnflɪnt]
+%n. 吝啬鬼；一毛不拔的人
+    The man is a thorough skinflint.
+#那个男人是个十足的吝啬鬼。
+
+scourge: 英[skɜːdʒ] 美[skɜːrdʒ]
+$n. 灾祸；鞭子；苦难的根源
+%v. 折磨；鞭打；斥痛
+    the scourge of street crime
+#街头犯罪的祸害
+    a region scourged by numerous wars
+#饱受战争之苦的地区
+    In olden times, an outburst of disease was called a scourge.
+#古时，疫病流行被称为天遣。
+
+punishment: 英[ˈpʌnɪʃmənt] 美[ˈpʌnɪʃmənt]
+%n. 惩罚手段，处罚；粗暴对待，糟蹋
+    inflict a punishment on sb.
+#对某人的惩罚
+    escape without punishment
+#逃脱惩罚
+
+unworldly: 英[ʌnˈwɜːldli] 美[ʌnˈwɜːrldli]
+%adj. 非尘世的；精神上的，非物质的；天真的
+    He seemed fairly unworldly.
+#他似乎超凡脱俗。
+
+disgruntled: 英[dɪsˈɡrʌnt(ə)ld] 美[dɪsˈɡrʌntld]
+%adj. 不满的；不高兴的
+    disgruntled spectators
+#不满的观众
+    be disgruntled with one's wages
+#对工资不满
+
+rigid: 英[ˈrɪdʒɪd] 美[ˈrɪdʒɪd]
+$adj. （方法、体制等）严格死板的，僵化的；（人）顽固的，不通融的；刚硬的，不易弯曲的；（因强烈的感情而）僵硬的，僵直的；精确的
+%n. 未铰接的货车
+    a rigid support of a tent
+#帐篷的刚硬支撑物
+    a body rigid from cold
+#冻僵的躯体
+    practice rigid economy
+#厉行节约
+    rigid price control
+#严格的价格控制
+    rigid reasoning
+#严密的推理
+    They sat silently in rigid postures.
+#他们直挺挺坐着，一言不发。
+
+specialize: 英[ˈspeʃəlaɪz] 美[ˈspeʃəlaɪz]
+%vi. 专门研究（或从事），专攻；专营；（生）使（器官）专化，使特化
+    He specialized first in painting birds and later in writing about them.
+#他开始专攻画鸟，后来又专写关于鸟类的文章。
+
+underground: 英[ˌʌndəˈɡraʊnd] 美[ˌʌndərˈɡraʊnd]
+$adv. 在地（面）下；；隐蔽地，隐匿地；在地（面）下
+$adj. 地（面）下的；秘密的，地下的；标新立异的，小众的
+$v. 铺（电缆）于地下；；铺（电缆）于地下
+%n. <英> 地铁；（反政府的）地下组织；先锋派团体
+    underground water
+#地下水
+    underground car parking
+#地下停车场
+    go by underground
+#乘坐地铁
+    The news has been passed on underground, but not in the official newspaper.
+#这消息已经在私下广泛传播，但是官方媒体并未报道。
+
+towering: 英[ˈtaʊərɪŋ] 美[ˈtaʊərɪŋ]
+$adj. 高耸的；卓越的；激烈的
+%v. 高翔（tower 的 ing 形式）
+    a towering oak
+#高大得橡树
+    a towering national figure
+#一位伟大的民族人物
+    a man of towering ambition
+#雄心勃勃的男子
+    in a towering rage
+#大发雷霆
+
+notch: 英[nɒtʃ] 美[nɑːtʃ]
+$n. （表面或边缘的）V形刻痕，圆形切口；等级，档次；<美>山峡，峡谷；皮带上（搭扣插入）的孔
+%vt. <非正式>赢得，获取；（在表面或边缘）刻V形痕，刻下切口
+    a pole with notches for aid in climbing
+#为便于攀爬的有凹口的杆子
+    go up another notch
+#又升了一级
+    notch the score on a stick
+#在棍子上刻痕记分
+    a notch above/higher than others
+#比其他人高一等
+    He cut a notch in the stick with a sharp knife.
+#他用一把锋利的刀在棍子上切了一个缺口。
+
+reaffirmation: 英[ˌriːˌæfəˈmeɪʃ(ə)n] 美[ˌriːˌæfərˈmeɪʃ(ə)n]
+%n. 重申；再断言；再确认
+    He nodded in reaffirmation.
+#他再次肯定地点了点头。
+
+spiritedness: 英[ˈspɪrɪtɪdnəs] 美[ˈspɪrɪtɪdnəs]
+%n. 有精神；活泼；勇敢
+    And soldiers need to channel their high spiritedness in a certain direction, precisely by being courageous.
+#而士兵们需要被鼓励，将他们的高涨情绪导向某个方向。
+
+overbalance: 英[ˌəʊvəˈbæləns] 美[ˌoʊvərˈbæləns]
+$v. （使）失去平衡，摔倒；（使）过重，超过；比……更重要，更有价值
+%n. 超额，超量；不平衡
+    overbalance a vase
+#打翻花瓶
+    He overbalanced and fell backwards onto a coffee table
+#他站立不稳，仰倒在咖啡桌上。
+
+affectionate: 英[əˈfekʃənət] 美[əˈfekʃənət]
+%adj. 表达爱意的，深情的
+    sb.'s affectionate care for his countrymen
+#某人对国人的亲切关怀
+    an affectionate brother
+#感情诚挚的兄弟
+    an affectionate hug
+#亲切的拥抱
+    They seemed devoted to each other and were openly affectionate.
+#他们看起来非常恩爱，柔情蜜意溢于言表。
+
+slipshod: 英[ˈslɪpʃɒd] 美[ˈslɪpʃɑːd]
+%adj. 潦草的；穿著不整洁的；穿著踏跟鞋的
+    be dressed in a slipshod way
+#衣冠不整
+    slipshod repair work
+#马马虎虎的修理
+    a slipshod piece of work
+#一件马虎的活儿
+    It was based on slipshod reasoning.
+#这是基于草率的推理。
+
+perilous: 英[ˈperələs] 美[ˈperələs]
+%adj. 危险的，艰险的；濒临灾难（或毁灭）的
+    a perilous journey across the mountain
+#穿越山脉的危险旅行
+    the perilous jungle
+#危机四伏的丛林
+    The nation's finances were in a perilous state.
+#这个国家的财政处于危险的状态。
+
+wrongheaded: 英[ˌrɒŋˈhedɪd] 美[ˌrɔːŋˈhedɪd]
+%adj. 固执的；坚持错误的
+    a wrongheaded idea
+#错误的意见
+    a wrongheaded war
+#一场判断失误的战争
+    a wrongheaded man
+#刚愎自用的人
+    He is too wrongheaded to abandon his original objective.
+#他太固执，不肯放弃自己原来的目标。
+
+implausible: 英[ɪmˈplɔːzəb(ə)l] 美[ɪmˈplɔːzəb(ə)l]
+%adj. 难以置信的，不像真实的
+    an implausible excuse
+#难以置信的借口
+    an implausible explanation
+#难以置信的解释
+    She found the entire story implausible.
+#她觉得整个故事似乎不真实。
+
+possessed: 英[pəˈzest] 美[pəˈzest]
+$v. 拥有；具有（特质）；持有；支配；（使）言行失常；缠住；（诗、文）与（女人）性交；（使）保持耐心（或平静）（possess 的过去式及过去分词）
+%adj. 着了魔的；拥有的；镇定的
+    a possessed little girl
+#着魔的小姑娘
+    a man possessed of more wealth than brains
+#拥有的财富比智慧多的人
+    be possessed of great confidence
+#非常自信
+    be possessed in time of trial
+#经受考验沉着坚定
+    He rushed out of the office like one possessed.
+#他发疯似的冲出办公室。
+
+dumbbell-like: 英['dʌmbelaɪk] 美['dʌmbelaɪk]
+%adj. 哑铃状的
+    The TEM and SEM images demonstrated the formation of dumbbell-like nanostructures.
+#TEM、SEM照片证实了哑铃状纳米组装结构的形成。
+
+nonchalance: 英[ˈnɒnʃələns] 美[ˌnɑːnʃəˈlɑːns]
+%n. 冷淡；漠不关心；冷静
+    with nonchalance
+#无动于衷地
+    assume an air of great nonchalance
+#装出一副漠不关心的样子
+    He received the prize with an air of nonchalance.
+#他接受奖品时表现出毫不在意的样子。
+
+molten: 英[ˈməʊltən] 美[ˈmoʊltən]
+$adj. 熔化的；铸造的；炽热的
+%n. （Molten）莫尔滕（人名）
+    molten lava
+#熔岩
+    a molten image
+#铸像
+    a molten passion
+#炽热的激情
+    The molten metal is poured into the mould.
+#把融化的金属倒进铸模。
+
+postoperative: 英[ˌpəʊstˈɒpərətɪv] 美[ˌpoʊstˈɑːpərətɪv]
+$adj. 手术后的
+%n. 手术后病人
+    postoperative care
+#术后护理
+    The postoperatives were not allowed to smoke.
+#术后病人不允许抽烟。
+
+premeditate: 英[prɪˈmedɪˌteɪt] 美[priˈmedəˌteɪt]
+$vi. 预谋；预先考虑
+%vt. 预谋；预先考虑
+    premeditate a plan
+#预谋一场计划
+    It is a premeditated murder.
+#这是场有预谋的凶杀。
+
+scrappy: 英[ˈskræpi] 美[ˈskræpi]
+%adj. 爱打架的；杂凑的；不连贯的；生气勃勃的
+    a scrappy supper of leftovers
+#用剩菜凑作的一顿饭
+    scrappy memories
+#凌乱的回忆
+    a scrappy football team
+#一支斗志旺盛的足球队
+    It is a scrappy, badly-writing report.
+#这是份写得很糟的前言不搭后语的报告。
+
+territorial: 英[ˌterəˈtɔːriəl] 美[ˌterəˈtɔːriəl]
+$adj. 领土的，领海的；（人类或动物）有地盘意识的，领地性的；地区的，地方的；(美国）准州的，（加拿大）地方的
+%n. （英国）本土防卫义勇军士兵（或军官）
+    territorial integrity
+#领土完整
+    The two countries had a territorial dispute over which one owned the island.
+#两国之间存在着涉及那个岛屿归属的领土争端。
+
+galvanize: 英[ˈɡælvənaɪz] 美[ˈɡælvənaɪz]
+%vt. 镀锌；通电；刺激
+    The startling news galvanized him into action.
+#这一惊人的消息促使他采取行动。
+
+finicky: 英[ˈfɪnɪki] 美[ˈfɪnɪki]
+%adj. 过分讲究的；过分注意的；过分繁琐的
+    a very finicky eater
+#过分挑食的人
+    be very finicky about the clothes
+#过分讲究穿着
+    He is frequently finicky in his choice of words.
+#他往往措辞过严。
+
+transferable: 英[trænsˈfɜːrəb(ə)l] 美[trænsˈfɜːrəb(ə)l]
+%adj. 可转让的；[数] 可转移的
+    transferable currency
+#流通货币
+    transferable assets
+#可转让资产
+    a transferable account
+#可转让的账户
+
+=======
+platitudinous: 英[ˌplætɪˈtjuːdɪnəs] 美[ˌplætɪˈtuːdənəs]
+%adj. 平凡的，陈腐的；陈词滥调的
+    platitudinous remarks
+#陈腐的言论
+
+refractory: 英[rɪˈfræktəri] 美[rɪˈfræktəri]
+$adj. 难治的；难熔的；不听话的
+%n. 倔强的人；耐火物质
+    a refractory horse
+#桀鸷不驯的马
+    He suffered from a refractory cough.
+#他得了一种咳嗽的顽疾。
+
+inhibition: 英[ˌɪnhɪˈbɪʃ(ə)n] 美[ˌɪnɪˈbɪʃ(ə)n]
+%n. 拘谨，拘束感；阻止，抑制；<法律>（尤指对处理指明土地或财产的）禁令
+    He soon lost his inhibitions when he had drunk two or three glasses of wine.
+#两三杯酒下肚，他很快就变得无所顾忌。
+
+clemency: 英[ˈklemənsi] 美[ˈklemənsi]
+%n. 仁慈；温和；宽厚
+    clemency to first offenders
+#对初犯从宽
+    the clemency of May
+#五月的风和日丽
+    an appeal for clemency
+#请求从宽处理
+
+defamation: 英[ˌdefəˈmeɪʃ(ə)n] 美[ˌdefəˈmeɪʃ(ə)n]
+%n. 诽谤；中伤
+    He sued the newspaper for defamation of character.
+#他控告那家报纸诽谤人格。
+
+disillusion: 英[ˌdɪsɪˈluːʒn] 美[ˌdɪsɪˈluːʒ(ə)n]
+$v. 使醒悟，使不再抱幻想
+%n. 幻灭，失望
+    be disillusioned with/about
+#对……不再抱有幻想
+    disillusion sb. of an idea
+#使某人摆脱某种幻想
+
+anterior: 英[ænˈtɪəriə(r)] 美[ænˈtɪriər]
+%adj. 前面的；先前的
+    events anterior to the war
+#战前得事件
+    the anterior part of a fish
+#鱼的前部
+
+vitriolic: 英[ˌvɪtriˈɒlɪk] 美[ˌvɪtriˈɑːlɪk]
+%adj. 硫酸的；刻薄的
+    vitriolic speech
+#尖刻的话
+    vitriolic temper
+#火辣性子
+
+anticlimactic: 英[ˌæntiklaɪˈmæktɪk] 美[ˌæntiklaɪˈmæktɪk]
+%adj. 虎头蛇尾的；突降法的；突减的
+    After a sumptuous lunch in a restaurant the hamburger supper is anticlimactic.
+#下馆子吃了一顿极丰盛的午餐之后，以汉堡包作晚餐无疑是虎头蛇尾的。
+
+respiratory: 英[rəˈspɪrət(ə)ri] 美[ˈrespərətɔːri]
+%adj. <正式>呼吸的
+    The lungs are respiratory organs.
+#肺是呼吸器官。
+
+proclivity: 英[prəˈklɪvəti] 美[prəˈklɪvəti]
+%n. 倾向；癖性
+    a snobbish proclivity
+#势利倾向
+    have a proclivity for finding fault
+#爱挑错的习性
+
+constrict: 英[kənˈstrɪkt] 美[kənˈstrɪkt]
+%v. （使）压缩，（使）收缩；限制，约束；（蛇）盘绕以使窒息
+    constrict a blood vessel to stop bleeding
+#压住血管以止血
+    a constricted point of view
+#狭隘观点
+    Her voice was constricted with emotion.
+#她的声音由于激动而哽咽住了。
+
+connive: 英[kəˈnaɪv] 美[kəˈnaɪv]
+%vi. 共谋；纵容；默许
+    The two gangs connived in the smuggling of goods.
+#这两个团伙共谋走私。
+
+controversial: 英[ˌkɒntrəˈvɜːʃ(ə)l] 美[ˌkɑːntrəˈvɜːrʃ(ə)l]
+%adj. 有争议的，引发争论的
+    a controversial writing
+#有争议的作品
+    a highly controversial subject
+#颇有争议的项目
+
+corroboration: 英[kəˌrɒbəˈreɪʃ(ə)n] 美[kəˌrɑːbəˈreɪʃ(ə)n]
+%n. 确证，证实；确证的事实
+    in corroboration of one's argument
+#为进一步证实某人的论点
+    seek corroboration for one's views
+#为自己的论点寻求证据
+
+undecipherable: 英[ˌʌndɪˈsaɪfərəb(ə)l] 美[ˌʌndɪˈsaɪfərəb(ə)l]
+%adj. 难辨认的；破译不出的
+    undecipherable code
+#难破解的密码
+
+rubbery: 英[ˈrʌbəri] 美[ˈrʌbəri]
+%adj. 橡胶似的；有弹力的；坚韧的
+    She had the most rubbery face.
+#她的脸非常有弹性。
+
+institutionalize: 英[ˌɪnstɪˈtjuːʃənəlaɪz] 美[ˌɪnstɪˈtuːʃənəlaɪz]
+%vt. 使……制度化
+    What was once an informal event has now become institutionalized.
+#一度非正式的活动已经制度化了。
+
+hysteria: 英[hɪˈstɪəriə] 美[hɪˈstɪriə]
+%n. 歇斯底里；（众人的）狂热情绪的爆发；癔症
+    One woman, close to hysteria, grabbed on my arm.
+#一个歇斯底里的女人抓住了我的胳膊。
+
+pollinate: 英[ˈpɒləneɪt] 美[ˈpɑːləneɪt]
+%vt. 对……授粉
+    Insects or wind pollinate the majority of plants.
+#大多数植物由昆虫或风传粉。
+
+skinflint: 英[ˈskɪnflɪnt] 美[ˈskɪnflɪnt]
+%n. 吝啬鬼；一毛不拔的人
+    The man is a thorough skinflint.
+#那个男人是个十足的吝啬鬼。
+
+scourge: 英[skɜːdʒ] 美[skɜːrdʒ]
+$n. 灾祸；鞭子；苦难的根源
+%v. 折磨；鞭打；斥痛
+    the scourge of street crime
+#街头犯罪的祸害
+    a region scourged by numerous wars
+#饱受战争之苦的地区
+    In olden times, an outburst of disease was called a scourge.
+#古时，疫病流行被称为天遣。
+
+punishment: 英[ˈpʌnɪʃmənt] 美[ˈpʌnɪʃmənt]
+%n. 惩罚手段，处罚；粗暴对待，糟蹋
+    inflict a punishment on sb.
+#对某人的惩罚
+    escape without punishment
+#逃脱惩罚
+
+unworldly: 英[ʌnˈwɜːldli] 美[ʌnˈwɜːrldli]
+%adj. 非尘世的；精神上的，非物质的；天真的
+    He seemed fairly unworldly.
+#他似乎超凡脱俗。
+
+disgruntled: 英[dɪsˈɡrʌnt(ə)ld] 美[dɪsˈɡrʌntld]
+%adj. 不满的；不高兴的
+    disgruntled spectators
+#不满的观众
+    be disgruntled with one's wages
+#对工资不满
+
+rigid: 英[ˈrɪdʒɪd] 美[ˈrɪdʒɪd]
+$adj. （方法、体制等）严格死板的，僵化的；（人）顽固的，不通融的；刚硬的，不易弯曲的；（因强烈的感情而）僵硬的，僵直的；精确的
+%n. 未铰接的货车
+    a rigid support of a tent
+#帐篷的刚硬支撑物
+    a body rigid from cold
+#冻僵的躯体
+    practice rigid economy
+#厉行节约
+    rigid price control
+#严格的价格控制
+    rigid reasoning
+#严密的推理
+    They sat silently in rigid postures.
+#他们直挺挺坐着，一言不发。
+
+specialize: 英[ˈspeʃəlaɪz] 美[ˈspeʃəlaɪz]
+%vi. 专门研究（或从事），专攻；专营；（生）使（器官）专化，使特化
+    He specialized first in painting birds and later in writing about them.
+#他开始专攻画鸟，后来又专写关于鸟类的文章。
+
+underground: 英[ˌʌndəˈɡraʊnd] 美[ˌʌndərˈɡraʊnd]
+$adv. 在地（面）下；；隐蔽地，隐匿地；在地（面）下
+$adj. 地（面）下的；秘密的，地下的；标新立异的，小众的
+$v. 铺（电缆）于地下；；铺（电缆）于地下
+%n. <英> 地铁；（反政府的）地下组织；先锋派团体
+    underground water
+#地下水
+    underground car parking
+#地下停车场
+    go by underground
+#乘坐地铁
+    The news has been passed on underground, but not in the official newspaper.
+#这消息已经在私下广泛传播，但是官方媒体并未报道。
+
+towering: 英[ˈtaʊərɪŋ] 美[ˈtaʊərɪŋ]
+$adj. 高耸的；卓越的；激烈的
+%v. 高翔（tower 的 ing 形式）
+    a towering oak
+#高大得橡树
+    a towering national figure
+#一位伟大的民族人物
+    a man of towering ambition
+#雄心勃勃的男子
+    in a towering rage
+#大发雷霆
+
+notch: 英[nɒtʃ] 美[nɑːtʃ]
+$n. （表面或边缘的）V形刻痕，圆形切口；等级，档次；<美>山峡，峡谷；皮带上（搭扣插入）的孔
+%vt. <非正式>赢得，获取；（在表面或边缘）刻V形痕，刻下切口
+    a pole with notches for aid in climbing
+#为便于攀爬的有凹口的杆子
+    go up another notch
+#又升了一级
+    notch the score on a stick
+#在棍子上刻痕记分
+    a notch above/higher than others
+#比其他人高一等
+    He cut a notch in the stick with a sharp knife.
+#他用一把锋利的刀在棍子上切了一个缺口。
+
+reaffirmation: 英[ˌriːˌæfəˈmeɪʃ(ə)n] 美[ˌriːˌæfərˈmeɪʃ(ə)n]
+%n. 重申；再断言；再确认
+    He nodded in reaffirmation.
+#他再次肯定地点了点头。
+
+spiritedness: 英[ˈspɪrɪtɪdnəs] 美[ˈspɪrɪtɪdnəs]
+%n. 有精神；活泼；勇敢
+    And soldiers need to channel their high spiritedness in a certain direction, precisely by being courageous.
+#而士兵们需要被鼓励，将他们的高涨情绪导向某个方向。
+
+overbalance: 英[ˌəʊvəˈbæləns] 美[ˌoʊvərˈbæləns]
+$v. （使）失去平衡，摔倒；（使）过重，超过；比……更重要，更有价值
+%n. 超额，超量；不平衡
+    overbalance a vase
+#打翻花瓶
+    He overbalanced and fell backwards onto a coffee table
+#他站立不稳，仰倒在咖啡桌上。
+
+affectionate: 英[əˈfekʃənət] 美[əˈfekʃənət]
+%adj. 表达爱意的，深情的
+    sb.'s affectionate care for his countrymen
+#某人对国人的亲切关怀
+    an affectionate brother
+#感情诚挚的兄弟
+    an affectionate hug
+#亲切的拥抱
+    They seemed devoted to each other and were openly affectionate.
+#他们看起来非常恩爱，柔情蜜意溢于言表。
+
+slipshod: 英[ˈslɪpʃɒd] 美[ˈslɪpʃɑːd]
+%adj. 潦草的；穿著不整洁的；穿著踏跟鞋的
+    be dressed in a slipshod way
+#衣冠不整
+    slipshod repair work
+#马马虎虎的修理
+    a slipshod piece of work
+#一件马虎的活儿
+    It was based on slipshod reasoning.
+#这是基于草率的推理。
+
+perilous: 英[ˈperələs] 美[ˈperələs]
+%adj. 危险的，艰险的；濒临灾难（或毁灭）的
+    a perilous journey across the mountain
+#穿越山脉的危险旅行
+    the perilous jungle
+#危机四伏的丛林
+    The nation's finances were in a perilous state.
+#这个国家的财政处于危险的状态。
+
+wrongheaded: 英[ˌrɒŋˈhedɪd] 美[ˌrɔːŋˈhedɪd]
+%adj. 固执的；坚持错误的
+    a wrongheaded idea
+#错误的意见
+    a wrongheaded war
+#一场判断失误的战争
+    a wrongheaded man
+#刚愎自用的人
+    He is too wrongheaded to abandon his original objective.
+#他太固执，不肯放弃自己原来的目标。
+
+implausible: 英[ɪmˈplɔːzəb(ə)l] 美[ɪmˈplɔːzəb(ə)l]
+%adj. 难以置信的，不像真实的
+    an implausible excuse
+#难以置信的借口
+    an implausible explanation
+#难以置信的解释
+    She found the entire story implausible.
+#她觉得整个故事似乎不真实。
+
+possessed: 英[pəˈzest] 美[pəˈzest]
+$v. 拥有；具有（特质）；持有；支配；（使）言行失常；缠住；（诗、文）与（女人）性交；（使）保持耐心（或平静）（possess 的过去式及过去分词）
+%adj. 着了魔的；拥有的；镇定的
+    a possessed little girl
+#着魔的小姑娘
+    a man possessed of more wealth than brains
+#拥有的财富比智慧多的人
+    be possessed of great confidence
+#非常自信
+    be possessed in time of trial
+#经受考验沉着坚定
+    He rushed out of the office like one possessed.
+#他发疯似的冲出办公室。
+
+dumbbell-like: 英['dʌmbelaɪk] 美['dʌmbelaɪk]
+%adj. 哑铃状的
+    The TEM and SEM images demonstrated the formation of dumbbell-like nanostructures.
+#TEM、SEM照片证实了哑铃状纳米组装结构的形成。
+
+nonchalance: 英[ˈnɒnʃələns] 美[ˌnɑːnʃəˈlɑːns]
+%n. 冷淡；漠不关心；冷静
+    with nonchalance
+#无动于衷地
+    assume an air of great nonchalance
+#装出一副漠不关心的样子
+    He received the prize with an air of nonchalance.
+#他接受奖品时表现出毫不在意的样子。
+
+molten: 英[ˈməʊltən] 美[ˈmoʊltən]
+$adj. 熔化的；铸造的；炽热的
+%n. （Molten）莫尔滕（人名）
+    molten lava
+#熔岩
+    a molten image
+#铸像
+    a molten passion
+#炽热的激情
+    The molten metal is poured into the mould.
+#把融化的金属倒进铸模。
+
+postoperative: 英[ˌpəʊstˈɒpərətɪv] 美[ˌpoʊstˈɑːpərətɪv]
+$adj. 手术后的
+%n. 手术后病人
+    postoperative care
+#术后护理
+    The postoperatives were not allowed to smoke.
+#术后病人不允许抽烟。
+
+premeditate: 英[prɪˈmedɪˌteɪt] 美[priˈmedəˌteɪt]
+$vi. 预谋；预先考虑
+%vt. 预谋；预先考虑
+    premeditate a plan
+#预谋一场计划
+    It is a premeditated murder.
+#这是场有预谋的凶杀。
+
+scrappy: 英[ˈskræpi] 美[ˈskræpi]
+%adj. 爱打架的；杂凑的；不连贯的；生气勃勃的
+    a scrappy supper of leftovers
+#用剩菜凑作的一顿饭
+    scrappy memories
+#凌乱的回忆
+    a scrappy football team
+#一支斗志旺盛的足球队
+    It is a scrappy, badly-writing report.
+#这是份写得很糟的前言不搭后语的报告。
+
+territorial: 英[ˌterəˈtɔːriəl] 美[ˌterəˈtɔːriəl]
+$adj. 领土的，领海的；（人类或动物）有地盘意识的，领地性的；地区的，地方的；(美国）准州的，（加拿大）地方的
+%n. （英国）本土防卫义勇军士兵（或军官）
+    territorial integrity
+#领土完整
+    The two countries had a territorial dispute over which one owned the island.
+#两国之间存在着涉及那个岛屿归属的领土争端。
+
+galvanize: 英[ˈɡælvənaɪz] 美[ˈɡælvənaɪz]
+%vt. 镀锌；通电；刺激
+    The startling news galvanized him into action.
+#这一惊人的消息促使他采取行动。
+
+finicky: 英[ˈfɪnɪki] 美[ˈfɪnɪki]
+%adj. 过分讲究的；过分注意的；过分繁琐的
+    a very finicky eater
+#过分挑食的人
+    be very finicky about the clothes
+#过分讲究穿着
+    He is frequently finicky in his choice of words.
+#他往往措辞过严。
+
+transferable: 英[trænsˈfɜːrəb(ə)l] 美[trænsˈfɜːrəb(ə)l]
+%adj. 可转让的；[数] 可转移的
+    transferable currency
+#流通货币
+    transferable assets
+#可转让资产
+    a transferable account
+#可转让的账户
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

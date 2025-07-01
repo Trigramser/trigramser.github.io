@@ -1,0 +1,647 @@
+<<<<<<< HEAD
+adapt: 英[əˈdæpt] 美[əˈdæpt]
+%v. 适应；调整，使适合；改编；改造，改装
+    Some birds are well adapted to life on water.
+#些鸟很能适应水上生活。
+
+dash: 英[dæʃ] 美[dæʃ]
+$v. 猛冲，急奔；猛撞，撞击；使（希望或期望）破灭；迅速写或画
+$n. 猛冲，飞奔；少量，少许（添加物）；破折号；<旧>冲劲，锐气；<美>短跑；<非正式>（汽车的）仪表盘；（莫尔斯电码中的）长划；（Dash）达世币（一种网络加密货币）
+%int. <英，非正式>用于表示轻微的恼怒，该死的
+    She dashed off a note and went out in a hurry.
+#她急急忙忙地写了张字条，就匆匆出去了。
+
+capsule: 英[ˈkæpsjuːl] 美[ˈkæps(ə)l]
+$n. 胶囊；小容器；太空舱，航天舱；蒴果，荚膜
+$adj. 简短的；压缩的
+%v. 压缩；简述
+    The doctor told her to swallow two capsules and five pills at one time.
+#医生告诉她一次服下两粒胶囊和五粒药丸。
+
+manipulate: 英[məˈnɪpjuleɪt] 美[məˈnɪpjuleɪt]
+%v. 操纵，摆布；操作，使用；正骨，推拿；篡改；巧妙地移动（某物），巧妙地处理（某事）；校正，转移（储存在计算机上的信息）
+    Ours is an independent country and we allow nobody to manipulate our internal affairs.
+#我是主权国家，不允许任何人左右我国的内政。
+
+forge: 英[fɔːdʒ] 美[fɔːrdʒ]
+$v. 形成，缔造；伪造，假冒；稳步前进；锻造；伪装，假冒
+%n. 锻铁炉，锻造车间
+    He was sent to prison for forging money.
+#他因造货币被关进了监狱。
+
+kin: 英[kɪn] 美[kɪn]
+$n. （统称）家属，亲戚
+%adj. （人）有亲戚关系的
+    All his kin were present at his mother's funeral.
+#他所有的亲属都参加了他母亲的葬礼。
+
+adjourn: 英[əˈdʒɜːn] 美[əˈdʒɜːrn]
+$vi. 休会；延期；换地方
+%vt. 推迟；使……中止；使……延期
+    The meeting was adjourned for two days.
+#会议休会两天。
+
+delegate: 英[ˈdelɪɡət] 美[ˈdelɪɡət]
+$n. 代表；委员会成员
+%v. 授权，把……委托给；选派（某人做某事）
+    the Chinese delegate to the UN
+#中国驻联合国代表
+    Delegates have voted in favor of the motion
+#代表们已经投票赞同这项动议了。
+
+stale: 英[steɪl] 美[steɪl]
+$adj. （食物）不新鲜的，变味的；气味不清新的，难闻的；没有新意的，老掉牙的；（因长期从事同一工作而）疲沓的，厌倦的；（支票，合法要求）（因过期而）失效的
+$v. （使）不新鲜，（使）走味，（使）陈旧；（动物，尤指马）撒尿
+%n. 尿
+    Stale food shouldn't be eaten.
+#不可食用不新的食品。
+
+fabric: 英[ˈfæbrɪk] 美[ˈfæbrɪk]
+%n. 布料，织物；构造，结构；（汽车的）车身，（飞机的）机身
+    Unhappiness was woven into the natural fabric of people's lives.
+#苦恼交织在人们的日常生活中，是其自然的组成部分。
+
+embargo: 英[ɪmˈbɑːɡəʊ] 美[ɪmˈbɑːrɡoʊ]
+$n. 禁运，贸易禁运；禁令；封港令
+%v. 禁止……的贸易，禁运；下令封锁（消息），禁止出版；<旧>征用（船只，货物）
+    They've put an embargo on the supply of oil to the enemy.
+#他们对敌国实行石油禁运。
+
+buffer: 英[ˈbʌfə(r)] 美[ˈbʌfər]
+$n. 起缓冲作用的人（物）；<英，非正式>老家伙，老头；缓冲存储器，缓存；（铁路机车头尾的）缓冲器，减震器；（用于擦亮表面的）抛光工具
+%v. 保护（某物）；缓解，缓冲；存储，缓存（数据等）
+    a useful buffer in time of need
+#可解燃眉之急的东西
+    Friends are excellent buffers in time of crisis.
+#朋友是危急时刻的最佳缓冲。
+
+donate: 英[dəʊˈneɪt] 美[ˈdoʊneɪt]
+%v. 捐赠，赠送；献（血），捐献（器官）
+    The professor donated a large sum of money to building a bridge in his hometown.
+#这位教授捐了一大笔钱为家乡修建一座桥。
+
+poke: 英[pəʊk] 美[poʊk]
+$v. （用手指或尖利物品）戳，刺；从……露出（或伸出、探出）；把……戳进，把……插入；戳（洞）；拨（火）；<俚>与（某人）性交；吸引（另一用户）的注意
+%n. 捅，戳；轻微的批评，奚落；<非正式>张望，寻觅；（汽车的）马力，推进力；（尤指19世纪初的）宽前檐女帽（poke bonnet）；<苏格兰>袋，小包；<美，非正式>钱包；美国商陆；美国白藜芦（Indian poke）；<俚>性交
+    Don't poke your head or hand out of the car window.
+#勿把头或手伸出车窗外。
+
+ambush: 英[ˈæmbʊʃ] 美[ˈæmbʊʃ]
+$n. 伏击，埋伏
+%v. 伏击，埋伏突袭；突然向（某人）提出尴尬的问题
+    He was ambushed by gunmen on his way to work.
+#他在上班的路上遭到了持枪者的伏击。
+
+tactic: 英[ˈtæktɪk] 美[ˈtæktɪk]
+$n. 策略，手法；战术，兵法（tactics）
+%adj. 按顺序的，依次排列的
+    I don't like his tactics -- he sets one person against another.
+#我不喜欢他的策略——他让人们钩心斗角。
+
+array: 英[əˈreɪ] 美[əˈreɪ]
+$n. 一系列，大量；数组，阵列；盛装
+%v. 布置，排列；配置（兵力）；穿戴，打扮
+    The soldiers were arrayed on the opposite hill.
+#士兵们在对面的小山上摆好阵势。
+
+tenure: 英[ˈtenjə(r)] 美[ˈtenjər]
+$n. （土地的）居住权，保有权；（尤指大学教师的）终身职位，长期聘用；（尤指重要政治职务的）任期，任职
+%v. 授予……终身职位（尤指教师、讲师职位）
+    He remained popular throughout his tenure of office of president.
+#他在担任总统职务期间一直深得民心。
+
+syndrome: 英[ˈsɪndrəʊm] 美[ˈsɪndroʊm]
+%n. 综合征，征群，综合症状；（特定情形下人的）典型负面特征
+    There is a lack of research on risk factors for fatigue and fatigue syndromes.
+#目前缺乏对于造成疲劳和疲劳综合征的风险因素的研究。
+
+perch: 英[pɜːtʃ] 美[pɜːrtʃ]
+$v. （鸟）栖息，停留；（尤指人在高处或很窄的地方）稍坐，暂歇；（建筑物）坐落于……的上方（或边缘）；把……平稳置于，使坐落于
+%n. （鸟的）栖木，栖枝；高处，高位；河鲈，鲈鱼；杆（尤指用来测量土地长度的单位）
+    A bird perched on the date tree in the front yard.
+#一只鸟栖歇在前院中的一棵枣树上。
+
+evade: 英[ɪˈveɪd] 美[ɪˈveɪd]
+%v. 规避，逃避；难倒，使困惑；未能（被某人）获得；（尤指违法犯罪后）逃脱，躲开（追捕）
+    If you try to evade paying your taxes, you risk going to prison.
+#如果你试图逃税，你就有坐牢的危险。
+
+salient: 英[ˈseɪliənt] 美[ˈseɪliənt]
+$adj. 突出的，显著的；（角）凸出的；（纹章，动物）后腿站立前爪举起的
+%n. （防御工事的）凸出部分
+    The article presented the salient facts of the dispute clearly and concisely.
+#文章清楚而简洁地介绍了争议的主要事实。
+
+intuition: 英[ˌɪntjuˈɪʃ(ə)n] 美[ˌɪntuˈɪʃ(ə)n]
+%n. 直觉力；直觉感知，直觉知识
+    Often there is no clear evidence one way or the other and you just have to base your judgment on intuition.
+#往往没有这样或那样的确凿证据，你只得凭直觉进行判断。
+
+novelty: 英[ˈnɒv(ə)lti] 美[ˈnɑːv(ə)lti]
+$n. 新颖，新奇性；新奇的事物（或人、环境）；廉价小饰物，小玩意儿
+%adj. 新奇的，风格独特的
+    At first I enjoyed all the parties, but the novelty soon wore off.
+#起初，我喜欢参加所有的社交聚会，但这种新奇感很快就消失了。
+
+cosmopolitan: 英[ˌkɒzməˈpɒlɪtən] 美[ˌkɑːzməˈpɑːlɪtən]
+$adj. 世界主义的，四海为家的；国际性的，国际化的；见过世面的，见识广的；广布的，遍生的
+%n. 四海为家的人，周游世界的人
+    His travels around the world have made him very cosmopolitan.
+#他周游世界的经历使他见多识广。
+
+parasite: 英[ˈpærəsaɪt] 美[ˈpærəsaɪt]
+%n. 寄生植物（或动物），寄生虫；不劳而获者，依赖他人过活者
+    These drugs can't deal effectively with the malaria parasite.
+#这些药物不能有效地对付引起疟疾的寄生虫。
+
+misery: 英[ˈmɪzəri] 美[ˈmɪzəri]
+%n. 痛苦，苦难；穷困，悲惨境遇；<英，非正式>老发牢骚的人
+    Drought has brought misery and death to the area for the fifth successive year.
+#干旱连着第五年给这个地区带来不幸和死亡。
+
+endorse: 英[ɪnˈdɔːs] 美[ɪnˈdɔːrs]
+%v. （公开）赞同，认可；（在广告中对某种产品）宣传，吹捧；（尤指在支票背面）签名，背书；(在驾驶执照上)记录违章事项
+    The committee's report fully endorses the government's proposals.
+#委员会的报告完全赞同政府的建议。
+
+retrospect: 英[ˈretrəspekt] 美[ˈretrəspekt]
+$n. 回顾，回想
+%v. 回顾，追溯
+    It was, in retrospect, one of the worst mistakes I ever made in my life.
+#回想起来，这是我一生中犯过的最大的错误之一。
+
+psychology: 英[saɪˈkɒlədʒi] 美[saɪˈkɑːlədʒi]
+%n. 心理学；心理特点，心理状态；心理影响；心计，善解人意
+    Her daughter studies psychology at Harvard.
+#她女儿在哈佛大学念心理学。
+
+adventurous: 英[ədˈventʃərəs] 美[ædˈventʃərəs]
+%adj. 勇于冒险的，敢于创新的；爱冒险的；刺激不断的，充满惊险的；新奇的，令人兴奋的
+    I think I'll try the snails for lunch -- I'm feeling adventurous today.
+#我想我午餐要尝试一下吃蜗牛——我今天很想冒冒险。
+
+indebted: 英[ɪnˈdetɪd] 美[ɪnˈdetɪd]
+$adj. 感激的，蒙恩的；负债的
+%v. 使负债；使受恩惠（indebt 的过去式和过去分词形式）
+    International agreements need to be reached about helping the world's most deeply indebted countries.
+#我们需要达成国际协议来帮助世界上负债最多的国家。
+
+censure: 英[ˈsenʃə(r)] 美[ˈsenʃər]
+$n. <正式>严厉批评，谴责
+%v. <正式>严厉批评，正式谴责
+    His dishonest behavior was under severe censure.
+#他的不诚实行为受到了严厉指责。
+
+specimen: 英[ˈspesɪmən] 美[ˈspesɪmən]
+%n. 样品，标本；（尤指动植物的）实例；（化验的）抽样，血样，尿样；具有……特性的人（幽默用法）
+    In spring children are organized to collect specimens in parks.
+#春天，孩子们被组织起来在公园里采集标本。
+
+stipulate: 英[ˈstɪpjuleɪt] 美[ˈstɪpjuleɪt]
+$v. 规定，明确要求
+%adj. （叶子，植物）有托叶的，具托叶的
+    We have signed a contract which stipulates when the project must be completed.
+#我们签署了一份合同，上面规定了项目必须在何时完成。
+
+intelligible: 英[ɪnˈtelɪdʒəb(ə)l] 美[ɪnˈtelɪdʒəb(ə)l]
+%adj. 可理解的，明白易懂的；只能凭智力理解的
+    The teacher's lecture was so intelligible that the students had no problems doing their assignments.
+#老师的授课非常明白易懂，因而学生们做作业时没有任何问题。
+
+proposition: 英[ˌprɒpəˈzɪʃ(ə)n] 美[ˌprɑːpəˈzɪʃ(ə)n]
+$n. 主张，观点；（尤指商业或政治上的）提议，建议；（美国的）法律修正案；欲做的事，待处理的问题；（数学或逻辑）命题；（尤指被视作有冒犯性的）性交提议，求欢
+%v. 向（某人）提议；（尤指冒犯地）提出与……性交，向……求欢
+    She made me a proposition concerning the sale of my car.
+#她就我出售汽车的事提了一个建议。
+
+thrifty: 英[ˈθrɪfti] 美[ˈθrɪfti]
+%adj. 节俭的，节约的；<古>（牲畜，植物）茁壮的，健康的
+    They have plenty of money now, but they still tend to be thrifty.
+#他们现在有很多钱，但仍很节俭。
+
+overstate: 英[ˌəʊvəˈsteɪt] 美[ˌoʊvərˈsteɪt]
+%v. 夸大，对……言过其实
+    The impact of the new law has been greatly overstated.
+#新法律产生的影响被极大地夸大了。
+
+irritate: 英[ˈɪrɪteɪt] 美[ˈɪrɪteɪt]
+%v. 使不耐烦，激怒；刺激（身体某部位），使疼痛；使（生物体、细胞或器官）兴奋；引起不愉快
+    Our faults irritate us most when we see them in others.
+#在别人身上看到自己的缺点，最使我们感到恼火。
+
+contrary: 英[ˈkɒntrəri] 美[ˈkɑːntreri]
+$adj. 相反的，相对的；乖戾的，好与人作对的；逆向的，逆行的
+$n. 相反的事实（或事情、情况）；对立命题，反对命题
+%adv. 相反地
+    be contrary to
+#违反
+    on the contrary
+#正相反，相反地
+    Liz put forward the contrary point of view at the meeting and a lively discussion followed.
+#莉兹在会上提出了相反的观点，引起了热烈的讨论。
+
+precipitate: 英[prɪˈsɪpɪteɪt] 美[prɪˈsɪpɪteɪt]
+$v. <正式>使……突然降临，加速（坏事的发生）；使突然陷入（某种状态）（precipitate sb./sth. into）；（使）沉淀，（使）淀析；<正式>使急落直下，使陡然下落；降水（如雨、雪、冰雹）
+$adj. <正式>鲁莽的，仓促的（=precipitous）；（事件，情况）突如其来的，突然的；猛地落下的
+%n. 沉淀物，析出物
+    Fear of losing her job precipitated her into action.
+#怕丢掉工作的恐惧使她立即采取行动。
+
+applaud: 英[əˈplɔːd] 美[əˈplɔːd]
+%v. 鼓掌；称赞，赞许
+    The intoxicated audience applauded every show warmly.
+#如痴如醉的观众对每个节目都报以热烈的掌声。
+
+ridiculous: 英[rɪˈdɪkjələs] 美[rɪˈdɪkjələs]
+%adj. 可笑的，荒谬的
+    His ridiculous remark should not be taken as true.
+#不可相信他荒唐的话。
+
+scheme: 英[skiːm] 美[skiːm]
+$n. <英>（政府或其他组织的）计划，方案；（用于组织或整理信息的）系统，体系；组合，布局；阴谋，诡计；<苏格兰，非正式>社会住宅区
+%v. 密谋，策划；<南非，非正式>认为，猜想；按色调布置
+    He suggested several schemes to promote sales.
+#他提出了促销的几种方案。
+
+disdain: 英[dɪsˈdeɪn] 美[dɪsˈdeɪn]
+$n. 鄙视，蔑视
+%v. 鄙视，蔑视；不屑（做某事）
+    The local citizens showed their disdain for the foreign artists.
+#当地公民对外国艺术家表示轻视。
+
+transcribe: 英[trænˈskraɪb] 美[trænˈskraɪb]
+%v. （逐字逐句）记录；改写成，译成（另一种语言）；改编（乐曲）；用音标标音；誊写，抄写；抄录（乐曲），录（音）；（生化）转录
+    A secretary transcribed the witness's statements.
+#秘书记下了证人的证词。
+
+avert: 英[əˈvɜːt] 美[əˈvɜːrt]
+%v. 防止，避免；转移
+    An accident was averted by his quick thinking.
+#由于他思维敏捷，一场事故得以避免。
+
+stationary: 英[ˈsteɪʃənri] 美[ˈsteɪʃəneri]
+$adj. 不动的，静止的；不变的，稳定的；（行星）经度无明显移动的；定居的
+%n. 不动的人或物
+    As an excellent shooter, Peter practiced aiming at both stationary targets and moving targets.
+#彼得是一名出色的射击选手，他不仅练习打静止靶，而且也练习打活动靶。
+
+apprentice: 英[əˈprentɪs] 美[əˈprentɪs]
+$n. 学徒，徒弟；生手，新手
+%v. 收……为学徒；当学徒
+    The boy's parents apprenticed him to a doctor.
+#这个男孩的父母送他去给一名医生当学徒。
+
+barn: 英[bɑːn] 美[bɑːrn]
+$n. 畜棚，谷仓；空荡荡的大建筑；<美>（停放汽车、火车等的）大车库；（尤用于粒子物理学）靶（恩）
+%v. <美>把……贮存入仓
+    They stored the corn and beans in the barn on the river bank.
+#他们把玉米和大豆储存在河边的谷仓里。
+
+brutal: 英[ˈbruːt(ə)l] 美[ˈbruːt(ə)l]
+%adj. 野蛮的，凶残的；毫不掩饰的，直截了当的；令人不快的，糟糕的
+    He had been a brutal dictator and had many enemies.
+#他是个残忍的独裁者，树敌很多。
+
+emergency: 英[ɪˈmɜːdʒənsi] 美[ɪˈmɜːrdʒənsi]
+$n. 突发事件，紧急情况；急症病人，急诊病人；<美>（医院的）急诊室
+%adj. 紧急情况下的；应急的
+    in an emergency
+#紧急情况时
+    an emergency door/exit
+#紧急出口
+    Ring the bell in an emergency and the security personnel will come straight away.
+#紧急情况时按铃，保安会立即前来。
+
+limp: 英[lɪmp] 美[lɪmp]
+$v. 瘸着脚走，跛行；进展缓慢，艰难地行进
+$adj. 柔软的，不直挺的；无力的，无精神的
+%n. 跛行
+    The old lady stumbled on a stone and began limping back home.
+#老太太在石头上绊了一下，然后开始一痛一拐地回家去。
+    The bag is limp with nothing in it.
+#那包里什么也没有，软塌塌的。
+
+=======
+adapt: 英[əˈdæpt] 美[əˈdæpt]
+%v. 适应；调整，使适合；改编；改造，改装
+    Some birds are well adapted to life on water.
+#些鸟很能适应水上生活。
+
+dash: 英[dæʃ] 美[dæʃ]
+$v. 猛冲，急奔；猛撞，撞击；使（希望或期望）破灭；迅速写或画
+$n. 猛冲，飞奔；少量，少许（添加物）；破折号；<旧>冲劲，锐气；<美>短跑；<非正式>（汽车的）仪表盘；（莫尔斯电码中的）长划；（Dash）达世币（一种网络加密货币）
+%int. <英，非正式>用于表示轻微的恼怒，该死的
+    She dashed off a note and went out in a hurry.
+#她急急忙忙地写了张字条，就匆匆出去了。
+
+capsule: 英[ˈkæpsjuːl] 美[ˈkæps(ə)l]
+$n. 胶囊；小容器；太空舱，航天舱；蒴果，荚膜
+$adj. 简短的；压缩的
+%v. 压缩；简述
+    The doctor told her to swallow two capsules and five pills at one time.
+#医生告诉她一次服下两粒胶囊和五粒药丸。
+
+manipulate: 英[məˈnɪpjuleɪt] 美[məˈnɪpjuleɪt]
+%v. 操纵，摆布；操作，使用；正骨，推拿；篡改；巧妙地移动（某物），巧妙地处理（某事）；校正，转移（储存在计算机上的信息）
+    Ours is an independent country and we allow nobody to manipulate our internal affairs.
+#我是主权国家，不允许任何人左右我国的内政。
+
+forge: 英[fɔːdʒ] 美[fɔːrdʒ]
+$v. 形成，缔造；伪造，假冒；稳步前进；锻造；伪装，假冒
+%n. 锻铁炉，锻造车间
+    He was sent to prison for forging money.
+#他因造货币被关进了监狱。
+
+kin: 英[kɪn] 美[kɪn]
+$n. （统称）家属，亲戚
+%adj. （人）有亲戚关系的
+    All his kin were present at his mother's funeral.
+#他所有的亲属都参加了他母亲的葬礼。
+
+adjourn: 英[əˈdʒɜːn] 美[əˈdʒɜːrn]
+$vi. 休会；延期；换地方
+%vt. 推迟；使……中止；使……延期
+    The meeting was adjourned for two days.
+#会议休会两天。
+
+delegate: 英[ˈdelɪɡət] 美[ˈdelɪɡət]
+$n. 代表；委员会成员
+%v. 授权，把……委托给；选派（某人做某事）
+    the Chinese delegate to the UN
+#中国驻联合国代表
+    Delegates have voted in favor of the motion
+#代表们已经投票赞同这项动议了。
+
+stale: 英[steɪl] 美[steɪl]
+$adj. （食物）不新鲜的，变味的；气味不清新的，难闻的；没有新意的，老掉牙的；（因长期从事同一工作而）疲沓的，厌倦的；（支票，合法要求）（因过期而）失效的
+$v. （使）不新鲜，（使）走味，（使）陈旧；（动物，尤指马）撒尿
+%n. 尿
+    Stale food shouldn't be eaten.
+#不可食用不新的食品。
+
+fabric: 英[ˈfæbrɪk] 美[ˈfæbrɪk]
+%n. 布料，织物；构造，结构；（汽车的）车身，（飞机的）机身
+    Unhappiness was woven into the natural fabric of people's lives.
+#苦恼交织在人们的日常生活中，是其自然的组成部分。
+
+embargo: 英[ɪmˈbɑːɡəʊ] 美[ɪmˈbɑːrɡoʊ]
+$n. 禁运，贸易禁运；禁令；封港令
+%v. 禁止……的贸易，禁运；下令封锁（消息），禁止出版；<旧>征用（船只，货物）
+    They've put an embargo on the supply of oil to the enemy.
+#他们对敌国实行石油禁运。
+
+buffer: 英[ˈbʌfə(r)] 美[ˈbʌfər]
+$n. 起缓冲作用的人（物）；<英，非正式>老家伙，老头；缓冲存储器，缓存；（铁路机车头尾的）缓冲器，减震器；（用于擦亮表面的）抛光工具
+%v. 保护（某物）；缓解，缓冲；存储，缓存（数据等）
+    a useful buffer in time of need
+#可解燃眉之急的东西
+    Friends are excellent buffers in time of crisis.
+#朋友是危急时刻的最佳缓冲。
+
+donate: 英[dəʊˈneɪt] 美[ˈdoʊneɪt]
+%v. 捐赠，赠送；献（血），捐献（器官）
+    The professor donated a large sum of money to building a bridge in his hometown.
+#这位教授捐了一大笔钱为家乡修建一座桥。
+
+poke: 英[pəʊk] 美[poʊk]
+$v. （用手指或尖利物品）戳，刺；从……露出（或伸出、探出）；把……戳进，把……插入；戳（洞）；拨（火）；<俚>与（某人）性交；吸引（另一用户）的注意
+%n. 捅，戳；轻微的批评，奚落；<非正式>张望，寻觅；（汽车的）马力，推进力；（尤指19世纪初的）宽前檐女帽（poke bonnet）；<苏格兰>袋，小包；<美，非正式>钱包；美国商陆；美国白藜芦（Indian poke）；<俚>性交
+    Don't poke your head or hand out of the car window.
+#勿把头或手伸出车窗外。
+
+ambush: 英[ˈæmbʊʃ] 美[ˈæmbʊʃ]
+$n. 伏击，埋伏
+%v. 伏击，埋伏突袭；突然向（某人）提出尴尬的问题
+    He was ambushed by gunmen on his way to work.
+#他在上班的路上遭到了持枪者的伏击。
+
+tactic: 英[ˈtæktɪk] 美[ˈtæktɪk]
+$n. 策略，手法；战术，兵法（tactics）
+%adj. 按顺序的，依次排列的
+    I don't like his tactics -- he sets one person against another.
+#我不喜欢他的策略——他让人们钩心斗角。
+
+array: 英[əˈreɪ] 美[əˈreɪ]
+$n. 一系列，大量；数组，阵列；盛装
+%v. 布置，排列；配置（兵力）；穿戴，打扮
+    The soldiers were arrayed on the opposite hill.
+#士兵们在对面的小山上摆好阵势。
+
+tenure: 英[ˈtenjə(r)] 美[ˈtenjər]
+$n. （土地的）居住权，保有权；（尤指大学教师的）终身职位，长期聘用；（尤指重要政治职务的）任期，任职
+%v. 授予……终身职位（尤指教师、讲师职位）
+    He remained popular throughout his tenure of office of president.
+#他在担任总统职务期间一直深得民心。
+
+syndrome: 英[ˈsɪndrəʊm] 美[ˈsɪndroʊm]
+%n. 综合征，征群，综合症状；（特定情形下人的）典型负面特征
+    There is a lack of research on risk factors for fatigue and fatigue syndromes.
+#目前缺乏对于造成疲劳和疲劳综合征的风险因素的研究。
+
+perch: 英[pɜːtʃ] 美[pɜːrtʃ]
+$v. （鸟）栖息，停留；（尤指人在高处或很窄的地方）稍坐，暂歇；（建筑物）坐落于……的上方（或边缘）；把……平稳置于，使坐落于
+%n. （鸟的）栖木，栖枝；高处，高位；河鲈，鲈鱼；杆（尤指用来测量土地长度的单位）
+    A bird perched on the date tree in the front yard.
+#一只鸟栖歇在前院中的一棵枣树上。
+
+evade: 英[ɪˈveɪd] 美[ɪˈveɪd]
+%v. 规避，逃避；难倒，使困惑；未能（被某人）获得；（尤指违法犯罪后）逃脱，躲开（追捕）
+    If you try to evade paying your taxes, you risk going to prison.
+#如果你试图逃税，你就有坐牢的危险。
+
+salient: 英[ˈseɪliənt] 美[ˈseɪliənt]
+$adj. 突出的，显著的；（角）凸出的；（纹章，动物）后腿站立前爪举起的
+%n. （防御工事的）凸出部分
+    The article presented the salient facts of the dispute clearly and concisely.
+#文章清楚而简洁地介绍了争议的主要事实。
+
+intuition: 英[ˌɪntjuˈɪʃ(ə)n] 美[ˌɪntuˈɪʃ(ə)n]
+%n. 直觉力；直觉感知，直觉知识
+    Often there is no clear evidence one way or the other and you just have to base your judgment on intuition.
+#往往没有这样或那样的确凿证据，你只得凭直觉进行判断。
+
+novelty: 英[ˈnɒv(ə)lti] 美[ˈnɑːv(ə)lti]
+$n. 新颖，新奇性；新奇的事物（或人、环境）；廉价小饰物，小玩意儿
+%adj. 新奇的，风格独特的
+    At first I enjoyed all the parties, but the novelty soon wore off.
+#起初，我喜欢参加所有的社交聚会，但这种新奇感很快就消失了。
+
+cosmopolitan: 英[ˌkɒzməˈpɒlɪtən] 美[ˌkɑːzməˈpɑːlɪtən]
+$adj. 世界主义的，四海为家的；国际性的，国际化的；见过世面的，见识广的；广布的，遍生的
+%n. 四海为家的人，周游世界的人
+    His travels around the world have made him very cosmopolitan.
+#他周游世界的经历使他见多识广。
+
+parasite: 英[ˈpærəsaɪt] 美[ˈpærəsaɪt]
+%n. 寄生植物（或动物），寄生虫；不劳而获者，依赖他人过活者
+    These drugs can't deal effectively with the malaria parasite.
+#这些药物不能有效地对付引起疟疾的寄生虫。
+
+misery: 英[ˈmɪzəri] 美[ˈmɪzəri]
+%n. 痛苦，苦难；穷困，悲惨境遇；<英，非正式>老发牢骚的人
+    Drought has brought misery and death to the area for the fifth successive year.
+#干旱连着第五年给这个地区带来不幸和死亡。
+
+endorse: 英[ɪnˈdɔːs] 美[ɪnˈdɔːrs]
+%v. （公开）赞同，认可；（在广告中对某种产品）宣传，吹捧；（尤指在支票背面）签名，背书；(在驾驶执照上)记录违章事项
+    The committee's report fully endorses the government's proposals.
+#委员会的报告完全赞同政府的建议。
+
+retrospect: 英[ˈretrəspekt] 美[ˈretrəspekt]
+$n. 回顾，回想
+%v. 回顾，追溯
+    It was, in retrospect, one of the worst mistakes I ever made in my life.
+#回想起来，这是我一生中犯过的最大的错误之一。
+
+psychology: 英[saɪˈkɒlədʒi] 美[saɪˈkɑːlədʒi]
+%n. 心理学；心理特点，心理状态；心理影响；心计，善解人意
+    Her daughter studies psychology at Harvard.
+#她女儿在哈佛大学念心理学。
+
+adventurous: 英[ədˈventʃərəs] 美[ædˈventʃərəs]
+%adj. 勇于冒险的，敢于创新的；爱冒险的；刺激不断的，充满惊险的；新奇的，令人兴奋的
+    I think I'll try the snails for lunch -- I'm feeling adventurous today.
+#我想我午餐要尝试一下吃蜗牛——我今天很想冒冒险。
+
+indebted: 英[ɪnˈdetɪd] 美[ɪnˈdetɪd]
+$adj. 感激的，蒙恩的；负债的
+%v. 使负债；使受恩惠（indebt 的过去式和过去分词形式）
+    International agreements need to be reached about helping the world's most deeply indebted countries.
+#我们需要达成国际协议来帮助世界上负债最多的国家。
+
+censure: 英[ˈsenʃə(r)] 美[ˈsenʃər]
+$n. <正式>严厉批评，谴责
+%v. <正式>严厉批评，正式谴责
+    His dishonest behavior was under severe censure.
+#他的不诚实行为受到了严厉指责。
+
+specimen: 英[ˈspesɪmən] 美[ˈspesɪmən]
+%n. 样品，标本；（尤指动植物的）实例；（化验的）抽样，血样，尿样；具有……特性的人（幽默用法）
+    In spring children are organized to collect specimens in parks.
+#春天，孩子们被组织起来在公园里采集标本。
+
+stipulate: 英[ˈstɪpjuleɪt] 美[ˈstɪpjuleɪt]
+$v. 规定，明确要求
+%adj. （叶子，植物）有托叶的，具托叶的
+    We have signed a contract which stipulates when the project must be completed.
+#我们签署了一份合同，上面规定了项目必须在何时完成。
+
+intelligible: 英[ɪnˈtelɪdʒəb(ə)l] 美[ɪnˈtelɪdʒəb(ə)l]
+%adj. 可理解的，明白易懂的；只能凭智力理解的
+    The teacher's lecture was so intelligible that the students had no problems doing their assignments.
+#老师的授课非常明白易懂，因而学生们做作业时没有任何问题。
+
+proposition: 英[ˌprɒpəˈzɪʃ(ə)n] 美[ˌprɑːpəˈzɪʃ(ə)n]
+$n. 主张，观点；（尤指商业或政治上的）提议，建议；（美国的）法律修正案；欲做的事，待处理的问题；（数学或逻辑）命题；（尤指被视作有冒犯性的）性交提议，求欢
+%v. 向（某人）提议；（尤指冒犯地）提出与……性交，向……求欢
+    She made me a proposition concerning the sale of my car.
+#她就我出售汽车的事提了一个建议。
+
+thrifty: 英[ˈθrɪfti] 美[ˈθrɪfti]
+%adj. 节俭的，节约的；<古>（牲畜，植物）茁壮的，健康的
+    They have plenty of money now, but they still tend to be thrifty.
+#他们现在有很多钱，但仍很节俭。
+
+overstate: 英[ˌəʊvəˈsteɪt] 美[ˌoʊvərˈsteɪt]
+%v. 夸大，对……言过其实
+    The impact of the new law has been greatly overstated.
+#新法律产生的影响被极大地夸大了。
+
+irritate: 英[ˈɪrɪteɪt] 美[ˈɪrɪteɪt]
+%v. 使不耐烦，激怒；刺激（身体某部位），使疼痛；使（生物体、细胞或器官）兴奋；引起不愉快
+    Our faults irritate us most when we see them in others.
+#在别人身上看到自己的缺点，最使我们感到恼火。
+
+contrary: 英[ˈkɒntrəri] 美[ˈkɑːntreri]
+$adj. 相反的，相对的；乖戾的，好与人作对的；逆向的，逆行的
+$n. 相反的事实（或事情、情况）；对立命题，反对命题
+%adv. 相反地
+    be contrary to
+#违反
+    on the contrary
+#正相反，相反地
+    Liz put forward the contrary point of view at the meeting and a lively discussion followed.
+#莉兹在会上提出了相反的观点，引起了热烈的讨论。
+
+precipitate: 英[prɪˈsɪpɪteɪt] 美[prɪˈsɪpɪteɪt]
+$v. <正式>使……突然降临，加速（坏事的发生）；使突然陷入（某种状态）（precipitate sb./sth. into）；（使）沉淀，（使）淀析；<正式>使急落直下，使陡然下落；降水（如雨、雪、冰雹）
+$adj. <正式>鲁莽的，仓促的（=precipitous）；（事件，情况）突如其来的，突然的；猛地落下的
+%n. 沉淀物，析出物
+    Fear of losing her job precipitated her into action.
+#怕丢掉工作的恐惧使她立即采取行动。
+
+applaud: 英[əˈplɔːd] 美[əˈplɔːd]
+%v. 鼓掌；称赞，赞许
+    The intoxicated audience applauded every show warmly.
+#如痴如醉的观众对每个节目都报以热烈的掌声。
+
+ridiculous: 英[rɪˈdɪkjələs] 美[rɪˈdɪkjələs]
+%adj. 可笑的，荒谬的
+    His ridiculous remark should not be taken as true.
+#不可相信他荒唐的话。
+
+scheme: 英[skiːm] 美[skiːm]
+$n. <英>（政府或其他组织的）计划，方案；（用于组织或整理信息的）系统，体系；组合，布局；阴谋，诡计；<苏格兰，非正式>社会住宅区
+%v. 密谋，策划；<南非，非正式>认为，猜想；按色调布置
+    He suggested several schemes to promote sales.
+#他提出了促销的几种方案。
+
+disdain: 英[dɪsˈdeɪn] 美[dɪsˈdeɪn]
+$n. 鄙视，蔑视
+%v. 鄙视，蔑视；不屑（做某事）
+    The local citizens showed their disdain for the foreign artists.
+#当地公民对外国艺术家表示轻视。
+
+transcribe: 英[trænˈskraɪb] 美[trænˈskraɪb]
+%v. （逐字逐句）记录；改写成，译成（另一种语言）；改编（乐曲）；用音标标音；誊写，抄写；抄录（乐曲），录（音）；（生化）转录
+    A secretary transcribed the witness's statements.
+#秘书记下了证人的证词。
+
+avert: 英[əˈvɜːt] 美[əˈvɜːrt]
+%v. 防止，避免；转移
+    An accident was averted by his quick thinking.
+#由于他思维敏捷，一场事故得以避免。
+
+stationary: 英[ˈsteɪʃənri] 美[ˈsteɪʃəneri]
+$adj. 不动的，静止的；不变的，稳定的；（行星）经度无明显移动的；定居的
+%n. 不动的人或物
+    As an excellent shooter, Peter practiced aiming at both stationary targets and moving targets.
+#彼得是一名出色的射击选手，他不仅练习打静止靶，而且也练习打活动靶。
+
+apprentice: 英[əˈprentɪs] 美[əˈprentɪs]
+$n. 学徒，徒弟；生手，新手
+%v. 收……为学徒；当学徒
+    The boy's parents apprenticed him to a doctor.
+#这个男孩的父母送他去给一名医生当学徒。
+
+barn: 英[bɑːn] 美[bɑːrn]
+$n. 畜棚，谷仓；空荡荡的大建筑；<美>（停放汽车、火车等的）大车库；（尤用于粒子物理学）靶（恩）
+%v. <美>把……贮存入仓
+    They stored the corn and beans in the barn on the river bank.
+#他们把玉米和大豆储存在河边的谷仓里。
+
+brutal: 英[ˈbruːt(ə)l] 美[ˈbruːt(ə)l]
+%adj. 野蛮的，凶残的；毫不掩饰的，直截了当的；令人不快的，糟糕的
+    He had been a brutal dictator and had many enemies.
+#他是个残忍的独裁者，树敌很多。
+
+emergency: 英[ɪˈmɜːdʒənsi] 美[ɪˈmɜːrdʒənsi]
+$n. 突发事件，紧急情况；急症病人，急诊病人；<美>（医院的）急诊室
+%adj. 紧急情况下的；应急的
+    in an emergency
+#紧急情况时
+    an emergency door/exit
+#紧急出口
+    Ring the bell in an emergency and the security personnel will come straight away.
+#紧急情况时按铃，保安会立即前来。
+
+limp: 英[lɪmp] 美[lɪmp]
+$v. 瘸着脚走，跛行；进展缓慢，艰难地行进
+$adj. 柔软的，不直挺的；无力的，无精神的
+%n. 跛行
+    The old lady stumbled on a stone and began limping back home.
+#老太太在石头上绊了一下，然后开始一痛一拐地回家去。
+    The bag is limp with nothing in it.
+#那包里什么也没有，软塌塌的。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

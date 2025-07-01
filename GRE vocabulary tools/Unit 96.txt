@@ -1,0 +1,815 @@
+<<<<<<< HEAD
+dispel: 英[dɪˈspel] 美[dɪˈspel]
+%v. 驱散，消除（尤指感觉或信仰）
+    dispel fears
+#消除担心
+    dispel a few rumors
+#消除几个谣言
+    dispel some doubts
+#消除几个疑虑
+    In his latest novel he aims to dispel the myth that real men don't cry.
+#他在最近的小说里，意在消除硬汉不流泪的神话。
+
+terrestrial: 英[təˈrestriəl] 美[təˈrestriəl]
+$adj. 地球的，地球上的；陆栖的，陆生的；陆地（上）的；陆地上的，地面上的（与卫星相对而言）；（属于）类地行星的；<古>人间的，尘世的
+%n. 地球生物，陆地生物
+    terrestrial gravity
+#地球引力
+    a terrestrial plant
+#陆生植物
+    terrestrial interests
+#名利心
+    a terrestrial bird
+#陆栖鸟
+
+abhor: 英[əbˈhɔː(r)] 美[əbˈhɔːr]
+%vt. 痛恨，憎恶
+    abhor the idea of leaving
+#不想离开
+    abhor mediocrities
+#摒弃平庸
+    abhor snakes
+#怕蛇
+    abhor cruelties to animals.
+#我痛恨待动物。
+
+protrude: 英[prəˈtruːd] 美[proʊˈtruːd]
+%v. 伸出，突出；（动物）使（身体部位）突出
+    protrude one's tongue
+#伸舌头
+    a shelf that protrudes from a wall
+#从墙上突出的壁架
+    protruding cheek bones
+#高高的額骨
+    He glimpsed a gun protruding from the man's pocket.
+#他瞥见那人的口袋里露出一支枪。
+
+illustrative: 英[ˈɪləstrətɪv] 美[ɪˈlʌstrətɪv]
+%adj. 作例证用的，解释性的；图解的，插图的
+    an illustrative example
+#说明性的例子
+    It is a remark that is illustrative of his attitude toward life.
+#这句话足以说明他的处世态度。
+
+entrepreneur: 英[ˌɒntrəprəˈnɜː(r)] 美[ˌɑːntrəprəˈnɜːr]
+%n. 企业家，创业者；主办者，提倡者
+    The owner of the company is a French entrepreneur.
+#这家公司的老板是一个法国企业家。
+
+vestige: 英[ˈvestɪdʒ] 美[ˈvestɪdʒ]
+%n. 遗迹；残余；退化的器官
+    vestiges of foreign influence
+#外国影响的残余
+    vestiges of an earlier civilization
+#早期文明的遗迹
+    vestiges of beauty in an old lady's ageing face
+#老太太脸上昔日风韵的影子
+    a vestige of hope
+#一丝希望
+    the last vestiges of royal power
+#王权的最后残余
+    There's not a vestige of truth in the witness's statement.
+#这名证人的证词没有一丝一毫的真实性。
+
+outspoken: 英[aʊtˈspəʊkən] 美[aʊtˈspoʊkən]
+%adj. 坦率的，直言不讳的
+    In recent years, he has been an outspoken supporter of radical reform.
+#近年来，他一直直言不讳地支持激进改革。
+
+spiral: 英[ˈspaɪrəl] 美[ˈspaɪrəl]
+$n. 螺旋形，螺旋形之物；持续加剧的上升（或下降、恶化）；旋球
+$v. 螺旋式上升（或下降），盘旋上升（或下降）；持续下降，持续恶化；急剧上升
+%adj. 螺旋形的；（医）扭折（骨折的一种）；spiral-bound的简称
+    spiral-shaped
+#螺旋形的
+    the downward spiral of prices
+#价格的连续下跌
+    a spiral galaxy
+#螺旋星系
+    spiraling costs
+#急剧上升的成本
+    spiral around the central pillar
+#沿着中心柱盘旋上升
+    With one wing damaged, the plane spiraled downwards.
+#飞机的一个机翼坏了，它盘旋着往下坠落。
+
+shuffle: 英[ˈʃʌf(ə)l] 美[ˈʃʌf(ə)l]
+$v. 拖着脚走；（因不适、紧张或尴尬而）坐立不安，把脚动来动去；将（纸张等）变换位置，打乱顺序；洗（牌）；匆忙地整理（或浏览）；笨拙地穿上；随机播放；逃避责任（或义务）；<古>躲闪，支吾，搪塞
+%n. 拖着脚走；洗牌；曳步舞；慢切分节奏，曳步舞拍；变换位置；搅乱，改组；（CD 机上）非顺序自由播放装置
+    shuffle the papers nervously
+#不安地翻动文件
+    the cabinet shuffle
+#内阁改组
+    a management shuffle
+#管理层改组
+    shuffle the cards
+#洗牌
+    shuffle off
+#挣脱
+    He shuffled through the snow, weighed down with his luggage.
+#他拿着很重的行李曳足走过雪地。
+
+unadorned: 英[ˌʌnəˈdɔːnd] 美[ˌʌnəˈdɔːrnd]
+%adj. 朴素的；未装饰的
+    He gave an unadorned account of the exploration.
+#他对这次探险做了不加文饰的记述。
+
+belie: 英[bɪˈlaɪ] 美[bɪˈlaɪ]
+%vt. 给人以假象，掩饰（感情等）；显示……为虚假，表明……不正确；使落空，辜负（要求、期望等）；给人以……假象，使人对……产生错觉
+    features that belie the years
+#掩盖真实年龄的相貌
+    belie one's true feelings of displeasure
+#掩饰内心不快的真实感情
+    His actions belie his words.
+#他言行不一。
+
+temporary: 英[ˈtemprəri] 美[ˈtempəreri]
+$adj. 暂时的，临时的；短期的，短暂的
+%n. 临时雇员，临时工
+    temporary buildings
+#临时建筑物
+    a temporary bridge
+#便桥
+    She found a temporary job in a coffee shop.
+#她在一家咖啡馆找到一份临时工作。
+
+disarm: 英[dɪsˈɑːm] 美[dɪsˈɑːrm]
+$v. 缴……的械，解除……的武装；拆除（炸弹等的）引信；使友好，消除……的敌意；裁减军备，裁军
+%n. 解除（某人的）武器
+    The terrorists have shown no signs of being willing to disarm.
+#恐怖分子没有显示出放下武器的迹象。
+
+cerebral: 英[səˈriːbrəl] 美[səˈriːbrəl]
+%adj. 大脑的，脑的；理智的，智力的；卷舌的，卷舌音的
+    cerebral concussion
+#脑震荡
+    a cerebral person
+#理智型的人
+    Chess is a cerebral game.
+#国际象棋是一种动脑筋的游戏。
+
+frivolity: 英[frɪˈvɒləti] 美[frɪˈvɑːləti]
+%n. 轻浮；轻薄；轻率
+    I have no time for such frivolities as parties.
+#我没有时间去赴宴或参加诸如此类的无聊活动。
+
+espouse: 英[ɪˈspaʊz] 美[ɪˈspaʊz]
+%vt. 支持；嫁娶；赞成；信奉
+    espouse the principles of Buddhism
+#信奉基督教教义
+    espouse a country girl
+#娶一个乡下姑娘
+    His party espouses radical reform.
+#他的政党拥护激进的改革。
+
+eschew: 英[ɪsˈtʃuː] 美[ɪsˈtʃuː]
+%vt. 避免；避开；远避
+    eschew rich foods
+#避免油腻食物
+    eschew evil
+#避开邪恶
+    eschew personal questions
+#回避私人问题
+    He's eschewed alcoholic drinks.
+#他已戒酒了。
+
+ordeal: 英[ɔːˈdiːl] 美[ɔːrˈdiːl]
+%n. 磨难，严峻考验；<史>神明裁判（把被告是否经得起剧痛的考验作为被告是否无辜的神谕）
+    The hostages' ordeal came to an end when soldiers stormed the building.
+#当士兵们强攻进入大楼时，人质们苦难的煎熬结束了。
+
+overload: 英[ˌəʊvəˈləʊd] 美[ˌoʊvərˈloʊd]
+$v. （使）过载，超载；（使）负担过重；（使）电力系统超负荷
+%n. 超载量
+    overload an electric circuit
+#使电路过载
+    overload the stomach
+#吃得过饱
+    be overloaded with duties
+#担负职务过重
+    Student were overloaded with knowledge.
+#生头脑里塞满了太多太多的知识。
+
+expedient: 英[ɪkˈspiːdiənt] 美[ɪkˈspiːdiənt]
+$adj. 权宜的；方便的；有利的
+%n. 权宜之计；应急手段
+    resort to many expedients
+#诉诸许多应急办法
+    do whatever is expedient
+#怎么合适就怎么办
+    Aspirin is a useful expedient for dulling minor pain.
+#阿司匹林是缓解轻微疼痛的有用应急药物。
+
+aquatic: 英[əˈkwætɪk] 美[əˈkwɑːtɪk]
+$adj. 水生的，水栖的；与水生动植物有关的；水的，水上的
+%n. （尤指适于在水塘或水族馆中生活的）水生植物（或动物）；水上运动（aquatics）
+    aquatic plants
+#水生植物
+    aquatic products
+#水产品
+    an aquatic city
+#水上城市
+    aquatic animals
+#水生动物
+    Swimming and rowing are aquatic sports.
+#游泳和划船都是水上运动。
+
+uncanny: 英[ʌnˈkæni] 美[ʌnˈkæni]
+%adj. 神秘的；离奇的；可怕的
+    Uncanny sounds filled the house.
+#屋子里充满各种神秘的声音。
+
+overdue: 英[ˌəʊvəˈdjuː] 美[ˌoʊvərˈduː]
+%adj. （到期）未付的，未还的；未能准时的，延误的； 早该发生的，早应完成的
+    ten minutes overdue
+#晚点10分钟
+    A charge of one dollar per day is made on all overdue books.
+#所有逾期未还的书都要罚款，每天一美元。
+
+uneven: 英[ʌnˈiːv(ə)n] 美[ʌnˈiːv(ə)n]
+%adj. 不平滑的，不平坦的；不规则的，不均匀的；质量不稳定的；不平等的，不平衡的；实力悬殊的，一边倒的；（大小或长度）不相等的；不平整的，不平直的，不平行的；（数）奇数的
+    an uneven road
+#崎岖不平的路
+    a mouthful of uneven teeth
+#满口参差不齐的牙
+    highly uneven economic and social development
+#高度不平衡的经济和社会发展
+    of uneven temper
+#脾气反复无常的
+    an uneven contest
+#双方实力不相当的比赛
+    His heart beat at an uneven rate.
+#他心律不齐。
+
+enzyme: 英[ˈenzaɪm] 美[ˈenzaɪm]
+%n. 酶
+    Some enzymes are used in the synthesis of antibiotics.
+#一些酶用于抗生素的合成。
+
+unearth: 英[ʌnˈɜːθ] 美[ʌnˈɜːrθ]
+%v. 发掘，使出土；发现，揭露；从洞中赶出（动物，尤指狐狸）
+    unearth a buried city
+#发掘埋在地下的城市
+    unearth oil
+#开采石油
+    unearth many valuable relics
+#掘出许多宝物
+    unearth potential spies
+#挖出潜在的间谍
+    unearth a secret
+#公开一个秘密
+    These ruins were unearthed ten feet below the surface.
+#这些遗迹是从地下10英尺处挖出的。
+
+pernicious: 英[pəˈnɪʃəs] 美[pərˈnɪʃəs]
+%adj. 有害的；恶性的；致命的；险恶的
+    a pernicious lie
+#恶毒的谎言
+    a pernicious influence
+#有害影响
+    a pernicious habit
+#恶习
+    a pernicious disease
+#恶疾
+    These horror films have pernicious effect on young children.
+#这些恐怖电影对幼儿有极坏影响。
+
+balk: 英[bɔːk] 美[bɔːk]
+$v. 畏缩不前，犹豫；（马在障碍物前）突然止步，拒绝跳跃；（棒球投手在投球时）做假动作，佯投；阻止，妨碍（人或动物）拥有（某物）；错过，拒绝（机会、邀请）（等于baulk）
+$n. 障碍；梁木，粗枋；（台球）台盘限制区；（棒球）违例佯投动作；（畦间隆起的）梗（等于baulk）
+%n. （Balk）（美）鲍克（人名）
+    balk at any kind of compromise with an adversary
+#不愿与对手达成任何种类的妥协
+    be balked in one's purpose
+#目的无法得逞
+    The kidnapping attempt was balked by the police.
+#绑架企图为警方所挫败。
+
+devout: 英[dɪˈvaʊt] 美[dɪˈvaʊt]
+%adj. 虔诚的；衷心的
+    devout thanks
+#诚恳的感谢
+    a devout admirer
+#真诚的仰慕者
+    He is a devout Christian.
+#他是一个诚的基督徒。
+
+replicate: 英[ˈreplɪkeɪt] 美[ˈreplɪkeɪt]
+$v. 重复，复制；（遗传物质或生物）自我繁殖，自我复制；复证（实验或试验以得出一致的结果）
+$adj. 复制的；（实验或试验）复现的
+%n. 复制品；（乐）高（或低）八度反复音
+    replicate a statistical experiment
+#重复一次统计试验
+    replicate another's research findings
+#复证另一人的研究发现
+    These tissue cells replicate themselves.
+#这些组织细胞能自行复制。
+
+idiomatic: 英[ˌɪdiəˈmætɪk] 美[ˌɪdiəˈmætɪk]
+%adj. （语言）自然地道的；与（某时期、人或团体的艺术或音乐风格）相合的，特点一致的
+    idiomatic spoken English
+#地道的英语口语
+    an idiomatic expression
+#习惯表达法
+    To "bite the bullet" is an idiomatic expression that means to accept something unpleasant without complaining.
+#“bite the bullet”是个惯用表达法，意思是没有怨言地忍受令人不快的事情。
+
+proclamation: 英[ˌprɒkləˈmeɪʃ(ə)n] 美[ˌprɑːkləˈmeɪʃ(ə)n]
+%n. 正式的公告，宣言；宣布，公布
+    a royal proclamation
+#皇家公告
+    The proclamation of independence was broadcast over the radio.
+#独立声明在广播里播出了。
+
+consciousness: 英[ˈkɒnʃəsnəs] 美[ˈkɑːnʃəsnəs]
+%n. 知觉，清醒；思想，意识；（群体的）观念体系；感知，察觉
+    recover/regain one's consciousness
+#恢复知觉
+    lose consciousness
+#失去知觉
+    raise one's democratic consciousness
+#提高民主觉悟
+    He had no consciousness of being ridiculed.
+#他没有觉察到自己受人糊弄。
+
+deviation: 英[ˌdiːviˈeɪʃn] 美[ˌdiːviˈeɪʃ(ə)n]
+%n. 偏离，违背；离差，偏差
+    a slight deviation from the original plan
+#稍稍偏离原计划
+    a deviation from generally acceptable standards
+#违背公认的基本行为准则，
+    There are some deviations from fact in his account.
+#在他的陈述中有些地方背离事实。
+
+hallow: 英[ˈhæləʊ] 美[ˈhæloʊ]
+$v. 把……奉为神圣；（使）成为神圣；作为神圣以和……区分
+%n. 圣徒，圣人
+    The Ganges is hallowed as a sacred, cleansing river.
+#恒河被奉为有净化作用的圣河。
+
+converse: 英[kənˈvɜːs] 美[kənˈvɜːrs]
+$v. 谈话，交谈
+$n. 相反的事物，反面说法；<旧>谈话，交谈；逆命题
+%adj. 相反的，颠倒的，逆向的
+    a converse impression
+#相反的印象
+    converse about the weather
+#谈论天气
+    a converse wind
+#逆风
+    hold the converse opinion
+#持截相反的观点
+    Conducting business with her is fine, but I find that conversing with her is quite difficult.
+#和她做生意很愉快，但我发觉和她交谈实在很难。
+
+ancestral: 英[ænˈsestrəl] 美[ænˈsestrəl]
+%adj. 祖先的；祖传的
+    ancestral memorial tablets
+#列祖列宗的牌位
+    ancestral acres
+#祖传的地产
+    ancestral language
+#原型语言
+    ancestral rights
+#祖传的权力
+    Black hair is an ancestral trait in that family.
+#黑发是这个宗族祖传的特征。
+
+reflective: 英[rɪˈflektɪv] 美[rɪˈflektɪv]
+%adj. 反射的，反光的 ；沉思的，深思的；体现……的，反映……的
+    a reflective expression
+#沉思的表情
+    a reflective waistcoat
+#反光的马甲
+    After hearing the news he sat in a quiet, reflective silence.
+#听到这消息后，他静静地坐着思索。
+
+irrigate: 英[ˈɪrɪɡeɪt] 美[ˈɪrɪɡeɪt]
+%v. 灌溉；冲洗（尤指伤口）；使清新
+    irrigate land
+#灌溉土地
+    irrigate a cut
+#冲洗伤口
+    irrigate sb.'s emotional desert
+#滋润某人荒芜的心田
+
+discomfort: 英[dɪsˈkʌmfət] 美[dɪsˈkʌmfərt]
+$n. 不适，不安；不便之处
+%vt. 使……不舒服；使……不安
+    the discomfort of too much sunshine in summer
+#夏日阳光太强造成的诸事不便
+    the discomfort of sleeping on rocky ground
+#睡在岩石地上产生的不适感
+    the discomforts of travel
+#旅行的种种不便
+    He was discomforted by her cool manner.
+#她那冷漠的态度使他感到很不舒服。
+
+=======
+dispel: 英[dɪˈspel] 美[dɪˈspel]
+%v. 驱散，消除（尤指感觉或信仰）
+    dispel fears
+#消除担心
+    dispel a few rumors
+#消除几个谣言
+    dispel some doubts
+#消除几个疑虑
+    In his latest novel he aims to dispel the myth that real men don't cry.
+#他在最近的小说里，意在消除硬汉不流泪的神话。
+
+terrestrial: 英[təˈrestriəl] 美[təˈrestriəl]
+$adj. 地球的，地球上的；陆栖的，陆生的；陆地（上）的；陆地上的，地面上的（与卫星相对而言）；（属于）类地行星的；<古>人间的，尘世的
+%n. 地球生物，陆地生物
+    terrestrial gravity
+#地球引力
+    a terrestrial plant
+#陆生植物
+    terrestrial interests
+#名利心
+    a terrestrial bird
+#陆栖鸟
+
+abhor: 英[əbˈhɔː(r)] 美[əbˈhɔːr]
+%vt. 痛恨，憎恶
+    abhor the idea of leaving
+#不想离开
+    abhor mediocrities
+#摒弃平庸
+    abhor snakes
+#怕蛇
+    abhor cruelties to animals.
+#我痛恨待动物。
+
+protrude: 英[prəˈtruːd] 美[proʊˈtruːd]
+%v. 伸出，突出；（动物）使（身体部位）突出
+    protrude one's tongue
+#伸舌头
+    a shelf that protrudes from a wall
+#从墙上突出的壁架
+    protruding cheek bones
+#高高的額骨
+    He glimpsed a gun protruding from the man's pocket.
+#他瞥见那人的口袋里露出一支枪。
+
+illustrative: 英[ˈɪləstrətɪv] 美[ɪˈlʌstrətɪv]
+%adj. 作例证用的，解释性的；图解的，插图的
+    an illustrative example
+#说明性的例子
+    It is a remark that is illustrative of his attitude toward life.
+#这句话足以说明他的处世态度。
+
+entrepreneur: 英[ˌɒntrəprəˈnɜː(r)] 美[ˌɑːntrəprəˈnɜːr]
+%n. 企业家，创业者；主办者，提倡者
+    The owner of the company is a French entrepreneur.
+#这家公司的老板是一个法国企业家。
+
+vestige: 英[ˈvestɪdʒ] 美[ˈvestɪdʒ]
+%n. 遗迹；残余；退化的器官
+    vestiges of foreign influence
+#外国影响的残余
+    vestiges of an earlier civilization
+#早期文明的遗迹
+    vestiges of beauty in an old lady's ageing face
+#老太太脸上昔日风韵的影子
+    a vestige of hope
+#一丝希望
+    the last vestiges of royal power
+#王权的最后残余
+    There's not a vestige of truth in the witness's statement.
+#这名证人的证词没有一丝一毫的真实性。
+
+outspoken: 英[aʊtˈspəʊkən] 美[aʊtˈspoʊkən]
+%adj. 坦率的，直言不讳的
+    In recent years, he has been an outspoken supporter of radical reform.
+#近年来，他一直直言不讳地支持激进改革。
+
+spiral: 英[ˈspaɪrəl] 美[ˈspaɪrəl]
+$n. 螺旋形，螺旋形之物；持续加剧的上升（或下降、恶化）；旋球
+$v. 螺旋式上升（或下降），盘旋上升（或下降）；持续下降，持续恶化；急剧上升
+%adj. 螺旋形的；（医）扭折（骨折的一种）；spiral-bound的简称
+    spiral-shaped
+#螺旋形的
+    the downward spiral of prices
+#价格的连续下跌
+    a spiral galaxy
+#螺旋星系
+    spiraling costs
+#急剧上升的成本
+    spiral around the central pillar
+#沿着中心柱盘旋上升
+    With one wing damaged, the plane spiraled downwards.
+#飞机的一个机翼坏了，它盘旋着往下坠落。
+
+shuffle: 英[ˈʃʌf(ə)l] 美[ˈʃʌf(ə)l]
+$v. 拖着脚走；（因不适、紧张或尴尬而）坐立不安，把脚动来动去；将（纸张等）变换位置，打乱顺序；洗（牌）；匆忙地整理（或浏览）；笨拙地穿上；随机播放；逃避责任（或义务）；<古>躲闪，支吾，搪塞
+%n. 拖着脚走；洗牌；曳步舞；慢切分节奏，曳步舞拍；变换位置；搅乱，改组；（CD 机上）非顺序自由播放装置
+    shuffle the papers nervously
+#不安地翻动文件
+    the cabinet shuffle
+#内阁改组
+    a management shuffle
+#管理层改组
+    shuffle the cards
+#洗牌
+    shuffle off
+#挣脱
+    He shuffled through the snow, weighed down with his luggage.
+#他拿着很重的行李曳足走过雪地。
+
+unadorned: 英[ˌʌnəˈdɔːnd] 美[ˌʌnəˈdɔːrnd]
+%adj. 朴素的；未装饰的
+    He gave an unadorned account of the exploration.
+#他对这次探险做了不加文饰的记述。
+
+belie: 英[bɪˈlaɪ] 美[bɪˈlaɪ]
+%vt. 给人以假象，掩饰（感情等）；显示……为虚假，表明……不正确；使落空，辜负（要求、期望等）；给人以……假象，使人对……产生错觉
+    features that belie the years
+#掩盖真实年龄的相貌
+    belie one's true feelings of displeasure
+#掩饰内心不快的真实感情
+    His actions belie his words.
+#他言行不一。
+
+temporary: 英[ˈtemprəri] 美[ˈtempəreri]
+$adj. 暂时的，临时的；短期的，短暂的
+%n. 临时雇员，临时工
+    temporary buildings
+#临时建筑物
+    a temporary bridge
+#便桥
+    She found a temporary job in a coffee shop.
+#她在一家咖啡馆找到一份临时工作。
+
+disarm: 英[dɪsˈɑːm] 美[dɪsˈɑːrm]
+$v. 缴……的械，解除……的武装；拆除（炸弹等的）引信；使友好，消除……的敌意；裁减军备，裁军
+%n. 解除（某人的）武器
+    The terrorists have shown no signs of being willing to disarm.
+#恐怖分子没有显示出放下武器的迹象。
+
+cerebral: 英[səˈriːbrəl] 美[səˈriːbrəl]
+%adj. 大脑的，脑的；理智的，智力的；卷舌的，卷舌音的
+    cerebral concussion
+#脑震荡
+    a cerebral person
+#理智型的人
+    Chess is a cerebral game.
+#国际象棋是一种动脑筋的游戏。
+
+frivolity: 英[frɪˈvɒləti] 美[frɪˈvɑːləti]
+%n. 轻浮；轻薄；轻率
+    I have no time for such frivolities as parties.
+#我没有时间去赴宴或参加诸如此类的无聊活动。
+
+espouse: 英[ɪˈspaʊz] 美[ɪˈspaʊz]
+%vt. 支持；嫁娶；赞成；信奉
+    espouse the principles of Buddhism
+#信奉基督教教义
+    espouse a country girl
+#娶一个乡下姑娘
+    His party espouses radical reform.
+#他的政党拥护激进的改革。
+
+eschew: 英[ɪsˈtʃuː] 美[ɪsˈtʃuː]
+%vt. 避免；避开；远避
+    eschew rich foods
+#避免油腻食物
+    eschew evil
+#避开邪恶
+    eschew personal questions
+#回避私人问题
+    He's eschewed alcoholic drinks.
+#他已戒酒了。
+
+ordeal: 英[ɔːˈdiːl] 美[ɔːrˈdiːl]
+%n. 磨难，严峻考验；<史>神明裁判（把被告是否经得起剧痛的考验作为被告是否无辜的神谕）
+    The hostages' ordeal came to an end when soldiers stormed the building.
+#当士兵们强攻进入大楼时，人质们苦难的煎熬结束了。
+
+overload: 英[ˌəʊvəˈləʊd] 美[ˌoʊvərˈloʊd]
+$v. （使）过载，超载；（使）负担过重；（使）电力系统超负荷
+%n. 超载量
+    overload an electric circuit
+#使电路过载
+    overload the stomach
+#吃得过饱
+    be overloaded with duties
+#担负职务过重
+    Student were overloaded with knowledge.
+#生头脑里塞满了太多太多的知识。
+
+expedient: 英[ɪkˈspiːdiənt] 美[ɪkˈspiːdiənt]
+$adj. 权宜的；方便的；有利的
+%n. 权宜之计；应急手段
+    resort to many expedients
+#诉诸许多应急办法
+    do whatever is expedient
+#怎么合适就怎么办
+    Aspirin is a useful expedient for dulling minor pain.
+#阿司匹林是缓解轻微疼痛的有用应急药物。
+
+aquatic: 英[əˈkwætɪk] 美[əˈkwɑːtɪk]
+$adj. 水生的，水栖的；与水生动植物有关的；水的，水上的
+%n. （尤指适于在水塘或水族馆中生活的）水生植物（或动物）；水上运动（aquatics）
+    aquatic plants
+#水生植物
+    aquatic products
+#水产品
+    an aquatic city
+#水上城市
+    aquatic animals
+#水生动物
+    Swimming and rowing are aquatic sports.
+#游泳和划船都是水上运动。
+
+uncanny: 英[ʌnˈkæni] 美[ʌnˈkæni]
+%adj. 神秘的；离奇的；可怕的
+    Uncanny sounds filled the house.
+#屋子里充满各种神秘的声音。
+
+overdue: 英[ˌəʊvəˈdjuː] 美[ˌoʊvərˈduː]
+%adj. （到期）未付的，未还的；未能准时的，延误的； 早该发生的，早应完成的
+    ten minutes overdue
+#晚点10分钟
+    A charge of one dollar per day is made on all overdue books.
+#所有逾期未还的书都要罚款，每天一美元。
+
+uneven: 英[ʌnˈiːv(ə)n] 美[ʌnˈiːv(ə)n]
+%adj. 不平滑的，不平坦的；不规则的，不均匀的；质量不稳定的；不平等的，不平衡的；实力悬殊的，一边倒的；（大小或长度）不相等的；不平整的，不平直的，不平行的；（数）奇数的
+    an uneven road
+#崎岖不平的路
+    a mouthful of uneven teeth
+#满口参差不齐的牙
+    highly uneven economic and social development
+#高度不平衡的经济和社会发展
+    of uneven temper
+#脾气反复无常的
+    an uneven contest
+#双方实力不相当的比赛
+    His heart beat at an uneven rate.
+#他心律不齐。
+
+enzyme: 英[ˈenzaɪm] 美[ˈenzaɪm]
+%n. 酶
+    Some enzymes are used in the synthesis of antibiotics.
+#一些酶用于抗生素的合成。
+
+unearth: 英[ʌnˈɜːθ] 美[ʌnˈɜːrθ]
+%v. 发掘，使出土；发现，揭露；从洞中赶出（动物，尤指狐狸）
+    unearth a buried city
+#发掘埋在地下的城市
+    unearth oil
+#开采石油
+    unearth many valuable relics
+#掘出许多宝物
+    unearth potential spies
+#挖出潜在的间谍
+    unearth a secret
+#公开一个秘密
+    These ruins were unearthed ten feet below the surface.
+#这些遗迹是从地下10英尺处挖出的。
+
+pernicious: 英[pəˈnɪʃəs] 美[pərˈnɪʃəs]
+%adj. 有害的；恶性的；致命的；险恶的
+    a pernicious lie
+#恶毒的谎言
+    a pernicious influence
+#有害影响
+    a pernicious habit
+#恶习
+    a pernicious disease
+#恶疾
+    These horror films have pernicious effect on young children.
+#这些恐怖电影对幼儿有极坏影响。
+
+balk: 英[bɔːk] 美[bɔːk]
+$v. 畏缩不前，犹豫；（马在障碍物前）突然止步，拒绝跳跃；（棒球投手在投球时）做假动作，佯投；阻止，妨碍（人或动物）拥有（某物）；错过，拒绝（机会、邀请）（等于baulk）
+$n. 障碍；梁木，粗枋；（台球）台盘限制区；（棒球）违例佯投动作；（畦间隆起的）梗（等于baulk）
+%n. （Balk）（美）鲍克（人名）
+    balk at any kind of compromise with an adversary
+#不愿与对手达成任何种类的妥协
+    be balked in one's purpose
+#目的无法得逞
+    The kidnapping attempt was balked by the police.
+#绑架企图为警方所挫败。
+
+devout: 英[dɪˈvaʊt] 美[dɪˈvaʊt]
+%adj. 虔诚的；衷心的
+    devout thanks
+#诚恳的感谢
+    a devout admirer
+#真诚的仰慕者
+    He is a devout Christian.
+#他是一个诚的基督徒。
+
+replicate: 英[ˈreplɪkeɪt] 美[ˈreplɪkeɪt]
+$v. 重复，复制；（遗传物质或生物）自我繁殖，自我复制；复证（实验或试验以得出一致的结果）
+$adj. 复制的；（实验或试验）复现的
+%n. 复制品；（乐）高（或低）八度反复音
+    replicate a statistical experiment
+#重复一次统计试验
+    replicate another's research findings
+#复证另一人的研究发现
+    These tissue cells replicate themselves.
+#这些组织细胞能自行复制。
+
+idiomatic: 英[ˌɪdiəˈmætɪk] 美[ˌɪdiəˈmætɪk]
+%adj. （语言）自然地道的；与（某时期、人或团体的艺术或音乐风格）相合的，特点一致的
+    idiomatic spoken English
+#地道的英语口语
+    an idiomatic expression
+#习惯表达法
+    To "bite the bullet" is an idiomatic expression that means to accept something unpleasant without complaining.
+#“bite the bullet”是个惯用表达法，意思是没有怨言地忍受令人不快的事情。
+
+proclamation: 英[ˌprɒkləˈmeɪʃ(ə)n] 美[ˌprɑːkləˈmeɪʃ(ə)n]
+%n. 正式的公告，宣言；宣布，公布
+    a royal proclamation
+#皇家公告
+    The proclamation of independence was broadcast over the radio.
+#独立声明在广播里播出了。
+
+consciousness: 英[ˈkɒnʃəsnəs] 美[ˈkɑːnʃəsnəs]
+%n. 知觉，清醒；思想，意识；（群体的）观念体系；感知，察觉
+    recover/regain one's consciousness
+#恢复知觉
+    lose consciousness
+#失去知觉
+    raise one's democratic consciousness
+#提高民主觉悟
+    He had no consciousness of being ridiculed.
+#他没有觉察到自己受人糊弄。
+
+deviation: 英[ˌdiːviˈeɪʃn] 美[ˌdiːviˈeɪʃ(ə)n]
+%n. 偏离，违背；离差，偏差
+    a slight deviation from the original plan
+#稍稍偏离原计划
+    a deviation from generally acceptable standards
+#违背公认的基本行为准则，
+    There are some deviations from fact in his account.
+#在他的陈述中有些地方背离事实。
+
+hallow: 英[ˈhæləʊ] 美[ˈhæloʊ]
+$v. 把……奉为神圣；（使）成为神圣；作为神圣以和……区分
+%n. 圣徒，圣人
+    The Ganges is hallowed as a sacred, cleansing river.
+#恒河被奉为有净化作用的圣河。
+
+converse: 英[kənˈvɜːs] 美[kənˈvɜːrs]
+$v. 谈话，交谈
+$n. 相反的事物，反面说法；<旧>谈话，交谈；逆命题
+%adj. 相反的，颠倒的，逆向的
+    a converse impression
+#相反的印象
+    converse about the weather
+#谈论天气
+    a converse wind
+#逆风
+    hold the converse opinion
+#持截相反的观点
+    Conducting business with her is fine, but I find that conversing with her is quite difficult.
+#和她做生意很愉快，但我发觉和她交谈实在很难。
+
+ancestral: 英[ænˈsestrəl] 美[ænˈsestrəl]
+%adj. 祖先的；祖传的
+    ancestral memorial tablets
+#列祖列宗的牌位
+    ancestral acres
+#祖传的地产
+    ancestral language
+#原型语言
+    ancestral rights
+#祖传的权力
+    Black hair is an ancestral trait in that family.
+#黑发是这个宗族祖传的特征。
+
+reflective: 英[rɪˈflektɪv] 美[rɪˈflektɪv]
+%adj. 反射的，反光的 ；沉思的，深思的；体现……的，反映……的
+    a reflective expression
+#沉思的表情
+    a reflective waistcoat
+#反光的马甲
+    After hearing the news he sat in a quiet, reflective silence.
+#听到这消息后，他静静地坐着思索。
+
+irrigate: 英[ˈɪrɪɡeɪt] 美[ˈɪrɪɡeɪt]
+%v. 灌溉；冲洗（尤指伤口）；使清新
+    irrigate land
+#灌溉土地
+    irrigate a cut
+#冲洗伤口
+    irrigate sb.'s emotional desert
+#滋润某人荒芜的心田
+
+discomfort: 英[dɪsˈkʌmfət] 美[dɪsˈkʌmfərt]
+$n. 不适，不安；不便之处
+%vt. 使……不舒服；使……不安
+    the discomfort of too much sunshine in summer
+#夏日阳光太强造成的诸事不便
+    the discomfort of sleeping on rocky ground
+#睡在岩石地上产生的不适感
+    the discomforts of travel
+#旅行的种种不便
+    He was discomforted by her cool manner.
+#她那冷漠的态度使他感到很不舒服。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

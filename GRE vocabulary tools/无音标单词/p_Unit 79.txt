@@ -1,0 +1,687 @@
+<<<<<<< HEAD
+vex:
+    be vexed by the children
+#被孩子们弄得心烦意乱
+    be vexed at one's failure
+#因失败而苦恼
+    vex over trifles
+#为小事而烦恼
+    be vexed with rheumatism
+#罹风湿痛之苦
+    a coast vexed by waves.
+#波涛汹涌的海岸
+    I was vexed by the things that people were always telling me that I must do.
+#人们总是告诉我必须做这样做那样，我都给烦死了。
+
+contemptible:
+    a contemptible liar
+#无耻的说谎者
+    For a person in a position of such responsibility, her behavior was contemptible.
+#作为一个负有如此重大责任的人，她的行为十分可鄙。
+
+palatable:
+    palatable lunch
+#美味的午餐
+    palatable to the audience
+#适应听众的口味
+    The meal was barely palatable -- in fact I thought it was disgusting.
+#这顿饭根本谈不上可口——事实上，我觉得它叫人恶心。
+
+insipid:
+    a pale insipid wine
+#淡而无味的葡萄酒
+    insipid conversation
+#枯燥无味的谈话
+    insipid music
+#毫无特色的音乐
+
+cursory:
+    a cursory glance
+#草草一瞥
+    a cursory check
+#粗略的检查
+
+repudiate:
+    repudiate the charge
+#驳斥指控
+    repudiate one's authority
+#拒不服从某人的权威
+    repudiate a will
+#否定遗嘱
+    repudiate a wicked son
+#声明与劣子脱离关系
+    repudiate an old friend
+#与老朋友断交
+    They agreed it was not in their interest to repudiate the treaty.
+#他们一致同意，拒绝接受条约不符合他们的利益。
+
+zealot:
+    a feminist zealot
+#狂热的女主义者
+    a right wing zealot
+#狂热右翼分子
+
+scruple:
+    a man of/with no scruples
+#无所顾忌的人
+    without scruples
+#毫无顾忌
+    make no scruple to do/of doing sth.
+#肆无忌惮地做某事
+    He did not scruple to tell lies when it served his interests.
+#只要对自己有利，他会毫无顾忌地撒谎。
+
+sanitary:
+    improve the sanitary condition
+#改进卫生条件
+    sanitary facilities
+#为生设备
+    sanitary towel
+#卫生巾
+    It's not sanitary to let flies come near food.
+#让苍蝇接近食物是不卫生的。
+
+witty:
+    have a witty tongue
+#谈吐诙谐
+    She is well-known for being one of the wittiest people on television.
+#她以作为电视上最风趣的人之一而闻名
+
+regenerate:
+    regenerate the old cities
+#重建旧城
+    a regenerate society
+#革新的社会
+    Many kinds of plants can regenerate roots from an end of a cut stem.
+#许多植物会从切下的茎端再生根。
+
+allegory:
+    talk in allegories
+#讽喻地说话
+    The play may be seen as an allegory about the nature of man.
+#这出戏可被看作一个关于人性的寓言故事。
+
+admonish:
+    admonish sb. of the impending danger
+#就即将发生的危险警告某人
+    admonish sb. of his obligations
+#提醒某人应尽的义务
+    admonish sb. against smoking
+#力劝某人戒烟
+    The guide admonished the mountain climbers to follow him carefully.
+#导游告诫登山者小心翼翼地跟着他前行。
+
+gratify:
+    gratify the eye
+#悦目
+    gratify one's hunger with a huge meal
+#大吃一顿解饿
+    gratify one's need
+#满足某人的需要
+    We were gratified at/by the response to our appeal.
+#我们对于给予我们上诉的回复表示满意。
+
+fickle:
+    a fickle woman
+#感情变化无常的女人
+    The relations between the two countries are still fickle.
+#两国间的关系依然是变化不定
+
+combustible:
+    Wood and coal are both combustible substances.
+#木头和煤都是易燃物品。
+
+bumper:
+    fill sb. a bumper
+#给某人斟一满杯
+    a bumper audience
+#特别多的观众
+    Farmers have reported a bumper crop this year.
+#据报道，今年农民庄稼大丰收。
+
+energize:
+    I felt very energized after my holiday.
+#假期过后我感到精力很充沛。
+
+transmute:
+    transmute water power into electric power
+#把水力变成电力
+    transmute materials into finished products
+#把原料变成成品
+    A shaft of sunlight had suddenly transmuted the room into a bright and welcoming place.
+#一束阳光使这个房间陡然变成了一个明亮舒适的地方。
+
+patronage:
+    public patronage of art
+#公众对艺术的赞助
+    receive lavish patronage
+#得到慷慨的赞助
+    with under the patronage of sb.
+#在某人的资助下
+    give one's patronage to a shop
+#经常光顾一家商店
+    The concert was made possible by the kind patronage of the company.
+#这家公司的好心赞助使音乐会开成了。
+
+therapeutic:
+    the therapeutic effects of high fibre diet
+#高纤维饮食的保健效果
+    I find gardening very therapeutic.
+#我发现园艺是很有益健康的。
+
+palpable:
+    a palpable effect
+#明显的效果
+    a palpable tension
+#明显的紧张关系
+    a palpable error
+#明显的错误
+    Her relief and happiness was palpable.
+#她的欣慰和快乐全写在脸上。
+
+stasis:
+    She was bored -- her life was in stasis.
+#她感到厌倦——她的生活是一潭死水。
+
+incarnate:
+    a devil incarnate
+#魔鬼的化身
+    evil incarnate
+#邪恶的化身
+    stupidity incarnate
+#愚蠢的典型
+    In the man the spirit of the times is incarnated.
+#这人身上体现着时代精神。
+
+ingenuous:
+    an ingenuous country girl
+#率直的乡村姑娘
+    an ingenuous smile
+#天真地微笑
+    give ingenuous answers
+#老老实实地回答
+    Sally was so obviously sincere and ingenuous that everyone liked her.
+#萨莉是那样真诚坦率，大家都喜欢她。
+
+pristine:
+    a pristine wildness
+#蛮荒
+    have a pristine view of the canyon
+#见到那峡谷的本来面目
+    pristine products
+#刚制造出来的产品
+    a pristine dawn in spring
+#春天清新的黎明
+    pristine innocence
+#天真无邪
+    They moved into a pristine new office which had brand new furniture and polished floors.
+#他们搬进了崭新的办公室，里面有全新的家具和抛了光的地板。
+
+consign:
+    be consigned to prison
+#被投人监狱
+    consign the love letters to the flames
+#把情书付之一炬
+    consign a child to sb.'s care
+#把孩子托给某人照顾
+    consign money in a bank
+#把钱存人银行
+    be consigned to oblivion
+#湮没无闻
+    After the financial disaster, she was consigned to poverty.
+#财政危机之后，她陷入了贫困
+
+nutritious:
+    Oranges and apples are especially nutritious.
+#橘子和苹果格外有营养。
+
+astronomic(al):
+    an astronomical price
+#贵得离谱的价格
+    an astronomical problem
+#难以克服的问题
+    rise to astronomical heights
+#（股票等）暴涨
+    The damage caused by the hurricane is astronomical.
+#飓风造成了不可估量的损失
+
+repellent:
+    repellent behavior
+#令人反感的行为
+    a repellent appearance
+#令人反感的模样
+    a water-repellent raincoat
+#防水雨衣
+    an insect repellent
+#驱虫剂
+    I find any cruelty to children utterly repellent.
+#我认为对儿童的任何残忍行为都是十分可恶的。
+
+argumentative:
+    an argumentative question
+#引起争论的问题
+    an argumentative style of writing
+#论证式的笔法
+
+extant:
+    extant manuscripts
+#未佚失的手稿
+    the most charming extant writer
+#最令人喜爱的在世作家
+    There are only five extant copies of the book.
+#该书现存只有5本。
+
+conjecture:
+    make no reasonable conjecture
+#做出没有情理的推测
+    take conjecture on one's eventual fate
+#对某人最后的命运做推测
+    There's been a lot of conjecture in the papers recently about the royal marriage.
+#近期的报纸对这桩皇室婚姻大加推测。
+
+engender:
+    engender strife
+#引起争吵
+    engender a feeling of mutual respect
+#产生一种互相尊重的感情
+    His latest book has engendered a lot of controversy.
+#他最近的一本书引起很多争议。
+
+querulous:
+    a querulous remark
+#牢骚话
+    He became increasingly dissatisfied and querulous in his old age.
+#到了晚年，他愈加不满，牢骚不断。
+
+obscurity:
+    fade into obscurity
+#渐归湮没
+    hide in the obscurity of the thick bushes
+#躲藏在灌木丛的阴暗中
+    The obscurity of the paragraph makes several interpretations possible.
+#这段文字极为晦涩，可能有多种解释。
+
+attest:
+    attest the truth of a statement
+#证明陈述的真实性
+    attest to one's ability
+#证明某人的能力
+    attest one's support for
+#表明对……的支持
+    The will needs to be attested by three witnesses.
+#遗嘱需由三名证人证明。
+
+weightless:
+    a weightless opportunist
+#随风倒的机会主义分子
+    There is a lot of fun in carrying out experiments in the weightless conditions which are experienced aboard space stations.
+#在太空站的失重环境下做实验饶有趣味。
+
+bask:
+    bask in the sun
+#晒太阳
+    bask by the fir
+#烤火
+    bask in one's importance
+#因显赫的地位而洋洋得意
+    bask oneself on the sunny beach
+#在洒满阳光的海滩上舒适地取暖
+    He had done the right thing, and for a while he basked in his mother's approval.
+#那件事他做得很好，一时沉浸在母亲的赞扬声中。
+
+phonetic:
+    Pronunciations are shown in this dictionary using the International Phonetic Alphabet, which is a standard system.
+#这本词典的读音由国际音标（一个标准体系）标出。
+
+composure:
+    keep composure
+#保持镇静
+    lose one's composure
+#失去克制
+    You may feel nervous but don't lose your composure in front of her.
+#你也许会觉得紧张，但是别在她面前沉不住气。
+
+=======
+vex:
+    be vexed by the children
+#被孩子们弄得心烦意乱
+    be vexed at one's failure
+#因失败而苦恼
+    vex over trifles
+#为小事而烦恼
+    be vexed with rheumatism
+#罹风湿痛之苦
+    a coast vexed by waves.
+#波涛汹涌的海岸
+    I was vexed by the things that people were always telling me that I must do.
+#人们总是告诉我必须做这样做那样，我都给烦死了。
+
+contemptible:
+    a contemptible liar
+#无耻的说谎者
+    For a person in a position of such responsibility, her behavior was contemptible.
+#作为一个负有如此重大责任的人，她的行为十分可鄙。
+
+palatable:
+    palatable lunch
+#美味的午餐
+    palatable to the audience
+#适应听众的口味
+    The meal was barely palatable -- in fact I thought it was disgusting.
+#这顿饭根本谈不上可口——事实上，我觉得它叫人恶心。
+
+insipid:
+    a pale insipid wine
+#淡而无味的葡萄酒
+    insipid conversation
+#枯燥无味的谈话
+    insipid music
+#毫无特色的音乐
+
+cursory:
+    a cursory glance
+#草草一瞥
+    a cursory check
+#粗略的检查
+
+repudiate:
+    repudiate the charge
+#驳斥指控
+    repudiate one's authority
+#拒不服从某人的权威
+    repudiate a will
+#否定遗嘱
+    repudiate a wicked son
+#声明与劣子脱离关系
+    repudiate an old friend
+#与老朋友断交
+    They agreed it was not in their interest to repudiate the treaty.
+#他们一致同意，拒绝接受条约不符合他们的利益。
+
+zealot:
+    a feminist zealot
+#狂热的女主义者
+    a right wing zealot
+#狂热右翼分子
+
+scruple:
+    a man of/with no scruples
+#无所顾忌的人
+    without scruples
+#毫无顾忌
+    make no scruple to do/of doing sth.
+#肆无忌惮地做某事
+    He did not scruple to tell lies when it served his interests.
+#只要对自己有利，他会毫无顾忌地撒谎。
+
+sanitary:
+    improve the sanitary condition
+#改进卫生条件
+    sanitary facilities
+#为生设备
+    sanitary towel
+#卫生巾
+    It's not sanitary to let flies come near food.
+#让苍蝇接近食物是不卫生的。
+
+witty:
+    have a witty tongue
+#谈吐诙谐
+    She is well-known for being one of the wittiest people on television.
+#她以作为电视上最风趣的人之一而闻名
+
+regenerate:
+    regenerate the old cities
+#重建旧城
+    a regenerate society
+#革新的社会
+    Many kinds of plants can regenerate roots from an end of a cut stem.
+#许多植物会从切下的茎端再生根。
+
+allegory:
+    talk in allegories
+#讽喻地说话
+    The play may be seen as an allegory about the nature of man.
+#这出戏可被看作一个关于人性的寓言故事。
+
+admonish:
+    admonish sb. of the impending danger
+#就即将发生的危险警告某人
+    admonish sb. of his obligations
+#提醒某人应尽的义务
+    admonish sb. against smoking
+#力劝某人戒烟
+    The guide admonished the mountain climbers to follow him carefully.
+#导游告诫登山者小心翼翼地跟着他前行。
+
+gratify:
+    gratify the eye
+#悦目
+    gratify one's hunger with a huge meal
+#大吃一顿解饿
+    gratify one's need
+#满足某人的需要
+    We were gratified at/by the response to our appeal.
+#我们对于给予我们上诉的回复表示满意。
+
+fickle:
+    a fickle woman
+#感情变化无常的女人
+    The relations between the two countries are still fickle.
+#两国间的关系依然是变化不定
+
+combustible:
+    Wood and coal are both combustible substances.
+#木头和煤都是易燃物品。
+
+bumper:
+    fill sb. a bumper
+#给某人斟一满杯
+    a bumper audience
+#特别多的观众
+    Farmers have reported a bumper crop this year.
+#据报道，今年农民庄稼大丰收。
+
+energize:
+    I felt very energized after my holiday.
+#假期过后我感到精力很充沛。
+
+transmute:
+    transmute water power into electric power
+#把水力变成电力
+    transmute materials into finished products
+#把原料变成成品
+    A shaft of sunlight had suddenly transmuted the room into a bright and welcoming place.
+#一束阳光使这个房间陡然变成了一个明亮舒适的地方。
+
+patronage:
+    public patronage of art
+#公众对艺术的赞助
+    receive lavish patronage
+#得到慷慨的赞助
+    with under the patronage of sb.
+#在某人的资助下
+    give one's patronage to a shop
+#经常光顾一家商店
+    The concert was made possible by the kind patronage of the company.
+#这家公司的好心赞助使音乐会开成了。
+
+therapeutic:
+    the therapeutic effects of high fibre diet
+#高纤维饮食的保健效果
+    I find gardening very therapeutic.
+#我发现园艺是很有益健康的。
+
+palpable:
+    a palpable effect
+#明显的效果
+    a palpable tension
+#明显的紧张关系
+    a palpable error
+#明显的错误
+    Her relief and happiness was palpable.
+#她的欣慰和快乐全写在脸上。
+
+stasis:
+    She was bored -- her life was in stasis.
+#她感到厌倦——她的生活是一潭死水。
+
+incarnate:
+    a devil incarnate
+#魔鬼的化身
+    evil incarnate
+#邪恶的化身
+    stupidity incarnate
+#愚蠢的典型
+    In the man the spirit of the times is incarnated.
+#这人身上体现着时代精神。
+
+ingenuous:
+    an ingenuous country girl
+#率直的乡村姑娘
+    an ingenuous smile
+#天真地微笑
+    give ingenuous answers
+#老老实实地回答
+    Sally was so obviously sincere and ingenuous that everyone liked her.
+#萨莉是那样真诚坦率，大家都喜欢她。
+
+pristine:
+    a pristine wildness
+#蛮荒
+    have a pristine view of the canyon
+#见到那峡谷的本来面目
+    pristine products
+#刚制造出来的产品
+    a pristine dawn in spring
+#春天清新的黎明
+    pristine innocence
+#天真无邪
+    They moved into a pristine new office which had brand new furniture and polished floors.
+#他们搬进了崭新的办公室，里面有全新的家具和抛了光的地板。
+
+consign:
+    be consigned to prison
+#被投人监狱
+    consign the love letters to the flames
+#把情书付之一炬
+    consign a child to sb.'s care
+#把孩子托给某人照顾
+    consign money in a bank
+#把钱存人银行
+    be consigned to oblivion
+#湮没无闻
+    After the financial disaster, she was consigned to poverty.
+#财政危机之后，她陷入了贫困
+
+nutritious:
+    Oranges and apples are especially nutritious.
+#橘子和苹果格外有营养。
+
+astronomic(al):
+    an astronomical price
+#贵得离谱的价格
+    an astronomical problem
+#难以克服的问题
+    rise to astronomical heights
+#（股票等）暴涨
+    The damage caused by the hurricane is astronomical.
+#飓风造成了不可估量的损失
+
+repellent:
+    repellent behavior
+#令人反感的行为
+    a repellent appearance
+#令人反感的模样
+    a water-repellent raincoat
+#防水雨衣
+    an insect repellent
+#驱虫剂
+    I find any cruelty to children utterly repellent.
+#我认为对儿童的任何残忍行为都是十分可恶的。
+
+argumentative:
+    an argumentative question
+#引起争论的问题
+    an argumentative style of writing
+#论证式的笔法
+
+extant:
+    extant manuscripts
+#未佚失的手稿
+    the most charming extant writer
+#最令人喜爱的在世作家
+    There are only five extant copies of the book.
+#该书现存只有5本。
+
+conjecture:
+    make no reasonable conjecture
+#做出没有情理的推测
+    take conjecture on one's eventual fate
+#对某人最后的命运做推测
+    There's been a lot of conjecture in the papers recently about the royal marriage.
+#近期的报纸对这桩皇室婚姻大加推测。
+
+engender:
+    engender strife
+#引起争吵
+    engender a feeling of mutual respect
+#产生一种互相尊重的感情
+    His latest book has engendered a lot of controversy.
+#他最近的一本书引起很多争议。
+
+querulous:
+    a querulous remark
+#牢骚话
+    He became increasingly dissatisfied and querulous in his old age.
+#到了晚年，他愈加不满，牢骚不断。
+
+obscurity:
+    fade into obscurity
+#渐归湮没
+    hide in the obscurity of the thick bushes
+#躲藏在灌木丛的阴暗中
+    The obscurity of the paragraph makes several interpretations possible.
+#这段文字极为晦涩，可能有多种解释。
+
+attest:
+    attest the truth of a statement
+#证明陈述的真实性
+    attest to one's ability
+#证明某人的能力
+    attest one's support for
+#表明对……的支持
+    The will needs to be attested by three witnesses.
+#遗嘱需由三名证人证明。
+
+weightless:
+    a weightless opportunist
+#随风倒的机会主义分子
+    There is a lot of fun in carrying out experiments in the weightless conditions which are experienced aboard space stations.
+#在太空站的失重环境下做实验饶有趣味。
+
+bask:
+    bask in the sun
+#晒太阳
+    bask by the fir
+#烤火
+    bask in one's importance
+#因显赫的地位而洋洋得意
+    bask oneself on the sunny beach
+#在洒满阳光的海滩上舒适地取暖
+    He had done the right thing, and for a while he basked in his mother's approval.
+#那件事他做得很好，一时沉浸在母亲的赞扬声中。
+
+phonetic:
+    Pronunciations are shown in this dictionary using the International Phonetic Alphabet, which is a standard system.
+#这本词典的读音由国际音标（一个标准体系）标出。
+
+composure:
+    keep composure
+#保持镇静
+    lose one's composure
+#失去克制
+    You may feel nervous but don't lose your composure in front of her.
+#你也许会觉得紧张，但是别在她面前沉不住气。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

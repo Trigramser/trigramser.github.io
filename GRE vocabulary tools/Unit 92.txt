@@ -1,0 +1,851 @@
+<<<<<<< HEAD
+gabble: 英[ˈɡæb(ə)l] 美[ˈɡæb(ə)l]
+$v. 急促而含混不清地说
+%n. 急促不清的话
+    gabble away
+#没完没了地说废话
+    a gabble of conversation
+#一阵急促不清的谈话声
+    He gabbled his speech and I found parts of it quite difficult to understand.
+#他说得又急又不清楚，有些部分我很难听明白。
+
+chisel: 英[ˈtʃɪz(ə)l] 美[ˈtʃɪz(ə)l]
+$n. 凿子
+%v. 雕，刻，凿；（非正式）欺骗
+    chisel a block of stone into a statue
+#把一块石头雕成石像
+    chisel a post
+#骗得一个职位
+    chisel for good marks
+#为取得高分而作弊
+    chisel in
+#插话
+    Carl chiseled a figure out of marble.
+#卡尔在大理石上刻出一个人像。
+
+faze: 英[feɪz] 美[feɪz]
+%vt. 打扰；使狼狈；折磨
+    be fazed by failure
+#被失败弄得心烦意乱
+
+imbecile: 英[ˈɪmbəsiːl] 美[ˈɪmbəs(ə)l]
+$n. 低能者；愚蠢的人
+%adj. 低能的；愚笨的；虚弱的
+    look at sb. with an imbecile smile
+#带着傻笑看着某人
+    His imbecile clichés were uttered in my presence.
+#他的愚不可及的陈词滥调是当着我的面讲的。
+
+hardbitten: 英[ˌhɑːdˈbɪt(ə)n] 美[ˌhɑːrdˈbɪt(ə)n]
+%adj. 经过磨炼的，沉着老练的；顽强的
+    He is a cynical hardbitten journalist.
+#他是个愤世嫉俗又顽强务实的记者。
+
+badger: 英[ˈbædʒə(r)] 美[ˈbædʒər]
+$n. 獾；獾皮
+$vt. 纠缠不休；吵着要；烦扰
+$n. （Badger）獾州人（美国威斯康星州人的别称）
+%n. （Badger）巴杰（人名）
+    badger sb. with questions
+#缠住某人问问题
+    badger the witness out of his wits
+#把证人问得不知所措
+    She badgered her boyfriend into taking up regular exercise.
+#她缠着男友陪她做定期体育锻炼。
+
+virulent: 英[ˈvɪrələnt] 美[ˈvɪrələnt]
+%adj. 剧毒的；恶性的；有恶意的
+    virulent rumors
+#恶毒的谣言
+    the virulent sun
+#烈日
+    a virulent critic
+#尖刻的批评者
+    a virulent flu
+#致命的流感
+    Several virulent attacks have been made in the area.
+#这个地区发生了多次恶毒的攻击。
+
+fluke: 英[fluːk] 美[fluːk]
+$n. 侥幸；锚爪；意外的挫折
+$vt. 侥幸成功；意外受挫
+$vi. 侥幸成功
+%n. （Fluke）人名；（英）弗卢克
+    win by a fluke
+#侥幸获胜
+    It was a complete fluke that we just happened to be in the same place at the same time.
+#那完全是巧合，我们碰巧在同一时间待在同一地方。
+
+elated: 英[ɪˈleɪtɪd] 美[ɪˈleɪtɪd]
+$adj. 兴高采烈的；得意洋洋的
+%v. 使兴奋（elate 的过去式和过去分词）
+    She was elated at what she was able to achieve.
+#她对自己能够取得的成就感到得意。
+
+ordain: 英[ɔːˈdeɪn] 美[ɔːrˈdeɪn]
+$vt. 任命某人为牧师；授某人以圣职；（上帝、法律等）命令；注定
+%vi. 颁布命令
+    be ordained (as) priest
+#被授予牧师职
+    ordain a new type of government
+#规定新型政体
+    be ordained by fate
+#命里注定
+    There is a strong support here for the tough economic reforms ordained by the government.
+#这里的人们坚决支持政府下达命令进行强有力的经济改革。
+
+rapt: 英[ræpt] 美[ræpt]
+%adj. 全神贯注的；入迷的
+    be rapt with joy
+#欣喜若狂
+    be rapt in one's work
+#专心致志地工作
+    listen with rapt attention/in rapt silence
+#全神贯注地/屏息肃静地倾听
+    sit with a rapt expression reading a book
+#专心坐着读书
+    be rapt to the seventh heaven
+#飘飘然置身于无上幸福
+    He sat in his sunny doorway, rapt in reverie.
+#他坐在酒满阳光的门口出神地冥想。
+
+exaltation: 英[ˌeɡzɔːlˈteɪʃ(ə)n] 美[ˌeɡzɔːlˈteɪʃ(ə)n]
+%n. 得意洋洋，欣喜；提拔；举起
+    The news of success filled them with exaltation.
+#成功的消息使他们兴高采烈。
+
+relent: 英[rɪˈlent] 美[rɪˈlent]
+$v. 变宽容，变温和；终于同意，不再反对；（天气）转晴，缓和，转好；<旧>使变温和，减轻
+%v. 再借（relend 的过去式和过去分词）
+    relent a little
+#有所收敛
+    They pressed the president to relent on previous plans.
+#他们敦促总统对之前那些计划采取较为宽容的立场。
+
+staid: 英[steɪd] 美[steɪd]
+%adj. 固定的；沉着的；沉静的；古板的，保守的
+    live a staid life
+#过着一成不变的生活
+    sb.'s staid opinion
+#某人的一贯主张
+    In an attempt to change its staid image, the newspaper has created a new section aimed at younger readers.
+#为了改变它的单调形象，这家报纸为年轻读者开设了新栏目。
+
+deadlock: 英[ˈdedlɒk] 美[ˈdedlɑːk]
+$n. 僵局，僵持；<英>插锁，嵌锁
+%v. 僵持，陷入僵局；<英>用插销锁锁死（房门）
+    break/resolve the deadlock
+#打破僵局
+    end in deadlock
+#陷入僵局
+    Deadlock over wage levels has prevented an agreement being reached.
+#在工资水平问题上的僵局阻碍了协议的达成。
+
+canard: 英[ˈkænɑːd] 美[ˈkænɑːrd]
+$n. 误传，谬传；谣言
+%n. （Canard）人名；（法）卡纳尔
+    The newspaper's editor denies he tried to increase sales by printing the canard.
+#报纸编辑否认他为了增加销售而刊登了那篇假新闻。
+
+polemic: 英[pəˈlemɪk] 美[pəˈlemɪk]
+$n. 争论，辩论文章；辩论者；辩论术，争辩学
+%adj. 争辩的，辩论的
+    The angry polemics will only serve to heighten the tension over this subject.
+#愤怒的论战只会增强这个问题的紧张程度。
+
+meek: 英[miːk] 美[miːk]
+$adj. 温顺的；谦恭的；驯服的
+%n. （Meek）人名；（英）米克
+    as meek as a lamb
+#像羔羊一样温顺
+    a meek river
+#水流和缓的河
+    When the report was published, various environmental groups criticized it for being too meek.
+#报告发表后，许多环保组织批评它过于温和。
+
+hobble: 英[ˈhɒb(ə)l] 美[ˈhɑːb(ə)l]
+$vi. 蹒跚；跛行
+$vt. 使跛行
+%n. 跛行步态
+    hobbles to one's ambition
+#实现雄心大志的阻碍
+    He twisted an ankle and hobbled off the field.
+#他扭了脚踝，一瘤一拐地下了球场。
+
+dank: 英[dæŋk] 美[dæŋk]
+$adj. 潮湿的；阴湿的；透水的
+%n. （Dank）人名；（英）丹克；（匈）东克
+    a dank cellar
+#阴冷的地窖
+    the dank evening air
+#傍晚阴湿的空气
+    For years they have had to live in a dank, dark basement flat.
+#多年来，他们一直不得不住在一个潮湿、黑暗的地下公寓里。
+
+senile: 英[ˈsiːnaɪl] 美[ˈsiːnaɪl]
+%adj. 高龄的；老衰的；高龄所致的
+    go senile
+#老了
+    senile weakness
+#年老体弱
+    senile diseases
+#老年病
+    care for one's senile mother
+#照顾年老体衰的母亲
+    She couldn't cope with her senile husband.
+#她无法应付年迈的丈夫。
+
+aristocracy: 英[ˌærɪˈstɒkrəsi] 美[ˌærɪˈstɑːkrəsi]
+%n. 贵族，贵族阶级；贵族统治
+    an aristocracy of government
+#贵族统治的政府
+    the aristocracy of the legal profession
+#法律界的上层人物
+    The aristocracy has/have sent its/their children to this school for centuries.
+#几百年来，贵族一直将其子弟送到这所学校。
+
+mope: 英[məʊp] 美[moʊp]
+$vi. 忧郁；百无聊赖
+$vt. 使忧郁；没精打采地度过
+%n. 忧郁的人；消沉
+    mope in an armchair
+#呆坐在扶手椅里郁郁沉思
+    be in one's mopes
+#情绪低落
+    He was driving me mad, moping about the house all day.
+#他快要把我弄疯了，整天在屋子里没精打采地走来走去。
+
+juxtapose: 英[ˌdʒʌkstəˈpəʊz] 美[ˌdʒʌkstəˈpoʊz]
+%vt. 并列；并置
+    juxtapose two adjectives
+#把两个形容词并置
+    Pain has been juxtaposed to pleasure as a form of emotion.
+#痛苦一直被视作一种情感形式与欢乐相提并论。
+
+sever: 英[ˈsevə(r)] 美[ˈsevər]
+%v. 切下，（使）断裂，割断；断绝（关系、联系等）
+    sever the rope
+#把绳子割断
+    sever a bough from the trunk
+#把树从树上割下
+    be severed from one's family
+#与家庭离散
+    sever all ties with a friend
+#与一个朋友断绝一切联系
+    sever diplomatic relations
+#断绝外交关系
+    sever in three parts
+#裂成三部分
+    It has been decided to sever aid to all countries involved in the conflict.
+#（它）已经决定中断对所有参与冲突的国家的援助。
+
+funky: 英[ˈfʌŋki] 美[ˈfʌŋki]
+%adj. 时髦的；畏缩的；恶臭的
+    a funky party
+#顶呱呱的宴会
+    She has some really funky clothes.
+#她有一些很时髦新潮的衣服。
+
+feint: 英[feɪnt] 美[feɪnt]
+$n. 佯攻；伪装；假动作
+$vi. 佯攻；假装
+$vt. 佯攻
+%adj. 假的
+    make a feint of withdrawing one's hand
+#装着把手抽回
+    military feints
+#军事上的佯攻
+    feint an attack
+#佯攻
+    feint at/upon enemy flanks
+#向军两翼发动佯攻
+    He did what a lot of politicians do. He feinted one way and intended to go the other.
+#他像很多政客一样，表面一套，心里一套。
+
+veritable: 英[ˈverɪtəb(ə)l] 美[ˈverɪtəb(ə)l]
+%adj. 真正的，名副其实的
+    veritable proof
+#确凿的证据
+    a veritable living museum of architecture
+#一座活生生的建筑艺术博物馆
+    My garden had become a veritable jungle by the time I came back from holiday.
+#我放假回来时我的花园已经成了一个不折不扣的丛林。
+
+formative: 英[ˈfɔːmətɪv] 美[ˈfɔːrmətɪv]
+$adj. 形成的；造型的；格式化的
+%n. 构词要素
+    the formative influence of parents
+#父母对孩子性格形成的影响
+    a child's formative years
+#儿童的性格形成时期
+    formative tissue
+#形成组织
+    The complicated negotiations are still in a formative stage.
+#复杂的谈判尚处于开始阶段。
+
+roughen: 英[ˈrʌfn] 美[ˈrʌf(ə)n]
+$vi. 变粗糙
+%vt. 使粗糙
+    roughen the surface
+#把表面打毛
+    Her hands were roughened by work.
+#她的双手由于干活而变得粗糙。
+
+funk: 英[fʌŋk] 美[fʌŋk]
+$n. 恐惧；怯懦；恐怖；臭味
+$vt. 害怕；畏缩；使闻到臭味
+$vi. 惊恐；畏缩；发出臭味
+%n. （Funk）人名；（瑞典、德、罗、匈、捷）丰克；（英）芬克
+    out of funk
+#由于胆怯
+    funk pain
+#怕痛
+    funk grasping a snake
+#害怕抓蛇
+    lose much of the funk
+#大大丧失了原有的乡土气
+    He's been in a real funk since she left him.
+#他自从她离开自己之后就陷人了沮丧。
+
+atrocious: 英[əˈtrəʊʃəs] 美[əˈtroʊʃəs]
+%adj. 凶恶的，残暴的；恶劣的，糟糕的
+    an atrocious film
+#糟糕透顶的电影
+    atrocious conditions
+#糟糕的状况
+    an atrocious criminal
+#凶恶的罪犯
+    the atrocious weapons of modern war
+#可怕的现代战争武器
+    atrocious weather
+#恶劣的天气
+    Terrorists are believed to have been responsible for this atrocious crime.
+#这桩残暴的罪行据信是恐怖分子干的。
+
+muniment: 英[ˈmjuːnɪmənt] 美[ˈmjʊnəmənt]
+%n. 契据；不动产所有权状；防卫手段
+    All those muniments were kept in the safe.
+#所有那些契据都保存在保险箱里。
+
+sophism: 英[ˈsɒfɪzəm] 美[ˈsɑːfɪzəm]
+%n. 诡辩
+    I wasn't taken in by his sophism.
+#我没有被他的诡辩骗倒。
+
+tinkle: 英[ˈtɪŋk(ə)l] 美[ˈtɪŋk(ə)l]
+$v. 发叮当（或清脆）声；撒尿（非正式）
+%n. 叮当声；电话通话；撒尿（非正式）
+    the silvery tinkle of a stream
+#小溪银铃般叮叮咚咚的流水声
+    tinkle out the hours
+#发出丁当的报时声
+    give sb. a tinkle
+#打电话给某人
+    The wind-chimes made a tinkling sound in the breeze.
+#风铃在微风中发出丁当声。
+
+rampage: 英[ræmˈpeɪdʒ] 美[ˈræmpeɪdʒ]
+$v. （尤指大群人）横冲直撞，暴跳
+%n. （大群人的）横冲直撞，暴怒
+    rage and rampage down one's office
+#在办公室里大吵大闹
+    on the/a rampage
+#横冲直撞，暴跳如雷;
+    an angry rhinoceros on the rampage
+#发狂的犀牛
+    Several people were injured in the rampage that followed the team's defeat.
+#在该队输球后发生的狂暴骚乱中有几个人受伤。
+
+sly: 英[slaɪ] 美[slaɪ]
+%adj. 狡猾的，狡诈的；诡秘的，心知肚明的；（动作）躲躲闪闪的，偷偷摸摸的；淘气的
+    as sly as a fox
+#狐狸般狡猾的
+    a sly answer
+#狡點的回答
+    a sly glance
+#偷偷的一瞥
+    a sly jest
+#俏皮的玩笑
+    exchange sly looks
+#交换会意的眼色
+    a sly trade 
+#非法买卖
+    on the sly
+#诡秘地，偷偷地
+    The sly man kept his inheritance secret for ten years.
+#那个诡秘的男人将遗产的秘密隐瞒了10年。
+
+rue: 英[ruː] 美[ruː]
+$v. 懊恼，后悔；悲伤
+$n. 后悔，悔恨；同情，怜悯；芸香；芸香科
+%n. （Rue）（美、法、挪）鲁（人名）
+    rue the loss of the opportunity
+#后悔失去了机会
+    You'll live to rue the day you said that to me.
+#总有一天你会后悔对我说了那些话的。
+
+digress: 英[daɪˈɡres] 美[daɪˈɡres]
+%vi. 离题；走向岔道
+    digress from the point at issue
+#从争议点岔开
+    I've digressed a little to explain the situation so far, so let me now recap.
+#我刚才稍微离题说明了今的情况，现在让我重述一下要点。
+
+quack: 英[kwæk] 美[kwæk]
+$n. （鸭子的）呱呱声，嘎嘎声；庸医，江湖郎中；<非正式>医生
+$v. （鸭子）呱呱叫，嘎嘎叫；<非正式>大声说蠢话，咭咭呱呱
+%adj. 江湖医生的
+    the quack of the radio
+#收音机发出的嘎嘎杂音
+    distinguish between the expert and the quack
+#区分真假行家
+    quack medicine
+#江湖骗子卖的假药
+    a quack doctor
+#冒牌医生
+    quack methods
+#江湖骗术;
+    a quack politician
+#招摇撞骗的政客
+    She went to see a quack who said he could cure her with some kind of strange herbs.
+#她去看了一个江湖医生，此人说能用某种奇怪的草药把她的病治好。
+
+poach: 英[pəʊtʃ] 美[poʊtʃ]
+%v. 水煮，炖，煨（尤指鱼）；煮（荷包蛋）；（侵入他人地界）偷猎；挖走（人员）；窃取，盗用（他人的想法）；（球类运动用语）抢打（同伴的球）；（动物用蹄）践踏（或踩烂）（草皮）；（土地因被践踏而）变得泥泞
+    poach on a farm
+#在一座农场上非法偷猎
+    poach members from other companies
+#从其他公司挖员工
+    poach for salmon
+#偷捕鲑鱼
+    poach ideas from sb.
+#将某人的思想窃为己有
+    Measures are being taken to try and stop elephants being poached for the ivory from their trunks.
+#（人们）正在采取措施以试图制止为获取象牙而偷猎大象。
+
+=======
+gabble: 英[ˈɡæb(ə)l] 美[ˈɡæb(ə)l]
+$v. 急促而含混不清地说
+%n. 急促不清的话
+    gabble away
+#没完没了地说废话
+    a gabble of conversation
+#一阵急促不清的谈话声
+    He gabbled his speech and I found parts of it quite difficult to understand.
+#他说得又急又不清楚，有些部分我很难听明白。
+
+chisel: 英[ˈtʃɪz(ə)l] 美[ˈtʃɪz(ə)l]
+$n. 凿子
+%v. 雕，刻，凿；（非正式）欺骗
+    chisel a block of stone into a statue
+#把一块石头雕成石像
+    chisel a post
+#骗得一个职位
+    chisel for good marks
+#为取得高分而作弊
+    chisel in
+#插话
+    Carl chiseled a figure out of marble.
+#卡尔在大理石上刻出一个人像。
+
+faze: 英[feɪz] 美[feɪz]
+%vt. 打扰；使狼狈；折磨
+    be fazed by failure
+#被失败弄得心烦意乱
+
+imbecile: 英[ˈɪmbəsiːl] 美[ˈɪmbəs(ə)l]
+$n. 低能者；愚蠢的人
+%adj. 低能的；愚笨的；虚弱的
+    look at sb. with an imbecile smile
+#带着傻笑看着某人
+    His imbecile clichés were uttered in my presence.
+#他的愚不可及的陈词滥调是当着我的面讲的。
+
+hardbitten: 英[ˌhɑːdˈbɪt(ə)n] 美[ˌhɑːrdˈbɪt(ə)n]
+%adj. 经过磨炼的，沉着老练的；顽强的
+    He is a cynical hardbitten journalist.
+#他是个愤世嫉俗又顽强务实的记者。
+
+badger: 英[ˈbædʒə(r)] 美[ˈbædʒər]
+$n. 獾；獾皮
+$vt. 纠缠不休；吵着要；烦扰
+$n. （Badger）獾州人（美国威斯康星州人的别称）
+%n. （Badger）巴杰（人名）
+    badger sb. with questions
+#缠住某人问问题
+    badger the witness out of his wits
+#把证人问得不知所措
+    She badgered her boyfriend into taking up regular exercise.
+#她缠着男友陪她做定期体育锻炼。
+
+virulent: 英[ˈvɪrələnt] 美[ˈvɪrələnt]
+%adj. 剧毒的；恶性的；有恶意的
+    virulent rumors
+#恶毒的谣言
+    the virulent sun
+#烈日
+    a virulent critic
+#尖刻的批评者
+    a virulent flu
+#致命的流感
+    Several virulent attacks have been made in the area.
+#这个地区发生了多次恶毒的攻击。
+
+fluke: 英[fluːk] 美[fluːk]
+$n. 侥幸；锚爪；意外的挫折
+$vt. 侥幸成功；意外受挫
+$vi. 侥幸成功
+%n. （Fluke）人名；（英）弗卢克
+    win by a fluke
+#侥幸获胜
+    It was a complete fluke that we just happened to be in the same place at the same time.
+#那完全是巧合，我们碰巧在同一时间待在同一地方。
+
+elated: 英[ɪˈleɪtɪd] 美[ɪˈleɪtɪd]
+$adj. 兴高采烈的；得意洋洋的
+%v. 使兴奋（elate 的过去式和过去分词）
+    She was elated at what she was able to achieve.
+#她对自己能够取得的成就感到得意。
+
+ordain: 英[ɔːˈdeɪn] 美[ɔːrˈdeɪn]
+$vt. 任命某人为牧师；授某人以圣职；（上帝、法律等）命令；注定
+%vi. 颁布命令
+    be ordained (as) priest
+#被授予牧师职
+    ordain a new type of government
+#规定新型政体
+    be ordained by fate
+#命里注定
+    There is a strong support here for the tough economic reforms ordained by the government.
+#这里的人们坚决支持政府下达命令进行强有力的经济改革。
+
+rapt: 英[ræpt] 美[ræpt]
+%adj. 全神贯注的；入迷的
+    be rapt with joy
+#欣喜若狂
+    be rapt in one's work
+#专心致志地工作
+    listen with rapt attention/in rapt silence
+#全神贯注地/屏息肃静地倾听
+    sit with a rapt expression reading a book
+#专心坐着读书
+    be rapt to the seventh heaven
+#飘飘然置身于无上幸福
+    He sat in his sunny doorway, rapt in reverie.
+#他坐在酒满阳光的门口出神地冥想。
+
+exaltation: 英[ˌeɡzɔːlˈteɪʃ(ə)n] 美[ˌeɡzɔːlˈteɪʃ(ə)n]
+%n. 得意洋洋，欣喜；提拔；举起
+    The news of success filled them with exaltation.
+#成功的消息使他们兴高采烈。
+
+relent: 英[rɪˈlent] 美[rɪˈlent]
+$v. 变宽容，变温和；终于同意，不再反对；（天气）转晴，缓和，转好；<旧>使变温和，减轻
+%v. 再借（relend 的过去式和过去分词）
+    relent a little
+#有所收敛
+    They pressed the president to relent on previous plans.
+#他们敦促总统对之前那些计划采取较为宽容的立场。
+
+staid: 英[steɪd] 美[steɪd]
+%adj. 固定的；沉着的；沉静的；古板的，保守的
+    live a staid life
+#过着一成不变的生活
+    sb.'s staid opinion
+#某人的一贯主张
+    In an attempt to change its staid image, the newspaper has created a new section aimed at younger readers.
+#为了改变它的单调形象，这家报纸为年轻读者开设了新栏目。
+
+deadlock: 英[ˈdedlɒk] 美[ˈdedlɑːk]
+$n. 僵局，僵持；<英>插锁，嵌锁
+%v. 僵持，陷入僵局；<英>用插销锁锁死（房门）
+    break/resolve the deadlock
+#打破僵局
+    end in deadlock
+#陷入僵局
+    Deadlock over wage levels has prevented an agreement being reached.
+#在工资水平问题上的僵局阻碍了协议的达成。
+
+canard: 英[ˈkænɑːd] 美[ˈkænɑːrd]
+$n. 误传，谬传；谣言
+%n. （Canard）人名；（法）卡纳尔
+    The newspaper's editor denies he tried to increase sales by printing the canard.
+#报纸编辑否认他为了增加销售而刊登了那篇假新闻。
+
+polemic: 英[pəˈlemɪk] 美[pəˈlemɪk]
+$n. 争论，辩论文章；辩论者；辩论术，争辩学
+%adj. 争辩的，辩论的
+    The angry polemics will only serve to heighten the tension over this subject.
+#愤怒的论战只会增强这个问题的紧张程度。
+
+meek: 英[miːk] 美[miːk]
+$adj. 温顺的；谦恭的；驯服的
+%n. （Meek）人名；（英）米克
+    as meek as a lamb
+#像羔羊一样温顺
+    a meek river
+#水流和缓的河
+    When the report was published, various environmental groups criticized it for being too meek.
+#报告发表后，许多环保组织批评它过于温和。
+
+hobble: 英[ˈhɒb(ə)l] 美[ˈhɑːb(ə)l]
+$vi. 蹒跚；跛行
+$vt. 使跛行
+%n. 跛行步态
+    hobbles to one's ambition
+#实现雄心大志的阻碍
+    He twisted an ankle and hobbled off the field.
+#他扭了脚踝，一瘤一拐地下了球场。
+
+dank: 英[dæŋk] 美[dæŋk]
+$adj. 潮湿的；阴湿的；透水的
+%n. （Dank）人名；（英）丹克；（匈）东克
+    a dank cellar
+#阴冷的地窖
+    the dank evening air
+#傍晚阴湿的空气
+    For years they have had to live in a dank, dark basement flat.
+#多年来，他们一直不得不住在一个潮湿、黑暗的地下公寓里。
+
+senile: 英[ˈsiːnaɪl] 美[ˈsiːnaɪl]
+%adj. 高龄的；老衰的；高龄所致的
+    go senile
+#老了
+    senile weakness
+#年老体弱
+    senile diseases
+#老年病
+    care for one's senile mother
+#照顾年老体衰的母亲
+    She couldn't cope with her senile husband.
+#她无法应付年迈的丈夫。
+
+aristocracy: 英[ˌærɪˈstɒkrəsi] 美[ˌærɪˈstɑːkrəsi]
+%n. 贵族，贵族阶级；贵族统治
+    an aristocracy of government
+#贵族统治的政府
+    the aristocracy of the legal profession
+#法律界的上层人物
+    The aristocracy has/have sent its/their children to this school for centuries.
+#几百年来，贵族一直将其子弟送到这所学校。
+
+mope: 英[məʊp] 美[moʊp]
+$vi. 忧郁；百无聊赖
+$vt. 使忧郁；没精打采地度过
+%n. 忧郁的人；消沉
+    mope in an armchair
+#呆坐在扶手椅里郁郁沉思
+    be in one's mopes
+#情绪低落
+    He was driving me mad, moping about the house all day.
+#他快要把我弄疯了，整天在屋子里没精打采地走来走去。
+
+juxtapose: 英[ˌdʒʌkstəˈpəʊz] 美[ˌdʒʌkstəˈpoʊz]
+%vt. 并列；并置
+    juxtapose two adjectives
+#把两个形容词并置
+    Pain has been juxtaposed to pleasure as a form of emotion.
+#痛苦一直被视作一种情感形式与欢乐相提并论。
+
+sever: 英[ˈsevə(r)] 美[ˈsevər]
+%v. 切下，（使）断裂，割断；断绝（关系、联系等）
+    sever the rope
+#把绳子割断
+    sever a bough from the trunk
+#把树从树上割下
+    be severed from one's family
+#与家庭离散
+    sever all ties with a friend
+#与一个朋友断绝一切联系
+    sever diplomatic relations
+#断绝外交关系
+    sever in three parts
+#裂成三部分
+    It has been decided to sever aid to all countries involved in the conflict.
+#（它）已经决定中断对所有参与冲突的国家的援助。
+
+funky: 英[ˈfʌŋki] 美[ˈfʌŋki]
+%adj. 时髦的；畏缩的；恶臭的
+    a funky party
+#顶呱呱的宴会
+    She has some really funky clothes.
+#她有一些很时髦新潮的衣服。
+
+feint: 英[feɪnt] 美[feɪnt]
+$n. 佯攻；伪装；假动作
+$vi. 佯攻；假装
+$vt. 佯攻
+%adj. 假的
+    make a feint of withdrawing one's hand
+#装着把手抽回
+    military feints
+#军事上的佯攻
+    feint an attack
+#佯攻
+    feint at/upon enemy flanks
+#向军两翼发动佯攻
+    He did what a lot of politicians do. He feinted one way and intended to go the other.
+#他像很多政客一样，表面一套，心里一套。
+
+veritable: 英[ˈverɪtəb(ə)l] 美[ˈverɪtəb(ə)l]
+%adj. 真正的，名副其实的
+    veritable proof
+#确凿的证据
+    a veritable living museum of architecture
+#一座活生生的建筑艺术博物馆
+    My garden had become a veritable jungle by the time I came back from holiday.
+#我放假回来时我的花园已经成了一个不折不扣的丛林。
+
+formative: 英[ˈfɔːmətɪv] 美[ˈfɔːrmətɪv]
+$adj. 形成的；造型的；格式化的
+%n. 构词要素
+    the formative influence of parents
+#父母对孩子性格形成的影响
+    a child's formative years
+#儿童的性格形成时期
+    formative tissue
+#形成组织
+    The complicated negotiations are still in a formative stage.
+#复杂的谈判尚处于开始阶段。
+
+roughen: 英[ˈrʌfn] 美[ˈrʌf(ə)n]
+$vi. 变粗糙
+%vt. 使粗糙
+    roughen the surface
+#把表面打毛
+    Her hands were roughened by work.
+#她的双手由于干活而变得粗糙。
+
+funk: 英[fʌŋk] 美[fʌŋk]
+$n. 恐惧；怯懦；恐怖；臭味
+$vt. 害怕；畏缩；使闻到臭味
+$vi. 惊恐；畏缩；发出臭味
+%n. （Funk）人名；（瑞典、德、罗、匈、捷）丰克；（英）芬克
+    out of funk
+#由于胆怯
+    funk pain
+#怕痛
+    funk grasping a snake
+#害怕抓蛇
+    lose much of the funk
+#大大丧失了原有的乡土气
+    He's been in a real funk since she left him.
+#他自从她离开自己之后就陷人了沮丧。
+
+atrocious: 英[əˈtrəʊʃəs] 美[əˈtroʊʃəs]
+%adj. 凶恶的，残暴的；恶劣的，糟糕的
+    an atrocious film
+#糟糕透顶的电影
+    atrocious conditions
+#糟糕的状况
+    an atrocious criminal
+#凶恶的罪犯
+    the atrocious weapons of modern war
+#可怕的现代战争武器
+    atrocious weather
+#恶劣的天气
+    Terrorists are believed to have been responsible for this atrocious crime.
+#这桩残暴的罪行据信是恐怖分子干的。
+
+muniment: 英[ˈmjuːnɪmənt] 美[ˈmjʊnəmənt]
+%n. 契据；不动产所有权状；防卫手段
+    All those muniments were kept in the safe.
+#所有那些契据都保存在保险箱里。
+
+sophism: 英[ˈsɒfɪzəm] 美[ˈsɑːfɪzəm]
+%n. 诡辩
+    I wasn't taken in by his sophism.
+#我没有被他的诡辩骗倒。
+
+tinkle: 英[ˈtɪŋk(ə)l] 美[ˈtɪŋk(ə)l]
+$v. 发叮当（或清脆）声；撒尿（非正式）
+%n. 叮当声；电话通话；撒尿（非正式）
+    the silvery tinkle of a stream
+#小溪银铃般叮叮咚咚的流水声
+    tinkle out the hours
+#发出丁当的报时声
+    give sb. a tinkle
+#打电话给某人
+    The wind-chimes made a tinkling sound in the breeze.
+#风铃在微风中发出丁当声。
+
+rampage: 英[ræmˈpeɪdʒ] 美[ˈræmpeɪdʒ]
+$v. （尤指大群人）横冲直撞，暴跳
+%n. （大群人的）横冲直撞，暴怒
+    rage and rampage down one's office
+#在办公室里大吵大闹
+    on the/a rampage
+#横冲直撞，暴跳如雷;
+    an angry rhinoceros on the rampage
+#发狂的犀牛
+    Several people were injured in the rampage that followed the team's defeat.
+#在该队输球后发生的狂暴骚乱中有几个人受伤。
+
+sly: 英[slaɪ] 美[slaɪ]
+%adj. 狡猾的，狡诈的；诡秘的，心知肚明的；（动作）躲躲闪闪的，偷偷摸摸的；淘气的
+    as sly as a fox
+#狐狸般狡猾的
+    a sly answer
+#狡點的回答
+    a sly glance
+#偷偷的一瞥
+    a sly jest
+#俏皮的玩笑
+    exchange sly looks
+#交换会意的眼色
+    a sly trade 
+#非法买卖
+    on the sly
+#诡秘地，偷偷地
+    The sly man kept his inheritance secret for ten years.
+#那个诡秘的男人将遗产的秘密隐瞒了10年。
+
+rue: 英[ruː] 美[ruː]
+$v. 懊恼，后悔；悲伤
+$n. 后悔，悔恨；同情，怜悯；芸香；芸香科
+%n. （Rue）（美、法、挪）鲁（人名）
+    rue the loss of the opportunity
+#后悔失去了机会
+    You'll live to rue the day you said that to me.
+#总有一天你会后悔对我说了那些话的。
+
+digress: 英[daɪˈɡres] 美[daɪˈɡres]
+%vi. 离题；走向岔道
+    digress from the point at issue
+#从争议点岔开
+    I've digressed a little to explain the situation so far, so let me now recap.
+#我刚才稍微离题说明了今的情况，现在让我重述一下要点。
+
+quack: 英[kwæk] 美[kwæk]
+$n. （鸭子的）呱呱声，嘎嘎声；庸医，江湖郎中；<非正式>医生
+$v. （鸭子）呱呱叫，嘎嘎叫；<非正式>大声说蠢话，咭咭呱呱
+%adj. 江湖医生的
+    the quack of the radio
+#收音机发出的嘎嘎杂音
+    distinguish between the expert and the quack
+#区分真假行家
+    quack medicine
+#江湖骗子卖的假药
+    a quack doctor
+#冒牌医生
+    quack methods
+#江湖骗术;
+    a quack politician
+#招摇撞骗的政客
+    She went to see a quack who said he could cure her with some kind of strange herbs.
+#她去看了一个江湖医生，此人说能用某种奇怪的草药把她的病治好。
+
+poach: 英[pəʊtʃ] 美[poʊtʃ]
+%v. 水煮，炖，煨（尤指鱼）；煮（荷包蛋）；（侵入他人地界）偷猎；挖走（人员）；窃取，盗用（他人的想法）；（球类运动用语）抢打（同伴的球）；（动物用蹄）践踏（或踩烂）（草皮）；（土地因被践踏而）变得泥泞
+    poach on a farm
+#在一座农场上非法偷猎
+    poach members from other companies
+#从其他公司挖员工
+    poach for salmon
+#偷捕鲑鱼
+    poach ideas from sb.
+#将某人的思想窃为己有
+    Measures are being taken to try and stop elephants being poached for the ivory from their trunks.
+#（人们）正在采取措施以试图制止为获取象牙而偷猎大象。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

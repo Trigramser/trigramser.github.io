@@ -1,0 +1,639 @@
+<<<<<<< HEAD
+down:
+    a down jacket
+#羽绒衫
+    The highest quality quilts and pillows are made of down.
+#最高级的被子和枕头都是由羽绒制成的。
+
+fleeting:
+    a fleeting smile
+#一闪即逝的笑容
+    a fleeting thought
+#闪现的念头
+    We caught a fleeting glimpse of the prince as he drove past.
+#王子驾车经过时我们只是匆匆警了一眼。
+
+apposite:
+    an apposite image
+#恰如其分的意象
+    suggestions apposite to the case
+#切合实情的建议
+    His use of epigrams is very apposite.
+#他的警句用得恰到好处。
+
+serrate:
+    I bought a knife with a serrate edge for cutting bread.
+#我买了一把切面包的有锯齿的刀。
+
+dilapidated:
+    a dilapidated house
+#倾塌的房屋
+    a dilapidated car
+#破旧的汽车
+    a dilapidated alley
+#陋巷
+    The room had no furniture in it apart from a dilapidated old bed.
+#房间里除了一张破床外，没有别的家具。
+
+narcotic:
+    a narcotic speech
+#使人昏昏欲睡的演讲
+    a narcotic clinic
+#戒毒诊所
+    The repetition of the same sound produces a narcotic effect.
+#同一种声音的重复具有催眠作用。
+
+emphatic:
+    an emphatic tone
+#强调的语气
+    the quick emphatic rain of summer
+#夏天急促的骤雨
+    an emphatic personality
+#坚强的个性
+    an emphatic success
+#引人目的成功
+    The minister has issued an emphatic rejection of the accusation.
+#部长针对指责发表了言辞坚定的否认声明。
+
+notoriety:
+    The organization has come into public notoriety through the misbehavior of its employees.
+#这个组织由于它的雇员行为不检已在公众中声名狼藉。
+
+imbue:
+    a skirt imbued with blood
+#渗透血污的裙子
+    Her work is imbued with the evolutionary spirit.
+#她的作品充满进化精神。
+
+impassioned:
+    make an impassioned speech
+#做慷慨激昂的演讲
+    an impassioned debate
+#激烈的辩论
+    an impassioned support
+#热烈的支持
+    The relatives of the dead have made an impassioned plea to have the bodies flown back to the country.
+#死者的亲属激烈地恳求将遗体空运回国。
+
+recluse:
+    a recluse monk/nun
+#隐居的僧人/修女
+    a barren and recluse region
+#荒凉偏僻的地区
+    She has led the life of a recluse since she retired.
+#她自退休后就过着深居简出的生活。
+
+decry:
+    She decried the appalling state of the film industry.
+#她强烈批评了电影业的低劣状况。
+
+reparable:
+    a reparable loss
+#可补偿的损失
+    a reparable injury
+#可治愈的伤
+    The old watch was not reparable.
+#那块旧表修不好了。
+
+decelerate:
+    decelerate wage and price demands
+#减缓对工资和物价的要求
+    The driver decelerated at the sight of the police car.
+#驾驶员一看到警车就减速了。
+
+inappropriate:
+    His casual behavior was wholly inappropriate for such a formal occasion.
+#他随便的举止完全不适合这样一个正式的场合。
+
+exhilarate:
+    exhilarate sb. to look forward to the future
+#鼓励某人朝前看
+    The sea breeze exhilarated him.
+#海上的微风使他精神振奋。
+
+ultrasonic:
+    the ultrasonic testing of metal
+#金属的超声波检测
+    Bats use ultrasonic waves to locate flying insects at night.
+#蝙蝠在晚上利用超声波确定飞行昆虫的位置。
+
+overpowering:
+    the overpowering smell of garlic
+#刺鼻的大蒜味
+    overpowering feelings of guilt
+#强烈的负罪感
+    an overpowering personality
+#强悍的个性
+    Firefighters were driven back by the overpowering heat of flames.
+#消防队员被火焰的强烈热浪逼退。
+
+equivocal:
+    equivocal words
+#歧义词
+    an equivocal outcome
+#未定的结果
+    equivocal conduct
+#可疑的行为
+    His words to the press were deliberately equivocal.
+#他对新闻界说的话故意说得模棱两可。
+
+drone:
+    the constant drone of flies
+#苍蝇不断的嗡嗡声
+    a boring old drone
+#令人讨厌的啰嗦老人
+    The drone of his voice made me feel sleepy.
+#他那低沉单调的嗓音使我昏昏欲睡。
+
+divisive:
+    a divisive issue
+#招致不和的事件
+    a divisive trade restriction
+#招致不和的贸易限制
+    The government tried to stamp out all divisive elements.
+#政府试图镇压一切分裂分子。
+
+slimy:
+    a slimy pond
+#满是黏泥的池塘
+    a slimy politician
+#卑鄙的政客
+    a slimy salesman
+#巴结讨好的推销员
+    I can't stand the slimy feel of seaweed underneath my feet.
+#我无法忍受脚下海藻黏糊糊的感觉。
+
+inoffensive:
+    an inoffensive animal
+#不伤人的动物
+    an inoffensive odor
+#不难闻的气味
+    a quiet inoffensive old man
+#安详随和的老人
+    It wasn't decorated as I would have done it but most of the house was inoffensive enough.
+#这房子不是按照我所希望的那样装饰的，但大部分地方并不令人讨厌。
+
+inexorable:
+    an inexorable fate
+#不可改变的命运
+    an inexorable trend
+#不可阻挡的趋势
+    inexorable bureaucrats
+#无动于衷的官僚
+    an inexorable opponent
+#无情的对手
+    Ageing can be thought of as a gradual, inexorable slide from summer into autumn and into winter.
+#衰老的过程是不可阻挡的，可以看作从夏天到秋天再到冬天的缓慢衰退。
+
+banter:
+    exchange banter
+#相互谈笑着
+    banter between husband and wife
+#夫妇之间的戏谑
+    He considered himself a master of witty banter.
+#他自认为是个开玩笑的好手。
+
+unpalatable:
+    unpalatable breakfast
+#难吃的早餐
+    unpalatable advice
+#逆耳的忠言
+    But facts must be faced, unpalatable as they are, and there simply isn't enough work for that number of staff.
+#虽然不中听，但是必须面对事实，现在是人浮于事。
+
+nebulous:
+    nebulous memory
+#模糊的记忆
+    in a nebulous way
+#含糊不清地
+    He has a nebulous idea about what he might like to do in the future but nothing firm.
+#他对将来做什么有些模糊的想法，但没有任何肯定的计划。
+
+hale:
+    hale and hearty
+#健壮的
+    She found her grandfather hale and hearty, walking five miles each day before breakfast.
+#她发现祖父很健壮，每天早饭前步行5英里。
+
+renounce:
+    renounce one's citizenship
+#声明放弃国籍
+    renounce one's claim to an inheritance
+#声明放弃对一笔遗产的继承权
+    renounce smoking and drinking
+#戒烟戒酒
+    renounce one's wicked son
+#与孽子脱离关系
+    Her ex-husband renounced his claim to the family house.
+#她的前夫声明放弃房屋的所有权。
+
+reimburse:
+    The insurance company reimbursed her for her loss of the fire.
+#保险公司赔偿了她的火灾损失。
+
+populous:
+    populous with tourists
+#挤满了旅游者
+    The most populous areas of the city are now in the suburbs.
+#这个城市现在人口最稠密的地方在郊区。
+
+impertinent:
+    a spoilt impertinent child
+#宠坏了的、没礼貌的孩子
+    be impertinent to one's superiors
+#对上司无礼
+    I hope he didn't think me impertinent when I asked him about his private life.
+#我希望当我询问他的私人生活时，他不认为我是不礼貌的。
+
+whimsical:
+    a whimsical artist
+#满脑子奇想的艺术家
+    a whimsical notion
+#离奇的想法
+    in whimsical moments
+#心血来潮的时刻
+    whimsical moods
+#反复无常的情绪
+    Despite his kindly, sometimes whimsical air, he was a shrewd observer of people.
+#尽管他有着和善、时而古怪的神态，但他对人的观察很敏锐。
+
+cognizant:
+    be fully cognizant of the difficulty
+#充分认识到困难
+    Regrettably, the lawyer said he was not cognizant of the facts.
+#令人遗憾的是，律师说他并不知道这些事实。
+
+dissect:
+    dissect a poem
+#详细分析一首诗
+    a dissecting table
+#解剖台
+    In biology classes at school we used to dissect rats.
+#过去在学校生物课上，我们经常解剖老鼠。
+
+irascible:
+    an irascible old man
+#性情暴躁的老头儿
+    an irascible reply
+#怒气冲冲的回答
+    He's becoming more and more irascible as he grows old.
+#随着年龄的增长，他的性情变得越来越暴躁。
+
+reticent:
+    a reticent woman
+#缄默的女人
+    be reticent on money matters
+#对钱财方面的事保持淡然
+    She is very reticent about her past.
+#她非常不愿意说起自己的过去。
+
+venerate:
+    Robert Burns is perhaps Scotland's most venerated poet.
+#罗伯特，彭斯可能是苏格兰最受崇敬的诗人。
+
+ethos:
+    the ethos of democracy
+#民主的思潮
+    the prevailing social ethos
+#流行的社会风气
+
+flounder:
+    flounder in ever graver economic difficulties
+#在越来越严重的经济困难中挣扎
+    flounder through a song
+#错误百出地唱完一首歌
+    He floundered in the deep water, trying desperately to reach the bank.
+#他在深水中挣扎着，拼命想游到岸边。
+
+capricious:
+    a cruel and capricious tyrant
+#残忍而变化无常的暴君
+    capricious weather
+#变幻莫测的天气
+    a capricious market
+#涨跌无常的市场
+    a capricious old man
+#任性的老人
+    She writes songs about capricious love and wounded hearts.
+#她写那些关于变幻无常的爱以及受伤心灵的歌曲。
+
+=======
+down:
+    a down jacket
+#羽绒衫
+    The highest quality quilts and pillows are made of down.
+#最高级的被子和枕头都是由羽绒制成的。
+
+fleeting:
+    a fleeting smile
+#一闪即逝的笑容
+    a fleeting thought
+#闪现的念头
+    We caught a fleeting glimpse of the prince as he drove past.
+#王子驾车经过时我们只是匆匆警了一眼。
+
+apposite:
+    an apposite image
+#恰如其分的意象
+    suggestions apposite to the case
+#切合实情的建议
+    His use of epigrams is very apposite.
+#他的警句用得恰到好处。
+
+serrate:
+    I bought a knife with a serrate edge for cutting bread.
+#我买了一把切面包的有锯齿的刀。
+
+dilapidated:
+    a dilapidated house
+#倾塌的房屋
+    a dilapidated car
+#破旧的汽车
+    a dilapidated alley
+#陋巷
+    The room had no furniture in it apart from a dilapidated old bed.
+#房间里除了一张破床外，没有别的家具。
+
+narcotic:
+    a narcotic speech
+#使人昏昏欲睡的演讲
+    a narcotic clinic
+#戒毒诊所
+    The repetition of the same sound produces a narcotic effect.
+#同一种声音的重复具有催眠作用。
+
+emphatic:
+    an emphatic tone
+#强调的语气
+    the quick emphatic rain of summer
+#夏天急促的骤雨
+    an emphatic personality
+#坚强的个性
+    an emphatic success
+#引人目的成功
+    The minister has issued an emphatic rejection of the accusation.
+#部长针对指责发表了言辞坚定的否认声明。
+
+notoriety:
+    The organization has come into public notoriety through the misbehavior of its employees.
+#这个组织由于它的雇员行为不检已在公众中声名狼藉。
+
+imbue:
+    a skirt imbued with blood
+#渗透血污的裙子
+    Her work is imbued with the evolutionary spirit.
+#她的作品充满进化精神。
+
+impassioned:
+    make an impassioned speech
+#做慷慨激昂的演讲
+    an impassioned debate
+#激烈的辩论
+    an impassioned support
+#热烈的支持
+    The relatives of the dead have made an impassioned plea to have the bodies flown back to the country.
+#死者的亲属激烈地恳求将遗体空运回国。
+
+recluse:
+    a recluse monk/nun
+#隐居的僧人/修女
+    a barren and recluse region
+#荒凉偏僻的地区
+    She has led the life of a recluse since she retired.
+#她自退休后就过着深居简出的生活。
+
+decry:
+    She decried the appalling state of the film industry.
+#她强烈批评了电影业的低劣状况。
+
+reparable:
+    a reparable loss
+#可补偿的损失
+    a reparable injury
+#可治愈的伤
+    The old watch was not reparable.
+#那块旧表修不好了。
+
+decelerate:
+    decelerate wage and price demands
+#减缓对工资和物价的要求
+    The driver decelerated at the sight of the police car.
+#驾驶员一看到警车就减速了。
+
+inappropriate:
+    His casual behavior was wholly inappropriate for such a formal occasion.
+#他随便的举止完全不适合这样一个正式的场合。
+
+exhilarate:
+    exhilarate sb. to look forward to the future
+#鼓励某人朝前看
+    The sea breeze exhilarated him.
+#海上的微风使他精神振奋。
+
+ultrasonic:
+    the ultrasonic testing of metal
+#金属的超声波检测
+    Bats use ultrasonic waves to locate flying insects at night.
+#蝙蝠在晚上利用超声波确定飞行昆虫的位置。
+
+overpowering:
+    the overpowering smell of garlic
+#刺鼻的大蒜味
+    overpowering feelings of guilt
+#强烈的负罪感
+    an overpowering personality
+#强悍的个性
+    Firefighters were driven back by the overpowering heat of flames.
+#消防队员被火焰的强烈热浪逼退。
+
+equivocal:
+    equivocal words
+#歧义词
+    an equivocal outcome
+#未定的结果
+    equivocal conduct
+#可疑的行为
+    His words to the press were deliberately equivocal.
+#他对新闻界说的话故意说得模棱两可。
+
+drone:
+    the constant drone of flies
+#苍蝇不断的嗡嗡声
+    a boring old drone
+#令人讨厌的啰嗦老人
+    The drone of his voice made me feel sleepy.
+#他那低沉单调的嗓音使我昏昏欲睡。
+
+divisive:
+    a divisive issue
+#招致不和的事件
+    a divisive trade restriction
+#招致不和的贸易限制
+    The government tried to stamp out all divisive elements.
+#政府试图镇压一切分裂分子。
+
+slimy:
+    a slimy pond
+#满是黏泥的池塘
+    a slimy politician
+#卑鄙的政客
+    a slimy salesman
+#巴结讨好的推销员
+    I can't stand the slimy feel of seaweed underneath my feet.
+#我无法忍受脚下海藻黏糊糊的感觉。
+
+inoffensive:
+    an inoffensive animal
+#不伤人的动物
+    an inoffensive odor
+#不难闻的气味
+    a quiet inoffensive old man
+#安详随和的老人
+    It wasn't decorated as I would have done it but most of the house was inoffensive enough.
+#这房子不是按照我所希望的那样装饰的，但大部分地方并不令人讨厌。
+
+inexorable:
+    an inexorable fate
+#不可改变的命运
+    an inexorable trend
+#不可阻挡的趋势
+    inexorable bureaucrats
+#无动于衷的官僚
+    an inexorable opponent
+#无情的对手
+    Ageing can be thought of as a gradual, inexorable slide from summer into autumn and into winter.
+#衰老的过程是不可阻挡的，可以看作从夏天到秋天再到冬天的缓慢衰退。
+
+banter:
+    exchange banter
+#相互谈笑着
+    banter between husband and wife
+#夫妇之间的戏谑
+    He considered himself a master of witty banter.
+#他自认为是个开玩笑的好手。
+
+unpalatable:
+    unpalatable breakfast
+#难吃的早餐
+    unpalatable advice
+#逆耳的忠言
+    But facts must be faced, unpalatable as they are, and there simply isn't enough work for that number of staff.
+#虽然不中听，但是必须面对事实，现在是人浮于事。
+
+nebulous:
+    nebulous memory
+#模糊的记忆
+    in a nebulous way
+#含糊不清地
+    He has a nebulous idea about what he might like to do in the future but nothing firm.
+#他对将来做什么有些模糊的想法，但没有任何肯定的计划。
+
+hale:
+    hale and hearty
+#健壮的
+    She found her grandfather hale and hearty, walking five miles each day before breakfast.
+#她发现祖父很健壮，每天早饭前步行5英里。
+
+renounce:
+    renounce one's citizenship
+#声明放弃国籍
+    renounce one's claim to an inheritance
+#声明放弃对一笔遗产的继承权
+    renounce smoking and drinking
+#戒烟戒酒
+    renounce one's wicked son
+#与孽子脱离关系
+    Her ex-husband renounced his claim to the family house.
+#她的前夫声明放弃房屋的所有权。
+
+reimburse:
+    The insurance company reimbursed her for her loss of the fire.
+#保险公司赔偿了她的火灾损失。
+
+populous:
+    populous with tourists
+#挤满了旅游者
+    The most populous areas of the city are now in the suburbs.
+#这个城市现在人口最稠密的地方在郊区。
+
+impertinent:
+    a spoilt impertinent child
+#宠坏了的、没礼貌的孩子
+    be impertinent to one's superiors
+#对上司无礼
+    I hope he didn't think me impertinent when I asked him about his private life.
+#我希望当我询问他的私人生活时，他不认为我是不礼貌的。
+
+whimsical:
+    a whimsical artist
+#满脑子奇想的艺术家
+    a whimsical notion
+#离奇的想法
+    in whimsical moments
+#心血来潮的时刻
+    whimsical moods
+#反复无常的情绪
+    Despite his kindly, sometimes whimsical air, he was a shrewd observer of people.
+#尽管他有着和善、时而古怪的神态，但他对人的观察很敏锐。
+
+cognizant:
+    be fully cognizant of the difficulty
+#充分认识到困难
+    Regrettably, the lawyer said he was not cognizant of the facts.
+#令人遗憾的是，律师说他并不知道这些事实。
+
+dissect:
+    dissect a poem
+#详细分析一首诗
+    a dissecting table
+#解剖台
+    In biology classes at school we used to dissect rats.
+#过去在学校生物课上，我们经常解剖老鼠。
+
+irascible:
+    an irascible old man
+#性情暴躁的老头儿
+    an irascible reply
+#怒气冲冲的回答
+    He's becoming more and more irascible as he grows old.
+#随着年龄的增长，他的性情变得越来越暴躁。
+
+reticent:
+    a reticent woman
+#缄默的女人
+    be reticent on money matters
+#对钱财方面的事保持淡然
+    She is very reticent about her past.
+#她非常不愿意说起自己的过去。
+
+venerate:
+    Robert Burns is perhaps Scotland's most venerated poet.
+#罗伯特，彭斯可能是苏格兰最受崇敬的诗人。
+
+ethos:
+    the ethos of democracy
+#民主的思潮
+    the prevailing social ethos
+#流行的社会风气
+
+flounder:
+    flounder in ever graver economic difficulties
+#在越来越严重的经济困难中挣扎
+    flounder through a song
+#错误百出地唱完一首歌
+    He floundered in the deep water, trying desperately to reach the bank.
+#他在深水中挣扎着，拼命想游到岸边。
+
+capricious:
+    a cruel and capricious tyrant
+#残忍而变化无常的暴君
+    capricious weather
+#变幻莫测的天气
+    a capricious market
+#涨跌无常的市场
+    a capricious old man
+#任性的老人
+    She writes songs about capricious love and wounded hearts.
+#她写那些关于变幻无常的爱以及受伤心灵的歌曲。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

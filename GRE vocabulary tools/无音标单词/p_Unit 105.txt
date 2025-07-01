@@ -1,0 +1,577 @@
+<<<<<<< HEAD
+sculpt:
+    a human figure sculpted in marble
+#大理石雕刻人像
+    The dripping water sculpted strange shapes out of the rocks.
+#滴水把石头雕刻成了各种奇怪的形状。
+
+remorseless:
+    a remorseless judge
+#无情的法官
+    a remorseless wind
+#刮个不停的风
+    a remorseless pursuit
+#不屈不挠的追求
+    They condemned his remorseless cruelty.
+#他们谴责他的无犯罪感的暴力行为。
+
+overawe:
+    overawe sb. into submission
+#威慑某人使其屈服
+    Some of the players were totally overawed by playing their first game at the national stadium.
+#有些选手第一次在国家体育场里比赛时被完全震住了。
+
+prudish:
+    She takes rather a prudish view of the issue.
+#她对那件事持有过分拘谨的态度
+
+specialization:
+    The lawyer said that he was unable to help us because our case fell outside his specialization.
+#律师说他没法帮我们，因为我们的案子超出了他的专业范围。
+
+defecate:
+    defecate a fact
+#澄清一个事实
+
+insubordinate:
+    insubordinate behavior
+#违抗命令的行为
+    The old school headteacher remembered him as an insubordinate child.
+#老校长记得他是个不听话的孩子。
+
+assessment:
+    Both their assessments of production costs were hopelessly inaccurate.
+#他们二人对生产成本的估计都是十分不精确的。
+
+trendsetter:
+    They are not only the world's biggest fast-food chain but also the industry's trendsetter.
+#他们不仅是世界上最大的快餐连锁店，而且还是该行业的标新立异者。
+
+storage:
+    meat packaged for storage
+#为贮藏而包装好的肉
+    place goods in storage
+#把货物贮藏起来
+    storage battery
+#蓄电池
+    A quarter of the crop may be lost in storage.
+#有四分之一的作物可能会在储存过程中损耗。
+
+rhetorical:
+    be engaged in a bitter rhetorical feud
+#陷入激烈的笔战
+    He made a few rhetorical changes in his lecture notes.
+#他在讲稿上做了若干遣词造句方面的改动。
+
+involvement:
+    have no direct involvement in politics
+#未直接卷入政治
+    invite sb.'s involvement
+#招致某人的介入
+    My personal involvement with her and her family is deep.
+#我个人同她和她的家庭瓜葛很深。
+
+unalterable:
+    an unalterable resolve
+#坚定不移的决心
+
+propitiate:
+    In those days people might sacrifice a sheep to propitiate an angry god.
+#在那个时候，人们会祭献一只羊以抚慰一个发怒的神。
+
+painstaking:
+    He was described by his colleagues as a painstaking journalist.
+#他被同事们描述为一个勤恳的记者。
+
+gymnastic:
+    The girls are taking part in the school's gymnastic display.
+#这些女孩子将参加学校的体操表演。
+
+conflagration:
+    a racial conflagration
+#种族冲突
+    the neon conflagration of the downtown center
+#市中心大片大片的電虹灯火
+
+    A conflagration razed the whole forest.
+#一场大火把整个森林夷为平地。
+
+indenture:
+    The land was worked by indentured laborers.
+#这土地是由契约工人耕种的。
+
+overtire:
+    After the operation, you must be careful not to overtire yourself.
+#手术后，你一定要当心不要使自己过度疲劳。
+
+perennial:
+    the perennial shortage of teachers
+#教师长期短缺
+    perennial efforts
+#反复的努力
+    We face the perennial problem of not having enough money.
+#我们面临资金不足这一长期问题。
+
+predispose:
+    His good manners predispose people to like him.
+#他的彬彬有礼使得人们未经结识就喜欢上了他。
+
+copious:
+    copious snow
+#大量的雪
+    a copious harvest
+#丰收
+    a copious rainfall
+#充足的降雨量
+    a copious talker
+#口若悬河的人
+    a copious writer
+#多产作家
+    The book has copious illustrations.
+#这本书有大量的插图。
+
+monotony:
+    The routine was the same every day, with only a visit from the children on Saturday to break the monotony.
+#每天做的事都相同，唯独在星期六孩子们来访时才打破这一单调。
+
+exhaustive:
+    an exhaustive analysis of the policy
+#对政策的透彻分析
+    an exhaustive inventory
+#详尽的存货清单
+    make an exhaustive study of
+#做透彻研究
+    They conducted an exhaustive investigation.
+#他们进行了一次彻底调查。
+
+convoluted:
+    a long, convoluted sentence
+#冗长晦涩的句子
+    a convoluted path
+#羊肠小道
+    The directions he gave us to his house took us along a very convoluted route.
+#他指给了我们去他家的路，这路绕来绕去，十分复杂。
+
+ingest:
+    ingest the ideas of philosophers
+#吸取哲学家们的思想
+    The chemicals can be poisonous if ingested.
+#这些化学药品如果被摄入体内就会产生毒性。
+
+placebo:
+    These small concessions have been made as a placebo to stop the workers making further demands.
+#这些小让步就像安慰剂一样，以免工人们提出更多的要求。
+
+untainted:
+    untainted character
+#清白的品格
+
+simulation:
+    a simulation of nuclear war
+#模拟核战争
+    simulation training
+#模拟训练
+    The viewers were unable to distinguish reality from simulation.
+#观众无法辨别真伪。
+
+untalented:
+    an untalented manager
+#无才华的经理
+
+unfeigned:
+    He showed unfeigned satisfaction with her success.
+#他对她取得的成就表示由衷的满意。
+
+anatomical:
+    anatomical drawings
+#解剖图
+    anatomical physiology
+#解剖生理学
+
+repugnance:
+    an expression of utter repugnance
+#深恶痛绝的表情
+    a repugnance between statements
+#各种说法不一致
+    She turned away from him in repugnance. 
+#她非常反感地转过头去不看他。
+
+redirect:
+    redirect a letter
+#改寄信件
+    redirect one's energies
+#把精力转移到其他方面
+    All traffic is being redirected to avoid this stretch of highway.
+#车辆都被指挥改道以绕开这一段公路。
+
+ossify:
+    Years of easy success has ossified the company's thinking.
+#几年来轻易取得成功使这家公司的思想变得僵化。
+
+proselytize:
+    He was remarkable for the proselytizing zeal with which he wrote his pamphlets.
+#他因改变他人信仰的狂热而出名，他出于这种狂热写了许多小册子。
+
+irredeemable:
+    an irredeemable flaw
+#无法补救的缺陷
+    an irredeemable loss
+#无法挽回的损失
+    an irredeemable scoundrel
+#不可救药的流氓
+    Such stubbornness to refuse to help is not courage but irredeemable stupidity.
+#固执地拒绝帮助不是勇气，而是无可救药的愚蠢。
+
+steady:
+    steady prices
+#稳定的价格
+    be steady in one's principle
+#坚持自己的原则
+    a steady mind
+#沉着冷静的头脑
+    His calm confidence steadied the nervous passengers.
+#他的镇定自若使紧张不安的旅客冷静了下来。
+
+discursive:
+    His discursive argument was very convincing.
+#他的推理很令人信服。
+
+appetizing:
+    The appetizing smell of freshly baked bread filled the whole house.
+#新鲜出炉的面包的诱人香味弥漫了整个屋子。
+
+reactionary:
+    The reactionary forces in the industry are preventing its progress.
+#该行业中的保守势力阻碍它的发展。
+
+encapsulate:
+    It is very difficult to encapsulate the story of the revolution in a single one-hour documentary.
+#很难在一部仅仅一小时的纪录片里概括这场革命的故事。
+
+anomalous:
+    be anomalous in one's likes and dislikes
+#好恶与常人不同
+    They are forced with the anomalous situation of hiring more hands but having less work done.
+#他们面临着多雇人手反致完成的工作量减少的反常局面。
+
+acrimonious:
+    an acrimonious answer
+#尖刻的答复
+    acrimonious negotiation
+#激烈的谈判
+    The whole issue provoked an acrimonious debate which lasted all afternoon.
+#整个问题激起了一场历时整个下午的激烈辩论。
+
+venal:
+    venal votes
+#用金钱买来的选票
+    venal judges
+#贪赃枉法的法官
+    These company leaders were both venal and incompetent.
+#这些公司上层腐败无能。
+
+annotate:
+    It is an elaborately annotated text.
+#这是一篇有详尽注释的课文。
+
+simplistic:
+    The scientist's explanation of the results of the study was considered to be simplistic.
+#科学家对研究结果的解释被认为太过简化了。
+
+blockbuster:
+    a blockbuster novel
+#一部轰动一时的小说
+    a shop doing blockbuster business
+#一家生意兴隆的商店
+    He is one of the biggest blockbusters of all of them.
+#他是他们所有人中最了不起的一个。
+
+=======
+sculpt:
+    a human figure sculpted in marble
+#大理石雕刻人像
+    The dripping water sculpted strange shapes out of the rocks.
+#滴水把石头雕刻成了各种奇怪的形状。
+
+remorseless:
+    a remorseless judge
+#无情的法官
+    a remorseless wind
+#刮个不停的风
+    a remorseless pursuit
+#不屈不挠的追求
+    They condemned his remorseless cruelty.
+#他们谴责他的无犯罪感的暴力行为。
+
+overawe:
+    overawe sb. into submission
+#威慑某人使其屈服
+    Some of the players were totally overawed by playing their first game at the national stadium.
+#有些选手第一次在国家体育场里比赛时被完全震住了。
+
+prudish:
+    She takes rather a prudish view of the issue.
+#她对那件事持有过分拘谨的态度
+
+specialization:
+    The lawyer said that he was unable to help us because our case fell outside his specialization.
+#律师说他没法帮我们，因为我们的案子超出了他的专业范围。
+
+defecate:
+    defecate a fact
+#澄清一个事实
+
+insubordinate:
+    insubordinate behavior
+#违抗命令的行为
+    The old school headteacher remembered him as an insubordinate child.
+#老校长记得他是个不听话的孩子。
+
+assessment:
+    Both their assessments of production costs were hopelessly inaccurate.
+#他们二人对生产成本的估计都是十分不精确的。
+
+trendsetter:
+    They are not only the world's biggest fast-food chain but also the industry's trendsetter.
+#他们不仅是世界上最大的快餐连锁店，而且还是该行业的标新立异者。
+
+storage:
+    meat packaged for storage
+#为贮藏而包装好的肉
+    place goods in storage
+#把货物贮藏起来
+    storage battery
+#蓄电池
+    A quarter of the crop may be lost in storage.
+#有四分之一的作物可能会在储存过程中损耗。
+
+rhetorical:
+    be engaged in a bitter rhetorical feud
+#陷入激烈的笔战
+    He made a few rhetorical changes in his lecture notes.
+#他在讲稿上做了若干遣词造句方面的改动。
+
+involvement:
+    have no direct involvement in politics
+#未直接卷入政治
+    invite sb.'s involvement
+#招致某人的介入
+    My personal involvement with her and her family is deep.
+#我个人同她和她的家庭瓜葛很深。
+
+unalterable:
+    an unalterable resolve
+#坚定不移的决心
+
+propitiate:
+    In those days people might sacrifice a sheep to propitiate an angry god.
+#在那个时候，人们会祭献一只羊以抚慰一个发怒的神。
+
+painstaking:
+    He was described by his colleagues as a painstaking journalist.
+#他被同事们描述为一个勤恳的记者。
+
+gymnastic:
+    The girls are taking part in the school's gymnastic display.
+#这些女孩子将参加学校的体操表演。
+
+conflagration:
+    a racial conflagration
+#种族冲突
+    the neon conflagration of the downtown center
+#市中心大片大片的電虹灯火
+
+    A conflagration razed the whole forest.
+#一场大火把整个森林夷为平地。
+
+indenture:
+    The land was worked by indentured laborers.
+#这土地是由契约工人耕种的。
+
+overtire:
+    After the operation, you must be careful not to overtire yourself.
+#手术后，你一定要当心不要使自己过度疲劳。
+
+perennial:
+    the perennial shortage of teachers
+#教师长期短缺
+    perennial efforts
+#反复的努力
+    We face the perennial problem of not having enough money.
+#我们面临资金不足这一长期问题。
+
+predispose:
+    His good manners predispose people to like him.
+#他的彬彬有礼使得人们未经结识就喜欢上了他。
+
+copious:
+    copious snow
+#大量的雪
+    a copious harvest
+#丰收
+    a copious rainfall
+#充足的降雨量
+    a copious talker
+#口若悬河的人
+    a copious writer
+#多产作家
+    The book has copious illustrations.
+#这本书有大量的插图。
+
+monotony:
+    The routine was the same every day, with only a visit from the children on Saturday to break the monotony.
+#每天做的事都相同，唯独在星期六孩子们来访时才打破这一单调。
+
+exhaustive:
+    an exhaustive analysis of the policy
+#对政策的透彻分析
+    an exhaustive inventory
+#详尽的存货清单
+    make an exhaustive study of
+#做透彻研究
+    They conducted an exhaustive investigation.
+#他们进行了一次彻底调查。
+
+convoluted:
+    a long, convoluted sentence
+#冗长晦涩的句子
+    a convoluted path
+#羊肠小道
+    The directions he gave us to his house took us along a very convoluted route.
+#他指给了我们去他家的路，这路绕来绕去，十分复杂。
+
+ingest:
+    ingest the ideas of philosophers
+#吸取哲学家们的思想
+    The chemicals can be poisonous if ingested.
+#这些化学药品如果被摄入体内就会产生毒性。
+
+placebo:
+    These small concessions have been made as a placebo to stop the workers making further demands.
+#这些小让步就像安慰剂一样，以免工人们提出更多的要求。
+
+untainted:
+    untainted character
+#清白的品格
+
+simulation:
+    a simulation of nuclear war
+#模拟核战争
+    simulation training
+#模拟训练
+    The viewers were unable to distinguish reality from simulation.
+#观众无法辨别真伪。
+
+untalented:
+    an untalented manager
+#无才华的经理
+
+unfeigned:
+    He showed unfeigned satisfaction with her success.
+#他对她取得的成就表示由衷的满意。
+
+anatomical:
+    anatomical drawings
+#解剖图
+    anatomical physiology
+#解剖生理学
+
+repugnance:
+    an expression of utter repugnance
+#深恶痛绝的表情
+    a repugnance between statements
+#各种说法不一致
+    She turned away from him in repugnance. 
+#她非常反感地转过头去不看他。
+
+redirect:
+    redirect a letter
+#改寄信件
+    redirect one's energies
+#把精力转移到其他方面
+    All traffic is being redirected to avoid this stretch of highway.
+#车辆都被指挥改道以绕开这一段公路。
+
+ossify:
+    Years of easy success has ossified the company's thinking.
+#几年来轻易取得成功使这家公司的思想变得僵化。
+
+proselytize:
+    He was remarkable for the proselytizing zeal with which he wrote his pamphlets.
+#他因改变他人信仰的狂热而出名，他出于这种狂热写了许多小册子。
+
+irredeemable:
+    an irredeemable flaw
+#无法补救的缺陷
+    an irredeemable loss
+#无法挽回的损失
+    an irredeemable scoundrel
+#不可救药的流氓
+    Such stubbornness to refuse to help is not courage but irredeemable stupidity.
+#固执地拒绝帮助不是勇气，而是无可救药的愚蠢。
+
+steady:
+    steady prices
+#稳定的价格
+    be steady in one's principle
+#坚持自己的原则
+    a steady mind
+#沉着冷静的头脑
+    His calm confidence steadied the nervous passengers.
+#他的镇定自若使紧张不安的旅客冷静了下来。
+
+discursive:
+    His discursive argument was very convincing.
+#他的推理很令人信服。
+
+appetizing:
+    The appetizing smell of freshly baked bread filled the whole house.
+#新鲜出炉的面包的诱人香味弥漫了整个屋子。
+
+reactionary:
+    The reactionary forces in the industry are preventing its progress.
+#该行业中的保守势力阻碍它的发展。
+
+encapsulate:
+    It is very difficult to encapsulate the story of the revolution in a single one-hour documentary.
+#很难在一部仅仅一小时的纪录片里概括这场革命的故事。
+
+anomalous:
+    be anomalous in one's likes and dislikes
+#好恶与常人不同
+    They are forced with the anomalous situation of hiring more hands but having less work done.
+#他们面临着多雇人手反致完成的工作量减少的反常局面。
+
+acrimonious:
+    an acrimonious answer
+#尖刻的答复
+    acrimonious negotiation
+#激烈的谈判
+    The whole issue provoked an acrimonious debate which lasted all afternoon.
+#整个问题激起了一场历时整个下午的激烈辩论。
+
+venal:
+    venal votes
+#用金钱买来的选票
+    venal judges
+#贪赃枉法的法官
+    These company leaders were both venal and incompetent.
+#这些公司上层腐败无能。
+
+annotate:
+    It is an elaborately annotated text.
+#这是一篇有详尽注释的课文。
+
+simplistic:
+    The scientist's explanation of the results of the study was considered to be simplistic.
+#科学家对研究结果的解释被认为太过简化了。
+
+blockbuster:
+    a blockbuster novel
+#一部轰动一时的小说
+    a shop doing blockbuster business
+#一家生意兴隆的商店
+    He is one of the biggest blockbusters of all of them.
+#他是他们所有人中最了不起的一个。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

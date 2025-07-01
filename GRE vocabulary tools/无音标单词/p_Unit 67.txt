@@ -1,0 +1,613 @@
+<<<<<<< HEAD
+nonconformist:
+    nonconformist behavior
+#不随主流的行为
+
+claustrophobic:
+    If you are claustrophobic, a psychologist may be able to help you.
+#如果你有幽闭恐惧症，心理学家可能会帮助你。
+
+unmitigated:
+    unmitigated hostility
+#未缓和的敌意
+    an unmitigated scoundrel
+#彻头彻尾的恶棍
+    unmitigated evil
+#十足的邪恶
+    tell the unmitigated truth
+#说出全部真相
+    For the people living near it, the new road has been an unmitigated disaster.
+#对住在附近的人们来说，这条新公路成为十足的灾难。
+
+subservient:
+    be completely subservient to one's wife
+#对妻子俯首帖耳
+    The attempt to look for a consensus of opinion was regarded as weak and subservient.
+#寻求意见一致的企图被认为是软弱和屈从的。
+
+refrigerate:
+    Milk can be kept 3 days if it is well refrigerated.
+#如果冷藏得当，牛奶可以储存3天。
+
+operable:
+    a highly operable machine
+#可灵活操作的机器
+    an operable law
+#可实施的法律
+    an operable patient
+#可动手术的病人
+
+monochromatic:
+    The light from a laser is monochromatic.
+#激光器发出的光是单色的。
+
+interrogation:
+    Many refugees have reported seeing mass executions and brutal interrogations.
+#许多难民说目睹了大规模的处决和粗暴的审问。
+    police interrogation
+#警方的询问
+    under interrogation
+#受询问
+
+apportion:
+    apportion different duties
+#分派不同的任务
+    apportion expenses among ten men
+#由十个人分摊费用
+    apportion one's income
+#分配收入
+    When we know how much is the profit, we can apportion the money among us.
+#当我们知道利润是多少时，我们就可以把钱分给大家。
+
+aesthetically:
+    I like objects to be both financial and aesthetically pleasing.
+#我喜欢既实用又美观的东西。
+
+accustom:
+    with one's accustomed ease
+#以惯常的轻松
+    become accustomed to the messy ways
+#习惯了杂乱无章的方式
+    accustom oneself to rising early
+#习惯于早起
+    It'll take time for me to accustom myself to the changes.
+#我需要时间使自己习惯于这些变化。
+
+hypochondriac:
+    He has a certain hypochondriac tendency to exaggerate his illness.
+#他有种疑病症倾向，喜欢夸大自己的毛病。
+
+subtractive:
+    a subtractive error in spelling
+#拼写中的遗漏错误
+
+inconclusive:
+    an inconclusive victory
+#非决定性的胜利
+    inconclusive evidence
+#无说服力的证据
+    an inconclusive debate
+#无结论的争辩
+    The attack was launched after inconclusive negotiations.
+#在谈判毫无进展之后（一方）发动了进攻。
+
+diagnostic:
+    Diagnostic techniques for the condition are improving all the time.
+#这种疾病的诊断技术一直在改进。
+
+disingenuous:
+    a disingenuous manner
+#不够真诚的态度
+    a disingenuous look
+#不够真诚的表情
+    It would be disingenuous to claim that this is great art.
+#称这是艺术现宝是言不由衷。
+
+iconography:
+    The iconography of this picture is fascinating.
+#这幅画的意象非常发人深省。
+
+palliative:
+    We want long-term solutions, not short-term palliatives.
+#我们需要的是长期的解决方案，而不是短期的缓和之计。
+
+volley:
+    a volley of bullets
+#子弹的齐发
+    a volley of words
+#一连串的话
+    The spokesman was hit with a volley of facts and figures.
+#发言人被问到一连串的数字与事实。
+
+herbivorous:
+    Kangaroos are herbivorous animals.
+#袋鼠是食草动物。
+
+vagary:
+    the vagaries of a dream
+#梦中奇想
+    the vagaries of fashion
+#怪异多变的时尚
+    the vagaries of the weather
+#天气变化无常
+
+equine:
+    equine diseases
+#马的疾病
+
+demure:
+    a demure glance
+#装作害羞的一瞥
+    Two demure girls sat quiet and still next to their mother in the church.
+#在教堂里，两个端庄的女孩安静地坐在母亲身边。
+
+rejoin:
+    rejoin the two wires
+#将两根金属丝重新连接起来
+    The members of the family were rejoined at the Mid-Autumn Festival.
+#全家人在中秋节团聚。
+
+pontifical:
+    say in a pontifical tone
+#以自命不凡的口气说
+
+comestible:
+    cheesy comestibles
+#奶酪食品
+
+neurology:
+    He trained in neurology at the National Hospital for Nervous Diseases.
+#他在国立神经内科医院接受神经病学的训练。
+
+osseous:
+    osseous tissue
+#骨组织
+
+
+bob:
+    bob a bow
+#鞠了一躬
+    bob up
+#突然出现
+    He smiled his greetings and bobbed his head.
+#他微笑着打招呼并点了点头。
+
+tightfisted:
+    You won't get a drink from Gillian. She is too tightfisted.
+#你别想着吉莉安请你喝酒。她太吝啬了。
+
+potpourri:
+    The film is a potpourri of excitement and violence.
+#这部电影是一部充满刺激和暴力的大杂烩。
+
+resurgence:
+    prompt a resurgence of nationalism at home
+#促使国内民族主义的复苏
+    national resurgence
+#国家的复兴
+
+jockey:
+    an elevator jockey
+#电梯工
+    jockey for power
+#谋权
+    He jockeyed himself into office.
+#他施展手腕谋得了官职。
+
+fissile:
+    fissile crystals
+#易碎的水晶制品
+    fissile materials
+#可裂变物质
+
+gulch:
+    Heavy rain cut deep gulches into the side of the hill.
+#大雨在山坡上留下了深深的沟壑。
+
+progenitor:
+    Marx was the progenitor of communism.
+#马克思是共产主义的创始人。
+
+unbend:
+    unbend one's mind
+#使心请放松
+    a wire hard to unbend
+#难以弄直的铁丝
+    The bow unbends when the string is loosened.
+#弦一松，弓就变直了。
+
+recherche:
+    a book in a recherche format
+#一本版式精美的书;
+    recherche language
+#矫揉造作的语言
+    a recherche meal
+#异国风味的饭食
+
+philately:
+    I became fond of philately three years ago.
+#三年前我喜欢上了集邮。
+
+iniquity:
+    forgive one's iniquities
+#宽恕某人的恶劣行径
+    The iniquity of the treatment aroused general indignation.
+#这种不公正的待遇引起了普遍的愤慨。
+
+teetotal:
+    Three-quarters of the interviewed doctors said they were teetotal.
+#四分之三的受访医生说他们滴酒不沾。
+
+hangdog:
+    hangdog expressions
+#羞恼的表情
+
+mangle:
+    He mangled the music by terrible playing.
+#他胡乱演奏糟踢了乐曲。
+
+ecumenical:
+    ecumenical unity
+#全世界基督教的团结
+
+opalescence:
+    the opalescence of the scales of a fish
+#鱼的乳白色的鳞片
+
+decant:
+    decant wine
+#倒出酒
+    Visitors had to decant themselves from the buses into small boats for the tour.
+#由于旅程的缘故，游客们不得不走下公共汽车改成坐小船。
+
+renunciation:
+    Her ex-husband claimed his renunciation to the family house.
+#她的前夫声明放弃房屋的所有权。
+
+debonair:
+    a debonair, well-dressed young man
+#温文尔雅、衣着时尚的青年
+
+smut:
+    The curtains were gray with city smuts.
+#窗被城市里的烟灰染成灰色了。
+
+renege:
+    renege on a promise
+#违背诺言
+    renege on one's responsibilities
+#失职
+
+lachrymose:
+    a lachrymose little girl
+#一个爱哭的小女孩
+
+dormancy:
+    Some volcanoes have eruptive cycles followed by stretches of dormancy.
+#有些火山在喷发周期之后有持续的休眠期。
+
+besmirch:
+    besmirch one's reputation
+#玷污某人的名誉
+
+intermittent:
+    Tomorrow will be sunny in the south, but there will be intermittent rain in the north.
+#明天南部地区晴朗，但北部地区会有间歇雨。
+
+tremulous:
+    the tremulous flutter of leaves
+#树叶的颤例
+    He is tremulous to unfavorable criticism.
+#他听到逆耳的批评容易激动。
+
+aggrieve:
+    She felt aggrieved at not being chosen into the team.
+#没有人选队伍，她感到很委屈。
+
+=======
+nonconformist:
+    nonconformist behavior
+#不随主流的行为
+
+claustrophobic:
+    If you are claustrophobic, a psychologist may be able to help you.
+#如果你有幽闭恐惧症，心理学家可能会帮助你。
+
+unmitigated:
+    unmitigated hostility
+#未缓和的敌意
+    an unmitigated scoundrel
+#彻头彻尾的恶棍
+    unmitigated evil
+#十足的邪恶
+    tell the unmitigated truth
+#说出全部真相
+    For the people living near it, the new road has been an unmitigated disaster.
+#对住在附近的人们来说，这条新公路成为十足的灾难。
+
+subservient:
+    be completely subservient to one's wife
+#对妻子俯首帖耳
+    The attempt to look for a consensus of opinion was regarded as weak and subservient.
+#寻求意见一致的企图被认为是软弱和屈从的。
+
+refrigerate:
+    Milk can be kept 3 days if it is well refrigerated.
+#如果冷藏得当，牛奶可以储存3天。
+
+operable:
+    a highly operable machine
+#可灵活操作的机器
+    an operable law
+#可实施的法律
+    an operable patient
+#可动手术的病人
+
+monochromatic:
+    The light from a laser is monochromatic.
+#激光器发出的光是单色的。
+
+interrogation:
+    Many refugees have reported seeing mass executions and brutal interrogations.
+#许多难民说目睹了大规模的处决和粗暴的审问。
+    police interrogation
+#警方的询问
+    under interrogation
+#受询问
+
+apportion:
+    apportion different duties
+#分派不同的任务
+    apportion expenses among ten men
+#由十个人分摊费用
+    apportion one's income
+#分配收入
+    When we know how much is the profit, we can apportion the money among us.
+#当我们知道利润是多少时，我们就可以把钱分给大家。
+
+aesthetically:
+    I like objects to be both financial and aesthetically pleasing.
+#我喜欢既实用又美观的东西。
+
+accustom:
+    with one's accustomed ease
+#以惯常的轻松
+    become accustomed to the messy ways
+#习惯了杂乱无章的方式
+    accustom oneself to rising early
+#习惯于早起
+    It'll take time for me to accustom myself to the changes.
+#我需要时间使自己习惯于这些变化。
+
+hypochondriac:
+    He has a certain hypochondriac tendency to exaggerate his illness.
+#他有种疑病症倾向，喜欢夸大自己的毛病。
+
+subtractive:
+    a subtractive error in spelling
+#拼写中的遗漏错误
+
+inconclusive:
+    an inconclusive victory
+#非决定性的胜利
+    inconclusive evidence
+#无说服力的证据
+    an inconclusive debate
+#无结论的争辩
+    The attack was launched after inconclusive negotiations.
+#在谈判毫无进展之后（一方）发动了进攻。
+
+diagnostic:
+    Diagnostic techniques for the condition are improving all the time.
+#这种疾病的诊断技术一直在改进。
+
+disingenuous:
+    a disingenuous manner
+#不够真诚的态度
+    a disingenuous look
+#不够真诚的表情
+    It would be disingenuous to claim that this is great art.
+#称这是艺术现宝是言不由衷。
+
+iconography:
+    The iconography of this picture is fascinating.
+#这幅画的意象非常发人深省。
+
+palliative:
+    We want long-term solutions, not short-term palliatives.
+#我们需要的是长期的解决方案，而不是短期的缓和之计。
+
+volley:
+    a volley of bullets
+#子弹的齐发
+    a volley of words
+#一连串的话
+    The spokesman was hit with a volley of facts and figures.
+#发言人被问到一连串的数字与事实。
+
+herbivorous:
+    Kangaroos are herbivorous animals.
+#袋鼠是食草动物。
+
+vagary:
+    the vagaries of a dream
+#梦中奇想
+    the vagaries of fashion
+#怪异多变的时尚
+    the vagaries of the weather
+#天气变化无常
+
+equine:
+    equine diseases
+#马的疾病
+
+demure:
+    a demure glance
+#装作害羞的一瞥
+    Two demure girls sat quiet and still next to their mother in the church.
+#在教堂里，两个端庄的女孩安静地坐在母亲身边。
+
+rejoin:
+    rejoin the two wires
+#将两根金属丝重新连接起来
+    The members of the family were rejoined at the Mid-Autumn Festival.
+#全家人在中秋节团聚。
+
+pontifical:
+    say in a pontifical tone
+#以自命不凡的口气说
+
+comestible:
+    cheesy comestibles
+#奶酪食品
+
+neurology:
+    He trained in neurology at the National Hospital for Nervous Diseases.
+#他在国立神经内科医院接受神经病学的训练。
+
+osseous:
+    osseous tissue
+#骨组织
+
+
+bob:
+    bob a bow
+#鞠了一躬
+    bob up
+#突然出现
+    He smiled his greetings and bobbed his head.
+#他微笑着打招呼并点了点头。
+
+tightfisted:
+    You won't get a drink from Gillian. She is too tightfisted.
+#你别想着吉莉安请你喝酒。她太吝啬了。
+
+potpourri:
+    The film is a potpourri of excitement and violence.
+#这部电影是一部充满刺激和暴力的大杂烩。
+
+resurgence:
+    prompt a resurgence of nationalism at home
+#促使国内民族主义的复苏
+    national resurgence
+#国家的复兴
+
+jockey:
+    an elevator jockey
+#电梯工
+    jockey for power
+#谋权
+    He jockeyed himself into office.
+#他施展手腕谋得了官职。
+
+fissile:
+    fissile crystals
+#易碎的水晶制品
+    fissile materials
+#可裂变物质
+
+gulch:
+    Heavy rain cut deep gulches into the side of the hill.
+#大雨在山坡上留下了深深的沟壑。
+
+progenitor:
+    Marx was the progenitor of communism.
+#马克思是共产主义的创始人。
+
+unbend:
+    unbend one's mind
+#使心请放松
+    a wire hard to unbend
+#难以弄直的铁丝
+    The bow unbends when the string is loosened.
+#弦一松，弓就变直了。
+
+recherche:
+    a book in a recherche format
+#一本版式精美的书;
+    recherche language
+#矫揉造作的语言
+    a recherche meal
+#异国风味的饭食
+
+philately:
+    I became fond of philately three years ago.
+#三年前我喜欢上了集邮。
+
+iniquity:
+    forgive one's iniquities
+#宽恕某人的恶劣行径
+    The iniquity of the treatment aroused general indignation.
+#这种不公正的待遇引起了普遍的愤慨。
+
+teetotal:
+    Three-quarters of the interviewed doctors said they were teetotal.
+#四分之三的受访医生说他们滴酒不沾。
+
+hangdog:
+    hangdog expressions
+#羞恼的表情
+
+mangle:
+    He mangled the music by terrible playing.
+#他胡乱演奏糟踢了乐曲。
+
+ecumenical:
+    ecumenical unity
+#全世界基督教的团结
+
+opalescence:
+    the opalescence of the scales of a fish
+#鱼的乳白色的鳞片
+
+decant:
+    decant wine
+#倒出酒
+    Visitors had to decant themselves from the buses into small boats for the tour.
+#由于旅程的缘故，游客们不得不走下公共汽车改成坐小船。
+
+renunciation:
+    Her ex-husband claimed his renunciation to the family house.
+#她的前夫声明放弃房屋的所有权。
+
+debonair:
+    a debonair, well-dressed young man
+#温文尔雅、衣着时尚的青年
+
+smut:
+    The curtains were gray with city smuts.
+#窗被城市里的烟灰染成灰色了。
+
+renege:
+    renege on a promise
+#违背诺言
+    renege on one's responsibilities
+#失职
+
+lachrymose:
+    a lachrymose little girl
+#一个爱哭的小女孩
+
+dormancy:
+    Some volcanoes have eruptive cycles followed by stretches of dormancy.
+#有些火山在喷发周期之后有持续的休眠期。
+
+besmirch:
+    besmirch one's reputation
+#玷污某人的名誉
+
+intermittent:
+    Tomorrow will be sunny in the south, but there will be intermittent rain in the north.
+#明天南部地区晴朗，但北部地区会有间歇雨。
+
+tremulous:
+    the tremulous flutter of leaves
+#树叶的颤例
+    He is tremulous to unfavorable criticism.
+#他听到逆耳的批评容易激动。
+
+aggrieve:
+    She felt aggrieved at not being chosen into the team.
+#没有人选队伍，她感到很委屈。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

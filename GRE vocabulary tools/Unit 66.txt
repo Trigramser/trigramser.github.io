@@ -1,0 +1,773 @@
+<<<<<<< HEAD
+inducible: 英[ɪnˈdjuːsɪb(ə)l] 美[ɪnˈduːsəb(ə)l]
+%adj. 可诱导的；可导致的
+    eukaryotic inducible expression systems: advances in research
+#真和细胞诱导表达系统研究进展
+
+codify: 英[ˈkəʊdɪfaɪ] 美[ˈkɑːdɪfaɪ]
+%vt. 编纂；将……编成法典；编成法典
+    Most of the laws of war have been codified in international agreement.
+#大多数关于战争的法典被编进了国际公约中。
+
+habituate: 英[həˈbɪtʃuˌeɪt] 美[həˈbɪtʃuˌeɪt]
+$vt. 使习惯于，使熟悉于
+%vi. 上瘾
+    habituate oneself to/be habituated to a solitary life
+#习惯于独居的生活
+    The responsibility of command has habituated him to making quick decisions.
+#指挥的职责已使他习惯于当机立断。
+
+distortion: 英[dɪˈstɔːʃ(ə)n] 美[dɪˈstɔːrʃ(ə)n]
+%n. 歪曲，曲解；变形，失真
+    These accusations are outrageous distortions of the truth.
+#这些指控是对真相的严重歪曲。
+
+titular: 英[ˈtɪtjələ(r)] 美[ˈtɪtʃələr]
+$adj. 有名无实的；有头衔的；标题的
+%n. 有称号或头衔的人；只有名义的人
+    It is already agreed that Mr. Brown will be that titular head of the new bank.
+#已经达成一致意见，布朗先生将作为新银行的名义上的负责人。
+
+temperate: 英[ˈtempərət] 美[ˈtempərət]
+%adj. 温带的，（气候）温和的；（行为）温和的，有节制的
+    a very temperate man
+#性格非常温和的人
+    be temperate in eating and drinking
+#饮食有节制
+    temperate climate
+#温和的气候
+    Temperate criticism can encourage people to make improvements.
+#适度批评能激励人上进。
+
+predestine: 英[priːˈdestɪn] 美[priːˈdestɪn]
+%v. 预定……的命运；命定，注定
+    It seems the expedition is predestined to fail because there have been so many problems.
+#看来这次远征注定失败，因为已经出现了这么多问题。
+
+sun-bronzed: 英[sʌn brɒnzd] 美[sʌn brɑːnzd]
+%adj. 被太阳晒成古铜色的
+    The old farmer's face is sun-bronzed.
+#这位老农夫的脸被晒成了古铜色。
+
+quarantine: 英[ˈkwɒrəntiːn] 美[ˈkwɔːrəntiːn]
+$n. 隔离期，检疫期；隔离，检疫
+%v. 对（动物或人）进行检疫隔离
+    The horse had to spend several days in quarantine when it reached Britain.
+#这匹马到达英国时，要接受数天的隔离检疫。
+
+trepidation: 英[ˌtrepɪˈdeɪʃ(ə)n] 美[ˌtrepɪˈdeɪʃ(ə)n]
+%n. 恐惧；惊恐；忧虑；颤抖
+    We view future developments with some trepidation.
+#我们惴惴不安地展望未来的动态。
+
+verse: 英[vɜːs] 美[vɜːrs]
+$n. 诗，韵文；诗节，（歌曲的）节；（《圣经》或其他经文的）节，句；（赞美诗的）独唱部，小组唱部
+%v. <古>作诗
+    prose and verse
+#散文与诗歌
+    satirical verse
+#讽刺的诗句
+    His publications include a book of short stories and several volumes of verse.
+#他出版的书包括一部短篇小说集和几部诗集。
+
+propensity: 英[prəˈpensəti] 美[prəˈpensəti]
+%n. <正式>倾向，习性
+    She has inherited from her mother a propensity to talk too much.
+#她从母亲那里继承了说话太多的毛病。
+
+hiatus: 英[haɪˈeɪtəs] 美[haɪˈeɪtəs]
+%n. 裂缝，空隙，脱漏部分；间断；元音连读
+    The company expects to resume production of air conditioners again after a three-month hiatus.
+#该公司期待在中断三个月后再次恢复空调的生产。
+
+uncommunicative: 英[ˌʌnkəˈmjuːnɪkətɪv] 美[ˌʌnkəˈmjuːnɪkətɪv]
+%adj. 沉默寡言的，拘礼的
+    He's been so uncommunicative recently.
+#他最近寡言少语。
+
+downplay: 英[ˌdaʊnˈpleɪ] 美[ˌdaʊnˈpleɪ]
+%v. 对……轻描淡写；轻视，贬低
+    The government has been trying to downplay the crisis.
+#政府试图对危机进行低调处理。
+
+genus: 英[ˈdʒiːnəs] 美[ˈdʒiːnəs]
+%n. 类，种；[生物] 属
+    Oranges and lemons belong to the same genus.
+#橙子和柠檬均为柑橘属植物。
+
+atheist: 英[ˈeɪθiɪst] 美[ˈeɪθiɪst]
+%n. 无神论者
+    She has been a confirmed atheist for many years.
+#许多年来，她一直是坚定的无神论者。
+
+unspotted: 英[ʌnˈspɒtɪd] 美[ˌʌnˈspɑːtɪd]
+%adj. 清白的；无瑕疵的；无污点的
+    unspotted honor
+#未被玷污的荣誉
+    unspotted reputation
+#清白的名声
+    an unspotted breed dog
+#一种身上无斑点的狗
+
+aspiring: 英[əˈspaɪərɪŋ] 美[əˈspaɪərɪŋ]
+$adj. 有抱负的；渴望从事……的
+%v. 渴望，有志于（aspire 的现在分词）
+    Aspiring ballet dancers need to be strong as well as agile.
+#想要薪露头角的芭蕾舞演员需要具有强健的体格和敏捷的身段。
+
+textured: 英[ˈtekstʃəd] 美[ˈtekstʃərd]
+$adj. 起纹理的；质地不平的；（艺术、文学、音乐等）有神韵的
+%v. 使具浮凸结构（或特征）（texture 的过去式和过去分词）
+    a textured fabric
+#有条纹的织物
+    coarse-textured sand
+#粗质沙
+    a rich textured poem
+#富有律的诗
+
+paltry: 英[ˈpɔːltri] 美[ˈpɔːltri]
+%adj. 不足取的；无价值的；琐碎的；卑鄙的
+    The company offered Jim a paltry sum which he refused.
+#公司给了吉姆一笔微不足道的钱，但他拒绝了。
+
+tentatively: 英[ˈtentətɪvli] 美[ˈtentətɪvli]
+%adv. 暂时地；试验性地
+    She spoke tentatively scared that someone might interrupt her or criticize her ideas.
+#她迟疑不决地说着，生怕有人会打断她或批评她的想法。
+
+culinary: 英[ˈkʌlɪnəri] 美[ˈkʌlɪneri]
+%adj. <正式>烹饪的，食物的
+    culinary implements
+#烹饪用具
+    culinary skills
+#烹饪技能
+    My culinary skills are rather limited, I am afraid.
+#我恐怕不太会烧菜。
+
+vainglorious: 英[ˌveɪnˈɡlɔːriəs] 美[ˌveɪnˈɡlɔːriəs]
+%adj. 虚荣心强的；非常自负的
+    He was rather vainglorious about his own war record.
+#他非常喜欢吹嘘自己的战争经历。
+
+unconvinced: 英[ˌʌnkənˈvɪnst] 美[ˌʌnkənˈvɪnst]
+%adj. 不信服的；怀疑的
+    remain unconvinced
+#仍然不信服
+
+ineptitude: 英[ɪˈneptɪtjuːd] 美[ɪˈneptɪtuːd]
+%n. 不适当，不合适；不称职；愚笨；缺乏技巧，无能；笨拙
+    The newspaper editorial correctly pointed out the government's ineptitude in dealing with the crisis.
+#报纸社论正确地指出了该政府在处理危机中的无能。
+
+impolitic: 英[ɪmˈpɒlətɪk] 美[ɪmˈpɑːlətɪk]
+%adj. 失策的；不明智的
+    Fiona was coming to the party so I thought it impolitic to her ex-husband.
+#菲奥娜要来参加聚会，所以我认为这对她的前夫是不妥当的。
+
+ephemeral: 英[ɪˈfemərəl] 美[ɪˈfemərəl]
+$adj. 短暂的；（主指植物）短生的，短命的
+%n. 只生存一天的事物；短生植物
+    ephemeral pleasures
+#短暂的欢乐
+    ephemeral gains
+#短暂的收益
+    Fame in the world of rock and pop is largely ephemeral.
+#在摇滚音乐和流行音乐界，名声往往是县花一现的。
+
+promulgate: 英[ˈprɒm(ə)lɡeɪt] 美[ˈprɑːm(ə)lɡeɪt]
+%v. 传播，宣扬（思想或信仰）；发布，颁布（新法律）
+    promulgate a constitution
+#颁布宪法
+    promulgate a decree
+#公布法令
+    The new law was finally promulgated in the autumn of last year.
+#新法律最终在去年秋天须布。
+
+dearth: 英[dɜːθ] 美[dɜːrθ]
+%n. 缺乏；<古>食物短缺，饥荒
+    a dearth of corn
+#谷物供应不足
+    in time of dearth
+#荒年时
+    The factory's closure has been blamed on the dearth of orders for its products during the recession.
+#工厂的倒闭被归咎于是经济衰退期间缺少产品订单。
+
+idiosyncratic: 英[ˌɪdiəsɪŋˈkrætɪk] 美[ˌɪdiəsɪŋˈkrætɪk]
+%adj. 独特的，怪癖的
+    The film, 5 hours long, is directed in his usual idiosyncratic style.
+#这部长达5小时的电影是以他一贯的独特风格导演的。
+
+individualism: 英[ˌɪndɪˈvɪdʒuəlɪzəm] 美[ˌɪndɪˈvɪdʒuəlɪzəm]
+%n. 利己主义，个人主义；个性，独特气质；（国家对经济、政治的）不干涉主义，自由放任主义
+    Because of individualism of her work, I think we should accept this candidate.
+#由于她工作中的个人主义，我认为我们应该接受这个候选人。
+
+tardy: 英[ˈtɑːdi] 美[ˈtɑːrdi]
+$adj. 缓慢的，迟缓的；迟到的
+$n. 迟到
+%n. （Tardy）人名；（英、法、捷、匈）塔迪
+    a tardy reader
+#阅读速度缓慢的读者
+    be tardy for/to school
+#上学迟到
+    Dinner was somewhat delayed on account of David's rather tardy arrival.
+#由于戴维的迟到，晚餐推迟了一会儿。
+
+transitional: 英[trænˈzɪʃən(ə)l] 美[trænˈzɪʃən(ə)l]
+%adj. 暂时的，转型的，过渡的；（建筑）过渡式样的
+    a transitional government
+#过渡政府
+    We had a transitional period of two or three months.
+#我们有两三个月的过渡时期。
+
+irate: 英[aɪˈreɪt] 美[aɪˈreɪt]
+%adj. 生气的；发怒的
+    He received some irate phone calls from customers.
+#他接到顾客打来的一些愤怒的电话。
+
+sequential: 英[sɪˈkwenʃ(ə)l] 美[sɪˈkwenʃ(ə)l]
+%adj. 连续的，按顺序的；依次发生的，相继发生的；（主计算机）顺序的
+    The book constitutes the first sequential exposition of events.
+#这本书是对这些事件的第一次连续的阐述。
+
+clannish: 英[ˈklænɪʃ] 美[ˈklænɪʃ]
+%adj. 氏族的；党派的；排他的
+    We moved to the area two years ago and found the clannish quality of village life hard to cope with.
+#两年前我们搬到这个地区，发现乡村生活的排外性很难应付。
+
+stilted: 英[ˈstɪltɪd] 美[ˈstɪltɪd]
+$adj. 不自然的；呆板的；僵硬的
+%v. 使踩高跷（stilt 的过去分词）
+    He writes in a formal and rather stilted style.
+#他用一种正式又相当生硬的文体写作。
+
+crossfire: 英[ˈkrɒsfaɪə(r)] 美[ˈkrɔːsfaɪər]
+%n. 交叉火力；串报
+    One boat of refugees was caught in the naval crossfire and sank.
+#一艘难民船在海上交火中被困并沉没。
+
+suppliant: 英[ˈsʌpliənt] 美[ˈsʌpliənt]
+$n. 恳求者，哀求者
+%adj. 恳求的，哀求的
+    suppliant words
+#恳求的话语
+    He's a suppliant sinner seeking forgiveness.
+#他是个恳求宽恕的罪人。
+
+bygone: 英[ˈbaɪɡɒn] 美[ˈbaɪɡɔːn]
+$adj. 过去的
+%n. 过去的事
+    an England of bygone days
+#昔日的英国
+    a bygone era
+#消逝的时代
+    let bygones be bygones
+#过去的就让它过去吧
+    The empty factories are relics of a bygone age, no longer required by the modern world.
+#空荡荡的工厂是过往时代的遗留物，不再是现代世界所需要的。
+
+allusive: 英[əˈluːsɪv] 美[əˈluːsɪv]
+%adj. 暗指的；引用典故的
+    His music is witty, ironic and allusive.
+#他的音乐诙谐讥讽，并充满了暗示。
+
+awestruck: 英[ˈɔːstrʌk] 美[ˈɔːstrʌk]
+%adj. 敬畏的；惊奇不已的（等于 awestricken）
+    an awestruck admirer
+#充满崇敬之情的钦佩者
+    awestruck visitors
+#充满崇敬之情的参观者
+    I could tell she was impressed from the awestruck expression on her face.
+#从她脸上敬畏的表情，我可以看出她深受感动。
+
+conifer: 英[ˈkɒnɪfə(r)] 美[ˈkɑːnɪfər]
+%n. 针叶树；[植] 松柏科植物
+    Conifers are an important source of timber for manufacture of furniture.
+#针叶树是一种重要的木材来源，用于制造家具。
+
+unwonted: 英[ʌnˈwəʊntɪd] 美[ʌnˈwoʊntɪd]
+%adj. 不习惯的；不寻常的；少有的
+    speak with unwonted severity
+#以不同寻常的严峻口气说话
+    a word of unwonted kindness
+#异常亲切的话
+    unwonted silence
+#少有的寂静
+    He spoke with unwonted enthusiasm.
+#他讲话显得出人意料地热心。
+
+scavenge: 英[ˈskævɪndʒ] 美[ˈskævɪndʒ]
+$vt. 以……为食；打扫；排除废气
+%vi. 清除污物；打扫
+    scavenge through rubbish dumps for old furniture
+#搜寻垃圾堆捡回旧家具
+    scavenge a street
+#清扫街道
+    The flood has left villagers and animals desperately scavenging for food.
+#洪水使村民和牲畜不顾一切地寻找食物。
+
+disavow: 英[ˌdɪsəˈvaʊ] 美[ˌdɪsəˈvaʊ]
+%vt. 否认，否定；抵赖；拒绝对……的责任
+    disavow a rumor
+#否认传言
+    disavow a proposal
+#拒绝接受一项建议
+    He publicly disavowed any connection with terrorist groups.
+#他公开否认与恐怖集团存在干系。
+
+septic: 英[ˈseptɪk] 美[ˈseptɪk]
+$adj. 败血症的；[医] 脓毒性的；腐败的
+%n. 腐烂物
+    septic pneumonia
+#肺脓肿
+    She had her ears pierced and one of them went septic.
+#她打了耳洞，然后其中一个耳朵受感染了。
+
+soundproof: 英[ˈsaʊndpruːf] 美[ˈsaʊndpruːf]
+$adj. 隔音的
+%vt. 使隔音；给装以隔音设备
+    a soundproof room
+#隔音房间
+    a soundproof studio
+#隔音演播室
+    a soundproof door
+#隔音门
+    The walls of our house were so soundproof that we very rarely heard our neighbors.
+#我们屋子的墙壁隔音效果很强，几乎听不见邻居的声音。
+
+unseemly: 英[ʌnˈsiːmli] 美[ʌnˈsiːmli]
+$adj. 不适宜的；不得体的
+%adv. 不得体地；不适宜地
+    an unseemly act
+#不得体的举动
+    at the most unseemly hour
+#在最不合适的时间
+    It used to be thought unseemly for women to go to church without a hat.
+#过去女于不戴帽子到教堂去做礼拜被认为不合礼仪。
+
+thorny: 英[ˈθɔːni] 美[ˈθɔːrni]
+%adj. 多刺的，带刺的；棘手的，麻烦的
+    a thorny bush
+#多刺灌木丛
+    a thorny ground
+#荆棘丛
+    tread a thorny path
+#走在布满荆棘的小道上
+    a thorny predicament
+#令人苦恼的困境
+    Rose bushes are often thorny.
+#蕃薇丛往往有刺。
+
+interconnect: 英[ˌɪntəkəˈnekt] 美[ˌɪntərkəˈnekt]
+$vt. 使互相连接
+%vi. 互相联系
+    Everything in the world interconnects somehow.
+#世界上一切事物都以某种方式互相联系。
+
+overdraw: 英[ˌəʊvəˈdrɔː] 美[ˌoʊvərˈdrɔː]
+$vt. 透支；拉过度；夸张
+%vi. 透支；夸张
+    overdraw at a bank
+#在银行透支
+    If you overdraw your account without making arrangements to do so you get charged a very high interest rate.
+#如果你未做安排而透支你的账户，你会被收取很高的利息率。
+
+distend: 英[dɪˈstend] 美[dɪˈstend]
+$vt. 使……膨胀；使……扩张
+%vi. 扩张；膨胀
+    distended veins
+#扩张的血管
+    distended ego
+#膨胀的自我
+    distended profits
+#激增的利润
+    In the refugee center we saw children whose bellies were distended because of lack of food.
+#在难民中心，我们看到许多孩子的肚子由于缺乏食物浮肿了。
+
+=======
+inducible: 英[ɪnˈdjuːsɪb(ə)l] 美[ɪnˈduːsəb(ə)l]
+%adj. 可诱导的；可导致的
+    eukaryotic inducible expression systems: advances in research
+#真和细胞诱导表达系统研究进展
+
+codify: 英[ˈkəʊdɪfaɪ] 美[ˈkɑːdɪfaɪ]
+%vt. 编纂；将……编成法典；编成法典
+    Most of the laws of war have been codified in international agreement.
+#大多数关于战争的法典被编进了国际公约中。
+
+habituate: 英[həˈbɪtʃuˌeɪt] 美[həˈbɪtʃuˌeɪt]
+$vt. 使习惯于，使熟悉于
+%vi. 上瘾
+    habituate oneself to/be habituated to a solitary life
+#习惯于独居的生活
+    The responsibility of command has habituated him to making quick decisions.
+#指挥的职责已使他习惯于当机立断。
+
+distortion: 英[dɪˈstɔːʃ(ə)n] 美[dɪˈstɔːrʃ(ə)n]
+%n. 歪曲，曲解；变形，失真
+    These accusations are outrageous distortions of the truth.
+#这些指控是对真相的严重歪曲。
+
+titular: 英[ˈtɪtjələ(r)] 美[ˈtɪtʃələr]
+$adj. 有名无实的；有头衔的；标题的
+%n. 有称号或头衔的人；只有名义的人
+    It is already agreed that Mr. Brown will be that titular head of the new bank.
+#已经达成一致意见，布朗先生将作为新银行的名义上的负责人。
+
+temperate: 英[ˈtempərət] 美[ˈtempərət]
+%adj. 温带的，（气候）温和的；（行为）温和的，有节制的
+    a very temperate man
+#性格非常温和的人
+    be temperate in eating and drinking
+#饮食有节制
+    temperate climate
+#温和的气候
+    Temperate criticism can encourage people to make improvements.
+#适度批评能激励人上进。
+
+predestine: 英[priːˈdestɪn] 美[priːˈdestɪn]
+%v. 预定……的命运；命定，注定
+    It seems the expedition is predestined to fail because there have been so many problems.
+#看来这次远征注定失败，因为已经出现了这么多问题。
+
+sun-bronzed: 英[sʌn brɒnzd] 美[sʌn brɑːnzd]
+%adj. 被太阳晒成古铜色的
+    The old farmer's face is sun-bronzed.
+#这位老农夫的脸被晒成了古铜色。
+
+quarantine: 英[ˈkwɒrəntiːn] 美[ˈkwɔːrəntiːn]
+$n. 隔离期，检疫期；隔离，检疫
+%v. 对（动物或人）进行检疫隔离
+    The horse had to spend several days in quarantine when it reached Britain.
+#这匹马到达英国时，要接受数天的隔离检疫。
+
+trepidation: 英[ˌtrepɪˈdeɪʃ(ə)n] 美[ˌtrepɪˈdeɪʃ(ə)n]
+%n. 恐惧；惊恐；忧虑；颤抖
+    We view future developments with some trepidation.
+#我们惴惴不安地展望未来的动态。
+
+verse: 英[vɜːs] 美[vɜːrs]
+$n. 诗，韵文；诗节，（歌曲的）节；（《圣经》或其他经文的）节，句；（赞美诗的）独唱部，小组唱部
+%v. <古>作诗
+    prose and verse
+#散文与诗歌
+    satirical verse
+#讽刺的诗句
+    His publications include a book of short stories and several volumes of verse.
+#他出版的书包括一部短篇小说集和几部诗集。
+
+propensity: 英[prəˈpensəti] 美[prəˈpensəti]
+%n. <正式>倾向，习性
+    She has inherited from her mother a propensity to talk too much.
+#她从母亲那里继承了说话太多的毛病。
+
+hiatus: 英[haɪˈeɪtəs] 美[haɪˈeɪtəs]
+%n. 裂缝，空隙，脱漏部分；间断；元音连读
+    The company expects to resume production of air conditioners again after a three-month hiatus.
+#该公司期待在中断三个月后再次恢复空调的生产。
+
+uncommunicative: 英[ˌʌnkəˈmjuːnɪkətɪv] 美[ˌʌnkəˈmjuːnɪkətɪv]
+%adj. 沉默寡言的，拘礼的
+    He's been so uncommunicative recently.
+#他最近寡言少语。
+
+downplay: 英[ˌdaʊnˈpleɪ] 美[ˌdaʊnˈpleɪ]
+%v. 对……轻描淡写；轻视，贬低
+    The government has been trying to downplay the crisis.
+#政府试图对危机进行低调处理。
+
+genus: 英[ˈdʒiːnəs] 美[ˈdʒiːnəs]
+%n. 类，种；[生物] 属
+    Oranges and lemons belong to the same genus.
+#橙子和柠檬均为柑橘属植物。
+
+atheist: 英[ˈeɪθiɪst] 美[ˈeɪθiɪst]
+%n. 无神论者
+    She has been a confirmed atheist for many years.
+#许多年来，她一直是坚定的无神论者。
+
+unspotted: 英[ʌnˈspɒtɪd] 美[ˌʌnˈspɑːtɪd]
+%adj. 清白的；无瑕疵的；无污点的
+    unspotted honor
+#未被玷污的荣誉
+    unspotted reputation
+#清白的名声
+    an unspotted breed dog
+#一种身上无斑点的狗
+
+aspiring: 英[əˈspaɪərɪŋ] 美[əˈspaɪərɪŋ]
+$adj. 有抱负的；渴望从事……的
+%v. 渴望，有志于（aspire 的现在分词）
+    Aspiring ballet dancers need to be strong as well as agile.
+#想要薪露头角的芭蕾舞演员需要具有强健的体格和敏捷的身段。
+
+textured: 英[ˈtekstʃəd] 美[ˈtekstʃərd]
+$adj. 起纹理的；质地不平的；（艺术、文学、音乐等）有神韵的
+%v. 使具浮凸结构（或特征）（texture 的过去式和过去分词）
+    a textured fabric
+#有条纹的织物
+    coarse-textured sand
+#粗质沙
+    a rich textured poem
+#富有律的诗
+
+paltry: 英[ˈpɔːltri] 美[ˈpɔːltri]
+%adj. 不足取的；无价值的；琐碎的；卑鄙的
+    The company offered Jim a paltry sum which he refused.
+#公司给了吉姆一笔微不足道的钱，但他拒绝了。
+
+tentatively: 英[ˈtentətɪvli] 美[ˈtentətɪvli]
+%adv. 暂时地；试验性地
+    She spoke tentatively scared that someone might interrupt her or criticize her ideas.
+#她迟疑不决地说着，生怕有人会打断她或批评她的想法。
+
+culinary: 英[ˈkʌlɪnəri] 美[ˈkʌlɪneri]
+%adj. <正式>烹饪的，食物的
+    culinary implements
+#烹饪用具
+    culinary skills
+#烹饪技能
+    My culinary skills are rather limited, I am afraid.
+#我恐怕不太会烧菜。
+
+vainglorious: 英[ˌveɪnˈɡlɔːriəs] 美[ˌveɪnˈɡlɔːriəs]
+%adj. 虚荣心强的；非常自负的
+    He was rather vainglorious about his own war record.
+#他非常喜欢吹嘘自己的战争经历。
+
+unconvinced: 英[ˌʌnkənˈvɪnst] 美[ˌʌnkənˈvɪnst]
+%adj. 不信服的；怀疑的
+    remain unconvinced
+#仍然不信服
+
+ineptitude: 英[ɪˈneptɪtjuːd] 美[ɪˈneptɪtuːd]
+%n. 不适当，不合适；不称职；愚笨；缺乏技巧，无能；笨拙
+    The newspaper editorial correctly pointed out the government's ineptitude in dealing with the crisis.
+#报纸社论正确地指出了该政府在处理危机中的无能。
+
+impolitic: 英[ɪmˈpɒlətɪk] 美[ɪmˈpɑːlətɪk]
+%adj. 失策的；不明智的
+    Fiona was coming to the party so I thought it impolitic to her ex-husband.
+#菲奥娜要来参加聚会，所以我认为这对她的前夫是不妥当的。
+
+ephemeral: 英[ɪˈfemərəl] 美[ɪˈfemərəl]
+$adj. 短暂的；（主指植物）短生的，短命的
+%n. 只生存一天的事物；短生植物
+    ephemeral pleasures
+#短暂的欢乐
+    ephemeral gains
+#短暂的收益
+    Fame in the world of rock and pop is largely ephemeral.
+#在摇滚音乐和流行音乐界，名声往往是县花一现的。
+
+promulgate: 英[ˈprɒm(ə)lɡeɪt] 美[ˈprɑːm(ə)lɡeɪt]
+%v. 传播，宣扬（思想或信仰）；发布，颁布（新法律）
+    promulgate a constitution
+#颁布宪法
+    promulgate a decree
+#公布法令
+    The new law was finally promulgated in the autumn of last year.
+#新法律最终在去年秋天须布。
+
+dearth: 英[dɜːθ] 美[dɜːrθ]
+%n. 缺乏；<古>食物短缺，饥荒
+    a dearth of corn
+#谷物供应不足
+    in time of dearth
+#荒年时
+    The factory's closure has been blamed on the dearth of orders for its products during the recession.
+#工厂的倒闭被归咎于是经济衰退期间缺少产品订单。
+
+idiosyncratic: 英[ˌɪdiəsɪŋˈkrætɪk] 美[ˌɪdiəsɪŋˈkrætɪk]
+%adj. 独特的，怪癖的
+    The film, 5 hours long, is directed in his usual idiosyncratic style.
+#这部长达5小时的电影是以他一贯的独特风格导演的。
+
+individualism: 英[ˌɪndɪˈvɪdʒuəlɪzəm] 美[ˌɪndɪˈvɪdʒuəlɪzəm]
+%n. 利己主义，个人主义；个性，独特气质；（国家对经济、政治的）不干涉主义，自由放任主义
+    Because of individualism of her work, I think we should accept this candidate.
+#由于她工作中的个人主义，我认为我们应该接受这个候选人。
+
+tardy: 英[ˈtɑːdi] 美[ˈtɑːrdi]
+$adj. 缓慢的，迟缓的；迟到的
+$n. 迟到
+%n. （Tardy）人名；（英、法、捷、匈）塔迪
+    a tardy reader
+#阅读速度缓慢的读者
+    be tardy for/to school
+#上学迟到
+    Dinner was somewhat delayed on account of David's rather tardy arrival.
+#由于戴维的迟到，晚餐推迟了一会儿。
+
+transitional: 英[trænˈzɪʃən(ə)l] 美[trænˈzɪʃən(ə)l]
+%adj. 暂时的，转型的，过渡的；（建筑）过渡式样的
+    a transitional government
+#过渡政府
+    We had a transitional period of two or three months.
+#我们有两三个月的过渡时期。
+
+irate: 英[aɪˈreɪt] 美[aɪˈreɪt]
+%adj. 生气的；发怒的
+    He received some irate phone calls from customers.
+#他接到顾客打来的一些愤怒的电话。
+
+sequential: 英[sɪˈkwenʃ(ə)l] 美[sɪˈkwenʃ(ə)l]
+%adj. 连续的，按顺序的；依次发生的，相继发生的；（主计算机）顺序的
+    The book constitutes the first sequential exposition of events.
+#这本书是对这些事件的第一次连续的阐述。
+
+clannish: 英[ˈklænɪʃ] 美[ˈklænɪʃ]
+%adj. 氏族的；党派的；排他的
+    We moved to the area two years ago and found the clannish quality of village life hard to cope with.
+#两年前我们搬到这个地区，发现乡村生活的排外性很难应付。
+
+stilted: 英[ˈstɪltɪd] 美[ˈstɪltɪd]
+$adj. 不自然的；呆板的；僵硬的
+%v. 使踩高跷（stilt 的过去分词）
+    He writes in a formal and rather stilted style.
+#他用一种正式又相当生硬的文体写作。
+
+crossfire: 英[ˈkrɒsfaɪə(r)] 美[ˈkrɔːsfaɪər]
+%n. 交叉火力；串报
+    One boat of refugees was caught in the naval crossfire and sank.
+#一艘难民船在海上交火中被困并沉没。
+
+suppliant: 英[ˈsʌpliənt] 美[ˈsʌpliənt]
+$n. 恳求者，哀求者
+%adj. 恳求的，哀求的
+    suppliant words
+#恳求的话语
+    He's a suppliant sinner seeking forgiveness.
+#他是个恳求宽恕的罪人。
+
+bygone: 英[ˈbaɪɡɒn] 美[ˈbaɪɡɔːn]
+$adj. 过去的
+%n. 过去的事
+    an England of bygone days
+#昔日的英国
+    a bygone era
+#消逝的时代
+    let bygones be bygones
+#过去的就让它过去吧
+    The empty factories are relics of a bygone age, no longer required by the modern world.
+#空荡荡的工厂是过往时代的遗留物，不再是现代世界所需要的。
+
+allusive: 英[əˈluːsɪv] 美[əˈluːsɪv]
+%adj. 暗指的；引用典故的
+    His music is witty, ironic and allusive.
+#他的音乐诙谐讥讽，并充满了暗示。
+
+awestruck: 英[ˈɔːstrʌk] 美[ˈɔːstrʌk]
+%adj. 敬畏的；惊奇不已的（等于 awestricken）
+    an awestruck admirer
+#充满崇敬之情的钦佩者
+    awestruck visitors
+#充满崇敬之情的参观者
+    I could tell she was impressed from the awestruck expression on her face.
+#从她脸上敬畏的表情，我可以看出她深受感动。
+
+conifer: 英[ˈkɒnɪfə(r)] 美[ˈkɑːnɪfər]
+%n. 针叶树；[植] 松柏科植物
+    Conifers are an important source of timber for manufacture of furniture.
+#针叶树是一种重要的木材来源，用于制造家具。
+
+unwonted: 英[ʌnˈwəʊntɪd] 美[ʌnˈwoʊntɪd]
+%adj. 不习惯的；不寻常的；少有的
+    speak with unwonted severity
+#以不同寻常的严峻口气说话
+    a word of unwonted kindness
+#异常亲切的话
+    unwonted silence
+#少有的寂静
+    He spoke with unwonted enthusiasm.
+#他讲话显得出人意料地热心。
+
+scavenge: 英[ˈskævɪndʒ] 美[ˈskævɪndʒ]
+$vt. 以……为食；打扫；排除废气
+%vi. 清除污物；打扫
+    scavenge through rubbish dumps for old furniture
+#搜寻垃圾堆捡回旧家具
+    scavenge a street
+#清扫街道
+    The flood has left villagers and animals desperately scavenging for food.
+#洪水使村民和牲畜不顾一切地寻找食物。
+
+disavow: 英[ˌdɪsəˈvaʊ] 美[ˌdɪsəˈvaʊ]
+%vt. 否认，否定；抵赖；拒绝对……的责任
+    disavow a rumor
+#否认传言
+    disavow a proposal
+#拒绝接受一项建议
+    He publicly disavowed any connection with terrorist groups.
+#他公开否认与恐怖集团存在干系。
+
+septic: 英[ˈseptɪk] 美[ˈseptɪk]
+$adj. 败血症的；[医] 脓毒性的；腐败的
+%n. 腐烂物
+    septic pneumonia
+#肺脓肿
+    She had her ears pierced and one of them went septic.
+#她打了耳洞，然后其中一个耳朵受感染了。
+
+soundproof: 英[ˈsaʊndpruːf] 美[ˈsaʊndpruːf]
+$adj. 隔音的
+%vt. 使隔音；给装以隔音设备
+    a soundproof room
+#隔音房间
+    a soundproof studio
+#隔音演播室
+    a soundproof door
+#隔音门
+    The walls of our house were so soundproof that we very rarely heard our neighbors.
+#我们屋子的墙壁隔音效果很强，几乎听不见邻居的声音。
+
+unseemly: 英[ʌnˈsiːmli] 美[ʌnˈsiːmli]
+$adj. 不适宜的；不得体的
+%adv. 不得体地；不适宜地
+    an unseemly act
+#不得体的举动
+    at the most unseemly hour
+#在最不合适的时间
+    It used to be thought unseemly for women to go to church without a hat.
+#过去女于不戴帽子到教堂去做礼拜被认为不合礼仪。
+
+thorny: 英[ˈθɔːni] 美[ˈθɔːrni]
+%adj. 多刺的，带刺的；棘手的，麻烦的
+    a thorny bush
+#多刺灌木丛
+    a thorny ground
+#荆棘丛
+    tread a thorny path
+#走在布满荆棘的小道上
+    a thorny predicament
+#令人苦恼的困境
+    Rose bushes are often thorny.
+#蕃薇丛往往有刺。
+
+interconnect: 英[ˌɪntəkəˈnekt] 美[ˌɪntərkəˈnekt]
+$vt. 使互相连接
+%vi. 互相联系
+    Everything in the world interconnects somehow.
+#世界上一切事物都以某种方式互相联系。
+
+overdraw: 英[ˌəʊvəˈdrɔː] 美[ˌoʊvərˈdrɔː]
+$vt. 透支；拉过度；夸张
+%vi. 透支；夸张
+    overdraw at a bank
+#在银行透支
+    If you overdraw your account without making arrangements to do so you get charged a very high interest rate.
+#如果你未做安排而透支你的账户，你会被收取很高的利息率。
+
+distend: 英[dɪˈstend] 美[dɪˈstend]
+$vt. 使……膨胀；使……扩张
+%vi. 扩张；膨胀
+    distended veins
+#扩张的血管
+    distended ego
+#膨胀的自我
+    distended profits
+#激增的利润
+    In the refugee center we saw children whose bellies were distended because of lack of food.
+#在难民中心，我们看到许多孩子的肚子由于缺乏食物浮肿了。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

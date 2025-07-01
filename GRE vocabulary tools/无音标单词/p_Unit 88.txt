@@ -1,0 +1,715 @@
+<<<<<<< HEAD
+abscond:
+    abscond from the prison
+#从监狱潜逃
+    The cashier absconded with $500, 000 of the company's money.
+#出纳带着公司的50万美元潜逃了。
+
+indignity:
+    suffer indignities
+#蒙受侮辱
+    bear/put up with an indignity
+#忍受侮辱
+    They were subjected to various indignities and discomforts in public.
+#他们不得不当众做各种有损尊严的事。
+
+recompense:
+    recompense sb. for his trouble
+#酬谢某人费心出力
+    recompense good with evil
+#以怨报德
+    recompense sb. for his misdeeds
+#惩罚某人的行
+    work hard without recompense
+#无报酬地辛勤工作
+    receive $2, 000 in recompense for/as recompense for the damage
+#收到2000美元作为损坏赔偿
+    I gave her some flowers and chocolates as recompense for looking after my child while I was away.
+#我送给她一些花和巧克力，酬谢她我不在时对我孩子的照顾。
+
+guise:
+    under the guise of philosophy
+#以哲的名义
+    an enemy in friendly guises
+#伪装成朋友的人
+    an old idea in new guises
+#旧瓶装新酒
+    a lady clad in peasant guises
+#穿着村姑服装的女士
+    The company has been accused of trying to sell their products under the guise of market research.
+#这家公司被指控打着市场调查的幌子推销他们的产品。
+
+vantage:
+    vantage point
+#有利地位，优越地位，观点，看法
+    From the vantage point on the hill, we could see the city spread below us.
+#从山上的有利地位跳望，我们可以看到这座城市在我们脚下延伸开来。
+
+dither:
+    be in/of a dither about tomorrow's interview
+#对明天的面试紧张万分
+    dither on making a purchase
+#对买不买一件东西犹豫不决
+    She's still dithering over whether to accept the job she's just been offered.
+#她还在犹豫不决，不知要不要接受刚提供给她的工作。
+
+embroil:
+    become embroiled in a war
+#卷入战争
+    be embroiled in traffic jam
+#因交通堵塞而陷于混乱状态
+    She had no desire to embroil herself into lengthy lawsuits with the newspapers.
+#她丝毫不想将自己卷人与报社的没完没了的诉讼纠纷中。
+
+ruckus:
+    raise a ruckus
+#掀起一场争吵
+    A further ruckus exploded in these areas.
+#这些地区又发生了骚乱。
+
+vengeance:
+    take/have vengeance on/upon the murderer
+#向凶手报仇
+    seek vengeance upon sb. for sth.
+#为某事找某人复仇
+    swear terrible vengeance on sb.
+#发誓要对某人进行无情的报复
+    be full of vengeance
+#一心想报复
+    with a vengeance
+#猛烈地，激烈地
+    On the day after the terrorist attack, the overall mood in the town was one of vengeance.
+#在恐怖分子袭击之后的次日，镇上人普遍的情绪就是要复仇。
+
+cede:
+    cede the territory
+#割让领土
+    cede the right to work the enterprise
+#转让企业经营权
+
+languid:
+    a languid wave of the hand
+#懒洋洋地挥一挥手
+    The hot summer makes him feel languid.
+#炎夏使他感到倦怠乏力。
+
+stoke:
+    stoke the fires of nationalism
+#煽动民族主义情绪
+    stoke (up) the furnace
+#给炉子添燃料
+    stoke up economy
+#刺激经济
+    stoke up prices
+#促使物价上涨
+    stoke up on bacon and bread
+#饱餐一顿熏肉和面包
+    It seems that some unscrupulous politicians have been stoking hatred.
+#看来一些肆无，忌惮的政客煽起了仇恨。
+
+flunk:
+    flunk an chemistry examination
+#化学考试不及格
+    flunk in an examination
+#考试不及格
+    flunk out
+#（因不及格而）退学
+    He flunked the first test but fortunately passed the second.
+#他第一门考试没通过，但幸运地通过了第二门。
+
+wanton:
+    a wanton destruction of human life
+#草营人命
+    a wanton attack
+#恶意攻击
+    senseless and wanton cruelty
+#无谓的肆意虐待
+    wanton spending
+#挥挥无度
+    a wanton imagination
+#漫无边际的想象
+    a wanton party
+#闹哄哄的聚会
+    a wanton brook
+#蜿蜓的小河
+    wanton winds
+#变化无常的风
+    The judge said that Jack's driving had shown a wanton disregard for the safety of his passengers.
+#法官说杰克的驾车行为表现出对乘客的极不负责的态度。
+
+insurrection:
+    excite domestic insurrections
+#煽动内乱
+    Insurrection was seen as one way of changing the government.
+#起义被认为是更换政府的一种路径。
+
+bicker:
+    They're always bickering with each other about/over their personal problems.
+#他们总是为私事争。
+
+foolproof:
+    a foolproof camera
+#傻瓜相机
+    a foolproof automatic washer
+#使用方便的自动洗衣机
+    I don't believe there's any such thing as a foolproof scheme for making money.
+#说是连傻瓜错不了的赚钱计划，我不相信世上竟有这种事。
+
+hash:
+    a hash of unorganized figures
+#一堆未整理的杂乱数字
+    hash out
+#充分讨论，长时间商讨后决定/解决
+    hash out the differences
+#通过商谈消除分歧
+    hash over
+#充分讨论，回顾
+    hash over future plans
+#仔细讨论将来的计划
+    hash over the old days
+#追忆往昔
+    We stopped at a coffee shop and ordered eggs and hash.
+#我们在咖啡店停留了一下，点了鸡蛋和碎杂烩。
+
+repose:
+    disturb sb.'s repose
+#干扰某人的睡眠
+    pray for the repose of the dead
+#为死者的安息祈祷
+    have repose of manner
+#举止安详
+    the repose of the country
+#乡间的静谧
+    the volcano in repose
+#休眠火山
+    repose in the local church
+#长眠在教堂墓地
+    repose on the past
+#回忆起往事
+    repose one's head on a pillow
+#把头靠在枕头上。
+    He entered the room, reposed on the couch and put his head into Mary's lap.
+#他进了屋，在沙发上躺下，头枕着玛丽的腿。
+
+serenade:
+    a lover's serenade beneath his lady's window
+#情人在意中人窗下唱的小夜曲
+    There's a lovely scene in the film where Romeo serenades Juliet in the moonlight.
+#电影里有个可爱的场景，罗密欧在月光下为朱丽叶唱小夜曲。
+
+nausea:
+    be filled with nausea at the sight of cruelty to animals
+#看到虐待动物就满腔憎恶
+    If I miss breakfast, I always suffer from nausea in the middle of the morning.
+#如果我没吃早饭，在半响午我就会恶心。
+
+barrister:
+    The barrister welcomed the judge's ruling.
+#律师欢迎法官的判决。
+
+repine:
+    bear without repining
+#毫无怨言地接受
+    repine at misfortune
+#因不幸而愁苦
+    repine for a change in weather
+#渴望天气变化
+    He was alone and unloved, but he did not repine.
+#他孤零零无人关爱，但他毫无怨言。
+
+totter:
+    totter on the edge of bankruptcy
+#摇摇欲坠瀬临破产
+    the totter of traditions
+#传统的动播
+    She tottered unsteadily down the stairs in her high-heeled shoes.
+#她穿着高跟鞋跌跌撞撞地走下楼来。
+
+despotism:
+    the despotism of the monarchy
+#君主专制
+    After years of despotism, the country is now moving towards democracy.
+#在多年的专制统治后，这个国家现在正在朝民主政治迈进。
+
+qualm:
+    have no qualms about
+#对……不感到良心不安
+    suffer many a qualm of conscience
+#一直受到良心的责备
+    a little qualm of homesickness
+#油然而生的思乡之情
+    a qualm of tenderness
+#一股温情
+    Many parents have occasional qualms about whether they're doing the best thing for their children.
+#许多家长对于他们是不是在做最有利于孩子的事情时而有疑惑。
+
+covert:
+    take covert action
+#采取秘密行动
+    with covert malice
+#以隐怀的恶意
+    in covert conversation
+#在窃窃私语中
+    fire from covert
+#从掩蔽处射击
+    The murdered soldier belonged to an army unit which specializes in covert operations.
+#被害士兵属于一个专门从事秘密军事行动的军队组织。
+
+rig:
+    rig prices
+#垄断市价
+    a rigged car crash
+#预谋的撞车事故
+    rig the immigration figures
+#伪造移民数字
+    rig up a tent
+#搭起一个帐篷
+    rig the ship with new sails
+#为船安装新帆
+    All previous elections in the country have been rigged by the ruling party.
+#该国所有以前的选举都被执政党做了手脚。
+
+harry:
+    harry the enemy
+#袭击敌人
+    The pirates harried the towns along the coast.
+#海盗抢劫了沿海城市。
+
+emissary:
+    send a special emissary to discuss peace terms
+#派特使商谈構和条件
+    The Foreign Secretary has flown to China for a three-day visit as the personal emissary of the Prime Minister.
+#外交大臣作为首相的私人使者飞往中国做为期三天的访问。
+
+gimmick:
+    a political gimmick
+#政治花招
+    an election gimmick
+#选举骗局
+    Free gifts given away with purchases are just another sales gimmick.
+#购买商品可获得免费赠品只不过是销售上的又一个花招。
+
+exude:
+    exude an odor
+#发出气味
+    exude anger
+#显得怒气冲冲
+    exude sweat
+#出汗
+    exude from cracks
+#从裂缝中慢慢渗出
+    Few people exude such confidence as Allen.
+#很少有人像艾伦一样流露出如此强烈的自信。
+
+sundry:
+    a sundry revenue
+#杂项税收
+    sundry persons
+#各色人等
+    a meadow full of sundry flowers
+#百花中的一片草地
+    Sundry distant relations turned up for my brother's wedding.
+#形形色色的远房亲都来参加我哥哥的婚礼。
+
+levee:
+    the levees along the Yangtze River
+#长江大堤
+
+drawl:
+    drawl on and on
+#拖长声调说个没完
+    drawl one's words
+#慢吞吞地吐字说
+    He speaks with/in this affected lazy drawl.
+#他以一种做作的、懒散的、慢吞吞的方式说话。
+
+ejaculate:
+    The seagulls ejaculated from time to time.
+#海鸥时不时发出凄厉的叫声。
+
+jolly:
+    a jolly laugh
+#开怀大笑
+    a jolly fat man
+#胖乎乎乐呵呵的人
+    jolly weather
+#宜人的天气
+    a jolly fool
+#一个大傻瓜
+    a jolly good fellow
+#一个大好人
+    the jolly god
+#酒神
+    We had a lovely holiday there but it was jolly expensive.
+#我们在那里度过了一个愉快的假期，可就是花费太多了。
+
+decency:
+    the norms of human decency
+#人类尊严的准则
+    a remark too rude for decency
+#不体的粗话
+    a breach of decency
+#失礼
+    observe the decencies
+#遵守规矩
+    His sense of decency and fair play made him refuse the offer.
+#他的正直感和公平竟争意识使他拒绝了这一提议。
+
+=======
+abscond:
+    abscond from the prison
+#从监狱潜逃
+    The cashier absconded with $500, 000 of the company's money.
+#出纳带着公司的50万美元潜逃了。
+
+indignity:
+    suffer indignities
+#蒙受侮辱
+    bear/put up with an indignity
+#忍受侮辱
+    They were subjected to various indignities and discomforts in public.
+#他们不得不当众做各种有损尊严的事。
+
+recompense:
+    recompense sb. for his trouble
+#酬谢某人费心出力
+    recompense good with evil
+#以怨报德
+    recompense sb. for his misdeeds
+#惩罚某人的行
+    work hard without recompense
+#无报酬地辛勤工作
+    receive $2, 000 in recompense for/as recompense for the damage
+#收到2000美元作为损坏赔偿
+    I gave her some flowers and chocolates as recompense for looking after my child while I was away.
+#我送给她一些花和巧克力，酬谢她我不在时对我孩子的照顾。
+
+guise:
+    under the guise of philosophy
+#以哲的名义
+    an enemy in friendly guises
+#伪装成朋友的人
+    an old idea in new guises
+#旧瓶装新酒
+    a lady clad in peasant guises
+#穿着村姑服装的女士
+    The company has been accused of trying to sell their products under the guise of market research.
+#这家公司被指控打着市场调查的幌子推销他们的产品。
+
+vantage:
+    vantage point
+#有利地位，优越地位，观点，看法
+    From the vantage point on the hill, we could see the city spread below us.
+#从山上的有利地位跳望，我们可以看到这座城市在我们脚下延伸开来。
+
+dither:
+    be in/of a dither about tomorrow's interview
+#对明天的面试紧张万分
+    dither on making a purchase
+#对买不买一件东西犹豫不决
+    She's still dithering over whether to accept the job she's just been offered.
+#她还在犹豫不决，不知要不要接受刚提供给她的工作。
+
+embroil:
+    become embroiled in a war
+#卷入战争
+    be embroiled in traffic jam
+#因交通堵塞而陷于混乱状态
+    She had no desire to embroil herself into lengthy lawsuits with the newspapers.
+#她丝毫不想将自己卷人与报社的没完没了的诉讼纠纷中。
+
+ruckus:
+    raise a ruckus
+#掀起一场争吵
+    A further ruckus exploded in these areas.
+#这些地区又发生了骚乱。
+
+vengeance:
+    take/have vengeance on/upon the murderer
+#向凶手报仇
+    seek vengeance upon sb. for sth.
+#为某事找某人复仇
+    swear terrible vengeance on sb.
+#发誓要对某人进行无情的报复
+    be full of vengeance
+#一心想报复
+    with a vengeance
+#猛烈地，激烈地
+    On the day after the terrorist attack, the overall mood in the town was one of vengeance.
+#在恐怖分子袭击之后的次日，镇上人普遍的情绪就是要复仇。
+
+cede:
+    cede the territory
+#割让领土
+    cede the right to work the enterprise
+#转让企业经营权
+
+languid:
+    a languid wave of the hand
+#懒洋洋地挥一挥手
+    The hot summer makes him feel languid.
+#炎夏使他感到倦怠乏力。
+
+stoke:
+    stoke the fires of nationalism
+#煽动民族主义情绪
+    stoke (up) the furnace
+#给炉子添燃料
+    stoke up economy
+#刺激经济
+    stoke up prices
+#促使物价上涨
+    stoke up on bacon and bread
+#饱餐一顿熏肉和面包
+    It seems that some unscrupulous politicians have been stoking hatred.
+#看来一些肆无，忌惮的政客煽起了仇恨。
+
+flunk:
+    flunk an chemistry examination
+#化学考试不及格
+    flunk in an examination
+#考试不及格
+    flunk out
+#（因不及格而）退学
+    He flunked the first test but fortunately passed the second.
+#他第一门考试没通过，但幸运地通过了第二门。
+
+wanton:
+    a wanton destruction of human life
+#草营人命
+    a wanton attack
+#恶意攻击
+    senseless and wanton cruelty
+#无谓的肆意虐待
+    wanton spending
+#挥挥无度
+    a wanton imagination
+#漫无边际的想象
+    a wanton party
+#闹哄哄的聚会
+    a wanton brook
+#蜿蜓的小河
+    wanton winds
+#变化无常的风
+    The judge said that Jack's driving had shown a wanton disregard for the safety of his passengers.
+#法官说杰克的驾车行为表现出对乘客的极不负责的态度。
+
+insurrection:
+    excite domestic insurrections
+#煽动内乱
+    Insurrection was seen as one way of changing the government.
+#起义被认为是更换政府的一种路径。
+
+bicker:
+    They're always bickering with each other about/over their personal problems.
+#他们总是为私事争。
+
+foolproof:
+    a foolproof camera
+#傻瓜相机
+    a foolproof automatic washer
+#使用方便的自动洗衣机
+    I don't believe there's any such thing as a foolproof scheme for making money.
+#说是连傻瓜错不了的赚钱计划，我不相信世上竟有这种事。
+
+hash:
+    a hash of unorganized figures
+#一堆未整理的杂乱数字
+    hash out
+#充分讨论，长时间商讨后决定/解决
+    hash out the differences
+#通过商谈消除分歧
+    hash over
+#充分讨论，回顾
+    hash over future plans
+#仔细讨论将来的计划
+    hash over the old days
+#追忆往昔
+    We stopped at a coffee shop and ordered eggs and hash.
+#我们在咖啡店停留了一下，点了鸡蛋和碎杂烩。
+
+repose:
+    disturb sb.'s repose
+#干扰某人的睡眠
+    pray for the repose of the dead
+#为死者的安息祈祷
+    have repose of manner
+#举止安详
+    the repose of the country
+#乡间的静谧
+    the volcano in repose
+#休眠火山
+    repose in the local church
+#长眠在教堂墓地
+    repose on the past
+#回忆起往事
+    repose one's head on a pillow
+#把头靠在枕头上。
+    He entered the room, reposed on the couch and put his head into Mary's lap.
+#他进了屋，在沙发上躺下，头枕着玛丽的腿。
+
+serenade:
+    a lover's serenade beneath his lady's window
+#情人在意中人窗下唱的小夜曲
+    There's a lovely scene in the film where Romeo serenades Juliet in the moonlight.
+#电影里有个可爱的场景，罗密欧在月光下为朱丽叶唱小夜曲。
+
+nausea:
+    be filled with nausea at the sight of cruelty to animals
+#看到虐待动物就满腔憎恶
+    If I miss breakfast, I always suffer from nausea in the middle of the morning.
+#如果我没吃早饭，在半响午我就会恶心。
+
+barrister:
+    The barrister welcomed the judge's ruling.
+#律师欢迎法官的判决。
+
+repine:
+    bear without repining
+#毫无怨言地接受
+    repine at misfortune
+#因不幸而愁苦
+    repine for a change in weather
+#渴望天气变化
+    He was alone and unloved, but he did not repine.
+#他孤零零无人关爱，但他毫无怨言。
+
+totter:
+    totter on the edge of bankruptcy
+#摇摇欲坠瀬临破产
+    the totter of traditions
+#传统的动播
+    She tottered unsteadily down the stairs in her high-heeled shoes.
+#她穿着高跟鞋跌跌撞撞地走下楼来。
+
+despotism:
+    the despotism of the monarchy
+#君主专制
+    After years of despotism, the country is now moving towards democracy.
+#在多年的专制统治后，这个国家现在正在朝民主政治迈进。
+
+qualm:
+    have no qualms about
+#对……不感到良心不安
+    suffer many a qualm of conscience
+#一直受到良心的责备
+    a little qualm of homesickness
+#油然而生的思乡之情
+    a qualm of tenderness
+#一股温情
+    Many parents have occasional qualms about whether they're doing the best thing for their children.
+#许多家长对于他们是不是在做最有利于孩子的事情时而有疑惑。
+
+covert:
+    take covert action
+#采取秘密行动
+    with covert malice
+#以隐怀的恶意
+    in covert conversation
+#在窃窃私语中
+    fire from covert
+#从掩蔽处射击
+    The murdered soldier belonged to an army unit which specializes in covert operations.
+#被害士兵属于一个专门从事秘密军事行动的军队组织。
+
+rig:
+    rig prices
+#垄断市价
+    a rigged car crash
+#预谋的撞车事故
+    rig the immigration figures
+#伪造移民数字
+    rig up a tent
+#搭起一个帐篷
+    rig the ship with new sails
+#为船安装新帆
+    All previous elections in the country have been rigged by the ruling party.
+#该国所有以前的选举都被执政党做了手脚。
+
+harry:
+    harry the enemy
+#袭击敌人
+    The pirates harried the towns along the coast.
+#海盗抢劫了沿海城市。
+
+emissary:
+    send a special emissary to discuss peace terms
+#派特使商谈構和条件
+    The Foreign Secretary has flown to China for a three-day visit as the personal emissary of the Prime Minister.
+#外交大臣作为首相的私人使者飞往中国做为期三天的访问。
+
+gimmick:
+    a political gimmick
+#政治花招
+    an election gimmick
+#选举骗局
+    Free gifts given away with purchases are just another sales gimmick.
+#购买商品可获得免费赠品只不过是销售上的又一个花招。
+
+exude:
+    exude an odor
+#发出气味
+    exude anger
+#显得怒气冲冲
+    exude sweat
+#出汗
+    exude from cracks
+#从裂缝中慢慢渗出
+    Few people exude such confidence as Allen.
+#很少有人像艾伦一样流露出如此强烈的自信。
+
+sundry:
+    a sundry revenue
+#杂项税收
+    sundry persons
+#各色人等
+    a meadow full of sundry flowers
+#百花中的一片草地
+    Sundry distant relations turned up for my brother's wedding.
+#形形色色的远房亲都来参加我哥哥的婚礼。
+
+levee:
+    the levees along the Yangtze River
+#长江大堤
+
+drawl:
+    drawl on and on
+#拖长声调说个没完
+    drawl one's words
+#慢吞吞地吐字说
+    He speaks with/in this affected lazy drawl.
+#他以一种做作的、懒散的、慢吞吞的方式说话。
+
+ejaculate:
+    The seagulls ejaculated from time to time.
+#海鸥时不时发出凄厉的叫声。
+
+jolly:
+    a jolly laugh
+#开怀大笑
+    a jolly fat man
+#胖乎乎乐呵呵的人
+    jolly weather
+#宜人的天气
+    a jolly fool
+#一个大傻瓜
+    a jolly good fellow
+#一个大好人
+    the jolly god
+#酒神
+    We had a lovely holiday there but it was jolly expensive.
+#我们在那里度过了一个愉快的假期，可就是花费太多了。
+
+decency:
+    the norms of human decency
+#人类尊严的准则
+    a remark too rude for decency
+#不体的粗话
+    a breach of decency
+#失礼
+    observe the decencies
+#遵守规矩
+    His sense of decency and fair play made him refuse the offer.
+#他的正直感和公平竟争意识使他拒绝了这一提议。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

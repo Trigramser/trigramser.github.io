@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZigZag Processing</title>
+    <script src="https://cdn.jsdelivr.net/npm/danfojs@1.1.2/lib/bundle.min.js"></script>
+</head>
+<body>
+    <h1>ZigZag Data Processing</h1>
+    <input type="file" id="uploadCSV" />
+    <button id="processData">Process Data</button>
+    <button id="downloadCSV" style="display: none;">Download Processed CSV</button>
+
+    <script>
+        let processedData; // 保存处理后的 CSV 数据
+
+        // 事件监听器
+        document.querySelector("#uploadCSV").addEventListener("change", handleFileUpload);
+        document.querySelector("#processData").addEventListener("click", processData);
+        document.querySelector("#downloadCSV").addEventListener("click", downloadCSV);
+
+        function handleFileUpload(event) {
+            const file = event.target.files[0];
+            if (!file) {
+                alert("No file selected!");
+                return;
+            }
+
+            const reader = new FileReader();
+
+            // 文件读取完成回调
+            reader.onload = function (e) {
+                const csvData = e.target.result;
+                // console.log(csvData)
+                console.log(file)
+                try {
+                    // 用 Danfo.js 解析 CSV 数据
+                    // globalThis.df = dfd.readCSV(file); // 正确方法为 fromCSV
+                    dfd.readCSV(file, {
+                            naValues: ["", "NA", "null"],  // 将这些值视为缺失值
+                            naFilter: false  // 禁用自动过滤空值，保留所有列
+                        }).then(df => {
+                            df.print()
+                            globalThis.df = df
+                        }).catch(err=>{
+                            console.log(err);
+                        })
+                    console.log("File successfully loaded into DataFrame:", globalThis.df);
+                    // console.log("文件路径:", file.webkitRelativePath || '无法直接获取完整文件路径（受浏览器限制）');
+                    alert("File uploaded successfully!");
+                } catch (error) {
+                    console.error("Error parsing CSV data:", error);
+                    alert("Failed to parse the CSV file. Please ensure it is a valid CSV file.");
+                }
+            };
+
+            // 读取文件内容
+            reader.onerror = function (e) {
+                console.error("Error reading file:", e);
+                alert("Failed to read the file. Please try again.");
+            };
+
+            reader.readAsText(file);
+        }
+
+
+        function addBottomPeak(df) {
+            // // 添加一个全为 NaN 的列
+            // df.addColumn("bottom_peak", Array(df.shape[0]).fill(null), { inplace: true });
+
+            // 设置条件
+            let bottomMask = df['Low'].eq(df['ZigZag']);
+            let peakMask = df['High'].eq(df['ZigZag']);
+            // 更改数据, 暂无更好的办法，只能循环更改
+            let bottom_peak = []
+            for(let i = 0; i < df.shape[0]; i++) {
+                if (bottomMask.iat(i, 0)){
+                    bottom_peak.push("bottom")
+                } else if (peakMask.iat(i, 0)) {
+                    bottom_peak.push("peak")
+                } else {
+                    bottom_peak.push("")
+                }
+            }
+            df.addColumn("bottom_peak", bottom_peak, { inplace: true });
+            df.print();
+            return df;
+        }
+
+
+        function setLabel(df) {
+            // 找到全部 bottom_peak 的标签，并返回一个列表，里面是 bottom_peak 的 index
+            let bottom_peak_index = []
+            for(let i = 0; i < df.shape[0]; i++) {
+                if (df.at(i, "bottom_peak")) {
+                    bottom_peak_index.push(i)
+                }
+            }
+            console.log("bottom_peak_index:", bottom_peak_index)
+            // 设置空数组，接收标签，最后设置成df的列
+            let labelColumn = []
+            // 设置 bottom_peak index 的 计数后面逐个判断
+            let countIndex = 0
+            // 根据循环df的行数
+            for(let i = 0; i < df.shape[0]; i++) {
+                // 判断 i 是否超过 bottom_peak 的第一个 index
+                if (i < bottom_peak_index[countIndex]) {
+                    // 开始设置标签
+                    // 如果第一个标签是peak
+                    if (df.at(bottom_peak_index[countIndex], "bottom_peak") == "peak") {
+                        labelColumn.push(df.at(bottom_peak_index[countIndex], "ZigZag") - df.at(i, "High"))
+                    } else if (df.at(bottom_peak_index[countIndex], "bottom_peak") == "bottom") {
+                        labelColumn.push(df.at(bottom_peak_index[countIndex], "ZigZag") - df.at(i, "Low"))
+                    }
+                } else if (i = bottom_peak_index[countIndex]) {
+                    countIndex++
+                    if (countIndex == bottom_peak_index.length) break
+                    if (df.at(bottom_peak_index[countIndex], "bottom_peak") == "peak") {
+                        labelColumn.push(df.at(bottom_peak_index[countIndex], "ZigZag") - df.at(i, "High"))
+                    } else if (df.at(bottom_peak_index[countIndex], "bottom_peak") == "bottom") {
+                        labelColumn.push(df.at(bottom_peak_index[countIndex], "ZigZag") - df.at(i, "Low"))
+                    }
+                }
+            }
+             // 最后剩下的要填补满，否则报错
+            let left_len = df.shape[0] - bottom_peak_index[bottom_peak_index.length -1]
+            console.log("left_len: ", left_len)
+            console.log("bottom_peak_index[array.length -1]: ", bottom_peak_index[bottom_peak_index.length -1])
+            for (let i = 0; i < left_len; i++) {
+                labelColumn.push("")
+                console.log("labelColumn.length: ", labelColumn.length)
+            }
+
+            console.log("labelColumn: ", labelColumn.length)
+            df.addColumn("Label", labelColumn, { inplace: true });
+            return df
+        }
+
+        function qualityData(df) {
+            let bottom_peak_index = []
+            for(let i = 0; i < df.shape[0]; i++) {
+                if (df.at(i, "bottom_peak")) {
+                    bottom_peak_index.push(i)
+                }
+            }
+            console.log("bottom_peak_index:", bottom_peak_index)
+            df = df.iloc({rows:[`${bottom_peak_index[0]}:${bottom_peak_index[bottom_peak_index.length-1]}`]})
+            return df
+        }
+
+        function processData() {
+            if (!globalThis.df.shape) {
+                console.log(globalThis.df.shape)
+                alert("Please upload a CSV file first!");
+                return;
+            }
+
+
+            try {
+                console.log("start process data")
+                let df = addBottomPeak(globalThis.df);
+                console.log("added bottom and peak")
+                df = setLabel(df);
+                //  去除前后低质量数据
+                df = qualityData(df);
+
+                // 保存为全局变量供下载使用
+                processedData = dfd.toCSV(df, { download: false });
+                console.log("Processed data:", df);
+
+                alert("Data processed successfully! Click the download button to save the file.");
+                document.querySelector("#downloadCSV").style.display = "inline-block";
+            } catch (error) {
+                console.error("Error processing data:", error);
+                alert("An error occurred during data processing. Check the console for more details.");
+            }
+        }
+
+        function downloadCSV() {
+            if (!processedData) {
+                alert("No processed data available for download!");
+                return;
+            }
+
+            const blob = new Blob([processedData], { type: "text/csv" });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = "processed_data.csv";
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>

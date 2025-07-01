@@ -1,0 +1,611 @@
+<<<<<<< HEAD
+cupidity:
+    He gazed at the silverware and jewels with cupidity.
+#他贪梦地盯着银器和珠宝。
+
+figurine:
+    I am afraid it doesn't work without the other figurine.
+#恐怕没有另一个小雕像也没有用。
+
+aleatory:
+    an aleatory contract
+#盈亏未定的合同
+    Your experience of speculation makes you have aleatory thought.
+#你投机成功的经验，让你经常存有侥幸的心理。
+
+bungle:
+    make a bungle of
+#把……搞糟
+    The job was a bungle.
+#这工作被搞糟了
+
+lineal:
+    a lineal descendant
+#直系后代
+    lineal relatives
+#直系亲属
+
+drivel:
+    He talks a lot of idiot drivel.
+#他总是讲一大堆傻话。
+
+palaver:
+    futile palaver
+#无益的空谈
+    smooth-tongued palaver
+#甜言蜜语
+
+blasphemy:
+    He uttered blasphemies against life itself.
+#他诅咒人生本身。
+
+dereliction:
+    The old railway cottages were in a state of dereliction.
+#老的铁路小屋处于弃置状态。
+
+waive:
+    waive one's claim
+#放弃要求
+    The bank manager waived the charge, as we were old and valued customers.
+#银行经理免除了收费，因为我们是尊贵的老顾客。
+
+rote:
+    She learned the equation by rote.
+#她通过死记硬背学习方程式。
+
+fang:
+    The dog growled and bared its fangs.
+#狗低吠着，露出它的撩牙。
+
+archer:
+    The archer can bend a strong bow.
+#这个弓箭手能拉强弓。
+
+languor:
+    She missed the languor of sleep on a hot summer afternoon.
+#她留恋炎夏倦意沉沉的午睡。
+
+endearing:
+    endearing qualities
+#使人喜爱的品质
+    endearing tones
+#充满柔情的声调
+
+renal:
+    renal artery
+#肾动脉
+    a renal trouble
+#肾病
+
+serried:
+    The soldiers marched in serried ranks towards the airport.
+#士兵们排成密集的行列走向机场。
+
+topsy-turvy:
+    His room was always topsy-turvy.
+#他的房间总是乱七八糟的。
+
+mendacity:
+    Politicians are often accused of mendacity.
+#政客们常被指责为扯谎成性。
+
+mendacious:
+    The mendacious beggar told a different tale of woe at every house. 
+#撒谎的乞丐对每间房子的主人说了不同的悲伤故事。
+
+rout:
+    rout the enemy
+#击溃敌人
+    a complete and utter rout
+#大溃败
+    the army in full rout
+#溃败的军队
+    He routed among the piled newspapers.
+#他在成堆的报纸中翻找。
+
+recant:
+    After a year spent in solitary confinement, he publicly recanted his views.
+#被单独囚禁了一年后，他公开声明放弃他的观点。
+
+mushy:
+    mushy love stories
+#伤感的爱情故事
+    The meat was mushy and tasteless.
+#这肉烂而无味。
+
+kudos:
+    Being an actor has a certain amount of kudos attached to it.
+#当演员有一些与之相联的名誉。
+
+depredation:
+    depredation of environment
+#环境的破坏
+    It will take weeks to clear up the depredations of the storm.
+#清理风暴造成的毁坏要花上几个星期。
+
+wily:
+    Their boss is a bit of a wily old fox.
+#他们的老板有点像一个狡猾的老狐狸。
+
+characterization:
+    As a writer, I am interested in characterization.
+#作为作家，我对人物刻画感兴趣。
+
+motile:
+    motile cells
+#游走细胞
+
+timeworn:
+    timeworn steps
+#磨损了的台阶
+    a timeworn face
+#苍老的脸
+    a timeworn expression
+#陈词滥调
+
+rapprochement:
+    call for a rapprochement with Asian countries
+#呼吁与亚洲国家恢复友好关系
+
+excrete:
+    excrete the waste from the body
+#从体内排出废物
+
+dyspeptic:
+    take a dyspeptic view
+#抱悲观看法
+    I'm a bit dyspeptic after meals.
+#我饭后有点消化不良。
+
+wacky:
+    wacky trends
+#稀奇古怪的时尚
+
+augmentation:
+    augmentation of armament
+#扩充军备
+
+agnostic:
+    She was agnostic about the phenomenon.
+#她对这种观象持一种不可知的态度。
+
+plait:
+    plait a rug
+#编织地毯
+    plait one's hair
+#编辫子
+    The girl wore her hair in two plaits.
+#那女孩编两条辫子。
+
+delectation:
+    TV programs suitable for the delectation of children
+#适合孩子口味的电视节目
+
+adjudicate:
+    The court adjudicated upon the case.
+#院判决了该案。
+
+friable:
+    friable soil
+#松散的土壤
+
+skullduggery:
+    political skullduggery
+#政治欺诈
+
+lucre:
+    They are guilty about the filthy lucre.
+#他们对那不义之财感到内疚。
+
+poignancy:
+    poignancy of delight
+#喜悦之至
+    poignancy of flavor
+#味道的浓烈
+    experiences filled with poignancy
+#充满种种痛苦的经历
+    The poem has a haunting poignancy.
+#这首诗感人肺腑，读后难忘。
+
+piddle:
+    We piddled away the whole day.
+#我们浪费了整天。
+
+to-do:
+    make a great to-do about nothing
+#无端大惊小怪
+
+josh:
+    Don't worry! I was just joshing when I said I'd lost my car keys.
+#别着急! 我说汽车钥匙掉了，只是在开玩笑呢。
+
+licit:
+    It is a licit trade.
+#这是一笔合法交易。
+
+unflappable:
+    She tried very hard to remain cool and unflappable.
+#她竭力保持冷静镇定。
+
+vendetta:
+    There has been a bitter vendetta between the two families for many years.
+#这两个家族之间多年来存在着刻骨的世仇。
+
+ritzy:
+    He is able to buy a still ritzier villa.
+#他有能力购买一套更加豪华的别壁。
+
+rankle:
+    rankling grudges
+#宿怨
+    It rankled him to think of her ingratitude.
+#想到她的忘恩负义使他痛心。
+
+lunatic:
+    lunatic asylum
+#疯人院
+    a lunatic idea
+#疯狂的念头
+    That was a lunatic way to behave.
+#那是愚蠢轻率的表现。
+
+rollicking:
+    live in a rollicking fashion
+#快快活活地过日子
+    She gave the young man a real rollicking.
+#她把那个年轻人臭骂一顿。
+
+caudal:
+    caudal artery
+#尾动脉
+
+parochial:
+    parochial boundaries
+#堂区的边界
+    There's something parochial about her writing, as if she'd never traveled further than the next town.
+#她写的东西显得孤陋寡闻，好像她从未去过比邻镇更远的地方。
+
+automation:
+    Halfway through the exam, I turned into an automation and was writing without thinking.
+#考试进行到一半时，我已经像机器人一般不加思索地答题。
+
+cardiologist:
+    Some people become cardiologists and care for the heart. 
+#一些人成为心血管专家护理心脏。
+
+ligneous:
+    a ligneous floor
+#木质地板
+
+monolithic:
+    a monolithic concrete wall
+#整体式混凝土墙
+    monolithic unity
+#磐石般团结
+    a monolithic calm
+#坚如磐石的沉着
+
+purported:
+    a purported interview
+#传说中的会见
+
+decomposition:
+    in an advanced stage of decomposition
+#处于高度腐烂阶段
+
+overinflated:
+    the overinflated bureaucracy
+#过于庞大的官僚机构
+
+shopworn:
+    shopworn clichés
+#陈词滥调
+    She told him that shopworn story about the time she met a bear in the forest.
+#她告诉他关于她在森林里遇到一头熊的那个老掉牙的故事。
+
+=======
+cupidity:
+    He gazed at the silverware and jewels with cupidity.
+#他贪梦地盯着银器和珠宝。
+
+figurine:
+    I am afraid it doesn't work without the other figurine.
+#恐怕没有另一个小雕像也没有用。
+
+aleatory:
+    an aleatory contract
+#盈亏未定的合同
+    Your experience of speculation makes you have aleatory thought.
+#你投机成功的经验，让你经常存有侥幸的心理。
+
+bungle:
+    make a bungle of
+#把……搞糟
+    The job was a bungle.
+#这工作被搞糟了
+
+lineal:
+    a lineal descendant
+#直系后代
+    lineal relatives
+#直系亲属
+
+drivel:
+    He talks a lot of idiot drivel.
+#他总是讲一大堆傻话。
+
+palaver:
+    futile palaver
+#无益的空谈
+    smooth-tongued palaver
+#甜言蜜语
+
+blasphemy:
+    He uttered blasphemies against life itself.
+#他诅咒人生本身。
+
+dereliction:
+    The old railway cottages were in a state of dereliction.
+#老的铁路小屋处于弃置状态。
+
+waive:
+    waive one's claim
+#放弃要求
+    The bank manager waived the charge, as we were old and valued customers.
+#银行经理免除了收费，因为我们是尊贵的老顾客。
+
+rote:
+    She learned the equation by rote.
+#她通过死记硬背学习方程式。
+
+fang:
+    The dog growled and bared its fangs.
+#狗低吠着，露出它的撩牙。
+
+archer:
+    The archer can bend a strong bow.
+#这个弓箭手能拉强弓。
+
+languor:
+    She missed the languor of sleep on a hot summer afternoon.
+#她留恋炎夏倦意沉沉的午睡。
+
+endearing:
+    endearing qualities
+#使人喜爱的品质
+    endearing tones
+#充满柔情的声调
+
+renal:
+    renal artery
+#肾动脉
+    a renal trouble
+#肾病
+
+serried:
+    The soldiers marched in serried ranks towards the airport.
+#士兵们排成密集的行列走向机场。
+
+topsy-turvy:
+    His room was always topsy-turvy.
+#他的房间总是乱七八糟的。
+
+mendacity:
+    Politicians are often accused of mendacity.
+#政客们常被指责为扯谎成性。
+
+mendacious:
+    The mendacious beggar told a different tale of woe at every house. 
+#撒谎的乞丐对每间房子的主人说了不同的悲伤故事。
+
+rout:
+    rout the enemy
+#击溃敌人
+    a complete and utter rout
+#大溃败
+    the army in full rout
+#溃败的军队
+    He routed among the piled newspapers.
+#他在成堆的报纸中翻找。
+
+recant:
+    After a year spent in solitary confinement, he publicly recanted his views.
+#被单独囚禁了一年后，他公开声明放弃他的观点。
+
+mushy:
+    mushy love stories
+#伤感的爱情故事
+    The meat was mushy and tasteless.
+#这肉烂而无味。
+
+kudos:
+    Being an actor has a certain amount of kudos attached to it.
+#当演员有一些与之相联的名誉。
+
+depredation:
+    depredation of environment
+#环境的破坏
+    It will take weeks to clear up the depredations of the storm.
+#清理风暴造成的毁坏要花上几个星期。
+
+wily:
+    Their boss is a bit of a wily old fox.
+#他们的老板有点像一个狡猾的老狐狸。
+
+characterization:
+    As a writer, I am interested in characterization.
+#作为作家，我对人物刻画感兴趣。
+
+motile:
+    motile cells
+#游走细胞
+
+timeworn:
+    timeworn steps
+#磨损了的台阶
+    a timeworn face
+#苍老的脸
+    a timeworn expression
+#陈词滥调
+
+rapprochement:
+    call for a rapprochement with Asian countries
+#呼吁与亚洲国家恢复友好关系
+
+excrete:
+    excrete the waste from the body
+#从体内排出废物
+
+dyspeptic:
+    take a dyspeptic view
+#抱悲观看法
+    I'm a bit dyspeptic after meals.
+#我饭后有点消化不良。
+
+wacky:
+    wacky trends
+#稀奇古怪的时尚
+
+augmentation:
+    augmentation of armament
+#扩充军备
+
+agnostic:
+    She was agnostic about the phenomenon.
+#她对这种观象持一种不可知的态度。
+
+plait:
+    plait a rug
+#编织地毯
+    plait one's hair
+#编辫子
+    The girl wore her hair in two plaits.
+#那女孩编两条辫子。
+
+delectation:
+    TV programs suitable for the delectation of children
+#适合孩子口味的电视节目
+
+adjudicate:
+    The court adjudicated upon the case.
+#院判决了该案。
+
+friable:
+    friable soil
+#松散的土壤
+
+skullduggery:
+    political skullduggery
+#政治欺诈
+
+lucre:
+    They are guilty about the filthy lucre.
+#他们对那不义之财感到内疚。
+
+poignancy:
+    poignancy of delight
+#喜悦之至
+    poignancy of flavor
+#味道的浓烈
+    experiences filled with poignancy
+#充满种种痛苦的经历
+    The poem has a haunting poignancy.
+#这首诗感人肺腑，读后难忘。
+
+piddle:
+    We piddled away the whole day.
+#我们浪费了整天。
+
+to-do:
+    make a great to-do about nothing
+#无端大惊小怪
+
+josh:
+    Don't worry! I was just joshing when I said I'd lost my car keys.
+#别着急! 我说汽车钥匙掉了，只是在开玩笑呢。
+
+licit:
+    It is a licit trade.
+#这是一笔合法交易。
+
+unflappable:
+    She tried very hard to remain cool and unflappable.
+#她竭力保持冷静镇定。
+
+vendetta:
+    There has been a bitter vendetta between the two families for many years.
+#这两个家族之间多年来存在着刻骨的世仇。
+
+ritzy:
+    He is able to buy a still ritzier villa.
+#他有能力购买一套更加豪华的别壁。
+
+rankle:
+    rankling grudges
+#宿怨
+    It rankled him to think of her ingratitude.
+#想到她的忘恩负义使他痛心。
+
+lunatic:
+    lunatic asylum
+#疯人院
+    a lunatic idea
+#疯狂的念头
+    That was a lunatic way to behave.
+#那是愚蠢轻率的表现。
+
+rollicking:
+    live in a rollicking fashion
+#快快活活地过日子
+    She gave the young man a real rollicking.
+#她把那个年轻人臭骂一顿。
+
+caudal:
+    caudal artery
+#尾动脉
+
+parochial:
+    parochial boundaries
+#堂区的边界
+    There's something parochial about her writing, as if she'd never traveled further than the next town.
+#她写的东西显得孤陋寡闻，好像她从未去过比邻镇更远的地方。
+
+automation:
+    Halfway through the exam, I turned into an automation and was writing without thinking.
+#考试进行到一半时，我已经像机器人一般不加思索地答题。
+
+cardiologist:
+    Some people become cardiologists and care for the heart. 
+#一些人成为心血管专家护理心脏。
+
+ligneous:
+    a ligneous floor
+#木质地板
+
+monolithic:
+    a monolithic concrete wall
+#整体式混凝土墙
+    monolithic unity
+#磐石般团结
+    a monolithic calm
+#坚如磐石的沉着
+
+purported:
+    a purported interview
+#传说中的会见
+
+decomposition:
+    in an advanced stage of decomposition
+#处于高度腐烂阶段
+
+overinflated:
+    the overinflated bureaucracy
+#过于庞大的官僚机构
+
+shopworn:
+    shopworn clichés
+#陈词滥调
+    She told him that shopworn story about the time she met a bear in the forest.
+#她告诉他关于她在森林里遇到一头熊的那个老掉牙的故事。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

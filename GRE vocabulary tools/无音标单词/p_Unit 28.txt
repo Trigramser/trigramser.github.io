@@ -1,0 +1,483 @@
+<<<<<<< HEAD
+nurture:
+    As a record company director, his job is to nurture young talents.
+#作为一家唱片公司的董事，他的职责在于培养年轻人才。
+
+hitherto:
+    What happened to the missing hunter is hitherto a complete mystery to us.
+#那个失踪的猎人发生了什么事，到现在对我们来说还是个谜。
+
+reside:
+    These are said to be foreigners residing in our city.
+#据说这些是在我们城市定居的外国人。
+
+discreet :
+    You should be discreet in giving advice, humble in accepting it.
+#提出忠告要谨慎，接受忠告要虚心。
+
+fusion:
+    This metal is formed by the fusion of two other types of metal.
+#这种金属是由两种其他金属熔合而成的。
+
+infringe:
+    The prisoners complained that their rights were being infringed.
+#犯人们抱怨他们的权利受到了侵犯。
+
+oblige:
+    I am obliged to you for the generous support.
+#我十分感激你的大力支持。
+
+plough:
+    Farmers start ploughing in the spring.
+#农民春天开始耕种。
+
+verdict:
+    The jury reached a majority verdict of 10 to 2 in favor of the defendant.
+#陪审团以10票对2票的多数做出了裁决，判定被告胜诉。
+
+chronic:
+    People suffering from chronic indigestion cannot eat more than enough.
+#患有慢性消化不良的人不能多吃。
+
+prestige:
+    The university has immense prestige.
+#这所大学有很高的声望。
+
+fleet:
+    A peace-keeping fleet has been sent to the area.
+#一支维和舰队已经被派往那个地区。
+
+hectic:
+    This morning there was a hectic trading on the stock exchange.
+#今天上午证券交易所的业务十分繁忙
+
+taboo:
+    There are certain rude words that are taboos in ordinary conversation.
+#在日常谈话中忌讳说一些粗俗的话。
+
+signature:
+    Put your signature here please, after you have read the document.
+#读了文件之后，请在这里签名
+
+weary:
+    The long hours of work have wearied me.
+#长时间的工作使我疲惫不堪。
+
+guarantee:
+    The TV set is guaranteed for five years.
+#这台电视机保修5年。
+
+rural:
+    Rural life is usually more peaceful than city life.
+#乡村生活往往比城市生活更宁静。
+
+immerse:
+    He got some books out of the library and immersed himself in history and culture.
+#他从图书馆借了一些书，使自己沉浸在历史和文化中。
+
+sheer:
+    The cliffs rise sheer from the beach.
+#悬崖从海滩上拔地而起。
+
+equity:
+    Their aim is for a society based on equity and social justice.
+#他们的目标是建立一个立足于公平和社会正义基础之上的社会。
+
+preach:
+    The teacher was preaching to her students about the virtue of observing discipline.
+#老师正向学生讲遵守纪律的优点。
+
+wink:
+    He winked at her, and she knew he was only pretending to be angry.
+#他向她眨眼示意，她于是明白了他在假装生气。
+
+purge:
+    The new president has promised to purge the corruption of police force.
+#新任总统保证清除警部队中的腐败现象。
+
+conspicuous:
+    He tried not to look conspicuous and move slowly along the back of the room.
+#他沿着房间后部慢慢移动，尽量不使自己显眼。
+
+rinse:
+    There was no soap, so I just quickly rinsed my hands with water.
+#由于没有肥皂，我只是用水匆匆地冲了一下手。
+
+rejoice:
+    The fans rejoiced over the victory of their team.
+#球迷因自己的队取得胜利而欣喜若狂。
+
+vanilla:
+    Add two teaspoons of vanilla and stir.
+#加入两匙香子兰然后搅拌。
+
+agenda:
+    It's time for us to put the protection of wild animals on the agenda.
+#是把保护野生动物提上日程的时候了。
+
+slight:
+    A slight push can throw the slender girl down.
+#轻轻一推那纤弱的女孩就可能摔倒。
+
+deflect:
+    The president deflected the mounting criticism by announcing tax cuts.
+#总统宣布减税以转移日渐增多的批评。
+
+fatal:
+    Hundreds of people died in the fatal volcanic eruption fifty years ago.
+#数百人死于50年前的那场毁灭性的火山爆发中。
+
+ecstasy:
+    The children were in ecstasies when he told them about the holiday.
+#当他告知孩子们要去度假时，他们都欣喜若狂。
+
+kidnap:
+    The wife of the businessman has been kidnapped from her home in London.
+#那个商人的妻子在她伦敦的家里被人绑架了。
+
+oven:
+    He put the duck in the oven at about 200℃, and took it out an hour later.
+#他把鸭子放进大约 200 摄氏度的烤箱里，一个小时后取出。
+
+intervene:
+    The two brothers were starting fight when their father intervened.
+#兄弟俩正要打架，他们的父亲阻止了他们。
+
+vibrate:
+    If I drive my car too fast, the engine starts to vibrate.
+#要是我驾车太快了，发动机就开始颤动起来。
+
+straightforward:
+    The issue is not quite as straightforward as it appears.
+#这个问题不像看上去那样简单。
+
+vain:
+    Vain glory blossoms but never bears.
+#虚荣能开花，但从不结果。
+
+squeeze:
+    She gave the orange another squeeze and got more juice.
+#她再次挤压橙子，多弄出了一些橙汁。
+
+massive:
+    A massive iceberg is floating off the coast.
+#一座巨大的冰山正漂离海岸。
+
+petty:
+    There are petty thefts around here, stealing milk bottles or something.
+#附近有小偷小摸发生，像是偷牛奶瓶之类的。
+
+mat:
+    He stood on the bath mat as he dried himself.
+#站在浴缸旁边的垫子上擦干身体
+
+catholic:
+    As a young person he had more catholic tastes than he does now.
+#他年轻时的兴趣爱好比现在广泛得多。
+
+clash:
+    The coat clashes with your trousers.
+#这件外套和你的裤子不配。
+
+refresh:
+    You need a holiday to refresh yourself.
+#你该去休个假，让自己振作起来。
+
+allocate:
+    The fund was allocated among the various organizations concerned with the welfare of children.
+#这笔专款在与儿童福利有关的组织之间分配。
+
+monologue:
+    She made a monologue on her last stay in hospital.
+#她唠叨着她上一次住院的经历。
+
+milk:
+    Two dishonest directors were found to have milked the company of several million dollars.
+#不诚实的董事被发现榨取了公司几百万美元。
+
+hardy:
+    A few hardy souls continue to swim in the sea even in winter.
+#一些身强力壮的人甚至在冬天仍继续在海中游泳。
+
+depression:
+    There was a depression in the sand where he had been lying.
+#他躺过的沙子上有个凹陷。
+
+stab:
+    She stabbed a slice of bread.
+#她戳起一片面包。
+
+nominal:
+    The students lodged at nominal rent because the landlady liked their company rather than their money.
+#学生们租的房子房租很低，因为房东太太喜欢与学生做伴，而不是图他们的钱。
+
+abusive:
+    He always becomes abusive to others when he's drunk.
+#他喝醉时常常会骂人。
+
+pastry:
+    Ann makes delicious pastry, you should try her apple pie.
+#安做的糕点很好吃，你应该尝尝她做的苹果派。
+
+superiority:
+    The new design has much greater superiority over the previous ones.
+#这种新型设计的优越性远远大于以往的设计。
+
+plaster:
+    The plaster on the walls cracked as it dried.
+#墙上的灰泥变干时出现了裂缝。
+
+tend:
+    Interest rates are tending upwards/downwards.
+#利率有上升/下降趋势。
+
+blossom:
+    It is springtime now and all the peach trees in the garden are in full blossom.
+#现在是春天了，果园里的所有桃树都开花了。
+
+prompt:
+    She gave a prompt answer to my question.
+#她快速回答了我的问题。
+
+=======
+nurture:
+    As a record company director, his job is to nurture young talents.
+#作为一家唱片公司的董事，他的职责在于培养年轻人才。
+
+hitherto:
+    What happened to the missing hunter is hitherto a complete mystery to us.
+#那个失踪的猎人发生了什么事，到现在对我们来说还是个谜。
+
+reside:
+    These are said to be foreigners residing in our city.
+#据说这些是在我们城市定居的外国人。
+
+discreet :
+    You should be discreet in giving advice, humble in accepting it.
+#提出忠告要谨慎，接受忠告要虚心。
+
+fusion:
+    This metal is formed by the fusion of two other types of metal.
+#这种金属是由两种其他金属熔合而成的。
+
+infringe:
+    The prisoners complained that their rights were being infringed.
+#犯人们抱怨他们的权利受到了侵犯。
+
+oblige:
+    I am obliged to you for the generous support.
+#我十分感激你的大力支持。
+
+plough:
+    Farmers start ploughing in the spring.
+#农民春天开始耕种。
+
+verdict:
+    The jury reached a majority verdict of 10 to 2 in favor of the defendant.
+#陪审团以10票对2票的多数做出了裁决，判定被告胜诉。
+
+chronic:
+    People suffering from chronic indigestion cannot eat more than enough.
+#患有慢性消化不良的人不能多吃。
+
+prestige:
+    The university has immense prestige.
+#这所大学有很高的声望。
+
+fleet:
+    A peace-keeping fleet has been sent to the area.
+#一支维和舰队已经被派往那个地区。
+
+hectic:
+    This morning there was a hectic trading on the stock exchange.
+#今天上午证券交易所的业务十分繁忙
+
+taboo:
+    There are certain rude words that are taboos in ordinary conversation.
+#在日常谈话中忌讳说一些粗俗的话。
+
+signature:
+    Put your signature here please, after you have read the document.
+#读了文件之后，请在这里签名
+
+weary:
+    The long hours of work have wearied me.
+#长时间的工作使我疲惫不堪。
+
+guarantee:
+    The TV set is guaranteed for five years.
+#这台电视机保修5年。
+
+rural:
+    Rural life is usually more peaceful than city life.
+#乡村生活往往比城市生活更宁静。
+
+immerse:
+    He got some books out of the library and immersed himself in history and culture.
+#他从图书馆借了一些书，使自己沉浸在历史和文化中。
+
+sheer:
+    The cliffs rise sheer from the beach.
+#悬崖从海滩上拔地而起。
+
+equity:
+    Their aim is for a society based on equity and social justice.
+#他们的目标是建立一个立足于公平和社会正义基础之上的社会。
+
+preach:
+    The teacher was preaching to her students about the virtue of observing discipline.
+#老师正向学生讲遵守纪律的优点。
+
+wink:
+    He winked at her, and she knew he was only pretending to be angry.
+#他向她眨眼示意，她于是明白了他在假装生气。
+
+purge:
+    The new president has promised to purge the corruption of police force.
+#新任总统保证清除警部队中的腐败现象。
+
+conspicuous:
+    He tried not to look conspicuous and move slowly along the back of the room.
+#他沿着房间后部慢慢移动，尽量不使自己显眼。
+
+rinse:
+    There was no soap, so I just quickly rinsed my hands with water.
+#由于没有肥皂，我只是用水匆匆地冲了一下手。
+
+rejoice:
+    The fans rejoiced over the victory of their team.
+#球迷因自己的队取得胜利而欣喜若狂。
+
+vanilla:
+    Add two teaspoons of vanilla and stir.
+#加入两匙香子兰然后搅拌。
+
+agenda:
+    It's time for us to put the protection of wild animals on the agenda.
+#是把保护野生动物提上日程的时候了。
+
+slight:
+    A slight push can throw the slender girl down.
+#轻轻一推那纤弱的女孩就可能摔倒。
+
+deflect:
+    The president deflected the mounting criticism by announcing tax cuts.
+#总统宣布减税以转移日渐增多的批评。
+
+fatal:
+    Hundreds of people died in the fatal volcanic eruption fifty years ago.
+#数百人死于50年前的那场毁灭性的火山爆发中。
+
+ecstasy:
+    The children were in ecstasies when he told them about the holiday.
+#当他告知孩子们要去度假时，他们都欣喜若狂。
+
+kidnap:
+    The wife of the businessman has been kidnapped from her home in London.
+#那个商人的妻子在她伦敦的家里被人绑架了。
+
+oven:
+    He put the duck in the oven at about 200℃, and took it out an hour later.
+#他把鸭子放进大约 200 摄氏度的烤箱里，一个小时后取出。
+
+intervene:
+    The two brothers were starting fight when their father intervened.
+#兄弟俩正要打架，他们的父亲阻止了他们。
+
+vibrate:
+    If I drive my car too fast, the engine starts to vibrate.
+#要是我驾车太快了，发动机就开始颤动起来。
+
+straightforward:
+    The issue is not quite as straightforward as it appears.
+#这个问题不像看上去那样简单。
+
+vain:
+    Vain glory blossoms but never bears.
+#虚荣能开花，但从不结果。
+
+squeeze:
+    She gave the orange another squeeze and got more juice.
+#她再次挤压橙子，多弄出了一些橙汁。
+
+massive:
+    A massive iceberg is floating off the coast.
+#一座巨大的冰山正漂离海岸。
+
+petty:
+    There are petty thefts around here, stealing milk bottles or something.
+#附近有小偷小摸发生，像是偷牛奶瓶之类的。
+
+mat:
+    He stood on the bath mat as he dried himself.
+#站在浴缸旁边的垫子上擦干身体
+
+catholic:
+    As a young person he had more catholic tastes than he does now.
+#他年轻时的兴趣爱好比现在广泛得多。
+
+clash:
+    The coat clashes with your trousers.
+#这件外套和你的裤子不配。
+
+refresh:
+    You need a holiday to refresh yourself.
+#你该去休个假，让自己振作起来。
+
+allocate:
+    The fund was allocated among the various organizations concerned with the welfare of children.
+#这笔专款在与儿童福利有关的组织之间分配。
+
+monologue:
+    She made a monologue on her last stay in hospital.
+#她唠叨着她上一次住院的经历。
+
+milk:
+    Two dishonest directors were found to have milked the company of several million dollars.
+#不诚实的董事被发现榨取了公司几百万美元。
+
+hardy:
+    A few hardy souls continue to swim in the sea even in winter.
+#一些身强力壮的人甚至在冬天仍继续在海中游泳。
+
+depression:
+    There was a depression in the sand where he had been lying.
+#他躺过的沙子上有个凹陷。
+
+stab:
+    She stabbed a slice of bread.
+#她戳起一片面包。
+
+nominal:
+    The students lodged at nominal rent because the landlady liked their company rather than their money.
+#学生们租的房子房租很低，因为房东太太喜欢与学生做伴，而不是图他们的钱。
+
+abusive:
+    He always becomes abusive to others when he's drunk.
+#他喝醉时常常会骂人。
+
+pastry:
+    Ann makes delicious pastry, you should try her apple pie.
+#安做的糕点很好吃，你应该尝尝她做的苹果派。
+
+superiority:
+    The new design has much greater superiority over the previous ones.
+#这种新型设计的优越性远远大于以往的设计。
+
+plaster:
+    The plaster on the walls cracked as it dried.
+#墙上的灰泥变干时出现了裂缝。
+
+tend:
+    Interest rates are tending upwards/downwards.
+#利率有上升/下降趋势。
+
+blossom:
+    It is springtime now and all the peach trees in the garden are in full blossom.
+#现在是春天了，果园里的所有桃树都开花了。
+
+prompt:
+    She gave a prompt answer to my question.
+#她快速回答了我的问题。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

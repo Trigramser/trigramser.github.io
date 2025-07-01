@@ -1,0 +1,467 @@
+<<<<<<< HEAD
+dual:
+    The room has a dual purpose, serving as both a study and a dining room.
+#这间屋子是两用的，既作书房又作餐厅。
+
+portray:
+    The picture portrays a beautiful young woman and her pet dog.
+#这幅画描绘了一个美貌少妇和她的爱犬。
+
+inevitable:
+    Most quarrels are inevitable at the time, and incredible afterwards.
+#大多数吵架当时是不可避免的，事后也是令人难以置信的。
+
+characteristic:
+    It is characteristic of wisdom not to do desperate things.
+#明智的特点是不做孤注一掷的事。
+
+crooked:
+    You have to drive slowly on these crooked country roads.
+#在这些弯弯曲曲的乡间小路上你得慢慢开车。
+
+creed:
+    People of every color and creed came to the ceremony.
+#各种肤色和教派的人都来参加了仪式。
+
+durable:
+    The resolution calls for a just and durable peace settlement in the area.
+#决议要求在该地区公正、持久地解决和平问题。
+
+affection:
+    I've had the deepest affection and respect for him ever since I've known him.
+#自从我认识他以来，就对他产生了深厚的感情和敬意。
+
+ambitious:
+    Since he is ambitious to get through college in three years, he works hard.
+#他有雄心在三年内读完大学，因此学习很努力。
+
+pitfall:
+    English spelling presents many pitfalls for foreign students.
+#英语拼写对外国学生而言有很多意想不到的困难。
+
+omit:
+    In writing a news report, the unnecessary details in the first paragraph should be omitted, so as to give people an overall view of the report.
+#在写新闻报道时，第一段要去掉一切不必要的细节，以便给人们有关报道的总体印象。
+
+migrate:
+    The couple migrated to Japan for better jobs.
+#这对夫妇迁居日本以谋求更好的工作。
+
+speculative:
+    Our forecast of demand for next year can only be speculative.
+#我们对明年需求的预计只是估测性的。
+
+elapse:
+    Five years have elapsed since he left college.
+#他大学毕业已经5年了。
+
+allegiance:
+    The students here pledge allegiance to the flag at the beginning of the school day.
+#这里的学生每天上课前都会向国旗宣誓。
+
+profile:
+    the actor is photographed in profile.
+#这个演员被从侧面拍了一张照片。
+
+withstand:
+    The city withstood the bombing.
+#那座城市经受住了狂轰滥炸。
+
+toxic:
+    The factory has been sending out toxic waste.
+#这家工厂一直在排放有毒的废料。
+
+predatory:
+    The eagle is a predatory bird which kills its prey with its claws.
+#鹰是一种食肉鸟类，它用爪子杀死猎物。
+
+prerequisite:
+    Public support is a prerequisite for the success of this project.
+#公众支持是这个计划成功的前提条件。
+
+domain :
+    She treated the business as her private domain.
+#她把公司看成她的私人领域。
+
+solicit:
+    It is illegal for public officials to solicit gifts or money in exchange for favors.
+#公职人员以权谋利的行为是违法的。
+
+coarse:
+    The comedian's coarse imitation of the politician made us laugh.
+#喜剧演员对那个政客的拙劣模仿使我们捧腹大笑。
+
+criticize:
+    The government is being widely criticized for its failure to limit air pollution.
+#该政府因未能控制空气污染而广受指责。
+
+tacit:
+    The deal had the tacit approval of the president.
+#这项交易得到了总统的默许。
+
+banish :
+    She was banished from her country for political reasons.
+#她因政治原因而被逐出国。
+
+segment:
+    The boy segmented the bamboo pole into two parts.
+#男孩将竹竿截成两段。
+
+contention:
+    We are in trouble; this is not the time for contention.
+#我们处境很困难，现在不是争论的时候。
+
+aptitude:
+    He has a remarkable aptitude for inventing new things.
+#他具有发明新东西的天赋。
+
+revoke:
+    The authorities have revoked their original decision to allow development of this rural area.
+#局已撤销了允许开发这片农村地区的最初决定。
+
+prosecute:
+    Most of the civil servants involved in the affair have been prosecuted and dismissed.
+#大多数牵涉到这个事件的公务员被起诉并撤职。
+
+breach:
+    His refusal to work on Sunday was a breach of contract.
+#他拒绝在星期天工作是违反合同的。
+
+redeem:
+    She's trying to redeem her reputation by working extra hard.
+#她试图通过更加勤奋工作来挽回声誉。
+
+spiritual:
+    Traditional ways of life provided economic security and spiritual fulfilment.
+#传统生活方式提供了经济保障，满足了精神需求。
+
+depict:
+    The picture depicts the rural scenery in North China.
+#这幅画描绘了华北地区的田园风光。
+
+deploy:
+    My job doesn't really allow me to deploy my talents.
+#我的工作并非真正允许我发挥才能。
+
+exploit:
+    The man exploited his opponent's youth and inexperience for political purposes.
+#那个人利用对手的年轻和缺乏经验来达到政治目的。
+
+revert:
+    After the early settlers left, the area soon reverted to desert.
+#早期的移民离开后，这个地区又很快重新变成一片沙漠。
+
+hamper:
+    Fierce storms have been hampering rescue efforts and there is now little chance of finding more survivors.
+#猛烈的暴风雨一直在阻碍救援工作，现在找到更多生还者的希望渺茫。
+
+annex:
+    They annexed a clause to the contract.
+#他们在合同上附加了一项条款。
+
+protest:
+    People there protested against the building of an airport near their village.
+#当地人抗议在他们村庄附近修建飞机场。
+
+elementary:
+    Elementary services have been provided for the refugees.
+#（这）为难民提供了一些基本的服务。
+
+arid:
+    The desert is so arid that nothing can grow there.
+#沙漠里极其干旱，什么东西也无法生存。
+
+counterpart:
+    The foreign minister is the counterpart of the secretary of state.
+#外交部部长相当于国务卿。
+
+transient:
+    The city has a large transient population.
+#这座城市有大量的暂住人员。
+
+restore:
+    He was restored to his former post.
+#他恢复了原职。
+
+pesticide:
+    The pesticides that farmers spray on their crops kill pests but they can also damage people's health.
+#农民在作物上喷洒的农药可以杀死害虫，但也会损害人体健康。
+
+vital:
+    The heart and the brain are vital human organs.
+#心脏和大脑是人的重要器官。
+
+invade:
+    Famous people often find their privacy invaded by the press.
+#名人常常发现个人隐私受到新闻界侵犯。
+
+courteous:
+    Although she often disagreed with me, she was always courteous.
+#尽管她常常和我意见不一致，但她总是谦恭有礼。
+
+dull:
+    The first day of our holiday was dull.
+#在我们假期的第一天，天阴沉沉的。
+
+validate:
+    In order to validate the agreement, both parties signed off.
+#为使协议生效，双方在上面签了字。
+
+revise:
+    The manager had the article revised three times by his secretary before he took it for the conference.
+#经理让秘书把文章修改三次后才带着它去开会。
+
+fraught:
+    The expedition through the jungle was fraught with difficulties and danger.
+#穿越森林的探险充满着艰辛与危险。
+
+tangible:
+    The policy has not yet brought any tangible benefits.
+#这项政策没有带来任何实质性的好处。
+
+recommendation:
+    She was given the job on her teacher's recommendation.
+#她经老师推荐得到了这份工作。
+
+resort:
+    The aggressive army resorted to different tactics with heavy loss of lives but still they could not enter the city.
+#侵略军采取各种策略，伤亡惨重，可就是攻不进城。
+
+monopolize:
+    The company eventually monopolized the entire cigarette industry.
+#这家公司最后垄断了整个香烟行业。
+
+=======
+dual:
+    The room has a dual purpose, serving as both a study and a dining room.
+#这间屋子是两用的，既作书房又作餐厅。
+
+portray:
+    The picture portrays a beautiful young woman and her pet dog.
+#这幅画描绘了一个美貌少妇和她的爱犬。
+
+inevitable:
+    Most quarrels are inevitable at the time, and incredible afterwards.
+#大多数吵架当时是不可避免的，事后也是令人难以置信的。
+
+characteristic:
+    It is characteristic of wisdom not to do desperate things.
+#明智的特点是不做孤注一掷的事。
+
+crooked:
+    You have to drive slowly on these crooked country roads.
+#在这些弯弯曲曲的乡间小路上你得慢慢开车。
+
+creed:
+    People of every color and creed came to the ceremony.
+#各种肤色和教派的人都来参加了仪式。
+
+durable:
+    The resolution calls for a just and durable peace settlement in the area.
+#决议要求在该地区公正、持久地解决和平问题。
+
+affection:
+    I've had the deepest affection and respect for him ever since I've known him.
+#自从我认识他以来，就对他产生了深厚的感情和敬意。
+
+ambitious:
+    Since he is ambitious to get through college in three years, he works hard.
+#他有雄心在三年内读完大学，因此学习很努力。
+
+pitfall:
+    English spelling presents many pitfalls for foreign students.
+#英语拼写对外国学生而言有很多意想不到的困难。
+
+omit:
+    In writing a news report, the unnecessary details in the first paragraph should be omitted, so as to give people an overall view of the report.
+#在写新闻报道时，第一段要去掉一切不必要的细节，以便给人们有关报道的总体印象。
+
+migrate:
+    The couple migrated to Japan for better jobs.
+#这对夫妇迁居日本以谋求更好的工作。
+
+speculative:
+    Our forecast of demand for next year can only be speculative.
+#我们对明年需求的预计只是估测性的。
+
+elapse:
+    Five years have elapsed since he left college.
+#他大学毕业已经5年了。
+
+allegiance:
+    The students here pledge allegiance to the flag at the beginning of the school day.
+#这里的学生每天上课前都会向国旗宣誓。
+
+profile:
+    the actor is photographed in profile.
+#这个演员被从侧面拍了一张照片。
+
+withstand:
+    The city withstood the bombing.
+#那座城市经受住了狂轰滥炸。
+
+toxic:
+    The factory has been sending out toxic waste.
+#这家工厂一直在排放有毒的废料。
+
+predatory:
+    The eagle is a predatory bird which kills its prey with its claws.
+#鹰是一种食肉鸟类，它用爪子杀死猎物。
+
+prerequisite:
+    Public support is a prerequisite for the success of this project.
+#公众支持是这个计划成功的前提条件。
+
+domain :
+    She treated the business as her private domain.
+#她把公司看成她的私人领域。
+
+solicit:
+    It is illegal for public officials to solicit gifts or money in exchange for favors.
+#公职人员以权谋利的行为是违法的。
+
+coarse:
+    The comedian's coarse imitation of the politician made us laugh.
+#喜剧演员对那个政客的拙劣模仿使我们捧腹大笑。
+
+criticize:
+    The government is being widely criticized for its failure to limit air pollution.
+#该政府因未能控制空气污染而广受指责。
+
+tacit:
+    The deal had the tacit approval of the president.
+#这项交易得到了总统的默许。
+
+banish :
+    She was banished from her country for political reasons.
+#她因政治原因而被逐出国。
+
+segment:
+    The boy segmented the bamboo pole into two parts.
+#男孩将竹竿截成两段。
+
+contention:
+    We are in trouble; this is not the time for contention.
+#我们处境很困难，现在不是争论的时候。
+
+aptitude:
+    He has a remarkable aptitude for inventing new things.
+#他具有发明新东西的天赋。
+
+revoke:
+    The authorities have revoked their original decision to allow development of this rural area.
+#局已撤销了允许开发这片农村地区的最初决定。
+
+prosecute:
+    Most of the civil servants involved in the affair have been prosecuted and dismissed.
+#大多数牵涉到这个事件的公务员被起诉并撤职。
+
+breach:
+    His refusal to work on Sunday was a breach of contract.
+#他拒绝在星期天工作是违反合同的。
+
+redeem:
+    She's trying to redeem her reputation by working extra hard.
+#她试图通过更加勤奋工作来挽回声誉。
+
+spiritual:
+    Traditional ways of life provided economic security and spiritual fulfilment.
+#传统生活方式提供了经济保障，满足了精神需求。
+
+depict:
+    The picture depicts the rural scenery in North China.
+#这幅画描绘了华北地区的田园风光。
+
+deploy:
+    My job doesn't really allow me to deploy my talents.
+#我的工作并非真正允许我发挥才能。
+
+exploit:
+    The man exploited his opponent's youth and inexperience for political purposes.
+#那个人利用对手的年轻和缺乏经验来达到政治目的。
+
+revert:
+    After the early settlers left, the area soon reverted to desert.
+#早期的移民离开后，这个地区又很快重新变成一片沙漠。
+
+hamper:
+    Fierce storms have been hampering rescue efforts and there is now little chance of finding more survivors.
+#猛烈的暴风雨一直在阻碍救援工作，现在找到更多生还者的希望渺茫。
+
+annex:
+    They annexed a clause to the contract.
+#他们在合同上附加了一项条款。
+
+protest:
+    People there protested against the building of an airport near their village.
+#当地人抗议在他们村庄附近修建飞机场。
+
+elementary:
+    Elementary services have been provided for the refugees.
+#（这）为难民提供了一些基本的服务。
+
+arid:
+    The desert is so arid that nothing can grow there.
+#沙漠里极其干旱，什么东西也无法生存。
+
+counterpart:
+    The foreign minister is the counterpart of the secretary of state.
+#外交部部长相当于国务卿。
+
+transient:
+    The city has a large transient population.
+#这座城市有大量的暂住人员。
+
+restore:
+    He was restored to his former post.
+#他恢复了原职。
+
+pesticide:
+    The pesticides that farmers spray on their crops kill pests but they can also damage people's health.
+#农民在作物上喷洒的农药可以杀死害虫，但也会损害人体健康。
+
+vital:
+    The heart and the brain are vital human organs.
+#心脏和大脑是人的重要器官。
+
+invade:
+    Famous people often find their privacy invaded by the press.
+#名人常常发现个人隐私受到新闻界侵犯。
+
+courteous:
+    Although she often disagreed with me, she was always courteous.
+#尽管她常常和我意见不一致，但她总是谦恭有礼。
+
+dull:
+    The first day of our holiday was dull.
+#在我们假期的第一天，天阴沉沉的。
+
+validate:
+    In order to validate the agreement, both parties signed off.
+#为使协议生效，双方在上面签了字。
+
+revise:
+    The manager had the article revised three times by his secretary before he took it for the conference.
+#经理让秘书把文章修改三次后才带着它去开会。
+
+fraught:
+    The expedition through the jungle was fraught with difficulties and danger.
+#穿越森林的探险充满着艰辛与危险。
+
+tangible:
+    The policy has not yet brought any tangible benefits.
+#这项政策没有带来任何实质性的好处。
+
+recommendation:
+    She was given the job on her teacher's recommendation.
+#她经老师推荐得到了这份工作。
+
+resort:
+    The aggressive army resorted to different tactics with heavy loss of lives but still they could not enter the city.
+#侵略军采取各种策略，伤亡惨重，可就是攻不进城。
+
+monopolize:
+    The company eventually monopolized the entire cigarette industry.
+#这家公司最后垄断了整个香烟行业。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

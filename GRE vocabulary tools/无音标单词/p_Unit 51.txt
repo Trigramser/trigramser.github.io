@@ -1,0 +1,637 @@
+<<<<<<< HEAD
+slothful:
+    slothful habits
+#懒散的习惯
+    The woman in the tent next to us is shouting at her slothful son.
+#我们隔壁帐篷里的妇人冲着他那懒散的儿子喊叫。
+
+homemade:
+    homemade pastry
+#自家做的糕饼
+    a homemade bomb
+#土制炸弹
+
+despondent:
+    a despondent young man
+#垂头丧气的青年
+    be despondent about the future
+#对未来失去信心
+    He became increasingly despondent when she failed to return his phone calls.
+#她没有给他回电话，他变得越来越沮丧。
+
+well-deserved:
+    a well-deserved reputation
+#当之无愧的名誉
+    a well-deserved punishment
+#应得的惩罚
+
+grating:
+    The rainwater ran along the grating into a gutter at the side of the road.
+#雨水顺着栅栏流进路边的阴沟里。
+
+euphonious:
+    He was enchanted with the euphonious music. 
+#他陶醉在那悦耳的音乐中。
+
+atrophy:
+    atrophy of talent
+#才能的减退
+    After several months in a hospital, her leg muscles had atrophy.
+#在医院卧病了数月之后，她的腿部肌肉萎缩了。
+
+irrefutable:
+    We have irrefutable evidence of the health risks posed by this type of fertilizer.
+#我们有无可辩驳的证据证明这种肥料威胁健康。
+
+whittle:
+    whittle a branch
+#削树枝
+    whittle a piece of wood
+#削木头
+    Profits are whittled down by the ever-rising cost of energy.
+#不断增长的能源成本使利润下降。
+
+pretense(pretence):
+    make a pretense of affection
+#装作多情
+    be devoid of all pretense
+#毫不做作
+    a man without pretense
+#不装腔作势的人
+    on the pretense of being ill
+#借口生病;
+    do sth. under the pretense of patriotism
+#以爱国主义为借口做某事
+    You shouldn't break your word on the slightest pretense.
+#你不应该以丝毫的借口而失信。
+
+armoured:
+    an armoured personnel carrier
+#装甲兵员运输车
+    an armoured division
+#装甲师
+
+bombastic:
+    a bombastic preacher
+#夸夸其谈的鼓吹者
+    a bombastic statement
+#夸大的言辞
+    He was vain and bombastic.
+#他自负虚荣，大话连篇。
+
+outstrip:
+    Export growth should far outstrip import growth.
+#出口增长应该远超进口增长。
+
+underhanded:
+    an underhanded ship
+#人手不足的船只
+    It was an underhanded attempt to win the contract for himself.
+#这是他为自己赢得合同的不光彩的行为。
+
+containment:
+    The government is said to be pursuing a policy of containment.
+#据说政府在奉行過制政策。
+
+pacifist:
+    His experience in the war turned him into a committed pacifist.
+#他在战争中的经历把他变成了坚定的反战主义者。
+
+consternation:
+    create consternation
+#造成成恐
+    be filled with consternation at the news
+#听到消息惊恐万状
+    To their complete consternation, the swimmers saw a shark approaching.
+#使游泳者极为惊恐的是，他们看到一条鲨鱼正在向他们逼近。
+
+mitigant:
+    It is a wise choice to obey the tide of history to analyze the main reasons of the trend of mitigant penalty and the current realistic basis of the economy society in our country and to put mitigant penalty into practice. 
+#分析刑罚发展趋势的决定因素和我国目前的现实经济社会基础，实行刑罚轻缓化是顺应历史潮流的明智选择。
+
+pliable:
+    a pliable wife
+#顺从的妻子
+    pliable willow twigs
+#依依垂柳
+    Some kinds of plastic become pliable when they're heated.
+#有些塑料遇热变得柔韧。
+
+symbiosis:
+    His extraordinary performance is in total symbiosis with the script.
+#他的出色表演与剧本完全相辅相成。
+
+snippet:
+    snippets of evidence
+#点滴证据
+    a snippet of malicious gossip
+#恶意中伤的只言片语
+    On the bus I heard this interesting snippet of conversation.
+#在公共汽车上我听到这么一段有趣的谈话。
+
+befriend:
+    Alone in the big city he was befriended by an old lady.
+#他孤身一人在大城市时得到一位老太太的帮助。
+
+groundless:
+    groundless accusations
+#毫无根据的控告
+    groundless worries
+#无缘无故的忧虑
+    My fears turned out to be groundless.
+#我的害怕结果证明是无根据的。
+
+impervious:
+    a fabric impervious to moisture
+#防潮织品
+    a carpet impervious to rough treatment
+#经得住乱踩乱踏的地毯
+    be impervious to outside influence
+#不受外界影响的
+    The president remains impervious to public opinion.
+#总统保持不受奥论的影响。
+
+untarnished:
+    untarnished reputation
+#清白的名声
+
+stunning:
+    deal a stunning blow to sb.
+#给某人以致命一击;
+    a stunning victory
+#大捷
+    a stunning performance
+#惊人的演出
+    a stunning female
+#绝色美女
+    From the bedroom there is a stunning view over the bay.
+#从卧室可以看到海湾的迷人景色。
+
+antagonism:
+    racial antagonism
+#种族对抗
+    feel a strong antagonism for/toward
+#对……怀有强烈的敌意
+    Their antagonism are deeply rooted in religion.
+#他们的对立基于根深蒂固的宗教成见。
+
+herbaceous:
+    herbaceous borders
+#花带
+    herbaceous plants
+#草本植物
+
+penalize:
+    Candidates will be penalized for bad spelling.
+#考生拼写错误是要被扣分的。
+
+atonement:
+    He said hooligans should do community service as atonement for their crimes.
+#他说恶棍应通过参加社区服务来赎罪。
+
+itinerant:
+    an itinerant judge
+#巡回法官
+    an itinerant knife sharpener
+#走街串巷的磨刀匠
+    The farms relied heavily on itinerants during the harvest period.
+#这些农场在收获季节大量依靠流动散工干活。
+
+bibliomania:
+
+    It seems that books bought can better satisfy my bibliomania than books borrowed. 
+#借来的书，在我好像过不来痛似的，必要是自己买的才满足。
+
+counterclockwise:
+    turn counterclockwise
+#逆时针方向转动
+
+unpremeditated:
+    What she'd just done, well, it just happened. It was entirely unpremeditated.
+#她刚刚做的事情完全是即兴所为。
+
+dispassionate:
+    a dispassionate observer
+#态度客观的观察员
+    be dispassionate about one's promotion to professorship
+#对被提升为教授无动于衷
+    In all the media hysteria there was one journalist whose comments were clear-sighted and dispassionate.
+#在整个媒体狂热之中，有一位记者的评论视角锐利，冷静客观。
+
+predominate:
+    Sunny days predominate rainy days in desert regions.
+#在沙漠地区，绝大多数日子是艳阳天，下雨极少。
+
+urgency:
+    without a sense of urgency
+#毫无紧迫感
+    a note of urgency in one's voice
+#嗓音显得急迫
+    the urgencies of the present
+#当前的急务
+    the urgency of a war drum
+#战鼓的紧迫催逼
+    It is now a matter of urgency that aid reaches the famine area.
+#让救济物资运抵饥荒地区是现在一件十万火急的事情。
+
+euphoric:
+    For me the whole outing is euphoric.
+#对我来讲，整个出游活动是非常愉快的。
+
+interrelate:
+    interrelated activities
+#相互联系的活动
+    be closely interrelated with our daily life
+#与我们的日常生活紧密相连
+    Children need to be educated about the ways that diet and health interrelate.
+#应该让儿童了解饮食和健康是如何相互联系的。
+
+chivalrous:
+    In public he was always chivalrous and would help her on with her coat.
+#在公开场合他总是很有骑士风度，会帮她穿上外套。
+
+overtax:
+    Food, books and children's clothing should not be overtaxed.
+#食品、书籍和儿童服装不应该过多地上税。
+
+satiate:
+    be satiated with pleasure
+#寻欢作乐过度而厌腻
+    She was so satiated with chocolates that she would not even look at one.
+#她对巧克力糖厌腻得连看都不愿看。
+
+retrospective:
+    a retrospective of one's work
+#作品回顾展;
+    retrospective thoughts
+#怀旧思绪
+    a retrospective view
+#屋后风景
+    A retrospective atmosphere pervaded the whole film.
+#怀旧的氛围弥漫了整部电影。
+
+spectral:
+    a spectral figure
+#鬼影
+    spectral music
+#阴森的音乐
+    spectral analysis
+#光谱分析
+    He heard the spectral voices of drowned sailors.
+#他听见了溺水船员幽灵般的声音。
+
+abut:
+    The shed abuts against a stone wall.
+#棚子紧靠一堵石墙。
+
+nonsensical:
+    a nonsensical problem
+#荒谬的问题
+    Their methods of assessment produce nonsensical results.
+#他们的评估方法产生了荒谬的结果。
+
+pancreas:
+    Insulin is secreted by the pancreas. 
+#胰岛素是胰腺分泌的。
+
+fervor:
+    speak with great fervor
+#热情洋溢的讲话
+
+sedentary:
+    a sedentary position
+#坐姿
+    a sedentary statue
+#坐姿雕像
+    be bored with sedentary work
+#对坐办公室厌倦
+    Many people in sedentary occupations do not take enough exercise.
+#许多工作时久坐的人缺少足够的锻炼。
+
+ungrateful:
+    an ungrateful heir
+#不知感恩的继承人
+    an ungrateful task
+#乏味的工作
+    It will look very ungrateful if you don't phone and thank him.
+#如果你不打电话表示感谢就会显得不知好歹了。
+
+=======
+slothful:
+    slothful habits
+#懒散的习惯
+    The woman in the tent next to us is shouting at her slothful son.
+#我们隔壁帐篷里的妇人冲着他那懒散的儿子喊叫。
+
+homemade:
+    homemade pastry
+#自家做的糕饼
+    a homemade bomb
+#土制炸弹
+
+despondent:
+    a despondent young man
+#垂头丧气的青年
+    be despondent about the future
+#对未来失去信心
+    He became increasingly despondent when she failed to return his phone calls.
+#她没有给他回电话，他变得越来越沮丧。
+
+well-deserved:
+    a well-deserved reputation
+#当之无愧的名誉
+    a well-deserved punishment
+#应得的惩罚
+
+grating:
+    The rainwater ran along the grating into a gutter at the side of the road.
+#雨水顺着栅栏流进路边的阴沟里。
+
+euphonious:
+    He was enchanted with the euphonious music. 
+#他陶醉在那悦耳的音乐中。
+
+atrophy:
+    atrophy of talent
+#才能的减退
+    After several months in a hospital, her leg muscles had atrophy.
+#在医院卧病了数月之后，她的腿部肌肉萎缩了。
+
+irrefutable:
+    We have irrefutable evidence of the health risks posed by this type of fertilizer.
+#我们有无可辩驳的证据证明这种肥料威胁健康。
+
+whittle:
+    whittle a branch
+#削树枝
+    whittle a piece of wood
+#削木头
+    Profits are whittled down by the ever-rising cost of energy.
+#不断增长的能源成本使利润下降。
+
+pretense(pretence):
+    make a pretense of affection
+#装作多情
+    be devoid of all pretense
+#毫不做作
+    a man without pretense
+#不装腔作势的人
+    on the pretense of being ill
+#借口生病;
+    do sth. under the pretense of patriotism
+#以爱国主义为借口做某事
+    You shouldn't break your word on the slightest pretense.
+#你不应该以丝毫的借口而失信。
+
+armoured:
+    an armoured personnel carrier
+#装甲兵员运输车
+    an armoured division
+#装甲师
+
+bombastic:
+    a bombastic preacher
+#夸夸其谈的鼓吹者
+    a bombastic statement
+#夸大的言辞
+    He was vain and bombastic.
+#他自负虚荣，大话连篇。
+
+outstrip:
+    Export growth should far outstrip import growth.
+#出口增长应该远超进口增长。
+
+underhanded:
+    an underhanded ship
+#人手不足的船只
+    It was an underhanded attempt to win the contract for himself.
+#这是他为自己赢得合同的不光彩的行为。
+
+containment:
+    The government is said to be pursuing a policy of containment.
+#据说政府在奉行過制政策。
+
+pacifist:
+    His experience in the war turned him into a committed pacifist.
+#他在战争中的经历把他变成了坚定的反战主义者。
+
+consternation:
+    create consternation
+#造成成恐
+    be filled with consternation at the news
+#听到消息惊恐万状
+    To their complete consternation, the swimmers saw a shark approaching.
+#使游泳者极为惊恐的是，他们看到一条鲨鱼正在向他们逼近。
+
+mitigant:
+    It is a wise choice to obey the tide of history to analyze the main reasons of the trend of mitigant penalty and the current realistic basis of the economy society in our country and to put mitigant penalty into practice. 
+#分析刑罚发展趋势的决定因素和我国目前的现实经济社会基础，实行刑罚轻缓化是顺应历史潮流的明智选择。
+
+pliable:
+    a pliable wife
+#顺从的妻子
+    pliable willow twigs
+#依依垂柳
+    Some kinds of plastic become pliable when they're heated.
+#有些塑料遇热变得柔韧。
+
+symbiosis:
+    His extraordinary performance is in total symbiosis with the script.
+#他的出色表演与剧本完全相辅相成。
+
+snippet:
+    snippets of evidence
+#点滴证据
+    a snippet of malicious gossip
+#恶意中伤的只言片语
+    On the bus I heard this interesting snippet of conversation.
+#在公共汽车上我听到这么一段有趣的谈话。
+
+befriend:
+    Alone in the big city he was befriended by an old lady.
+#他孤身一人在大城市时得到一位老太太的帮助。
+
+groundless:
+    groundless accusations
+#毫无根据的控告
+    groundless worries
+#无缘无故的忧虑
+    My fears turned out to be groundless.
+#我的害怕结果证明是无根据的。
+
+impervious:
+    a fabric impervious to moisture
+#防潮织品
+    a carpet impervious to rough treatment
+#经得住乱踩乱踏的地毯
+    be impervious to outside influence
+#不受外界影响的
+    The president remains impervious to public opinion.
+#总统保持不受奥论的影响。
+
+untarnished:
+    untarnished reputation
+#清白的名声
+
+stunning:
+    deal a stunning blow to sb.
+#给某人以致命一击;
+    a stunning victory
+#大捷
+    a stunning performance
+#惊人的演出
+    a stunning female
+#绝色美女
+    From the bedroom there is a stunning view over the bay.
+#从卧室可以看到海湾的迷人景色。
+
+antagonism:
+    racial antagonism
+#种族对抗
+    feel a strong antagonism for/toward
+#对……怀有强烈的敌意
+    Their antagonism are deeply rooted in religion.
+#他们的对立基于根深蒂固的宗教成见。
+
+herbaceous:
+    herbaceous borders
+#花带
+    herbaceous plants
+#草本植物
+
+penalize:
+    Candidates will be penalized for bad spelling.
+#考生拼写错误是要被扣分的。
+
+atonement:
+    He said hooligans should do community service as atonement for their crimes.
+#他说恶棍应通过参加社区服务来赎罪。
+
+itinerant:
+    an itinerant judge
+#巡回法官
+    an itinerant knife sharpener
+#走街串巷的磨刀匠
+    The farms relied heavily on itinerants during the harvest period.
+#这些农场在收获季节大量依靠流动散工干活。
+
+bibliomania:
+
+    It seems that books bought can better satisfy my bibliomania than books borrowed. 
+#借来的书，在我好像过不来痛似的，必要是自己买的才满足。
+
+counterclockwise:
+    turn counterclockwise
+#逆时针方向转动
+
+unpremeditated:
+    What she'd just done, well, it just happened. It was entirely unpremeditated.
+#她刚刚做的事情完全是即兴所为。
+
+dispassionate:
+    a dispassionate observer
+#态度客观的观察员
+    be dispassionate about one's promotion to professorship
+#对被提升为教授无动于衷
+    In all the media hysteria there was one journalist whose comments were clear-sighted and dispassionate.
+#在整个媒体狂热之中，有一位记者的评论视角锐利，冷静客观。
+
+predominate:
+    Sunny days predominate rainy days in desert regions.
+#在沙漠地区，绝大多数日子是艳阳天，下雨极少。
+
+urgency:
+    without a sense of urgency
+#毫无紧迫感
+    a note of urgency in one's voice
+#嗓音显得急迫
+    the urgencies of the present
+#当前的急务
+    the urgency of a war drum
+#战鼓的紧迫催逼
+    It is now a matter of urgency that aid reaches the famine area.
+#让救济物资运抵饥荒地区是现在一件十万火急的事情。
+
+euphoric:
+    For me the whole outing is euphoric.
+#对我来讲，整个出游活动是非常愉快的。
+
+interrelate:
+    interrelated activities
+#相互联系的活动
+    be closely interrelated with our daily life
+#与我们的日常生活紧密相连
+    Children need to be educated about the ways that diet and health interrelate.
+#应该让儿童了解饮食和健康是如何相互联系的。
+
+chivalrous:
+    In public he was always chivalrous and would help her on with her coat.
+#在公开场合他总是很有骑士风度，会帮她穿上外套。
+
+overtax:
+    Food, books and children's clothing should not be overtaxed.
+#食品、书籍和儿童服装不应该过多地上税。
+
+satiate:
+    be satiated with pleasure
+#寻欢作乐过度而厌腻
+    She was so satiated with chocolates that she would not even look at one.
+#她对巧克力糖厌腻得连看都不愿看。
+
+retrospective:
+    a retrospective of one's work
+#作品回顾展;
+    retrospective thoughts
+#怀旧思绪
+    a retrospective view
+#屋后风景
+    A retrospective atmosphere pervaded the whole film.
+#怀旧的氛围弥漫了整部电影。
+
+spectral:
+    a spectral figure
+#鬼影
+    spectral music
+#阴森的音乐
+    spectral analysis
+#光谱分析
+    He heard the spectral voices of drowned sailors.
+#他听见了溺水船员幽灵般的声音。
+
+abut:
+    The shed abuts against a stone wall.
+#棚子紧靠一堵石墙。
+
+nonsensical:
+    a nonsensical problem
+#荒谬的问题
+    Their methods of assessment produce nonsensical results.
+#他们的评估方法产生了荒谬的结果。
+
+pancreas:
+    Insulin is secreted by the pancreas. 
+#胰岛素是胰腺分泌的。
+
+fervor:
+    speak with great fervor
+#热情洋溢的讲话
+
+sedentary:
+    a sedentary position
+#坐姿
+    a sedentary statue
+#坐姿雕像
+    be bored with sedentary work
+#对坐办公室厌倦
+    Many people in sedentary occupations do not take enough exercise.
+#许多工作时久坐的人缺少足够的锻炼。
+
+ungrateful:
+    an ungrateful heir
+#不知感恩的继承人
+    an ungrateful task
+#乏味的工作
+    It will look very ungrateful if you don't phone and thank him.
+#如果你不打电话表示感谢就会显得不知好歹了。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

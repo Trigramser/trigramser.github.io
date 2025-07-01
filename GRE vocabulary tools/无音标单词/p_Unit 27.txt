@@ -1,0 +1,441 @@
+<<<<<<< HEAD
+partition:
+    She partitioned the large room into a lounge and a dining-room.
+#她把那个大房间分隔成起居室和餐厅。
+
+slant:
+    That picture needs to be slanted slightly to the left.
+#那幅画需要稍微向左倾斜。
+
+coward:
+    She accused her husband of being a coward.
+#她指责自己的丈夫是个胆小鬼。
+
+stray:
+    The pigs strayed into his vegetable garden and made a mess there.
+#那些猪闯进他的菜园子，弄得那里一团糟。
+
+prosperous:
+    We are experiencing a prosperous period of economic growth.
+#我们正经历着一段经济繁荣发展的时期。
+
+proclaim:
+    All the countries have proclaimed their loyalty to the alliance.
+#所有的国家都宣布了对联盟的忠诚。
+
+inhale:
+    She flung open the window and inhaled deeply.
+#她打开窗户，深深吸了口气。
+
+buck:
+    buck against bad luck
+#与厄运做斗争
+
+intoxicate:
+    He was fined for driving while intoxicated.
+#他因醉酒开车被罚款。
+
+tyranny:
+    It was a war against tyranny.
+#那是一场反对政的战争。
+
+recipe:
+    She is always looking for new recipes for different jobs.
+#她总在寻求做种种事情的新门道。
+
+ethic:
+    The modern ethic of some people seems to be irrational.
+#现代一些人的伦理观似乎是荒谬的。
+
+unsettle:
+    There are fears that the airline's decision to cut air fares will unsettle the market.
+#人们担心航空公司减价的决定会使市场波动不定。
+
+congregate :
+    The crowds congregated around the entrance to the theater, hoping to catch a glimpse of the stars of the show.
+#人群聚集在戏院出口处，希望一睹出演这个节目的明星们。
+
+ignite:
+    The fuel spontaneously ignites because of the high temperature and pressure.
+#燃料因高温和高压而自燃。
+
+menace:
+    Nuclear weapons are a menace to world peace and the whole mankind.
+#核武器是对世界和平和全人类的威胁。
+
+recruit:
+    The recruits are being drilled on a school playground.
+#新兵正在一所学校的操场上接受训练。
+
+dictator:
+    The country is ruled by a ruthless dictator.
+#那个国家被一个残酷的独裁者统治着。
+
+pretext:
+    The border dispute was used as a pretext for military intervention.
+#边界纠纷是军事入侵的借口。
+
+stunt:
+    In the film he had to drive a car into the sea, and do other hair-raising stunts.
+#他在这部电影中得把车子开进海里，并表演其他一些惊人的特技。
+
+dominant:
+    The castle was built in a dominant position on a hill.
+#城堡筑在小山上，可以俯视四周。
+
+paralyse(paralyze):
+    He was paralyzed when he was being robbed by a gang.
+#一伙人抢劫的时候他吓得动弹不得。
+
+sway:
+    She swayed her head from side to side with worry.
+#她忧心忡忡地不时摇着头。
+
+disguise:
+    The detective disguised himself as a tea trader.
+#那名侦探把自己装扮成茶叶商。
+
+prop:
+    She propped her bike against the fence.
+#她把自行车靠在篱笆上。
+
+dispose:
+    Deep in debt, the family was forced to dispose of most of its possessions.
+#这家人债台高筑，被迫变卖掉了大部分家产。
+
+patriot:
+    Many patriots were killed by the invaders.
+#许多爱国人士被人侵者杀害了。
+
+cluster:
+    I found a cluster of mushrooms at the bottom of the field.
+#我在田野的尽头发现了一丛蘑菇。
+
+unanimous:
+    He was elected by a unanimous vote.
+#他全票当选。
+
+browse:
+    While he was out I had a good browse through the books on his shelf.
+#他出去时，我把他书架上的书好好浏览了一遍。
+
+naive:
+    She is a naive little girl, and she can't cheat you.
+#她是个天真的小女孩，不会骗你的。
+
+massacre:
+    The victims of the massacre were mainly the very young and the very old.
+#大屠杀的受害者主要是幼童和老人。
+
+artificial:
+    The drink contains no artificial colors.
+#这饮料不含任何人造色素。
+
+impetus:
+    The government's new policy gave fresh impetus to commerce and trade.
+#政府的新政策给商业和贸易提供了新的动力。
+
+concession:
+    The firm's promise to increase our pay was a concession to our demands.
+#公司答应提高我们的工资是对我们所提要求的让步。
+
+compile:
+    It took him 15 years to compile the English-Chinese dictionary.
+#编纂这部英汉词典用了他l5年时间。
+
+presentation:
+    The scholarship is an annual presentation to college students with good behavior and excellent academic achievements.
+#奖学金每年一度颁发给品学兼优的大学生。
+
+patch:
+    He patched the small hole and pumped in air so that the bike tyre could be used again.
+#他补上了那个小洞，充了气，自行车轮胎又能用了。
+
+voucher:
+    The voucher is valid between July and December and entitles you to 10% off all overseas flights.
+#礼券在7月到12月之间有效，你所有的海外飞行享受10%的优惠。
+
+subsistence:
+    The money is intended to provide basic subsistence and should not be paid to someone who receives other income.
+#这些钱是为提供最低生活用的，不能发给有其他收入的人。
+
+tinge:
+    The Grand Canyon is often tinged pink and purple by the early morning sun.
+#清晨的太阳常常把大峡谷染成粉红色和淡紫色
+
+implant:
+    She has had a liver implanted.
+#她接受了肝移植手术。
+
+mash:
+    Mash the potatoes and then mix them in the butter, onions and garlic.
+#捣碎土豆，然后拌人黄油、洋葱和大蒜。
+
+rack:
+    He was racked with guilt.
+#他因负罪而不安。
+
+cue:
+    They started washing up, so that was our cue to leave the party.
+#他们开始洗刷碗碟，这就暗示我们该离开晚会了。
+
+asset:
+    He estimated her assets at about five million dollars.
+#他估计她的财产大约有500万美元。
+
+affiliate:
+    The medicine company is affiliated to a large joint venture.
+#这家医药公司隶属于一家大型合资企业。
+
+integrity:
+    There is no doubt that the president was a man of the highest integrity.
+#毫无疑问董事长是个光明磊落的人。
+
+resident:
+    Local residents see the same old lady there at the same time of the day.
+#每天在同样的时间，当地居民都能在那里看到同一位老太太。
+abrupt:
+    The train came to an abrupt stop, making many passengers fall off the seats.
+#火车突然停住了，使许多旅客从座位上摔了下来。
+
+hush:
+    The crowd hushed as the judge walked in.
+#法官走进来时，人群安静了下来。
+
+pang:
+    She left her children with a pang of regret.
+#她离开自己的孩子时感到一阵痛苦的愧疚。
+
+chant:
+    There was a group of demonstrators chanting slogans in the square.
+#广场上有一群示威者在呼喊口号。
+
+swell:
+    The company swelled in the past three years and I was worried that it might get inefficient.
+#在过去三年里，公司快速膨胀，我担心效率会降低。
+
+hike:
+    People go on hikes for pleasure and for exercise.
+#人们为了乐趣和运动而进行徒步旅行。
+
+=======
+partition:
+    She partitioned the large room into a lounge and a dining-room.
+#她把那个大房间分隔成起居室和餐厅。
+
+slant:
+    That picture needs to be slanted slightly to the left.
+#那幅画需要稍微向左倾斜。
+
+coward:
+    She accused her husband of being a coward.
+#她指责自己的丈夫是个胆小鬼。
+
+stray:
+    The pigs strayed into his vegetable garden and made a mess there.
+#那些猪闯进他的菜园子，弄得那里一团糟。
+
+prosperous:
+    We are experiencing a prosperous period of economic growth.
+#我们正经历着一段经济繁荣发展的时期。
+
+proclaim:
+    All the countries have proclaimed their loyalty to the alliance.
+#所有的国家都宣布了对联盟的忠诚。
+
+inhale:
+    She flung open the window and inhaled deeply.
+#她打开窗户，深深吸了口气。
+
+buck:
+    buck against bad luck
+#与厄运做斗争
+
+intoxicate:
+    He was fined for driving while intoxicated.
+#他因醉酒开车被罚款。
+
+tyranny:
+    It was a war against tyranny.
+#那是一场反对政的战争。
+
+recipe:
+    She is always looking for new recipes for different jobs.
+#她总在寻求做种种事情的新门道。
+
+ethic:
+    The modern ethic of some people seems to be irrational.
+#现代一些人的伦理观似乎是荒谬的。
+
+unsettle:
+    There are fears that the airline's decision to cut air fares will unsettle the market.
+#人们担心航空公司减价的决定会使市场波动不定。
+
+congregate :
+    The crowds congregated around the entrance to the theater, hoping to catch a glimpse of the stars of the show.
+#人群聚集在戏院出口处，希望一睹出演这个节目的明星们。
+
+ignite:
+    The fuel spontaneously ignites because of the high temperature and pressure.
+#燃料因高温和高压而自燃。
+
+menace:
+    Nuclear weapons are a menace to world peace and the whole mankind.
+#核武器是对世界和平和全人类的威胁。
+
+recruit:
+    The recruits are being drilled on a school playground.
+#新兵正在一所学校的操场上接受训练。
+
+dictator:
+    The country is ruled by a ruthless dictator.
+#那个国家被一个残酷的独裁者统治着。
+
+pretext:
+    The border dispute was used as a pretext for military intervention.
+#边界纠纷是军事入侵的借口。
+
+stunt:
+    In the film he had to drive a car into the sea, and do other hair-raising stunts.
+#他在这部电影中得把车子开进海里，并表演其他一些惊人的特技。
+
+dominant:
+    The castle was built in a dominant position on a hill.
+#城堡筑在小山上，可以俯视四周。
+
+paralyse(paralyze):
+    He was paralyzed when he was being robbed by a gang.
+#一伙人抢劫的时候他吓得动弹不得。
+
+sway:
+    She swayed her head from side to side with worry.
+#她忧心忡忡地不时摇着头。
+
+disguise:
+    The detective disguised himself as a tea trader.
+#那名侦探把自己装扮成茶叶商。
+
+prop:
+    She propped her bike against the fence.
+#她把自行车靠在篱笆上。
+
+dispose:
+    Deep in debt, the family was forced to dispose of most of its possessions.
+#这家人债台高筑，被迫变卖掉了大部分家产。
+
+patriot:
+    Many patriots were killed by the invaders.
+#许多爱国人士被人侵者杀害了。
+
+cluster:
+    I found a cluster of mushrooms at the bottom of the field.
+#我在田野的尽头发现了一丛蘑菇。
+
+unanimous:
+    He was elected by a unanimous vote.
+#他全票当选。
+
+browse:
+    While he was out I had a good browse through the books on his shelf.
+#他出去时，我把他书架上的书好好浏览了一遍。
+
+naive:
+    She is a naive little girl, and she can't cheat you.
+#她是个天真的小女孩，不会骗你的。
+
+massacre:
+    The victims of the massacre were mainly the very young and the very old.
+#大屠杀的受害者主要是幼童和老人。
+
+artificial:
+    The drink contains no artificial colors.
+#这饮料不含任何人造色素。
+
+impetus:
+    The government's new policy gave fresh impetus to commerce and trade.
+#政府的新政策给商业和贸易提供了新的动力。
+
+concession:
+    The firm's promise to increase our pay was a concession to our demands.
+#公司答应提高我们的工资是对我们所提要求的让步。
+
+compile:
+    It took him 15 years to compile the English-Chinese dictionary.
+#编纂这部英汉词典用了他l5年时间。
+
+presentation:
+    The scholarship is an annual presentation to college students with good behavior and excellent academic achievements.
+#奖学金每年一度颁发给品学兼优的大学生。
+
+patch:
+    He patched the small hole and pumped in air so that the bike tyre could be used again.
+#他补上了那个小洞，充了气，自行车轮胎又能用了。
+
+voucher:
+    The voucher is valid between July and December and entitles you to 10% off all overseas flights.
+#礼券在7月到12月之间有效，你所有的海外飞行享受10%的优惠。
+
+subsistence:
+    The money is intended to provide basic subsistence and should not be paid to someone who receives other income.
+#这些钱是为提供最低生活用的，不能发给有其他收入的人。
+
+tinge:
+    The Grand Canyon is often tinged pink and purple by the early morning sun.
+#清晨的太阳常常把大峡谷染成粉红色和淡紫色
+
+implant:
+    She has had a liver implanted.
+#她接受了肝移植手术。
+
+mash:
+    Mash the potatoes and then mix them in the butter, onions and garlic.
+#捣碎土豆，然后拌人黄油、洋葱和大蒜。
+
+rack:
+    He was racked with guilt.
+#他因负罪而不安。
+
+cue:
+    They started washing up, so that was our cue to leave the party.
+#他们开始洗刷碗碟，这就暗示我们该离开晚会了。
+
+asset:
+    He estimated her assets at about five million dollars.
+#他估计她的财产大约有500万美元。
+
+affiliate:
+    The medicine company is affiliated to a large joint venture.
+#这家医药公司隶属于一家大型合资企业。
+
+integrity:
+    There is no doubt that the president was a man of the highest integrity.
+#毫无疑问董事长是个光明磊落的人。
+
+resident:
+    Local residents see the same old lady there at the same time of the day.
+#每天在同样的时间，当地居民都能在那里看到同一位老太太。
+abrupt:
+    The train came to an abrupt stop, making many passengers fall off the seats.
+#火车突然停住了，使许多旅客从座位上摔了下来。
+
+hush:
+    The crowd hushed as the judge walked in.
+#法官走进来时，人群安静了下来。
+
+pang:
+    She left her children with a pang of regret.
+#她离开自己的孩子时感到一阵痛苦的愧疚。
+
+chant:
+    There was a group of demonstrators chanting slogans in the square.
+#广场上有一群示威者在呼喊口号。
+
+swell:
+    The company swelled in the past three years and I was worried that it might get inefficient.
+#在过去三年里，公司快速膨胀，我担心效率会降低。
+
+hike:
+    People go on hikes for pleasure and for exercise.
+#人们为了乐趣和运动而进行徒步旅行。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

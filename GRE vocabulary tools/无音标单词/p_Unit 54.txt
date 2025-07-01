@@ -1,0 +1,613 @@
+<<<<<<< HEAD
+belligerent:
+    speak in a belligerent voice
+#用挑战的口说话
+    belligerent feelings
+#敌对的情绪
+    the belligerent powers
+#诸交战国
+    The belligerent countries are having difficulties funding the war.
+#交战国缺乏战争资金。
+
+fearsome:
+    fearsome chemical weapons
+#可怕的化学武器
+    a fearsome display of violence
+#可怕的暴力行为
+    fearsome noise
+#可怕的噪声
+    a fearsome rate
+#极快的速度
+
+sentimentalize:
+    sentimentalize over/about one's childhood
+#回想童年而伤感
+    The film is a sentimentalized version of what actually happened.
+#那部电影伤感地反映了实际发生的事情。
+
+bolster:
+    bolster the roof
+#把屋顶支起来
+    bolster the industry
+#促进工业
+    bolster one's image
+#改善形象
+    She tried to bolster his confidence by telling him that he had a special talent.
+#她告诉他，他有特殊才能，试图增强他的自信心。
+
+uninitiated:
+    the uninitiated
+#缺乏某种特定知识和经验的人
+    This must seem a bizarre ceremony to uninitiated Western eyes.
+#这种礼仪在不熟悉的西方人看来定很怪诞。
+
+opprobrious:
+    opprobrious language
+#骂人的话
+    opprobrious conduct
+#恶行
+    an opprobrious affair
+#丑事
+
+flickering:
+    a flickering hope
+#微弱的希望
+    a flickering light
+#闪烁的光
+    flickering leaves
+#颤动着的树叶
+    flickerings of a possible reconciliation
+#和解的迹象
+    We sat comfortably by the flickering fire, reading our books.
+#我们舒舒服服地坐在摇曳的火光前看书。
+
+exhilaration:
+    After the walk in the woods, I felt a certain feeling of exhilaration.
+#在林间散步之后，我有种心旷神怡之感。
+
+rescind:
+    rescind an agreement
+#废除协议
+    rescind a contract
+#解除合同
+    rescind the order
+#收回成命
+    The government rescinded his French citizenship.
+#政府取消了他的法国国籍。
+
+neolithic:
+    This area has been used as a burial ground since neolithic times.
+#这个地区从新石器时代起一直被用作墓地。
+
+off-key:
+    The vocals are off-key.
+#歌声走音了。
+
+underrate:
+    make the mistake of underrating sb.
+#犯了低估某人的错误
+    The company has consistently underrated the importance of a well-trained workforce.
+#这个公司一贯低估一支受过良好训练的员工队伍的重要性。
+
+impunity:
+    The verdict seemed to be impunity.
+#看来裁决可能是免于惩处。
+
+unimpassioned:
+    an unimpassioned discussion of the problem
+#问题心平气和的讨论
+
+synchronization:
+    The entire roomful of dancers moved in perfect synchronization, just like in the movies.
+#一屋子的舞者步调完全一致地跳着舞，就像电影里发生的情节一样。
+
+
+reprehensible:
+    a morally reprehensible act
+#道义上应受严责的行为
+
+potted:
+    potted eat
+#罐装肉
+    a potted version of Shakespeare's plays
+#莎士比亚戏剧简写本
+    There were potted plants on the windowsill.
+#窗台上摆着盆栽植物。
+
+investigative:
+    an investigative report
+#调查报告
+    investigative journalism
+#调查性新闻
+    Children are encouraged to take an investigative approach to learning.
+#鼓励儿童采取一种探究型学习方式。
+
+concoct:
+    concoct an amazing dish
+#调制出令人惊奇的菜肴
+    concoct a new kind of soup
+#配置一种新汤
+    concoct an excuse
+#编造借口
+    He concocted a story about working late at the office, but I knew he was going drinking with his brother.
+#他编造了一个在办公室加班的故事，不过我知道他和他兄弟喝酒去了。
+
+omnipotent:
+    an omnipotent God
+#全能的上帝
+    in omnipotent silence
+#在绝对的肃静中
+    an omnipotent villain
+#彻头彻尾的恶棍
+    Until his illness, we'd always thought of the president as omnipotent.
+#在总统生病之前，我们一直认为他是万能的。
+
+verifiable:
+    He didn't produce a single verifiable fact to prove that the alleged incident had ever taken place.
+#他没有提供一丁点可靠的事实来证明那一事件曾发生过。
+
+impartiality:
+    Some ministers are pressing for new rules on broadcasting impartiality.
+#一些部长迫切要求就广播的客观性制定新规则。
+
+adulatory:
+    adulatory listeners
+#捧场的听众
+    an adulatory speech
+#一席溢美之词
+    He is being adulatory of the candidate.
+#他是在吹嘘候选人。
+
+sanctum:
+    Few people ever managed to penetrate the manager's inner sanctum.
+#几乎没有人曾进人过经理的私室。
+
+flagging:
+    flagging spirit
+#萎靡不振的精神
+    flagging morale
+#衰弱的士气
+    the flagging economy
+#萎缩的经济
+
+fertilize:
+    fertilize farmland
+#给农田施肥
+    fertilize one's vocabulary with wide reading
+#通过博览群书来丰富词汇
+    fertilized eggs
+#受精卵
+    Bees can fertilize flowers.
+#蜜蜂能使花受精。
+
+permissive:
+    a permissive school
+#放任自由的学校
+    a permissive attitude
+#宽容放任的态度
+    a permissive society
+#性开放的社会
+    a permissive regulation
+#非约束性规定
+    He claims that some parents have been far too permissive towards their children.
+#他声称有些父对孩子过分纵容。
+
+uneventful:
+    an uneventful week
+#平静无事的一周
+    an uneventful life
+#平静的生活/平凡的一生
+    uneventful recovery
+#顺利的复原
+    They had an uneventful journey.
+#他们的旅途平安无事。
+
+indubitably:
+    He looked different but it was indubitably John.
+#他看上去(跟从前)有些不同，但他肯定是约翰。
+
+choreograph:
+    The ballet was choreographed by Ashton.
+#这部蕾舞剧是阿什顿设计的舞蹈动作。
+
+irradicable:
+    an irradicable prejudice
+#根深蒂固的偏见
+
+misconstrue:
+    You misconstrue me if you think I will give up my support of the plan.
+#如果你以为我将不再支持这项计划，那你就误解我的意思了。
+
+coercive:
+    The president relied on coercive powers of the military and the police to enforce law and order.
+#总统凭借军队和警察这种强制力量实施法律和维持秩序。
+
+well-intentioned:
+    He described the report as well-intentioned, but misguided.
+#他称这份报告本意是好的，但指导思想是错误的。
+
+preempt:
+    The rebels have preempted the power of the local government.
+#反叛者已经夺取了地方政府的权力。
+
+ingrain:
+    ingrain habits
+#固习
+    A deep respect for the truth has been ingrained in the child.
+#尊重真理的深刻信念深深扎根在这孩子的心中。
+
+veracious:
+    a veracious witness
+#诚实的证人
+    a veracious account
+#忠实的叙述
+
+hesitant:
+    An elderly lady was approaching him in a somewhat hesitant manner.
+#一位上了年纪的女士略带着几分迟疑向他走去。
+
+jaded:
+    a jaded look
+#倦容
+    a jaded appetite
+#食欲不振
+    The movie dealt with the same old jaded theme of revenge and murder.
+#这部电影围绕复仇和谋杀这种老一套的陈腐题材。
+
+salubrious:
+    He doesn't live in a very salubrious part of town.
+#他住在镇上风气不太好的地段。
+
+stylize:
+    In Beijing Opera, acting performances are usually stylized.
+#在京剧中，表演动作常常是模式化的。
+
+purposive:
+    purposive behavior
+#有目的的行为
+    a purposive structure
+#有针对性的结构
+
+circumscribe:
+    a voyage that circumscribes the world
+#环绕世界的航行
+    There followed a series of tightly circumscribed visits to military installations.
+#随之而来的是一系列充满严格限制的对军事设施的参观。
+
+impediment:
+    have an impediment in one's speech
+#讲话口吃
+    an impediment to reform
+#改革的障碍
+    The new taxes were a major impediment to economic growth.
+#新增的税是经济增长的主要障碍。
+
+superstructure:
+    The foundations are finished and work has now begun on building the superstructure of the new library.
+#新图书馆的地基已打好，现在开始地面上部结构的施工。
+
+recalcitrant:
+    be recalcitrant to tradition
+#反抗传统
+    a recalcitrant boy
+#犟男孩
+    The taxpayers are becoming increasingly recalcitrant about open-ended programs for overseas purposes.
+#纳税人对于资助那些无限制的海外项目越来越持抗拒态度。
+
+sunlit:
+    a sunlit courtyard
+#洒满阳光的院子
+    in those sunlit years
+#在那些欢乐的年月里
+
+dietary:
+    Dietary habits can be very difficult to change.
+#饮食习惯很难改变。
+
+=======
+belligerent:
+    speak in a belligerent voice
+#用挑战的口说话
+    belligerent feelings
+#敌对的情绪
+    the belligerent powers
+#诸交战国
+    The belligerent countries are having difficulties funding the war.
+#交战国缺乏战争资金。
+
+fearsome:
+    fearsome chemical weapons
+#可怕的化学武器
+    a fearsome display of violence
+#可怕的暴力行为
+    fearsome noise
+#可怕的噪声
+    a fearsome rate
+#极快的速度
+
+sentimentalize:
+    sentimentalize over/about one's childhood
+#回想童年而伤感
+    The film is a sentimentalized version of what actually happened.
+#那部电影伤感地反映了实际发生的事情。
+
+bolster:
+    bolster the roof
+#把屋顶支起来
+    bolster the industry
+#促进工业
+    bolster one's image
+#改善形象
+    She tried to bolster his confidence by telling him that he had a special talent.
+#她告诉他，他有特殊才能，试图增强他的自信心。
+
+uninitiated:
+    the uninitiated
+#缺乏某种特定知识和经验的人
+    This must seem a bizarre ceremony to uninitiated Western eyes.
+#这种礼仪在不熟悉的西方人看来定很怪诞。
+
+opprobrious:
+    opprobrious language
+#骂人的话
+    opprobrious conduct
+#恶行
+    an opprobrious affair
+#丑事
+
+flickering:
+    a flickering hope
+#微弱的希望
+    a flickering light
+#闪烁的光
+    flickering leaves
+#颤动着的树叶
+    flickerings of a possible reconciliation
+#和解的迹象
+    We sat comfortably by the flickering fire, reading our books.
+#我们舒舒服服地坐在摇曳的火光前看书。
+
+exhilaration:
+    After the walk in the woods, I felt a certain feeling of exhilaration.
+#在林间散步之后，我有种心旷神怡之感。
+
+rescind:
+    rescind an agreement
+#废除协议
+    rescind a contract
+#解除合同
+    rescind the order
+#收回成命
+    The government rescinded his French citizenship.
+#政府取消了他的法国国籍。
+
+neolithic:
+    This area has been used as a burial ground since neolithic times.
+#这个地区从新石器时代起一直被用作墓地。
+
+off-key:
+    The vocals are off-key.
+#歌声走音了。
+
+underrate:
+    make the mistake of underrating sb.
+#犯了低估某人的错误
+    The company has consistently underrated the importance of a well-trained workforce.
+#这个公司一贯低估一支受过良好训练的员工队伍的重要性。
+
+impunity:
+    The verdict seemed to be impunity.
+#看来裁决可能是免于惩处。
+
+unimpassioned:
+    an unimpassioned discussion of the problem
+#问题心平气和的讨论
+
+synchronization:
+    The entire roomful of dancers moved in perfect synchronization, just like in the movies.
+#一屋子的舞者步调完全一致地跳着舞，就像电影里发生的情节一样。
+
+
+reprehensible:
+    a morally reprehensible act
+#道义上应受严责的行为
+
+potted:
+    potted eat
+#罐装肉
+    a potted version of Shakespeare's plays
+#莎士比亚戏剧简写本
+    There were potted plants on the windowsill.
+#窗台上摆着盆栽植物。
+
+investigative:
+    an investigative report
+#调查报告
+    investigative journalism
+#调查性新闻
+    Children are encouraged to take an investigative approach to learning.
+#鼓励儿童采取一种探究型学习方式。
+
+concoct:
+    concoct an amazing dish
+#调制出令人惊奇的菜肴
+    concoct a new kind of soup
+#配置一种新汤
+    concoct an excuse
+#编造借口
+    He concocted a story about working late at the office, but I knew he was going drinking with his brother.
+#他编造了一个在办公室加班的故事，不过我知道他和他兄弟喝酒去了。
+
+omnipotent:
+    an omnipotent God
+#全能的上帝
+    in omnipotent silence
+#在绝对的肃静中
+    an omnipotent villain
+#彻头彻尾的恶棍
+    Until his illness, we'd always thought of the president as omnipotent.
+#在总统生病之前，我们一直认为他是万能的。
+
+verifiable:
+    He didn't produce a single verifiable fact to prove that the alleged incident had ever taken place.
+#他没有提供一丁点可靠的事实来证明那一事件曾发生过。
+
+impartiality:
+    Some ministers are pressing for new rules on broadcasting impartiality.
+#一些部长迫切要求就广播的客观性制定新规则。
+
+adulatory:
+    adulatory listeners
+#捧场的听众
+    an adulatory speech
+#一席溢美之词
+    He is being adulatory of the candidate.
+#他是在吹嘘候选人。
+
+sanctum:
+    Few people ever managed to penetrate the manager's inner sanctum.
+#几乎没有人曾进人过经理的私室。
+
+flagging:
+    flagging spirit
+#萎靡不振的精神
+    flagging morale
+#衰弱的士气
+    the flagging economy
+#萎缩的经济
+
+fertilize:
+    fertilize farmland
+#给农田施肥
+    fertilize one's vocabulary with wide reading
+#通过博览群书来丰富词汇
+    fertilized eggs
+#受精卵
+    Bees can fertilize flowers.
+#蜜蜂能使花受精。
+
+permissive:
+    a permissive school
+#放任自由的学校
+    a permissive attitude
+#宽容放任的态度
+    a permissive society
+#性开放的社会
+    a permissive regulation
+#非约束性规定
+    He claims that some parents have been far too permissive towards their children.
+#他声称有些父对孩子过分纵容。
+
+uneventful:
+    an uneventful week
+#平静无事的一周
+    an uneventful life
+#平静的生活/平凡的一生
+    uneventful recovery
+#顺利的复原
+    They had an uneventful journey.
+#他们的旅途平安无事。
+
+indubitably:
+    He looked different but it was indubitably John.
+#他看上去(跟从前)有些不同，但他肯定是约翰。
+
+choreograph:
+    The ballet was choreographed by Ashton.
+#这部蕾舞剧是阿什顿设计的舞蹈动作。
+
+irradicable:
+    an irradicable prejudice
+#根深蒂固的偏见
+
+misconstrue:
+    You misconstrue me if you think I will give up my support of the plan.
+#如果你以为我将不再支持这项计划，那你就误解我的意思了。
+
+coercive:
+    The president relied on coercive powers of the military and the police to enforce law and order.
+#总统凭借军队和警察这种强制力量实施法律和维持秩序。
+
+well-intentioned:
+    He described the report as well-intentioned, but misguided.
+#他称这份报告本意是好的，但指导思想是错误的。
+
+preempt:
+    The rebels have preempted the power of the local government.
+#反叛者已经夺取了地方政府的权力。
+
+ingrain:
+    ingrain habits
+#固习
+    A deep respect for the truth has been ingrained in the child.
+#尊重真理的深刻信念深深扎根在这孩子的心中。
+
+veracious:
+    a veracious witness
+#诚实的证人
+    a veracious account
+#忠实的叙述
+
+hesitant:
+    An elderly lady was approaching him in a somewhat hesitant manner.
+#一位上了年纪的女士略带着几分迟疑向他走去。
+
+jaded:
+    a jaded look
+#倦容
+    a jaded appetite
+#食欲不振
+    The movie dealt with the same old jaded theme of revenge and murder.
+#这部电影围绕复仇和谋杀这种老一套的陈腐题材。
+
+salubrious:
+    He doesn't live in a very salubrious part of town.
+#他住在镇上风气不太好的地段。
+
+stylize:
+    In Beijing Opera, acting performances are usually stylized.
+#在京剧中，表演动作常常是模式化的。
+
+purposive:
+    purposive behavior
+#有目的的行为
+    a purposive structure
+#有针对性的结构
+
+circumscribe:
+    a voyage that circumscribes the world
+#环绕世界的航行
+    There followed a series of tightly circumscribed visits to military installations.
+#随之而来的是一系列充满严格限制的对军事设施的参观。
+
+impediment:
+    have an impediment in one's speech
+#讲话口吃
+    an impediment to reform
+#改革的障碍
+    The new taxes were a major impediment to economic growth.
+#新增的税是经济增长的主要障碍。
+
+superstructure:
+    The foundations are finished and work has now begun on building the superstructure of the new library.
+#新图书馆的地基已打好，现在开始地面上部结构的施工。
+
+recalcitrant:
+    be recalcitrant to tradition
+#反抗传统
+    a recalcitrant boy
+#犟男孩
+    The taxpayers are becoming increasingly recalcitrant about open-ended programs for overseas purposes.
+#纳税人对于资助那些无限制的海外项目越来越持抗拒态度。
+
+sunlit:
+    a sunlit courtyard
+#洒满阳光的院子
+    in those sunlit years
+#在那些欢乐的年月里
+
+dietary:
+    Dietary habits can be very difficult to change.
+#饮食习惯很难改变。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

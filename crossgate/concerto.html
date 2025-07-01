@@ -1,0 +1,267 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concerto Gate</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+        }
+
+        #player-container {
+            flex: 2; /* 播放器区域宽度 */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        #audio {
+            width: 100%; /* 播放器控件占满容器宽度 */
+            max-width: 800px; /* 最大宽度 */
+            margin-top: 20px;
+        }
+
+        #playlist-container {
+            flex: 1;
+            width: 400px;
+            background: #fff;
+            border-left: 2px solid #ccc;
+            overflow-y: auto;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        #playlist {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        #playlist li {
+            padding: 15px;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        #playlist li:hover {
+            background: #f4f4f4;
+        }
+
+        #playlist li.active {
+            background: #007bff;
+            color: white;
+        }
+
+        .controls {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .slider-container {
+            margin-top: 20px;
+            text-align: center;
+            width: 100%;
+        }
+
+        .slider-container label {
+            font-size: 16px;
+            margin-right: 10px;
+        }
+
+        .slider-container input[type="range"] {
+            width: 100%; /* 滑块宽度 */
+            max-width: 800px; /* 设置最大宽度 */
+            margin: 10px auto; /* 垂直间距 */
+        }
+
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: #fff;
+            font-size: 14px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="player-container">
+        <h1>Concerto Gate</h1>
+        <audio id="audio" controls></audio>
+        <div class="controls">
+            <button onclick="playPrevious()">Previous</button>
+            <button onclick="playNext()">Next</button>
+        </div>
+        <div class="slider-container">
+            <label for="speed">Speed: <span id="speed-value">1.0</span>x</label>
+            <input type="range" id="speed" min="0.1" max="2" step="0.1" value="1">
+        </div>
+    </div>
+
+    <div id="playlist-container">
+        <h2 style="text-align: center; padding: 10px; background: #f7f7f7;">Playlist</h2>
+        <ul id="playlist">
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_t0.wav">登入</li>
+            <li data-src=""></li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_m0.wav">里谢里雅碉</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_m1.wav">法兰城 | 亚诺曼城</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_m2.wav">杰诺瓦 | 蒂娜 | 阿巴尼斯 | 魔法大学</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_m3.wav">伊尔 | 圣拉鲁卡 | 亚留特 | 维诺亚</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_m4.wav">奇利 | 加纳</li>
+            <li data-src=""></li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_f0.wav">莎莲娜</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_f1.wav">芙蕾雅</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_f2.wav">索奇亚</li>
+            <li data-src=""></li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_d0.wav">地下灵堂 | 诅咒的迷宫</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_d1.wav">洞窟</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_d2.wav">迷宫1</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_d3.wav">迷宫2</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_d4.wav">凤鸣之塔 | 树海</li>
+            <li data-src=""></li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_b0.wav">普通战斗</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_b1.wav">Boss战</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_b2.wav">高级Boss战</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/cgbgm_b3.wav">PK战</li>
+            <li data-src=""></li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/exbgm_f0.wav">米内葛尔岛</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/exbgm_m0.wav">阿凯鲁法 | 坎那贝拉村</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/exbgm_s0.wav">铁达尼号 | 艾欧奇亚号</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk2_battle1.wav">battle1</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk2_battle2.wav">battle2</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk2_field1.wav">盖雷布伦森林 | 温迪尔平原 | 梅布尔隘地</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/PUK2_haikyo.wav">法兰城遗迹</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/PUK2_M_TOWN.wav">丘斯特村</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk2_mati.wav">艾尔莎岛 | 艾夏岛 | 利夏岛 | 扎克特·海玛城</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk2_OP.wav">神殿·伽蓝 | 约尔克神庙</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk2_sinden.wav">神殿·伽蓝 | 约尔克神庙</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/PUK2_yama.wav">布拉基姆高地</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk3_battle1.wav">puk3_battle1</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk3_battle2.wav">puk3_battle2</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk3_dungeon.wav">雪拉威森塔</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk3_kame.wav">第二宝座 | 杂货铺（辛梅尔中的）</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk3_kujira.wav">修拉特瓦尔号</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk3_kumo.wav">光之路</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk3_love.wav">辛梅尔</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk3_orgel.wav">puk3_orgel</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/puk3_playerbattle.wav">puk3_playerbattle</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/PUK3_title.wav">账号密码</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/v2bgm_ex.wav">v2bgm_ex</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/v2bgm_f0.wav">库鲁克斯岛</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/v2bgm_m0.wav">哥拉尔 | 米诺基亚镇</li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/.wav"></li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/.wav"></li>
+            <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/crossgate/bgm/.wav"></li>
+            <!-- 更多歌曲项 -->
+        </ul>
+    </div>
+
+    <script>
+        const audio = document.getElementById('audio');
+        const playlist = document.getElementById('playlist');
+        const tracks = playlist.querySelectorAll('li');
+        const speedSlider = document.getElementById('speed');
+        const speedValue = document.getElementById('speed-value');
+        let currentTrackIndex = 0;
+
+        // 初始化播放列表
+        function loadTrack(index) {
+            tracks.forEach(track => track.classList.remove('active'));
+            const selectedTrack = tracks[index];
+            selectedTrack.classList.add('active');
+            const currentSpeed = parseFloat(speedSlider.value); // 获取当前播放速度
+            audio.src = selectedTrack.getAttribute('data-src');
+            audio.playbackRate = currentSpeed; // 应用当前速度
+            audio.volume = 0.6; // 设置音量为60%
+            audio.play(); // 自动播放
+        }
+
+        // 绑定点击事件
+        tracks.forEach((track, index) => {
+            track.addEventListener('click', () => {
+                currentTrackIndex = index;
+                loadTrack(currentTrackIndex);
+            });
+        });
+
+        // 播放上一首
+        function playPrevious() {
+            currentTrackIndex = (currentTrackIndex - 1 + tracks.length) % tracks.length;
+            loadTrack(currentTrackIndex);
+        }
+
+        // 播放下一首
+        function playNext() {
+            currentTrackIndex = (currentTrackIndex + 1) % tracks.length;
+            loadTrack(currentTrackIndex);
+        }
+
+        // 更新播放速度
+        speedSlider.addEventListener('input', () => {
+            const speed = parseFloat(speedSlider.value);
+            audio.playbackRate = speed;
+            speedValue.textContent = speed.toFixed(1); // 显示 1 位小数
+        });
+
+        // 监听滑块的键盘事件，阻止左右键默认行为
+        speedSlider.addEventListener('keydown', (event) => {
+            if (event.code === 'ArrowLeft' || event.code === 'ArrowRight') {
+                event.preventDefault();  // 阻止滑块默认的左右键行为
+            }
+        });
+
+        // 监听空格键，播放或暂停音频
+        window.addEventListener('keydown', (event) => {
+            if (event.code === 'Space' || event.keyCode === 32) {
+                event.preventDefault();  // 阻止滚动等默认行为
+                event.stopPropagation(); // 阻止事件冒泡
+
+                if (audio.paused) {
+                    audio.play();
+                } else {
+                    audio.pause();
+                }
+            }
+
+            // 处理左右键快进/快退
+            if (event.code === 'ArrowRight') {
+                    audio.currentTime += 3; // 快进 5 秒
+                } else if (event.code === 'ArrowLeft') {
+                    audio.currentTime = Math.max(0, audio.currentTime - 5); // 快退 5 秒
+            }
+        }, true);
+
+        // 击后空格键失效的问题
+        audio.addEventListener('focus', () => {
+            setTimeout(() => {
+                audio.blur();  // 移除焦点，确保空格键有效
+            }, 100);
+        });
+
+
+        // 默认加载第一首
+        // loadTrack(currentTrackIndex);
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,655 @@
+<<<<<<< HEAD
+conjure:
+    conjure a rabbit out of one's hat
+#从帽子里变出只兔子
+    conjure up
+#用魔法使……出现，使呈现于脑际/眼帘，想出，想起
+    conjure up the happy past
+#想起幸福的往事
+    conjure up a good meal in half an hour
+#变戏法似的在半小时内做出一顿美味的饭菜
+    The very name of Siberia conjures images of exile and bitter hardship.
+#西伯利亚这个名字会使人想起流放和苦难的情景。
+
+panacea:
+    a panacea for all social problems
+#解决各种社会问题的万能之计
+    Western aid may help but will not be a panacea.
+#西方援助可能会有所帮助，但不是灵丹妙药。
+
+disciple:
+    The distinguished economist has had many disciples over the years.
+#近几年来，那位著名经济学家赢得了许多人的崇奉。
+
+quantum:
+    increase the quantum of material well-being
+#增加物质福利的比重
+    not a quantum of evidence
+#无一点证据
+    a quantum improvement
+#重大改进
+
+slouch:
+    slouch along in the street
+#耷拉着脑袋走在街上
+    slouch one's shoulders
+#垂下双肩
+    stand at a slouch
+#没精打采地站着
+    slouch one's hat over one's eyes
+#拉下帽子遮住眼睛
+    His hat slouched backward on his head.
+#他的帽子耷拉在后脑勺。
+
+palate:
+    have a good palate for wine
+#很会品酒
+    have no palate for washing bowls
+#很不乐意洗碗
+    No one had a finer palate than Allen; he could taste every delicate flavor.
+#谁也不如艾伦的味觉敏锐，他能够品尝出各种细微的味道。
+
+conducive:
+    The peaceful atmosphere is conducive to reconciliation.
+#和平的气気有助于和解。
+
+scrumptious:
+    scrumptious cakes
+#美味的蛋糕
+    a scrumptious satin gown
+#漂亮的缎子长袍
+
+acquiesce:
+    No state can acquiesce such breaches of order.
+#没有一个国家会默认这种破坏秩序的行为
+
+demote:
+    demote a pupil
+#使一个学生降级
+    demote a soldier from corporal to private
+#把一名士兵从下士降到列兵
+
+timbre:
+    The singer's voice had a pleasant timbre.
+#这位歌唱家的音色悦耳。
+
+brittle:
+    brittle glass
+#易碎的玻璃
+    a brittle tone of voice
+#尖利的声音
+    a brittle selfish man
+#冷淡自私的男人
+    a brittle personality
+#难以相处的个性
+
+angular:
+    an angular piece of rock
+#有尖角的石块
+    angular distance
+#角距离
+    an angular gait
+#僵硬的步态
+    a tall, angular man
+#身材瘦削的高个儿男人
+    talk in angular English
+#用生硬的英语讲话
+
+blackball:
+    blackball sb. from all consideration for research grants
+#根本不考虑给某人从事研究的津贴
+    After the scandal, he was blackballed from the learned society.
+#出了这件丑事后，他被取消了这个学术团体会员的资格。
+
+strut:
+    strut one's accomplishments
+#卖弄オ艺
+    He strutted the street like a gaudy fighting cock.
+#他在街上大摇大摆地走，像一只炫丽好斗的公鸡。
+
+slough:
+    a slough in the road
+#道路上的泥坑
+    rescue sb. from a financial slough
+#救助某人摆脱经济困境
+    slough through the paddy fields
+#艰难地穿过水稻田
+    He got himself into the slough of self-pity.
+#他陷入顾影自怜的泥沼。
+
+slough:
+    cast off the slough of primitive ways and beliefs
+#废弃原始的习俗和信仰
+    slough the outer layers of skin
+#蜕去表皮
+    His sweetness in friendship increased as the old will to power sloughed off.
+#他昔日的那种权力欲消退了，对人的亲切友爱之情就增加了。
+
+translucent:
+    a translucent body
+#半透明体
+    a translucent exposition
+#清楚易懂的论述
+    She had fair hair, blue eyes and translucent skin.
+#她金发碧眼，皮肤透亮。
+
+frail:
+    frail china
+#易碎的瓷器
+    a frail girl
+#弱不禁风的少女
+
+unpredictable:
+    unpredictable weather
+#变化无常的天气
+    Changes in the market are, of course, largely unpredictable.
+#当然，市场变化在相当程度上是不可预测的。
+
+yearn:
+    captives yearning for freedom
+#向往自由的囚徒
+    They yearn for the day when they can be together again.
+#他们渴望着能重逢的那一天。
+
+zest:
+    add zest to the performance
+#给演出增添几分趣味
+    We'd hoped to recapture some of the zest and vigor of youth at the reunion.
+#我们希望再次团聚能重温一下青年时代的热情与活力。
+
+shear:
+    shear wool from the sheep
+#剪去身上的毛
+    shear a sheep
+#剪羊毛
+    shear a lawn
+#修剪草坪
+    have one's hair shorn
+#剪头发
+    a pair of shears
+#一把大剪刀
+
+deception:
+    be under deception
+#受骗上当
+    a calculated deception
+#精心策划的骗局
+    use deception to get one's way
+#以欺骗出人头地
+
+implore:
+    implore aid from sb.
+#乞求某人援助
+    Implore one's forgiveness
+#恳求宽恕
+    He implored his parents not to send him to the countryside.
+#他恳求父母不要把他送到乡下去。
+
+conceit:
+    have great conceit of oneself
+#非常自负
+    go off into wild conceits
+#胡思乱想
+    He knew, without conceit, he was considered a genius.
+#他知道，毫不自大地说，自己被视为天才。
+
+kernel:
+    The kernel of the problem is in the interpretation of the evidence.
+#问题的核心在于要对证据做出说明。
+
+legislation:
+    tax legislation
+#税法
+    legislation on prices
+#价格法规
+    the power of legislation
+#立法权
+    pass the legislation
+#通过法律
+    The government will introduce legislation to restrict the sale of firearms.
+#政府将制定法规限制枪支出售。
+
+glorify:
+    the names which glorify this country
+#为这个家增光添彩的名人们
+    glorify one's success
+#吹嘘某人的成就
+    glorify the valley
+#（落日使）山谷显得绚丽
+    His brave deeds were glorified in songs and stories.
+#他的英勇事迹被编成歌曲和故事而广为传诵。
+
+ramble:
+    go rambling
+#去闲逛
+    ramble over the garden wall
+#爬满花园的墙
+    I love to ramble through the fields and lanes in this part of the country.
+#我喜欢在乡下这个地方的田野村巷中漫步。
+
+compulsion:
+    a promise made under compulsion from external causes
+#迫于外部因素而做出的承诺
+    feel a moral compulsion to tell the truth
+#有一种道德感驱使着说真话
+    You are under no compulsion to tell me, but it will be better if you do.
+#你没有任何压力非告诉我不可，不过你说了会对你有好处。
+
+elliptical:
+    an elliptical sentence
+#省略句
+    an elliptical style of writing
+#省略的文风
+    The comet is in an elliptical orbit which brings it close to the earth at regular intervals.
+#替星沿着圆轨道运行，这使它有规律地靠近地球。
+
+trudge:
+    trudge through the deep snow
+#在雪地里深一脚浅一脚地走
+    trudge through the moor
+#费力地穿越旷野
+    We trudged along the muddy path to the top of the hill.
+#我们沿着泥宁的小路步履艰难地爬上山顶。
+
+torrent:
+    an angry/a rushing torrent
+#激流
+    a roaring torrent
+#咆哮的洪流
+    torrents of rain
+#瓢泼大雨
+    rain in torrent
+#大雨倾盆
+    break into a torrent of words
+#滔滔不绝地打开话厘子
+
+hull:
+    The hull was badly damaged when the ship hit an iceberg.
+#当船撞上冰山时，船体受到了严重的损坏。
+
+insanity:
+    temporary insanity
+#一时精神错乱
+    a family history of insanity
+#家族精神病史
+    suffer from periodic bouts of insanity
+#患周期性精神病
+    He was found not guilty of murder by reason of insanity.
+#他因为精神失常而未被判决犯有杀人罪。
+
+nimble:
+    nimble fingers
+#灵巧的手指
+    the nimble wits of poets
+#诗人敏捷的才思
+    His nimble mind calculated the answer before I could key the numbers into my computer.
+#在我把数字输进计算机之前，他那敏锐的头脑已算出了答案。
+
+protagonist:
+    the negative protagonist
+#反面角色
+    the protagonists of/for orthodoxy
+#正统观念的倡导者
+    This is one of the few successful films this year in which the protagonists are all female.
+#这是今年为数不多的成功电影中的一部，而且主角都是女性。
+
+fatuous:
+    a fatuous person
+#荒唐的人
+    fatuous talks
+#昏话
+    the fatuous notions of the world
+#对世界的虚幻看法
+
+amenable:
+    a person amenable to flattery
+#易受谄媚的人
+    amenable to the law
+#对法律负责
+    amenable data
+#经得起检验的数据
+    Once his son was taken hostage, he would be more amenable to their demands.
+#一旦儿子被扣作人质，他就会软下来答应他们的要求。
+
+prolific:
+    a prolific writer
+#多产作家
+    a garden prolific of weeds
+#野草丛生的花园
+    The composer remained prolific.
+#那位作曲家在创作上依然硕果累累。
+
+divert:
+    divert oneself by playing chess
+#以下国际象棋作为消遣
+    The river was diverted from its old course to supply water to the town.
+#河水被改道为那座小城供水。
+
+=======
+conjure:
+    conjure a rabbit out of one's hat
+#从帽子里变出只兔子
+    conjure up
+#用魔法使……出现，使呈现于脑际/眼帘，想出，想起
+    conjure up the happy past
+#想起幸福的往事
+    conjure up a good meal in half an hour
+#变戏法似的在半小时内做出一顿美味的饭菜
+    The very name of Siberia conjures images of exile and bitter hardship.
+#西伯利亚这个名字会使人想起流放和苦难的情景。
+
+panacea:
+    a panacea for all social problems
+#解决各种社会问题的万能之计
+    Western aid may help but will not be a panacea.
+#西方援助可能会有所帮助，但不是灵丹妙药。
+
+disciple:
+    The distinguished economist has had many disciples over the years.
+#近几年来，那位著名经济学家赢得了许多人的崇奉。
+
+quantum:
+    increase the quantum of material well-being
+#增加物质福利的比重
+    not a quantum of evidence
+#无一点证据
+    a quantum improvement
+#重大改进
+
+slouch:
+    slouch along in the street
+#耷拉着脑袋走在街上
+    slouch one's shoulders
+#垂下双肩
+    stand at a slouch
+#没精打采地站着
+    slouch one's hat over one's eyes
+#拉下帽子遮住眼睛
+    His hat slouched backward on his head.
+#他的帽子耷拉在后脑勺。
+
+palate:
+    have a good palate for wine
+#很会品酒
+    have no palate for washing bowls
+#很不乐意洗碗
+    No one had a finer palate than Allen; he could taste every delicate flavor.
+#谁也不如艾伦的味觉敏锐，他能够品尝出各种细微的味道。
+
+conducive:
+    The peaceful atmosphere is conducive to reconciliation.
+#和平的气気有助于和解。
+
+scrumptious:
+    scrumptious cakes
+#美味的蛋糕
+    a scrumptious satin gown
+#漂亮的缎子长袍
+
+acquiesce:
+    No state can acquiesce such breaches of order.
+#没有一个国家会默认这种破坏秩序的行为
+
+demote:
+    demote a pupil
+#使一个学生降级
+    demote a soldier from corporal to private
+#把一名士兵从下士降到列兵
+
+timbre:
+    The singer's voice had a pleasant timbre.
+#这位歌唱家的音色悦耳。
+
+brittle:
+    brittle glass
+#易碎的玻璃
+    a brittle tone of voice
+#尖利的声音
+    a brittle selfish man
+#冷淡自私的男人
+    a brittle personality
+#难以相处的个性
+
+angular:
+    an angular piece of rock
+#有尖角的石块
+    angular distance
+#角距离
+    an angular gait
+#僵硬的步态
+    a tall, angular man
+#身材瘦削的高个儿男人
+    talk in angular English
+#用生硬的英语讲话
+
+blackball:
+    blackball sb. from all consideration for research grants
+#根本不考虑给某人从事研究的津贴
+    After the scandal, he was blackballed from the learned society.
+#出了这件丑事后，他被取消了这个学术团体会员的资格。
+
+strut:
+    strut one's accomplishments
+#卖弄オ艺
+    He strutted the street like a gaudy fighting cock.
+#他在街上大摇大摆地走，像一只炫丽好斗的公鸡。
+
+slough:
+    a slough in the road
+#道路上的泥坑
+    rescue sb. from a financial slough
+#救助某人摆脱经济困境
+    slough through the paddy fields
+#艰难地穿过水稻田
+    He got himself into the slough of self-pity.
+#他陷入顾影自怜的泥沼。
+
+slough:
+    cast off the slough of primitive ways and beliefs
+#废弃原始的习俗和信仰
+    slough the outer layers of skin
+#蜕去表皮
+    His sweetness in friendship increased as the old will to power sloughed off.
+#他昔日的那种权力欲消退了，对人的亲切友爱之情就增加了。
+
+translucent:
+    a translucent body
+#半透明体
+    a translucent exposition
+#清楚易懂的论述
+    She had fair hair, blue eyes and translucent skin.
+#她金发碧眼，皮肤透亮。
+
+frail:
+    frail china
+#易碎的瓷器
+    a frail girl
+#弱不禁风的少女
+
+unpredictable:
+    unpredictable weather
+#变化无常的天气
+    Changes in the market are, of course, largely unpredictable.
+#当然，市场变化在相当程度上是不可预测的。
+
+yearn:
+    captives yearning for freedom
+#向往自由的囚徒
+    They yearn for the day when they can be together again.
+#他们渴望着能重逢的那一天。
+
+zest:
+    add zest to the performance
+#给演出增添几分趣味
+    We'd hoped to recapture some of the zest and vigor of youth at the reunion.
+#我们希望再次团聚能重温一下青年时代的热情与活力。
+
+shear:
+    shear wool from the sheep
+#剪去身上的毛
+    shear a sheep
+#剪羊毛
+    shear a lawn
+#修剪草坪
+    have one's hair shorn
+#剪头发
+    a pair of shears
+#一把大剪刀
+
+deception:
+    be under deception
+#受骗上当
+    a calculated deception
+#精心策划的骗局
+    use deception to get one's way
+#以欺骗出人头地
+
+implore:
+    implore aid from sb.
+#乞求某人援助
+    Implore one's forgiveness
+#恳求宽恕
+    He implored his parents not to send him to the countryside.
+#他恳求父母不要把他送到乡下去。
+
+conceit:
+    have great conceit of oneself
+#非常自负
+    go off into wild conceits
+#胡思乱想
+    He knew, without conceit, he was considered a genius.
+#他知道，毫不自大地说，自己被视为天才。
+
+kernel:
+    The kernel of the problem is in the interpretation of the evidence.
+#问题的核心在于要对证据做出说明。
+
+legislation:
+    tax legislation
+#税法
+    legislation on prices
+#价格法规
+    the power of legislation
+#立法权
+    pass the legislation
+#通过法律
+    The government will introduce legislation to restrict the sale of firearms.
+#政府将制定法规限制枪支出售。
+
+glorify:
+    the names which glorify this country
+#为这个家增光添彩的名人们
+    glorify one's success
+#吹嘘某人的成就
+    glorify the valley
+#（落日使）山谷显得绚丽
+    His brave deeds were glorified in songs and stories.
+#他的英勇事迹被编成歌曲和故事而广为传诵。
+
+ramble:
+    go rambling
+#去闲逛
+    ramble over the garden wall
+#爬满花园的墙
+    I love to ramble through the fields and lanes in this part of the country.
+#我喜欢在乡下这个地方的田野村巷中漫步。
+
+compulsion:
+    a promise made under compulsion from external causes
+#迫于外部因素而做出的承诺
+    feel a moral compulsion to tell the truth
+#有一种道德感驱使着说真话
+    You are under no compulsion to tell me, but it will be better if you do.
+#你没有任何压力非告诉我不可，不过你说了会对你有好处。
+
+elliptical:
+    an elliptical sentence
+#省略句
+    an elliptical style of writing
+#省略的文风
+    The comet is in an elliptical orbit which brings it close to the earth at regular intervals.
+#替星沿着圆轨道运行，这使它有规律地靠近地球。
+
+trudge:
+    trudge through the deep snow
+#在雪地里深一脚浅一脚地走
+    trudge through the moor
+#费力地穿越旷野
+    We trudged along the muddy path to the top of the hill.
+#我们沿着泥宁的小路步履艰难地爬上山顶。
+
+torrent:
+    an angry/a rushing torrent
+#激流
+    a roaring torrent
+#咆哮的洪流
+    torrents of rain
+#瓢泼大雨
+    rain in torrent
+#大雨倾盆
+    break into a torrent of words
+#滔滔不绝地打开话厘子
+
+hull:
+    The hull was badly damaged when the ship hit an iceberg.
+#当船撞上冰山时，船体受到了严重的损坏。
+
+insanity:
+    temporary insanity
+#一时精神错乱
+    a family history of insanity
+#家族精神病史
+    suffer from periodic bouts of insanity
+#患周期性精神病
+    He was found not guilty of murder by reason of insanity.
+#他因为精神失常而未被判决犯有杀人罪。
+
+nimble:
+    nimble fingers
+#灵巧的手指
+    the nimble wits of poets
+#诗人敏捷的才思
+    His nimble mind calculated the answer before I could key the numbers into my computer.
+#在我把数字输进计算机之前，他那敏锐的头脑已算出了答案。
+
+protagonist:
+    the negative protagonist
+#反面角色
+    the protagonists of/for orthodoxy
+#正统观念的倡导者
+    This is one of the few successful films this year in which the protagonists are all female.
+#这是今年为数不多的成功电影中的一部，而且主角都是女性。
+
+fatuous:
+    a fatuous person
+#荒唐的人
+    fatuous talks
+#昏话
+    the fatuous notions of the world
+#对世界的虚幻看法
+
+amenable:
+    a person amenable to flattery
+#易受谄媚的人
+    amenable to the law
+#对法律负责
+    amenable data
+#经得起检验的数据
+    Once his son was taken hostage, he would be more amenable to their demands.
+#一旦儿子被扣作人质，他就会软下来答应他们的要求。
+
+prolific:
+    a prolific writer
+#多产作家
+    a garden prolific of weeds
+#野草丛生的花园
+    The composer remained prolific.
+#那位作曲家在创作上依然硕果累累。
+
+divert:
+    divert oneself by playing chess
+#以下国际象棋作为消遣
+    The river was diverted from its old course to supply water to the town.
+#河水被改道为那座小城供水。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

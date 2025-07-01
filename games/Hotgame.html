@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 💞</title>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            let userAgent = navigator.userAgent.toLowerCase()
+            let mobile_device =  /ipad|iphone|midp|rv:1.2.3.4|ucweb|android|windows ce|windows mobile/
+            let tablet_device = /ipad|playbook|silk/
+
+            let htmlElement = document.documentElement;
+            if (mobile_device.test(userAgent))  {
+                htmlElement.style.fontSize = '35px';
+            } else {
+                htmlElement.style.fontSize = '10px';
+            }
+        })
+    </script>
+    <style>
+        html {
+            font-size: 10px;
+        }
+
+        body {
+            font-size: 1.6rem;
+            width: 100%;
+            padding-top: 6rem;
+            line-height: 2.5rem;
+            max-width: 1440px;
+            min-width: 320px;
+            margin: 0 auto;
+            /* font: normal 14px/1.5 Tahoma, "Lucida Grande", Verdana, "Microsoft Yahei", STXihei, hei; */
+            background: #000;
+            overflow-x: hidden;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        a {
+            text-decoration: none;
+            color:#fff;
+            /* transition: text-shadow 0.3s ease; */
+            transition:0.2s ease;
+            /* color:#ffce2e; */
+        }
+
+        /* a:hover { */
+            /* color: #CD2626; */
+            /* color:#4AC3E9; */
+            /* text-shadow: 1px 1px 2px rgba(255, 255, 255, .5); */
+        /* } */
+
+        div {
+            overflow: hidden; /* 触发 BFC 阻止外边距合并 */
+            margin: 0 auto;
+            box-sizing: border-box;
+            border-radius: 2rem;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            /* overflow: hidden; */
+            /* display: flex; */
+            /* 垂直方向排列 */
+            /* flex-direction: column;  */
+             /* 水平方向居中 */
+            /* align-items: center; */
+            /* position: relative; */
+        }
+        li {
+            border-radius: 2rem;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            margin: 3rem;
+            text-align: center; 
+            color: #FFF;
+        }
+
+        h2.winner {
+            color: #FFD700;
+
+        }
+        h2 {
+            font-size: 3rem;
+            line-height: 4rem;
+        }
+
+        .pipeline, .player, .game-stage {
+            width: 96%;
+            background-color: green;
+            margin: 3rem 2rem;
+        }
+
+        form.selections {
+            margin: auto;
+            text-align: center; 
+        }
+        form label {
+            font-size: 2rem;
+            margin: 2rem 2rem ;
+            color: white;
+        }
+        .player {
+            display: flex;
+        }
+        .top-part{
+            margin-bottom: 0rem;
+            border-radius: 2rem 2rem 0 0 ;
+        }
+        .middle-part{
+            margin-top: 0rem;
+            margin-bottom: 0rem;
+            border-radius: 0;
+        }
+        .bottom-part {
+            margin-top: 0rem;
+            /* border-radius: 0  0  2rem 2rem; */
+            border-radius: 0 0 2rem 2rem;
+        }
+        .male, .female{
+            flex:1;
+            width: 46%;
+            margin: 3rem 3rem;
+        }
+        .male li, .female li{
+            /* flex: 100%; */
+            overflow: hidden; /* 触发 BFC 阻止外边距合并 */
+            min-height: 15rem;
+            margin: 3rem 0rem;
+        }
+        button {
+            display: block;
+            /* position: absolute; */
+            /* flex: 100%; */
+            /* width: 10%; */
+            padding: 1.5rem 4rem;
+            /* justify-content: center; */
+            background-color: #4caf50;
+            font: normal bold 1.6rem /1 arial;
+            color: white;
+            border: medium solid pink;
+            border-radius: 1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            margin: 0rem auto 3rem;
+        }
+
+        .male li, .male button {
+            background-color: #0F52BA;
+        }
+        .female li, .female button{
+            background-color: #B53C16;
+        }
+        .second li:nth-child(1){
+            margin-top: 12rem;
+        }
+        /* .first li:nth-last-child(2) {
+            margin-bottom: 15rem;
+        } */
+
+        #selections label {
+            display: inline-block;
+            cursor: pointer;
+        }
+
+        input[type="radio"] {
+            /* display: inline-block; */
+            margin-right: 10px;
+            cursor: pointer;
+        }
+        .game-stage {
+            position: relative;
+            background-color:#F08080;
+        }
+        .game-stage h2 {
+            color:Yellow;
+        }
+    </style>
+</head>
+<body>
+    <div class="pipeline">
+        <h2>Game start! Let's enjoy each others !!</h2>
+        <form id="selections">
+            <label><input type="radio" name="group1" value="first" checked> Level 1</label>
+            <label><input type="radio" name="group1" value="second"> Level 2</label>
+            <label><input type="radio" name="group1" value="third"> Level 3</label>
+            <label><input type="radio" name="group1" value="fourth"> Level 4</label>
+            <label><input type="radio" name="group1" value="fifth"> Level 5</label>
+            <label><input type="radio" name="group1" value="sixth"> Level 6</label>
+            <label><input type="radio" name="group1" value="seventh"> Level 7</label>
+        </form>
+        <button onclick="start(event)" id="start-button">START</button>
+    </div>
+    <!-- <div class="pipeline game-stage">
+        <h2>Level: X</h2>
+    </div> -->
+    <!-- <div class="player top-part">
+        <h2>hello</h2>
+    </div>
+    <div class="player middle-part">
+        <ul class="male first">
+            <li></li>
+            <li></li>
+        </ul>
+        <ul class="female second">
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <div class="player bottom-part">
+            <button onclick="play('male')">BOY PLAY</button>
+            <button onclick="play('female')">GIRL PLAY</button>
+    </div> -->
+
+    <!-- <div class="pipeline">
+        <h2>The winner of this round is</h2>
+        <h2 class="winner" >XXX</h2>
+        <h2>Let's take it one step further!!</h2>
+        <button onclick="next()">START NEXT STAGE</button>
+    </div> -->
+
+    <script>
+        let playerDict
+        let GAVEL  
+            
+        // 使用addEventListener绑定键盘按键与按钮事件
+        document.addEventListener('keyup', function(event) {
+            if (event.key === 'Enter') { // 检查按键是否为Enter
+                // 调用按钮的click事件
+                document.querySelector('#start-button').click()
+            }
+        })
+
+        function start(event, level=false) {
+            event.target.disabled = true
+                        // 获取选中值
+            const form = document.querySelector("#selections")
+            // const level = form.elements["group1"].value
+            GAVEL = !level ? form.elements["group1"].value : level
+            console.log("添加游戏节点")
+            // who will play the game first?
+            const firstplayer = Math.random()
+            
+            // game stage create
+            const gameStage =  document.createElement("div")
+            gameStage.classList.add("game-stage")
+            document.body.insertBefore(gameStage, event.target.parentNode.nextSibling)
+            const h2Stage= document.createElement("h2")
+            // h2Stage.classList.add("winner")
+            h2Stage.innerHTML = `Level: ${GAVEL}`
+            gameStage.appendChild(h2Stage)
+  
+            // top-part
+            const divTop = document.createElement("div")
+            divTop.classList.add("player", "top-part")
+                    // 第一个更改
+                    // document.body.appendChild(divTop)
+                    // document.body.insertBefore(divTop, document.body.children[0].nextSibling)
+                    //第二次更改
+            document.body.insertBefore(divTop, gameStage.nextSibling)
+
+
+            const h2Top =  document.createElement("h2")
+            divTop.appendChild(h2Top)
+            firstgender = firstplayer < 0.5 ? "Boy" : "Girl"
+            h2Top.innerHTML = `${firstgender} play first`
+
+            // middle-part
+            const divMiddle = document.createElement("div")
+            divMiddle.classList.add("player", "middle-part")
+                    // document.body.appendChild(divMiddle)
+            document.body.insertBefore(divMiddle, divTop.nextSibling)
+            const ulMale = document.createElement("ul")
+            ulMale.classList.add("male")
+            const ulFemale = document.createElement("ul")
+            ulFemale.classList.add("female")
+            if (firstplayer < 0.5) {
+                ulMale.classList.add("first")
+                ulFemale.classList.add("second")
+            } else {
+                ulMale.classList.add("second")
+                ulFemale.classList.add("first")
+            }
+            divMiddle.appendChild(ulMale)
+            divMiddle.appendChild(ulFemale)
+            // bottom-part
+            const divBottom = document.createElement("div")
+            divBottom.classList.add("player", "bottom-part")
+            document.body.appendChild(divBottom)
+            document.body.insertBefore(divBottom, divMiddle.nextSibling)
+            //添加按钮
+            const buttonBoy = document.createElement("button")
+            divBottom.appendChild(buttonBoy)
+            buttonBoy.innerHTML = 'BOY PLAY'
+            buttonBoy.onclick = (event) => play(event, 'male', GAVEL)
+            // 使用addEventListener绑定键盘按键与按钮事件
+            document.addEventListener('keyup', function(event) {
+                if (event.key === 'b') { // 检查按键是否为Enter
+                    // 调用按钮的click事件
+                    buttonBoy.click()
+                }
+            })
+            const buttonGirl = document.createElement("button")
+            divBottom.appendChild(buttonGirl)
+            buttonGirl.innerHTML = 'GIRL PLAY'
+            buttonGirl.onclick = (event) => play(event, 'female', GAVEL)
+            document.addEventListener('keyup', function(event) {
+                if (event.key === '9') { // 检查按键是否为Enter
+                    // 调用按钮的click事件
+                    buttonGirl.click()
+                }
+            })
+            //设置那个按钮可以按那个不可以
+            if (firstplayer < 0.5) {
+                buttonBoy.disabled = false
+                buttonGirl.disabled = true
+            } else {
+                buttonBoy.disabled = true
+                buttonGirl.disabled = false
+            }
+            //显示界面移动至下一个
+            event.target.scrollIntoView({
+                bottom: event.target.parentNode.nextElementSibling.scrollHeight, // 容器总高度
+                behavior: "smooth", // 平滑滚动
+            })
+            // event.target.parentNode.nextElementSibling.nextElementSibling.nextElementSibling.scrollIntoView({
+            //     block: "bottom", //底部对齐到可视区域底部
+            //     behavior: "smooth", // 平滑滚动
+            // })
+            playerDict = {
+                male:new Player("male", GAVEL), 
+                female: new Player("female", GAVEL),
+            }
+
+             // 设置 level 状态栏的移动方式
+            let originTop = gameStage.offsetTop
+            let stageHeight = gameStage.offsetHeight
+            window.addEventListener('scroll', function () {
+                const divBottom_offsetBottom = divBottom.offsetTop + divBottom.offsetHeight
+                // 在高于该level的最顶端时 所处的位置
+                gameStage.style.top = window.scrollY  < originTop ? 0 : gameStage.style.top
+                // 在改level之间时 所处的位置
+                gameStage.style.top = window.scrollY  >= originTop && window.scrollY <  divBottom_offsetBottom  - stageHeight ? `${window.scrollY - originTop}px`: gameStage.style.top
+                // 可以设置一个低于时所处的位置
+            })
+            // 监听窗口大小变化事件
+            window.addEventListener('resize', () => {
+                originTop = gameStage.offsetTop
+                stageHeight = gameStage.offsetHeight // 重新应用滚动逻辑
+            })
+
+        }
+
+        function Player(gender, level) {
+            this.meta = {
+                // 1.普通的动作，没有接触
+                first:{
+                    general:[
+                        "给对方倒一杯水喝", 
+                        "脱掉自己一件衣服", 
+                        ], 
+                    male:[
+                        "深蹲跳1次",
+                        "俯卧撑1次", 
+                        ],
+                    female:[
+                        "单腿跳1次", 
+                        "仰卧起坐1次", 
+                        ], 
+                    }, 
+                // 2.开始一点接触，普通
+                second:{
+                    general:[
+                        "握手3次",
+                        "给对方按摩小臂5次", 
+                        ], 
+                    male:[
+                        "给对方倒一杯水，喂其喝",
+                        "给对方按摩太阳穴5次",
+                        ],
+                    female:[
+                        "学小狗叫6声", 
+                        "给对方按摩肩膀5次", 
+                        ], 
+                    }, 
+                // 3.有多一些的接触
+                third:{
+                    general:[
+                        "给对方按摩大臂5次", 
+                        "被对方刮鼻子3下", 
+                        ], 
+                    male:[
+                        "由对方脱掉一件衣服", 
+                        "给对方按摩肩膀5次", 
+                        ], 
+                    female:[
+                        "给对方倒一杯水，喂其喝",
+                        "拉手进行游戏1次",
+                        ], 
+                    }, 
+                // 4. 有较多的接触
+                fourth:{
+                    general:[
+                        "给对方按摩小腿5次", 
+                        "拥抱一下",
+                        ], 
+                    male:[
+                        "为对方唱歌3句",
+                        "为对方按摩手掌5下",
+                        ], 
+                    female:[
+                        "拉手进行游戏2次", 
+                        "由对方脱掉一件衣服", 
+                        ], 
+                    }, 
+                // 5.有点亲密的接触
+                fifth:{
+                    general:[
+                        "被对方挂鼻头3下",
+                        "拥抱3秒钟", 
+                        ], 
+                    male:[
+                        "亲吻对方手背", 
+                        "被对方抚摸一下胸部", 
+                        ], 
+                    female:[
+                        "给对方按摩大腿5次", 
+                        "亲吻对方小臂", 
+                        ], 
+                    }, 
+                // 6.有一些亲密的接触
+                sixth:{
+                    general:[
+                        "亲吻对方双肩", 
+                        "给对方按摩小腹5次", 
+                        ], 
+                    male:[
+                        "亲吻对方大臂",
+                        "公主抱她5秒钟", 
+                        ], 
+                    female:[
+                        "被对方抚摸一下屁股",
+                        "坐在对方腿上拥抱5秒钟", 
+                        ], 
+                    }, 
+                // 7.很亲密的接触
+                seventh:{
+                    general:[
+                        "亲吻对方脸颊", 
+
+                        ], 
+                    male:[
+                        "亲吻对方背部",
+
+                        ], 
+                    female:[
+                        "亲吻对方脖颈", 
+                        "抚摸一下对方的屁股",
+                        ],
+                    }, 
+                eighth:{
+                    general:[
+                        "为对方按摩大腿内测5次", 
+                        ], 
+                    male:[
+                        "亲吻对方的脚丫", 
+                        ], 
+                    female:[
+                        "被对方按摩屁股5次", 
+                        "亲吻他的喉结", 
+                        ],
+                    }, 
+
+                ninth:{
+                    general:[
+                        "亲吻对方的屁股", 
+                        "接吻5秒钟", 
+                        "被对方抚摸一下私处", 
+                        ], 
+                    male:[
+                        "亲吻她的乳头", 
+                        "Suck her breasts for 30 seconds: ",
+                        "Massage her breasts and kiss her back for 30 seconds: ", 
+                        ], 
+                    female:[
+                        "亲吻对方的胸膛",
+                        "被他按摩胸部", 
+
+                        ],
+                    }, 
+                tenth:{
+                    general:[
+                        "用口为对方喝水",
+                        "Embrace  and kiss each other for 30 seconds: ", 
+                        ], 
+                    male:[
+                        "Massage her cunt for 30 seconds: ", 
+                        "被她按摩阴茎5秒", 
+                        "亲吻她的阴蒂5秒", 
+                        ], 
+                    female:[
+                        "Massage his penis for 30 seconds: ",
+                        "被他按摩阴蒂5秒", 
+                        "亲吻他的龟头5秒", 
+                        ],
+                    }, 
+                eleventh:{
+                    general:[
+                        "Oral sex with each other for 30 seconds", 
+                        ], 
+                    male:[
+                        "Cunnilingus for 30 seconds: ",
+                        "Missionary on her: ", 
+                        ], 
+                    female:[
+                        "Doggie for 30 seconds: ", 
+                        "Cowgirl on him: ", 
+                        ],
+                    }, 
+                twelfth:{
+                    general:[
+
+                        ], 
+                    male:[
+                        "Drink her honey juice(urine): ", 
+                        "Be ridden on mouth by her: ", 
+                        ], 
+                    female:[
+                        "Fellatio for 30 seconds: ", 
+                        "Deep throat"
+                        ],
+                    }, 
+            }
+
+            this.gameList = this.meta[level]["general"].concat(this.meta[level][gender])
+            this.randomGame = function () {
+                return this.gameList[Math.floor(Math.random() * this.gameList.length)]
+            }
+            this.count = {
+                first:0,
+                second:0,
+                third:0,
+                fourth:0,
+                fifth:0, 
+                sixth:0,
+                seventh:0,
+                eighth:0,
+                ninth:0,
+                tenth:0,
+                eleventh:0,
+                twelfth:0,
+            }
+            this.totalCount = 0
+            this.extraCount = 0
+            this.winning = false
+
+        }
+
+
+        function createNext() {
+            levelDict = {
+                first:1, 
+                second:2, 
+                third:3, 
+                fourth:4, 
+                fifth:5, 
+                sixth:6, 
+                seventh:7, 
+                eighth:8, 
+                ninth:9, 
+                tenth:10 ,
+                eleventh:11,
+                twelfth:12,
+            }
+
+            levelList = [
+                "first", 
+                "second", 
+                "third", 
+                "fourth", 
+                "fifth", 
+                "sixth", 
+                "seventh", 
+                "eighth", 
+                "ninth", 
+                "tenth", 
+                "eleventh",
+                "twelfth",
+            ]
+            GAVEL = levelList[levelDict[GAVEL]]
+            
+            const divNext = document.createElement("div")
+            divNext.classList.add("pipeline", "next")
+            document.body.appendChild(divNext)
+
+            const h21 = document.createElement("h2")
+            h21.innerHTML = "The winner of this round is"
+            divNext.appendChild(h21)
+
+            const h22 = document.createElement("h2")
+            h22.classList.add("winner")
+            h22.innerHTML = `Level: ${GAVEL}`
+            divNext.appendChild(h22)
+
+            const h23 = document.createElement("h2")
+            h21.innerHTML = "Let's take it one step deeper!!"
+            divNext.appendChild(h23)
+
+            const buttonNext = document.createElement("button")
+            buttonNext.innerHTML = "START NEXT STAGE"
+            divNext.appendChild(buttonNext)
+            // buttonNext.onclick = (event) => next(event)
+            buttonNext.onclick = (event) => start(event, GAVEL)
+            document.addEventListener('keyup', function(event) {
+                if (event.key === 'Enter') { // 检查按键是否为Enter
+                    // 调用按钮的click事件
+                    buttonNext.click()
+                }
+            })
+        }
+
+        function play(event, gender, level='first') {
+            // const preButton = document.querySelector(".bottom-part button[disabled]")
+            const preButton = event.target.parentNode.querySelector("button[disabled]")
+            console.log(preButton)
+            preButton.disabled = false
+            event.target.disabled = true
+            //创建li节点，每点一次玩一下
+                    // const ul = document.querySelector(`.middle-part .${gender}`) 
+            const ul = event.target.parentNode.previousElementSibling.querySelector(`.middle-part .${gender}`)
+            const li = document.createElement('li')
+            ul.appendChild(li)
+            // const player = new Player(gender, level)
+            const game = playerDict[gender].randomGame()
+            const h2 = document.createElement("h2")
+            h2.innerHTML = game
+            li.appendChild(h2)
+
+            // 获胜项目
+            winItems = {
+                first:"脱掉自己一件衣服",
+                second:"握手3次",
+                third:"给对方按摩大臂5次",
+                fourth:"给对方按摩小腿5次",
+                fifth:"拥抱3秒钟",
+                sixth:"亲吻对方双肩",
+                seventh:"亲吻对方脸颊",
+                eighth:"为对方按摩大腿内测5次",
+                ninth:"接吻5秒钟",
+                tenth:"用口为对方喝水",
+                eleventh:"Oral sex with each other for 30 seconds",
+                twelfth:"",
+            }
+            playerDict[gender].totalCount ++
+            if (game == winItems[level]) {playerDict[gender].count[level]++}
+            if (playerDict[gender].count[level] * 5 + playerDict[gender].totalCount >= 15) {
+                playerDict[gender].extraCount ++
+            }
+            if (playerDict[gender].extraCount == 3) {
+                playerDict[gender].winning = true
+            }
+
+            if (playerDict[gender].winning) {
+                preButton.disabled = true
+                createNext()
+                const h2then = document.createElement("h2")
+                h2then.innerHTML = "then"
+                li.appendChild(h2then)
+                const h2Win = document.createElement("h2")
+                h2Win.innerHTML = "YOU WIN!!!"
+                li.appendChild(h2Win)
+                // console.log(game)
+            }
+
+
+            event.target.parentNode.scrollIntoView({
+            top: event.target.parentNode.scrollHeight, // 容器总高度
+            behavior: "smooth", // 平滑滚动
+            });
+        }
+    </script>
+</body>
+</html>

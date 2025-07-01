@@ -1,0 +1,663 @@
+<<<<<<< HEAD
+interpose:
+    interpose a barrier between
+#在……中间设置障碍
+    interpose an objection
+#提出异议
+    interpose a veto
+#行使否决权
+
+pouch:
+    a tobacco pouch
+#烟袋
+    a bullet pouch
+#子弹袋
+    a diplomatic pouch
+#外交邮袋
+    pouch up no such affront
+#不能容忍这种公开侮辱
+    He placed a pouch of gold coins on the table in front of her.
+#他把一袋金币放在她面前的桌子上。
+
+amnesty:
+    grant amnesty to sb.
+#赦免某人
+    Most political prisoners were freed under the terms of the amnesty.
+#大多数政治犯按大赦条例被释放了。
+
+lexical:
+    The students were asked to make a lexical and grammatical analysis of the president's speech.
+#学生们被要求对总统的演说从词汇和语法方面进行分析。
+
+jostle:
+    jostle one's way through the crowd
+#从人群中挤过去
+    a mind jostled into uncertainty
+#被搅得七上八下的心绪
+    jostle each other to win the election
+#相互竞争以赢得选举
+    Fishing vessels lay jostling each other at the riverside.
+#渔船互相紧靠着停泊在河边。
+
+pare:
+    pare an apple
+#削苹果皮
+    pare one's fingernails
+#剪指甲
+    pare expenses
+#逐步削减开支
+    pare down an article
+#删减一篇文章
+    Because of the recent economic recession a lot of companies have pared their staff.
+#由于目前经济衰退，许多公司进行了裁员。
+
+euphoria:
+    in the euphoria of the festival
+#在节日的欢乐中
+    a sort of euphoria content
+#一种心满意足的轻松愉快感
+    He was in a state of euphoria for days after he won the prize.
+#得奖后的几天里，他一直兴高采烈。
+
+perfidy:
+    an act of perfidy
+#背信弃义的行为
+    the perfidy of one's lover
+#情人的负心
+    Such perfidy cannot be forgiven.
+#如此的背信弃义是不可原谅的。
+
+municipality:
+    The municipality provides services such as electricity, water and rubbish collection.
+#市政当局提供电、水和垃圾回收等服务。
+
+monstrous:
+    monstrous cruelty
+#骇人听闻的残暴
+    a monstrous sum of money
+#巨款
+    a monstrous form
+#像怪物一样的形状
+    be awakened by a monstrous hammering on the door
+#被一阵猛烈的敲门声惊醒
+    The illustrations show monstrous beasts with bodies like bears and heads like tigers.
+#这些插图展示了怪异的野兽，它们有像熊一样的身子，像虎一样的头。
+
+backdrop:
+    the backdrop for the story
+#故中的背景
+    A moonlit sky was painted on the backdrop for the second act of the ballet.
+#芭蕾舞剧第二幕的背景幕布上画的是月光朦陇的夜空。
+
+hypocrite:
+    He's a hypocrite to tell us not to smoke while he himself is a chain-smoker.
+#他好虚伪，自己是个烟鬼，却叫我们别抽烟。
+
+entrust:
+    entrust one's jewelry to sb.
+#托某人照管珠宝;
+    entrust a child to a babysitter
+#把孩子托给临时保姆照顾
+    He didn't look like the sort of man you should entrust your luggage to.
+#他看上去不是那种能将你的行李托付给他的人。
+
+immunize:
+    immunize a bomb
+#使炸弹不爆炸
+    Children are routinely immunized against polio.
+#儿童定期接种小儿麻痹症疫苗。
+
+pleat:
+    pleat an apron
+#给围裙打褶
+
+headway:
+    make headway
+#取得进展
+    make little/no headway
+#未取得进展
+    The ship could make no headway in the rough sea.
+#船在惊涛骇浪中无法前进
+
+defame:
+    He defamed his ex-wife by every possible means. 
+#他对他前妻竭尽诽谤之能事。
+
+peek:
+    take a peek at the list
+#扫视了一下单子
+    They caught him peeking through the hole at what was going on in the room.
+#他正从孔眼偷看房间里发生的事情时被他们抓个正着
+
+defraud:
+    defraud the customers
+#欺骗顾客
+    with intent to defraud
+#蓄意诈骗
+    They are both charged with conspiracy to defraud an insurance company of two million dollars.
+#他们两人都因密谋诈取一家保险公司的200万美元而遭指控。
+
+harbinger:
+    the harbinger of spring
+#春天的前兆
+    The latest figures are seen by many to be harbingers of financial doom.
+#许多人认为最新的数据是财政厄运的前兆。
+
+heresy:
+    be convicted of heresy
+#被判信异教罪
+    It is the customary fate of new truths to begin as heresies.
+#新的真理在刚出现时往往注定被视为异端邪说。
+
+cunning:
+    cunning workmanship
+#精巧的工艺
+    a cunning workman
+#熟练的工人
+    a cunning kitten
+#逗人喜爱的小猫
+    a cunning little device for catching mice
+#种精巧的小型捕鼠器
+    It was cunning of the managing director to sell his shares just before the company went bankrupt.
+#经理十分狡猾，在公司破产前夕就把股票抛售了。
+
+constellation:
+    a constellation of artists
+#一群才华横溢的艺术家
+    a constellation of policies
+#一套政策
+    the shifting constellation of power
+#权力的重新安排
+    Gathered here tonight at this annual ceremony we have a whole constellation of film stars.
+#今晚的年会上聚集了一大群电影明星。
+
+hasten:
+    hasten the course of inquiry
+#加快调查的进程
+    hasten home
+#赶紧回家
+    hasten to add a few words
+#忙不迭加上几句
+    The treatment he received may have hastened his death.
+#他所接受的治疗可能加速了他的死亡。
+
+inroad:
+    make inroads into a country
+#侵入一个国家
+    a serious inroad to personal freedom
+#对个人自由的严重侵犯
+    make inroads upon one's time and health
+#耗去某人许多时间并损害其健康
+    make great inroads on one's savings
+#耗去大量的储蓄
+    make surprising inroads
+#意外得手
+    The government is definitely making inroads into the problem of unemployment.
+#政府在处理失业问题上已明显取得进展。
+
+ode:
+    Ode to a Nightingale is a poem by Keats.
+#《夜莺颂》是济慈的诗。
+
+horrendous:
+    a horrendous accident
+#骇人的事故
+    a horrendous crime
+#骇人听闻的罪行
+    the horrendous loss
+#惊人的损失
+    The conditions in the refuge camps were horrendous.
+#难民营里的情况糟糕透了。
+
+underling:
+    He surrounded himself with underlings who were too afraid of him to even answer back.
+#他找了一些对他害怕得从不敢回嘴的下属围在自己的周围。
+
+heartrending:
+    heartrending experience
+#令人痛苦的经历
+    The pictures of starving children in the newspaper were absolutely heartrending.
+#报纸上刊登的饥饿儿童的照片实在令人心碎。
+
+squint:
+    squint at the departure board
+#眯着眼看出发时刻表
+    squint one's eyes at
+#对……眨眨眼
+    narrow one's eyes to a squint
+#把眼睛眯成条缝
+    a squint towards radicalism
+#激进主义倾向
+    squint eyes
+#斜视眼
+    As a child he wore thick glasses and had a bad squint.
+#他是个孩子，却戴着厚眼镜且斜视得厉害。
+
+autocrat:
+    an ambitions autocrat
+#雄心勃勃的独断专行的人
+    He was condemned for being a right-wing autocrat who ruled his country by brute force.
+#他因成为一个以暴力治国的右翼独裁者而受到人们的遣责。
+
+intermingle:
+    intermingle the ingredients
+#混合各种配料
+    intermingle one with another
+#把一物同另一物混合起来
+    Fact and fiction are intermingled throughout the book.
+#事实和虚构在整部书中交织在一起。
+
+sadden:
+    It saddens me to think that we'll never see her again.
+#想到我们再也见不到她时我非常悲伤。
+
+grievance:
+    hidden grievances
+#隐藏的怨恨
+    Bill still nurses a grievance against his employer for not promoting him.
+#比尔仍然因他的雇主没有提拔他而愤愤不平。
+
+obstinate:
+    meet with obstinate resistance
+#遇到顽强抵抗
+    be of an obstinate temper
+#脾气個
+    He has an obstinate belief in his own ability.
+#他顽固地认为自己有能力。
+
+diligence:
+    show great diligence in pursuing one's aims
+#在追求个人目标上表现得孜孜不倦
+    respond to one's assignment with diligence
+#勤奋不懈地完成分配给自己的任务
+    The diligence with which the police conducted the investigation was highly praised.
+#警方不遗余力地组织调查，这一表现受到高度赞扬。
+
+insufficient:
+    insufficient evidence
+#证据不足
+    insufficient to/for the work
+#不能胜任工作
+    There was insufficient money to fund the research.
+#没有足够的资金来资助这项研究。
+
+lathe:
+    operate/work a lathe
+#开车床
+    It is a program-controlled lathe.
+#这是一台程控车床。
+
+behold:
+    set up early to behold the sunrise
+#早起看日出
+    behold the scene with the eyes of a painter
+#以一个画家的眼光观察景色
+    The new bridge is an incredible sight to behold.
+#这座新桥令人叹为观止。
+
+gorge:
+    rocky gorges and hills
+#岩石丛生的峡谷和山丘
+    an ice gorge in a river
+#河流上的冰障
+    gorge on food
+#吃得饱饱的
+    gorge oneself with /on biscuits
+#用饼干填饱肚子
+    cast/heave the gorge
+#倒胃口，作呕
+    make sb.'s gorge rise
+#使人作呕，使人感到厌恶
+
+tramp:
+    tramp about upstairs
+#在楼上脚步噔噔地走来走去
+    the crowd tramping in a dancing circle
+#围成圈踏步跳舞的人
+    the tramping of horse's hoofs
+#踢踢踏踏的马蹄声
+    a tramp through the woods
+#徒步穿过树林
+
+chipmunk:
+    It's everything a chipmunk needs to get through the winter. 
+#这是花栗鼠过冬所需的一切。
+
+pithiness:
+    Her work is known for pithiness of style. 
+#她的作品以简洁着称。
+    The speed and pithiness of the arithmetic is advanced. 
+#它较一般的辨识算法，速度和简洁性有很大提高。
+
+=======
+interpose:
+    interpose a barrier between
+#在……中间设置障碍
+    interpose an objection
+#提出异议
+    interpose a veto
+#行使否决权
+
+pouch:
+    a tobacco pouch
+#烟袋
+    a bullet pouch
+#子弹袋
+    a diplomatic pouch
+#外交邮袋
+    pouch up no such affront
+#不能容忍这种公开侮辱
+    He placed a pouch of gold coins on the table in front of her.
+#他把一袋金币放在她面前的桌子上。
+
+amnesty:
+    grant amnesty to sb.
+#赦免某人
+    Most political prisoners were freed under the terms of the amnesty.
+#大多数政治犯按大赦条例被释放了。
+
+lexical:
+    The students were asked to make a lexical and grammatical analysis of the president's speech.
+#学生们被要求对总统的演说从词汇和语法方面进行分析。
+
+jostle:
+    jostle one's way through the crowd
+#从人群中挤过去
+    a mind jostled into uncertainty
+#被搅得七上八下的心绪
+    jostle each other to win the election
+#相互竞争以赢得选举
+    Fishing vessels lay jostling each other at the riverside.
+#渔船互相紧靠着停泊在河边。
+
+pare:
+    pare an apple
+#削苹果皮
+    pare one's fingernails
+#剪指甲
+    pare expenses
+#逐步削减开支
+    pare down an article
+#删减一篇文章
+    Because of the recent economic recession a lot of companies have pared their staff.
+#由于目前经济衰退，许多公司进行了裁员。
+
+euphoria:
+    in the euphoria of the festival
+#在节日的欢乐中
+    a sort of euphoria content
+#一种心满意足的轻松愉快感
+    He was in a state of euphoria for days after he won the prize.
+#得奖后的几天里，他一直兴高采烈。
+
+perfidy:
+    an act of perfidy
+#背信弃义的行为
+    the perfidy of one's lover
+#情人的负心
+    Such perfidy cannot be forgiven.
+#如此的背信弃义是不可原谅的。
+
+municipality:
+    The municipality provides services such as electricity, water and rubbish collection.
+#市政当局提供电、水和垃圾回收等服务。
+
+monstrous:
+    monstrous cruelty
+#骇人听闻的残暴
+    a monstrous sum of money
+#巨款
+    a monstrous form
+#像怪物一样的形状
+    be awakened by a monstrous hammering on the door
+#被一阵猛烈的敲门声惊醒
+    The illustrations show monstrous beasts with bodies like bears and heads like tigers.
+#这些插图展示了怪异的野兽，它们有像熊一样的身子，像虎一样的头。
+
+backdrop:
+    the backdrop for the story
+#故中的背景
+    A moonlit sky was painted on the backdrop for the second act of the ballet.
+#芭蕾舞剧第二幕的背景幕布上画的是月光朦陇的夜空。
+
+hypocrite:
+    He's a hypocrite to tell us not to smoke while he himself is a chain-smoker.
+#他好虚伪，自己是个烟鬼，却叫我们别抽烟。
+
+entrust:
+    entrust one's jewelry to sb.
+#托某人照管珠宝;
+    entrust a child to a babysitter
+#把孩子托给临时保姆照顾
+    He didn't look like the sort of man you should entrust your luggage to.
+#他看上去不是那种能将你的行李托付给他的人。
+
+immunize:
+    immunize a bomb
+#使炸弹不爆炸
+    Children are routinely immunized against polio.
+#儿童定期接种小儿麻痹症疫苗。
+
+pleat:
+    pleat an apron
+#给围裙打褶
+
+headway:
+    make headway
+#取得进展
+    make little/no headway
+#未取得进展
+    The ship could make no headway in the rough sea.
+#船在惊涛骇浪中无法前进
+
+defame:
+    He defamed his ex-wife by every possible means. 
+#他对他前妻竭尽诽谤之能事。
+
+peek:
+    take a peek at the list
+#扫视了一下单子
+    They caught him peeking through the hole at what was going on in the room.
+#他正从孔眼偷看房间里发生的事情时被他们抓个正着
+
+defraud:
+    defraud the customers
+#欺骗顾客
+    with intent to defraud
+#蓄意诈骗
+    They are both charged with conspiracy to defraud an insurance company of two million dollars.
+#他们两人都因密谋诈取一家保险公司的200万美元而遭指控。
+
+harbinger:
+    the harbinger of spring
+#春天的前兆
+    The latest figures are seen by many to be harbingers of financial doom.
+#许多人认为最新的数据是财政厄运的前兆。
+
+heresy:
+    be convicted of heresy
+#被判信异教罪
+    It is the customary fate of new truths to begin as heresies.
+#新的真理在刚出现时往往注定被视为异端邪说。
+
+cunning:
+    cunning workmanship
+#精巧的工艺
+    a cunning workman
+#熟练的工人
+    a cunning kitten
+#逗人喜爱的小猫
+    a cunning little device for catching mice
+#种精巧的小型捕鼠器
+    It was cunning of the managing director to sell his shares just before the company went bankrupt.
+#经理十分狡猾，在公司破产前夕就把股票抛售了。
+
+constellation:
+    a constellation of artists
+#一群才华横溢的艺术家
+    a constellation of policies
+#一套政策
+    the shifting constellation of power
+#权力的重新安排
+    Gathered here tonight at this annual ceremony we have a whole constellation of film stars.
+#今晚的年会上聚集了一大群电影明星。
+
+hasten:
+    hasten the course of inquiry
+#加快调查的进程
+    hasten home
+#赶紧回家
+    hasten to add a few words
+#忙不迭加上几句
+    The treatment he received may have hastened his death.
+#他所接受的治疗可能加速了他的死亡。
+
+inroad:
+    make inroads into a country
+#侵入一个国家
+    a serious inroad to personal freedom
+#对个人自由的严重侵犯
+    make inroads upon one's time and health
+#耗去某人许多时间并损害其健康
+    make great inroads on one's savings
+#耗去大量的储蓄
+    make surprising inroads
+#意外得手
+    The government is definitely making inroads into the problem of unemployment.
+#政府在处理失业问题上已明显取得进展。
+
+ode:
+    Ode to a Nightingale is a poem by Keats.
+#《夜莺颂》是济慈的诗。
+
+horrendous:
+    a horrendous accident
+#骇人的事故
+    a horrendous crime
+#骇人听闻的罪行
+    the horrendous loss
+#惊人的损失
+    The conditions in the refuge camps were horrendous.
+#难民营里的情况糟糕透了。
+
+underling:
+    He surrounded himself with underlings who were too afraid of him to even answer back.
+#他找了一些对他害怕得从不敢回嘴的下属围在自己的周围。
+
+heartrending:
+    heartrending experience
+#令人痛苦的经历
+    The pictures of starving children in the newspaper were absolutely heartrending.
+#报纸上刊登的饥饿儿童的照片实在令人心碎。
+
+squint:
+    squint at the departure board
+#眯着眼看出发时刻表
+    squint one's eyes at
+#对……眨眨眼
+    narrow one's eyes to a squint
+#把眼睛眯成条缝
+    a squint towards radicalism
+#激进主义倾向
+    squint eyes
+#斜视眼
+    As a child he wore thick glasses and had a bad squint.
+#他是个孩子，却戴着厚眼镜且斜视得厉害。
+
+autocrat:
+    an ambitions autocrat
+#雄心勃勃的独断专行的人
+    He was condemned for being a right-wing autocrat who ruled his country by brute force.
+#他因成为一个以暴力治国的右翼独裁者而受到人们的遣责。
+
+intermingle:
+    intermingle the ingredients
+#混合各种配料
+    intermingle one with another
+#把一物同另一物混合起来
+    Fact and fiction are intermingled throughout the book.
+#事实和虚构在整部书中交织在一起。
+
+sadden:
+    It saddens me to think that we'll never see her again.
+#想到我们再也见不到她时我非常悲伤。
+
+grievance:
+    hidden grievances
+#隐藏的怨恨
+    Bill still nurses a grievance against his employer for not promoting him.
+#比尔仍然因他的雇主没有提拔他而愤愤不平。
+
+obstinate:
+    meet with obstinate resistance
+#遇到顽强抵抗
+    be of an obstinate temper
+#脾气個
+    He has an obstinate belief in his own ability.
+#他顽固地认为自己有能力。
+
+diligence:
+    show great diligence in pursuing one's aims
+#在追求个人目标上表现得孜孜不倦
+    respond to one's assignment with diligence
+#勤奋不懈地完成分配给自己的任务
+    The diligence with which the police conducted the investigation was highly praised.
+#警方不遗余力地组织调查，这一表现受到高度赞扬。
+
+insufficient:
+    insufficient evidence
+#证据不足
+    insufficient to/for the work
+#不能胜任工作
+    There was insufficient money to fund the research.
+#没有足够的资金来资助这项研究。
+
+lathe:
+    operate/work a lathe
+#开车床
+    It is a program-controlled lathe.
+#这是一台程控车床。
+
+behold:
+    set up early to behold the sunrise
+#早起看日出
+    behold the scene with the eyes of a painter
+#以一个画家的眼光观察景色
+    The new bridge is an incredible sight to behold.
+#这座新桥令人叹为观止。
+
+gorge:
+    rocky gorges and hills
+#岩石丛生的峡谷和山丘
+    an ice gorge in a river
+#河流上的冰障
+    gorge on food
+#吃得饱饱的
+    gorge oneself with /on biscuits
+#用饼干填饱肚子
+    cast/heave the gorge
+#倒胃口，作呕
+    make sb.'s gorge rise
+#使人作呕，使人感到厌恶
+
+tramp:
+    tramp about upstairs
+#在楼上脚步噔噔地走来走去
+    the crowd tramping in a dancing circle
+#围成圈踏步跳舞的人
+    the tramping of horse's hoofs
+#踢踢踏踏的马蹄声
+    a tramp through the woods
+#徒步穿过树林
+
+chipmunk:
+    It's everything a chipmunk needs to get through the winter. 
+#这是花栗鼠过冬所需的一切。
+
+pithiness:
+    Her work is known for pithiness of style. 
+#她的作品以简洁着称。
+    The speed and pithiness of the arithmetic is advanced. 
+#它较一般的辨识算法，速度和简洁性有很大提高。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

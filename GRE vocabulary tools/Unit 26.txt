@@ -1,0 +1,635 @@
+<<<<<<< HEAD
+fatigue: 英[fəˈtiːɡ] 美[fəˈtiːɡ]
+$n. 疲乏，厌倦；（金属部件的）疲劳；（士兵穿的）工作服；士兵杂役（尤指作为惩罚,如做打扫、帮厨）
+$v. 使疲劳，使劳累
+%adj. 疲劳的
+    He was nearly dead with fatigue.
+#他快累死了。
+
+limb: 英[lɪm] 美[lɪm]
+$n. 肢；大树枝；（某物的）突出部，延伸部分；十字形四个分支中的一个；弓把的上部（或下部）；（日月等天体的）边缘；冠檐，萼檐；（管状花的）瓣片；（四分仪等科学仪器上测量角度的）分度弧
+%v. 切断……的手足；从……上截下树枝
+    She lay down to rest her tired and aching limbs.
+#她躺下来让疲劳酸痛的四肢休息一下。
+
+compensate: 英[ˈkɒmpenseɪt] 美[ˈkɑːmpenseɪt]
+%v. 赔偿，偿付；弥补，补偿；抵消；酬报（某人）
+    The animal's good sense of smell compensates for its poor eyesight.
+#这种动物嗅觉灵敏，弥补了视力的不足。
+
+contest: 英[ˈkɒntest] 美[ˈkɑːntest]
+$n. 比赛，竞赛；争夺，竞争；争论，争执
+%v. 争辩，提出异议；争取赢得，角逐
+    He'll contest against the world's best runners in the Olympic Games.
+#他将在奥运会上同世界上最优秀的赛跑运动员比赛。
+
+probe: 英[prəʊb] 美[proʊb]
+$v. 调查，打探，探究；（用手指、细长工具等）探查，查看；搜寻，探索；侦察，侦探（敌情）
+%n. 探究，详尽调查；（医生和科学家用的）探针； 航天探测器，太空探测器（=space probe）；探测仪，传感器，取样器
+    The police will probe into the crime.
+#警方将调查这一犯罪活动。
+
+quell: 英[kwel] 美[kwel]
+%v. 制止，镇压；消除，减轻（恐惧、担忧等）
+    The army quelled the rebellion in September, arresting dozens of the participants.
+#军队镇压了九月份的叛乱，速捕了几十名参与者。
+
+curfew: 英[ˈkɜːfjuː] 美[ˈkɜːrfjuː]
+%n. 宵禁令，宵禁时间；<美>（尤指儿童）晚间必须回家的时间；晚钟；打晚钟时刻
+    There's a curfew from eleven at night until seven in the morning.
+#从夜里1l点到早上7点实行宵禁。
+
+monopoly: 英[məˈnɒpəli] 美[məˈnɑːpəli]
+%n. 垄断，垄断权；垄断企业，专卖者；独占，专利品；大富翁（棋类游戏,游戏者以玩具钞票买卖房地产）
+    As a measure to restrict smoking, plans were made for monopolies on tobacco.
+#为了限制吸烟，针对烟草专卖的计划已出台。
+
+yummy: 英[ˈjʌmi] 美[ˈjʌmi]
+$adj. <非正式>美味的，可口的；性感的，迷人的
+%n. 美味的食物（yummies）
+    I think I'll have some more of that yummy chocolate cake.
+#我想再吃一些那美味的巧克力蛋糕。
+
+contend: 英[kənˈtend] 美[kənˈtend]
+%v. 声称，主张；竞争，争夺；处理，对付
+    He had to contend with many difficulties when he was a young man.
+#年轻时，他不得不同许多困难做斗争。
+
+stomach: 英[ˈstʌmək] 美[ˈstʌmək]
+$n. 胃；腹部；（低级动物的）类胃器官；（反刍动物的）四胃之一；心窝，内脏； 食欲，胃口；（对有冲突、困难或不快之事的）欲望，倾向；（做困难或不愉快的事所需的）意愿，勇气，决心；（对令人反胃的东西的）承受能力
+%v. 忍受，承受；吃得下
+    He can't stomach the idea that Peter might be the next chairman.
+#想到彼得可能成为下届主席，他难以接受。
+
+scan: 英[skæn] 美[skæn]
+$vt. 细看，审视；粗略看，浏览；扫描检查（物体或身体部位等）；（机器或计算机程序）扫描，察看；将（文件、照片等）扫描进计算机；（用声呐或雷达）扫描，扫掠；（诗）符合格律，韵节合拍；用（光束）扫描；电视扫描
+%n. 快速查阅，浏览；（医疗）扫描检查；扫描图；胎儿扫描检查
+    He scanned the article that might give him the information he needed.
+#他浏览了一下可能为他提供信息的那篇文章。
+
+quench: 英[kwentʃ] 美[kwentʃ]
+$v. （喝水）止（渴）；满足（欲望）；扑灭，熄灭（火）；抑制，压制（感情）；（尤指用冷水或油）将……淬火，使冷却；控制（发光、震动或放电等效果）
+%n. 淬火
+    Firemen tried to quench the flames raging through the building.
+#消防队员奋力扑救大楼中熊熊的火焰。
+
+aspire: 英[əˈspaɪə(r)] 美[əˈspaɪər]
+%v. 渴望，有志于
+    Few people who aspire to/after fame ever achieve it.
+#想要成名的人很少能如愿。
+
+dim: 英[dɪm] 美[dɪm]
+$adj. 暗淡的，昏暗的；模糊的，看不清的；<非正式>愚笨的，迟钝的；前景暗淡的，不乐观的
+%v. （使）变暗；变淡漠，失去光泽；（使）变模糊
+    When the music started, someone dimmed the light.
+#音乐一起，有人就把灯光调暗了。
+
+expend: 英[ɪkˈspend] 美[ɪkˈspend]
+%v. 花费，消耗，耗尽
+    She expended a great amount of money in decorating the house.
+#她装修这幢房子花费了许多钱。
+
+scrape: 英[skreɪp] 美[skreɪp]
+$v. （用小刀等）刮除；（使）刮擦；擦伤，刮坏；（使）发出刺耳的刮擦声；勉强维持，艰难地完成；勉强维持生活（scrape by/along）；勉强通过；（艰难地）凑集，积累（scrape sth. together/up）；节俭；挖坑，挖洞； 把头发拢在后面（scrape sth. back）；（幽默）不入调地演奏小提琴；<英>在面包上涂一层薄薄的（黄油，人造黄油）；用程序从网上下载（数据）
+%n. 擦伤，擦痕；刮擦，刮擦声；<非正式>困境，窘境；地面空洞处，（尤指鸟求爱、筑巢时）在地面挖的洞；<英>涂在面包上的一层黄油（或麦琪淋）；<非正式>（医）刮宫
+    You must scrape the door before painting it.
+#你必须先把门刮一下，再上油漆。
+
+commit: 英[kəˈmɪt] 美[kəˈmɪt]
+%v. 犯（罪、错）；调拨，投入；（使）承诺，承担义务；郑重承诺，忠于；把……关进医院（监狱），监禁；传唤（某人）到法院受审；订婚，决定与（某人）保持长期感情；把……托付给
+    The government has committed itself to improving the health service in the countryside.
+#政府已做出承诺要改善农村的医疗条件。
+
+bouquet: 英[buˈkeɪ] 美[buˈkeɪ]
+%n. 花束；（尤指酒的）香味，芬芳；赞扬，恭维
+    At the end of the performance she was presented with a big bouquet of roses.
+#在演出结束后有人送给她一大束玫瑰花。
+
+insane: 英[ɪnˈseɪn] 美[ɪnˈseɪn]
+%adj. 疯癫的，精神失常的；蠢极的，荒唐的
+    In a fit of insane jealousy he nearly lost his temper.
+#在一阵疯狂的妒忌中，他差点情绪失控。
+
+summon: 英[ˈsʌmən] 美[ˈsʌmən]
+%v. 召唤；召集（会议）；传唤，传讯（出庭）；迫切地要求（帮助）；鼓起（勇气），振作（精神）
+    In late October the prime minister summoned an emergency meeting.
+#首相在10月下旬召开了一次紧急会议。
+
+deficit: 英[ˈdefɪsɪt] 美[ˈdefɪsɪt]
+%n. 亏损，赤字，不足额；（体育用语）失分数；缺乏，缺陷
+    The directors have reported a deficit of three million dollars.
+#董事们报告亏损了300万美元。
+
+nominate: 英[ˈnɒmɪneɪt] 美[ˈnɑːmɪneɪt]
+$v. 提名，推荐；任命，指派；挑选，指定（事件的日期或地点）
+%adj. （动植物）以种名命名的
+    He's been nominated as the candidate in the next election.
+#他被提名为下届选举的候选人。
+
+aggregate: 英[ˈæɡrɪɡət] 美[ˈæɡrɪɡət]
+$n. 总数，合计；骨料，混凝料
+$adj. 总计的，合计的；（种群）聚生的
+%v. 集合，聚集；总计达到；合计
+    He purchased an aggregate of 3,000 shares in the company.
+#他总计购买了这家公司3000股股票。
+
+squat: 英[skwɒt] 美[skwɑːt]
+$v. 蹲坐；擅自占用（建筑物或土地）；<澳新，史>占用王室土地来放牧牛羊；（举重）蹲举
+$n. 蹲坐；被非法占用的建筑物；非法占用空屋；<美，非正式>几乎没有（常用于否定句中作强调）；（举重）蹲举训练；（体操）下蹲动作；俯撑腿屈伸（双手撑地下蹲后双腿同时前后跳动）
+%adj. 矮胖的，粗矮的
+    They've been squatting in an apartment in the north of town for the past three years.
+#他们过去三年来一直擅自占用着城北的一间公寓。
+    She was shown around the sports club by a squat man.
+#她由一个矮胖的男人领着参观了体育俱乐部。
+
+zone: 英[zəʊn] 美[zoʊn]
+$n. （有某特色或作用的）地区，地带；（允许或禁止某种活动的）范围；（尤指有别于周围的）区域，部份；（规划的）区域，分区；（地球的）气候带；时区；（动植物）环带，带；（尤作体育用语）巅峰状态
+%v. 将……划为某种用途的区域；将……分成区（或划成带）；<古>用带子围绕，环绕
+    This stretch of coast has been designated a danger zone.
+#这段海岸已被指明是危险地带。
+
+deposit: 英[dɪˈpɒzɪt] 美[dɪˈpɑːzɪt]
+$v. 放下，放置；储蓄；存放，寄存；沉积，沉淀；支付（押金、订金或预缴费用）
+%n. 沉积物，沉积层；订金；押金；存款；竞选保证金
+    The flood deposited a layer of mud in the roads.
+#洪水在道路上沉积了一层淤泥
+
+offset: 英[ˈɒfset] 美[ˈɔːfset]
+$v. 补偿，抵销；衬托出；使偏离直线方向，使与…不在一条直线上；（墨水，刚印好的页面）转印下一页
+$n. 抵消物，补偿；偏离量，偏离距离；（测绘）支距；（电压或电流的）偏离；侧枝，短匐茎；（山的）支脉；（建筑）壁阶；胶印法
+%adj. 胶印的，平版印刷的；偏离中心的，偏置的
+    The cost of getting there was offset by the fact that the hotels are so cheap.
+#去那里的费用因旅店收费非常便宜而得以抵消。
+
+animate: 英[ˈænɪmeɪt] 美[ˈænɪmeɪt]
+$adj. 有生命的，有活力的
+%v. 使生动，使兴奋；把……制作成动画；鼓动，激励；使有生命
+    The world contains things which are animate and things which are inanimate.
+#世界包含着有生命的东西和无生命的东西。
+
+expenditure: 英[ɪkˈspendɪtʃə(r)] 美[ɪkˈspendɪtʃər]
+%n. 经费，支出额；（时间、金钱、精力等的）消耗，花费
+    Such a great project requires the expenditure of much money, time and manpower.
+#这样一个庞大的工程需要花费许多钱、时间和人力。
+
+shoddy: 英[ˈʃɒdi] 美[ˈʃɑːdi]
+$adj. 劣质的，粗制滥造的；卑鄙的，不正当的
+%n. 长弹毛（织物），软再生毛（织物）
+    If you look at the way the furniture has been put together, it's fairly shoddy.
+#你要是看了这些家具被组装起来的方式，你就会发现它们的做工相当差。
+
+beckon: 英[ˈbekən] 美[ˈbekən]
+$v. （招手）示意，召唤；吸引，引诱；可能发生
+%n. 召唤的表示
+    She's an excellent student, for whom a wonderful future beckons.
+#她是个优秀的学生，美好的未来正在召唤她。
+
+patent: 英[ˈpæt(ə)nt] 美[ˈpæt(ə)nt]
+$n. 专利（权），专利证书；专利发明
+$adj. 受专利保护的，专利的；专利生产的，专利经销的；显而易见的，赤裸裸的；（寄生虫感染）明显的，显著的；（脉管、导管或孔）开放的，不闭合的
+%v. 获得……的专利权；授予专利
+    He took out a patent for his new invention.
+#他为自己的新发明取得了一项专利。
+
+wrath: 英[rɒθ] 美[ræθ]
+%n. 愤怒，盛怒
+    He left home to escape his father's wrath.
+#他离开了家，以逃避他父亲的盛怒。
+
+prominent: 英[ˈprɒmɪnənt] 美[ˈprɑːmɪnənt]
+$adj. 重要的，著名的；显眼的，突出的；突起的，高耸的
+%n. 舟蛾（=prominent moth）
+    The government should be playing a more prominent role in promoting human rights.
+#政府应该在促进人权方面发挥更加重要的作用。
+
+detergent: 英[dɪˈtɜːdʒənt] 美[dɪˈtɜːrdʒənt]
+$n. 洗涤剂，去污剂
+%adj. 使清洁的，（与）清洁添加剂（有关）的
+    The release of industrial detergents into the river has caused the death of thousands of fish.
+#工业洗涤剂被倒入河中造成了数千条鱼的死亡。
+
+revive: 英[rɪˈvaɪv] 美[rɪˈvaɪv]
+%v. （使）复原，（使）复苏；重新唤起，重新记起；重新使用，使复兴；重新上演
+    The plants revived as soon as I gave them a little water.
+#我给植物浇了点水，它们马上就恢复了生机。
+
+redundancy: 英[rɪˈdʌndənsi] 美[rɪˈdʌndənsi]
+%n. <英> （因劳动力过剩而造成的）裁员，解雇；多余，累赘；复置装置，冗余（机器、系统等某部件发生故障后的替代装置）
+    Some of the staff will be encouraged to take retirement and others voluntary redundancy.
+#有些职员将被鼓励退休，有些则自愿被解雇。
+
+alert: 英[əˈlɜːt] 美[əˈlɜːrt]
+$adj. 警惕的，警觉的；机敏的，敏捷的；意识到，注意到（alert to）
+$v. 向……报警，使警觉；提示，提醒（某人）
+%n. 警报，警示；警戒，警惕；（电子设备的）提示信号；警戒期
+    We must alert young people to the dangers of smoking.
+#我们必须提醒年轻人吸烟的危害。
+
+implicate: 英[ˈɪmplɪkeɪt] 美[ˈɪmplɪkeɪt]
+$v. 使牵连其中，涉及；表明（或意指）……是起因；暗指，暗示
+%n. （主逻）蕴（涵）之物
+    A lot of people were implicated in the scandal.
+#许多人与这桩丑闻有牵连。
+
+penalty: 英[ˈpenəlti] 美[ˈpenəlti]
+%n. （因违反法律、规定或合同而受到的）处罚，刑罚；（行为、环境带来的）不利后果，苦难；（体育运动中对犯规者的）判罚，处罚；（足球、橄榄球及类似运动中的）罚球；（桥牌）（叫牌者未完成定约时的）罚分
+    The company is facing penalties worth $3 million.
+#这家公司面临高达300万美元的罚款。
+
+timely: 英[ˈtaɪmli] 美[ˈtaɪmli]
+$adj. 及时的，适时的
+%adv. 及时地；<古>早
+    The recent outbreaks of cholera are a timely reminder that this disease is still a health hazard.
+#最近的霍乱暴发及时警示人们，这种疾病仍严重威胁着健康。
+
+mint: 英[mɪnt] 美[mɪnt]
+$n. 薄荷；薄荷糖；铸币厂；巨款
+$v. 铸造（硬币）；创造，制造
+%adj. （物品）崭新的，无污损的；<英> 非常好的，很棒的
+    She bought a packet of mints.
+#她买了一包薄荷。
+
+interference: 英[ˌɪntəˈfɪərəns] 美[ˌɪntərˈfɪrəns]
+%n. 干涉，干预；（收音机或电视机受到的）干扰信号；犯规阻挡；抵触，冲突
+    The government's interference in the market has been widely criticized.
+#该政府对市场的干预广受批评。
+
+apt: 英[æpt] 美[æpt]
+%adj. 易于……的，有……倾向的；恰当的，适宜的；善学的，聪明的
+    Please remind me of the party. I'm apt to forget the date.
+#请提醒我出席聚会，我容易忘记日期。
+
+crack: 英[kræk] 美[kræk]
+$v. 破裂，裂开；崩溃，垮掉；砸开，砸碎；破译，解决；重击，猛击；（使）发出爆裂声，劈啪作响；（嗓音）变嘶哑；说（笑话），开（玩笑）；阻止，打击；开瓶，（尤指）开瓶饮酒；使（碳氢化合物）裂化
+$n. 裂缝，裂纹；缝隙，窄缝；瑕疵，缺点；爆裂声，噼啪声；尝试，试图；破解信息，破解码；俏皮话，粗鲁的话；重击，猛击；好时光，友好愉快的交谈；嗓音变哑；强效可卡因；<非正式>股沟
+%adj. 优秀的，训练有素的
+    The stone hit the window and cracked the glass
+#石头击中窗子，打破了玻璃。
+
+wholesome: 英[ˈhəʊlsəm] 美[ˈhoʊlsəm]
+%adj. （食物）有益健康的；有益身心健康的，增进身心健康的；（显得）健康的，朝气蓬勃的
+    We're going on a camping holiday to give the kids a taste of the wholesome outdoor life.
+#我们要去野营度假，以便让孩子们体验一下有益于身心健康的户外生活。
+
+disclose: 英[dɪsˈkləʊz] 美[dɪsˈkloʊz]
+%v. 透露，公开；揭开，使显露
+    The minister wrote a letter to the President disclosing the whole affair.
+#部长给，总统写了一封信，揭发了整个事件。
+
+shudder: 英[ˈʃʌdə(r)] 美[ˈʃʌdər]
+$v. （因恐惧、寒冷等）发抖，打战；强烈震动，剧烈抖动
+%n. 战栗，发抖；强烈的震动，剧烈的抖动
+    I heard a massive explosion and the ground shuddered beneath me.
+#我听到巨大的爆炸声，脚下的地面都在震动。
+
+eternal: 英[ɪˈtɜːn(ə)l] 美[ɪˈtɜːrn(ə)l]
+%adj. 永恒的，永存的；似乎无休无止的，没完没了的
+    Honesty and diligence should be your eternal "mates".
+#诚实和勤勉应该成为你永久的“伴侣”。
+
+stitch: 英[stɪtʃ] 美[stɪtʃ]
+$n. （缝纫的）针脚，一针；（缝合伤口的）缝线；缝纫法，编结法；（肋部）突然剧痛；<非正式>（最少的）一件衣服，一块布；（编织的）一针
+%v. 缝，缝补；缝合（伤口）；<英，非正式>操纵局势使……处于劣势，陷害
+    He needed six stitches in a cut on his arm.
+#他臂上的伤口需要缝6针。
+
+stock: 英[stɒk] 美[stɑːk]
+$n. （商店的）现货，存货，库存；储备物，备用物；储备量，现有量；股本，资本；股份，股票；<英>公债，公债券；家畜，牲畜；家族，世系；（动植物的）类，种类，种群；高汤，原汤；（用作刑具的）手足枷（stocks）；（工具的）柄，（尤指）枪托；名声，声望；紫罗兰；接穗，砧木；（草本植物多年生的）根茎，根状茎；<美>（演出几种不同保留剧目的）专业剧团；信任，相信；（铁路上运行的）全部车辆（包括机车、车厢等）；（胶卷）原片；（牌戏中）发剩下的牌；（商品的）原材料；锚杆；主轴台，主轴箱（headstock 的简称）；尾架，尾座（tailstock 的简称）；（作为正式骑马服饰一部分的）白色领结，白色领带；（牧师衣领下系的）黑色领带；船台（stocks）
+$v. （商店或工厂）储备，贮存；为……备货，把……填满；（尤指为某个特定时刻或目的而）备货，囤积；为（枪等火器）装枪托；出新芽
+%adj. 老一套的，陈腐的；（商店里）常备的，通常有的，库存的；（有关）电影资料镜头的
+    The shop carries a large stock of gift-wrapping paper around Christmas.
+#那家商店在圣诞节期间备有大量的礼品包装纸。
+
+induction: 英[ɪnˈdʌkʃ(ə)n] 美[ɪnˈdʌkʃ(ə)n]
+%n. 就职，就职仪式；<美>征召入伍；导致，引导；引产，催生；归纳，归纳法；电磁感应；（内燃机）进气，吸气
+    Their induction into the church took place in July.
+#他们的入教仪式在7月份举行。
+
+retention: 英[rɪˈtenʃ(ə)n] 美[rɪˈtenʃ(ə)n]
+%n. 保持，保留；保存，存放；保持力，持续力；记忆力；（热量的）阻滞，（液体的）潴留；（对物质的）吸收和保持
+    They advocated the retention of the nuclear power plant.
+#他们主张保留那个核电站。
+
+filth: 英[fɪlθ] 美[fɪlθ]
+%n. 污秽；肮脏；猥亵；不洁
+    The floor was covered in filth.
+#地板上满是污渍。
+
+=======
+fatigue: 英[fəˈtiːɡ] 美[fəˈtiːɡ]
+$n. 疲乏，厌倦；（金属部件的）疲劳；（士兵穿的）工作服；士兵杂役（尤指作为惩罚,如做打扫、帮厨）
+$v. 使疲劳，使劳累
+%adj. 疲劳的
+    He was nearly dead with fatigue.
+#他快累死了。
+
+limb: 英[lɪm] 美[lɪm]
+$n. 肢；大树枝；（某物的）突出部，延伸部分；十字形四个分支中的一个；弓把的上部（或下部）；（日月等天体的）边缘；冠檐，萼檐；（管状花的）瓣片；（四分仪等科学仪器上测量角度的）分度弧
+%v. 切断……的手足；从……上截下树枝
+    She lay down to rest her tired and aching limbs.
+#她躺下来让疲劳酸痛的四肢休息一下。
+
+compensate: 英[ˈkɒmpenseɪt] 美[ˈkɑːmpenseɪt]
+%v. 赔偿，偿付；弥补，补偿；抵消；酬报（某人）
+    The animal's good sense of smell compensates for its poor eyesight.
+#这种动物嗅觉灵敏，弥补了视力的不足。
+
+contest: 英[ˈkɒntest] 美[ˈkɑːntest]
+$n. 比赛，竞赛；争夺，竞争；争论，争执
+%v. 争辩，提出异议；争取赢得，角逐
+    He'll contest against the world's best runners in the Olympic Games.
+#他将在奥运会上同世界上最优秀的赛跑运动员比赛。
+
+probe: 英[prəʊb] 美[proʊb]
+$v. 调查，打探，探究；（用手指、细长工具等）探查，查看；搜寻，探索；侦察，侦探（敌情）
+%n. 探究，详尽调查；（医生和科学家用的）探针； 航天探测器，太空探测器（=space probe）；探测仪，传感器，取样器
+    The police will probe into the crime.
+#警方将调查这一犯罪活动。
+
+quell: 英[kwel] 美[kwel]
+%v. 制止，镇压；消除，减轻（恐惧、担忧等）
+    The army quelled the rebellion in September, arresting dozens of the participants.
+#军队镇压了九月份的叛乱，速捕了几十名参与者。
+
+curfew: 英[ˈkɜːfjuː] 美[ˈkɜːrfjuː]
+%n. 宵禁令，宵禁时间；<美>（尤指儿童）晚间必须回家的时间；晚钟；打晚钟时刻
+    There's a curfew from eleven at night until seven in the morning.
+#从夜里1l点到早上7点实行宵禁。
+
+monopoly: 英[məˈnɒpəli] 美[məˈnɑːpəli]
+%n. 垄断，垄断权；垄断企业，专卖者；独占，专利品；大富翁（棋类游戏,游戏者以玩具钞票买卖房地产）
+    As a measure to restrict smoking, plans were made for monopolies on tobacco.
+#为了限制吸烟，针对烟草专卖的计划已出台。
+
+yummy: 英[ˈjʌmi] 美[ˈjʌmi]
+$adj. <非正式>美味的，可口的；性感的，迷人的
+%n. 美味的食物（yummies）
+    I think I'll have some more of that yummy chocolate cake.
+#我想再吃一些那美味的巧克力蛋糕。
+
+contend: 英[kənˈtend] 美[kənˈtend]
+%v. 声称，主张；竞争，争夺；处理，对付
+    He had to contend with many difficulties when he was a young man.
+#年轻时，他不得不同许多困难做斗争。
+
+stomach: 英[ˈstʌmək] 美[ˈstʌmək]
+$n. 胃；腹部；（低级动物的）类胃器官；（反刍动物的）四胃之一；心窝，内脏； 食欲，胃口；（对有冲突、困难或不快之事的）欲望，倾向；（做困难或不愉快的事所需的）意愿，勇气，决心；（对令人反胃的东西的）承受能力
+%v. 忍受，承受；吃得下
+    He can't stomach the idea that Peter might be the next chairman.
+#想到彼得可能成为下届主席，他难以接受。
+
+scan: 英[skæn] 美[skæn]
+$vt. 细看，审视；粗略看，浏览；扫描检查（物体或身体部位等）；（机器或计算机程序）扫描，察看；将（文件、照片等）扫描进计算机；（用声呐或雷达）扫描，扫掠；（诗）符合格律，韵节合拍；用（光束）扫描；电视扫描
+%n. 快速查阅，浏览；（医疗）扫描检查；扫描图；胎儿扫描检查
+    He scanned the article that might give him the information he needed.
+#他浏览了一下可能为他提供信息的那篇文章。
+
+quench: 英[kwentʃ] 美[kwentʃ]
+$v. （喝水）止（渴）；满足（欲望）；扑灭，熄灭（火）；抑制，压制（感情）；（尤指用冷水或油）将……淬火，使冷却；控制（发光、震动或放电等效果）
+%n. 淬火
+    Firemen tried to quench the flames raging through the building.
+#消防队员奋力扑救大楼中熊熊的火焰。
+
+aspire: 英[əˈspaɪə(r)] 美[əˈspaɪər]
+%v. 渴望，有志于
+    Few people who aspire to/after fame ever achieve it.
+#想要成名的人很少能如愿。
+
+dim: 英[dɪm] 美[dɪm]
+$adj. 暗淡的，昏暗的；模糊的，看不清的；<非正式>愚笨的，迟钝的；前景暗淡的，不乐观的
+%v. （使）变暗；变淡漠，失去光泽；（使）变模糊
+    When the music started, someone dimmed the light.
+#音乐一起，有人就把灯光调暗了。
+
+expend: 英[ɪkˈspend] 美[ɪkˈspend]
+%v. 花费，消耗，耗尽
+    She expended a great amount of money in decorating the house.
+#她装修这幢房子花费了许多钱。
+
+scrape: 英[skreɪp] 美[skreɪp]
+$v. （用小刀等）刮除；（使）刮擦；擦伤，刮坏；（使）发出刺耳的刮擦声；勉强维持，艰难地完成；勉强维持生活（scrape by/along）；勉强通过；（艰难地）凑集，积累（scrape sth. together/up）；节俭；挖坑，挖洞； 把头发拢在后面（scrape sth. back）；（幽默）不入调地演奏小提琴；<英>在面包上涂一层薄薄的（黄油，人造黄油）；用程序从网上下载（数据）
+%n. 擦伤，擦痕；刮擦，刮擦声；<非正式>困境，窘境；地面空洞处，（尤指鸟求爱、筑巢时）在地面挖的洞；<英>涂在面包上的一层黄油（或麦琪淋）；<非正式>（医）刮宫
+    You must scrape the door before painting it.
+#你必须先把门刮一下，再上油漆。
+
+commit: 英[kəˈmɪt] 美[kəˈmɪt]
+%v. 犯（罪、错）；调拨，投入；（使）承诺，承担义务；郑重承诺，忠于；把……关进医院（监狱），监禁；传唤（某人）到法院受审；订婚，决定与（某人）保持长期感情；把……托付给
+    The government has committed itself to improving the health service in the countryside.
+#政府已做出承诺要改善农村的医疗条件。
+
+bouquet: 英[buˈkeɪ] 美[buˈkeɪ]
+%n. 花束；（尤指酒的）香味，芬芳；赞扬，恭维
+    At the end of the performance she was presented with a big bouquet of roses.
+#在演出结束后有人送给她一大束玫瑰花。
+
+insane: 英[ɪnˈseɪn] 美[ɪnˈseɪn]
+%adj. 疯癫的，精神失常的；蠢极的，荒唐的
+    In a fit of insane jealousy he nearly lost his temper.
+#在一阵疯狂的妒忌中，他差点情绪失控。
+
+summon: 英[ˈsʌmən] 美[ˈsʌmən]
+%v. 召唤；召集（会议）；传唤，传讯（出庭）；迫切地要求（帮助）；鼓起（勇气），振作（精神）
+    In late October the prime minister summoned an emergency meeting.
+#首相在10月下旬召开了一次紧急会议。
+
+deficit: 英[ˈdefɪsɪt] 美[ˈdefɪsɪt]
+%n. 亏损，赤字，不足额；（体育用语）失分数；缺乏，缺陷
+    The directors have reported a deficit of three million dollars.
+#董事们报告亏损了300万美元。
+
+nominate: 英[ˈnɒmɪneɪt] 美[ˈnɑːmɪneɪt]
+$v. 提名，推荐；任命，指派；挑选，指定（事件的日期或地点）
+%adj. （动植物）以种名命名的
+    He's been nominated as the candidate in the next election.
+#他被提名为下届选举的候选人。
+
+aggregate: 英[ˈæɡrɪɡət] 美[ˈæɡrɪɡət]
+$n. 总数，合计；骨料，混凝料
+$adj. 总计的，合计的；（种群）聚生的
+%v. 集合，聚集；总计达到；合计
+    He purchased an aggregate of 3,000 shares in the company.
+#他总计购买了这家公司3000股股票。
+
+squat: 英[skwɒt] 美[skwɑːt]
+$v. 蹲坐；擅自占用（建筑物或土地）；<澳新，史>占用王室土地来放牧牛羊；（举重）蹲举
+$n. 蹲坐；被非法占用的建筑物；非法占用空屋；<美，非正式>几乎没有（常用于否定句中作强调）；（举重）蹲举训练；（体操）下蹲动作；俯撑腿屈伸（双手撑地下蹲后双腿同时前后跳动）
+%adj. 矮胖的，粗矮的
+    They've been squatting in an apartment in the north of town for the past three years.
+#他们过去三年来一直擅自占用着城北的一间公寓。
+    She was shown around the sports club by a squat man.
+#她由一个矮胖的男人领着参观了体育俱乐部。
+
+zone: 英[zəʊn] 美[zoʊn]
+$n. （有某特色或作用的）地区，地带；（允许或禁止某种活动的）范围；（尤指有别于周围的）区域，部份；（规划的）区域，分区；（地球的）气候带；时区；（动植物）环带，带；（尤作体育用语）巅峰状态
+%v. 将……划为某种用途的区域；将……分成区（或划成带）；<古>用带子围绕，环绕
+    This stretch of coast has been designated a danger zone.
+#这段海岸已被指明是危险地带。
+
+deposit: 英[dɪˈpɒzɪt] 美[dɪˈpɑːzɪt]
+$v. 放下，放置；储蓄；存放，寄存；沉积，沉淀；支付（押金、订金或预缴费用）
+%n. 沉积物，沉积层；订金；押金；存款；竞选保证金
+    The flood deposited a layer of mud in the roads.
+#洪水在道路上沉积了一层淤泥
+
+offset: 英[ˈɒfset] 美[ˈɔːfset]
+$v. 补偿，抵销；衬托出；使偏离直线方向，使与…不在一条直线上；（墨水，刚印好的页面）转印下一页
+$n. 抵消物，补偿；偏离量，偏离距离；（测绘）支距；（电压或电流的）偏离；侧枝，短匐茎；（山的）支脉；（建筑）壁阶；胶印法
+%adj. 胶印的，平版印刷的；偏离中心的，偏置的
+    The cost of getting there was offset by the fact that the hotels are so cheap.
+#去那里的费用因旅店收费非常便宜而得以抵消。
+
+animate: 英[ˈænɪmeɪt] 美[ˈænɪmeɪt]
+$adj. 有生命的，有活力的
+%v. 使生动，使兴奋；把……制作成动画；鼓动，激励；使有生命
+    The world contains things which are animate and things which are inanimate.
+#世界包含着有生命的东西和无生命的东西。
+
+expenditure: 英[ɪkˈspendɪtʃə(r)] 美[ɪkˈspendɪtʃər]
+%n. 经费，支出额；（时间、金钱、精力等的）消耗，花费
+    Such a great project requires the expenditure of much money, time and manpower.
+#这样一个庞大的工程需要花费许多钱、时间和人力。
+
+shoddy: 英[ˈʃɒdi] 美[ˈʃɑːdi]
+$adj. 劣质的，粗制滥造的；卑鄙的，不正当的
+%n. 长弹毛（织物），软再生毛（织物）
+    If you look at the way the furniture has been put together, it's fairly shoddy.
+#你要是看了这些家具被组装起来的方式，你就会发现它们的做工相当差。
+
+beckon: 英[ˈbekən] 美[ˈbekən]
+$v. （招手）示意，召唤；吸引，引诱；可能发生
+%n. 召唤的表示
+    She's an excellent student, for whom a wonderful future beckons.
+#她是个优秀的学生，美好的未来正在召唤她。
+
+patent: 英[ˈpæt(ə)nt] 美[ˈpæt(ə)nt]
+$n. 专利（权），专利证书；专利发明
+$adj. 受专利保护的，专利的；专利生产的，专利经销的；显而易见的，赤裸裸的；（寄生虫感染）明显的，显著的；（脉管、导管或孔）开放的，不闭合的
+%v. 获得……的专利权；授予专利
+    He took out a patent for his new invention.
+#他为自己的新发明取得了一项专利。
+
+wrath: 英[rɒθ] 美[ræθ]
+%n. 愤怒，盛怒
+    He left home to escape his father's wrath.
+#他离开了家，以逃避他父亲的盛怒。
+
+prominent: 英[ˈprɒmɪnənt] 美[ˈprɑːmɪnənt]
+$adj. 重要的，著名的；显眼的，突出的；突起的，高耸的
+%n. 舟蛾（=prominent moth）
+    The government should be playing a more prominent role in promoting human rights.
+#政府应该在促进人权方面发挥更加重要的作用。
+
+detergent: 英[dɪˈtɜːdʒənt] 美[dɪˈtɜːrdʒənt]
+$n. 洗涤剂，去污剂
+%adj. 使清洁的，（与）清洁添加剂（有关）的
+    The release of industrial detergents into the river has caused the death of thousands of fish.
+#工业洗涤剂被倒入河中造成了数千条鱼的死亡。
+
+revive: 英[rɪˈvaɪv] 美[rɪˈvaɪv]
+%v. （使）复原，（使）复苏；重新唤起，重新记起；重新使用，使复兴；重新上演
+    The plants revived as soon as I gave them a little water.
+#我给植物浇了点水，它们马上就恢复了生机。
+
+redundancy: 英[rɪˈdʌndənsi] 美[rɪˈdʌndənsi]
+%n. <英> （因劳动力过剩而造成的）裁员，解雇；多余，累赘；复置装置，冗余（机器、系统等某部件发生故障后的替代装置）
+    Some of the staff will be encouraged to take retirement and others voluntary redundancy.
+#有些职员将被鼓励退休，有些则自愿被解雇。
+
+alert: 英[əˈlɜːt] 美[əˈlɜːrt]
+$adj. 警惕的，警觉的；机敏的，敏捷的；意识到，注意到（alert to）
+$v. 向……报警，使警觉；提示，提醒（某人）
+%n. 警报，警示；警戒，警惕；（电子设备的）提示信号；警戒期
+    We must alert young people to the dangers of smoking.
+#我们必须提醒年轻人吸烟的危害。
+
+implicate: 英[ˈɪmplɪkeɪt] 美[ˈɪmplɪkeɪt]
+$v. 使牵连其中，涉及；表明（或意指）……是起因；暗指，暗示
+%n. （主逻）蕴（涵）之物
+    A lot of people were implicated in the scandal.
+#许多人与这桩丑闻有牵连。
+
+penalty: 英[ˈpenəlti] 美[ˈpenəlti]
+%n. （因违反法律、规定或合同而受到的）处罚，刑罚；（行为、环境带来的）不利后果，苦难；（体育运动中对犯规者的）判罚，处罚；（足球、橄榄球及类似运动中的）罚球；（桥牌）（叫牌者未完成定约时的）罚分
+    The company is facing penalties worth $3 million.
+#这家公司面临高达300万美元的罚款。
+
+timely: 英[ˈtaɪmli] 美[ˈtaɪmli]
+$adj. 及时的，适时的
+%adv. 及时地；<古>早
+    The recent outbreaks of cholera are a timely reminder that this disease is still a health hazard.
+#最近的霍乱暴发及时警示人们，这种疾病仍严重威胁着健康。
+
+mint: 英[mɪnt] 美[mɪnt]
+$n. 薄荷；薄荷糖；铸币厂；巨款
+$v. 铸造（硬币）；创造，制造
+%adj. （物品）崭新的，无污损的；<英> 非常好的，很棒的
+    She bought a packet of mints.
+#她买了一包薄荷。
+
+interference: 英[ˌɪntəˈfɪərəns] 美[ˌɪntərˈfɪrəns]
+%n. 干涉，干预；（收音机或电视机受到的）干扰信号；犯规阻挡；抵触，冲突
+    The government's interference in the market has been widely criticized.
+#该政府对市场的干预广受批评。
+
+apt: 英[æpt] 美[æpt]
+%adj. 易于……的，有……倾向的；恰当的，适宜的；善学的，聪明的
+    Please remind me of the party. I'm apt to forget the date.
+#请提醒我出席聚会，我容易忘记日期。
+
+crack: 英[kræk] 美[kræk]
+$v. 破裂，裂开；崩溃，垮掉；砸开，砸碎；破译，解决；重击，猛击；（使）发出爆裂声，劈啪作响；（嗓音）变嘶哑；说（笑话），开（玩笑）；阻止，打击；开瓶，（尤指）开瓶饮酒；使（碳氢化合物）裂化
+$n. 裂缝，裂纹；缝隙，窄缝；瑕疵，缺点；爆裂声，噼啪声；尝试，试图；破解信息，破解码；俏皮话，粗鲁的话；重击，猛击；好时光，友好愉快的交谈；嗓音变哑；强效可卡因；<非正式>股沟
+%adj. 优秀的，训练有素的
+    The stone hit the window and cracked the glass
+#石头击中窗子，打破了玻璃。
+
+wholesome: 英[ˈhəʊlsəm] 美[ˈhoʊlsəm]
+%adj. （食物）有益健康的；有益身心健康的，增进身心健康的；（显得）健康的，朝气蓬勃的
+    We're going on a camping holiday to give the kids a taste of the wholesome outdoor life.
+#我们要去野营度假，以便让孩子们体验一下有益于身心健康的户外生活。
+
+disclose: 英[dɪsˈkləʊz] 美[dɪsˈkloʊz]
+%v. 透露，公开；揭开，使显露
+    The minister wrote a letter to the President disclosing the whole affair.
+#部长给，总统写了一封信，揭发了整个事件。
+
+shudder: 英[ˈʃʌdə(r)] 美[ˈʃʌdər]
+$v. （因恐惧、寒冷等）发抖，打战；强烈震动，剧烈抖动
+%n. 战栗，发抖；强烈的震动，剧烈的抖动
+    I heard a massive explosion and the ground shuddered beneath me.
+#我听到巨大的爆炸声，脚下的地面都在震动。
+
+eternal: 英[ɪˈtɜːn(ə)l] 美[ɪˈtɜːrn(ə)l]
+%adj. 永恒的，永存的；似乎无休无止的，没完没了的
+    Honesty and diligence should be your eternal "mates".
+#诚实和勤勉应该成为你永久的“伴侣”。
+
+stitch: 英[stɪtʃ] 美[stɪtʃ]
+$n. （缝纫的）针脚，一针；（缝合伤口的）缝线；缝纫法，编结法；（肋部）突然剧痛；<非正式>（最少的）一件衣服，一块布；（编织的）一针
+%v. 缝，缝补；缝合（伤口）；<英，非正式>操纵局势使……处于劣势，陷害
+    He needed six stitches in a cut on his arm.
+#他臂上的伤口需要缝6针。
+
+stock: 英[stɒk] 美[stɑːk]
+$n. （商店的）现货，存货，库存；储备物，备用物；储备量，现有量；股本，资本；股份，股票；<英>公债，公债券；家畜，牲畜；家族，世系；（动植物的）类，种类，种群；高汤，原汤；（用作刑具的）手足枷（stocks）；（工具的）柄，（尤指）枪托；名声，声望；紫罗兰；接穗，砧木；（草本植物多年生的）根茎，根状茎；<美>（演出几种不同保留剧目的）专业剧团；信任，相信；（铁路上运行的）全部车辆（包括机车、车厢等）；（胶卷）原片；（牌戏中）发剩下的牌；（商品的）原材料；锚杆；主轴台，主轴箱（headstock 的简称）；尾架，尾座（tailstock 的简称）；（作为正式骑马服饰一部分的）白色领结，白色领带；（牧师衣领下系的）黑色领带；船台（stocks）
+$v. （商店或工厂）储备，贮存；为……备货，把……填满；（尤指为某个特定时刻或目的而）备货，囤积；为（枪等火器）装枪托；出新芽
+%adj. 老一套的，陈腐的；（商店里）常备的，通常有的，库存的；（有关）电影资料镜头的
+    The shop carries a large stock of gift-wrapping paper around Christmas.
+#那家商店在圣诞节期间备有大量的礼品包装纸。
+
+induction: 英[ɪnˈdʌkʃ(ə)n] 美[ɪnˈdʌkʃ(ə)n]
+%n. 就职，就职仪式；<美>征召入伍；导致，引导；引产，催生；归纳，归纳法；电磁感应；（内燃机）进气，吸气
+    Their induction into the church took place in July.
+#他们的入教仪式在7月份举行。
+
+retention: 英[rɪˈtenʃ(ə)n] 美[rɪˈtenʃ(ə)n]
+%n. 保持，保留；保存，存放；保持力，持续力；记忆力；（热量的）阻滞，（液体的）潴留；（对物质的）吸收和保持
+    They advocated the retention of the nuclear power plant.
+#他们主张保留那个核电站。
+
+filth: 英[fɪlθ] 美[fɪlθ]
+%n. 污秽；肮脏；猥亵；不洁
+    The floor was covered in filth.
+#地板上满是污渍。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

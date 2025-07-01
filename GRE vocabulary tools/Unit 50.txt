@@ -1,0 +1,771 @@
+<<<<<<< HEAD
+perquisite: 英[ˈpɜːkwɪzɪt] 美[ˈpɜːrkwɪzɪt]
+%n. 额外补贴；临时津贴；特权
+    wages and perquisites
+#工资和外快
+    The perquisite of the college president includes a home and car.
+#大学校长的特权包括住房和汽车。
+
+haggle: 英[ˈhæɡ(ə)l] 美[ˈhæɡ(ə)l]
+$v. 讨价还价，争论；乱劈，乱砍
+%n. 讨价还价，争论
+    haggle about what currency is to be used for payment
+#讨论用何种货支付
+    haggle a branch off
+#把树枝胡乱砍去
+    It's traditional that you haggle over the price of things in the market.
+#在市场上买东西讨价还价是传统的做法。
+
+postdate: 英[ˌpəʊstˈdeɪt] 美[ˌpoʊstˈdeɪt]
+$vt. 填迟……的日期；把……的日期填迟；继……之后
+%n. 事后日期；推迟日期
+    Most manuscripts postdate the stories which have circulated by word of mouth for centuries.
+#大部分故事是在口头流传数个世纪后才有书面记载的。
+
+fluster: 英[ˈflʌstə(r)] 美[ˈflʌstər]
+$v. （使）忙乱，紧张；（使）心烦意乱
+%n. 慌乱，紧张；激动
+    She was in a terrible fluster when unexpected guests arrived.
+#当不速之客来到时，她手足无措。
+
+indigence: 英[ˈɪndɪdʒ(ə)ns] 美[ˈɪndɪdʒ(ə)ns]
+%n. 穷困；贫乏；贫穷
+    His present indigence is a sufficient punishment for former folly. 
+#他现在所受的困苦足够惩罚他从前的胡作非为了。
+
+composed: 英[kəmˈpəʊzd] 美[kəmˈpoʊzd]
+$adj. 平静的，镇定的；由……组成（或构成）的；（色拉）码放整齐的
+%v. 组成，构成；作曲；撰写（信、诗或演讲稿）（compose 的过去式和过去分词）
+    Anger appeared on her usually composed face.
+#她平常安详的脸上出现了怒容。
+
+apparition: 英[ˌæpəˈrɪʃ(ə)n] 美[ˌæpəˈrɪʃ(ə)n]
+%n. 幽灵；幻影；鬼怪；离奇出现的东西
+    a ghostly apparition at midnight
+#午夜鬼影
+    He claimed to have seen strange apparitions at night.
+#他说在晚上曾见过奇怪的幽灵。
+
+xenophobic: 英[ˌzenəˈfəʊbɪk] 美[ˌzinəˈfoʊbɪk]
+%adj. 恐惧外国人的
+    After years of xenophobic isolation, the country now encourages tourism.
+#在多年的恐外隔绝后，那个国家正鼓励发展旅游业。
+
+collusion: 英[kəˈluːʒ(ə)n] 美[kəˈluːʒ(ə)n]
+%n. 勾结；共谋
+    They are acting in collusion to deceive me.
+#他们串通起来在欺骗我。
+
+peevish: 英[ˈpiːvɪʃ] 美[ˈpiːvɪʃ]
+%adj. （尤指因琐事而）易怒的，脾气坏的；爱发牢骚的，抱怨的
+    a peevish child
+#坏脾气的孩子
+    a peevish, bad tempered person
+#易怒、坏牌气的人
+    He had slept little and that always made him peevish.
+#他睡眠不足，这总是让他很焦躁。
+
+demystify: 英[diːˈmɪstɪfaɪ] 美[diːˈmɪstɪfaɪ]
+%vt. 使非神秘化；阐明；启发
+    What I need is a book that will demystify the working of a car engine for me.
+#我需要的是一本阐明汽车发动机原理的书。
+
+restive: 英[ˈrestɪv] 美[ˈrestɪv]
+%adj. 难驾驭的；焦躁不安的，不耐烦的；（马）倔头倔脑不肯往前的，停下闹别扭的
+    a restive mood
+#焦躁不安的心境
+    a restive child
+#犟孩子
+    The audience was restive as they waited for the performance to begin.
+#观众们不耐烦地等待演出开始。
+
+gainsay: 英[ˌɡeɪnˈseɪ] 美[ˌɡeɪnˈseɪ]
+$vt. 反驳；否定
+%n. 否认；反对
+    We couldn't gainsay the statistics.
+#我们无法否认统计数字。
+
+brazen: 英[ˈbreɪz(ə)n] 美[ˈbreɪz(ə)n]
+$adj. 厚颜无耻的；无所顾忌的；黄铜制的；黄铜色的；（声音）响而刺耳的
+$vt. 厚着脸皮；硬着头皮
+%n. (Brazen) （美）巴森（人名）
+    a brazen slander
+#无耻的诽谤
+    a brazen violation of the rules
+#对规则的公然违抗
+    a brazen cup
+#黄铜杯
+    brazen it out
+#厚着脸皮干
+    That brazen man told lie after lie.
+#那厚颜无耻的人谎话连篇。
+
+adoration: 英[ˌædəˈreɪʃ(ə)n] 美[ˌædəˈreɪʃ(ə)n]
+%n. 崇拜；爱慕
+    sing in adoration
+#歌唱赞颂
+    John doesn't hide his adoration for this girl.
+#约翰并不掩饰自己对这个女孩的爱慕。
+
+hydrate: 英[haɪˈdreɪt] 美[ˈhaɪdreɪt]
+$n. 水合物，水化物
+%v. （身体）补充水分；（使）水合；（使）成水合物
+    It's important to stay hydrated and to avoid real or artificial sugars when this happens.
+#这时你需要补水并避免食用天然糖或者人造糖。
+
+synergy: 英[ˈsɪnədʒi] 美[ˈsɪnərdʒi]
+%n. （两个或多个组织共同协作后产生的）协同增效作用，协同作用
+    There's quite obviously a lot of synergy between the companies.
+#这两家公司之间显然有许多的协同作用。
+
+recessive: 英[rɪˈsesɪv] 美[rɪˈsesɪv]
+$adj. 隐性的；逆行的；后退的
+%n. 隐性性状
+    Recessive characteristics such as blue eyes or red hair can reappear after being hidden for a generation.
+#隐性性状如蓝眼睛或红头发在隐藏一代之后会重现。
+
+institute: 英[ˈɪnstɪtjuːt] 美[ˈɪnstɪtuːt]
+$n. 研究所，学院，协会；（尤指与法律相关的）注释，论述
+%v. 制定（制度、规则等）；提出（诉讼）；任命，授予……职位（尤指圣职）
+    the institute of inventors
+#发明家协会
+    a research institute
+#研究机构
+    institute a law
+#制定法律
+    institute a cease-fire
+#实行停火
+    institute a sweeping reform
+#着手彻底改革
+    The committee will institute a new appraisal system next year.
+#委员会将于明年制定一套新的评估制度。
+
+reenact: 英[ˌriːɪˈnækt] 美[ˌriːɪˈnækt]
+%vt. 重新制定；再扮演；再制定
+    Parliament has reenacted a law under which children can give evidence at a trial via a television link.
+#议会重新制定了一项法令，规定儿童可以通过电视向法院作证。
+
+amalgam: 英[əˈmælɡəm] 美[əˈmælɡəm]
+%n. [材] 汞合金，[化工] 汞齐；混合物
+    a perfect amalgam of human and divine
+#人性与神性的完美结合
+    His character is an amalgam of contradictory traits.
+#他的性格是各种矛盾特质的混合体。
+
+spiny: 英[ˈspaɪni] 美[ˈspaɪni]
+%adj. 多刺的；麻烦的；尖刺状的
+    spiny problems
+#棘手的问题
+    spiny husks
+#多刺的外壳
+    Some small animals have a spiny covering to protect them.
+#有些小动物的身上覆盖了刺用来保护自己。
+
+die: 英[daɪ] 美[daɪ]
+$v. 死亡；消失，灭亡；停止运转；渴望；<古>达到性高潮
+%n. 骰子；金属模具，压模
+    It was too late to back out of the project -- the die was already cast.
+#要使工程下马已经太晚了——木已成舟。
+
+catalyze: 英[ˈkætəlaɪz] 美[ˈkætəlaɪz]
+%vt. 催化；刺激，促进
+    The technology bred of science has catalyzed stupendous economic growth.
+#科学造就的技术已经促成了经济的巨大发展。
+
+burgeon: 英[ˈbɜːdʒən] 美[ˈbɜːrdʒən]
+$vi. 萌芽, 发芽；迅速增长
+%n. 芽, 嫩枝
+    In those happy, carefree days, love burgeoned between them.
+#在那些快乐的无忧无虑的日子他们之间的爱情迅速发展。
+
+consort: 英[ˈkɒnsɔːt] 美[ˈkɑːnsɔːrt]
+$n. （统治者的）配偶；一组（古乐器或乐师）；随航船只；伙伴
+$v. 厮混，（别人反对的）结交；陪伴；符合
+%n. （Consort）（美、英、法）孔索尔特（人名）
+    In prison he found himself consorting with hardened criminals.
+#他发现自己在监狱里结识的都是惯犯。
+
+decadence: 英[ˈdekədəns] 美[ˈdekədəns]
+%n. 堕落，颓废；衰落
+    The film depicts the decadence of modern society.
+#这部电影描述了现代社会的堕落。
+
+insignificant: 英[ˌɪnsɪɡˈnɪfɪkənt] 美[ˌɪnsɪɡˈnɪfɪkənt]
+%adj. 微不足道的，无足轻重的；（人）无权无势的；无意义的
+    insignificant people
+#小人物
+    insignificant talk
+#无意义的话
+    It seems to me a fairly insignificant sum of money to be arguing about.
+#在我看来，这是一笔相当微不足道的钱，不值得为此争论。
+
+phlegmatic: 英[fleɡˈmætɪk] 美[fleɡˈmætɪk]
+%adj. 冷淡的；迟钝的；冷漠的
+    be phlegmatic by nature
+#生性冷漠
+    As a manager, his great asset was his calm, phlegmatic manner.
+#作为经理，他的最大优点是他遇事不慌的大将风度。
+
+penetrating: 英[ˈpenətreɪtɪŋ] 美[ˈpenətreɪtɪŋ]
+$adj. 渗透的；尖锐的；有洞察力的
+%v. 穿透；贯穿（penetrate 的 ing 形式）
+    penetrating power
+#穿透力
+    a penetrating odor
+#刺鼻的气味
+    a penetrating wind
+#刺骨的寒风
+    a penetrating bomber
+#远程轰炸机
+    a penetrating analysis
+#鞭辟入里的分析
+    a penetrating mind
+#敏锐的头脑
+    His glance was sharp but penetrating.
+#他那一很犀利又具有洞察力。
+
+paean: 英[ˈpiːən] 美[ˈpiːən]
+%n. 赞美歌，欢乐歌
+    The song is a paean to solitude and independence.
+#这首歌赞美孤寂和独立。
+
+condemnation: 英[ˌkɒndemˈneɪʃ(ə)n] 美[ˌkɑːndemˈneɪʃn]
+%n. 谴责，严厉指责；非难的理由
+    The crime late last night has received universal condemnation.
+#昨天深夜的那起案件受到大众的一致遣责。
+
+undistorted: 英[ˌʌndɪˈstɔːtɪd] 美[ˌʌndɪˈstɔːrtɪd]
+%adj. 未被扭曲的，未被歪曲的
+    one's undistorted image
+#某人未被扭曲的形象
+
+underwater: 英[ˌʌndəˈwɔːtə(r)] 美[ˌʌndərˈwɔːtər]
+$adj. 在水中的；水面下的
+$adv. 在水下
+%n. 水下
+    It was filmed with an underwater camera.
+#这是用水下摄影机拍摄的。
+
+collateral: 英[kəˈlætərəl] 美[kəˈlætərəl]
+$n. 抵押物，担保品；旁系亲属
+%adj. 附属的，次要的；（亲戚）旁系的，非直系的；并列的，并行的
+    use/offer a house as collateral
+#用房屋作抵押品;
+    collateral mountains
+#并行的山脉
+    a collateral effect
+#伴随的效果
+    collateral evidence
+#旁证
+    a collateral loan
+#抵押的贷款
+    Brothers and sisters are closely related whereas cousins are collateral relatives.
+#兄弟姐妹是近亲，而表兄妹只是旁系亲属。
+
+invariable: 英[ɪnˈveəriəb(ə)l] 美[ɪnˈveriəb(ə)l]
+$adj. 永远不变的，始终如一的；（屈折变化语言的名词）单复数同形的；（数）（数量） 不变的
+%n. 常数；不变的东西
+    It is his invariable habit to take a nap.
+#睡午觉是他惯有的习惯。
+
+permeable: 英[ˈpɜːmiəb(ə)l] 美[ˈpɜːrmiəb(ə)l]
+%adj. 能透过的；有渗透性的
+    permeable to water
+#渗水
+    Additional guards have been placed along the border and now it is less permeable than it once was.
+#边境上增设了哨兵，现在不像以前那么容易通过了。
+
+confidently: 英[ˈkɒnfɪdəntli] 美[ˈkɑːnfɪdəntli]
+%adv. 自信地；安心地
+    Act confidently in your interview, if you feel nervous, try not to show it.
+#面试中要表现得自信，如果感到紧张，尽量不要流露出来。
+
+garish: 英[ˈɡeərɪʃ] 美[ˈɡerɪʃ]
+%adj. 炫耀的；过分装饰的；过分鲜艳的
+    He was wearing garish shorts and training shoes.
+#他穿着花哨的短裤和运动鞋。
+
+critic: 英[ˈkrɪtɪk] 美[ˈkrɪtɪk]
+%n. 批评家，评论员；批评者，反对……的人
+    a literary critic
+#文学评论家
+    a music critic
+#音乐批评家
+    The play has been well received by the critics.
+#这出戏赢得了批评家们的好评。
+
+munificent: 英[mjuːˈnɪfɪs(ə)nt] 美[mjuːˈnɪfɪs(ə)nt]
+%adj. 慷慨的；丰厚的；宽宏的
+    a munificent benefactor
+#慷慨的施主
+    a munificent bequest
+#丰厚的遗赠
+    A former student has donated a munificent sum of money to the university.
+#从前的一名学生给这所大学捐了一大笔钱。
+
+animated: 英[ˈænɪmeɪtɪd] 美[ˈænɪmeɪtɪd]
+$adj. 活跃的，生气勃勃的；动画（片）的，栩栩如生的
+%v. 使生动，使兴奋；把……制作成动画（animate 的过去式和过去分词形式）
+    an animated piece of sculpture
+#栩栩如生的雕塑品
+    an animated puppet
+#活动木偶
+    an animated city
+#繁忙的城市
+    an animated smile
+#欢乐的微笑
+    a five-minute animated film
+#5分钟的动画片
+    animated cartoons
+#动画片，卡通
+    There was an extremely animated discussion on the subject.
+#（我们）就这个问题进行了一次极为热烈的讨论。
+
+aggrandize: 英[əˈɡrænˌdaɪz] 美[əˈɡrænˌdaɪz]
+%vt. 增加；夸大；强化
+    aggrandize an empire
+#扩大帝国的版图
+    He always aggrandized one and disparaged the other.
+#他总是吹捧一个贬低另一个。
+
+ragged: 英[ˈræɡɪd] 美[ˈræɡɪd]
+%adj. （衣服）破旧的；（人）衣衫褴褛的；高低不平的，参差不齐的；不流畅的，不规则的；精疲力竭的；不熟练的，蹩脚的；（尤指右边距）未对齐的
+    a ragged child
+#衣衫褴楼的孩子
+    a ragged coastline
+#曲折的海岸线
+    a ragged textbook
+#破损的课本;
+    ragged rocks
+#嶙岣的岩石
+    a ragged performance
+#拙劣的表演
+    A ragged line of people were waiting at the bus stop.
+#歪歪扭扭的一队人正在公共汽车站候车。
+
+virulence: 英[ˈvɪrələns] 美[ˈvɪrələns]
+%n. 毒力；毒性；恶意（等于 virulency）
+    The severity and virulence of the disease are causing great concern in medical circles.
+#这种病的严重性和致命性已经引起了医学界的极大关注。
+
+interlock: 英[ˌɪntəˈlɒk] 美[ˌɪntərˈlɑːk]
+$v. （使）连锁；互锁；扣紧
+%n. 连锁；连锁装置；双罗纹针织物
+    The branches of the trees interlock to form a natural archway.
+#树枝相互交织，形成一道天然的拱门。
+
+affirmation: 英[ˌæfəˈmeɪʃ(ə)n] 美[ˌæfərˈmeɪʃ(ə)n]
+%n. 肯定，维护；情感上的支持（或鼓励）；（因良心原因不愿宣誓而作的正式）确认
+    nod in affirmation
+#肯定地点了点头
+    We welcome the government's affirmation of its intention to act.
+#我们接受政府对行动意向的确定。
+
+pathologic(al): 英[ˌpæθəˈlɒdʒɪk] 美[ˌpæθəˈlɑːdʒɪk]
+%adj. 病理学的；病态的
+    pathologic studies
+#病理研究
+    pathologic anatomy
+#病理解剖
+    a pathologic drinker
+#病态的嗜酒者
+    His hatred of her was almost pathologic.
+#他对她的憎恨近乎病态。
+
+equestrian: 英[ɪˈkwestriən] 美[ɪˈkwestriən]
+$n. 马术；骑手；骑马者
+%adj. 马的；骑马的；骑术的
+    They erected an equestrian statue of the prince.
+#他们立起一尊王子骑马的塑像。
+
+shiftless: 英[ˈʃɪftləs] 美[ˈʃɪftləs]
+%adj. 偷懒的；无计谋的；无能的
+    He called the young people shiftless, lazy and good-for-nothing.
+#他说这些年轻人胸无大志、懒惰又无用。
+
+=======
+perquisite: 英[ˈpɜːkwɪzɪt] 美[ˈpɜːrkwɪzɪt]
+%n. 额外补贴；临时津贴；特权
+    wages and perquisites
+#工资和外快
+    The perquisite of the college president includes a home and car.
+#大学校长的特权包括住房和汽车。
+
+haggle: 英[ˈhæɡ(ə)l] 美[ˈhæɡ(ə)l]
+$v. 讨价还价，争论；乱劈，乱砍
+%n. 讨价还价，争论
+    haggle about what currency is to be used for payment
+#讨论用何种货支付
+    haggle a branch off
+#把树枝胡乱砍去
+    It's traditional that you haggle over the price of things in the market.
+#在市场上买东西讨价还价是传统的做法。
+
+postdate: 英[ˌpəʊstˈdeɪt] 美[ˌpoʊstˈdeɪt]
+$vt. 填迟……的日期；把……的日期填迟；继……之后
+%n. 事后日期；推迟日期
+    Most manuscripts postdate the stories which have circulated by word of mouth for centuries.
+#大部分故事是在口头流传数个世纪后才有书面记载的。
+
+fluster: 英[ˈflʌstə(r)] 美[ˈflʌstər]
+$v. （使）忙乱，紧张；（使）心烦意乱
+%n. 慌乱，紧张；激动
+    She was in a terrible fluster when unexpected guests arrived.
+#当不速之客来到时，她手足无措。
+
+indigence: 英[ˈɪndɪdʒ(ə)ns] 美[ˈɪndɪdʒ(ə)ns]
+%n. 穷困；贫乏；贫穷
+    His present indigence is a sufficient punishment for former folly. 
+#他现在所受的困苦足够惩罚他从前的胡作非为了。
+
+composed: 英[kəmˈpəʊzd] 美[kəmˈpoʊzd]
+$adj. 平静的，镇定的；由……组成（或构成）的；（色拉）码放整齐的
+%v. 组成，构成；作曲；撰写（信、诗或演讲稿）（compose 的过去式和过去分词）
+    Anger appeared on her usually composed face.
+#她平常安详的脸上出现了怒容。
+
+apparition: 英[ˌæpəˈrɪʃ(ə)n] 美[ˌæpəˈrɪʃ(ə)n]
+%n. 幽灵；幻影；鬼怪；离奇出现的东西
+    a ghostly apparition at midnight
+#午夜鬼影
+    He claimed to have seen strange apparitions at night.
+#他说在晚上曾见过奇怪的幽灵。
+
+xenophobic: 英[ˌzenəˈfəʊbɪk] 美[ˌzinəˈfoʊbɪk]
+%adj. 恐惧外国人的
+    After years of xenophobic isolation, the country now encourages tourism.
+#在多年的恐外隔绝后，那个国家正鼓励发展旅游业。
+
+collusion: 英[kəˈluːʒ(ə)n] 美[kəˈluːʒ(ə)n]
+%n. 勾结；共谋
+    They are acting in collusion to deceive me.
+#他们串通起来在欺骗我。
+
+peevish: 英[ˈpiːvɪʃ] 美[ˈpiːvɪʃ]
+%adj. （尤指因琐事而）易怒的，脾气坏的；爱发牢骚的，抱怨的
+    a peevish child
+#坏脾气的孩子
+    a peevish, bad tempered person
+#易怒、坏牌气的人
+    He had slept little and that always made him peevish.
+#他睡眠不足，这总是让他很焦躁。
+
+demystify: 英[diːˈmɪstɪfaɪ] 美[diːˈmɪstɪfaɪ]
+%vt. 使非神秘化；阐明；启发
+    What I need is a book that will demystify the working of a car engine for me.
+#我需要的是一本阐明汽车发动机原理的书。
+
+restive: 英[ˈrestɪv] 美[ˈrestɪv]
+%adj. 难驾驭的；焦躁不安的，不耐烦的；（马）倔头倔脑不肯往前的，停下闹别扭的
+    a restive mood
+#焦躁不安的心境
+    a restive child
+#犟孩子
+    The audience was restive as they waited for the performance to begin.
+#观众们不耐烦地等待演出开始。
+
+gainsay: 英[ˌɡeɪnˈseɪ] 美[ˌɡeɪnˈseɪ]
+$vt. 反驳；否定
+%n. 否认；反对
+    We couldn't gainsay the statistics.
+#我们无法否认统计数字。
+
+brazen: 英[ˈbreɪz(ə)n] 美[ˈbreɪz(ə)n]
+$adj. 厚颜无耻的；无所顾忌的；黄铜制的；黄铜色的；（声音）响而刺耳的
+$vt. 厚着脸皮；硬着头皮
+%n. (Brazen) （美）巴森（人名）
+    a brazen slander
+#无耻的诽谤
+    a brazen violation of the rules
+#对规则的公然违抗
+    a brazen cup
+#黄铜杯
+    brazen it out
+#厚着脸皮干
+    That brazen man told lie after lie.
+#那厚颜无耻的人谎话连篇。
+
+adoration: 英[ˌædəˈreɪʃ(ə)n] 美[ˌædəˈreɪʃ(ə)n]
+%n. 崇拜；爱慕
+    sing in adoration
+#歌唱赞颂
+    John doesn't hide his adoration for this girl.
+#约翰并不掩饰自己对这个女孩的爱慕。
+
+hydrate: 英[haɪˈdreɪt] 美[ˈhaɪdreɪt]
+$n. 水合物，水化物
+%v. （身体）补充水分；（使）水合；（使）成水合物
+    It's important to stay hydrated and to avoid real or artificial sugars when this happens.
+#这时你需要补水并避免食用天然糖或者人造糖。
+
+synergy: 英[ˈsɪnədʒi] 美[ˈsɪnərdʒi]
+%n. （两个或多个组织共同协作后产生的）协同增效作用，协同作用
+    There's quite obviously a lot of synergy between the companies.
+#这两家公司之间显然有许多的协同作用。
+
+recessive: 英[rɪˈsesɪv] 美[rɪˈsesɪv]
+$adj. 隐性的；逆行的；后退的
+%n. 隐性性状
+    Recessive characteristics such as blue eyes or red hair can reappear after being hidden for a generation.
+#隐性性状如蓝眼睛或红头发在隐藏一代之后会重现。
+
+institute: 英[ˈɪnstɪtjuːt] 美[ˈɪnstɪtuːt]
+$n. 研究所，学院，协会；（尤指与法律相关的）注释，论述
+%v. 制定（制度、规则等）；提出（诉讼）；任命，授予……职位（尤指圣职）
+    the institute of inventors
+#发明家协会
+    a research institute
+#研究机构
+    institute a law
+#制定法律
+    institute a cease-fire
+#实行停火
+    institute a sweeping reform
+#着手彻底改革
+    The committee will institute a new appraisal system next year.
+#委员会将于明年制定一套新的评估制度。
+
+reenact: 英[ˌriːɪˈnækt] 美[ˌriːɪˈnækt]
+%vt. 重新制定；再扮演；再制定
+    Parliament has reenacted a law under which children can give evidence at a trial via a television link.
+#议会重新制定了一项法令，规定儿童可以通过电视向法院作证。
+
+amalgam: 英[əˈmælɡəm] 美[əˈmælɡəm]
+%n. [材] 汞合金，[化工] 汞齐；混合物
+    a perfect amalgam of human and divine
+#人性与神性的完美结合
+    His character is an amalgam of contradictory traits.
+#他的性格是各种矛盾特质的混合体。
+
+spiny: 英[ˈspaɪni] 美[ˈspaɪni]
+%adj. 多刺的；麻烦的；尖刺状的
+    spiny problems
+#棘手的问题
+    spiny husks
+#多刺的外壳
+    Some small animals have a spiny covering to protect them.
+#有些小动物的身上覆盖了刺用来保护自己。
+
+die: 英[daɪ] 美[daɪ]
+$v. 死亡；消失，灭亡；停止运转；渴望；<古>达到性高潮
+%n. 骰子；金属模具，压模
+    It was too late to back out of the project -- the die was already cast.
+#要使工程下马已经太晚了——木已成舟。
+
+catalyze: 英[ˈkætəlaɪz] 美[ˈkætəlaɪz]
+%vt. 催化；刺激，促进
+    The technology bred of science has catalyzed stupendous economic growth.
+#科学造就的技术已经促成了经济的巨大发展。
+
+burgeon: 英[ˈbɜːdʒən] 美[ˈbɜːrdʒən]
+$vi. 萌芽, 发芽；迅速增长
+%n. 芽, 嫩枝
+    In those happy, carefree days, love burgeoned between them.
+#在那些快乐的无忧无虑的日子他们之间的爱情迅速发展。
+
+consort: 英[ˈkɒnsɔːt] 美[ˈkɑːnsɔːrt]
+$n. （统治者的）配偶；一组（古乐器或乐师）；随航船只；伙伴
+$v. 厮混，（别人反对的）结交；陪伴；符合
+%n. （Consort）（美、英、法）孔索尔特（人名）
+    In prison he found himself consorting with hardened criminals.
+#他发现自己在监狱里结识的都是惯犯。
+
+decadence: 英[ˈdekədəns] 美[ˈdekədəns]
+%n. 堕落，颓废；衰落
+    The film depicts the decadence of modern society.
+#这部电影描述了现代社会的堕落。
+
+insignificant: 英[ˌɪnsɪɡˈnɪfɪkənt] 美[ˌɪnsɪɡˈnɪfɪkənt]
+%adj. 微不足道的，无足轻重的；（人）无权无势的；无意义的
+    insignificant people
+#小人物
+    insignificant talk
+#无意义的话
+    It seems to me a fairly insignificant sum of money to be arguing about.
+#在我看来，这是一笔相当微不足道的钱，不值得为此争论。
+
+phlegmatic: 英[fleɡˈmætɪk] 美[fleɡˈmætɪk]
+%adj. 冷淡的；迟钝的；冷漠的
+    be phlegmatic by nature
+#生性冷漠
+    As a manager, his great asset was his calm, phlegmatic manner.
+#作为经理，他的最大优点是他遇事不慌的大将风度。
+
+penetrating: 英[ˈpenətreɪtɪŋ] 美[ˈpenətreɪtɪŋ]
+$adj. 渗透的；尖锐的；有洞察力的
+%v. 穿透；贯穿（penetrate 的 ing 形式）
+    penetrating power
+#穿透力
+    a penetrating odor
+#刺鼻的气味
+    a penetrating wind
+#刺骨的寒风
+    a penetrating bomber
+#远程轰炸机
+    a penetrating analysis
+#鞭辟入里的分析
+    a penetrating mind
+#敏锐的头脑
+    His glance was sharp but penetrating.
+#他那一很犀利又具有洞察力。
+
+paean: 英[ˈpiːən] 美[ˈpiːən]
+%n. 赞美歌，欢乐歌
+    The song is a paean to solitude and independence.
+#这首歌赞美孤寂和独立。
+
+condemnation: 英[ˌkɒndemˈneɪʃ(ə)n] 美[ˌkɑːndemˈneɪʃn]
+%n. 谴责，严厉指责；非难的理由
+    The crime late last night has received universal condemnation.
+#昨天深夜的那起案件受到大众的一致遣责。
+
+undistorted: 英[ˌʌndɪˈstɔːtɪd] 美[ˌʌndɪˈstɔːrtɪd]
+%adj. 未被扭曲的，未被歪曲的
+    one's undistorted image
+#某人未被扭曲的形象
+
+underwater: 英[ˌʌndəˈwɔːtə(r)] 美[ˌʌndərˈwɔːtər]
+$adj. 在水中的；水面下的
+$adv. 在水下
+%n. 水下
+    It was filmed with an underwater camera.
+#这是用水下摄影机拍摄的。
+
+collateral: 英[kəˈlætərəl] 美[kəˈlætərəl]
+$n. 抵押物，担保品；旁系亲属
+%adj. 附属的，次要的；（亲戚）旁系的，非直系的；并列的，并行的
+    use/offer a house as collateral
+#用房屋作抵押品;
+    collateral mountains
+#并行的山脉
+    a collateral effect
+#伴随的效果
+    collateral evidence
+#旁证
+    a collateral loan
+#抵押的贷款
+    Brothers and sisters are closely related whereas cousins are collateral relatives.
+#兄弟姐妹是近亲，而表兄妹只是旁系亲属。
+
+invariable: 英[ɪnˈveəriəb(ə)l] 美[ɪnˈveriəb(ə)l]
+$adj. 永远不变的，始终如一的；（屈折变化语言的名词）单复数同形的；（数）（数量） 不变的
+%n. 常数；不变的东西
+    It is his invariable habit to take a nap.
+#睡午觉是他惯有的习惯。
+
+permeable: 英[ˈpɜːmiəb(ə)l] 美[ˈpɜːrmiəb(ə)l]
+%adj. 能透过的；有渗透性的
+    permeable to water
+#渗水
+    Additional guards have been placed along the border and now it is less permeable than it once was.
+#边境上增设了哨兵，现在不像以前那么容易通过了。
+
+confidently: 英[ˈkɒnfɪdəntli] 美[ˈkɑːnfɪdəntli]
+%adv. 自信地；安心地
+    Act confidently in your interview, if you feel nervous, try not to show it.
+#面试中要表现得自信，如果感到紧张，尽量不要流露出来。
+
+garish: 英[ˈɡeərɪʃ] 美[ˈɡerɪʃ]
+%adj. 炫耀的；过分装饰的；过分鲜艳的
+    He was wearing garish shorts and training shoes.
+#他穿着花哨的短裤和运动鞋。
+
+critic: 英[ˈkrɪtɪk] 美[ˈkrɪtɪk]
+%n. 批评家，评论员；批评者，反对……的人
+    a literary critic
+#文学评论家
+    a music critic
+#音乐批评家
+    The play has been well received by the critics.
+#这出戏赢得了批评家们的好评。
+
+munificent: 英[mjuːˈnɪfɪs(ə)nt] 美[mjuːˈnɪfɪs(ə)nt]
+%adj. 慷慨的；丰厚的；宽宏的
+    a munificent benefactor
+#慷慨的施主
+    a munificent bequest
+#丰厚的遗赠
+    A former student has donated a munificent sum of money to the university.
+#从前的一名学生给这所大学捐了一大笔钱。
+
+animated: 英[ˈænɪmeɪtɪd] 美[ˈænɪmeɪtɪd]
+$adj. 活跃的，生气勃勃的；动画（片）的，栩栩如生的
+%v. 使生动，使兴奋；把……制作成动画（animate 的过去式和过去分词形式）
+    an animated piece of sculpture
+#栩栩如生的雕塑品
+    an animated puppet
+#活动木偶
+    an animated city
+#繁忙的城市
+    an animated smile
+#欢乐的微笑
+    a five-minute animated film
+#5分钟的动画片
+    animated cartoons
+#动画片，卡通
+    There was an extremely animated discussion on the subject.
+#（我们）就这个问题进行了一次极为热烈的讨论。
+
+aggrandize: 英[əˈɡrænˌdaɪz] 美[əˈɡrænˌdaɪz]
+%vt. 增加；夸大；强化
+    aggrandize an empire
+#扩大帝国的版图
+    He always aggrandized one and disparaged the other.
+#他总是吹捧一个贬低另一个。
+
+ragged: 英[ˈræɡɪd] 美[ˈræɡɪd]
+%adj. （衣服）破旧的；（人）衣衫褴褛的；高低不平的，参差不齐的；不流畅的，不规则的；精疲力竭的；不熟练的，蹩脚的；（尤指右边距）未对齐的
+    a ragged child
+#衣衫褴楼的孩子
+    a ragged coastline
+#曲折的海岸线
+    a ragged textbook
+#破损的课本;
+    ragged rocks
+#嶙岣的岩石
+    a ragged performance
+#拙劣的表演
+    A ragged line of people were waiting at the bus stop.
+#歪歪扭扭的一队人正在公共汽车站候车。
+
+virulence: 英[ˈvɪrələns] 美[ˈvɪrələns]
+%n. 毒力；毒性；恶意（等于 virulency）
+    The severity and virulence of the disease are causing great concern in medical circles.
+#这种病的严重性和致命性已经引起了医学界的极大关注。
+
+interlock: 英[ˌɪntəˈlɒk] 美[ˌɪntərˈlɑːk]
+$v. （使）连锁；互锁；扣紧
+%n. 连锁；连锁装置；双罗纹针织物
+    The branches of the trees interlock to form a natural archway.
+#树枝相互交织，形成一道天然的拱门。
+
+affirmation: 英[ˌæfəˈmeɪʃ(ə)n] 美[ˌæfərˈmeɪʃ(ə)n]
+%n. 肯定，维护；情感上的支持（或鼓励）；（因良心原因不愿宣誓而作的正式）确认
+    nod in affirmation
+#肯定地点了点头
+    We welcome the government's affirmation of its intention to act.
+#我们接受政府对行动意向的确定。
+
+pathologic(al): 英[ˌpæθəˈlɒdʒɪk] 美[ˌpæθəˈlɑːdʒɪk]
+%adj. 病理学的；病态的
+    pathologic studies
+#病理研究
+    pathologic anatomy
+#病理解剖
+    a pathologic drinker
+#病态的嗜酒者
+    His hatred of her was almost pathologic.
+#他对她的憎恨近乎病态。
+
+equestrian: 英[ɪˈkwestriən] 美[ɪˈkwestriən]
+$n. 马术；骑手；骑马者
+%adj. 马的；骑马的；骑术的
+    They erected an equestrian statue of the prince.
+#他们立起一尊王子骑马的塑像。
+
+shiftless: 英[ˈʃɪftləs] 美[ˈʃɪftləs]
+%adj. 偷懒的；无计谋的；无能的
+    He called the young people shiftless, lazy and good-for-nothing.
+#他说这些年轻人胸无大志、懒惰又无用。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

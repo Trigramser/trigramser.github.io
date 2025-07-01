@@ -1,0 +1,587 @@
+<<<<<<< HEAD
+muse:
+    be lost in muse
+#陷入沉思
+    muse upon a distant view
+#若有所思地凝望着远处的景色
+    He mused about the possibility of genetic manipulation.
+#他仔细思考基因控制的可能性。
+
+endue:
+    be endued with wisdom
+#有智慧
+    He endued the character of a madman.
+#他装作是个疯子。
+
+parity:
+    parity of pay
+#同酬
+    The two countries reached a parity in military strength.
+#两国的军事力量达到势均力敌的状况。
+
+passe:
+    a passe society beauty
+#已过青春妙龄的交际花
+    passe ideas
+#陈旧的观念
+    He is politically passe.
+#他在政治上很落伍。
+
+monograph:
+    She published a monograph on Hemingway.
+#她出版了一部关于海明威的专著。
+
+install:
+    install a new assistant
+#任命一位新助手
+    Martin installed his family in the attic.
+#马丁把家眷安置在阁楼上。
+
+detraction:
+    It's detraction from his dignity.
+#这有损他的尊严。
+
+captivate:
+    He was captivated by her charm.
+#他被她的魅力迷住了。
+
+prognosticate:
+    He prognosticated that on the tenth of May a storm should burst over the island.
+#他预言说，5月10日这一天暴风雨将袭击这座岛。
+
+gauche:
+    He is tongue-tied and gauche.
+#他讷于言辞，不善交际。
+
+greenhorn:
+    I'm a bit of a greenhorn when it comes to skiing.
+#我在滑雪方面是个新手。
+
+rewarding:
+    a rewarding smile of thanks
+#表示答谢的微笑
+    A tour of the harbor is an immensely rewarding experience.
+#参观一下港口会是一次极有意义的经历。
+
+projectile:
+    The second projectile exploded after hitting a tank.
+#第二发炮弹在击中一辆坦克后爆炸了。
+
+punctilious:
+    A nurse should be punctilious in following the doctor's orders.
+#护士应该一丝不苟地执行医嘱。
+
+scintillate:
+    eyes that scintillate with fury
+#冒出怒火的眼睛
+    The stars scintillated in the winter sky.
+#星星在冬天的夜空中闪烁。
+
+smirk:
+    I detected a smirk on his face.
+#我发现他脸上露出得意的笑容。
+
+flossy:
+    flossy handwritting
+#漂亮的书法
+
+straiten:
+    straiten the range of one's authority
+#限制某人的职权范围
+    be straitened in time
+#时间紧迫
+    be straitened for money
+#经济拮据
+
+encyclopaedic:
+    She's amassed encyclopaedic knowledge of Arabic culture.
+#她积累了关于阿拉伯文化的广博知识。
+
+slippage:
+    the slippage of the tyres on the ice
+#轮胎在冰上打滑
+    the steady slippage
+#持续下降
+
+incertitude:
+    He said he perspired in incertitude over every word.
+#他说他每写一个字都再三斟酌得冒汗。
+
+levelheaded:
+    a levelheaded approach to a problem
+#处理问题的冷静态度
+
+coruscate:
+    a coruscating galaxy of talents
+#一群烟烟生辉的天才
+    The stars kept coruscating.
+#繁星闪烁。
+
+delirium:
+    He strode about the room in a delirium of joy.
+#他狂喜地在房间里走来走去。
+
+regurgitate:
+    The baby has regurgitated all of its food.
+#那要儿把吃下的东西全吐了出来。
+
+wallop:
+    the wallop of a bomb
+#炸弹的冲击力
+    get a big wallop out of it
+#从中得到极大乐趣
+    The drought walloped half of the country.
+#干旱席卷了半个国家。
+
+slattern:
+    slattern away one's time in nothing
+#无所事事地浪费时间
+
+resentment:
+    bear a feeling of resentment against sb.
+#对某人怀恨在心
+    She feels resentment at the interruption.
+#她因被人打断而恼怒不已。
+
+extenuate:
+    You must not extenuate his behavior.
+#你不应该为他的行为辩解。
+
+fancied:
+    a fancied grievance
+#想象出来的冤屈
+
+refraction:
+    the refraction of light
+#光的折射
+
+pell-mell:
+    read everything pell-mell
+#无选择地什么都读
+    be piled pell-mell in the corner
+#乱七八糟地堆在角落
+    The audience broke into a pell-mell rush for the exit.
+#观众突然一窝蜂地朝出口处冲去。
+
+mulish:
+    He's a very headstrong and mulish person most of the time, but underneath I think he's quite vulnerable.
+#他大多数时候是个非常倔强和刚愎自用的人，但我想他骨子里是很脆弱的。
+
+rudder:
+    There is no rudder as such, so the craft can be steered only when under power.
+#没有真正的方向舵，所以只有在动力驱动的情况下才能操控船只。
+
+ruction:
+    There'll be ructions if I'm not home by midnight.
+#如果我不在午夜以前回家，就会被抱怨。
+
+catharsis:
+    He found acting a catharsis.
+#他发现演戏具有宣泄作用。
+
+cogitate:
+    She cogitated over the past evening.
+#她仔细回想前一晚发生的事。
+
+chauvinistic:
+    The crowd was enthusiastically singing chauvinistic patriotic songs.
+#人群热烈地唱着沙文主义的爱国歌曲。
+
+bullion:
+    the bullion contained in a silver dollar
+#一枚银元中所含的银
+
+rescission:
+    the rescission of the law
+#法令的废除
+
+crabbed:
+    crabbed handwriting
+#潦草的字迹
+    a crabbed satirist
+#一个尖刻的讽刺家
+
+effrontery:
+    with cold effrontery
+#冷静而放肆地
+
+vacuous:
+    a vacuous play
+#内容贫乏的戏
+    a vacuous stare
+#空洞的凝视
+    a vacuous way of life
+#懒散的生活方式
+
+swear:
+    swear on the Bible
+#手按《圣经》发誓
+    swear revenge
+#发誓报仇
+    swear by
+#以……发誓
+    She swore on her honor that she had never seen the man.
+#她以自己的名誉发誓说她从没见过那个男人。
+
+maleficence:
+    be guilty of more than one maleficence
+#犯不止一桩罪行
+
+tranquility:
+    There is a tranquility about him.
+#他神态安详。
+
+discombobulate:
+    Her plans were discombobulated by the turn of events.
+#事态的发展把她的计划打乱了。
+
+maunder:
+    maunder about the town at sunset
+#黄时分在小城里闲逛
+
+finagle:
+    He finagled some tickets for tonight's big game.
+#他骗到了几张今晚重大比赛的门票。
+
+illusive:
+    illusory hopes
+#不切实际的希望
+    illusive Alps
+#梦幻般的阿尔卑斯山
+
+entirety:
+    She devoted the entirety of her life to medical research.
+#她一生从事医学研究。
+
+seasoned:
+    seasoned meat
+#风干的肉
+    a seasoned politician
+#老练的政治家
+
+brackish:
+    brackish water
+#稍带咸味的水
+    a brackish personality
+#使人讨厌的个性
+
+saucy:
+    a saucy yacht
+#漂亮的游艇
+    You were saucy to say that.
+#你那样说太没规矩了。
+
+masticate:
+    He slowly masticated a shrimp.
+#他慢慢地咀嚼着一只虾。
+
+locus:
+    the locus of power
+#权力的中心
+
+epideictic:
+    an epideictic style of writing
+#表现辞藻技巧的文风
+
+scrutable:
+    The words on the tombstone are still scrutable.
+#墓碑上的字仍可辨认。
+
+purgatory:
+    He described his experience of combat as sheer purgatory.
+#他把自己作战的经历描述为活受罪。
+
+=======
+muse:
+    be lost in muse
+#陷入沉思
+    muse upon a distant view
+#若有所思地凝望着远处的景色
+    He mused about the possibility of genetic manipulation.
+#他仔细思考基因控制的可能性。
+
+endue:
+    be endued with wisdom
+#有智慧
+    He endued the character of a madman.
+#他装作是个疯子。
+
+parity:
+    parity of pay
+#同酬
+    The two countries reached a parity in military strength.
+#两国的军事力量达到势均力敌的状况。
+
+passe:
+    a passe society beauty
+#已过青春妙龄的交际花
+    passe ideas
+#陈旧的观念
+    He is politically passe.
+#他在政治上很落伍。
+
+monograph:
+    She published a monograph on Hemingway.
+#她出版了一部关于海明威的专著。
+
+install:
+    install a new assistant
+#任命一位新助手
+    Martin installed his family in the attic.
+#马丁把家眷安置在阁楼上。
+
+detraction:
+    It's detraction from his dignity.
+#这有损他的尊严。
+
+captivate:
+    He was captivated by her charm.
+#他被她的魅力迷住了。
+
+prognosticate:
+    He prognosticated that on the tenth of May a storm should burst over the island.
+#他预言说，5月10日这一天暴风雨将袭击这座岛。
+
+gauche:
+    He is tongue-tied and gauche.
+#他讷于言辞，不善交际。
+
+greenhorn:
+    I'm a bit of a greenhorn when it comes to skiing.
+#我在滑雪方面是个新手。
+
+rewarding:
+    a rewarding smile of thanks
+#表示答谢的微笑
+    A tour of the harbor is an immensely rewarding experience.
+#参观一下港口会是一次极有意义的经历。
+
+projectile:
+    The second projectile exploded after hitting a tank.
+#第二发炮弹在击中一辆坦克后爆炸了。
+
+punctilious:
+    A nurse should be punctilious in following the doctor's orders.
+#护士应该一丝不苟地执行医嘱。
+
+scintillate:
+    eyes that scintillate with fury
+#冒出怒火的眼睛
+    The stars scintillated in the winter sky.
+#星星在冬天的夜空中闪烁。
+
+smirk:
+    I detected a smirk on his face.
+#我发现他脸上露出得意的笑容。
+
+flossy:
+    flossy handwritting
+#漂亮的书法
+
+straiten:
+    straiten the range of one's authority
+#限制某人的职权范围
+    be straitened in time
+#时间紧迫
+    be straitened for money
+#经济拮据
+
+encyclopaedic:
+    She's amassed encyclopaedic knowledge of Arabic culture.
+#她积累了关于阿拉伯文化的广博知识。
+
+slippage:
+    the slippage of the tyres on the ice
+#轮胎在冰上打滑
+    the steady slippage
+#持续下降
+
+incertitude:
+    He said he perspired in incertitude over every word.
+#他说他每写一个字都再三斟酌得冒汗。
+
+levelheaded:
+    a levelheaded approach to a problem
+#处理问题的冷静态度
+
+coruscate:
+    a coruscating galaxy of talents
+#一群烟烟生辉的天才
+    The stars kept coruscating.
+#繁星闪烁。
+
+delirium:
+    He strode about the room in a delirium of joy.
+#他狂喜地在房间里走来走去。
+
+regurgitate:
+    The baby has regurgitated all of its food.
+#那要儿把吃下的东西全吐了出来。
+
+wallop:
+    the wallop of a bomb
+#炸弹的冲击力
+    get a big wallop out of it
+#从中得到极大乐趣
+    The drought walloped half of the country.
+#干旱席卷了半个国家。
+
+slattern:
+    slattern away one's time in nothing
+#无所事事地浪费时间
+
+resentment:
+    bear a feeling of resentment against sb.
+#对某人怀恨在心
+    She feels resentment at the interruption.
+#她因被人打断而恼怒不已。
+
+extenuate:
+    You must not extenuate his behavior.
+#你不应该为他的行为辩解。
+
+fancied:
+    a fancied grievance
+#想象出来的冤屈
+
+refraction:
+    the refraction of light
+#光的折射
+
+pell-mell:
+    read everything pell-mell
+#无选择地什么都读
+    be piled pell-mell in the corner
+#乱七八糟地堆在角落
+    The audience broke into a pell-mell rush for the exit.
+#观众突然一窝蜂地朝出口处冲去。
+
+mulish:
+    He's a very headstrong and mulish person most of the time, but underneath I think he's quite vulnerable.
+#他大多数时候是个非常倔强和刚愎自用的人，但我想他骨子里是很脆弱的。
+
+rudder:
+    There is no rudder as such, so the craft can be steered only when under power.
+#没有真正的方向舵，所以只有在动力驱动的情况下才能操控船只。
+
+ruction:
+    There'll be ructions if I'm not home by midnight.
+#如果我不在午夜以前回家，就会被抱怨。
+
+catharsis:
+    He found acting a catharsis.
+#他发现演戏具有宣泄作用。
+
+cogitate:
+    She cogitated over the past evening.
+#她仔细回想前一晚发生的事。
+
+chauvinistic:
+    The crowd was enthusiastically singing chauvinistic patriotic songs.
+#人群热烈地唱着沙文主义的爱国歌曲。
+
+bullion:
+    the bullion contained in a silver dollar
+#一枚银元中所含的银
+
+rescission:
+    the rescission of the law
+#法令的废除
+
+crabbed:
+    crabbed handwriting
+#潦草的字迹
+    a crabbed satirist
+#一个尖刻的讽刺家
+
+effrontery:
+    with cold effrontery
+#冷静而放肆地
+
+vacuous:
+    a vacuous play
+#内容贫乏的戏
+    a vacuous stare
+#空洞的凝视
+    a vacuous way of life
+#懒散的生活方式
+
+swear:
+    swear on the Bible
+#手按《圣经》发誓
+    swear revenge
+#发誓报仇
+    swear by
+#以……发誓
+    She swore on her honor that she had never seen the man.
+#她以自己的名誉发誓说她从没见过那个男人。
+
+maleficence:
+    be guilty of more than one maleficence
+#犯不止一桩罪行
+
+tranquility:
+    There is a tranquility about him.
+#他神态安详。
+
+discombobulate:
+    Her plans were discombobulated by the turn of events.
+#事态的发展把她的计划打乱了。
+
+maunder:
+    maunder about the town at sunset
+#黄时分在小城里闲逛
+
+finagle:
+    He finagled some tickets for tonight's big game.
+#他骗到了几张今晚重大比赛的门票。
+
+illusive:
+    illusory hopes
+#不切实际的希望
+    illusive Alps
+#梦幻般的阿尔卑斯山
+
+entirety:
+    She devoted the entirety of her life to medical research.
+#她一生从事医学研究。
+
+seasoned:
+    seasoned meat
+#风干的肉
+    a seasoned politician
+#老练的政治家
+
+brackish:
+    brackish water
+#稍带咸味的水
+    a brackish personality
+#使人讨厌的个性
+
+saucy:
+    a saucy yacht
+#漂亮的游艇
+    You were saucy to say that.
+#你那样说太没规矩了。
+
+masticate:
+    He slowly masticated a shrimp.
+#他慢慢地咀嚼着一只虾。
+
+locus:
+    the locus of power
+#权力的中心
+
+epideictic:
+    an epideictic style of writing
+#表现辞藻技巧的文风
+
+scrutable:
+    The words on the tombstone are still scrutable.
+#墓碑上的字仍可辨认。
+
+purgatory:
+    He described his experience of combat as sheer purgatory.
+#他把自己作战的经历描述为活受罪。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,775 @@
+<<<<<<< HEAD
+cold-blooded: 英[ˌkəʊld ˈblʌdɪd] 美[ˌkoʊld ˈblʌdɪd]
+%adj. [生理] 冷血的；残酷的，无情的；怕冷的
+    cold-blooded animals
+#冷血动物
+    a cold-blooded murder
+#残忍的谋杀
+    She gave a cold-blooded account of the accident.
+#她冷静地描述了这一事件。
+
+crumple: 英[ˈkrʌmp(ə)l] 美[ˈkrʌmp(ə)l]
+$vt. 弄皱；使一蹶不振
+$vi. 起皱；倒坍；一蹶不振
+%n. 皱纹；褶皱
+    crumple into a heap on the floor
+#倒在地上成一滩团
+    crumple up the enemy
+#击溃敌军
+    crumple under the weight
+#被重量压塌
+    crumple the clothes
+#把衣服弄皱
+    She crumpled up the letter and threw it into the bin.
+#她把信揉成一团，扔进了垃圾桶。
+
+demur: 英[dɪˈmɜː(r)] 美[dɪˈmɜːr]
+$vi. 反对；抗辩；提出异议
+$n. 异议；反对
+%n. （Demur）人名；（德）德穆尔；（法）德米尔
+    demur at eating meat
+#不愿吃肉
+    accept the criticism without demur
+#毫无异议地接受批评
+    He demurred from being involved in such questionable practices.
+#他对卷入这种可疑行为有顾忌。
+
+oppressive: 英[əˈpresɪv] 美[əˈpresɪv]
+%adj. （社会、法律、习俗等）压迫的，暴虐的，不公的 ；（天气、空气等）闷热的，难以忍受的；使人苦恼的，令人焦虑的
+    feel an oppressive sense of guilt
+#感到一种难以忍受的负罪感
+    oppressive taxes
+#沉重的税收
+    an oppressive ruler
+#暴虐的统治者
+    oppressive heat
+#闷热
+    oppressive weather
+#恼人的天气
+    The atmosphere was oppressive, as if there were about to be a thunderstorm.
+#天气闷热难受，似乎要下一场雷雨。
+
+adumbrate: 英[ˈædəmbreɪt] 美[əˈdʌmbreɪt]
+%vt. 预示；画……的轮廓；遮蔽
+    adumbrate the plan
+#简单谈一下计划
+    The film opens with a fierce storm which adumbrates the violence to follow.
+#这部电影以猛烈的风暴开始，这预示着即将发生暴力事件。
+
+anachronistic: 英[əˌnækrəˈnɪstɪk] 美[əˌnækrəˈnɪstɪk]
+%adj. 时代错误的
+    The law seems anachronistic.
+#该法律似乎有些过时了。
+
+infrequent: 英[ɪnˈfriːkwənt] 美[ɪnˈfriːkwənt]
+%adj. 罕见的；稀少的；珍贵的；不频发的
+    an infrequent guest
+#稀客
+    infrequent opportunities for advancement
+#不多的几次提升机会
+    His letters become infrequent, then stopped completely.
+#他的来信变得越来越少，最后就完全没有了。
+
+solicitous: 英[səˈlɪsɪtəs] 美[səˈlɪsɪtəs]
+%adj. 热切期望的；热心的；挂念的
+    be solicitous of patients
+#对病人关心
+    make a solicitous inquiry about one's health
+#关切地探问某人的健康状况
+    solicitous service
+#周到的服务
+    be solicitous in matters of dress
+#在穿着方面很讲究
+    She was solicitous of the esteem of others.
+#她渴望得到别人的尊重。
+
+demagnetize: 英[ˌdiːˈmæɡnətaɪz] 美[ˌdiːˈmæɡnətaɪz]
+%vt. 消磁；使退磁
+    a demagnetized card
+#去磁的卡
+    This device works together with the cleaning machine and is used to demagnetize the objects before cleaning, which helps to get better cleaning effect.
+#本机配合清洗机使用，把进行清洗前的物体进行消磁处理。从而达到理想的清洗效果。
+
+dehumanise(dehumanize): 英[ˌdiːˈhjuːmənaɪz] 美[ˌdiːˈhjuːmənaɪz]
+%vt. 使失去人性，使非人化
+    He said that disabled people are often treated in a dehumanizing way.
+#他说残疾人经常受到侮辱。
+
+uncharted: 英[ˌʌnˈtʃɑːtɪd] 美[ˌʌnˈtʃɑːrtɪd]
+%adj. 未知的；图上未标明的
+    The guide led us along the uncharted path.
+#向导领着我们沿着未经探索的小径走去。
+
+serendipity: 英[ˌserənˈdɪpəti] 美[ˌserənˈdɪpəti]
+%n. 意外发现美好事物的运气，机缘巧合
+    The famous actress, it is said, was discovered by serendipity at a drugstore.
+#据说这位著名女演员是在一个药店中被偶然发现的。
+
+snobbery: 英[ˈsnɒbəri] 美[ˈsnɑːbəri]
+%n. 势利，虚荣；势利的行为或语言
+    He accused her of snobbery because she sent her son to a private school.
+#他指责她势利，因为她送儿子上私立学校。
+
+venial: 英[ˈviːniəl] 美[ˈviːniəl]
+%adj. 可原谅的；（罪过）轻微的；可宽恕的
+    a venial sin
+#可赎的小罪
+    a venial error
+#轻微的错误
+
+half-hearted: 英[ˌhɑːf ˈhɑːtɪd] 美[ˌhæf ˈhɑːrtɪd]
+%adj. 半心半意的；缺乏热情的
+    He made a rather half-hearted attempt to clear up the rubbish.
+#他不怎么情愿地清除垃圾。
+
+unscented: 英[ʌnˈsentɪd] 美[ʌnˈsentɪd]
+%adj. 无香味的；无气味的
+    an unscented rose
+#无香味的瑰花
+    an unscented soap
+#无香肥皂
+
+opalescent: 英[ˌəʊpəˈles(ə)nt] 美[ˌoʊpəˈles(ə)nt]
+%adj. 乳白色的；发乳白光的
+    an opalescent veil
+#乳白色的面纱
+
+warp: 英[wɔːp] 美[wɔːrp]
+$v. （使）扭曲，（使）变形；使反常，使有偏见；用绞船索牵曳（船）；（纺织用语）把（纱）排列成经；淤灌（土地）
+%n. （织布中的）经纱，经线；变形，扭曲；（小说中或假想的空间旅行）靠扭曲时空实现，穿越时空；（喻）（性格）乖戾；绞船索
+    warp the floor-boards
+#使地板翘曲不平
+    warp justice
+#歪曲正义
+    warped by bias
+#为偏见所曲解
+    Years of living alone warped his personality.
+#多年的孤身生活使他的性情变得乖戾。
+
+garrulous: 英[ˈɡærələs] 美[ˈɡærələs]
+%adj. 唠叨的；喋喋不休的；多嘴的
+    a garrulous speech
+#冗长的演说
+    I had expected her to be garrulous.
+#我原以为她是个爱饶舌的女人。
+
+preferably: 英[ˈprefrəbli] 美[ˈprefrəbli]
+%adv. 更合意地，最好是
+    Put the potatoes into boiling water, preferably after peeling them.
+#把土豆倒入沸水中，最好是在去皮之后。
+
+obfuscate: 英[ˈɒbfəskeɪt] 美[ˈɑːbfəskeɪt]
+%vt. 使模糊；使迷乱；弄暗
+    A person's mind may be obfuscated by liquor.
+#酗酒会使人头脑迷糊。
+
+compensatory: 英[ˌkɒmpenˈseɪtəri] 美[kəmˈpensətɔːri]
+%adj. 赔偿的；弥补的，补偿的
+    He may get compensatory leave for working overtime.
+#他加班可获补假。
+
+moratorium: 英[ˌmɒrəˈtɔːriəm] 美[ˌmɔːrəˈtɔːriəm]
+%n. 暂停，中止；（金融）延期偿付
+    a moratorium on phone orders
+#电话订货的暂停
+    a moratorium on the killing of all ocean mammals
+#禁止捕杀所有海洋哺乳动物
+    A moratorium has been declared on all debts for five years.
+#已宣布一切债务延期五年偿付。
+
+sensitize: 英[ˈsensətaɪz] 美[ˈsensətaɪz]
+$vt. 使敏感；使具有感光性
+%vi. 变得敏感
+    sensitized paper
+#感光纸
+    She's now become sensitized to strange sound at night, and she often wakes up.
+#她现在对夜里异常的声响很敏感，常常醒来。
+
+aseptic: 英[ˌeɪˈseptɪk] 美[ˌeɪˈseptɪk]
+$adj. 无菌的；防腐性的
+%n. [助剂] 防腐剂
+    an aseptic dressing
+#无菌包扎
+    an aseptic essay
+#毫无生气的文章
+    an aseptic view on civilization
+#超然独立的文明观
+    Surgery is always done in aseptic conditions.
+#外科手术总是在无菌条件下进行的。
+
+adaptability: 英[əˌdæptəˈbɪləti] 美[əˌdæptəˈbɪləti]
+%n. 适应性；可变性；适合性
+    Adaptability is a necessary quality in an ever-changing work environment.
+#适应性在始终变化的工作环境中是一项必需的素质。
+
+domination: 英[ˌdɒmɪˈneɪʃn] 美[ˌdɑːmɪˈneɪʃ(ə)n]
+%n. 控制，统治
+    The film was about a group of robots set on world domination.
+#这部电影描述了一群机器人意图统治整个世界的故事。
+
+unquestioning: 英[ʌnˈkwestʃənɪŋ] 美[ʌnˈkwestʃənɪŋ]
+%adj. 不提出疑问的；不犹豫的；盲目的；无异议的；无条件的
+    Like all tyrannical leaders, he demanded unquestioning obedience from his followers.
+#像所有的专制领导一样，他要求他的追随者绝对服从。
+
+discount: 英[ˈdɪskaʊnt] 美[ˈdɪskaʊnt]
+$n. 减价，折扣；（汇票或期票到期前转手的）贴现率
+$adj. 打折的，减价出售的
+%v. 打折，减价；不重视，忽视；贴现；（持票人或受票人）把（票据）贴现
+    discount the rumors
+#不相信谣传
+    give sb. (a) 10% discount
+#给某人打九折
+    get a discount of 20% on air fares
+#乘飞机享受8折优惠
+    The restaurant discounts 3 per cent on all bills paid when due.
+#那家饭店对如期付清的账单打了3%的折扣。
+
+pseudonym: 英[ˈsuːdənɪm] 美[ˈsuːdənɪm]
+%n. 笔名；假名
+    adopt the pseudonym of Henry
+#化名亨利
+    Many writers in those days wrote under pseudonyms.
+#那时候许多作家用笔名写文章。
+
+apprehensive: 英[ˌæprɪˈhensɪv] 美[ˌæprɪˈhensɪv]
+%adj. 忧虑的，担心的；（与）领会（有关）的，（与）理解（有关）的
+    be apprehensive of fatal consequences
+#担心发生致命的后果
+    feel apprehensive for one's safety
+#为某人的安全担心
+    an apprehensive scholar
+#聪颖的学者
+    be apprehensive of one's own folly
+#认识到自己的愚蠢行为
+    Though he was apprehensive about that prospect, he did not show it.
+#虽然他对那种前景感到忧虑，但并没有流露出来。
+
+perfervid: 英[pɜːˈfɜːvɪd] 美[pərˈfɜːrvɪd]
+%adj. 非常热心的；热烈的
+    perfervid patriotism
+#热烈的爱国主义
+    We've heard perfervid screams from the press about the freedom of the press.
+#我们听到了报界要求新闻自由的激昂呼声。
+
+truculent: 英[ˈtrʌkjələnt] 美[ˈtrʌkjələnt]
+%adj. 好斗的；野蛮的；言词刻毒的
+    a truculent and quarrelsome man
+#凶狠而好斗的男子
+    be in a truculent mood
+#处于狂怒状态
+    a truculent satire
+#尖刻的讽刺
+    a truculent bombing
+#毁灭性轰炸
+    He's been very truculent since he heard he wasn't going to be promoted.
+#自从听说将不被提拔后，他的态度就一直咄咄逼人。
+
+truculence: 英[ˈtrʌkjələns] 美[ˈtrʌkjələns]
+%n. 野蛮；好战；刻薄；致命性（等于 truculency）
+    His truculence can make him very difficult to work with sometimes.
+#他的尖刻有时使人难以与之相处。
+
+moisten: 英[ˈmɔɪsn] 美[ˈmɔɪs(ə)n]
+$vt. 弄湿；使……湿润
+%vi. 潮湿；变潮湿
+    moisten one's throat
+#润喉
+    Her eyes moistend with tears.
+#她眼泪汪汪联
+
+typographic(al): 英[ˌtaɪpəˈɡræfɪk] 美[ˌtaɪpəˈɡræfɪk]
+%adj. 排字上的；印刷上的
+    The magazine was blamed for its typographic errors.
+#那本杂志因排印错误而受到批评。
+
+mythic(al): 英[ˈmɪθɪk] 美[ˈmɪθɪk]
+%adj. 神话的；虚构的
+    The explanation was entirely mythic.
+#这种解释纯属杜撰。
+
+glucose: 英[ˈɡluːkəʊs] 美[ˈɡluːkoʊs]
+%n. 葡萄糖；葡糖（等于 dextrose）
+    The body digests carbohydrates down to glucose, which itself is broken down in the muscles to release energy.
+#人体将碳水化合物消化成葡萄糖，然后在肌肉里分解释放能量。
+
+sociable: 英[ˈsəʊʃəb(ə)l] 美[ˈsoʊʃəb(ə)l]
+$adj. 好交际的，合群的，友善的；（地方，场合，活动）气氛友好的
+%n. <美，旧>（非正式的）社交聚会，交谊会；<史>座位面对面的敞篷马车；<史>并肩双座的三轮车；<英>S 形的双人坐椅
+    a sociable disposition
+#合群的习性
+    a sociable party
+#社交聚会
+    sociable plants
+#群聚植物
+    play cards to be sociable
+#为社交玩牌
+    Man is said to be a sociable animal.
+#人被说成是一种社会性动物。
+
+incommensurate: 英[ˌɪnkəˈmenʃərət] 美[ˌɪnkəˈmenʃərət]
+%adj. 不适应的；不相称的；不成比例
+    a supply incommensurate to the demand
+#与要求不相称的供应
+    His salary is incommensurate with the time he spends working.
+#他的薪俸同他花在工作上的时间是不相称的。
+
+summary: 英[ˈsʌməri] 美[ˈsʌməri]
+$n. 总结，概要
+%adj. 总结性的，概括的；（司法程序）即决的，简易的
+    a summary account
+#概括性的报道
+    a 10-minute summary film
+#十分钟的概括影片
+    a summary dismissal
+#立即开除
+    a summary arrest
+#当场逮捕
+    in summary
+#概括地说
+    No brief summary can possibly do justice to the depth of this report.
+#简单的概述不可能公正地反映这一报告的深度。
+
+penal: 英[ˈpiːn(ə)l] 美[ˈpiːn(ə)l]
+%adj. 刑事的；刑罚的
+    a penal code
+#刑法典
+    a penal colony/settlement
+#流放地
+    penal labor
+#劳役
+    penal laws
+#刑法
+    a penal farm
+#劳役农场
+    Many people believe that execution has no place in the penal system of a civilized society.
+#许多人认为一个文明社会的刑罚体系中不应该有死刑。
+
+sycophant: 英[ˈsɪkəfænt] 美[ˈsɪkəfænt]
+$n. 谄媚者；奉承者
+%adj. 奉承的；拍马的
+    The prime minister is surrounded by sycophants.
+#首相周围尽是些拍马屁的人。
+
+bowlegged: 英[ˌbəʊˈleɡɪd] 美[ˌboʊˈleɡɪd]
+%adj. 弯脚的
+    A bowlegged blond beast basically leapt out of her arms and into our hearts.
+#那只罗圈腿的金毛小家伙一下子就从她的臂弯里跳进了我们的心坎中。
+
+assuming: 英[əˈsjuːmɪŋ] 美[əˈsuːmɪŋ]
+$conj. 假定，假设
+$adj. <古>傲慢的，自以为是的
+%v. 假定，假设，认为；装出，做出；承担，就职（assume 的现在分词）
+    He is all too assuming in his attitude to the energy supply.
+#他在对待能源问题的态度上实在显得过于自信。
+
+righteousness: 英[ˈraɪtʃəsnəs] 美[ˈraɪtʃəsnəs]
+%n. 正义；正直；公正；正当
+    There was always a lot of self in your righteousness. 
+#在你们的正义之中，总是有太多自我。
+
+drowsy: 英[ˈdraʊzi] 美[ˈdraʊzi]
+%adj. 昏昏欲睡的，困倦的；令人松弛的，令人困倦欲睡的；（尤指地方）静谧的，平静的，安静的
+    The room is so warm that it makes me feel drowsy.
+#房间里太暖和，使我有些昏昏欲睡。
+
+notate: 英[nəʊˈteɪt] 美[ˈnoʊˌteɪt]
+%vt. 以符号表示
+    Much of the music has been notated and preserved.
+#这种音乐有许多已经记谱保存下来。
+
+underplay: 英[ˌʌndəˈpleɪ] 美[ˌʌndərˈpleɪ]
+$vt. 表演不充分；对……轻描淡写；扣着大牌不出而出小牌
+$n. 不充分的表演；秘密行动
+%vi. 表演角色不充分
+    While not wanting to underplay the seriousness of the situation, I have to say that it is not as bad as people seem to think.
+#虽然不想低估形势的严重性，我不得不说它并不像人们所想的那么坏。
+
+=======
+cold-blooded: 英[ˌkəʊld ˈblʌdɪd] 美[ˌkoʊld ˈblʌdɪd]
+%adj. [生理] 冷血的；残酷的，无情的；怕冷的
+    cold-blooded animals
+#冷血动物
+    a cold-blooded murder
+#残忍的谋杀
+    She gave a cold-blooded account of the accident.
+#她冷静地描述了这一事件。
+
+crumple: 英[ˈkrʌmp(ə)l] 美[ˈkrʌmp(ə)l]
+$vt. 弄皱；使一蹶不振
+$vi. 起皱；倒坍；一蹶不振
+%n. 皱纹；褶皱
+    crumple into a heap on the floor
+#倒在地上成一滩团
+    crumple up the enemy
+#击溃敌军
+    crumple under the weight
+#被重量压塌
+    crumple the clothes
+#把衣服弄皱
+    She crumpled up the letter and threw it into the bin.
+#她把信揉成一团，扔进了垃圾桶。
+
+demur: 英[dɪˈmɜː(r)] 美[dɪˈmɜːr]
+$vi. 反对；抗辩；提出异议
+$n. 异议；反对
+%n. （Demur）人名；（德）德穆尔；（法）德米尔
+    demur at eating meat
+#不愿吃肉
+    accept the criticism without demur
+#毫无异议地接受批评
+    He demurred from being involved in such questionable practices.
+#他对卷入这种可疑行为有顾忌。
+
+oppressive: 英[əˈpresɪv] 美[əˈpresɪv]
+%adj. （社会、法律、习俗等）压迫的，暴虐的，不公的 ；（天气、空气等）闷热的，难以忍受的；使人苦恼的，令人焦虑的
+    feel an oppressive sense of guilt
+#感到一种难以忍受的负罪感
+    oppressive taxes
+#沉重的税收
+    an oppressive ruler
+#暴虐的统治者
+    oppressive heat
+#闷热
+    oppressive weather
+#恼人的天气
+    The atmosphere was oppressive, as if there were about to be a thunderstorm.
+#天气闷热难受，似乎要下一场雷雨。
+
+adumbrate: 英[ˈædəmbreɪt] 美[əˈdʌmbreɪt]
+%vt. 预示；画……的轮廓；遮蔽
+    adumbrate the plan
+#简单谈一下计划
+    The film opens with a fierce storm which adumbrates the violence to follow.
+#这部电影以猛烈的风暴开始，这预示着即将发生暴力事件。
+
+anachronistic: 英[əˌnækrəˈnɪstɪk] 美[əˌnækrəˈnɪstɪk]
+%adj. 时代错误的
+    The law seems anachronistic.
+#该法律似乎有些过时了。
+
+infrequent: 英[ɪnˈfriːkwənt] 美[ɪnˈfriːkwənt]
+%adj. 罕见的；稀少的；珍贵的；不频发的
+    an infrequent guest
+#稀客
+    infrequent opportunities for advancement
+#不多的几次提升机会
+    His letters become infrequent, then stopped completely.
+#他的来信变得越来越少，最后就完全没有了。
+
+solicitous: 英[səˈlɪsɪtəs] 美[səˈlɪsɪtəs]
+%adj. 热切期望的；热心的；挂念的
+    be solicitous of patients
+#对病人关心
+    make a solicitous inquiry about one's health
+#关切地探问某人的健康状况
+    solicitous service
+#周到的服务
+    be solicitous in matters of dress
+#在穿着方面很讲究
+    She was solicitous of the esteem of others.
+#她渴望得到别人的尊重。
+
+demagnetize: 英[ˌdiːˈmæɡnətaɪz] 美[ˌdiːˈmæɡnətaɪz]
+%vt. 消磁；使退磁
+    a demagnetized card
+#去磁的卡
+    This device works together with the cleaning machine and is used to demagnetize the objects before cleaning, which helps to get better cleaning effect.
+#本机配合清洗机使用，把进行清洗前的物体进行消磁处理。从而达到理想的清洗效果。
+
+dehumanise(dehumanize): 英[ˌdiːˈhjuːmənaɪz] 美[ˌdiːˈhjuːmənaɪz]
+%vt. 使失去人性，使非人化
+    He said that disabled people are often treated in a dehumanizing way.
+#他说残疾人经常受到侮辱。
+
+uncharted: 英[ˌʌnˈtʃɑːtɪd] 美[ˌʌnˈtʃɑːrtɪd]
+%adj. 未知的；图上未标明的
+    The guide led us along the uncharted path.
+#向导领着我们沿着未经探索的小径走去。
+
+serendipity: 英[ˌserənˈdɪpəti] 美[ˌserənˈdɪpəti]
+%n. 意外发现美好事物的运气，机缘巧合
+    The famous actress, it is said, was discovered by serendipity at a drugstore.
+#据说这位著名女演员是在一个药店中被偶然发现的。
+
+snobbery: 英[ˈsnɒbəri] 美[ˈsnɑːbəri]
+%n. 势利，虚荣；势利的行为或语言
+    He accused her of snobbery because she sent her son to a private school.
+#他指责她势利，因为她送儿子上私立学校。
+
+venial: 英[ˈviːniəl] 美[ˈviːniəl]
+%adj. 可原谅的；（罪过）轻微的；可宽恕的
+    a venial sin
+#可赎的小罪
+    a venial error
+#轻微的错误
+
+half-hearted: 英[ˌhɑːf ˈhɑːtɪd] 美[ˌhæf ˈhɑːrtɪd]
+%adj. 半心半意的；缺乏热情的
+    He made a rather half-hearted attempt to clear up the rubbish.
+#他不怎么情愿地清除垃圾。
+
+unscented: 英[ʌnˈsentɪd] 美[ʌnˈsentɪd]
+%adj. 无香味的；无气味的
+    an unscented rose
+#无香味的瑰花
+    an unscented soap
+#无香肥皂
+
+opalescent: 英[ˌəʊpəˈles(ə)nt] 美[ˌoʊpəˈles(ə)nt]
+%adj. 乳白色的；发乳白光的
+    an opalescent veil
+#乳白色的面纱
+
+warp: 英[wɔːp] 美[wɔːrp]
+$v. （使）扭曲，（使）变形；使反常，使有偏见；用绞船索牵曳（船）；（纺织用语）把（纱）排列成经；淤灌（土地）
+%n. （织布中的）经纱，经线；变形，扭曲；（小说中或假想的空间旅行）靠扭曲时空实现，穿越时空；（喻）（性格）乖戾；绞船索
+    warp the floor-boards
+#使地板翘曲不平
+    warp justice
+#歪曲正义
+    warped by bias
+#为偏见所曲解
+    Years of living alone warped his personality.
+#多年的孤身生活使他的性情变得乖戾。
+
+garrulous: 英[ˈɡærələs] 美[ˈɡærələs]
+%adj. 唠叨的；喋喋不休的；多嘴的
+    a garrulous speech
+#冗长的演说
+    I had expected her to be garrulous.
+#我原以为她是个爱饶舌的女人。
+
+preferably: 英[ˈprefrəbli] 美[ˈprefrəbli]
+%adv. 更合意地，最好是
+    Put the potatoes into boiling water, preferably after peeling them.
+#把土豆倒入沸水中，最好是在去皮之后。
+
+obfuscate: 英[ˈɒbfəskeɪt] 美[ˈɑːbfəskeɪt]
+%vt. 使模糊；使迷乱；弄暗
+    A person's mind may be obfuscated by liquor.
+#酗酒会使人头脑迷糊。
+
+compensatory: 英[ˌkɒmpenˈseɪtəri] 美[kəmˈpensətɔːri]
+%adj. 赔偿的；弥补的，补偿的
+    He may get compensatory leave for working overtime.
+#他加班可获补假。
+
+moratorium: 英[ˌmɒrəˈtɔːriəm] 美[ˌmɔːrəˈtɔːriəm]
+%n. 暂停，中止；（金融）延期偿付
+    a moratorium on phone orders
+#电话订货的暂停
+    a moratorium on the killing of all ocean mammals
+#禁止捕杀所有海洋哺乳动物
+    A moratorium has been declared on all debts for five years.
+#已宣布一切债务延期五年偿付。
+
+sensitize: 英[ˈsensətaɪz] 美[ˈsensətaɪz]
+$vt. 使敏感；使具有感光性
+%vi. 变得敏感
+    sensitized paper
+#感光纸
+    She's now become sensitized to strange sound at night, and she often wakes up.
+#她现在对夜里异常的声响很敏感，常常醒来。
+
+aseptic: 英[ˌeɪˈseptɪk] 美[ˌeɪˈseptɪk]
+$adj. 无菌的；防腐性的
+%n. [助剂] 防腐剂
+    an aseptic dressing
+#无菌包扎
+    an aseptic essay
+#毫无生气的文章
+    an aseptic view on civilization
+#超然独立的文明观
+    Surgery is always done in aseptic conditions.
+#外科手术总是在无菌条件下进行的。
+
+adaptability: 英[əˌdæptəˈbɪləti] 美[əˌdæptəˈbɪləti]
+%n. 适应性；可变性；适合性
+    Adaptability is a necessary quality in an ever-changing work environment.
+#适应性在始终变化的工作环境中是一项必需的素质。
+
+domination: 英[ˌdɒmɪˈneɪʃn] 美[ˌdɑːmɪˈneɪʃ(ə)n]
+%n. 控制，统治
+    The film was about a group of robots set on world domination.
+#这部电影描述了一群机器人意图统治整个世界的故事。
+
+unquestioning: 英[ʌnˈkwestʃənɪŋ] 美[ʌnˈkwestʃənɪŋ]
+%adj. 不提出疑问的；不犹豫的；盲目的；无异议的；无条件的
+    Like all tyrannical leaders, he demanded unquestioning obedience from his followers.
+#像所有的专制领导一样，他要求他的追随者绝对服从。
+
+discount: 英[ˈdɪskaʊnt] 美[ˈdɪskaʊnt]
+$n. 减价，折扣；（汇票或期票到期前转手的）贴现率
+$adj. 打折的，减价出售的
+%v. 打折，减价；不重视，忽视；贴现；（持票人或受票人）把（票据）贴现
+    discount the rumors
+#不相信谣传
+    give sb. (a) 10% discount
+#给某人打九折
+    get a discount of 20% on air fares
+#乘飞机享受8折优惠
+    The restaurant discounts 3 per cent on all bills paid when due.
+#那家饭店对如期付清的账单打了3%的折扣。
+
+pseudonym: 英[ˈsuːdənɪm] 美[ˈsuːdənɪm]
+%n. 笔名；假名
+    adopt the pseudonym of Henry
+#化名亨利
+    Many writers in those days wrote under pseudonyms.
+#那时候许多作家用笔名写文章。
+
+apprehensive: 英[ˌæprɪˈhensɪv] 美[ˌæprɪˈhensɪv]
+%adj. 忧虑的，担心的；（与）领会（有关）的，（与）理解（有关）的
+    be apprehensive of fatal consequences
+#担心发生致命的后果
+    feel apprehensive for one's safety
+#为某人的安全担心
+    an apprehensive scholar
+#聪颖的学者
+    be apprehensive of one's own folly
+#认识到自己的愚蠢行为
+    Though he was apprehensive about that prospect, he did not show it.
+#虽然他对那种前景感到忧虑，但并没有流露出来。
+
+perfervid: 英[pɜːˈfɜːvɪd] 美[pərˈfɜːrvɪd]
+%adj. 非常热心的；热烈的
+    perfervid patriotism
+#热烈的爱国主义
+    We've heard perfervid screams from the press about the freedom of the press.
+#我们听到了报界要求新闻自由的激昂呼声。
+
+truculent: 英[ˈtrʌkjələnt] 美[ˈtrʌkjələnt]
+%adj. 好斗的；野蛮的；言词刻毒的
+    a truculent and quarrelsome man
+#凶狠而好斗的男子
+    be in a truculent mood
+#处于狂怒状态
+    a truculent satire
+#尖刻的讽刺
+    a truculent bombing
+#毁灭性轰炸
+    He's been very truculent since he heard he wasn't going to be promoted.
+#自从听说将不被提拔后，他的态度就一直咄咄逼人。
+
+truculence: 英[ˈtrʌkjələns] 美[ˈtrʌkjələns]
+%n. 野蛮；好战；刻薄；致命性（等于 truculency）
+    His truculence can make him very difficult to work with sometimes.
+#他的尖刻有时使人难以与之相处。
+
+moisten: 英[ˈmɔɪsn] 美[ˈmɔɪs(ə)n]
+$vt. 弄湿；使……湿润
+%vi. 潮湿；变潮湿
+    moisten one's throat
+#润喉
+    Her eyes moistend with tears.
+#她眼泪汪汪联
+
+typographic(al): 英[ˌtaɪpəˈɡræfɪk] 美[ˌtaɪpəˈɡræfɪk]
+%adj. 排字上的；印刷上的
+    The magazine was blamed for its typographic errors.
+#那本杂志因排印错误而受到批评。
+
+mythic(al): 英[ˈmɪθɪk] 美[ˈmɪθɪk]
+%adj. 神话的；虚构的
+    The explanation was entirely mythic.
+#这种解释纯属杜撰。
+
+glucose: 英[ˈɡluːkəʊs] 美[ˈɡluːkoʊs]
+%n. 葡萄糖；葡糖（等于 dextrose）
+    The body digests carbohydrates down to glucose, which itself is broken down in the muscles to release energy.
+#人体将碳水化合物消化成葡萄糖，然后在肌肉里分解释放能量。
+
+sociable: 英[ˈsəʊʃəb(ə)l] 美[ˈsoʊʃəb(ə)l]
+$adj. 好交际的，合群的，友善的；（地方，场合，活动）气氛友好的
+%n. <美，旧>（非正式的）社交聚会，交谊会；<史>座位面对面的敞篷马车；<史>并肩双座的三轮车；<英>S 形的双人坐椅
+    a sociable disposition
+#合群的习性
+    a sociable party
+#社交聚会
+    sociable plants
+#群聚植物
+    play cards to be sociable
+#为社交玩牌
+    Man is said to be a sociable animal.
+#人被说成是一种社会性动物。
+
+incommensurate: 英[ˌɪnkəˈmenʃərət] 美[ˌɪnkəˈmenʃərət]
+%adj. 不适应的；不相称的；不成比例
+    a supply incommensurate to the demand
+#与要求不相称的供应
+    His salary is incommensurate with the time he spends working.
+#他的薪俸同他花在工作上的时间是不相称的。
+
+summary: 英[ˈsʌməri] 美[ˈsʌməri]
+$n. 总结，概要
+%adj. 总结性的，概括的；（司法程序）即决的，简易的
+    a summary account
+#概括性的报道
+    a 10-minute summary film
+#十分钟的概括影片
+    a summary dismissal
+#立即开除
+    a summary arrest
+#当场逮捕
+    in summary
+#概括地说
+    No brief summary can possibly do justice to the depth of this report.
+#简单的概述不可能公正地反映这一报告的深度。
+
+penal: 英[ˈpiːn(ə)l] 美[ˈpiːn(ə)l]
+%adj. 刑事的；刑罚的
+    a penal code
+#刑法典
+    a penal colony/settlement
+#流放地
+    penal labor
+#劳役
+    penal laws
+#刑法
+    a penal farm
+#劳役农场
+    Many people believe that execution has no place in the penal system of a civilized society.
+#许多人认为一个文明社会的刑罚体系中不应该有死刑。
+
+sycophant: 英[ˈsɪkəfænt] 美[ˈsɪkəfænt]
+$n. 谄媚者；奉承者
+%adj. 奉承的；拍马的
+    The prime minister is surrounded by sycophants.
+#首相周围尽是些拍马屁的人。
+
+bowlegged: 英[ˌbəʊˈleɡɪd] 美[ˌboʊˈleɡɪd]
+%adj. 弯脚的
+    A bowlegged blond beast basically leapt out of her arms and into our hearts.
+#那只罗圈腿的金毛小家伙一下子就从她的臂弯里跳进了我们的心坎中。
+
+assuming: 英[əˈsjuːmɪŋ] 美[əˈsuːmɪŋ]
+$conj. 假定，假设
+$adj. <古>傲慢的，自以为是的
+%v. 假定，假设，认为；装出，做出；承担，就职（assume 的现在分词）
+    He is all too assuming in his attitude to the energy supply.
+#他在对待能源问题的态度上实在显得过于自信。
+
+righteousness: 英[ˈraɪtʃəsnəs] 美[ˈraɪtʃəsnəs]
+%n. 正义；正直；公正；正当
+    There was always a lot of self in your righteousness. 
+#在你们的正义之中，总是有太多自我。
+
+drowsy: 英[ˈdraʊzi] 美[ˈdraʊzi]
+%adj. 昏昏欲睡的，困倦的；令人松弛的，令人困倦欲睡的；（尤指地方）静谧的，平静的，安静的
+    The room is so warm that it makes me feel drowsy.
+#房间里太暖和，使我有些昏昏欲睡。
+
+notate: 英[nəʊˈteɪt] 美[ˈnoʊˌteɪt]
+%vt. 以符号表示
+    Much of the music has been notated and preserved.
+#这种音乐有许多已经记谱保存下来。
+
+underplay: 英[ˌʌndəˈpleɪ] 美[ˌʌndərˈpleɪ]
+$vt. 表演不充分；对……轻描淡写；扣着大牌不出而出小牌
+$n. 不充分的表演；秘密行动
+%vi. 表演角色不充分
+    While not wanting to underplay the seriousness of the situation, I have to say that it is not as bad as people seem to think.
+#虽然不想低估形势的严重性，我不得不说它并不像人们所想的那么坏。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

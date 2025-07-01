@@ -1,0 +1,747 @@
+<<<<<<< HEAD
+induce: 英[ɪnˈdjuːs] 美[ɪnˈduːs]
+%v. 引诱，诱使；引起，导致；给（孕妇）引产，（用药物）催生；归纳出
+    Lack of proper care and love in early childhood can induce bad behavior in young people.
+#幼年时缺少必要的关心和爱会导致青年时期犯错。
+
+fracture: 英[ˈfræktʃə(r)] 美[ˈfræktʃər]
+$n. 破裂，断裂；骨折；（尤指岩层的）裂缝，裂痕；（语音）元音割裂；由单元音割裂成的复合元音
+%v. 破裂，折断；瓦解，分裂；毁坏，破坏；违反，越出……范围
+    The pipes will fracture if the temperature drops too low.
+#假如温度降得太低，管道会破裂的。
+
+signify: 英[ˈsɪɡnɪfaɪ] 美[ˈsɪɡnɪfaɪ]
+%v. 意味着，象征；<正式> 表达，显示（感情、意愿等）；<正式> 要紧，有重要性；<美，非正式>（作为一种游戏或习俗，美国黑人之间）相互吹牛，相互辱骂
+    Red often signifies danger.
+#红色通常标志着危险。
+
+objection: 英[əbˈdʒekʃ(ə)n] 美[əbˈdʒekʃ(ə)n]
+%n. 反对的理由；反对，异议；抗议（律师在审判中提出异议的插话）；恼火，烦心；缺点，缺陷；妨碍，障碍
+    The proposal will go ahead despite strong objections from the public.
+#尽管公众强烈反对，这项提案仍将付诸实施。
+
+borough: 英[ˈbʌrə] 美[ˈbɜːroʊ]
+$n. 区；自治的市镇
+%n. （Borough）人名；（英）伯勒
+    The city is made up of 8 boroughs.
+#这座城市由8个行政区组成。
+
+bosom: 英[ˈbʊzəm] 美[ˈbʊzəm]
+$n. （女人的）胸，乳房；（女人的）胸衣；内心，胸怀；安全而舒适的地方，温馨的氛围；胸前，怀；衣服的胸部，胸襟
+$adj. （朋友）亲密的，知心的
+%v. 怀抱；把……藏在心中
+    hold the child to one's bosom
+#把婴儿抱在怀里；
+    a bosom friend
+#密友；
+    spend Christmas in the bosom of one's family
+#在家庭温暖的怀抱里度过圣诞节；
+    take sth. to one's bosom
+#将某事深藏心中；
+    The baby sleeps in the mother's bosom.
+#婴儿在母亲的怀抱里睡着了。
+
+botanical: 英[bəˈtænɪk(ə)l] 美[bəˈtænɪk(ə)l]
+$adj. 植物（学）的
+%n. 植物制剂
+    stroll around the botanical garden
+#在植物园散步
+    The topical rain forest contains more than half of the earth's botanical species.
+#热带雨林包含一大半地球的植物种类。
+
+seamy: 英[ˈsiːmi] 美[ˈsiːmi]
+%adj. 丑恶的；露出线缝的
+    a seamy scar
+#裂缝似的伤疤
+    a seamy divorce case
+#不体面的离婚案件
+
+fatten: 英[ˈfæt(ə)n] 美[ˈfæt(ə)n]
+$vt. 养肥；使肥沃；使充实
+%vi. 养肥；（靠……）发财
+    fatten the children up with milk
+#用牛奶把孩子喂胖
+    Pigs fattened on corn.
+#猪靠吃谷物长肥。
+
+encipher: 英[ɪnˈsaɪfə] 美[enˈsaɪfər]
+%v. 把（电文、文本）译成密码
+    an enciphered telegram
+#密码电报
+
+inclement: 英[ɪnˈklemənt] 美[ɪnˈklemənt]
+%adj. 天气恶劣的；气候严酷的；狂风暴雨的；潮湿的；寒冷的
+    an inclement judge
+#严厉的法官
+    Inclement weather is common in winter.
+#恶劣的天气在冬天极为常见。
+
+gloat: 英[ɡləʊt] 美[ɡloʊt]
+$vi. 幸灾乐祸；心满意足地注视
+%n. 幸灾乐祸；贪婪的盯视；洋洋得意
+    gloat about/over the new job
+#对新工作感到心满意足；
+    gloat over others' distress
+#幸灾乐祸地看着别人的困境
+    He couldn't resist a little gloat when the woman who had sacked him lost her own job.
+#当那个解雇他的女人自己也丢了工作时，他禁不住有点幸灾乐祸。
+
+glee: 英[ɡliː] 美[ɡliː]
+$n. 快乐；欢欣；重唱歌曲
+%n. （Glee）人名；（法）格莱
+    laugh with glee
+#欢快地大笑；
+    in great/high glee
+#欢天喜地
+    When the check arrived, he hugged me in glee.
+#当支票送到时，他欣喜地拥抱我。
+
+guttle: 英[ˈɡʌt(ə)l] 美[ˈɡʌtl]
+%vt. 贪婪大嚼，狼吞虎咽
+    He guttled vast quantities of oysters and champagne at the party.
+#他在聚会时狼吞虎咽地吃了非常多的牡蛎，喝了非常多的香槟。
+
+extemporize: 英[ɪkˈstempəraɪz] 美[ɪkˈstempəraɪz]
+$vi. 即兴演奏或演说；临时凑合
+%vt. 即兴演奏或演说；当场作成
+    extemporize a shelter for the night
+#临时搭个棚过夜；
+    extemporize an after-dinner speech
+#即席发表餐后演说
+    He can extemporize any of these subjects.
+#针对这些主题中的任何一个他都能即席发言。
+
+disproof: 英[dɪsˈpruːf] 美[dɪsˈpruːf]
+%n. 反证；反驳；反证物；反驳的证据
+    He could not believe even with the disproof before his eyes.
+#甚至反证摆在眼前，他仍不能相信。
+
+aerate: 英[ˈeəreɪt] 美[ˈereɪt]
+%vt. 充气；让空气进入；使暴露于空气中
+    aerate the soil by digging
+#翻土使土通气
+
+frumpy: 英[ˈfrʌmpi] 美[ˈfrʌmpi]
+%adj. （女子）衣着过时的，傻里傻气的
+    He always wears really frumpy clothes.
+#他总是穿着完全过时的衣服。
+
+olfactory: 英[ɒlˈfæktəri] 美[ɑːlˈfæktəri]
+$adj. 嗅觉的；味道的
+%n. 嗅觉器官
+    the dog's olfactory organs
+#狗的嗅觉器官
+
+noose: 英[nuːs] 美[nuːs]
+$n. 套索；束缚；绞刑
+%vt. 用套索捉；使落入圈套
+    the noose of marriage
+#婚姻的束缚
+    He was sentenced to the noose for his crimes.
+#他因累累罪行而被判处绞刑。
+
+ineffable: 英[ɪnˈefəb(ə)l] 美[ɪnˈefəb(ə)l]
+%adj. 不可言喻的；不应说出的；难以形容的
+    ineffable joy
+#难以形容的喜悦；
+    ineffable disgust
+#说不出的厌恶；
+    an ineffable name
+#须避讳的名字
+
+cronyism: 英[ˈkrəʊniɪzəm] 美[ˈkroʊniɪzəm]
+%n. 任人唯亲；任用亲信
+    Many small town mayor and city official practice cronyism.
+#许多小镇的市长和大城市的官员都有任人唯亲的行为。
+
+missive: 英[ˈmɪsɪv] 美[ˈmɪsɪv]
+$n. 公文，公函；信件，信函
+%adj. 送出的
+    Your missive, while complete in other regards, skirted the subject of cost. 
+#你的信件虽然在其他方面很周全，但却回避了成本问题。
+
+cadge: 英[kædʒ] 美[kædʒ]
+$vi. 乞讨；骗得白食；行乞；贩卖
+$vt. 乞讨；行乞；贩卖
+%n. （Cadge）人名；（英）卡奇
+    The beggar cadged dimes from passers-by.
+#乞丐向路人讨钱。
+
+landslide: 英[ˈlændslaɪd] 美[ˈlændslaɪd]
+$n. [地质] 山崩；大胜利
+%vi. 发生山崩；以压倒优势获胜
+    win/lose the election by a landslide
+#在竞选中大获全胜/一败涂地
+    Many houses were destroyed in the landslide that followed the torrential rains.
+#暴雨过后的塌方使许多房屋被毁。
+
+hunker: 英[ˈhʌŋkə(r)] 美[ˈhʌŋkər]
+$vi. 蹲下，盘坐
+%n. 守旧者
+    I perform best when I can hunker down and do some undisturbed work.
+#我发现当自己盘腿而坐，并在没有干扰的环境下任务完成的特别好。
+
+runic: 英[ˈruːnɪk] 美[ˈruːnɪk]
+$adj. 古代北欧文字的；神秘的
+%n. 北欧古字碑文
+    runic inscriptions
+#如尼文字的铭文
+
+temporize: 英[ˈtempəraɪz] 美[ˈtempəraɪz]
+%vi. 拖延；妥协；顺应时势；迎合潮流
+    I can't permit you to temporize any longer.
+#我不能允许你再拖延时间了。
+
+peachy: 英[ˈpiːtʃi] 美[ˈpiːtʃi]
+%adj. 愉快的；极好的；桃色的；桃子似的；出色的
+    Everything looked just peachy.
+#看来一切都好得不能再好了。
+
+tasty: 英[ˈteɪsti] 美[ˈteɪsti]
+%adj. 美味的；<非正式> 有趣的；<英，非正式> 性感的，迷人的；善战的
+    Coarse salt shouldn't be used if you want to make tasty cakes.
+#如果你想做出美味的蛋糕，那么不要用粗盐。
+
+prong: 英[prɒŋ] 美[prɔːŋ]
+$n. 尖齿；方向；（俚语）阴茎；耙子；（多种工具的）尖头；（作战）分支
+%v. 刺，贯穿
+    He stabbed himself with the prongs of a fork.
+#他用叉子的尖齿截伤了自己。
+
+caucus: 英[ˈkɔːkəs] 美[ˈkɔːkəs]
+$n. 干部会议；核心会议；党团会议
+%vi. 召开干部会议；开核心会议
+    This multi-staged caucus takes several months.
+#这个多级会议常常历时好几个月。
+
+discretionary: 英[dɪˈskreʃənəri] 美[dɪˈskreʃəneri]
+%adj. 自由决定的，酌情决定的；代表委托人全权进行投资的
+    The magistrates were given wider discretionary power.
+#地方法官被赋予了更广泛的自由决定权。
+
+testy: 英[ˈtesti] 美[ˈtesti]
+%adj. 易怒的；暴躁的
+    His voice turned testy.
+#他的语气变得不耐烦了。
+
+expatriate: 英[ˌeksˈpætriət] 美[ˌeksˈpeɪtriət]
+$v. （强行或依法）把（某人）逐出本国，使移居国外；移居国外，定居国外
+$n. 旅居国外者，侨民；被流放者
+%adj. （人）旅居国外的；被流放国外的
+    They have expatriated themselves and now live in New York.
+#他们放弃了原国籍，现居纽约。
+
+lexicographer: 英[ˌleksɪˈkɒɡrəfə(r)] 美[ˌleksɪˈkɑːɡrəfər]
+%n. 词典编纂者
+    The lexicographer knew that the English lexis was changing.
+#字典编纂者知道英语词汇在不断变化。
+
+depute: 英[dɪˈpjuːt] 美[dɪˈpjuːt]
+$v. 向（某人）授权；委派（某人）
+%n. 受权人
+    She deputed the writing of a first draft to me.
+#她把写初稿的工作交给我。
+
+desist: 英[dɪˈzɪst] 美[dɪˈzɪst]
+%vi. 停止；断念
+    She never desisted from persuading him to return to his hometown.
+#她从未停止劝说他返回故乡。
+
+viscera: 英[ˈvɪsərə] 美[ˈvɪsərə]
+$n. 内脏；内容（viscus 的复数）
+%n. （Viscera）人名；（意）维谢拉
+    The heart, stomach, liver, intestines and kidney are viscera.
+#心、胃、肝、肠和肾为内脏。
+
+viscid: 英[ˈvɪsɪd] 美[ˈvɪsɪd]
+%adj. 粘质的；半流体的
+    The oil in this thick and viscid form can kill animals by poisoning them.
+#这种又浓又黏的石油能够使动物中毒致死。
+
+pettish: 英[ˈpetɪʃ] 美[ˈpetɪʃ]
+%adj. 易怒的；闹情绪的；怒气冲冲的
+    He was getting more and more pettish and hysterical.
+#他变得越来越任性，越来越歇斯底里。
+
+jounce: 英[dʒaʊns] 美[dʒaʊns]
+$vt. 使颠簸；使震动
+$vi. 颠簸，震动
+%n. 震动，颠簸
+    The truck jounced along the mountain road.
+#卡车在山路上颠簸着前行。
+
+wrist: 英[rɪst] 美[rɪst]
+%n. 手腕，腕关节；（四足动物前腿的）膝关节，（鸟翅膀的）腕；袖口，腕部；（机器的）曲柄销，肘节销
+    She noticed expensive watches on every wrist.
+#她注意到每人手上都戴着昂贵的手表。
+
+inappreciable: 英[ˌɪnəˈpriːʃəb(ə)l] 美[ˌɪnəˈpriːʃəbəl]
+%adj. 微不足道的
+    Comparing with the failure that you lost yourself, all failure is more inappreciable.
+#所有的失败，与失去自己的失败比起来，更是微不足道。
+
+pestle: 英[ˈpes(ə)l] 美[ˈpes(ə)l]
+$n. 杵，碾槌
+%v. 用杵捣，用槌磨
+    She ground the rice to powder with a pestle.
+#她用杵把米碾碎。
+
+debar: 英[dɪˈbɑː(r)] 美[dɪˈbɑːr]
+$vt. 阻止；排除；防止
+%n. （Debar）人名；（法）德巴尔
+    People under eighteen are debarred from voting.
+#18岁以下的人无权投票。
+
+privation: 英[praɪˈveɪʃ(ə)n] 美[praɪˈveɪʃ(ə)n]
+%n. 贫困；丧失；被剥夺了某物的状态
+    Privation of the company of all other human beings is a serious hardship.
+#被迫不能与别人交往是一种极大的苦难。
+
+consortium: 英[kənˈsɔːtiəm] 美[kənˈsɔːrʃiəm]
+%n. 联合企业，财团；<法律>配偶的相互权利；联合
+    It is a consortium of local businessmen.
+#这是个由当地商人组成的财团。
+
+containerize: 英[kənˈteɪnəraɪz] 美[kənˈteɪnəˌraɪz]
+%v. 用集装箱装运
+    The goods must be containerized for export.
+#这批货物必须用集装箱装运出口。
+
+supplicate: 英[ˈsʌplɪˌkeɪt] 美[ˈsʌpləˌkeɪt]
+$vt. 恳求，哀求；恳请
+%vi. 哀求；恳请；祈求
+    I can't brook to be supplicated.
+#我不忍别人向我哀求。
+
+platonic: 英[pləˈtɒnɪk] 美[pləˈtɑːnɪk]
+%adj. 理想的；柏拉图哲学的；不切实际的；纯精神友谊的
+    She preferred to keep their relationship platonic.
+#她倒希望他们能保持一种纯精神的恋爱关系。
+
+balderdash: 英[ˈbɔːldədæʃ] 美[ˈbɔːldərdæʃ]
+%n. 胡言乱语；梦呓
+    That story is 10 percent fact and 90 percent balderdash.
+#那个说法一成是事实，九成是胡说八道。
+
+tempest: 英[ˈtempɪst] 美[ˈtempɪst]
+$n. 暴风雨；骚动；动乱
+$vt. 使狂怒；扰乱，使激动
+$vi. 小题大作；起大风暴
+%n. （Tempest）人名；（英）坦皮斯特
+    I haven't foreseen the tempest my request would arouse.
+#我没有料到我的请求会掀起这么大一场风波。
+
+mote: 英[məʊt] 美[moʊt]
+$n. 尘埃；微粒；小错
+%n. （Mote）人名；（英、法、塞）莫特
+    A drifting mote of dust coming to rest on a table.
+#空气中飘动的一粒尘埃落到桌上。
+
+gracile: 英[ˈɡræsaɪl] 美[ˈɡræsəl]
+%adj. 纤弱的，细长的；纤细优美的
+    a gracile rosy-fleshed woman
+#婀娜多姿、肤色红润的女子
+
+bigot: 英[ˈbɪɡət] 美[ˈbɪɡət]
+$n. 偏执的人；顽固者；盲信者
+%n. （Bigot）人名；（法）比戈
+    He was known to be a loud-mouthed, opinionated bigot.
+#他以一个高谈阔论、固执己见的偏执狂而出名。
+
+nauseate: 英[ˈnɔːzieɪt] 美[ˈnɔːzieɪt]
+$vi. 作呕；厌恶；产生恶感
+%vt. 使厌恶；使恶心；使作呕
+    She is nauseated by the smell of meat cooking.
+#她闻到煮肉的气味就感到恶心。
+
+acquisitive: 英[əˈkwɪzətɪv] 美[əˈkwɪzətɪv]
+%adj. 渴望得到的，贪婪的
+    Like many acquisitive conglomerates, it experienced a rapid ascent and sharp fall.
+#像许多贪婪的企业集团一样，它也经历了大起大落。
+
+purloin: 英[pɜːˈlɔɪn] 美[pərˈlɔɪn]
+$vt. 偷窃
+%vi. 偷窃
+    He was accused of purloining others' private letters.
+#他被指控偷了别人的私人信件。
+
+lionize: 英[ˈlaɪənaɪz] 美[ˈlaɪənaɪz]
+$vt. 把……奉为名人；游览名胜
+%vi. 游览名胜
+    His first book was so well received that he came to London to be lionized.
+#他的第一本书如此受欢迎以至于他到达伦敦时被奉为名人。
+
+=======
+induce: 英[ɪnˈdjuːs] 美[ɪnˈduːs]
+%v. 引诱，诱使；引起，导致；给（孕妇）引产，（用药物）催生；归纳出
+    Lack of proper care and love in early childhood can induce bad behavior in young people.
+#幼年时缺少必要的关心和爱会导致青年时期犯错。
+
+fracture: 英[ˈfræktʃə(r)] 美[ˈfræktʃər]
+$n. 破裂，断裂；骨折；（尤指岩层的）裂缝，裂痕；（语音）元音割裂；由单元音割裂成的复合元音
+%v. 破裂，折断；瓦解，分裂；毁坏，破坏；违反，越出……范围
+    The pipes will fracture if the temperature drops too low.
+#假如温度降得太低，管道会破裂的。
+
+signify: 英[ˈsɪɡnɪfaɪ] 美[ˈsɪɡnɪfaɪ]
+%v. 意味着，象征；<正式> 表达，显示（感情、意愿等）；<正式> 要紧，有重要性；<美，非正式>（作为一种游戏或习俗，美国黑人之间）相互吹牛，相互辱骂
+    Red often signifies danger.
+#红色通常标志着危险。
+
+objection: 英[əbˈdʒekʃ(ə)n] 美[əbˈdʒekʃ(ə)n]
+%n. 反对的理由；反对，异议；抗议（律师在审判中提出异议的插话）；恼火，烦心；缺点，缺陷；妨碍，障碍
+    The proposal will go ahead despite strong objections from the public.
+#尽管公众强烈反对，这项提案仍将付诸实施。
+
+borough: 英[ˈbʌrə] 美[ˈbɜːroʊ]
+$n. 区；自治的市镇
+%n. （Borough）人名；（英）伯勒
+    The city is made up of 8 boroughs.
+#这座城市由8个行政区组成。
+
+bosom: 英[ˈbʊzəm] 美[ˈbʊzəm]
+$n. （女人的）胸，乳房；（女人的）胸衣；内心，胸怀；安全而舒适的地方，温馨的氛围；胸前，怀；衣服的胸部，胸襟
+$adj. （朋友）亲密的，知心的
+%v. 怀抱；把……藏在心中
+    hold the child to one's bosom
+#把婴儿抱在怀里；
+    a bosom friend
+#密友；
+    spend Christmas in the bosom of one's family
+#在家庭温暖的怀抱里度过圣诞节；
+    take sth. to one's bosom
+#将某事深藏心中；
+    The baby sleeps in the mother's bosom.
+#婴儿在母亲的怀抱里睡着了。
+
+botanical: 英[bəˈtænɪk(ə)l] 美[bəˈtænɪk(ə)l]
+$adj. 植物（学）的
+%n. 植物制剂
+    stroll around the botanical garden
+#在植物园散步
+    The topical rain forest contains more than half of the earth's botanical species.
+#热带雨林包含一大半地球的植物种类。
+
+seamy: 英[ˈsiːmi] 美[ˈsiːmi]
+%adj. 丑恶的；露出线缝的
+    a seamy scar
+#裂缝似的伤疤
+    a seamy divorce case
+#不体面的离婚案件
+
+fatten: 英[ˈfæt(ə)n] 美[ˈfæt(ə)n]
+$vt. 养肥；使肥沃；使充实
+%vi. 养肥；（靠……）发财
+    fatten the children up with milk
+#用牛奶把孩子喂胖
+    Pigs fattened on corn.
+#猪靠吃谷物长肥。
+
+encipher: 英[ɪnˈsaɪfə] 美[enˈsaɪfər]
+%v. 把（电文、文本）译成密码
+    an enciphered telegram
+#密码电报
+
+inclement: 英[ɪnˈklemənt] 美[ɪnˈklemənt]
+%adj. 天气恶劣的；气候严酷的；狂风暴雨的；潮湿的；寒冷的
+    an inclement judge
+#严厉的法官
+    Inclement weather is common in winter.
+#恶劣的天气在冬天极为常见。
+
+gloat: 英[ɡləʊt] 美[ɡloʊt]
+$vi. 幸灾乐祸；心满意足地注视
+%n. 幸灾乐祸；贪婪的盯视；洋洋得意
+    gloat about/over the new job
+#对新工作感到心满意足；
+    gloat over others' distress
+#幸灾乐祸地看着别人的困境
+    He couldn't resist a little gloat when the woman who had sacked him lost her own job.
+#当那个解雇他的女人自己也丢了工作时，他禁不住有点幸灾乐祸。
+
+glee: 英[ɡliː] 美[ɡliː]
+$n. 快乐；欢欣；重唱歌曲
+%n. （Glee）人名；（法）格莱
+    laugh with glee
+#欢快地大笑；
+    in great/high glee
+#欢天喜地
+    When the check arrived, he hugged me in glee.
+#当支票送到时，他欣喜地拥抱我。
+
+guttle: 英[ˈɡʌt(ə)l] 美[ˈɡʌtl]
+%vt. 贪婪大嚼，狼吞虎咽
+    He guttled vast quantities of oysters and champagne at the party.
+#他在聚会时狼吞虎咽地吃了非常多的牡蛎，喝了非常多的香槟。
+
+extemporize: 英[ɪkˈstempəraɪz] 美[ɪkˈstempəraɪz]
+$vi. 即兴演奏或演说；临时凑合
+%vt. 即兴演奏或演说；当场作成
+    extemporize a shelter for the night
+#临时搭个棚过夜；
+    extemporize an after-dinner speech
+#即席发表餐后演说
+    He can extemporize any of these subjects.
+#针对这些主题中的任何一个他都能即席发言。
+
+disproof: 英[dɪsˈpruːf] 美[dɪsˈpruːf]
+%n. 反证；反驳；反证物；反驳的证据
+    He could not believe even with the disproof before his eyes.
+#甚至反证摆在眼前，他仍不能相信。
+
+aerate: 英[ˈeəreɪt] 美[ˈereɪt]
+%vt. 充气；让空气进入；使暴露于空气中
+    aerate the soil by digging
+#翻土使土通气
+
+frumpy: 英[ˈfrʌmpi] 美[ˈfrʌmpi]
+%adj. （女子）衣着过时的，傻里傻气的
+    He always wears really frumpy clothes.
+#他总是穿着完全过时的衣服。
+
+olfactory: 英[ɒlˈfæktəri] 美[ɑːlˈfæktəri]
+$adj. 嗅觉的；味道的
+%n. 嗅觉器官
+    the dog's olfactory organs
+#狗的嗅觉器官
+
+noose: 英[nuːs] 美[nuːs]
+$n. 套索；束缚；绞刑
+%vt. 用套索捉；使落入圈套
+    the noose of marriage
+#婚姻的束缚
+    He was sentenced to the noose for his crimes.
+#他因累累罪行而被判处绞刑。
+
+ineffable: 英[ɪnˈefəb(ə)l] 美[ɪnˈefəb(ə)l]
+%adj. 不可言喻的；不应说出的；难以形容的
+    ineffable joy
+#难以形容的喜悦；
+    ineffable disgust
+#说不出的厌恶；
+    an ineffable name
+#须避讳的名字
+
+cronyism: 英[ˈkrəʊniɪzəm] 美[ˈkroʊniɪzəm]
+%n. 任人唯亲；任用亲信
+    Many small town mayor and city official practice cronyism.
+#许多小镇的市长和大城市的官员都有任人唯亲的行为。
+
+missive: 英[ˈmɪsɪv] 美[ˈmɪsɪv]
+$n. 公文，公函；信件，信函
+%adj. 送出的
+    Your missive, while complete in other regards, skirted the subject of cost. 
+#你的信件虽然在其他方面很周全，但却回避了成本问题。
+
+cadge: 英[kædʒ] 美[kædʒ]
+$vi. 乞讨；骗得白食；行乞；贩卖
+$vt. 乞讨；行乞；贩卖
+%n. （Cadge）人名；（英）卡奇
+    The beggar cadged dimes from passers-by.
+#乞丐向路人讨钱。
+
+landslide: 英[ˈlændslaɪd] 美[ˈlændslaɪd]
+$n. [地质] 山崩；大胜利
+%vi. 发生山崩；以压倒优势获胜
+    win/lose the election by a landslide
+#在竞选中大获全胜/一败涂地
+    Many houses were destroyed in the landslide that followed the torrential rains.
+#暴雨过后的塌方使许多房屋被毁。
+
+hunker: 英[ˈhʌŋkə(r)] 美[ˈhʌŋkər]
+$vi. 蹲下，盘坐
+%n. 守旧者
+    I perform best when I can hunker down and do some undisturbed work.
+#我发现当自己盘腿而坐，并在没有干扰的环境下任务完成的特别好。
+
+runic: 英[ˈruːnɪk] 美[ˈruːnɪk]
+$adj. 古代北欧文字的；神秘的
+%n. 北欧古字碑文
+    runic inscriptions
+#如尼文字的铭文
+
+temporize: 英[ˈtempəraɪz] 美[ˈtempəraɪz]
+%vi. 拖延；妥协；顺应时势；迎合潮流
+    I can't permit you to temporize any longer.
+#我不能允许你再拖延时间了。
+
+peachy: 英[ˈpiːtʃi] 美[ˈpiːtʃi]
+%adj. 愉快的；极好的；桃色的；桃子似的；出色的
+    Everything looked just peachy.
+#看来一切都好得不能再好了。
+
+tasty: 英[ˈteɪsti] 美[ˈteɪsti]
+%adj. 美味的；<非正式> 有趣的；<英，非正式> 性感的，迷人的；善战的
+    Coarse salt shouldn't be used if you want to make tasty cakes.
+#如果你想做出美味的蛋糕，那么不要用粗盐。
+
+prong: 英[prɒŋ] 美[prɔːŋ]
+$n. 尖齿；方向；（俚语）阴茎；耙子；（多种工具的）尖头；（作战）分支
+%v. 刺，贯穿
+    He stabbed himself with the prongs of a fork.
+#他用叉子的尖齿截伤了自己。
+
+caucus: 英[ˈkɔːkəs] 美[ˈkɔːkəs]
+$n. 干部会议；核心会议；党团会议
+%vi. 召开干部会议；开核心会议
+    This multi-staged caucus takes several months.
+#这个多级会议常常历时好几个月。
+
+discretionary: 英[dɪˈskreʃənəri] 美[dɪˈskreʃəneri]
+%adj. 自由决定的，酌情决定的；代表委托人全权进行投资的
+    The magistrates were given wider discretionary power.
+#地方法官被赋予了更广泛的自由决定权。
+
+testy: 英[ˈtesti] 美[ˈtesti]
+%adj. 易怒的；暴躁的
+    His voice turned testy.
+#他的语气变得不耐烦了。
+
+expatriate: 英[ˌeksˈpætriət] 美[ˌeksˈpeɪtriət]
+$v. （强行或依法）把（某人）逐出本国，使移居国外；移居国外，定居国外
+$n. 旅居国外者，侨民；被流放者
+%adj. （人）旅居国外的；被流放国外的
+    They have expatriated themselves and now live in New York.
+#他们放弃了原国籍，现居纽约。
+
+lexicographer: 英[ˌleksɪˈkɒɡrəfə(r)] 美[ˌleksɪˈkɑːɡrəfər]
+%n. 词典编纂者
+    The lexicographer knew that the English lexis was changing.
+#字典编纂者知道英语词汇在不断变化。
+
+depute: 英[dɪˈpjuːt] 美[dɪˈpjuːt]
+$v. 向（某人）授权；委派（某人）
+%n. 受权人
+    She deputed the writing of a first draft to me.
+#她把写初稿的工作交给我。
+
+desist: 英[dɪˈzɪst] 美[dɪˈzɪst]
+%vi. 停止；断念
+    She never desisted from persuading him to return to his hometown.
+#她从未停止劝说他返回故乡。
+
+viscera: 英[ˈvɪsərə] 美[ˈvɪsərə]
+$n. 内脏；内容（viscus 的复数）
+%n. （Viscera）人名；（意）维谢拉
+    The heart, stomach, liver, intestines and kidney are viscera.
+#心、胃、肝、肠和肾为内脏。
+
+viscid: 英[ˈvɪsɪd] 美[ˈvɪsɪd]
+%adj. 粘质的；半流体的
+    The oil in this thick and viscid form can kill animals by poisoning them.
+#这种又浓又黏的石油能够使动物中毒致死。
+
+pettish: 英[ˈpetɪʃ] 美[ˈpetɪʃ]
+%adj. 易怒的；闹情绪的；怒气冲冲的
+    He was getting more and more pettish and hysterical.
+#他变得越来越任性，越来越歇斯底里。
+
+jounce: 英[dʒaʊns] 美[dʒaʊns]
+$vt. 使颠簸；使震动
+$vi. 颠簸，震动
+%n. 震动，颠簸
+    The truck jounced along the mountain road.
+#卡车在山路上颠簸着前行。
+
+wrist: 英[rɪst] 美[rɪst]
+%n. 手腕，腕关节；（四足动物前腿的）膝关节，（鸟翅膀的）腕；袖口，腕部；（机器的）曲柄销，肘节销
+    She noticed expensive watches on every wrist.
+#她注意到每人手上都戴着昂贵的手表。
+
+inappreciable: 英[ˌɪnəˈpriːʃəb(ə)l] 美[ˌɪnəˈpriːʃəbəl]
+%adj. 微不足道的
+    Comparing with the failure that you lost yourself, all failure is more inappreciable.
+#所有的失败，与失去自己的失败比起来，更是微不足道。
+
+pestle: 英[ˈpes(ə)l] 美[ˈpes(ə)l]
+$n. 杵，碾槌
+%v. 用杵捣，用槌磨
+    She ground the rice to powder with a pestle.
+#她用杵把米碾碎。
+
+debar: 英[dɪˈbɑː(r)] 美[dɪˈbɑːr]
+$vt. 阻止；排除；防止
+%n. （Debar）人名；（法）德巴尔
+    People under eighteen are debarred from voting.
+#18岁以下的人无权投票。
+
+privation: 英[praɪˈveɪʃ(ə)n] 美[praɪˈveɪʃ(ə)n]
+%n. 贫困；丧失；被剥夺了某物的状态
+    Privation of the company of all other human beings is a serious hardship.
+#被迫不能与别人交往是一种极大的苦难。
+
+consortium: 英[kənˈsɔːtiəm] 美[kənˈsɔːrʃiəm]
+%n. 联合企业，财团；<法律>配偶的相互权利；联合
+    It is a consortium of local businessmen.
+#这是个由当地商人组成的财团。
+
+containerize: 英[kənˈteɪnəraɪz] 美[kənˈteɪnəˌraɪz]
+%v. 用集装箱装运
+    The goods must be containerized for export.
+#这批货物必须用集装箱装运出口。
+
+supplicate: 英[ˈsʌplɪˌkeɪt] 美[ˈsʌpləˌkeɪt]
+$vt. 恳求，哀求；恳请
+%vi. 哀求；恳请；祈求
+    I can't brook to be supplicated.
+#我不忍别人向我哀求。
+
+platonic: 英[pləˈtɒnɪk] 美[pləˈtɑːnɪk]
+%adj. 理想的；柏拉图哲学的；不切实际的；纯精神友谊的
+    She preferred to keep their relationship platonic.
+#她倒希望他们能保持一种纯精神的恋爱关系。
+
+balderdash: 英[ˈbɔːldədæʃ] 美[ˈbɔːldərdæʃ]
+%n. 胡言乱语；梦呓
+    That story is 10 percent fact and 90 percent balderdash.
+#那个说法一成是事实，九成是胡说八道。
+
+tempest: 英[ˈtempɪst] 美[ˈtempɪst]
+$n. 暴风雨；骚动；动乱
+$vt. 使狂怒；扰乱，使激动
+$vi. 小题大作；起大风暴
+%n. （Tempest）人名；（英）坦皮斯特
+    I haven't foreseen the tempest my request would arouse.
+#我没有料到我的请求会掀起这么大一场风波。
+
+mote: 英[məʊt] 美[moʊt]
+$n. 尘埃；微粒；小错
+%n. （Mote）人名；（英、法、塞）莫特
+    A drifting mote of dust coming to rest on a table.
+#空气中飘动的一粒尘埃落到桌上。
+
+gracile: 英[ˈɡræsaɪl] 美[ˈɡræsəl]
+%adj. 纤弱的，细长的；纤细优美的
+    a gracile rosy-fleshed woman
+#婀娜多姿、肤色红润的女子
+
+bigot: 英[ˈbɪɡət] 美[ˈbɪɡət]
+$n. 偏执的人；顽固者；盲信者
+%n. （Bigot）人名；（法）比戈
+    He was known to be a loud-mouthed, opinionated bigot.
+#他以一个高谈阔论、固执己见的偏执狂而出名。
+
+nauseate: 英[ˈnɔːzieɪt] 美[ˈnɔːzieɪt]
+$vi. 作呕；厌恶；产生恶感
+%vt. 使厌恶；使恶心；使作呕
+    She is nauseated by the smell of meat cooking.
+#她闻到煮肉的气味就感到恶心。
+
+acquisitive: 英[əˈkwɪzətɪv] 美[əˈkwɪzətɪv]
+%adj. 渴望得到的，贪婪的
+    Like many acquisitive conglomerates, it experienced a rapid ascent and sharp fall.
+#像许多贪婪的企业集团一样，它也经历了大起大落。
+
+purloin: 英[pɜːˈlɔɪn] 美[pərˈlɔɪn]
+$vt. 偷窃
+%vi. 偷窃
+    He was accused of purloining others' private letters.
+#他被指控偷了别人的私人信件。
+
+lionize: 英[ˈlaɪənaɪz] 美[ˈlaɪənaɪz]
+$vt. 把……奉为名人；游览名胜
+%vi. 游览名胜
+    His first book was so well received that he came to London to be lionized.
+#他的第一本书如此受欢迎以至于他到达伦敦时被奉为名人。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

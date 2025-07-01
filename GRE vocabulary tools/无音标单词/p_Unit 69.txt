@@ -1,0 +1,633 @@
+<<<<<<< HEAD
+slobber:
+    slobber over sb.'s beauty
+#对某人的美色垂涎欲滴
+    She slobbered the medicine on her night clothes.
+#药水从她口中滴到睡衣上。
+
+vaunt:
+    Patience and discipline were vaunted as virtues in the army.
+#耐心和纪律被夸耀为军队的美德。
+
+stentorian:
+    Suddenly a stentorian voice boomed across the hall.
+#突然，一个洪亮的声音响彻大厅。
+
+apocryphal:
+    an apocryphal story
+#杜撰的故事
+
+valedictorian:
+    If you were valedictorian of your university, you can make a note of that.
+#如果你是就读大学的优秀毕业生，那你可以强调这一点。
+
+
+expurgate:
+    expurgate a book
+#修订了一本书
+    She expurgated the objectionable passage from. the book.
+#她把书中令人反感的一段删去了。
+
+hyperactive:
+    the child's hyperactive imagination
+#那孩子极度活跃的想象力
+
+chimera:
+    a chimera in sb.'s brain
+#某人头脑中的幻觉
+
+acuity:
+    man of great political acuity
+#具有高度政治敏感的人
+    Tiredness also affects visual acuity.
+#疲劳也影响视力。
+
+charisma:
+    the charisma of a popular actor
+#受欢迎的演员的魅力
+    He had the unexplainable charisma of a born leader.
+#他有天生领袖人物所具有的那种无法解释的魅力。
+
+blight:
+    a blight upon sb.'s hopes
+#使某人的希望落空
+    a blight on sb.'s life
+#毁掉某人一生的因素
+    Her career has been blighted by some clashes with the authorities.
+#她和当权者的一些冲突令她的事业遭了殃。
+
+estrange:
+    be estranged from each other
+#相互疏远
+    estrange oneself from society
+#与社会脱离
+    one's estranged wife
+#分居的妻子
+    She has been estranged from her husband for several years.
+#她和丈夫已经分居多年。
+
+oblique:
+    give sb. an oblique glance
+#斜视某人一眼
+    make oblique accusations
+#指桑骂槐
+    an oblique answer
+#躲躲闪闪的答复
+    In her speech she made several oblique references to the current financial situation.
+#她在发言中几次拐弯抹角地提到了当前的财政状况。
+
+schism:
+    The schism in the party will damage its chance of being reelected.
+#该党内部的分裂将损害其连任的机会。
+
+fetid:
+    The fetid air of the prison cell made her want to vomit.
+#牢房里恶臭的空气使她想吐。
+
+indubitable:
+    indubitable evidence
+#不容置疑的证据
+
+fete:
+    the village fete
+#村民游乐会
+    fete a visiting celebrity
+#盛宴招待一位来访的名人
+    be feted as a great thinker
+#被誉为伟人的思想家
+    The ball was the greatest fete of the season.
+#这次舞会是这个季节最大的盛会。
+
+posthumous:
+    a posthumous child
+#遗腹子
+    posthumous works
+#遗作
+    The posthumous publication of the actress's memoirs aroused a lot of interest.
+#这位女演员死后回忆录的出版引起了许多人的兴趣。
+
+ado:
+    have/make much ado
+#费尽心心血
+    much ado about nothing
+#无事生非
+    without more/further ado
+#干脆，立即
+    And now, without further ado, let me introduce our next speaker.
+#下面，闲话少说，让我来介绍我们下一个演讲者。
+
+adultery:
+    Her second novel deals with the adultery of the class.
+#她的第二部小说涉及了该阶级的通奸行为。
+
+adulterate:
+    There were complaints that the beer had been adulterated with water.
+#有人投诉说这啤酒里掺了水
+
+affable:
+    He stuck me as an affable sort of person.
+#他给我的印象是一个和蔼可亲的人。
+
+crux:
+    The crux of the country's economic problems is its foreign debt.
+#外债是这个国家经济问题的症结所在。
+
+thespian:
+    thespian skill
+#戏剧技巧
+    thespian talent
+#戏剧天オ
+    The biography covers a thespian's career which spanned for four decades.
+#这部传记讲述了一个演员40年的戏剧生涯。
+
+petrify:
+    petrified wood
+#石化的木头
+    The warning whistle petrified the children.
+#警笛声把孩子们吓呆了。
+
+diagram:
+    draw a diagram
+#绘制图表
+    diagram a sentence
+#用图解法分析句子
+
+postiche:
+    The painting turned out to be a postiche.
+#这幅油画被证明是个赝品。
+
+rebarbative:
+    a rebarbative character
+#讨厌的家伙
+    a rebarbative hat
+#丑陋的帽子
+
+adventitious:
+    an adventitious event
+#偶然事件
+    adventitious aid
+#外来援助
+    an adventitious remark
+#附加备注
+
+gratification:
+    The gratification of every wish of every person is not possible.
+#满足每个人的每一个愿望是不可能的。
+
+pallid:
+    a pallid countenance
+#病容
+    a pallid moon
+#惨白的月亮
+    a pallid performance
+#呆板的表演
+
+transgression:
+    commit a transgression of college rules
+#违反校规
+    He apologized at once for his transgression.
+#他对自己所犯的过失立即表示了道歉。
+
+reprehend:
+    reprehend the imperfections of others
+#指摘他人的缺点
+    The man deserves to be severely reprehended.
+#那人应该受到严厉的遗责。
+
+prolix:
+    a prolix speech
+#冗长的演讲
+    be prolix with one's pen
+#好写长篇大论的文章
+
+diaphanous:
+    diaphanous silk veils
+#透明的丝绸面纱
+    a diaphanous hope of success
+#隐约的成功希望
+
+guileless:
+    People's liking for her guileless campaign style was enough to give her victory in the election.
+#人们喜欢她诚实的竞选风格，这足以使她在选举中获胜。
+
+reincarnate:
+    be reincarnated as a bull
+#转世变成一头公牛
+    His father's talents are reincarnated in his brother.
+#他父亲的才能在他的兄弟身上重新体现了。
+
+omnivorous:
+    an omnivorous reader
+#什么书都看的读者
+    Man is an omnivorous animal.
+#人是杂食动物。
+
+overreach:
+    overreach one's authority
+#越权
+    overreach sb. in a bargain
+#在交易中诈骗某人
+    I think he was overreaching himself in taking on that job, which he really knew nothing about.
+#我认为他做那件工作是自不量力，因为他对其一无所知。
+
+disembody:
+    a disembodied spirit
+#游魂
+    a disembodied ideal
+#脱离现实的观念
+    The play of light off the dome's glass further served to disembody it.
+#将光从穹顶玻璃射出使它显得更加游离。
+
+devotional:
+    devotional music
+#祈祷音乐
+    devotional practices
+#祈祷仪式
+
+canon:
+    the canons of good taste
+#高雅趣味的标准
+    newspaper canons
+#报界的准则
+
+sacrilege:
+    Building a motorway through the forest would be sacrilege.
+#在这个森林中修高速公路是暴珍天物。
+
+puffery:
+    In spite of media puffery, her latest novel failed to make it into the bestseller list.
+#尽管媒体大肆宣传，她的最新小说仍未能进人畅销书名单。
+
+frenzy:
+    be in a frenzy
+#发狂
+    They whipped up a nationalist frenzy among the excitable crowds.
+#他们在容易激动的群众中煸起民族主义的狂热。
+
+awry:
+    glance awry
+#斜视
+    go/run awry
+#走上邪路，出错
+    Everything that goes awry in the town is blamed on the nuclear power station.
+#镇上出的一切差错都归咎于核电站。
+
+unconscionable:
+    an unconscionable villain
+#恣意妄为的恶棍
+    an unconscionable number of mistakes
+#过量的错误
+    unconscionable sales practices
+#极不正当的推销伎俩
+
+farewell:
+    make one's farewell
+#告别
+    wave one's farewell to guests
+#向客人们挥手告别
+    She bade me farewells at the gate.
+#她在门口向我告别。
+
+disfigure:
+    Many of the wounded had been badly disfigured
+#受伤者中很多被严重毁容。
+
+crudity:
+    the crudities of the business world
+#商业界种种粗鄙的谋利行径
+
+promenade:
+    take a promenade in the street
+#在大街上溜达
+    a promenade at sea
+#海上的航游
+    promenade along the seafront
+#沿海滨散步
+
+full-bodied:
+    a full-bodied soup
+#浓汤
+    a full-bodied novel
+#内容充实的小说
+
+incongruent:
+    The style of serving was incongruent with a holiday of this style and expense.
+#这样的服务配不上这种风格和价位的度假。
+
+=======
+slobber:
+    slobber over sb.'s beauty
+#对某人的美色垂涎欲滴
+    She slobbered the medicine on her night clothes.
+#药水从她口中滴到睡衣上。
+
+vaunt:
+    Patience and discipline were vaunted as virtues in the army.
+#耐心和纪律被夸耀为军队的美德。
+
+stentorian:
+    Suddenly a stentorian voice boomed across the hall.
+#突然，一个洪亮的声音响彻大厅。
+
+apocryphal:
+    an apocryphal story
+#杜撰的故事
+
+valedictorian:
+    If you were valedictorian of your university, you can make a note of that.
+#如果你是就读大学的优秀毕业生，那你可以强调这一点。
+
+
+expurgate:
+    expurgate a book
+#修订了一本书
+    She expurgated the objectionable passage from. the book.
+#她把书中令人反感的一段删去了。
+
+hyperactive:
+    the child's hyperactive imagination
+#那孩子极度活跃的想象力
+
+chimera:
+    a chimera in sb.'s brain
+#某人头脑中的幻觉
+
+acuity:
+    man of great political acuity
+#具有高度政治敏感的人
+    Tiredness also affects visual acuity.
+#疲劳也影响视力。
+
+charisma:
+    the charisma of a popular actor
+#受欢迎的演员的魅力
+    He had the unexplainable charisma of a born leader.
+#他有天生领袖人物所具有的那种无法解释的魅力。
+
+blight:
+    a blight upon sb.'s hopes
+#使某人的希望落空
+    a blight on sb.'s life
+#毁掉某人一生的因素
+    Her career has been blighted by some clashes with the authorities.
+#她和当权者的一些冲突令她的事业遭了殃。
+
+estrange:
+    be estranged from each other
+#相互疏远
+    estrange oneself from society
+#与社会脱离
+    one's estranged wife
+#分居的妻子
+    She has been estranged from her husband for several years.
+#她和丈夫已经分居多年。
+
+oblique:
+    give sb. an oblique glance
+#斜视某人一眼
+    make oblique accusations
+#指桑骂槐
+    an oblique answer
+#躲躲闪闪的答复
+    In her speech she made several oblique references to the current financial situation.
+#她在发言中几次拐弯抹角地提到了当前的财政状况。
+
+schism:
+    The schism in the party will damage its chance of being reelected.
+#该党内部的分裂将损害其连任的机会。
+
+fetid:
+    The fetid air of the prison cell made her want to vomit.
+#牢房里恶臭的空气使她想吐。
+
+indubitable:
+    indubitable evidence
+#不容置疑的证据
+
+fete:
+    the village fete
+#村民游乐会
+    fete a visiting celebrity
+#盛宴招待一位来访的名人
+    be feted as a great thinker
+#被誉为伟人的思想家
+    The ball was the greatest fete of the season.
+#这次舞会是这个季节最大的盛会。
+
+posthumous:
+    a posthumous child
+#遗腹子
+    posthumous works
+#遗作
+    The posthumous publication of the actress's memoirs aroused a lot of interest.
+#这位女演员死后回忆录的出版引起了许多人的兴趣。
+
+ado:
+    have/make much ado
+#费尽心心血
+    much ado about nothing
+#无事生非
+    without more/further ado
+#干脆，立即
+    And now, without further ado, let me introduce our next speaker.
+#下面，闲话少说，让我来介绍我们下一个演讲者。
+
+adultery:
+    Her second novel deals with the adultery of the class.
+#她的第二部小说涉及了该阶级的通奸行为。
+
+adulterate:
+    There were complaints that the beer had been adulterated with water.
+#有人投诉说这啤酒里掺了水
+
+affable:
+    He stuck me as an affable sort of person.
+#他给我的印象是一个和蔼可亲的人。
+
+crux:
+    The crux of the country's economic problems is its foreign debt.
+#外债是这个国家经济问题的症结所在。
+
+thespian:
+    thespian skill
+#戏剧技巧
+    thespian talent
+#戏剧天オ
+    The biography covers a thespian's career which spanned for four decades.
+#这部传记讲述了一个演员40年的戏剧生涯。
+
+petrify:
+    petrified wood
+#石化的木头
+    The warning whistle petrified the children.
+#警笛声把孩子们吓呆了。
+
+diagram:
+    draw a diagram
+#绘制图表
+    diagram a sentence
+#用图解法分析句子
+
+postiche:
+    The painting turned out to be a postiche.
+#这幅油画被证明是个赝品。
+
+rebarbative:
+    a rebarbative character
+#讨厌的家伙
+    a rebarbative hat
+#丑陋的帽子
+
+adventitious:
+    an adventitious event
+#偶然事件
+    adventitious aid
+#外来援助
+    an adventitious remark
+#附加备注
+
+gratification:
+    The gratification of every wish of every person is not possible.
+#满足每个人的每一个愿望是不可能的。
+
+pallid:
+    a pallid countenance
+#病容
+    a pallid moon
+#惨白的月亮
+    a pallid performance
+#呆板的表演
+
+transgression:
+    commit a transgression of college rules
+#违反校规
+    He apologized at once for his transgression.
+#他对自己所犯的过失立即表示了道歉。
+
+reprehend:
+    reprehend the imperfections of others
+#指摘他人的缺点
+    The man deserves to be severely reprehended.
+#那人应该受到严厉的遗责。
+
+prolix:
+    a prolix speech
+#冗长的演讲
+    be prolix with one's pen
+#好写长篇大论的文章
+
+diaphanous:
+    diaphanous silk veils
+#透明的丝绸面纱
+    a diaphanous hope of success
+#隐约的成功希望
+
+guileless:
+    People's liking for her guileless campaign style was enough to give her victory in the election.
+#人们喜欢她诚实的竞选风格，这足以使她在选举中获胜。
+
+reincarnate:
+    be reincarnated as a bull
+#转世变成一头公牛
+    His father's talents are reincarnated in his brother.
+#他父亲的才能在他的兄弟身上重新体现了。
+
+omnivorous:
+    an omnivorous reader
+#什么书都看的读者
+    Man is an omnivorous animal.
+#人是杂食动物。
+
+overreach:
+    overreach one's authority
+#越权
+    overreach sb. in a bargain
+#在交易中诈骗某人
+    I think he was overreaching himself in taking on that job, which he really knew nothing about.
+#我认为他做那件工作是自不量力，因为他对其一无所知。
+
+disembody:
+    a disembodied spirit
+#游魂
+    a disembodied ideal
+#脱离现实的观念
+    The play of light off the dome's glass further served to disembody it.
+#将光从穹顶玻璃射出使它显得更加游离。
+
+devotional:
+    devotional music
+#祈祷音乐
+    devotional practices
+#祈祷仪式
+
+canon:
+    the canons of good taste
+#高雅趣味的标准
+    newspaper canons
+#报界的准则
+
+sacrilege:
+    Building a motorway through the forest would be sacrilege.
+#在这个森林中修高速公路是暴珍天物。
+
+puffery:
+    In spite of media puffery, her latest novel failed to make it into the bestseller list.
+#尽管媒体大肆宣传，她的最新小说仍未能进人畅销书名单。
+
+frenzy:
+    be in a frenzy
+#发狂
+    They whipped up a nationalist frenzy among the excitable crowds.
+#他们在容易激动的群众中煸起民族主义的狂热。
+
+awry:
+    glance awry
+#斜视
+    go/run awry
+#走上邪路，出错
+    Everything that goes awry in the town is blamed on the nuclear power station.
+#镇上出的一切差错都归咎于核电站。
+
+unconscionable:
+    an unconscionable villain
+#恣意妄为的恶棍
+    an unconscionable number of mistakes
+#过量的错误
+    unconscionable sales practices
+#极不正当的推销伎俩
+
+farewell:
+    make one's farewell
+#告别
+    wave one's farewell to guests
+#向客人们挥手告别
+    She bade me farewells at the gate.
+#她在门口向我告别。
+
+disfigure:
+    Many of the wounded had been badly disfigured
+#受伤者中很多被严重毁容。
+
+crudity:
+    the crudities of the business world
+#商业界种种粗鄙的谋利行径
+
+promenade:
+    take a promenade in the street
+#在大街上溜达
+    a promenade at sea
+#海上的航游
+    promenade along the seafront
+#沿海滨散步
+
+full-bodied:
+    a full-bodied soup
+#浓汤
+    a full-bodied novel
+#内容充实的小说
+
+incongruent:
+    The style of serving was incongruent with a holiday of this style and expense.
+#这样的服务配不上这种风格和价位的度假。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,825 @@
+<<<<<<< HEAD
+ravenous: 英[ˈrævənəs] 美[ˈrævənəs]
+%adj. 贪婪的；渴望的；狼吞虎咽的
+    feel ravenous
+#感到饿极了
+    ravenous for praise
+#渴望得到表扬
+    a ravenous miser
+#贪梦的守财奴
+    The ravenous mob pillaged the town.
+#掠夺成性的暴民洗劫全城。
+
+preamble: 英[ˈpriːæmb(ə)l] 美[ˈpriːæmb(ə)l]
+$n. （法规、契约的）序言，绪论；前言，开场白
+%v. 作序文
+    without preamble
+#开门见山地
+    The prime minister met the delegation in the preamble to the long series of talks.
+#首相在一系列会谈开始之前会见了代表团。
+
+animadvert: 英[ˌænɪmædˈvɜːt] 美[ˌænɪmədˈvɜːrt]
+%v. 批评；谴责，非难；注意到
+    He animadverted upon her faults.
+#他批评她的过失。
+
+piecemeal: 英[ˈpiːsmiːl] 美[ˈpiːsmiːl]
+$adv. 零碎地；逐个地
+$adj. 零碎的；逐渐的
+$n. 片；块
+%vt. 粉碎
+    by piecemeal
+#逐渐
+    Airports were set up piecemeal.
+#机场一个个地建造起来了。
+
+coffer: 英[ˈkɒfə(r)] 美[ˈkɔːfər]
+$n. 围堰；保险箱；金库；资金
+%vt. 把……放进箱柜；用平顶镶板装饰
+    a large iron bound coffer
+#一只包铁皮的大保险箱
+    the state coffers
+#国库
+
+otiose: 英[ˈəʊtiəʊs] 美[ˈoʊʃioʊs]
+%adj. 没有用的；不必要的；多余的；怠惰的
+    an otiose undertaking
+#劳而无益的事
+    Her remarks were perfectly otiose.
+#她的议论完全是多余的。
+
+whirlpool: 英[ˈwɜːlpuːl] 美[ˈwɜːrlpuːl]
+%n. 漩涡，涡流；混乱，纷乱
+    be caught in a whirlpool
+#被卷入漩涡
+    a whirlpool of scandal
+#乱七八糟的流言蜚语
+
+monocle: 英[ˈmɒnək(ə)l] 美[ˈmɑːnək(ə)l]
+%n. 单片眼镜；单眼绷带
+    wearing the monocle, talking in very formal tones.
+#他戴着单片眼镜，操着一口字正腔圆正式的口音。
+
+undergird: 英[ˌʌndəˈɡɜːd] 美[ˌʌndərˈɡɜːrd]
+%vt. 加强；从底层加固
+    undergird a ship
+#加固船的底部
+    undergird moral principles
+#加强道德原则
+
+prance: 英[prɑːns] 美[præns]
+$v. 昂首阔步；（马）后足立地腾跃
+$n. 昂首阔步；（马）后足立地腾跃
+%n. （Prance）（美、英、加、澳）普兰斯（人名）
+    The little girl pranced about the room wearing her new clothes.
+#小女孩穿着新衣，在房间里高兴地蹦跳。
+
+minnow: 英[ˈmɪnəʊ] 美[ˈmɪnoʊ]
+%n. 米诺鱼(多种小型鱼类的总称); 无足轻重的(小)公司; 不起眼的(小型)运动队
+    a Triton among/of the minnows
+#鹤立鸡群
+    throw out a minnow to catch a whale
+#舍小鱼，钓大鱼
+
+pry: 英[praɪ] 美[praɪ]
+$vt. 撬动，撬开
+$vi. 刺探，探查
+%n. 窥探；杠杆
+    pry about the house
+#在屋子里到处窥视
+    He pried into her private affairs.
+#他刺探她的私事。
+
+frothy: 英[ˈfrɒθi] 美[ˈfrɔːθi]
+%adj. 多泡的；起泡的；空洞的，浅薄的
+    frothy beer
+#泡的啤酒
+    a frothy preacher
+#浅薄的说教者
+    frothy coffee
+#泡沫咖啡
+
+cadet: 英[kəˈdet] 美[kəˈdet]
+$n. 幼子，次子；实习生；候补军官；陆海军官学校的学员
+%n. （法）卡代（人名）；（英）卡德特（人名）
+    a West Point cadet
+#西点军校学生
+    a nursing cadet
+#护士培训班学员
+    army cadets
+#军校学员
+
+droop: 英[druːp] 美[druːp]
+$vi. 下垂；萎靡；凋萎
+$vt. 使……下垂
+$n. 下垂；消沉
+%n. （Droop）人名；（英）德鲁普
+    droop over the pond
+#低垂在池塘上
+    the drooping sun
+#西落的太阳
+    the drooping eyelids
+#下垂的眼脸
+    The hikers were drooping by the end of their walk in the hot sun.
+#徒步旅行者在烈日下走到最后都精疲力竭了。
+
+fathom: 英[ˈfæðəm] 美[ˈfæðəm]
+$n. 英寻（测量水深单位，合6英尺或1.8米）
+%v. 深刻理解，彻底弄清（难题或神秘的人）；测量（水）的深度
+    fathom sb's motives
+#弄清某人的动机
+    a man hard to fathom
+#难以捉摸的人
+    Professor Hake has been trying to fathom (out) the mysteries of the whale's song.
+#黑克教授一直在努力弄清鲸鱼的歌声之谜。
+
+plagiarize: 英[ˈpleɪdʒəraɪz] 美[ˈpleɪdʒəraɪz]
+$vi. 剽窃；抄袭
+%vt. 剽窃；抄袭
+    plagiarize several passages from a book
+#从一本书中抄袭几段
+    plagiarize other people's research
+#剽窃他人的研究成果
+    It is claimed that the thesis contains plagiarized materials.
+#据称这篇论文中有抄袭的材料。
+
+remit: 英[rɪˈmɪt] 美[rɪˈmɪt]
+$v. <正式>汇款；<法律>将（案件）发回原审判法庭（重审）；免除（债务、处罚等）；将……提交（权力部门处理）；<法律>将（某人）转到另一法院审判（或听证）；<罕>推迟；<古>使恢复原状；<古>减少
+%n. <英，非正式> 职权范围；提交审议的事项
+    remit a cheque
+#汇支票
+    remit a prisoner's sentence
+#减免犯人的徒刑
+    remit a tax
+#免税
+    remit a debt
+#勾销债条
+    remit one's pace
+#放慢步子
+    remit the matter to a special committee
+#将事项提交给特别委员会
+    remit the search for the missing
+#暂停搜寻失踪者
+    Such industries are required to deduct 20 percent of their profits and remit to the Tax Bureau.
+#这些企业必须从利润中扣除20%汇寄税务局。
+
+moat: 英[məʊt] 美[moʊt]
+$n. 护城河；壕沟
+%vt. 将……围以壕沟
+    The moated castle was built in the sixteenth century.
+#那座由护城河围绕的城堡建于16世纪。
+
+heckle: 英[ˈhek(ə)l] 美[ˈhek(ə)l]
+$vt. 起哄; 诘问；激烈质问；以麻梳梳理
+%n. 麻梳
+    heckle the performer with shouts
+#对表演者大大叫地起哄
+    A few angry locals started heckling the speaker.
+#一些生气的当地人开始对演讲人起哄。
+
+habitable: 英[ˈhæbɪtəb(ə)l] 美[ˈhæbɪtəb(ə)l]
+%adj. 可居住的；适于居住的
+    A lot of improvements would have to be made before the building was habitable.
+#这房子需要大修才能住人。
+
+lukewarm: 英[ˌluːkˈwɔːm] 美[ˌluːkˈwɔːrm]
+%adj. 冷淡的；微温的；不够热心的
+    lukewarm water
+#温水
+    a lukewarm person
+#冷漠的人
+    the lukewarm atmosphere
+#冷漠的气氛
+    be lukewarm to the new projects
+#对新项目不热心
+    The baby's food needs to be heated until it's just lukewarm.
+#婴儿食物必须加热至温热。
+
+mirage: 英[ˈmɪrɑːʒ] 美[məˈrɑːʒ]
+%n. 海市蜃楼；幻想，妄想
+    a distant mirage on the political horizon
+#一个遥远的政治幻景
+    It hovered before his eyes like the mirage of an oasis.
+#它在他眼前晃动，好像海市蜃楼里的绿洲。
+
+gruff: 英[ɡrʌf] 美[ɡrʌf]
+$adj. 粗暴的；粗哑的；脾气坏的
+$vt. 粗鲁地说；生硬地说
+%vi. 粗鲁地说；生硬地说话
+    a gruff manner
+#粗暴的态度
+    a gruff reply
+#生硬的回答
+    He spoke to me in a gruff way, obviously annoyed that he had been disturbed.
+#他恶狠狠地对我说话，显然由于被打扰而感到不快。
+
+aboveboard: 英[əˌbʌvˈbɔːd] 美[əˈbʌvˌbɔːrd]
+$adv. 光明正大地；率直地
+%adj. 光明正大的；直率的
+    be open and aboveboard with sb.
+#开诚布公对待某人
+    The deal was completely open and aboveboard.
+#这一交易完全是光明正大的。
+
+impenitent: 英[ɪmˈpenɪtənt] 美[ɪmˈpenɪtənt]
+%adj. 不知悔改的，顽固的
+    To this day she remains impenitent about her criminal past.
+#直至今日，她对她作恶的过去毫无悔意。
+
+resplendent: 英[rɪˈsplendənt] 美[rɪˈsplendənt]
+%adj. 光辉的；华丽的
+    a lady resplendent with jewels
+#全身珠光宝气的女人
+    a face resplendent with joy
+#喜气洋洋的脸
+    The queen's resplendent robes and crown were on display in the museum.
+#女王华丽的礼服与王冠在博物馆里展出。
+
+earthy: 英[ˈɜːθi] 美[ˈɜːrθi]
+%adj. 土的；土质的；朴实的；粗俗的
+    an earthy flavor
+#泥土气味
+    an earthy, generous farmer
+#朴实慷慨的农民
+    an earthy joke
+#粗鄙的笑话
+    He expressed himself in earthy language.
+#他说话粗俗。
+
+chic: 英[ʃiːk] 美[ʃiːk]
+$adj. 时髦的，雅致的
+$n. 时髦，时尚
+%n. （Chic）（美）奇克（人名）
+    She wears chic, expensive clothes with designer labels.
+#她穿着时髦、昂贵、带有设计者标签的衣服。
+
+indelible: 英[ɪnˈdeləb(ə)l] 美[ɪnˈdeləb(ə)l]
+%adj. 难忘的，不可磨灭的；擦不掉的，无法去除的
+    make an indelible mark on
+#留下深深的印记
+    have an indelible memory of
+#有忘不了的回忆
+    an indelible evidence
+#不可磨灭的证据
+    an indelible impression
+#不可磨灭的印象
+    The blood had left an indelible mark on his coat.
+#血液在他的外套上留下了洗不掉的痕迹。
+
+spatter: 英[ˈspætə(r)] 美[ˈspætər]
+$v. 溅；洒；污蔑；洒落；溅出水滴
+%n. 溅；洒；泼溅的污迹；少量；短暂的一段声音；（雨等的）滴滴答答声
+    spatter mud over one's clothes
+#溅一身泥
+    a paint-spattered shirt
+#油漆斑斑的衬衫
+    spatter water on the ground
+#在地面上洒水
+    spatter one's good reputation
+#中伤某人的清名
+    a spatter of applause
+#稀稀落落的掌声
+    He could hear raindrops spattering on the roof of the caravan.
+#他能听见雨滴溅落在大篷车车顶的声音。
+
+entwine: 英[ɪnˈtwaɪn] 美[ɪnˈtwaɪn]
+%v. 缠住，盘绕；使缠绕；与……密切相关
+    a pillar entwined with ivy
+#被常青藤缠绕的柱子
+    The bride had flowers entwined in her hair.
+#新娘发间编着花朵。
+
+disclaim: 英[dɪsˈkleɪm] 美[dɪsˈkleɪm]
+$vt. 否认，拒绝；放弃，弃权；拒绝承认
+%vi. 否认；放弃；弃权
+    He disclaimed all responsibility for this accident.
+#他否认对这起事故有任何责任。
+
+jab: 英[dʒæb] 美[dʒæb]
+$v. （用……）刺，戳；（拳击时用拳）猛击；猛踢（球）
+%n. 戳，刺；<英，非正式>预防针，接种；<非正式>抨击，攻击；刺拳；刺痛的感觉（或感情）
+    jab sb. in the thigh
+#戳某人的大腿
+    jab a finger at sb.
+#用手指戳某人
+    jab sb. with a knife
+#用刀刺某人
+    a personal jab
+#人身攻击
+    jab the needle in (to) one's arm
+#将针头刺人某人的手臂
+    She gave me a sharp jab in the ribs with her elbow to stop me from saying any more.
+#她用肘猛捣了一下我的肋骨，不让我继续说下去。
+
+canopy: 英[ˈkænəpi] 美[ˈkænəpi]
+$n. （座位或床上的）顶罩，华盖；树冠层，顶蓬似的树荫；（飞机的）座舱盖；天篷，顶篷；降落伞的丝质（或尼龙）伞衣，伞盖
+%v. 用顶篷遮盖
+    a stripped canopy
+#条纹天篷
+    a canopy of apple trees
+#一片苹果树荫
+    the wild blue canopy above
+#头顶上的茫茫苍穹
+    canopied by stately trees
+#被高大的树木遮掩着
+    a landscape canopied by mist
+#影影绰绰的雾罩山水
+    The canopy of a tropical rain forest is home to many thousands of species of animals.
+#热带雨林的林冠是数千种动物的家园。
+
+accomplished: 英[əˈkʌmplɪʃt] 美[əˈkɑːmplɪʃt]
+$adj. 熟练的，才华高的；娴于社交的；很成功的，非常优秀的；<英>完成的
+%v. 完成，实现（accomplish 的过去式和过去分词）
+    accept sth. as an accomplished fact
+#把某事当作既成事实接受
+    an accomplished scholar
+#有造诣的学者
+    He was accomplished in all the art.
+#他对所有艺术都很有造诣。
+
+vitalize: 英[ˈvaɪtəˌlaɪz] 美[ˈvaɪt(ə)lˌaɪz]
+%v. 使有生命力，使有活力
+    vitalize the patriotism of a people
+#激起一个民族的爱国情绪
+
+inmate: 英[ˈɪnmeɪt] 美[ˈɪnmeɪt]
+%n. （监狱或精神病院里的）居住者；<古>（房屋的）同住者
+    The report said that the inmates were forced to live in dirty and unhealthy conditions.
+#报告说被收容者在脏乱、不卫生的条件下生活。
+
+dainty: 英[ˈdeɪnti] 美[ˈdeɪnti]
+$adj. 美味的；讲究的；秀丽的；挑剔的
+%n. 美味
+    dainty cakes
+#精致的糕点
+    dainty spring flowers
+#娇艳的春花
+    dainty weather
+#风和日丽的天气
+    a dainty teacup
+#精美的茶杯
+    a dainty dish
+#一盘佳肴
+    She was a little, dainty child, unlike her sister who was large and had big feet.
+#她是个娇小的孩子，不像她姐姐那样高大且有一双大脚板。
+
+inoculate: 英[ɪˈnɒkjuleɪt] 美[ɪˈnɑːkjuleɪt]
+%v. （人或动物）接种疫苗，打预防针；（对生物体）接种（感染物）；把（细胞，有机体）接种入培养基；灌输
+    inoculate a child against polio
+#给儿童注射小儿麻痹症预防针
+    His parents inoculated him with a strong desire for knowledge.
+#他父母灌输给了他强烈的求知欲。
+
+loiter: 英[ˈlɔɪtə(r)] 美[ˈlɔɪtər]
+$vi. 虚度；闲荡；徘徊
+$vt. 虚度；闲荡；混
+%n. （Loiter）人名；（俄）洛伊特
+    loiter about the town center
+#在市中心闲逛
+    loiter away the whole afternoon
+#消磨掉整个下午
+    He loitered about the station, looking around the bookshop and watching the departure board.
+#他在车站附近溜达，逛逛书店，看看车站发车时间布告栏。
+
+distraught: 英[dɪˈstrɔːt] 美[dɪˈstrɔːt]
+%adj. 发狂的；心烦意乱的
+    be distraught from/with grief
+#悲痛欲绝
+    The distraught women ran out of the burning house.
+#心慌意乱的妇女们跑出正在燃烧的房子。
+
+defile: 英[dɪˈfaɪl] 美[dɪˈfaɪl]
+$vt. 污损，弄脏；染污
+$n. 狭谷；隘路
+%vi. 以纵队前进
+    defile the holy place
+#玷污圣地
+    defile the street with litter
+#垃圾弄脏街道
+    rivers defiled by waste from factories
+#被工厂污水污染的河流
+    defile the mind
+#腐蚀思想
+    defile one's reputation with rumors
+#以流言蜚语破坏某人的名声
+    The beautiful city has been defiled by some ugly buildings.
+#这座美丽的城市被某些丑陋的建筑物玷污了市容。
+
+tinder: 英[ˈtɪndə(r)] 美[ˈtɪndər]
+%n. 火绒；易燃物
+    We used some dry grass and dead twigs as tinder to light the camp fire.
+#我们用一些干草和枯枝来引燃营火。
+
+=======
+ravenous: 英[ˈrævənəs] 美[ˈrævənəs]
+%adj. 贪婪的；渴望的；狼吞虎咽的
+    feel ravenous
+#感到饿极了
+    ravenous for praise
+#渴望得到表扬
+    a ravenous miser
+#贪梦的守财奴
+    The ravenous mob pillaged the town.
+#掠夺成性的暴民洗劫全城。
+
+preamble: 英[ˈpriːæmb(ə)l] 美[ˈpriːæmb(ə)l]
+$n. （法规、契约的）序言，绪论；前言，开场白
+%v. 作序文
+    without preamble
+#开门见山地
+    The prime minister met the delegation in the preamble to the long series of talks.
+#首相在一系列会谈开始之前会见了代表团。
+
+animadvert: 英[ˌænɪmædˈvɜːt] 美[ˌænɪmədˈvɜːrt]
+%v. 批评；谴责，非难；注意到
+    He animadverted upon her faults.
+#他批评她的过失。
+
+piecemeal: 英[ˈpiːsmiːl] 美[ˈpiːsmiːl]
+$adv. 零碎地；逐个地
+$adj. 零碎的；逐渐的
+$n. 片；块
+%vt. 粉碎
+    by piecemeal
+#逐渐
+    Airports were set up piecemeal.
+#机场一个个地建造起来了。
+
+coffer: 英[ˈkɒfə(r)] 美[ˈkɔːfər]
+$n. 围堰；保险箱；金库；资金
+%vt. 把……放进箱柜；用平顶镶板装饰
+    a large iron bound coffer
+#一只包铁皮的大保险箱
+    the state coffers
+#国库
+
+otiose: 英[ˈəʊtiəʊs] 美[ˈoʊʃioʊs]
+%adj. 没有用的；不必要的；多余的；怠惰的
+    an otiose undertaking
+#劳而无益的事
+    Her remarks were perfectly otiose.
+#她的议论完全是多余的。
+
+whirlpool: 英[ˈwɜːlpuːl] 美[ˈwɜːrlpuːl]
+%n. 漩涡，涡流；混乱，纷乱
+    be caught in a whirlpool
+#被卷入漩涡
+    a whirlpool of scandal
+#乱七八糟的流言蜚语
+
+monocle: 英[ˈmɒnək(ə)l] 美[ˈmɑːnək(ə)l]
+%n. 单片眼镜；单眼绷带
+    wearing the monocle, talking in very formal tones.
+#他戴着单片眼镜，操着一口字正腔圆正式的口音。
+
+undergird: 英[ˌʌndəˈɡɜːd] 美[ˌʌndərˈɡɜːrd]
+%vt. 加强；从底层加固
+    undergird a ship
+#加固船的底部
+    undergird moral principles
+#加强道德原则
+
+prance: 英[prɑːns] 美[præns]
+$v. 昂首阔步；（马）后足立地腾跃
+$n. 昂首阔步；（马）后足立地腾跃
+%n. （Prance）（美、英、加、澳）普兰斯（人名）
+    The little girl pranced about the room wearing her new clothes.
+#小女孩穿着新衣，在房间里高兴地蹦跳。
+
+minnow: 英[ˈmɪnəʊ] 美[ˈmɪnoʊ]
+%n. 米诺鱼(多种小型鱼类的总称); 无足轻重的(小)公司; 不起眼的(小型)运动队
+    a Triton among/of the minnows
+#鹤立鸡群
+    throw out a minnow to catch a whale
+#舍小鱼，钓大鱼
+
+pry: 英[praɪ] 美[praɪ]
+$vt. 撬动，撬开
+$vi. 刺探，探查
+%n. 窥探；杠杆
+    pry about the house
+#在屋子里到处窥视
+    He pried into her private affairs.
+#他刺探她的私事。
+
+frothy: 英[ˈfrɒθi] 美[ˈfrɔːθi]
+%adj. 多泡的；起泡的；空洞的，浅薄的
+    frothy beer
+#泡的啤酒
+    a frothy preacher
+#浅薄的说教者
+    frothy coffee
+#泡沫咖啡
+
+cadet: 英[kəˈdet] 美[kəˈdet]
+$n. 幼子，次子；实习生；候补军官；陆海军官学校的学员
+%n. （法）卡代（人名）；（英）卡德特（人名）
+    a West Point cadet
+#西点军校学生
+    a nursing cadet
+#护士培训班学员
+    army cadets
+#军校学员
+
+droop: 英[druːp] 美[druːp]
+$vi. 下垂；萎靡；凋萎
+$vt. 使……下垂
+$n. 下垂；消沉
+%n. （Droop）人名；（英）德鲁普
+    droop over the pond
+#低垂在池塘上
+    the drooping sun
+#西落的太阳
+    the drooping eyelids
+#下垂的眼脸
+    The hikers were drooping by the end of their walk in the hot sun.
+#徒步旅行者在烈日下走到最后都精疲力竭了。
+
+fathom: 英[ˈfæðəm] 美[ˈfæðəm]
+$n. 英寻（测量水深单位，合6英尺或1.8米）
+%v. 深刻理解，彻底弄清（难题或神秘的人）；测量（水）的深度
+    fathom sb's motives
+#弄清某人的动机
+    a man hard to fathom
+#难以捉摸的人
+    Professor Hake has been trying to fathom (out) the mysteries of the whale's song.
+#黑克教授一直在努力弄清鲸鱼的歌声之谜。
+
+plagiarize: 英[ˈpleɪdʒəraɪz] 美[ˈpleɪdʒəraɪz]
+$vi. 剽窃；抄袭
+%vt. 剽窃；抄袭
+    plagiarize several passages from a book
+#从一本书中抄袭几段
+    plagiarize other people's research
+#剽窃他人的研究成果
+    It is claimed that the thesis contains plagiarized materials.
+#据称这篇论文中有抄袭的材料。
+
+remit: 英[rɪˈmɪt] 美[rɪˈmɪt]
+$v. <正式>汇款；<法律>将（案件）发回原审判法庭（重审）；免除（债务、处罚等）；将……提交（权力部门处理）；<法律>将（某人）转到另一法院审判（或听证）；<罕>推迟；<古>使恢复原状；<古>减少
+%n. <英，非正式> 职权范围；提交审议的事项
+    remit a cheque
+#汇支票
+    remit a prisoner's sentence
+#减免犯人的徒刑
+    remit a tax
+#免税
+    remit a debt
+#勾销债条
+    remit one's pace
+#放慢步子
+    remit the matter to a special committee
+#将事项提交给特别委员会
+    remit the search for the missing
+#暂停搜寻失踪者
+    Such industries are required to deduct 20 percent of their profits and remit to the Tax Bureau.
+#这些企业必须从利润中扣除20%汇寄税务局。
+
+moat: 英[məʊt] 美[moʊt]
+$n. 护城河；壕沟
+%vt. 将……围以壕沟
+    The moated castle was built in the sixteenth century.
+#那座由护城河围绕的城堡建于16世纪。
+
+heckle: 英[ˈhek(ə)l] 美[ˈhek(ə)l]
+$vt. 起哄; 诘问；激烈质问；以麻梳梳理
+%n. 麻梳
+    heckle the performer with shouts
+#对表演者大大叫地起哄
+    A few angry locals started heckling the speaker.
+#一些生气的当地人开始对演讲人起哄。
+
+habitable: 英[ˈhæbɪtəb(ə)l] 美[ˈhæbɪtəb(ə)l]
+%adj. 可居住的；适于居住的
+    A lot of improvements would have to be made before the building was habitable.
+#这房子需要大修才能住人。
+
+lukewarm: 英[ˌluːkˈwɔːm] 美[ˌluːkˈwɔːrm]
+%adj. 冷淡的；微温的；不够热心的
+    lukewarm water
+#温水
+    a lukewarm person
+#冷漠的人
+    the lukewarm atmosphere
+#冷漠的气氛
+    be lukewarm to the new projects
+#对新项目不热心
+    The baby's food needs to be heated until it's just lukewarm.
+#婴儿食物必须加热至温热。
+
+mirage: 英[ˈmɪrɑːʒ] 美[məˈrɑːʒ]
+%n. 海市蜃楼；幻想，妄想
+    a distant mirage on the political horizon
+#一个遥远的政治幻景
+    It hovered before his eyes like the mirage of an oasis.
+#它在他眼前晃动，好像海市蜃楼里的绿洲。
+
+gruff: 英[ɡrʌf] 美[ɡrʌf]
+$adj. 粗暴的；粗哑的；脾气坏的
+$vt. 粗鲁地说；生硬地说
+%vi. 粗鲁地说；生硬地说话
+    a gruff manner
+#粗暴的态度
+    a gruff reply
+#生硬的回答
+    He spoke to me in a gruff way, obviously annoyed that he had been disturbed.
+#他恶狠狠地对我说话，显然由于被打扰而感到不快。
+
+aboveboard: 英[əˌbʌvˈbɔːd] 美[əˈbʌvˌbɔːrd]
+$adv. 光明正大地；率直地
+%adj. 光明正大的；直率的
+    be open and aboveboard with sb.
+#开诚布公对待某人
+    The deal was completely open and aboveboard.
+#这一交易完全是光明正大的。
+
+impenitent: 英[ɪmˈpenɪtənt] 美[ɪmˈpenɪtənt]
+%adj. 不知悔改的，顽固的
+    To this day she remains impenitent about her criminal past.
+#直至今日，她对她作恶的过去毫无悔意。
+
+resplendent: 英[rɪˈsplendənt] 美[rɪˈsplendənt]
+%adj. 光辉的；华丽的
+    a lady resplendent with jewels
+#全身珠光宝气的女人
+    a face resplendent with joy
+#喜气洋洋的脸
+    The queen's resplendent robes and crown were on display in the museum.
+#女王华丽的礼服与王冠在博物馆里展出。
+
+earthy: 英[ˈɜːθi] 美[ˈɜːrθi]
+%adj. 土的；土质的；朴实的；粗俗的
+    an earthy flavor
+#泥土气味
+    an earthy, generous farmer
+#朴实慷慨的农民
+    an earthy joke
+#粗鄙的笑话
+    He expressed himself in earthy language.
+#他说话粗俗。
+
+chic: 英[ʃiːk] 美[ʃiːk]
+$adj. 时髦的，雅致的
+$n. 时髦，时尚
+%n. （Chic）（美）奇克（人名）
+    She wears chic, expensive clothes with designer labels.
+#她穿着时髦、昂贵、带有设计者标签的衣服。
+
+indelible: 英[ɪnˈdeləb(ə)l] 美[ɪnˈdeləb(ə)l]
+%adj. 难忘的，不可磨灭的；擦不掉的，无法去除的
+    make an indelible mark on
+#留下深深的印记
+    have an indelible memory of
+#有忘不了的回忆
+    an indelible evidence
+#不可磨灭的证据
+    an indelible impression
+#不可磨灭的印象
+    The blood had left an indelible mark on his coat.
+#血液在他的外套上留下了洗不掉的痕迹。
+
+spatter: 英[ˈspætə(r)] 美[ˈspætər]
+$v. 溅；洒；污蔑；洒落；溅出水滴
+%n. 溅；洒；泼溅的污迹；少量；短暂的一段声音；（雨等的）滴滴答答声
+    spatter mud over one's clothes
+#溅一身泥
+    a paint-spattered shirt
+#油漆斑斑的衬衫
+    spatter water on the ground
+#在地面上洒水
+    spatter one's good reputation
+#中伤某人的清名
+    a spatter of applause
+#稀稀落落的掌声
+    He could hear raindrops spattering on the roof of the caravan.
+#他能听见雨滴溅落在大篷车车顶的声音。
+
+entwine: 英[ɪnˈtwaɪn] 美[ɪnˈtwaɪn]
+%v. 缠住，盘绕；使缠绕；与……密切相关
+    a pillar entwined with ivy
+#被常青藤缠绕的柱子
+    The bride had flowers entwined in her hair.
+#新娘发间编着花朵。
+
+disclaim: 英[dɪsˈkleɪm] 美[dɪsˈkleɪm]
+$vt. 否认，拒绝；放弃，弃权；拒绝承认
+%vi. 否认；放弃；弃权
+    He disclaimed all responsibility for this accident.
+#他否认对这起事故有任何责任。
+
+jab: 英[dʒæb] 美[dʒæb]
+$v. （用……）刺，戳；（拳击时用拳）猛击；猛踢（球）
+%n. 戳，刺；<英，非正式>预防针，接种；<非正式>抨击，攻击；刺拳；刺痛的感觉（或感情）
+    jab sb. in the thigh
+#戳某人的大腿
+    jab a finger at sb.
+#用手指戳某人
+    jab sb. with a knife
+#用刀刺某人
+    a personal jab
+#人身攻击
+    jab the needle in (to) one's arm
+#将针头刺人某人的手臂
+    She gave me a sharp jab in the ribs with her elbow to stop me from saying any more.
+#她用肘猛捣了一下我的肋骨，不让我继续说下去。
+
+canopy: 英[ˈkænəpi] 美[ˈkænəpi]
+$n. （座位或床上的）顶罩，华盖；树冠层，顶蓬似的树荫；（飞机的）座舱盖；天篷，顶篷；降落伞的丝质（或尼龙）伞衣，伞盖
+%v. 用顶篷遮盖
+    a stripped canopy
+#条纹天篷
+    a canopy of apple trees
+#一片苹果树荫
+    the wild blue canopy above
+#头顶上的茫茫苍穹
+    canopied by stately trees
+#被高大的树木遮掩着
+    a landscape canopied by mist
+#影影绰绰的雾罩山水
+    The canopy of a tropical rain forest is home to many thousands of species of animals.
+#热带雨林的林冠是数千种动物的家园。
+
+accomplished: 英[əˈkʌmplɪʃt] 美[əˈkɑːmplɪʃt]
+$adj. 熟练的，才华高的；娴于社交的；很成功的，非常优秀的；<英>完成的
+%v. 完成，实现（accomplish 的过去式和过去分词）
+    accept sth. as an accomplished fact
+#把某事当作既成事实接受
+    an accomplished scholar
+#有造诣的学者
+    He was accomplished in all the art.
+#他对所有艺术都很有造诣。
+
+vitalize: 英[ˈvaɪtəˌlaɪz] 美[ˈvaɪt(ə)lˌaɪz]
+%v. 使有生命力，使有活力
+    vitalize the patriotism of a people
+#激起一个民族的爱国情绪
+
+inmate: 英[ˈɪnmeɪt] 美[ˈɪnmeɪt]
+%n. （监狱或精神病院里的）居住者；<古>（房屋的）同住者
+    The report said that the inmates were forced to live in dirty and unhealthy conditions.
+#报告说被收容者在脏乱、不卫生的条件下生活。
+
+dainty: 英[ˈdeɪnti] 美[ˈdeɪnti]
+$adj. 美味的；讲究的；秀丽的；挑剔的
+%n. 美味
+    dainty cakes
+#精致的糕点
+    dainty spring flowers
+#娇艳的春花
+    dainty weather
+#风和日丽的天气
+    a dainty teacup
+#精美的茶杯
+    a dainty dish
+#一盘佳肴
+    She was a little, dainty child, unlike her sister who was large and had big feet.
+#她是个娇小的孩子，不像她姐姐那样高大且有一双大脚板。
+
+inoculate: 英[ɪˈnɒkjuleɪt] 美[ɪˈnɑːkjuleɪt]
+%v. （人或动物）接种疫苗，打预防针；（对生物体）接种（感染物）；把（细胞，有机体）接种入培养基；灌输
+    inoculate a child against polio
+#给儿童注射小儿麻痹症预防针
+    His parents inoculated him with a strong desire for knowledge.
+#他父母灌输给了他强烈的求知欲。
+
+loiter: 英[ˈlɔɪtə(r)] 美[ˈlɔɪtər]
+$vi. 虚度；闲荡；徘徊
+$vt. 虚度；闲荡；混
+%n. （Loiter）人名；（俄）洛伊特
+    loiter about the town center
+#在市中心闲逛
+    loiter away the whole afternoon
+#消磨掉整个下午
+    He loitered about the station, looking around the bookshop and watching the departure board.
+#他在车站附近溜达，逛逛书店，看看车站发车时间布告栏。
+
+distraught: 英[dɪˈstrɔːt] 美[dɪˈstrɔːt]
+%adj. 发狂的；心烦意乱的
+    be distraught from/with grief
+#悲痛欲绝
+    The distraught women ran out of the burning house.
+#心慌意乱的妇女们跑出正在燃烧的房子。
+
+defile: 英[dɪˈfaɪl] 美[dɪˈfaɪl]
+$vt. 污损，弄脏；染污
+$n. 狭谷；隘路
+%vi. 以纵队前进
+    defile the holy place
+#玷污圣地
+    defile the street with litter
+#垃圾弄脏街道
+    rivers defiled by waste from factories
+#被工厂污水污染的河流
+    defile the mind
+#腐蚀思想
+    defile one's reputation with rumors
+#以流言蜚语破坏某人的名声
+    The beautiful city has been defiled by some ugly buildings.
+#这座美丽的城市被某些丑陋的建筑物玷污了市容。
+
+tinder: 英[ˈtɪndə(r)] 美[ˈtɪndər]
+%n. 火绒；易燃物
+    We used some dry grass and dead twigs as tinder to light the camp fire.
+#我们用一些干草和枯枝来引燃营火。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

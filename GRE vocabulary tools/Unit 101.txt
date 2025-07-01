@@ -1,0 +1,761 @@
+<<<<<<< HEAD
+involuntary: 英[ɪnˈvɒləntri] 美[ɪnˈvɑːlənteri]
+%adj. 无意识的；自然而然的；不知不觉的
+    an involuntary listener
+#非自愿的倾听者
+    an involuntary gesture
+#无意间的姿态
+
+conclusive: 英[kənˈkluːsɪv] 美[kənˈkluːsɪv]
+%adj. 结论性的，毫无疑问的
+    a conclusive proof
+#确证
+    the conclusive result of election
+#选举的最终结果
+    a conclusive argument
+#无可置疑的论点
+    They have conclusive evidence of her guilt.
+#他们有确凿的证据证明她的罪行。
+
+destine: 英[ˈdestɪn] 美[ˈdestɪn]
+%v. （为某种用途、目的而）指定，预定，选定；区分；意欲；筹划
+    be destined for a successful career
+#注定事业成功
+    be destined for the Asian market
+#（商品）预定销往亚洲市场
+    The letter was destined never to reach her.
+#那封信注定永远也到不了她的手里。
+
+amendment: 英[əˈmendmənt] 美[əˈmendmənt]
+%n. 修正，修订之处；美国宪法修正案（Amendment）；（土壤结构或肥力的）改善；（对文件或计划的）修改
+    make a few last minute amendments
+#做最后几处修改
+    a promise of reform and amendment
+#改过自新的诺言
+    an amendment to a law
+#法律的修正条款
+    an amendment to the grammar
+#对语法的修正
+    All the amendments proposed by the opposition parties were defeated.
+#反对党提出的所有修正案都被否决了。
+
+decompose: 英[ˌdiːkəmˈpəʊz] 美[ˌdiːkəmˈpoʊz]
+%v. （使）腐烂，腐败；（使）分解；（数）分解
+    decompose a chemical compound
+#分解化合物
+    The great heat decomposed fruit and vegetables quickly.
+#炎热使得水果和蔬菜迅速腐烂。
+
+impersonal: 英[ɪmˈpɜːsənl] 美[ɪmˈpɜːrsən(ə)l]
+$adj. 非个人的，不受个人感情影响的；缺乏人情味的，冷淡的；不够人性化的；不以人的形式存在的，不具人格的；（语法中）非人称的，无人称的
+%n. 非人称动词或代词
+    the impersonal and impartial point of view
+#公正、客观的看法
+    an impersonal tone
+#冷淡的语气
+    an impersonal verb
+#非人称动词
+    an impersonal pronoun
+#非人称代词
+    She was impersonal, with her head high up and a touch-me-not expression frozen on her face.
+#她很冷淡，头总是抬得高高的，脸上一副别碰我的冰冷样子。
+
+countless: 英[ˈkaʊntləs] 美[ˈkaʊntləs]
+%adj. 无数的，数不尽的
+    countless reasons against it
+#反对它的无数理由
+    The grassland was covered with countless locusts.
+#草地上密密麻麻地覆盖着无数的皇虫。
+
+volcanic: 英[vɒlˈkænɪk] 美[vɑːlˈkænɪk]
+$adj. 火山的，火山引发的；（感情或情绪）猛烈的，易突然发作的
+%n. 火山岩
+    volcanic ash
+#火山灰
+    volcanic activity
+#火山运动
+    a volcanic temper
+#火暴脾气
+    It was one of the biggest volcanic eruptions of last century.
+#那是上个世纪最大的一次火山爆发。
+
+pious: 英[ˈpaɪəs] 美[ˈpaɪəs]
+%adj. 虔诚的；敬神的；可嘉的；尽责的
+    pious obedience
+#唯命是从
+    a pious deception
+#伪善的蒙蔽
+    pious effort
+#值得称许的努力
+    He was brought up by pious female relatives.
+#他是由虔诚的女性亲属抚养大的。
+
+defrost: 英[diːˈfrɒst] 美[diːˈfrɔːst]
+$vt. 除霜
+%vi. 解冻
+    defrost the refrigerator regularly
+#定期给冰箱除霜
+    Defrost the chicken thoroughly before cooking.
+#烧鸡肉之前把鸡肉彻底解冻。
+
+evocative: 英[ɪˈvɒkətɪv] 美[ɪˈvɑːkətɪv]
+%adj. 唤起的；唤出的
+    an evocative description
+#令人浮想联翩的描述
+    be evocative of spring
+#令人联想起春天
+    an incident evocative of old memories
+#唤起对旧时回忆的事情
+    The pebbled streets and traditional shops are evocative of a completely different era.
+#铺着鹅卵石的街道和传统的商店令人想起一个完全不同的时代。
+
+modulate: 英[ˈmɒdjəleɪt] 美[ˈmɑːdʒəleɪt]
+$vt. 调节；（信号）调制；调整
+%vi. 调制；转调
+    modulate the foreign policy
+#调整外交政策
+    modulate the sound on the TV
+#调整电视机的声音
+    An elected committee will meet monthly to modulate the government's energy policy.
+#一个选产生的委员会将每月碰面调整政府的能源政策。
+
+upheaval: 英[ʌpˈhiːv(ə)l] 美[ʌpˈhiːv(ə)l]
+%n. 激变，剧变；（地壳）隆起
+    a period of political upheaval
+#政治动荡动期
+    He survived the upheaval that followed the murder.
+#他在那次谋杀之后的混乱局面中幸免于难。
+
+concord: 英[ˈkɒŋkɔːd] 美[ˈkɑːnkɔːrd]
+%n. 和谐；和睦；一致；协调
+    the concord of husband and wife
+#（夫妻间的）琴瑟和鸣
+    live in concord
+#和睡相处
+    These neighboring states have lived in concord for centuries.
+#这些邻国已和睡相处几个世纪了。
+
+heed: 英[hiːd] 美[hiːd]
+$v. <正式>注意，留心
+%n. <正式>注意，留心
+    He was unlikely to give heed to advice from such a source.
+#他不可能听从这种渠道来的建议。
+
+onset: 英[ˈɒnset] 美[ˈɑːnset]
+%n. （尤指某种坏事情的）开始，发作；军事攻击
+    the onset of the enemy
+#敌人发起的进攻
+    the onset of spring
+#春天伊始
+    the onset of a nasty cold
+#重感冒的发作
+    The negotiators have given up hope of signing a peace settlement before the onset of winter.
+#谈判人员已放弃在冬天开始之前签署和平协议的希望。
+
+crystalline: 英[ˈkrɪstəlaɪn] 美[ˈkrɪstəlaɪn]
+%adj. 透明的；水晶般的；水晶制的
+    a crystalline sheet of ice
+#一层层晶莹的薄冰
+    crystalline pendants hanging from the chandelier
+#枝形吊灯垂下的水晶垂饰
+    Her singing voice has a pure, crystalline quality.
+#她的歌喉如水晶般纯净、清激。
+
+irritable: 英[ˈɪrɪtəb(ə)l] 美[ˈɪrɪtəb(ə)l]
+%adj. 易怒的，急躁的；（身体部位或器官）过敏的；（生物机体）应激性的
+    Be careful of what you say -- he's rather irritable today.
+#当心你说的话，他今天脾气很大。
+
+lumber: 英[ˈlʌmbə(r)] 美[ˈlʌmbər]
+$v. 缓慢地移动，笨拙地行走；迫使担负（工作或责任）；<美>伐木；逢场作戏地结识；乱堆
+%n. 木材；<英>废旧家具，废旧大件杂物；被看作可能成为性伴侣的人
+    We saw an elephant lumbering along the road.
+#我们看见一头大象沿着公路缓缓走着。
+    get lumbered with money
+#陷入经济困难
+    lumber the junk together
+#把乱七八糟的东西堆到一起
+    a room lumbered with useless articles
+#堆满废物的房间
+
+tensile: 英[ˈtensaɪl] 美[ˈtens(ə)l]
+%adj. 可拉长的，可伸展的；张力的，抗张的
+    tensile force
+#拉力
+    a tensile metal
+#延展性金属
+
+muster: 英[ˈmʌstə(r)] 美[ˈmʌstər]
+$v. 寻求，聚集（支持、勇气等）；召集，（尤指士兵）集合；<澳新>赶拢（牛、羊）
+%n. （尤指视察、检阅或演习时部队的）集合，集结；点名册（muster roll 的简称）；<澳新>赶拢（家畜）；<澳新，非正式>（参加集会的）人数
+    muster the troops
+#召集军队
+    muster the ship crew
+#对全体船员点名
+    pass muster
+#通过检查，被认为合格
+    He managed to muster (up) his courage to ask her to the cinema.
+#他终于鼓起勇气请她去看电影。
+
+oxidize: 英[ˈɒksɪdaɪz] 美[ˈɑːksɪdaɪz]
+$vt. 使氧化；使生锈
+%vi. 氧化
+    Iron becomes rusty when it oxidizes.
+#铁氧化时会生锈。
+
+buoy: 英[bɔɪ] 美[ˈbuːi]
+$n. 浮标，航标；救生圈
+%v. 使浮起，使漂起；鼓励，使有信心；使保持高价；支持，使更成功；用浮标指示，为……设浮标
+    a light buoy
+#灯浮标
+    buoy a channel
+#用浮标指示航道
+    He was buoyed up by hopes of success.
+#成功的希望使他倍受鼓舞。
+
+certification: 英[ˌsɜːtɪfɪˈkeɪʃ(ə)n] 美[ˌsɜːrtɪfɪˈkeɪʃ(ə)n]
+%n. 证明，资质证书；出具课程结业证书
+    certification of fitness
+#质量合格证
+    export certification
+#出口证明
+    The customs official asked her to show the certification of proof.
+#海关官员要她出示检验证书。
+
+expulsion: 英[ɪkˈspʌlʃ(ə)n] 美[ɪkˈspʌlʃn]
+%n. 驱逐；开除
+    expulsion from the country
+#驱逐出境
+    the expulsion of military advisers
+#军事顾问的被驱逐
+    The punishment for this kind of behavior is expulsion from school.
+#对这种行为的惩罚就是开除学籍。
+
+sterilize: 英[ˈsterəlaɪz] 美[ˈsterəlaɪz]
+%vt. 消毒，杀菌；使成不毛；使绝育；使不起作用
+    After having five children, she decided to be sterilized.
+#有了5个孩子后，她决定去做绝育。
+
+eloquence: 英[ˈeləkwəns] 美[ˈeləkwəns]
+%n. 流利的口才，流畅的文笔；雄辩术，修辞
+    a flow of eloquence
+#口若悬河的辩才
+    a man of great eloquence
+#极善辞令的人
+    Talking and eloquence are not the same: to speak, and to speak well are two things.
+#说话和有口才不一样，一个是说，一个是说得好，这是两码事。
+
+gild: 英[ɡɪld] 美[ɡɪld]
+$vt. 镀金；虚饰；供给钱
+%n. （Gild）人名；（俄）希尔德
+    gild bronze doors
+#给铜门镀金
+    gild a lie
+#掩饰谎言
+    gild the lily
+#画蛇添足
+    The statue, recently gilded, shone brightly in the mid-day sun.
+#这尊塑像最近镀了层金，在正午的阳光下格外耀眼。
+
+petal: 英[ˈpet(ə)l] 美[ˈpet(ə)l]
+%n. 花瓣
+    a yellow petal edged with pink
+#一片粉红色边的黄色花瓣
+    Petaling thoroughly, the rose in the garden looks quite beautiful.
+#花园里的玫瑰花绽放着，看上去美极了。
+
+mobility: 英[məʊˈbɪləti] 美[moʊˈbɪləti]
+%n. （住处、社会阶层、职业方面的）流动能力；活动性，灵活性
+    the mobility of the arm
+#手臂的灵活性
+    labor mobility
+#劳动力的流动性
+    the mobility of one's face
+#某人多变的面部表情
+    For children from poorer families, the main hope of social mobility is through education.
+#对于贫困家庭的孩子来说，出人头地的主要希望就是依靠教育。
+
+peck: 英[pek] 美[pek]
+$v. 啄，啄食；匆匆轻吻；缓慢而费力地用打字机打；<非正式>（马）向前跌倒
+%n. 匆匆的轻吻；（鸟的）啄；配克（谷物、水果等的干量单位，等于8夸脱）；啄痕
+    peck its way out of its shell
+#啄出売
+    peck sb. on the cheek
+#轻吻某人的脸频
+    peck a pottery jar out of the hole
+#从洞中挖出一陶罐
+    give sb. a slight peck of farewell
+#轻轻吻别某人
+    eat a peck of salt with sb.
+#很了解某人，与某人相处很久
+
+peril: 英[ˈperəl] 美[ˈperəl]
+$n. 巨大的危险，危难；（某活动或行为的）危险，问题
+%v. <古>使有危险，使临险境，危及
+    be fraught with perils
+#充满危险
+    survive the perils of the Arctic winter
+#扛过北极的严冬而生存下来
+    be full of perils
+#险象环生
+    peril one's life
+#冒生命的危险
+    at one's peril
+#（尤用以告诚自己）由自己负责，由自己承担风险
+    He never felt that his life was in peril.
+#他从未意识到自己的生活处于危险中。
+
+unfold: 英[ʌnˈfəʊld] 美[ʌnˈfoʊld]
+%v. 打开，展开；呈现，逐渐明朗；发生，发展
+    unfold one's arms
+#张开双臂
+    unfold a map
+#打开地图
+    unfold a letter
+#打开信
+    unfold the plot from several angles
+#从个角度展开故事情节
+    unfolding flowers
+#绽放的花
+    I've arranged a lunch with him next Thursday at which I intended to unfold my proposal.
+#我已安排好下周四与他共进午餐，席间我打算披露我的计划。
+
+orchard: 英[ˈɔːtʃəd] 美[ˈɔːrtʃərd]
+%n. 果园；果树林
+    a cherry orchard
+#樱桃园
+    There is an apple orchard at the back of the village.
+#村庄后面有一个苹果园。
+
+speck: 英[spek] 美[spek]
+$n. 灰尘；污点；小颗粒
+$vt. 使有斑点
+%n. （Speck）人名；（英）斯佩克；（德）施佩克
+    rub the specks off the window
+#擦去窗上的斑点
+    not a speck of dust/dirt
+#没有一点灰尘
+    a speck of light
+#一点光亮
+    be specked by ink
+#让墨水弄脏
+    a speck of courage
+#一丝勇气
+    After he'd painted the door, he found specks of paint all over the floor.
+#他给门上完漆后，发现地板上全是油漆斑点。
+
+engross: 英[ɪnˈɡrəʊs] 美[ɪnˈɡroʊs]
+%vt. 使全神贯注；用大字体书写；正式写成（决议等）；独占；吸引
+    be engrossed by an interesting story
+#被一个有趣的故事迷住
+    be deeply/completely engrossed in
+#沉醉其中
+    She was so engrossed in what she was doing that she didn't hear me come in.
+#她那么全神注地做着手头的事，我进来都没有听到。
+
+exclamation: 英[ˌekskləˈmeɪʃ(ə)n] 美[ˌekskləˈmeɪʃn]
+%n. 惊叫，感叹；感叹语，感叹词
+    an exclamation of pain
+#痛苦的叫声
+    give an involuntary exclamation
+#不由自主地叫了一声
+    break into the most passionate exclamations against sb.
+#用最激烈的言辞咒骂某人
+    an exclamation mark
+#感叹号
+    They embraced with exclamations of happiness.
+#他们一边拥抱，一边互相喊着祝福的话。
+
+meddle: 英[ˈmed(ə)l] 美[ˈmed(ə)l]
+%v. 干涉，管闲事，干预他人之事；瞎搞，乱弄
+    meddle in one's affairs
+#干涉某人的事
+    This experience should have taught you what happens when you meddle with things you don't understand.
+#这次经历应该使你明白插手自己一窍不通的事情的危害是什么。
+
+bracelet: 英[ˈbreɪslət] 美[ˈbreɪslət]
+%n. 手镯，臂镯
+    There are some gold and silver bracelets on display in the window.
+#橱窗里展出了一些金手锡和银手锡。
+
+=======
+involuntary: 英[ɪnˈvɒləntri] 美[ɪnˈvɑːlənteri]
+%adj. 无意识的；自然而然的；不知不觉的
+    an involuntary listener
+#非自愿的倾听者
+    an involuntary gesture
+#无意间的姿态
+
+conclusive: 英[kənˈkluːsɪv] 美[kənˈkluːsɪv]
+%adj. 结论性的，毫无疑问的
+    a conclusive proof
+#确证
+    the conclusive result of election
+#选举的最终结果
+    a conclusive argument
+#无可置疑的论点
+    They have conclusive evidence of her guilt.
+#他们有确凿的证据证明她的罪行。
+
+destine: 英[ˈdestɪn] 美[ˈdestɪn]
+%v. （为某种用途、目的而）指定，预定，选定；区分；意欲；筹划
+    be destined for a successful career
+#注定事业成功
+    be destined for the Asian market
+#（商品）预定销往亚洲市场
+    The letter was destined never to reach her.
+#那封信注定永远也到不了她的手里。
+
+amendment: 英[əˈmendmənt] 美[əˈmendmənt]
+%n. 修正，修订之处；美国宪法修正案（Amendment）；（土壤结构或肥力的）改善；（对文件或计划的）修改
+    make a few last minute amendments
+#做最后几处修改
+    a promise of reform and amendment
+#改过自新的诺言
+    an amendment to a law
+#法律的修正条款
+    an amendment to the grammar
+#对语法的修正
+    All the amendments proposed by the opposition parties were defeated.
+#反对党提出的所有修正案都被否决了。
+
+decompose: 英[ˌdiːkəmˈpəʊz] 美[ˌdiːkəmˈpoʊz]
+%v. （使）腐烂，腐败；（使）分解；（数）分解
+    decompose a chemical compound
+#分解化合物
+    The great heat decomposed fruit and vegetables quickly.
+#炎热使得水果和蔬菜迅速腐烂。
+
+impersonal: 英[ɪmˈpɜːsənl] 美[ɪmˈpɜːrsən(ə)l]
+$adj. 非个人的，不受个人感情影响的；缺乏人情味的，冷淡的；不够人性化的；不以人的形式存在的，不具人格的；（语法中）非人称的，无人称的
+%n. 非人称动词或代词
+    the impersonal and impartial point of view
+#公正、客观的看法
+    an impersonal tone
+#冷淡的语气
+    an impersonal verb
+#非人称动词
+    an impersonal pronoun
+#非人称代词
+    She was impersonal, with her head high up and a touch-me-not expression frozen on her face.
+#她很冷淡，头总是抬得高高的，脸上一副别碰我的冰冷样子。
+
+countless: 英[ˈkaʊntləs] 美[ˈkaʊntləs]
+%adj. 无数的，数不尽的
+    countless reasons against it
+#反对它的无数理由
+    The grassland was covered with countless locusts.
+#草地上密密麻麻地覆盖着无数的皇虫。
+
+volcanic: 英[vɒlˈkænɪk] 美[vɑːlˈkænɪk]
+$adj. 火山的，火山引发的；（感情或情绪）猛烈的，易突然发作的
+%n. 火山岩
+    volcanic ash
+#火山灰
+    volcanic activity
+#火山运动
+    a volcanic temper
+#火暴脾气
+    It was one of the biggest volcanic eruptions of last century.
+#那是上个世纪最大的一次火山爆发。
+
+pious: 英[ˈpaɪəs] 美[ˈpaɪəs]
+%adj. 虔诚的；敬神的；可嘉的；尽责的
+    pious obedience
+#唯命是从
+    a pious deception
+#伪善的蒙蔽
+    pious effort
+#值得称许的努力
+    He was brought up by pious female relatives.
+#他是由虔诚的女性亲属抚养大的。
+
+defrost: 英[diːˈfrɒst] 美[diːˈfrɔːst]
+$vt. 除霜
+%vi. 解冻
+    defrost the refrigerator regularly
+#定期给冰箱除霜
+    Defrost the chicken thoroughly before cooking.
+#烧鸡肉之前把鸡肉彻底解冻。
+
+evocative: 英[ɪˈvɒkətɪv] 美[ɪˈvɑːkətɪv]
+%adj. 唤起的；唤出的
+    an evocative description
+#令人浮想联翩的描述
+    be evocative of spring
+#令人联想起春天
+    an incident evocative of old memories
+#唤起对旧时回忆的事情
+    The pebbled streets and traditional shops are evocative of a completely different era.
+#铺着鹅卵石的街道和传统的商店令人想起一个完全不同的时代。
+
+modulate: 英[ˈmɒdjəleɪt] 美[ˈmɑːdʒəleɪt]
+$vt. 调节；（信号）调制；调整
+%vi. 调制；转调
+    modulate the foreign policy
+#调整外交政策
+    modulate the sound on the TV
+#调整电视机的声音
+    An elected committee will meet monthly to modulate the government's energy policy.
+#一个选产生的委员会将每月碰面调整政府的能源政策。
+
+upheaval: 英[ʌpˈhiːv(ə)l] 美[ʌpˈhiːv(ə)l]
+%n. 激变，剧变；（地壳）隆起
+    a period of political upheaval
+#政治动荡动期
+    He survived the upheaval that followed the murder.
+#他在那次谋杀之后的混乱局面中幸免于难。
+
+concord: 英[ˈkɒŋkɔːd] 美[ˈkɑːnkɔːrd]
+%n. 和谐；和睦；一致；协调
+    the concord of husband and wife
+#（夫妻间的）琴瑟和鸣
+    live in concord
+#和睡相处
+    These neighboring states have lived in concord for centuries.
+#这些邻国已和睡相处几个世纪了。
+
+heed: 英[hiːd] 美[hiːd]
+$v. <正式>注意，留心
+%n. <正式>注意，留心
+    He was unlikely to give heed to advice from such a source.
+#他不可能听从这种渠道来的建议。
+
+onset: 英[ˈɒnset] 美[ˈɑːnset]
+%n. （尤指某种坏事情的）开始，发作；军事攻击
+    the onset of the enemy
+#敌人发起的进攻
+    the onset of spring
+#春天伊始
+    the onset of a nasty cold
+#重感冒的发作
+    The negotiators have given up hope of signing a peace settlement before the onset of winter.
+#谈判人员已放弃在冬天开始之前签署和平协议的希望。
+
+crystalline: 英[ˈkrɪstəlaɪn] 美[ˈkrɪstəlaɪn]
+%adj. 透明的；水晶般的；水晶制的
+    a crystalline sheet of ice
+#一层层晶莹的薄冰
+    crystalline pendants hanging from the chandelier
+#枝形吊灯垂下的水晶垂饰
+    Her singing voice has a pure, crystalline quality.
+#她的歌喉如水晶般纯净、清激。
+
+irritable: 英[ˈɪrɪtəb(ə)l] 美[ˈɪrɪtəb(ə)l]
+%adj. 易怒的，急躁的；（身体部位或器官）过敏的；（生物机体）应激性的
+    Be careful of what you say -- he's rather irritable today.
+#当心你说的话，他今天脾气很大。
+
+lumber: 英[ˈlʌmbə(r)] 美[ˈlʌmbər]
+$v. 缓慢地移动，笨拙地行走；迫使担负（工作或责任）；<美>伐木；逢场作戏地结识；乱堆
+%n. 木材；<英>废旧家具，废旧大件杂物；被看作可能成为性伴侣的人
+    We saw an elephant lumbering along the road.
+#我们看见一头大象沿着公路缓缓走着。
+    get lumbered with money
+#陷入经济困难
+    lumber the junk together
+#把乱七八糟的东西堆到一起
+    a room lumbered with useless articles
+#堆满废物的房间
+
+tensile: 英[ˈtensaɪl] 美[ˈtens(ə)l]
+%adj. 可拉长的，可伸展的；张力的，抗张的
+    tensile force
+#拉力
+    a tensile metal
+#延展性金属
+
+muster: 英[ˈmʌstə(r)] 美[ˈmʌstər]
+$v. 寻求，聚集（支持、勇气等）；召集，（尤指士兵）集合；<澳新>赶拢（牛、羊）
+%n. （尤指视察、检阅或演习时部队的）集合，集结；点名册（muster roll 的简称）；<澳新>赶拢（家畜）；<澳新，非正式>（参加集会的）人数
+    muster the troops
+#召集军队
+    muster the ship crew
+#对全体船员点名
+    pass muster
+#通过检查，被认为合格
+    He managed to muster (up) his courage to ask her to the cinema.
+#他终于鼓起勇气请她去看电影。
+
+oxidize: 英[ˈɒksɪdaɪz] 美[ˈɑːksɪdaɪz]
+$vt. 使氧化；使生锈
+%vi. 氧化
+    Iron becomes rusty when it oxidizes.
+#铁氧化时会生锈。
+
+buoy: 英[bɔɪ] 美[ˈbuːi]
+$n. 浮标，航标；救生圈
+%v. 使浮起，使漂起；鼓励，使有信心；使保持高价；支持，使更成功；用浮标指示，为……设浮标
+    a light buoy
+#灯浮标
+    buoy a channel
+#用浮标指示航道
+    He was buoyed up by hopes of success.
+#成功的希望使他倍受鼓舞。
+
+certification: 英[ˌsɜːtɪfɪˈkeɪʃ(ə)n] 美[ˌsɜːrtɪfɪˈkeɪʃ(ə)n]
+%n. 证明，资质证书；出具课程结业证书
+    certification of fitness
+#质量合格证
+    export certification
+#出口证明
+    The customs official asked her to show the certification of proof.
+#海关官员要她出示检验证书。
+
+expulsion: 英[ɪkˈspʌlʃ(ə)n] 美[ɪkˈspʌlʃn]
+%n. 驱逐；开除
+    expulsion from the country
+#驱逐出境
+    the expulsion of military advisers
+#军事顾问的被驱逐
+    The punishment for this kind of behavior is expulsion from school.
+#对这种行为的惩罚就是开除学籍。
+
+sterilize: 英[ˈsterəlaɪz] 美[ˈsterəlaɪz]
+%vt. 消毒，杀菌；使成不毛；使绝育；使不起作用
+    After having five children, she decided to be sterilized.
+#有了5个孩子后，她决定去做绝育。
+
+eloquence: 英[ˈeləkwəns] 美[ˈeləkwəns]
+%n. 流利的口才，流畅的文笔；雄辩术，修辞
+    a flow of eloquence
+#口若悬河的辩才
+    a man of great eloquence
+#极善辞令的人
+    Talking and eloquence are not the same: to speak, and to speak well are two things.
+#说话和有口才不一样，一个是说，一个是说得好，这是两码事。
+
+gild: 英[ɡɪld] 美[ɡɪld]
+$vt. 镀金；虚饰；供给钱
+%n. （Gild）人名；（俄）希尔德
+    gild bronze doors
+#给铜门镀金
+    gild a lie
+#掩饰谎言
+    gild the lily
+#画蛇添足
+    The statue, recently gilded, shone brightly in the mid-day sun.
+#这尊塑像最近镀了层金，在正午的阳光下格外耀眼。
+
+petal: 英[ˈpet(ə)l] 美[ˈpet(ə)l]
+%n. 花瓣
+    a yellow petal edged with pink
+#一片粉红色边的黄色花瓣
+    Petaling thoroughly, the rose in the garden looks quite beautiful.
+#花园里的玫瑰花绽放着，看上去美极了。
+
+mobility: 英[məʊˈbɪləti] 美[moʊˈbɪləti]
+%n. （住处、社会阶层、职业方面的）流动能力；活动性，灵活性
+    the mobility of the arm
+#手臂的灵活性
+    labor mobility
+#劳动力的流动性
+    the mobility of one's face
+#某人多变的面部表情
+    For children from poorer families, the main hope of social mobility is through education.
+#对于贫困家庭的孩子来说，出人头地的主要希望就是依靠教育。
+
+peck: 英[pek] 美[pek]
+$v. 啄，啄食；匆匆轻吻；缓慢而费力地用打字机打；<非正式>（马）向前跌倒
+%n. 匆匆的轻吻；（鸟的）啄；配克（谷物、水果等的干量单位，等于8夸脱）；啄痕
+    peck its way out of its shell
+#啄出売
+    peck sb. on the cheek
+#轻吻某人的脸频
+    peck a pottery jar out of the hole
+#从洞中挖出一陶罐
+    give sb. a slight peck of farewell
+#轻轻吻别某人
+    eat a peck of salt with sb.
+#很了解某人，与某人相处很久
+
+peril: 英[ˈperəl] 美[ˈperəl]
+$n. 巨大的危险，危难；（某活动或行为的）危险，问题
+%v. <古>使有危险，使临险境，危及
+    be fraught with perils
+#充满危险
+    survive the perils of the Arctic winter
+#扛过北极的严冬而生存下来
+    be full of perils
+#险象环生
+    peril one's life
+#冒生命的危险
+    at one's peril
+#（尤用以告诚自己）由自己负责，由自己承担风险
+    He never felt that his life was in peril.
+#他从未意识到自己的生活处于危险中。
+
+unfold: 英[ʌnˈfəʊld] 美[ʌnˈfoʊld]
+%v. 打开，展开；呈现，逐渐明朗；发生，发展
+    unfold one's arms
+#张开双臂
+    unfold a map
+#打开地图
+    unfold a letter
+#打开信
+    unfold the plot from several angles
+#从个角度展开故事情节
+    unfolding flowers
+#绽放的花
+    I've arranged a lunch with him next Thursday at which I intended to unfold my proposal.
+#我已安排好下周四与他共进午餐，席间我打算披露我的计划。
+
+orchard: 英[ˈɔːtʃəd] 美[ˈɔːrtʃərd]
+%n. 果园；果树林
+    a cherry orchard
+#樱桃园
+    There is an apple orchard at the back of the village.
+#村庄后面有一个苹果园。
+
+speck: 英[spek] 美[spek]
+$n. 灰尘；污点；小颗粒
+$vt. 使有斑点
+%n. （Speck）人名；（英）斯佩克；（德）施佩克
+    rub the specks off the window
+#擦去窗上的斑点
+    not a speck of dust/dirt
+#没有一点灰尘
+    a speck of light
+#一点光亮
+    be specked by ink
+#让墨水弄脏
+    a speck of courage
+#一丝勇气
+    After he'd painted the door, he found specks of paint all over the floor.
+#他给门上完漆后，发现地板上全是油漆斑点。
+
+engross: 英[ɪnˈɡrəʊs] 美[ɪnˈɡroʊs]
+%vt. 使全神贯注；用大字体书写；正式写成（决议等）；独占；吸引
+    be engrossed by an interesting story
+#被一个有趣的故事迷住
+    be deeply/completely engrossed in
+#沉醉其中
+    She was so engrossed in what she was doing that she didn't hear me come in.
+#她那么全神注地做着手头的事，我进来都没有听到。
+
+exclamation: 英[ˌekskləˈmeɪʃ(ə)n] 美[ˌekskləˈmeɪʃn]
+%n. 惊叫，感叹；感叹语，感叹词
+    an exclamation of pain
+#痛苦的叫声
+    give an involuntary exclamation
+#不由自主地叫了一声
+    break into the most passionate exclamations against sb.
+#用最激烈的言辞咒骂某人
+    an exclamation mark
+#感叹号
+    They embraced with exclamations of happiness.
+#他们一边拥抱，一边互相喊着祝福的话。
+
+meddle: 英[ˈmed(ə)l] 美[ˈmed(ə)l]
+%v. 干涉，管闲事，干预他人之事；瞎搞，乱弄
+    meddle in one's affairs
+#干涉某人的事
+    This experience should have taught you what happens when you meddle with things you don't understand.
+#这次经历应该使你明白插手自己一窍不通的事情的危害是什么。
+
+bracelet: 英[ˈbreɪslət] 美[ˈbreɪslət]
+%n. 手镯，臂镯
+    There are some gold and silver bracelets on display in the window.
+#橱窗里展出了一些金手锡和银手锡。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

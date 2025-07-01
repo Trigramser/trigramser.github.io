@@ -1,0 +1,443 @@
+<<<<<<< HEAD
+marvel:
+    She marveled over the improvement in our work.
+#她对我们工作中的改进感到很惊奇。
+
+glitter:
+    The sea glittered in the sun.
+#大海在阳光下闪闪发光。
+
+shield:
+    The ozone layer shields the earth from the sun's ultraviolet rays.
+#臭氧层保护地球不受太阳紫外线的辐射。
+
+loosen:
+    It was hot in the room and the men began to loosen their ties.
+#房间里很热，男士们开始松开领带。
+
+plead:
+    A middle-aged woman climbed onto the tank to plead with the soldiers not to shoot.
+#一名中年妇女爬上坦克，恳求士兵们不要开火。
+
+prey:
+    Small children are prey to all sorts of fears.
+#幼儿易受到各种惊吓。
+
+refute:
+    The lawyer used the new evidence to refute the charges and clear the defendant.
+#律师用新的证据驳倒指控，为被告洗清罪名。
+
+tame:
+    The birds in the park are quite tame and will take food from your hand.
+#公园里的鸟很温顺，会吃你亲手喂给它们的食物。
+
+combat:
+    The film explores the combat between good and evil.
+#这部电影探讨了善恶之间的斗争问题。
+
+construct:
+    The wall was constructed of concrete.
+#这堵墙用混凝土筑成。
+
+alter:
+    It is still the same book. Only the cover has been altered.
+#这仍是同一本书，只是封面改了。
+
+ample:
+    You'll have ample opportunity to ask questions after the talk.
+#等演讲完了，你们会有充分的机会提问。
+
+plenary:
+    The issue is expected to be discussed at the plenary session of the UN Security Council.
+#这一问题将在联合国安理会全体会议上讨论。
+
+empirical:
+    We now have empirical evidence that the moon is covered with dust.
+#现在我们有经验性证据证明月球上布满了尘埃。
+
+heave:
+    His chest heaved as he breathed deeply after the race.
+#赛跑之后，他深深地喘着气，胸口起伏着。
+
+sour:
+    She was a sour old lady who never had a good word for anybody.
+#她是个坏牌气的老太太，对任何人都很反感。
+
+civilian:
+    When soldiers are on leave, they tend to wear civilian clothes rather than their military uniforms.
+#士兵休假时往往穿便服而不是穿军装。
+
+ballot:
+    They held a ballot to choose a new leader.
+#他们投票选举一个新领导人。
+
+junction:
+    It is a railway junction where lines from all over the country meet.
+#这是全国铁路线交汇的枢纽站。
+
+mast:
+    During the storm, the crew of the ship clung to the mast to stop themselves from being washed.
+#暴中，船员紧抓着船桅，以防被冲走
+
+orthodox:
+    The orthodox Chinese medicine uses medicinal herbs, acupuncture treatment, Chinese massage, etc. to treat patients.
+#正统的中医用草药、针灸疗法推拿等来医治病人。
+
+jolt:
+    As the plane touched the ground, there is a massive jolt and we were thrown forward.
+#飞机着陆时剧烈颠簸，我们猛地向前一冲。
+
+cartoon:
+    Traditional folk tales have often been made into cartoons.
+#传统民间故事经常被制成卡通片。
+
+rehearse:
+    The actors were rehearsing the play until two o'clock in the morning.
+#演员们一直在排练这出戏，直到凌晨两点钟。
+
+forgery:
+    He later found that the painting was a forgery.
+#他后来发现那幅画是个赝品。
+
+ardent:
+    He's an ardent supporter of the local football team.
+#他是本地足球队的热情支持者。
+
+flutter:
+    The blue butterflies fluttered among the blossoms.
+#蓝色的蝴蝶在花间飞舞。
+
+aerial:
+    The massive aerial bombing lasted for several days.
+#大规模的空中轰炸持续了数天。
+
+charity:
+    She makes regular donations to charity.
+#她进行定期的慈善捐款。
+
+peel:
+    She picked up the thrown banana peel in case she should get fined for littering it.
+#她把扔掉的香蕉皮捡了起来以免因乱丢垃圾被罚款。
+
+boom:
+    The horn boomed out to warn the passing ships of the dangerous rocks.
+#号角发出鸣鸣声，提醒过往船只注意危险的礁石。
+
+slice:
+    A large slice of the family's income is used to pay loans, by which they got their present cars.
+#的大部分收入用于偿还贷款，也就是靠这些贷款才有现在的几辆汽车。
+
+rustle:
+    Her long silk skirt rustled as she walked.
+#她走动时，她的丝绸长裙就寒窣作响。
+
+cult:
+    Her novels attracted an enthusiastic cult.
+#她的小说引发了一阵狂热追捧。
+
+oath:
+    The new staff members took an oath of office.
+#新上任的工作人员进行了就职宣誓。
+
+blade:
+    The blade needs sharpening.
+#这个刀片需要磨下。
+
+alleviate:
+    This money should alleviate our financial problems.
+#这笔钱应该能缓和我们的财政问题。
+
+forum:
+    The letter page of the newspaper is a forum for public argument.
+#该报的读者来信栏是公众辩论的论坛。
+
+kangaroo:
+    Female kangaroos carry their young in a pouch on their stomachs.
+#母袋鼠把幼仔放在腹部的育儿袋里。
+
+marshal:
+    The book fails to marshal facts into a coherent argument.
+#这本书没能将事实整理成连贯的论据。
+
+relic:
+    During the dig, the archeological team found some relics from the Stone Age.
+#在发掘中，考古队发现了石器时代的一些遗物。
+
+ignorant:
+    Many teenagers are surprisingly ignorant about current politics.
+#许多青少年对时事政治表现出惊人的无知。
+
+overflow:
+    The bathtub is overflowing. To stop the water, someone has to change the water tap.
+#浴缸里的水在往外溢，要止住水就得找人换水龙头。
+
+glisten:
+    The road glistened wet after the rain.
+#雨后的道路润泽闪亮。
+
+advent:
+    People are much better informed since the advent of television.
+#自从出现了电视，人们的消息灵通多了。
+
+versatile:
+    It is a versatile garment that can be worn in all seasons.
+#这是一种多功能衣服，任何季节都能穿
+
+mechanism:
+    An automobile engine is a complex mechanism.
+#汽车发动机是复杂的机械装置。
+
+stun:
+    The man's sudden appearance at the party 10 years after running away from home stunned everybody.
+#那人离家出走十年之后突然出现在聚会上，这使每个人都大为震惊。
+
+suspicion:
+    The behavior of the stranger aroused our suspicion.
+#这名陌生人的行为引起了我们的怀疑。
+
+overthrow:
+    Their purpose was to overthrow that government.
+#他们的目的就是推翻该政府。
+
+omelet(te):
+    I'd like a mushroom omelette for lunch.
+#我午饭想吃蘑菇煎蛋饼。
+
+fuss:
+    You shouldn't make all that fuss about so simple a matter.
+#这么简单的事，你不该那么大惊小怪。
+
+vile:
+    We had a terrible holiday -- the hotel was vile, the food was vile and the weather was vile.
+#我们的假期糟透了——旅馆不舒服，食物不好吃，天气不如人意。
+
+impoverish:
+    Lack of fertilizer impoverished the soil.
+#缺少化肥使土壤贫瘠。
+
+incur:
+    The play has incurred the anger of both audiences and critics.
+#这出戏同时使观众和批评家气愤。
+
+=======
+marvel:
+    She marveled over the improvement in our work.
+#她对我们工作中的改进感到很惊奇。
+
+glitter:
+    The sea glittered in the sun.
+#大海在阳光下闪闪发光。
+
+shield:
+    The ozone layer shields the earth from the sun's ultraviolet rays.
+#臭氧层保护地球不受太阳紫外线的辐射。
+
+loosen:
+    It was hot in the room and the men began to loosen their ties.
+#房间里很热，男士们开始松开领带。
+
+plead:
+    A middle-aged woman climbed onto the tank to plead with the soldiers not to shoot.
+#一名中年妇女爬上坦克，恳求士兵们不要开火。
+
+prey:
+    Small children are prey to all sorts of fears.
+#幼儿易受到各种惊吓。
+
+refute:
+    The lawyer used the new evidence to refute the charges and clear the defendant.
+#律师用新的证据驳倒指控，为被告洗清罪名。
+
+tame:
+    The birds in the park are quite tame and will take food from your hand.
+#公园里的鸟很温顺，会吃你亲手喂给它们的食物。
+
+combat:
+    The film explores the combat between good and evil.
+#这部电影探讨了善恶之间的斗争问题。
+
+construct:
+    The wall was constructed of concrete.
+#这堵墙用混凝土筑成。
+
+alter:
+    It is still the same book. Only the cover has been altered.
+#这仍是同一本书，只是封面改了。
+
+ample:
+    You'll have ample opportunity to ask questions after the talk.
+#等演讲完了，你们会有充分的机会提问。
+
+plenary:
+    The issue is expected to be discussed at the plenary session of the UN Security Council.
+#这一问题将在联合国安理会全体会议上讨论。
+
+empirical:
+    We now have empirical evidence that the moon is covered with dust.
+#现在我们有经验性证据证明月球上布满了尘埃。
+
+heave:
+    His chest heaved as he breathed deeply after the race.
+#赛跑之后，他深深地喘着气，胸口起伏着。
+
+sour:
+    She was a sour old lady who never had a good word for anybody.
+#她是个坏牌气的老太太，对任何人都很反感。
+
+civilian:
+    When soldiers are on leave, they tend to wear civilian clothes rather than their military uniforms.
+#士兵休假时往往穿便服而不是穿军装。
+
+ballot:
+    They held a ballot to choose a new leader.
+#他们投票选举一个新领导人。
+
+junction:
+    It is a railway junction where lines from all over the country meet.
+#这是全国铁路线交汇的枢纽站。
+
+mast:
+    During the storm, the crew of the ship clung to the mast to stop themselves from being washed.
+#暴中，船员紧抓着船桅，以防被冲走
+
+orthodox:
+    The orthodox Chinese medicine uses medicinal herbs, acupuncture treatment, Chinese massage, etc. to treat patients.
+#正统的中医用草药、针灸疗法推拿等来医治病人。
+
+jolt:
+    As the plane touched the ground, there is a massive jolt and we were thrown forward.
+#飞机着陆时剧烈颠簸，我们猛地向前一冲。
+
+cartoon:
+    Traditional folk tales have often been made into cartoons.
+#传统民间故事经常被制成卡通片。
+
+rehearse:
+    The actors were rehearsing the play until two o'clock in the morning.
+#演员们一直在排练这出戏，直到凌晨两点钟。
+
+forgery:
+    He later found that the painting was a forgery.
+#他后来发现那幅画是个赝品。
+
+ardent:
+    He's an ardent supporter of the local football team.
+#他是本地足球队的热情支持者。
+
+flutter:
+    The blue butterflies fluttered among the blossoms.
+#蓝色的蝴蝶在花间飞舞。
+
+aerial:
+    The massive aerial bombing lasted for several days.
+#大规模的空中轰炸持续了数天。
+
+charity:
+    She makes regular donations to charity.
+#她进行定期的慈善捐款。
+
+peel:
+    She picked up the thrown banana peel in case she should get fined for littering it.
+#她把扔掉的香蕉皮捡了起来以免因乱丢垃圾被罚款。
+
+boom:
+    The horn boomed out to warn the passing ships of the dangerous rocks.
+#号角发出鸣鸣声，提醒过往船只注意危险的礁石。
+
+slice:
+    A large slice of the family's income is used to pay loans, by which they got their present cars.
+#的大部分收入用于偿还贷款，也就是靠这些贷款才有现在的几辆汽车。
+
+rustle:
+    Her long silk skirt rustled as she walked.
+#她走动时，她的丝绸长裙就寒窣作响。
+
+cult:
+    Her novels attracted an enthusiastic cult.
+#她的小说引发了一阵狂热追捧。
+
+oath:
+    The new staff members took an oath of office.
+#新上任的工作人员进行了就职宣誓。
+
+blade:
+    The blade needs sharpening.
+#这个刀片需要磨下。
+
+alleviate:
+    This money should alleviate our financial problems.
+#这笔钱应该能缓和我们的财政问题。
+
+forum:
+    The letter page of the newspaper is a forum for public argument.
+#该报的读者来信栏是公众辩论的论坛。
+
+kangaroo:
+    Female kangaroos carry their young in a pouch on their stomachs.
+#母袋鼠把幼仔放在腹部的育儿袋里。
+
+marshal:
+    The book fails to marshal facts into a coherent argument.
+#这本书没能将事实整理成连贯的论据。
+
+relic:
+    During the dig, the archeological team found some relics from the Stone Age.
+#在发掘中，考古队发现了石器时代的一些遗物。
+
+ignorant:
+    Many teenagers are surprisingly ignorant about current politics.
+#许多青少年对时事政治表现出惊人的无知。
+
+overflow:
+    The bathtub is overflowing. To stop the water, someone has to change the water tap.
+#浴缸里的水在往外溢，要止住水就得找人换水龙头。
+
+glisten:
+    The road glistened wet after the rain.
+#雨后的道路润泽闪亮。
+
+advent:
+    People are much better informed since the advent of television.
+#自从出现了电视，人们的消息灵通多了。
+
+versatile:
+    It is a versatile garment that can be worn in all seasons.
+#这是一种多功能衣服，任何季节都能穿
+
+mechanism:
+    An automobile engine is a complex mechanism.
+#汽车发动机是复杂的机械装置。
+
+stun:
+    The man's sudden appearance at the party 10 years after running away from home stunned everybody.
+#那人离家出走十年之后突然出现在聚会上，这使每个人都大为震惊。
+
+suspicion:
+    The behavior of the stranger aroused our suspicion.
+#这名陌生人的行为引起了我们的怀疑。
+
+overthrow:
+    Their purpose was to overthrow that government.
+#他们的目的就是推翻该政府。
+
+omelet(te):
+    I'd like a mushroom omelette for lunch.
+#我午饭想吃蘑菇煎蛋饼。
+
+fuss:
+    You shouldn't make all that fuss about so simple a matter.
+#这么简单的事，你不该那么大惊小怪。
+
+vile:
+    We had a terrible holiday -- the hotel was vile, the food was vile and the weather was vile.
+#我们的假期糟透了——旅馆不舒服，食物不好吃，天气不如人意。
+
+impoverish:
+    Lack of fertilizer impoverished the soil.
+#缺少化肥使土壤贫瘠。
+
+incur:
+    The play has incurred the anger of both audiences and critics.
+#这出戏同时使观众和批评家气愤。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,915 @@
+<<<<<<< HEAD
+stratify: 英[ˈstrætɪfaɪ] 美[ˈstrætɪfaɪ]
+$vt. 分层；成层；使形成阶层
+%vi. 分层；成层；阶层化
+    stratified rock
+#成层岩
+    That is a rigidly stratified society.
+#那是一个阶层划分森严的社会。
+
+cordiality: 英[ˌkɔːdiˈæləti] 美[ˌkɔːrdʒiˈæləti]
+%n. 热情，友好
+    false cordialities
+#虚情假意
+    He stared at her evenly, all cordiality gone.
+#他冷冷地望着她，刚才热诚的样子消失得一干二净。
+
+avarice: 英[ˈævərɪs] 美[ˈævərɪs]
+%n. 贪婪，贪财
+    He paid a month's rent in advance just enough to satisfy the landlady's avarice.
+#他预交了一个月的房租，勉强满足了房东的贪心。
+
+misalliance: 英[ˌmɪsəˈlaɪəns] 美[ˌmɪsəˈlaɪəns]
+%n. 不适当的结合；不适当的婚姻
+    I regret the misalliance.
+#我为那桩不匹配的婚姻感到懊悔。
+
+ultimate: 英[ˈʌltɪmət] 美[ˈʌltɪmət]
+$adj. 最终的，最后的；最根本的，最基础的；极限的，终极的；首要的，决定性的；（太空或时空中）最遥远的；（物理）极限的
+$n. 最好的事物，最终的事物；最终（或最根本）的事实（或原则）；<美>极限飞盘（Ultimate Frisbee 的简称）
+%v. 结束
+    the ultimate limits of the universe
+#宇宙的极限
+    an ultimate principle
+#基本原理
+    the ultimate authority
+#最高当局
+    the ultimate cost of a project
+#一项工程的总成本
+    the ultimate of one's desires
+#个人最终的愿望
+    the ultimate source of success
+#成功之本
+    Her ultimate destination was Paris.
+#她的最后目的地是巴黎
+
+plainspoken: 英[ˌpleɪnˈspəʊkən] 美[ˈpleɪnˈspoʊkən]
+%adj. 老实说的；直言不讳的；说话直率的
+    a plainspoken girl
+#快人快语的女孩
+
+insightful: 英[ɪnˈsaɪtf(ə)l] 美[ɪnˈsaɪtf(ə)l]
+%adj. 富有洞察力的，有深刻见解的
+    His new essay on the relationship of man and nature is insightful and rewarding.
+#他那篇关于人与自然关系的新论文很有见地，也很有价值。
+
+corruption: 英[kəˈrʌpʃ(ə)n] 美[kəˈrʌpʃ(ə)n]
+%n. 贪污，腐败；堕落，腐蚀；（电脑上资讯的）破坏，损坏；（语言）变体；<古>腐坏，腐烂
+    political corruption
+#政治腐败
+    an official above corruption
+#不受贿赂的官员
+    the corruption of a translated passage
+#与原文出人很大的一段译文例
+    Greed is the corruption of minds.
+#贪梦腐蚀人的思想。
+
+commercialize: 英[kəˈmɜːʃəlaɪz] 美[kəˈmɜːrʃəlaɪz]
+%v. 使商业化；使商品化
+    commercialize sport
+#把体育运动商品化
+    commercialize art
+#艺术商品化
+    a highly commercialized country
+#商业极度发达的国家
+
+counteract: 英[ˌkaʊntərˈækt] 美[ˌkaʊntərˈækt]
+%v. 抵制，抵消，中和
+    counteract sb.'s bad influence
+#抵消某人的恶劣影响
+    counteract a fever with aspirin
+#用阿司匹林散热
+    The drug counteracts the effects of the poison.
+#这种药可抵消毒物的作用。
+
+termite: 英[ˈtɜːmaɪt] 美[ˈtɜːrmaɪt]
+%n. [昆] 白蚁
+    a colony of termites
+#白蚁群
+
+anticipatory: 英[ænˌtɪsɪˈpeɪtəri] 美[ænˈtɪsəpətɔːri]
+%adj. 预期的；提早发生的；期待着的
+    He gave an anticipatory shiver.
+#事情还没发生他就打了个寒战。
+
+incontrovertible: 英[ˌɪnkɒntrəˈvɜːtəb(ə)l] 美[ˌɪnkɑːntrəˈvɜːrtəb(ə)l]
+%adj. 无可争议的；无疑的；明白的
+    absolute and incontrovertible truth
+#绝对的、不容置疑的真理
+    an incontrovertible evidence
+#确凿无疑的证据
+    It seemed incontrovertible that he deceived his colleagues.
+#他欺骗了他的同事，这看来无可否认。
+
+pompous: 英[ˈpɒmpəs] 美[ˈpɑːmpəs]
+%adj. 自大的；浮夸的；华而不实的；爱炫耀的
+    a pompous politician
+#自命不凡的政客
+    be pompous in manner
+#态度傲慢
+    pompous rhetoric
+#浮华的辞藻
+    a pompous celebration
+#盛大的庆典活动
+    He was a pompous little official.
+#他是个自大的芝麻官。
+
+enamor: 英[ɪˈnæmə(r)] 美[ɪˈnæmər]
+%vt. 使迷恋，使倾心
+    He's so enamored of his own plan that he won't even consider mine.
+#他太醉心于自己的计划，以至于不考虑我的。
+
+patronizing: 英[ˈpætrənaɪzɪŋ] 美[ˈpeɪtrənaɪzɪŋ]
+$v. 以高人一等的态度对待；（经常）惠顾；赞助（patronize 的现在分词）
+%adj. （说话、行为）自认为高人一等的
+    a patronizing attitude
+#一副优越屈尊的态度
+    A patronizing remark
+#傲慢的话
+    I can't bear his patronizing arrogance.
+#我不能忍受他那种屈尊俯就的傲慢态度。
+
+inure: 英[ɪˈnjʊə(r)] 美[ɪˈnjʊr]
+$vt. 使……习惯；使……适应
+%vi. 适用；起作用；有助于
+    inure oneself to hardships
+#使自己习惯于苦难
+    be inured to cold and hunger
+#习惯于忍饥受冻
+    Sick pay inured from the first day of illness.
+#病假工资从生病的第一天开始执行。
+
+incredulity: 英[ˌɪnkrəˈdjuːləti] 美[ˌɪnkrəˈduːləti]
+%n. 怀疑；不轻信，不易相信
+    an expression of sheer incredulity
+#绝对不信的神情
+
+inconvenient: 英[ˌɪnkənˈviːniənt] 美[ˌɪnkənˈviːniənt]
+%adj. 不便的；打扰的
+    an inconvenient time
+#时间不合时宜
+    an inconvenient day
+#不合时宜的一天
+    Shelves that are too high to reach easily are inconvenient.
+#书架太高，伸手不容易够着，用起来就不方便。
+
+endear: 英[ɪnˈdɪə(r)] 美[ɪnˈdɪr]
+%v. （使）受欢迎（或喜爱、爱慕）；（使）成本、价值或估价更高
+    endear oneself by acts of generosity
+#以慷慨行为赢得人们的喜爱
+    Her kindness endeared her to the neighbors.
+#她心地善良，邻居们都喜欢她。
+
+nutritional: 英[njuˈtrɪʃən(ə)l] 美[nuˈtrɪʃən(ə)l]
+%adj. 营养的
+    the good nutritional value of milk
+#牛奶丰富的营养价值
+
+anaerobic: 英[ˌænəˈrəʊbɪk] 美[ˌænəˈroʊbɪk]
+%adj. [微] 厌氧的，[微] 厌气的；没有气而能生活的
+    anaerobic respiration
+#厌氧呼吸
+
+homespun: 英[ˈhəʊmspʌn] 美[ˈhoʊmspʌn]
+$adj. 朴素的，简朴的；手织的
+%n. 土布；手织品
+    homespun fabric
+#手织布
+    homespun philosophy
+#朴素的哲学
+
+asunder: 英[əˈsʌndə(r)] 美[əˈsʌndər]
+$adv. 化为碎片地，被撕裂；（诗/文）分开地，分离地
+%adj. 化为碎片地，被撕裂；（诗/文）分开地，分离地
+    tear the sofa asunder
+#发沙发拆分
+    as asunder as pole and pole
+#像两极那样分隔得很远
+    The boat was torn asunder on the rocks.
+#船被石撞成了碎片。
+
+mournful: 英[ˈmɔːnf(ə)l] 美[ˈmɔːrnf(ə)l]
+%adj. 悲哀的；令人惋惜的
+    a mournful song
+#忧伤的歌
+    mournful news
+#令人悲痛的消息
+    the mournful cry of a wolf
+#狼凄厉的嚎叫声
+    take a mournful view of human affairs
+#对人间世事抱悲观态度
+    I saw a mournful expression on her face.
+#我看到她脸上的悲痛表情。
+
+typify: 英[ˈtɪpɪfaɪ] 美[ˈtɪpɪfaɪ]
+%vt. 代表；作为……的典型；具有……的特点
+    typify peace
+#象征和平
+    She typified the bored housewife.
+#她是那种百无聊赖的家庭主妇的典型。
+
+distasteful: 英[dɪsˈteɪstfl] 美[dɪsˈteɪstf(ə)l]
+%adj. 令人反感的，令人生厌的；不合口味的；低俗的，下流的
+    a distasteful job
+#令入不愉快的工作
+    distasteful medicine
+#难吃的药
+    a distasteful expression on sb.'s face
+#某人脸上厌恶的表情
+    a distasteful joke
+#令人倒胃口的笑话
+    The idea is distasteful to me.
+#那个主意令我反感。
+
+inalienable: 英[ɪnˈeɪliənəbl] 美[ɪnˈeɪliənəb(ə)l]
+%adj. 不可分割的；不可剥夺的；不能让与的
+    an inalienable part of the territory of a country
+#国领土不可分割的一部分
+    the inalienable rights of freedom
+#不可剥夺的自由
+
+officious: 英[əˈfɪʃəs] 美[əˈfɪʃəs]
+%adj. 摆官架子的；爱管闲事的；乐于助人的
+    an officious exchange of views
+#非正式交换意见
+    When people put on uniforms their manner becomes more officious.
+#人们穿上制服后会变得爱指手画脚。
+
+photosensitive: 英[ˌfəʊtəʊˈsensətɪv] 美[ˌfoʊtoʊˈsensətɪv]
+%adj. [电子] 光敏的；感光性的
+    photosensitive glass
+#光敏玻璃
+
+ruminant: 英[ˈruːmɪnənt] 美[ˈruːmɪnənt]
+$n. 反刍动物；沉思默想的人
+%adj. 反刍动物的；沉思默想的
+    The cow is ruminant.
+#牛是反刍动物。
+
+entice: 英[ɪnˈtaɪs] 美[ɪnˈtaɪs]
+%v. 诱使，引诱
+    entice a young girl away from home
+#引诱一个姑娘离家出走
+    entice sb. into joining the conspiracy
+#诱使某人加入阴谋集团
+    The beautiful weather enticed me into the garden.
+#睛朗宜人的天气吸引我到花园里来。
+
+primal: 英[ˈpraɪm(ə)l] 美[ˈpraɪm(ə)l]
+$adj. 原始的；主要的；最初的
+$n. 被压抑童年情绪的释放
+%vt. 释放（被压抑的童年情绪）
+    primal chaos
+#原始的混沌状态
+    a primal necessity
+#基本必需品
+    a primal need
+#第一需求
+    Village life continued in its primal innocence.
+#乡村生活以其原始的纯朴状态继续着。
+
+dogmatist: 英[ˈdɒɡmətɪst] 美[ˈdɔːɡmətɪst]
+%n. 教条主义者；独断家；独断论者
+    I wonder if you realize that, you dogmatist. 
+#我不知道你是否意识到这一点，你这个教条主义者。
+
+egalitarian: 英[iˌɡælɪˈteəriən] 美[iˌɡælɪˈteriən]
+$adj. 主张人人平等的
+%n. 平等主义者；平等主义
+    I still believe in the notion of an egalitarian society.
+#我仍然相信平等主义社会的理念。
+
+vicissitude: 英[vɪˈsɪsɪtjuːd] 美[vɪˈsɪsɪtuːd]
+%n. 变迁；盛衰；变化无常；变迁兴衰
+    the vicissitude of the sea
+#大海的无穷变化
+    The vicissitude of weather
+#天气的变化无常
+    the vicissitude of night and day
+#昼夜的交替
+    the vicissitude of life
+#人生的沉浮
+
+shiny: 英[ˈʃaɪni] 美[ˈʃaɪni]
+%adj. 光滑发亮的，有光泽的
+    a new shiny silver coin
+#闪闪发光的新银币
+    a shiny day
+#晴朗的日子
+    shiny black shoes
+#擦亮的黑皮鞋
+    be shiny with age
+#因使用长久而发亮
+    shiny hair
+#油光的头发
+    He wore a shiny suit.
+#他穿着一套发亮的衣服。
+
+amorphous: 英[əˈmɔːfəs] 美[əˈmɔːrfəs]
+%adj. 无定形的；无组织的；[物] 非晶形的
+    an amorphous boundary
+#不定的边界
+    the amorphous mass of the unemployed
+#形形色色的失业群体
+    I can't understand his amorphous plans.
+#我弄不懂他那杂乱无章的计划。
+
+density: 英[ˈdensəti] 美[ˈdensəti]
+%n. 稠密，密集；密度
+    high density of buildings in town
+#城市建筑的高度密集
+    population density
+#人口密度
+    low-density housing
+#低密度的住房
+
+gaudy: 英[ˈɡɔːdi] 美[ˈɡɔːdi]
+$adj. 华而不实的；俗丽的
+$n. 盛大宴会
+%n. （Gaudy）人名；（法）戈迪
+    a gaudy display of wealth
+#财富的庸俗炫耀
+    in native gaudy costumes
+#穿着五彩缤纷的土著服装
+    Peacocks have gaudy plumage.
+#孔雀长着艳丽夺目的羽毛。
+
+undifferentiated: 英[ˌʌndɪfəˈrenʃieɪtɪd] 美[ˌʌndɪfəˈrenʃieɪtɪd]
+%adj. 分不开的，无差别的
+    The object of mechanical type is the immediate and undifferentiated object. 
+#机械性的客体就是直接的无差别的客体。
+
+reexamined: 英[ˌriːɪɡˈzæmɪn] 美[ˌriːɪɡˈzæmɪn]
+%vt. 重考，复试；再调查
+    He reexamined the validity of various assumptions.
+#他重新检验了各种假设的正确性。
+
+fallow: 英[ˈfæləʊ] 美[ˈfæloʊ]
+$adj. 休耕的；不活跃的
+$n. 休耕地；休耕
+$vt. 使（土地）休闲；潜伏
+%n. （Fallow）人名；（英）法洛
+    fallow land
+#休闲地
+    lie fallow
+#休闲，潜伏着
+    a skill lying fallow
+#尚未发挥的技能
+    Fallow helps to increase the fertility of land.
+#休耕有利于增加土地的肥力。
+
+unsubstantiated: 英[ˌʌnsəbˈstænʃieɪtɪd] 美[ˌʌnsəbˈstænʃieɪtɪd]
+%adj. 未经证实的，无事实根据的
+    an unsubstantiated report
+#未经证实的报告
+    an unsubstantiated accusation
+#无确实根据的指责
+
+artistry: 英[ˈɑːtɪstri] 美[ˈɑːrtɪstri]
+%n. 艺术性；工艺；艺术技巧；艺术效果；艺术工作
+    the artistry of a novel
+#小说的艺术性
+    the artistry of the violinist
+#小提琴家的艺术オ华
+    It takes imagination and artistry to write even a short piece of music.
+#即使写一支短曲也需要想象力和艺术才能。
+
+unerring: 英[ʌnˈɜːrɪŋ] 美[ʌnˈɜːrɪŋ]
+%adj. 无过失的；不犯错误的；没有打歪的
+    an unerring guide
+#不会出错的向导
+    sb.'s unerring sense of direction
+#某人从不出错的方向感
+    With unerring judgment he repeatedly hit the center of the target.
+#他判断无误，连连击中靶心。
+
+quagmire: 英[ˈkwæɡmaɪə(r)] 美[ˈkwæɡmaɪər]
+%n. 沼泽，泥泞地；困境，尴尬的处境
+    slip into an economic quagmire
+#陷入经济困境
+    be lost in quagmires of negotiation
+#陷入无休止的谈判泥沼
+    Rain has turned the country paths into quagmires.
+#雨水使乡村道路变得一片泥污。
+
+raucous: 英[ˈrɔːkəs] 美[ˈrɔːkəs]
+%adj. 沙哑的；刺耳的；粗声的
+    a raucous voice
+#嘶哑的声音
+    a raucous party
+#闹哄哄的宴会
+    a raucous frontier town
+#喧闹的边境小城
+    They heard a bottle being smashed, then more raucous laughter.
+#他们听到瓶子被打碎的声音，然后是更多刺耳的笑声。
+
+frisky: 英[ˈfrɪski] 美[ˈfrɪski]
+%adj. 活泼的；欢闹的
+    a frisky puppy
+#活蹦乱跳的小狗
+    The spring weather is making me feel quite frisky.
+#春天的天气使我感到很愉快。
+
+disputable: 英[dɪˈspjuːtəb(ə)l] 美[dɪˈspjuːtəb(ə)l]
+%adj. 有争议的，有待讨论的
+    a disputable demand
+#有争议的要求
+    His argument is highly disputable.
+#他的论点大可商榷。
+
+self-effacement: 英[ˌself ɪˈfeɪsmənt] 美[ˌself ɪˈfeɪsmənt]
+%n. 谦逊；不出风头
+    He was modest to the point of self-effacement. 
+#他过于谦虚，甚至到了自我轻视的程度。
+
+aromatic: 英[ˌærəˈmætɪk] 美[ˌærəˈmætɪk]
+$adj. 芳香的，芬芳的；芳香族的
+%n. 芳香植物；芳香剂
+    the aromatic breath of pine
+#松木的香气
+    a place with an aromatic name
+#一个名字别致的地方
+    Aromatic herbs are often used in cooking.
+#芳香植物常用于烹调。
+
+overblown: 英[ˌəʊvəˈbləʊn] 美[ˌoʊvərˈbloʊn]
+$adj. 停息的；过分的；已盛开过的
+%v. 吹散；用力吹；过分渲染（overblow 的过去分词）
+    overblown praise
+#过分的赞扬
+    an overblown bureaucracy
+#过分膨胀的官僚机构
+    vastly overblown compliments
+#极尽溢美之词
+    His diction is overblown.
+#他的用词华而不实。
+
+indigent: 英[ˈɪndɪdʒənt] 美[ˈɪndɪdʒənt]
+%adj. 贫困的；贫穷的（副词 indigently）
+    an indigent person
+#穷人
+    an indigent area
+#贫困地区
+    be indigent of moisture
+#一点也不湿润
+    The hospital offers free treatment to indigents.
+#那家医院为穷苦人提供免费治疗。
+
+=======
+stratify: 英[ˈstrætɪfaɪ] 美[ˈstrætɪfaɪ]
+$vt. 分层；成层；使形成阶层
+%vi. 分层；成层；阶层化
+    stratified rock
+#成层岩
+    That is a rigidly stratified society.
+#那是一个阶层划分森严的社会。
+
+cordiality: 英[ˌkɔːdiˈæləti] 美[ˌkɔːrdʒiˈæləti]
+%n. 热情，友好
+    false cordialities
+#虚情假意
+    He stared at her evenly, all cordiality gone.
+#他冷冷地望着她，刚才热诚的样子消失得一干二净。
+
+avarice: 英[ˈævərɪs] 美[ˈævərɪs]
+%n. 贪婪，贪财
+    He paid a month's rent in advance just enough to satisfy the landlady's avarice.
+#他预交了一个月的房租，勉强满足了房东的贪心。
+
+misalliance: 英[ˌmɪsəˈlaɪəns] 美[ˌmɪsəˈlaɪəns]
+%n. 不适当的结合；不适当的婚姻
+    I regret the misalliance.
+#我为那桩不匹配的婚姻感到懊悔。
+
+ultimate: 英[ˈʌltɪmət] 美[ˈʌltɪmət]
+$adj. 最终的，最后的；最根本的，最基础的；极限的，终极的；首要的，决定性的；（太空或时空中）最遥远的；（物理）极限的
+$n. 最好的事物，最终的事物；最终（或最根本）的事实（或原则）；<美>极限飞盘（Ultimate Frisbee 的简称）
+%v. 结束
+    the ultimate limits of the universe
+#宇宙的极限
+    an ultimate principle
+#基本原理
+    the ultimate authority
+#最高当局
+    the ultimate cost of a project
+#一项工程的总成本
+    the ultimate of one's desires
+#个人最终的愿望
+    the ultimate source of success
+#成功之本
+    Her ultimate destination was Paris.
+#她的最后目的地是巴黎
+
+plainspoken: 英[ˌpleɪnˈspəʊkən] 美[ˈpleɪnˈspoʊkən]
+%adj. 老实说的；直言不讳的；说话直率的
+    a plainspoken girl
+#快人快语的女孩
+
+insightful: 英[ɪnˈsaɪtf(ə)l] 美[ɪnˈsaɪtf(ə)l]
+%adj. 富有洞察力的，有深刻见解的
+    His new essay on the relationship of man and nature is insightful and rewarding.
+#他那篇关于人与自然关系的新论文很有见地，也很有价值。
+
+corruption: 英[kəˈrʌpʃ(ə)n] 美[kəˈrʌpʃ(ə)n]
+%n. 贪污，腐败；堕落，腐蚀；（电脑上资讯的）破坏，损坏；（语言）变体；<古>腐坏，腐烂
+    political corruption
+#政治腐败
+    an official above corruption
+#不受贿赂的官员
+    the corruption of a translated passage
+#与原文出人很大的一段译文例
+    Greed is the corruption of minds.
+#贪梦腐蚀人的思想。
+
+commercialize: 英[kəˈmɜːʃəlaɪz] 美[kəˈmɜːrʃəlaɪz]
+%v. 使商业化；使商品化
+    commercialize sport
+#把体育运动商品化
+    commercialize art
+#艺术商品化
+    a highly commercialized country
+#商业极度发达的国家
+
+counteract: 英[ˌkaʊntərˈækt] 美[ˌkaʊntərˈækt]
+%v. 抵制，抵消，中和
+    counteract sb.'s bad influence
+#抵消某人的恶劣影响
+    counteract a fever with aspirin
+#用阿司匹林散热
+    The drug counteracts the effects of the poison.
+#这种药可抵消毒物的作用。
+
+termite: 英[ˈtɜːmaɪt] 美[ˈtɜːrmaɪt]
+%n. [昆] 白蚁
+    a colony of termites
+#白蚁群
+
+anticipatory: 英[ænˌtɪsɪˈpeɪtəri] 美[ænˈtɪsəpətɔːri]
+%adj. 预期的；提早发生的；期待着的
+    He gave an anticipatory shiver.
+#事情还没发生他就打了个寒战。
+
+incontrovertible: 英[ˌɪnkɒntrəˈvɜːtəb(ə)l] 美[ˌɪnkɑːntrəˈvɜːrtəb(ə)l]
+%adj. 无可争议的；无疑的；明白的
+    absolute and incontrovertible truth
+#绝对的、不容置疑的真理
+    an incontrovertible evidence
+#确凿无疑的证据
+    It seemed incontrovertible that he deceived his colleagues.
+#他欺骗了他的同事，这看来无可否认。
+
+pompous: 英[ˈpɒmpəs] 美[ˈpɑːmpəs]
+%adj. 自大的；浮夸的；华而不实的；爱炫耀的
+    a pompous politician
+#自命不凡的政客
+    be pompous in manner
+#态度傲慢
+    pompous rhetoric
+#浮华的辞藻
+    a pompous celebration
+#盛大的庆典活动
+    He was a pompous little official.
+#他是个自大的芝麻官。
+
+enamor: 英[ɪˈnæmə(r)] 美[ɪˈnæmər]
+%vt. 使迷恋，使倾心
+    He's so enamored of his own plan that he won't even consider mine.
+#他太醉心于自己的计划，以至于不考虑我的。
+
+patronizing: 英[ˈpætrənaɪzɪŋ] 美[ˈpeɪtrənaɪzɪŋ]
+$v. 以高人一等的态度对待；（经常）惠顾；赞助（patronize 的现在分词）
+%adj. （说话、行为）自认为高人一等的
+    a patronizing attitude
+#一副优越屈尊的态度
+    A patronizing remark
+#傲慢的话
+    I can't bear his patronizing arrogance.
+#我不能忍受他那种屈尊俯就的傲慢态度。
+
+inure: 英[ɪˈnjʊə(r)] 美[ɪˈnjʊr]
+$vt. 使……习惯；使……适应
+%vi. 适用；起作用；有助于
+    inure oneself to hardships
+#使自己习惯于苦难
+    be inured to cold and hunger
+#习惯于忍饥受冻
+    Sick pay inured from the first day of illness.
+#病假工资从生病的第一天开始执行。
+
+incredulity: 英[ˌɪnkrəˈdjuːləti] 美[ˌɪnkrəˈduːləti]
+%n. 怀疑；不轻信，不易相信
+    an expression of sheer incredulity
+#绝对不信的神情
+
+inconvenient: 英[ˌɪnkənˈviːniənt] 美[ˌɪnkənˈviːniənt]
+%adj. 不便的；打扰的
+    an inconvenient time
+#时间不合时宜
+    an inconvenient day
+#不合时宜的一天
+    Shelves that are too high to reach easily are inconvenient.
+#书架太高，伸手不容易够着，用起来就不方便。
+
+endear: 英[ɪnˈdɪə(r)] 美[ɪnˈdɪr]
+%v. （使）受欢迎（或喜爱、爱慕）；（使）成本、价值或估价更高
+    endear oneself by acts of generosity
+#以慷慨行为赢得人们的喜爱
+    Her kindness endeared her to the neighbors.
+#她心地善良，邻居们都喜欢她。
+
+nutritional: 英[njuˈtrɪʃən(ə)l] 美[nuˈtrɪʃən(ə)l]
+%adj. 营养的
+    the good nutritional value of milk
+#牛奶丰富的营养价值
+
+anaerobic: 英[ˌænəˈrəʊbɪk] 美[ˌænəˈroʊbɪk]
+%adj. [微] 厌氧的，[微] 厌气的；没有气而能生活的
+    anaerobic respiration
+#厌氧呼吸
+
+homespun: 英[ˈhəʊmspʌn] 美[ˈhoʊmspʌn]
+$adj. 朴素的，简朴的；手织的
+%n. 土布；手织品
+    homespun fabric
+#手织布
+    homespun philosophy
+#朴素的哲学
+
+asunder: 英[əˈsʌndə(r)] 美[əˈsʌndər]
+$adv. 化为碎片地，被撕裂；（诗/文）分开地，分离地
+%adj. 化为碎片地，被撕裂；（诗/文）分开地，分离地
+    tear the sofa asunder
+#发沙发拆分
+    as asunder as pole and pole
+#像两极那样分隔得很远
+    The boat was torn asunder on the rocks.
+#船被石撞成了碎片。
+
+mournful: 英[ˈmɔːnf(ə)l] 美[ˈmɔːrnf(ə)l]
+%adj. 悲哀的；令人惋惜的
+    a mournful song
+#忧伤的歌
+    mournful news
+#令人悲痛的消息
+    the mournful cry of a wolf
+#狼凄厉的嚎叫声
+    take a mournful view of human affairs
+#对人间世事抱悲观态度
+    I saw a mournful expression on her face.
+#我看到她脸上的悲痛表情。
+
+typify: 英[ˈtɪpɪfaɪ] 美[ˈtɪpɪfaɪ]
+%vt. 代表；作为……的典型；具有……的特点
+    typify peace
+#象征和平
+    She typified the bored housewife.
+#她是那种百无聊赖的家庭主妇的典型。
+
+distasteful: 英[dɪsˈteɪstfl] 美[dɪsˈteɪstf(ə)l]
+%adj. 令人反感的，令人生厌的；不合口味的；低俗的，下流的
+    a distasteful job
+#令入不愉快的工作
+    distasteful medicine
+#难吃的药
+    a distasteful expression on sb.'s face
+#某人脸上厌恶的表情
+    a distasteful joke
+#令人倒胃口的笑话
+    The idea is distasteful to me.
+#那个主意令我反感。
+
+inalienable: 英[ɪnˈeɪliənəbl] 美[ɪnˈeɪliənəb(ə)l]
+%adj. 不可分割的；不可剥夺的；不能让与的
+    an inalienable part of the territory of a country
+#国领土不可分割的一部分
+    the inalienable rights of freedom
+#不可剥夺的自由
+
+officious: 英[əˈfɪʃəs] 美[əˈfɪʃəs]
+%adj. 摆官架子的；爱管闲事的；乐于助人的
+    an officious exchange of views
+#非正式交换意见
+    When people put on uniforms their manner becomes more officious.
+#人们穿上制服后会变得爱指手画脚。
+
+photosensitive: 英[ˌfəʊtəʊˈsensətɪv] 美[ˌfoʊtoʊˈsensətɪv]
+%adj. [电子] 光敏的；感光性的
+    photosensitive glass
+#光敏玻璃
+
+ruminant: 英[ˈruːmɪnənt] 美[ˈruːmɪnənt]
+$n. 反刍动物；沉思默想的人
+%adj. 反刍动物的；沉思默想的
+    The cow is ruminant.
+#牛是反刍动物。
+
+entice: 英[ɪnˈtaɪs] 美[ɪnˈtaɪs]
+%v. 诱使，引诱
+    entice a young girl away from home
+#引诱一个姑娘离家出走
+    entice sb. into joining the conspiracy
+#诱使某人加入阴谋集团
+    The beautiful weather enticed me into the garden.
+#睛朗宜人的天气吸引我到花园里来。
+
+primal: 英[ˈpraɪm(ə)l] 美[ˈpraɪm(ə)l]
+$adj. 原始的；主要的；最初的
+$n. 被压抑童年情绪的释放
+%vt. 释放（被压抑的童年情绪）
+    primal chaos
+#原始的混沌状态
+    a primal necessity
+#基本必需品
+    a primal need
+#第一需求
+    Village life continued in its primal innocence.
+#乡村生活以其原始的纯朴状态继续着。
+
+dogmatist: 英[ˈdɒɡmətɪst] 美[ˈdɔːɡmətɪst]
+%n. 教条主义者；独断家；独断论者
+    I wonder if you realize that, you dogmatist. 
+#我不知道你是否意识到这一点，你这个教条主义者。
+
+egalitarian: 英[iˌɡælɪˈteəriən] 美[iˌɡælɪˈteriən]
+$adj. 主张人人平等的
+%n. 平等主义者；平等主义
+    I still believe in the notion of an egalitarian society.
+#我仍然相信平等主义社会的理念。
+
+vicissitude: 英[vɪˈsɪsɪtjuːd] 美[vɪˈsɪsɪtuːd]
+%n. 变迁；盛衰；变化无常；变迁兴衰
+    the vicissitude of the sea
+#大海的无穷变化
+    The vicissitude of weather
+#天气的变化无常
+    the vicissitude of night and day
+#昼夜的交替
+    the vicissitude of life
+#人生的沉浮
+
+shiny: 英[ˈʃaɪni] 美[ˈʃaɪni]
+%adj. 光滑发亮的，有光泽的
+    a new shiny silver coin
+#闪闪发光的新银币
+    a shiny day
+#晴朗的日子
+    shiny black shoes
+#擦亮的黑皮鞋
+    be shiny with age
+#因使用长久而发亮
+    shiny hair
+#油光的头发
+    He wore a shiny suit.
+#他穿着一套发亮的衣服。
+
+amorphous: 英[əˈmɔːfəs] 美[əˈmɔːrfəs]
+%adj. 无定形的；无组织的；[物] 非晶形的
+    an amorphous boundary
+#不定的边界
+    the amorphous mass of the unemployed
+#形形色色的失业群体
+    I can't understand his amorphous plans.
+#我弄不懂他那杂乱无章的计划。
+
+density: 英[ˈdensəti] 美[ˈdensəti]
+%n. 稠密，密集；密度
+    high density of buildings in town
+#城市建筑的高度密集
+    population density
+#人口密度
+    low-density housing
+#低密度的住房
+
+gaudy: 英[ˈɡɔːdi] 美[ˈɡɔːdi]
+$adj. 华而不实的；俗丽的
+$n. 盛大宴会
+%n. （Gaudy）人名；（法）戈迪
+    a gaudy display of wealth
+#财富的庸俗炫耀
+    in native gaudy costumes
+#穿着五彩缤纷的土著服装
+    Peacocks have gaudy plumage.
+#孔雀长着艳丽夺目的羽毛。
+
+undifferentiated: 英[ˌʌndɪfəˈrenʃieɪtɪd] 美[ˌʌndɪfəˈrenʃieɪtɪd]
+%adj. 分不开的，无差别的
+    The object of mechanical type is the immediate and undifferentiated object. 
+#机械性的客体就是直接的无差别的客体。
+
+reexamined: 英[ˌriːɪɡˈzæmɪn] 美[ˌriːɪɡˈzæmɪn]
+%vt. 重考，复试；再调查
+    He reexamined the validity of various assumptions.
+#他重新检验了各种假设的正确性。
+
+fallow: 英[ˈfæləʊ] 美[ˈfæloʊ]
+$adj. 休耕的；不活跃的
+$n. 休耕地；休耕
+$vt. 使（土地）休闲；潜伏
+%n. （Fallow）人名；（英）法洛
+    fallow land
+#休闲地
+    lie fallow
+#休闲，潜伏着
+    a skill lying fallow
+#尚未发挥的技能
+    Fallow helps to increase the fertility of land.
+#休耕有利于增加土地的肥力。
+
+unsubstantiated: 英[ˌʌnsəbˈstænʃieɪtɪd] 美[ˌʌnsəbˈstænʃieɪtɪd]
+%adj. 未经证实的，无事实根据的
+    an unsubstantiated report
+#未经证实的报告
+    an unsubstantiated accusation
+#无确实根据的指责
+
+artistry: 英[ˈɑːtɪstri] 美[ˈɑːrtɪstri]
+%n. 艺术性；工艺；艺术技巧；艺术效果；艺术工作
+    the artistry of a novel
+#小说的艺术性
+    the artistry of the violinist
+#小提琴家的艺术オ华
+    It takes imagination and artistry to write even a short piece of music.
+#即使写一支短曲也需要想象力和艺术才能。
+
+unerring: 英[ʌnˈɜːrɪŋ] 美[ʌnˈɜːrɪŋ]
+%adj. 无过失的；不犯错误的；没有打歪的
+    an unerring guide
+#不会出错的向导
+    sb.'s unerring sense of direction
+#某人从不出错的方向感
+    With unerring judgment he repeatedly hit the center of the target.
+#他判断无误，连连击中靶心。
+
+quagmire: 英[ˈkwæɡmaɪə(r)] 美[ˈkwæɡmaɪər]
+%n. 沼泽，泥泞地；困境，尴尬的处境
+    slip into an economic quagmire
+#陷入经济困境
+    be lost in quagmires of negotiation
+#陷入无休止的谈判泥沼
+    Rain has turned the country paths into quagmires.
+#雨水使乡村道路变得一片泥污。
+
+raucous: 英[ˈrɔːkəs] 美[ˈrɔːkəs]
+%adj. 沙哑的；刺耳的；粗声的
+    a raucous voice
+#嘶哑的声音
+    a raucous party
+#闹哄哄的宴会
+    a raucous frontier town
+#喧闹的边境小城
+    They heard a bottle being smashed, then more raucous laughter.
+#他们听到瓶子被打碎的声音，然后是更多刺耳的笑声。
+
+frisky: 英[ˈfrɪski] 美[ˈfrɪski]
+%adj. 活泼的；欢闹的
+    a frisky puppy
+#活蹦乱跳的小狗
+    The spring weather is making me feel quite frisky.
+#春天的天气使我感到很愉快。
+
+disputable: 英[dɪˈspjuːtəb(ə)l] 美[dɪˈspjuːtəb(ə)l]
+%adj. 有争议的，有待讨论的
+    a disputable demand
+#有争议的要求
+    His argument is highly disputable.
+#他的论点大可商榷。
+
+self-effacement: 英[ˌself ɪˈfeɪsmənt] 美[ˌself ɪˈfeɪsmənt]
+%n. 谦逊；不出风头
+    He was modest to the point of self-effacement. 
+#他过于谦虚，甚至到了自我轻视的程度。
+
+aromatic: 英[ˌærəˈmætɪk] 美[ˌærəˈmætɪk]
+$adj. 芳香的，芬芳的；芳香族的
+%n. 芳香植物；芳香剂
+    the aromatic breath of pine
+#松木的香气
+    a place with an aromatic name
+#一个名字别致的地方
+    Aromatic herbs are often used in cooking.
+#芳香植物常用于烹调。
+
+overblown: 英[ˌəʊvəˈbləʊn] 美[ˌoʊvərˈbloʊn]
+$adj. 停息的；过分的；已盛开过的
+%v. 吹散；用力吹；过分渲染（overblow 的过去分词）
+    overblown praise
+#过分的赞扬
+    an overblown bureaucracy
+#过分膨胀的官僚机构
+    vastly overblown compliments
+#极尽溢美之词
+    His diction is overblown.
+#他的用词华而不实。
+
+indigent: 英[ˈɪndɪdʒənt] 美[ˈɪndɪdʒənt]
+%adj. 贫困的；贫穷的（副词 indigently）
+    an indigent person
+#穷人
+    an indigent area
+#贫困地区
+    be indigent of moisture
+#一点也不湿润
+    The hospital offers free treatment to indigents.
+#那家医院为穷苦人提供免费治疗。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

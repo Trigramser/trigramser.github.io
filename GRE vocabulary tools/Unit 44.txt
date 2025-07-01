@@ -1,0 +1,817 @@
+<<<<<<< HEAD
+cupidity: 英[kjuːˈpɪdəti] 美[kjuːˈpɪdəti]
+%n. 贪心，贪婪
+    He gazed at the silverware and jewels with cupidity.
+#他贪梦地盯着银器和珠宝。
+
+figurine: 英[ˌfɪɡəˈriːn] 美[ˌfɪɡjəˈriːn]
+%n. 小雕像，小塑像
+    I am afraid it doesn't work without the other figurine.
+#恐怕没有另一个小雕像也没有用。
+
+aleatory: 英[ˌæliˈeɪtəri] 美[ˈeɪliətɔːri]
+%adj. 偶然的；即兴的
+    an aleatory contract
+#盈亏未定的合同
+    Your experience of speculation makes you have aleatory thought.
+#你投机成功的经验，让你经常存有侥幸的心理。
+
+bungle: 英[ˈbʌŋɡ(ə)l] 美[ˈbʌŋɡ(ə)l]
+$vt. 笨手笨脚地做；把……搞糟
+$vi. 把工作搞糟
+%n. 粗劣；失败；笨拙
+    make a bungle of
+#把……搞糟
+    The job was a bungle.
+#这工作被搞糟了
+
+lineal: 英[ˈlɪniəl] 美[ˈlɪniəl]
+$adj. 直系的；嫡系的；世袭的
+%n. （Lineal）人名；（罗、德）林内亚尔
+    a lineal descendant
+#直系后代
+    lineal relatives
+#直系亲属
+
+drivel: 英[ˈdrɪv(ə)l] 美[ˈdrɪv(ə)l]
+$n. 鼻涕；口水；糊涂话
+$vi. 淌口水；流鼻涕；说傻话
+%vt. 浪费
+    He talks a lot of idiot drivel.
+#他总是讲一大堆傻话。
+
+palaver: 英[pəˈlɑːvə(r)] 美[pəˈlɑːvər]
+$n. 谈判，交涉；奉承
+$vi. 唠叨；空谈；奉承，拍马
+%vt. 奉承
+    futile palaver
+#无益的空谈
+    smooth-tongued palaver
+#甜言蜜语
+
+blasphemy: 英[ˈblæsfəmi] 美[ˈblæsfəmi]
+%n. 亵渎神明；轻视上帝或神祗
+    He uttered blasphemies against life itself.
+#他诅咒人生本身。
+
+dereliction: 英[ˌderəˈlɪkʃ(ə)n] 美[ˌderəˈlɪkʃ(ə)n]
+%n. 玩忽职守；抛弃物；遗弃
+    The old railway cottages were in a state of dereliction.
+#老的铁路小屋处于弃置状态。
+
+waive: 英[weɪv] 美[weɪv]
+%v. 放弃（权利、要求等）；不强制执行（规定、限制），免除（费用）
+    waive one's claim
+#放弃要求
+    The bank manager waived the charge, as we were old and valued customers.
+#银行经理免除了收费，因为我们是尊贵的老顾客。
+
+rote: 英[rəʊt] 美[roʊt]
+%n. 死记硬背；习惯的过程，机械式的过程
+    She learned the equation by rote.
+#她通过死记硬背学习方程式。
+
+fang: 英[fæŋ] 美[fæŋ]
+$n. （犬，狼等的）尖牙；[解剖]牙根；（毒蛇的）毒牙；尖端
+$vt. 灌水引动（水泵）
+%n. （Fang）人名；（中）方（广东话·威妥玛）；（瑞典）丰
+    The dog growled and bared its fangs.
+#狗低吠着，露出它的撩牙。
+
+archer: 英[ˈɑːtʃə(r)] 美[ˈɑːrtʃər]
+%n. 弓箭手
+    The archer can bend a strong bow.
+#这个弓箭手能拉强弓。
+
+languor: 英[ˈlæŋɡə(r)] 美[ˈlæŋɡər]
+$n. 疲倦；无精打采；柔情；呆滞
+%vi. 变得衰弱无力
+    She missed the languor of sleep on a hot summer afternoon.
+#她留恋炎夏倦意沉沉的午睡。
+
+endearing: 英[ɪnˈdɪərɪŋ] 美[ɪnˈdɪrɪŋ]
+%adj. 可爱的；讨人喜欢的；引起爱情的
+    endearing qualities
+#使人喜爱的品质
+    endearing tones
+#充满柔情的声调
+
+renal: 英[ˈriːnl] 美[ˈriːn(ə)l]
+$adj. [解剖]肾脏的，[解剖]肾的
+%n. （Renal）人名；（法）勒纳尔
+    renal artery
+#肾动脉
+    a renal trouble
+#肾病
+
+serried: 英[ˈserid] 美[ˈserid]
+$adj. 密集的；林立的；重叠罗列的
+%v. 拥挤，密集（serry 的过去分词形式）
+    The soldiers marched in serried ranks towards the airport.
+#士兵们排成密集的行列走向机场。
+
+topsy-turvy: 英[ˌtɒpsi ˈtɜːvi] 美[ˌtɑːpsi ˈtɜːrvi]
+$adj. <非正式>颠倒的，翻转的；混乱的，颠三倒四的
+$adv. 颠倒地，翻转地；混乱地
+%n. 极其混乱的状态，乱七八糟
+    His room was always topsy-turvy.
+#他的房间总是乱七八糟的。
+
+mendacity: 英[menˈdæsəti] 美[menˈdæsəti]
+%n. 谎言；虚伪；撒谎癖
+    Politicians are often accused of mendacity.
+#政客们常被指责为扯谎成性。
+
+mendacious: 英[menˈdeɪʃəs] 美[menˈdeɪʃəs]
+%adj. 虚假的；说谎的
+    The mendacious beggar told a different tale of woe at every house. 
+#撒谎的乞丐对每间房子的主人说了不同的悲伤故事。
+
+rout: 英[raʊt] 美[raʊt]
+$n. 溃败；溃退；聚众闹事者；嘈杂的人群；捣乱分子；盛大晚会
+$v. 彻底击败，打垮；（使）溃退；（动物）用鼻子拱；在（木料或金属表面）刻纹
+%n. （Rout）（美）劳特（人名）
+    rout the enemy
+#击溃敌人
+    a complete and utter rout
+#大溃败
+    the army in full rout
+#溃败的军队
+    He routed among the piled newspapers.
+#他在成堆的报纸中翻找。
+
+recant: 英[rɪˈkænt] 美[rɪˈkænt]
+$vi. 宣布放弃；公开认错
+%vt. 放弃；撤回
+    After a year spent in solitary confinement, he publicly recanted his views.
+#被单独囚禁了一年后，他公开声明放弃他的观点。
+
+mushy: 英[ˈmʌʃi] 美[ˈmʌʃi]
+%adj. 糊状的；感伤的，多愁善感的
+    mushy love stories
+#伤感的爱情故事
+    The meat was mushy and tasteless.
+#这肉烂而无味。
+
+kudos: 英[ˈkjuːdɒs] 美[ˈkuːdoʊs]
+%n. 荣誉；名望；称赞
+    Being an actor has a certain amount of kudos attached to it.
+#当演员有一些与之相联的名誉。
+
+depredation: 英[ˌdeprəˈdeɪʃn] 美[ˌdeprəˈdeɪʃn]
+%n. 掠夺；破坏，破坏痕迹
+    depredation of environment
+#环境的破坏
+    It will take weeks to clear up the depredations of the storm.
+#清理风暴造成的毁坏要花上几个星期。
+
+wily: 英[ˈwaɪli] 美[ˈwaɪli]
+$adj. 狡猾的；诡计多端的
+%n. （Wily）人名；（英）威利
+    Their boss is a bit of a wily old fox.
+#他们的老板有点像一个狡猾的老狐狸。
+
+characterization: 英[ˌkærəktəraɪˈzeɪʃ(ə)n] 美[ˌkærəktərəˈzeɪʃn]
+%n. 描述；特性描述
+    As a writer, I am interested in characterization.
+#作为作家，我对人物刻画感兴趣。
+
+motile: 英[ˈməʊtaɪl] 美[ˈmoʊt(ə)l]
+$adj. [生理] 能动的；显示活力的
+%n. 运动型
+    motile cells
+#游走细胞
+
+timeworn: 英[ˈtaɪmwɔːn] 美[ˈtaɪmwɔːrn]
+%adj. 陈旧的；老朽的
+    timeworn steps
+#磨损了的台阶
+    a timeworn face
+#苍老的脸
+    a timeworn expression
+#陈词滥调
+
+rapprochement: 英[ræˈprɒʃmɒ̃; ræˈprəʊʃmɒ̃] 美[ˌræproʊʃˈmɑːnˌˌræprɑːʃˈmɑːn]
+%n. 友好；恢复邦交；友善关系的建立
+    call for a rapprochement with Asian countries
+#呼吁与亚洲国家恢复友好关系
+
+excrete: 英[ɪkˈskriːt] 美[ɪkˈskriːt]
+%vt. 排泄；分泌
+    excrete the waste from the body
+#从体内排出废物
+
+dyspeptic: 英[dɪsˈpeptɪk] 美[dɪsˈpeptɪk]
+$adj. 消化不良的；患胃病的；胃弱的；暴躁的；易怒的
+%n. 消化不良者
+    take a dyspeptic view
+#抱悲观看法
+    I'm a bit dyspeptic after meals.
+#我饭后有点消化不良。
+
+wacky: 英[ˈwæki] 美[ˈwæki]
+%adj. 乖僻的，古怪的
+    wacky trends
+#稀奇古怪的时尚
+
+augmentation: 英[ˌɔːɡmenˈteɪʃ(ə)n] 美[ˌɔːɡmenˈteɪʃ(ə)n]
+%n. 增大，增多；增加物；（主旋律的）延长；（作为殊荣而对纹章进行的）扩充
+    augmentation of armament
+#扩充军备
+
+agnostic: 英[æɡˈnɒstɪk] 美[æɡˈnɑːstɪk]
+$n. 不可知论者
+%adj. 不可知论的；怀疑的
+    She was agnostic about the phenomenon.
+#她对这种观象持一种不可知的态度。
+
+plait: 英[plæt] 美[pleɪt]
+$n. 褶；辫状物
+$vt. 编织；把……编成辫（等于 pleat）；给……打褶
+%n. （Plait）人名；（法）普莱
+    plait a rug
+#编织地毯
+    plait one's hair
+#编辫子
+    The girl wore her hair in two plaits.
+#那女孩编两条辫子。
+
+delectation: 英[ˌdiːlekˈteɪʃn] 美[ˌdiːlekˈteɪʃ(ə)n]
+%n. 愉快；款待；享受
+    TV programs suitable for the delectation of children
+#适合孩子口味的电视节目
+
+adjudicate: 英[əˈdʒuːdɪkeɪt] 美[əˈdʒuːdɪkeɪt]
+$vi. 裁定；宣判
+%vt. 裁定；宣判
+    The court adjudicated upon the case.
+#院判决了该案。
+
+friable: 英[ˈfraɪəb(ə)l] 美[ˈfraɪəbl]
+%adj. 易碎的；脆弱的
+    friable soil
+#松散的土壤
+    The friable china survived the bumpy journey safe and sound. 
+#那批易碎的瓷器经过颠簸的旅途仍完好无损。
+
+skullduggery: 英[skʌlˈdʌɡəri] 美[skʌlˈdʌɡəri]
+%n. 欺骗；使诈
+    political skullduggery
+#政治欺诈
+    Because of such skullduggery, Roman law is filled with punishments for these types of offenses. 
+#由于这些欺骗行为的盛行，罗马法律中也充斥着对这些行为的惩罚规定。
+
+lucre: 英[ˈluːkə(r)] 美[ˈluːkər]
+%n. 收益；钱财；利润
+    They are guilty about the filthy lucre.
+#他们对那不义之财感到内疚。
+
+poignancy: 英[ˈpɔɪnjənsi] 美[ˈpɔɪnjənsi]
+%n. 辛辣；强烈；尖锐；辛酸事
+    poignancy of delight
+#喜悦之至
+    poignancy of flavor
+#味道的浓烈
+    experiences filled with poignancy
+#充满种种痛苦的经历
+    The poem has a haunting poignancy.
+#这首诗感人肺腑，读后难忘。
+
+piddle: 英[ˈpɪd(ə)l] 美[ˈpɪdl]
+$vi. 撒尿；鬼混；挑食；做无聊事
+$vt. 浪费
+%n. 尿
+    We piddled away the whole day.
+#我们浪费了整天。
+
+to-do: 英[tə ˈduː] 美[tə ˈduː]
+%n. 要办的事；骚乱；大惊小怪
+    make a great to-do about nothing
+#无端大惊小怪
+
+josh: 英[dʒɒʃ] 美[dʒɑːʃ]
+$v. 戏弄（某人），开玩笑；以戏谑的方式挑逗
+$n. （善意的）取笑，逗弄；一个挑逗或戏谑的笑话
+%n. （Josh）乔希（人名）
+    Don't worry! I was just joshing when I said I'd lost my car keys.
+#别着急! 我说汽车钥匙掉了，只是在开玩笑呢。
+
+licit: 英[ˈlɪsɪt] 美[ˈlɪsɪt]
+%adj. 正当的，合法的
+    It is a licit trade.
+#这是一笔合法交易。
+
+unflappable: 英[ˌʌnˈflæpəb(ə)l] 美[ˌʌnˈflæpəb(ə)l]
+%adj. 镇定的，不慌张的
+    She tried very hard to remain cool and unflappable.
+#她竭力保持冷静镇定。
+
+vendetta: 英[venˈdetə] 美[venˈdetə]
+$n. （尤指族间或血亲间的）仇杀；深仇
+%n. （Vendetta）人名；（意）文代塔
+    There has been a bitter vendetta between the two families for many years.
+#这两个家族之间多年来存在着刻骨的世仇。
+
+ritzy: 英[ˈrɪtsi] 美[ˈrɪtsi]
+%adj. 豪华的；最高级的；傲慢的
+    He is able to buy a still ritzier villa.
+#他有能力购买一套更加豪华的别壁。
+
+rankle: 英[ˈræŋk(ə)l] 美[ˈræŋk(ə)l]
+$vi. 化脓；怨恨；发炎
+%vt. 使怨恨；使疼痛；使痛苦
+    rankling grudges
+#宿怨
+    It rankled him to think of her ingratitude.
+#想到她的忘恩负义使他痛心。
+
+lunatic: 英[ˈluːnətɪk] 美[ˈluːnətɪk]
+$adj. 疯狂的，极其愚蠢的；混乱的，失控的；为精神错乱者而设的
+%n. 疯狂的人， 愚笨的人；精神病患者，疯子
+    lunatic asylum
+#疯人院
+    a lunatic idea
+#疯狂的念头
+    That was a lunatic way to behave.
+#那是愚蠢轻率的表现。
+
+rollicking: 英[ˈrɒlɪkɪŋ] 美[ˈrɑːlɪkɪŋ]
+$adj. 欢乐的；喧闹的
+%n. （非正式）申斥；责骂
+    live in a rollicking fashion
+#快快活活地过日子
+    She gave the young man a real rollicking.
+#她把那个年轻人臭骂一顿。
+
+caudal: 英[ˈkɔːd(ə)l] 美[ˈkɔːd(ə)l]
+$adj. 近尾部的，[解剖][动]尾部的
+%n. （Caudal）人名；（英）考德尔；（法）科达尔
+    caudal artery
+#尾动脉
+
+parochial: 英[pəˈrəʊkiəl] 美[pəˈroʊkiəl]
+%adj. 教区的；狭小的；地方范围的
+    parochial boundaries
+#堂区的边界
+    There's something parochial about her writing, as if she'd never traveled further than the next town.
+#她写的东西显得孤陋寡闻，好像她从未去过比邻镇更远的地方。
+
+automation: 英[ˌɔːtəˈmeɪʃ(ə)n] 美[ˌɔːtəˈmeɪʃ(ə)n]
+%n. 自动化
+    Halfway through the exam, I turned into an automation and was writing without thinking.
+#考试进行到一半时，我已经像机器人一般不加思索地答题。
+
+cardiologist: 英[ˌkɑːdiˈɒlədʒɪst] 美[ˌkɑːrdiˈɑːlədʒɪst]
+%n. 心脏病学家；心脏病科医师
+    Some people become cardiologists and care for the heart. 
+#一些人成为心血管专家护理心脏。
+
+ligneous: 英[ˈlɪɡnɪəs] 美[ˈlɪɡnɪəs]
+%adj. 木质的；似木的
+    a ligneous floor
+#木质地板
+
+monolithic: 英[ˌmɒnəˈlɪθɪk] 美[ˌmɑːnəˈlɪθɪk]
+$adj. 整体的；巨石的，庞大的；完全统一的
+%n. 单块集成电路，单片电路
+    a monolithic concrete wall
+#整体式混凝土墙
+    monolithic unity
+#磐石般团结
+    a monolithic calm
+#坚如磐石的沉着
+
+purported: 英[pəˈpɔːtɪd] 美[pərˈpɔːrtɪd]
+$adj. 传说的
+%v. 声称（purport 的过去分词）；意图
+    a purported interview
+#传说中的会见
+    The film purported to represent the lives of ordinary people.
+#这部影片声称旨在表现普通人的生活。
+
+decomposition: 英[ˌdiːˌkɒmpəˈzɪʃn] 美[ˌdiːˌkɑːmpəˈzɪʃn]
+%n. 分解，腐烂；变质
+    in an advanced stage of decomposition
+#处于高度腐烂阶段
+
+overinflated: 英[ˌəʊvərɪnˈfleɪtɪd] 美[ˌoʊvərɪnˈfleɪtɪd]
+%adj. 过于膨胀的；特大的
+    the overinflated bureaucracy
+#过于庞大的官僚机构
+
+shopworn: 英[ˈʃɒpwɔːn] 美[ˈʃɑːpwɔːrn]
+%adj. 陈旧的；陈腐的
+    shopworn clichés
+#陈词滥调
+    She told him that shopworn story about the time she met a bear in the forest.
+#她告诉他关于她在森林里遇到一头熊的那个老掉牙的故事。
+
+=======
+cupidity: 英[kjuːˈpɪdəti] 美[kjuːˈpɪdəti]
+%n. 贪心，贪婪
+    He gazed at the silverware and jewels with cupidity.
+#他贪梦地盯着银器和珠宝。
+
+figurine: 英[ˌfɪɡəˈriːn] 美[ˌfɪɡjəˈriːn]
+%n. 小雕像，小塑像
+    I am afraid it doesn't work without the other figurine.
+#恐怕没有另一个小雕像也没有用。
+
+aleatory: 英[ˌæliˈeɪtəri] 美[ˈeɪliətɔːri]
+%adj. 偶然的；即兴的
+    an aleatory contract
+#盈亏未定的合同
+    Your experience of speculation makes you have aleatory thought.
+#你投机成功的经验，让你经常存有侥幸的心理。
+
+bungle: 英[ˈbʌŋɡ(ə)l] 美[ˈbʌŋɡ(ə)l]
+$vt. 笨手笨脚地做；把……搞糟
+$vi. 把工作搞糟
+%n. 粗劣；失败；笨拙
+    make a bungle of
+#把……搞糟
+    The job was a bungle.
+#这工作被搞糟了
+
+lineal: 英[ˈlɪniəl] 美[ˈlɪniəl]
+$adj. 直系的；嫡系的；世袭的
+%n. （Lineal）人名；（罗、德）林内亚尔
+    a lineal descendant
+#直系后代
+    lineal relatives
+#直系亲属
+
+drivel: 英[ˈdrɪv(ə)l] 美[ˈdrɪv(ə)l]
+$n. 鼻涕；口水；糊涂话
+$vi. 淌口水；流鼻涕；说傻话
+%vt. 浪费
+    He talks a lot of idiot drivel.
+#他总是讲一大堆傻话。
+
+palaver: 英[pəˈlɑːvə(r)] 美[pəˈlɑːvər]
+$n. 谈判，交涉；奉承
+$vi. 唠叨；空谈；奉承，拍马
+%vt. 奉承
+    futile palaver
+#无益的空谈
+    smooth-tongued palaver
+#甜言蜜语
+
+blasphemy: 英[ˈblæsfəmi] 美[ˈblæsfəmi]
+%n. 亵渎神明；轻视上帝或神祗
+    He uttered blasphemies against life itself.
+#他诅咒人生本身。
+
+dereliction: 英[ˌderəˈlɪkʃ(ə)n] 美[ˌderəˈlɪkʃ(ə)n]
+%n. 玩忽职守；抛弃物；遗弃
+    The old railway cottages were in a state of dereliction.
+#老的铁路小屋处于弃置状态。
+
+waive: 英[weɪv] 美[weɪv]
+%v. 放弃（权利、要求等）；不强制执行（规定、限制），免除（费用）
+    waive one's claim
+#放弃要求
+    The bank manager waived the charge, as we were old and valued customers.
+#银行经理免除了收费，因为我们是尊贵的老顾客。
+
+rote: 英[rəʊt] 美[roʊt]
+%n. 死记硬背；习惯的过程，机械式的过程
+    She learned the equation by rote.
+#她通过死记硬背学习方程式。
+
+fang: 英[fæŋ] 美[fæŋ]
+$n. （犬，狼等的）尖牙；[解剖]牙根；（毒蛇的）毒牙；尖端
+$vt. 灌水引动（水泵）
+%n. （Fang）人名；（中）方（广东话·威妥玛）；（瑞典）丰
+    The dog growled and bared its fangs.
+#狗低吠着，露出它的撩牙。
+
+archer: 英[ˈɑːtʃə(r)] 美[ˈɑːrtʃər]
+%n. 弓箭手
+    The archer can bend a strong bow.
+#这个弓箭手能拉强弓。
+
+languor: 英[ˈlæŋɡə(r)] 美[ˈlæŋɡər]
+$n. 疲倦；无精打采；柔情；呆滞
+%vi. 变得衰弱无力
+    She missed the languor of sleep on a hot summer afternoon.
+#她留恋炎夏倦意沉沉的午睡。
+
+endearing: 英[ɪnˈdɪərɪŋ] 美[ɪnˈdɪrɪŋ]
+%adj. 可爱的；讨人喜欢的；引起爱情的
+    endearing qualities
+#使人喜爱的品质
+    endearing tones
+#充满柔情的声调
+
+renal: 英[ˈriːnl] 美[ˈriːn(ə)l]
+$adj. [解剖]肾脏的，[解剖]肾的
+%n. （Renal）人名；（法）勒纳尔
+    renal artery
+#肾动脉
+    a renal trouble
+#肾病
+
+serried: 英[ˈserid] 美[ˈserid]
+$adj. 密集的；林立的；重叠罗列的
+%v. 拥挤，密集（serry 的过去分词形式）
+    The soldiers marched in serried ranks towards the airport.
+#士兵们排成密集的行列走向机场。
+
+topsy-turvy: 英[ˌtɒpsi ˈtɜːvi] 美[ˌtɑːpsi ˈtɜːrvi]
+$adj. <非正式>颠倒的，翻转的；混乱的，颠三倒四的
+$adv. 颠倒地，翻转地；混乱地
+%n. 极其混乱的状态，乱七八糟
+    His room was always topsy-turvy.
+#他的房间总是乱七八糟的。
+
+mendacity: 英[menˈdæsəti] 美[menˈdæsəti]
+%n. 谎言；虚伪；撒谎癖
+    Politicians are often accused of mendacity.
+#政客们常被指责为扯谎成性。
+
+mendacious: 英[menˈdeɪʃəs] 美[menˈdeɪʃəs]
+%adj. 虚假的；说谎的
+    The mendacious beggar told a different tale of woe at every house. 
+#撒谎的乞丐对每间房子的主人说了不同的悲伤故事。
+
+rout: 英[raʊt] 美[raʊt]
+$n. 溃败；溃退；聚众闹事者；嘈杂的人群；捣乱分子；盛大晚会
+$v. 彻底击败，打垮；（使）溃退；（动物）用鼻子拱；在（木料或金属表面）刻纹
+%n. （Rout）（美）劳特（人名）
+    rout the enemy
+#击溃敌人
+    a complete and utter rout
+#大溃败
+    the army in full rout
+#溃败的军队
+    He routed among the piled newspapers.
+#他在成堆的报纸中翻找。
+
+recant: 英[rɪˈkænt] 美[rɪˈkænt]
+$vi. 宣布放弃；公开认错
+%vt. 放弃；撤回
+    After a year spent in solitary confinement, he publicly recanted his views.
+#被单独囚禁了一年后，他公开声明放弃他的观点。
+
+mushy: 英[ˈmʌʃi] 美[ˈmʌʃi]
+%adj. 糊状的；感伤的，多愁善感的
+    mushy love stories
+#伤感的爱情故事
+    The meat was mushy and tasteless.
+#这肉烂而无味。
+
+kudos: 英[ˈkjuːdɒs] 美[ˈkuːdoʊs]
+%n. 荣誉；名望；称赞
+    Being an actor has a certain amount of kudos attached to it.
+#当演员有一些与之相联的名誉。
+
+depredation: 英[ˌdeprəˈdeɪʃn] 美[ˌdeprəˈdeɪʃn]
+%n. 掠夺；破坏，破坏痕迹
+    depredation of environment
+#环境的破坏
+    It will take weeks to clear up the depredations of the storm.
+#清理风暴造成的毁坏要花上几个星期。
+
+wily: 英[ˈwaɪli] 美[ˈwaɪli]
+$adj. 狡猾的；诡计多端的
+%n. （Wily）人名；（英）威利
+    Their boss is a bit of a wily old fox.
+#他们的老板有点像一个狡猾的老狐狸。
+
+characterization: 英[ˌkærəktəraɪˈzeɪʃ(ə)n] 美[ˌkærəktərəˈzeɪʃn]
+%n. 描述；特性描述
+    As a writer, I am interested in characterization.
+#作为作家，我对人物刻画感兴趣。
+
+motile: 英[ˈməʊtaɪl] 美[ˈmoʊt(ə)l]
+$adj. [生理] 能动的；显示活力的
+%n. 运动型
+    motile cells
+#游走细胞
+
+timeworn: 英[ˈtaɪmwɔːn] 美[ˈtaɪmwɔːrn]
+%adj. 陈旧的；老朽的
+    timeworn steps
+#磨损了的台阶
+    a timeworn face
+#苍老的脸
+    a timeworn expression
+#陈词滥调
+
+rapprochement: 英[ræˈprɒʃmɒ̃; ræˈprəʊʃmɒ̃] 美[ˌræproʊʃˈmɑːnˌˌræprɑːʃˈmɑːn]
+%n. 友好；恢复邦交；友善关系的建立
+    call for a rapprochement with Asian countries
+#呼吁与亚洲国家恢复友好关系
+
+excrete: 英[ɪkˈskriːt] 美[ɪkˈskriːt]
+%vt. 排泄；分泌
+    excrete the waste from the body
+#从体内排出废物
+
+dyspeptic: 英[dɪsˈpeptɪk] 美[dɪsˈpeptɪk]
+$adj. 消化不良的；患胃病的；胃弱的；暴躁的；易怒的
+%n. 消化不良者
+    take a dyspeptic view
+#抱悲观看法
+    I'm a bit dyspeptic after meals.
+#我饭后有点消化不良。
+
+wacky: 英[ˈwæki] 美[ˈwæki]
+%adj. 乖僻的，古怪的
+    wacky trends
+#稀奇古怪的时尚
+
+augmentation: 英[ˌɔːɡmenˈteɪʃ(ə)n] 美[ˌɔːɡmenˈteɪʃ(ə)n]
+%n. 增大，增多；增加物；（主旋律的）延长；（作为殊荣而对纹章进行的）扩充
+    augmentation of armament
+#扩充军备
+
+agnostic: 英[æɡˈnɒstɪk] 美[æɡˈnɑːstɪk]
+$n. 不可知论者
+%adj. 不可知论的；怀疑的
+    She was agnostic about the phenomenon.
+#她对这种观象持一种不可知的态度。
+
+plait: 英[plæt] 美[pleɪt]
+$n. 褶；辫状物
+$vt. 编织；把……编成辫（等于 pleat）；给……打褶
+%n. （Plait）人名；（法）普莱
+    plait a rug
+#编织地毯
+    plait one's hair
+#编辫子
+    The girl wore her hair in two plaits.
+#那女孩编两条辫子。
+
+delectation: 英[ˌdiːlekˈteɪʃn] 美[ˌdiːlekˈteɪʃ(ə)n]
+%n. 愉快；款待；享受
+    TV programs suitable for the delectation of children
+#适合孩子口味的电视节目
+
+adjudicate: 英[əˈdʒuːdɪkeɪt] 美[əˈdʒuːdɪkeɪt]
+$vi. 裁定；宣判
+%vt. 裁定；宣判
+    The court adjudicated upon the case.
+#院判决了该案。
+
+friable: 英[ˈfraɪəb(ə)l] 美[ˈfraɪəbl]
+%adj. 易碎的；脆弱的
+    friable soil
+#松散的土壤
+    The friable china survived the bumpy journey safe and sound. 
+#那批易碎的瓷器经过颠簸的旅途仍完好无损。
+
+skullduggery: 英[skʌlˈdʌɡəri] 美[skʌlˈdʌɡəri]
+%n. 欺骗；使诈
+    political skullduggery
+#政治欺诈
+    Because of such skullduggery, Roman law is filled with punishments for these types of offenses. 
+#由于这些欺骗行为的盛行，罗马法律中也充斥着对这些行为的惩罚规定。
+
+lucre: 英[ˈluːkə(r)] 美[ˈluːkər]
+%n. 收益；钱财；利润
+    They are guilty about the filthy lucre.
+#他们对那不义之财感到内疚。
+
+poignancy: 英[ˈpɔɪnjənsi] 美[ˈpɔɪnjənsi]
+%n. 辛辣；强烈；尖锐；辛酸事
+    poignancy of delight
+#喜悦之至
+    poignancy of flavor
+#味道的浓烈
+    experiences filled with poignancy
+#充满种种痛苦的经历
+    The poem has a haunting poignancy.
+#这首诗感人肺腑，读后难忘。
+
+piddle: 英[ˈpɪd(ə)l] 美[ˈpɪdl]
+$vi. 撒尿；鬼混；挑食；做无聊事
+$vt. 浪费
+%n. 尿
+    We piddled away the whole day.
+#我们浪费了整天。
+
+to-do: 英[tə ˈduː] 美[tə ˈduː]
+%n. 要办的事；骚乱；大惊小怪
+    make a great to-do about nothing
+#无端大惊小怪
+
+josh: 英[dʒɒʃ] 美[dʒɑːʃ]
+$v. 戏弄（某人），开玩笑；以戏谑的方式挑逗
+$n. （善意的）取笑，逗弄；一个挑逗或戏谑的笑话
+%n. （Josh）乔希（人名）
+    Don't worry! I was just joshing when I said I'd lost my car keys.
+#别着急! 我说汽车钥匙掉了，只是在开玩笑呢。
+
+licit: 英[ˈlɪsɪt] 美[ˈlɪsɪt]
+%adj. 正当的，合法的
+    It is a licit trade.
+#这是一笔合法交易。
+
+unflappable: 英[ˌʌnˈflæpəb(ə)l] 美[ˌʌnˈflæpəb(ə)l]
+%adj. 镇定的，不慌张的
+    She tried very hard to remain cool and unflappable.
+#她竭力保持冷静镇定。
+
+vendetta: 英[venˈdetə] 美[venˈdetə]
+$n. （尤指族间或血亲间的）仇杀；深仇
+%n. （Vendetta）人名；（意）文代塔
+    There has been a bitter vendetta between the two families for many years.
+#这两个家族之间多年来存在着刻骨的世仇。
+
+ritzy: 英[ˈrɪtsi] 美[ˈrɪtsi]
+%adj. 豪华的；最高级的；傲慢的
+    He is able to buy a still ritzier villa.
+#他有能力购买一套更加豪华的别壁。
+
+rankle: 英[ˈræŋk(ə)l] 美[ˈræŋk(ə)l]
+$vi. 化脓；怨恨；发炎
+%vt. 使怨恨；使疼痛；使痛苦
+    rankling grudges
+#宿怨
+    It rankled him to think of her ingratitude.
+#想到她的忘恩负义使他痛心。
+
+lunatic: 英[ˈluːnətɪk] 美[ˈluːnətɪk]
+$adj. 疯狂的，极其愚蠢的；混乱的，失控的；为精神错乱者而设的
+%n. 疯狂的人， 愚笨的人；精神病患者，疯子
+    lunatic asylum
+#疯人院
+    a lunatic idea
+#疯狂的念头
+    That was a lunatic way to behave.
+#那是愚蠢轻率的表现。
+
+rollicking: 英[ˈrɒlɪkɪŋ] 美[ˈrɑːlɪkɪŋ]
+$adj. 欢乐的；喧闹的
+%n. （非正式）申斥；责骂
+    live in a rollicking fashion
+#快快活活地过日子
+    She gave the young man a real rollicking.
+#她把那个年轻人臭骂一顿。
+
+caudal: 英[ˈkɔːd(ə)l] 美[ˈkɔːd(ə)l]
+$adj. 近尾部的，[解剖][动]尾部的
+%n. （Caudal）人名；（英）考德尔；（法）科达尔
+    caudal artery
+#尾动脉
+
+parochial: 英[pəˈrəʊkiəl] 美[pəˈroʊkiəl]
+%adj. 教区的；狭小的；地方范围的
+    parochial boundaries
+#堂区的边界
+    There's something parochial about her writing, as if she'd never traveled further than the next town.
+#她写的东西显得孤陋寡闻，好像她从未去过比邻镇更远的地方。
+
+automation: 英[ˌɔːtəˈmeɪʃ(ə)n] 美[ˌɔːtəˈmeɪʃ(ə)n]
+%n. 自动化
+    Halfway through the exam, I turned into an automation and was writing without thinking.
+#考试进行到一半时，我已经像机器人一般不加思索地答题。
+
+cardiologist: 英[ˌkɑːdiˈɒlədʒɪst] 美[ˌkɑːrdiˈɑːlədʒɪst]
+%n. 心脏病学家；心脏病科医师
+    Some people become cardiologists and care for the heart. 
+#一些人成为心血管专家护理心脏。
+
+ligneous: 英[ˈlɪɡnɪəs] 美[ˈlɪɡnɪəs]
+%adj. 木质的；似木的
+    a ligneous floor
+#木质地板
+
+monolithic: 英[ˌmɒnəˈlɪθɪk] 美[ˌmɑːnəˈlɪθɪk]
+$adj. 整体的；巨石的，庞大的；完全统一的
+%n. 单块集成电路，单片电路
+    a monolithic concrete wall
+#整体式混凝土墙
+    monolithic unity
+#磐石般团结
+    a monolithic calm
+#坚如磐石的沉着
+
+purported: 英[pəˈpɔːtɪd] 美[pərˈpɔːrtɪd]
+$adj. 传说的
+%v. 声称（purport 的过去分词）；意图
+    a purported interview
+#传说中的会见
+    The film purported to represent the lives of ordinary people.
+#这部影片声称旨在表现普通人的生活。
+
+decomposition: 英[ˌdiːˌkɒmpəˈzɪʃn] 美[ˌdiːˌkɑːmpəˈzɪʃn]
+%n. 分解，腐烂；变质
+    in an advanced stage of decomposition
+#处于高度腐烂阶段
+
+overinflated: 英[ˌəʊvərɪnˈfleɪtɪd] 美[ˌoʊvərɪnˈfleɪtɪd]
+%adj. 过于膨胀的；特大的
+    the overinflated bureaucracy
+#过于庞大的官僚机构
+
+shopworn: 英[ˈʃɒpwɔːn] 美[ˈʃɑːpwɔːrn]
+%adj. 陈旧的；陈腐的
+    shopworn clichés
+#陈词滥调
+    She told him that shopworn story about the time she met a bear in the forest.
+#她告诉他关于她在森林里遇到一头熊的那个老掉牙的故事。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

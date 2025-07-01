@@ -1,0 +1,719 @@
+<<<<<<< HEAD
+dependable: 英[dɪˈpendəb(ə)l] 美[dɪˈpendəb(ə)l]
+%adj. 可靠的，可信赖的
+    dependable friends
+#可靠的朋友
+    dependable information
+#可靠的消息
+    I need someone dependable to look after the children while I'm at work.
+#我需要一个可靠的人在我上班时照看孩子。
+
+stoic: 英[ˈstəʊɪk] 美[ˈstoʊɪk]
+$n. 坚忍克己者，坦然面对困难的人
+$adj. 坚忍的；禁欲的
+$n. （Stoic）斯多葛派学者；禁欲主义者
+%adj. （Stoic）斯多葛派的；禁欲主义的
+    be stoic about the outcome
+#对结果毫不在意
+    a stoic indifference to reproaches
+#对责备的隐忍
+    We knew she must be in pain, despite her stoic attitude.
+#我们知道虽然她的态度坚忍，但她一定很痛苦。
+
+enviable: 英[ˈenviəb(ə)l] 美[ˈenviəb(ə)l]
+%adj. 值得羡慕的，引起忌妒的
+    She has earned herself an enviable position in the bank.
+#她在银行里获得了一个令人美慕的位置。
+
+dichotomy: 英[daɪˈkɒtəmi] 美[daɪˈkɑːtəmi]
+%n. 二分法；两分；分裂；双歧分枝
+    a rigid dichotomy between fact and fiction
+#事实和杜撰之间的截然对立
+    There is often a dichotomy between what politicians say and what they do.
+#政客们说的和做的之间常有天壤之别。
+
+overbear: 英[ˌəʊvəˈbeə] 美[ˌoʊvərˈber]
+$vt. 压服；克服
+%vi. 结实过多
+    overbear sb. in the fight
+#在打斗中把某人压倒
+    overbear sb.'s objections
+#否决某人的异议
+
+disconsolate: 英[dɪsˈkɒnsələt] 美[dɪsˈkɑːnsələt]
+%adj. 郁郁不乐的；忧郁的；孤独的
+    a disconsolate face
+#愁容
+    disconsolate prospects
+#暗淡的前景
+    She is disconsolate over the loss of her job.
+#失去工作而闷闷不乐。
+
+observant: 英[əbˈzɜːvənt] 美[əbˈzɜːrvənt]
+$adj. 善于观察的，观察力敏锐的；严守教规的，遵守风俗的
+%n. <史>（遵守严格教规的）方济各会分会修士
+    A careful driver is observant of the traffic rules.
+#谨慎小心的驾驶员严格遵守交通规则
+
+perspicacious: 英[ˌpɜːspɪˈkeɪʃəs] 美[ˌpɜːrspɪˈkeɪʃəs]
+%adj. 有洞察力的；聪颖的；敏锐的
+    a perspicacious student
+#聪颖的学生
+    a perspicacious lawyer
+#明辨是非的律师
+    His perspicacious grandfather had bought the land as an investment, guessing that there must be gold underground.
+#他睿智的祖父买下了这块地作为投资，猜想地下有黄金。
+
+specter: 英[ˈspektə(r)] 美[ˈspektər]
+%n. 幽灵；妖怪；恐怖之物
+    the specter of bankruptcy
+#挥之不去的对破产的恐惧
+    the awful specter of war
+#战争的威胁
+    Drought and war have raised the specter of food shortages for the local people.
+#干旱和战争引起了当地人对食物短缺的恐惧。
+
+offhand: 英[ˌɒfˈhænd] 美[ˌɔːfˈhænd]
+$adj. 随便的；即时的；无准备的；即席的
+%adv. 随便地；即席地；即时地
+    an offhand attitude
+#随便的态度
+    offhand excuses
+#随口说出的借口
+    a relaxed offhand manner
+#放松不拘的举止
+    I can't quote the exact statistics for you offhand, but they're there for you to see in the report.
+#我不能随口为你举出确切的统计数字，但你可以在这篇报告中看到它们。
+
+incise: 英[ɪnˈsaɪz] 美[ɪnˈsaɪz]
+%vt. 切；切割；雕刻
+    incise the swollen tissue
+#切开肿张组织
+    be incised on the stone
+#刻在石头上
+    The design is incised into a metal plate.
+#图案是刻在金属板上的。
+
+dissimilar: 英[dɪˈsɪmɪlə(r)] 美[dɪˈsɪmɪlər]
+%adj. 不同的
+    be reared in dissimilar families
+#在不同家庭环境里被抚养成人
+    The new house is not dissimilar to our old one except that it's a bit bigger.
+#新房子除了大了一些，跟我们的老房子没有什么不同。
+
+indent: 英[ɪnˈdent] 美[ɪnˈdent]
+$v. 缩进（行、段落、列表等）；使（某物边缘处）凹进，（在某物上）制造凹痕；<英>订货；<史>将（一式两份的文件）以锯齿线裁成两份（以便验证真伪）；按一式两份起草（法律文件）
+%n. <英>订货单，购货单；（行，段落）缩进，缩格；凹口；定期服务合同，师徒契约
+    indent the horizon
+#使地平线呈锯齿状
+    indent the first word of each paragraph
+#缩写每一段的第一个词
+    indent for engine spares
+#订购发动机的零件
+    The coastline has been indented by the processes of erosion.
+#海岸在浸蚀过程中变成了锯齿状
+
+preservative: 英[prɪˈzɜːvətɪv] 美[prɪˈzɜːrvətɪv]
+$n. 防腐剂，保护剂
+%adj. 保护的，保存的
+    be treated with preservative
+#经防腐处理
+    need for preservative action
+#争取保护行动的必要性
+    food preservative
+#食品防腐剂
+    This bread is completely free from artificial preservatives.
+#这种面包绝对不含人工防腐剂。
+
+deride: 英[dɪˈraɪd] 美[dɪˈraɪd]
+%v. 嘲笑，愚弄，揶揄
+    deride sb. for his fear of the dark
+#嘲笑某人害怕黑暗
+    I was derided for making such a stupid suggestion.
+#人们嘲笑我提出这么蠢的建议。
+
+ignominious: 英[ˌɪɡnəˈmɪniəs] 美[ˌɪɡnəˈmɪniəs]
+%adj. 可耻的；下流的
+    an ignominious end
+#可耻的下场
+    He suffered an ignominious defeat.
+#他经受了次声誉扫地的失败。
+
+furtive: 英[ˈfɜːtɪv] 美[ˈfɜːrtɪv]
+%adj. 鬼鬼祟祟的，秘密的
+    cast a furtive glance at sb.
+#朝某人偷偷警一眼
+    make furtive phone calls
+#偷偷摸摸打电话
+    be furtive in one's movements
+#行动诡秘
+    There was something furtive about his behavior and I immediately felt suspicious.
+#他的行为有些鬼鬼崇崇，我立刻觉得很可疑。
+
+interminable: 英[ɪnˈtɜːmɪnəb(ə)l] 美[ɪnˈtɜːrmɪnəb(ə)l]
+%adj. 冗长的；无止尽的
+    an interminable speech
+#冗长不堪的讲话
+    interminable thickets
+#漫无尽头的灌木
+    Our colleague was stirred by the remark into one of his interminable stories of his youth.
+#我们的同事受这句话的启发，开始大讲关于他青年时代的没完没了的故事。
+
+huckster: 英[ˈhʌkstə(r)] 美[ˈhʌkstər]
+$n. 强行推销的人；小贩；广告撰写员
+%v. 强行推销；叫卖；做小商贩；讨价还价
+    huckster over prices on the black market
+#在黑上讨价还价
+    He huckstered for a living.
+#他以做小商販为生。
+
+orchestrate: 英[ˈɔːkɪstreɪt] 美[ˈɔːrkɪstreɪt]
+%v. 把……编成管弦乐曲；精心安排，密谋；把……协调地结合起来
+    Their victory was largely a result of their brilliantly orchestrated election campaign.
+#他们胜利的主要原因是独具匠心地策划了竞选运动。
+
+averse: 英[əˈvɜːs] 美[əˈvɜːrs]
+%adj. 反对的，不愿意的，讨厌的
+    be averse to coming/to come
+#不愿来
+    He's averse to flattery.
+#他不愿意听恭维的话。
+
+archaic: 英[ɑːˈkeɪɪk] 美[ɑːrˈkeɪɪk]
+%adj. （词，语言风格）古体的，已不通用的；过时的，陈旧的；古代的，早期的
+    an archaic statue
+#古代的雕像
+    The meaning of some archaic forms of writing is not always well understood today.
+#有些古代文字的意义在今天并非都能理解清楚。
+
+unpack: 英[ˌʌnˈpæk] 美[ˌʌnˈpæk]
+%v. 打开包裹；分析；卸下……；解除……的负担
+    unpack a briefcase
+#打开公文包取东
+    unpack one's grievances to sb.
+#向某人诉苦
+    take some unpacking
+#需要一些解释
+    I'll make us some supper while you're unpacking your bags.
+#在你打开行李整理东西的时候，我做晚饭。
+
+colloquial: 英[kəˈləʊkwiəl] 美[kəˈloʊkwiəl]
+%adj. 口语的，非正式的
+    colloquial English
+#英语口语
+    The article was written in colloquial style.
+#这篇文章是用口语体写的。
+
+voluminous: 英[vəˈluːmɪnəs] 美[vəˈluːmɪnəs]
+%adj. （衣服）宽松的；浩繁的，长篇的，冗长的；（容器、家具等）容量大的；（作家）多产的
+    a voluminous silk dress
+#宽大的丝衣裙
+    a voluminous edition
+#大部头版本
+    voluminous praise
+#滔滔不绝的称赞
+    voluminous flow of lava
+#巨大的熔岩流
+    I've read the novelist's voluminous account of his early life and experiences.
+#我读过这位小说家有关他早年生活和经历的长篇著述。
+
+callous: 英[ˈkæləs] 美[ˈkæləs]
+$adj. 冷酷无情的，冷漠的；起老茧的；硬结的
+$n. 老茧，硬茧（=callus）
+%v. 使长茧
+    a pair of callous laboring hands
+#一双生着老的劳动的手
+    Going bare foot made the bottom of his feet callous.
+#打赤脚走路使他的脚底生茧。
+
+provocation: 英[ˌprɒvəˈkeɪʃ(ə)n] 美[ˌprɑːvəˈkeɪʃ(ə)n]
+%n. 激怒，挑衅，挑衅性事件；<法律> 挑衅（行为或语言）；（尤指蓄意的）性挑逗；（诱发反应或反射作用的）激发试验
+    military provocation
+#军事挑衅
+    wilful provocation of disorder
+#蓄意挑起动乱
+    a provocation designed to cause a clash
+#蓄意挑起冲突的挑衅行为
+    People under provocation can react in unexpected ways.
+#遭到挑衅的人会做出预料不到的反应。
+
+immaculate: 英[ɪˈmækjələt] 美[ɪˈmækjələt]
+%adj. 完美的；洁净的；无瑕疵的
+    an immaculate shirt
+#洁白的衬衫
+    an immaculate text
+#精确无误的版本
+    have an immaculate record
+#一生清白
+    an immaculate garden lawn
+#洁净的花园草坪
+    He gave an immaculate performance of the aging king.
+#他完美地扮演了那个年迈的国王。
+
+dismember: 英[dɪsˈmembə(r)] 美[dɪsˈmembər]
+%vt. 肢解，割断手足；分割，瓜分
+    dismember a country
+#瓜分一个国家
+
+rancid: 英[ˈrænsɪd] 美[ˈrænsɪd]
+%adj. 腐臭的；令人作呕的，讨厌的
+    rancid bacon
+#臭熏肉
+    the wet rancid smell of a basement
+#地下室潮湿而陈腐的气味
+    the most rancid form of caps
+#最难看的帽子
+
+attrition: 英[əˈtrɪʃ(ə)n] 美[əˈtrɪʃn]
+%n. 摩擦；磨损；消耗
+    a war of attrition
+#消耗战
+    an attrition rate
+#耗损率
+    Most of the staff reduction will be achieved through attrition.
+#人员裁减将主要通过自然缩减来实现。
+
+accentuate: 英[əkˈsentʃueɪt] 美[əkˈsentʃueɪt]
+%vt. 强调；重读
+    accentuate the positive
+#强调积极面
+    Her dress was tightly belted, accentuating the slimness of her waist.
+#她的衣带系得很紧，凸显出她苗条的腰身。
+
+paradoxical: 英[ˌpærəˈdɒksɪk(ə)l] 美[ˌpærəˈdɑːksɪk(ə)l]
+%adj. 自相矛盾的；事与愿违的，出乎意料的
+    It seems paradoxical to me, but if you drink a cup of hot coffee it does seem to cool you down.
+#对我来说似乎很矛盾，但是你要是喝一杯热咖啡的话，它似乎的确会让你冷静下来。
+
+tantamount: 英[ˈtæntəmaʊnt] 美[ˈtæntəmaʊnt]
+%adj. 同等的；相当于……的
+    tantamount to a declaration of war
+#等于宣战
+    Her refusal to answer was tantamount to guilt.
+#她拒绝回答等于是认罪。
+
+premonition: 英[ˌpreməˈnɪʃn; ˌpriːməˈnɪʃn] 美[ˌpreməˈnɪʃ(ə)n]
+%n. （尤指不祥的）预感
+    have a premonition of disaster
+#预感到灾难临
+    feel an awful premonition
+#有一种不祥的预感
+    He had a premonition and rushed out of the house just before an explosion wrecked it.
+#他有一种不祥的预感，于是正好在房子被炸毁前跑了出来。
+
+imposing: 英[ɪmˈpəʊzɪŋ] 美[ɪmˈpoʊzɪŋ]
+$adj. 壮观的，仪表堂堂的
+%v. 强制推行，强制实行；把（自己的观点、信仰等）强加于；打扰，麻烦（impose 的现在分词形式）
+    an imposing headmaster
+#威严的校长
+    an imposing appearance
+#堂堂仪表
+    make an imposing display of knowledge
+#显示出令人叹服的博学
+    Her weekends are spent in an imposing mansion by the sea.
+#她的周末是在海边一幢宏伟的房子里度过的。
+
+overestimate: 英[ˌəʊvərˈestɪmeɪt] 美[ˌoʊvərˈestɪmeɪt]
+$v. 过高估计（能力、影响或价值）；过高估计（规格、数量、数字等）
+%n. 过高的估计
+    They were forced to the conclusion that they had overestimated his abilities.
+#他们被迫得出这样的结论，即过高估计了他的能力。
+
+satirize: 英[ˈsætəraɪz] 美[ˈsætəraɪz]
+$vt. 讽刺；挖苦
+%vi. 写讽刺作品
+    The television program satirized the way the wealthy behaved.
+#这档电视节目讽刺了富人的行为做派。
+
+introvert: 英[ˈɪntrəvɜːt] 美[ˈɪntrəvɜːrt]
+$n. 内向的人
+$adj. 内向的
+%v. 使内弯，使内倾
+    He used to be very sociable, but he's been an introvert since his wife's death.
+#他原来很爱交际，但自从妻子去世以后一直很内向。
+
+stalwart: 英[ˈstɔːlwət] 美[ˈstɔːlwərt]
+$n. （政党等组织的）忠诚拥护者
+%adj. 忠诚的；健壮的；勤奋的
+    a stalwart man
+#体格健状的男子
+    the stalwart wall of the castle
+#城堡坚固的墙
+    a stalwart ally
+#坚定的同盟者
+    a stalwart knight
+#勇敢的骑士
+    He has been a stalwart supporter for the party for many years.
+#他多年来一直是该党的坚定支持者。
+
+covet: 英[ˈkʌvət] 美[ˈkʌvət]
+%v. 贪求，觊觎；<正式>贪求，觊觎
+    covet the presidency
+#觊觎总统职位
+    covet after wealth
+#贪图财富
+    covet for popularity
+#贪求名望
+    He always coveted power but never quite achieved it.
+#他一直贪求权力，但从未达到过目标。
+
+=======
+dependable: 英[dɪˈpendəb(ə)l] 美[dɪˈpendəb(ə)l]
+%adj. 可靠的，可信赖的
+    dependable friends
+#可靠的朋友
+    dependable information
+#可靠的消息
+    I need someone dependable to look after the children while I'm at work.
+#我需要一个可靠的人在我上班时照看孩子。
+
+stoic: 英[ˈstəʊɪk] 美[ˈstoʊɪk]
+$n. 坚忍克己者，坦然面对困难的人
+$adj. 坚忍的；禁欲的
+$n. （Stoic）斯多葛派学者；禁欲主义者
+%adj. （Stoic）斯多葛派的；禁欲主义的
+    be stoic about the outcome
+#对结果毫不在意
+    a stoic indifference to reproaches
+#对责备的隐忍
+    We knew she must be in pain, despite her stoic attitude.
+#我们知道虽然她的态度坚忍，但她一定很痛苦。
+
+enviable: 英[ˈenviəb(ə)l] 美[ˈenviəb(ə)l]
+%adj. 值得羡慕的，引起忌妒的
+    She has earned herself an enviable position in the bank.
+#她在银行里获得了一个令人美慕的位置。
+
+dichotomy: 英[daɪˈkɒtəmi] 美[daɪˈkɑːtəmi]
+%n. 二分法；两分；分裂；双歧分枝
+    a rigid dichotomy between fact and fiction
+#事实和杜撰之间的截然对立
+    There is often a dichotomy between what politicians say and what they do.
+#政客们说的和做的之间常有天壤之别。
+
+overbear: 英[ˌəʊvəˈbeə] 美[ˌoʊvərˈber]
+$vt. 压服；克服
+%vi. 结实过多
+    overbear sb. in the fight
+#在打斗中把某人压倒
+    overbear sb.'s objections
+#否决某人的异议
+
+disconsolate: 英[dɪsˈkɒnsələt] 美[dɪsˈkɑːnsələt]
+%adj. 郁郁不乐的；忧郁的；孤独的
+    a disconsolate face
+#愁容
+    disconsolate prospects
+#暗淡的前景
+    She is disconsolate over the loss of her job.
+#失去工作而闷闷不乐。
+
+observant: 英[əbˈzɜːvənt] 美[əbˈzɜːrvənt]
+$adj. 善于观察的，观察力敏锐的；严守教规的，遵守风俗的
+%n. <史>（遵守严格教规的）方济各会分会修士
+    A careful driver is observant of the traffic rules.
+#谨慎小心的驾驶员严格遵守交通规则
+
+perspicacious: 英[ˌpɜːspɪˈkeɪʃəs] 美[ˌpɜːrspɪˈkeɪʃəs]
+%adj. 有洞察力的；聪颖的；敏锐的
+    a perspicacious student
+#聪颖的学生
+    a perspicacious lawyer
+#明辨是非的律师
+    His perspicacious grandfather had bought the land as an investment, guessing that there must be gold underground.
+#他睿智的祖父买下了这块地作为投资，猜想地下有黄金。
+
+specter: 英[ˈspektə(r)] 美[ˈspektər]
+%n. 幽灵；妖怪；恐怖之物
+    the specter of bankruptcy
+#挥之不去的对破产的恐惧
+    the awful specter of war
+#战争的威胁
+    Drought and war have raised the specter of food shortages for the local people.
+#干旱和战争引起了当地人对食物短缺的恐惧。
+
+offhand: 英[ˌɒfˈhænd] 美[ˌɔːfˈhænd]
+$adj. 随便的；即时的；无准备的；即席的
+%adv. 随便地；即席地；即时地
+    an offhand attitude
+#随便的态度
+    offhand excuses
+#随口说出的借口
+    a relaxed offhand manner
+#放松不拘的举止
+    I can't quote the exact statistics for you offhand, but they're there for you to see in the report.
+#我不能随口为你举出确切的统计数字，但你可以在这篇报告中看到它们。
+
+incise: 英[ɪnˈsaɪz] 美[ɪnˈsaɪz]
+%vt. 切；切割；雕刻
+    incise the swollen tissue
+#切开肿张组织
+    be incised on the stone
+#刻在石头上
+    The design is incised into a metal plate.
+#图案是刻在金属板上的。
+
+dissimilar: 英[dɪˈsɪmɪlə(r)] 美[dɪˈsɪmɪlər]
+%adj. 不同的
+    be reared in dissimilar families
+#在不同家庭环境里被抚养成人
+    The new house is not dissimilar to our old one except that it's a bit bigger.
+#新房子除了大了一些，跟我们的老房子没有什么不同。
+
+indent: 英[ɪnˈdent] 美[ɪnˈdent]
+$v. 缩进（行、段落、列表等）；使（某物边缘处）凹进，（在某物上）制造凹痕；<英>订货；<史>将（一式两份的文件）以锯齿线裁成两份（以便验证真伪）；按一式两份起草（法律文件）
+%n. <英>订货单，购货单；（行，段落）缩进，缩格；凹口；定期服务合同，师徒契约
+    indent the horizon
+#使地平线呈锯齿状
+    indent the first word of each paragraph
+#缩写每一段的第一个词
+    indent for engine spares
+#订购发动机的零件
+    The coastline has been indented by the processes of erosion.
+#海岸在浸蚀过程中变成了锯齿状
+
+preservative: 英[prɪˈzɜːvətɪv] 美[prɪˈzɜːrvətɪv]
+$n. 防腐剂，保护剂
+%adj. 保护的，保存的
+    be treated with preservative
+#经防腐处理
+    need for preservative action
+#争取保护行动的必要性
+    food preservative
+#食品防腐剂
+    This bread is completely free from artificial preservatives.
+#这种面包绝对不含人工防腐剂。
+
+deride: 英[dɪˈraɪd] 美[dɪˈraɪd]
+%v. 嘲笑，愚弄，揶揄
+    deride sb. for his fear of the dark
+#嘲笑某人害怕黑暗
+    I was derided for making such a stupid suggestion.
+#人们嘲笑我提出这么蠢的建议。
+
+ignominious: 英[ˌɪɡnəˈmɪniəs] 美[ˌɪɡnəˈmɪniəs]
+%adj. 可耻的；下流的
+    an ignominious end
+#可耻的下场
+    He suffered an ignominious defeat.
+#他经受了次声誉扫地的失败。
+
+furtive: 英[ˈfɜːtɪv] 美[ˈfɜːrtɪv]
+%adj. 鬼鬼祟祟的，秘密的
+    cast a furtive glance at sb.
+#朝某人偷偷警一眼
+    make furtive phone calls
+#偷偷摸摸打电话
+    be furtive in one's movements
+#行动诡秘
+    There was something furtive about his behavior and I immediately felt suspicious.
+#他的行为有些鬼鬼崇崇，我立刻觉得很可疑。
+
+interminable: 英[ɪnˈtɜːmɪnəb(ə)l] 美[ɪnˈtɜːrmɪnəb(ə)l]
+%adj. 冗长的；无止尽的
+    an interminable speech
+#冗长不堪的讲话
+    interminable thickets
+#漫无尽头的灌木
+    Our colleague was stirred by the remark into one of his interminable stories of his youth.
+#我们的同事受这句话的启发，开始大讲关于他青年时代的没完没了的故事。
+
+huckster: 英[ˈhʌkstə(r)] 美[ˈhʌkstər]
+$n. 强行推销的人；小贩；广告撰写员
+%v. 强行推销；叫卖；做小商贩；讨价还价
+    huckster over prices on the black market
+#在黑上讨价还价
+    He huckstered for a living.
+#他以做小商販为生。
+
+orchestrate: 英[ˈɔːkɪstreɪt] 美[ˈɔːrkɪstreɪt]
+%v. 把……编成管弦乐曲；精心安排，密谋；把……协调地结合起来
+    Their victory was largely a result of their brilliantly orchestrated election campaign.
+#他们胜利的主要原因是独具匠心地策划了竞选运动。
+
+averse: 英[əˈvɜːs] 美[əˈvɜːrs]
+%adj. 反对的，不愿意的，讨厌的
+    be averse to coming/to come
+#不愿来
+    He's averse to flattery.
+#他不愿意听恭维的话。
+
+archaic: 英[ɑːˈkeɪɪk] 美[ɑːrˈkeɪɪk]
+%adj. （词，语言风格）古体的，已不通用的；过时的，陈旧的；古代的，早期的
+    an archaic statue
+#古代的雕像
+    The meaning of some archaic forms of writing is not always well understood today.
+#有些古代文字的意义在今天并非都能理解清楚。
+
+unpack: 英[ˌʌnˈpæk] 美[ˌʌnˈpæk]
+%v. 打开包裹；分析；卸下……；解除……的负担
+    unpack a briefcase
+#打开公文包取东
+    unpack one's grievances to sb.
+#向某人诉苦
+    take some unpacking
+#需要一些解释
+    I'll make us some supper while you're unpacking your bags.
+#在你打开行李整理东西的时候，我做晚饭。
+
+colloquial: 英[kəˈləʊkwiəl] 美[kəˈloʊkwiəl]
+%adj. 口语的，非正式的
+    colloquial English
+#英语口语
+    The article was written in colloquial style.
+#这篇文章是用口语体写的。
+
+voluminous: 英[vəˈluːmɪnəs] 美[vəˈluːmɪnəs]
+%adj. （衣服）宽松的；浩繁的，长篇的，冗长的；（容器、家具等）容量大的；（作家）多产的
+    a voluminous silk dress
+#宽大的丝衣裙
+    a voluminous edition
+#大部头版本
+    voluminous praise
+#滔滔不绝的称赞
+    voluminous flow of lava
+#巨大的熔岩流
+    I've read the novelist's voluminous account of his early life and experiences.
+#我读过这位小说家有关他早年生活和经历的长篇著述。
+
+callous: 英[ˈkæləs] 美[ˈkæləs]
+$adj. 冷酷无情的，冷漠的；起老茧的；硬结的
+$n. 老茧，硬茧（=callus）
+%v. 使长茧
+    a pair of callous laboring hands
+#一双生着老的劳动的手
+    Going bare foot made the bottom of his feet callous.
+#打赤脚走路使他的脚底生茧。
+
+provocation: 英[ˌprɒvəˈkeɪʃ(ə)n] 美[ˌprɑːvəˈkeɪʃ(ə)n]
+%n. 激怒，挑衅，挑衅性事件；<法律> 挑衅（行为或语言）；（尤指蓄意的）性挑逗；（诱发反应或反射作用的）激发试验
+    military provocation
+#军事挑衅
+    wilful provocation of disorder
+#蓄意挑起动乱
+    a provocation designed to cause a clash
+#蓄意挑起冲突的挑衅行为
+    People under provocation can react in unexpected ways.
+#遭到挑衅的人会做出预料不到的反应。
+
+immaculate: 英[ɪˈmækjələt] 美[ɪˈmækjələt]
+%adj. 完美的；洁净的；无瑕疵的
+    an immaculate shirt
+#洁白的衬衫
+    an immaculate text
+#精确无误的版本
+    have an immaculate record
+#一生清白
+    an immaculate garden lawn
+#洁净的花园草坪
+    He gave an immaculate performance of the aging king.
+#他完美地扮演了那个年迈的国王。
+
+dismember: 英[dɪsˈmembə(r)] 美[dɪsˈmembər]
+%vt. 肢解，割断手足；分割，瓜分
+    dismember a country
+#瓜分一个国家
+
+rancid: 英[ˈrænsɪd] 美[ˈrænsɪd]
+%adj. 腐臭的；令人作呕的，讨厌的
+    rancid bacon
+#臭熏肉
+    the wet rancid smell of a basement
+#地下室潮湿而陈腐的气味
+    the most rancid form of caps
+#最难看的帽子
+
+attrition: 英[əˈtrɪʃ(ə)n] 美[əˈtrɪʃn]
+%n. 摩擦；磨损；消耗
+    a war of attrition
+#消耗战
+    an attrition rate
+#耗损率
+    Most of the staff reduction will be achieved through attrition.
+#人员裁减将主要通过自然缩减来实现。
+
+accentuate: 英[əkˈsentʃueɪt] 美[əkˈsentʃueɪt]
+%vt. 强调；重读
+    accentuate the positive
+#强调积极面
+    Her dress was tightly belted, accentuating the slimness of her waist.
+#她的衣带系得很紧，凸显出她苗条的腰身。
+
+paradoxical: 英[ˌpærəˈdɒksɪk(ə)l] 美[ˌpærəˈdɑːksɪk(ə)l]
+%adj. 自相矛盾的；事与愿违的，出乎意料的
+    It seems paradoxical to me, but if you drink a cup of hot coffee it does seem to cool you down.
+#对我来说似乎很矛盾，但是你要是喝一杯热咖啡的话，它似乎的确会让你冷静下来。
+
+tantamount: 英[ˈtæntəmaʊnt] 美[ˈtæntəmaʊnt]
+%adj. 同等的；相当于……的
+    tantamount to a declaration of war
+#等于宣战
+    Her refusal to answer was tantamount to guilt.
+#她拒绝回答等于是认罪。
+
+premonition: 英[ˌpreməˈnɪʃn; ˌpriːməˈnɪʃn] 美[ˌpreməˈnɪʃ(ə)n]
+%n. （尤指不祥的）预感
+    have a premonition of disaster
+#预感到灾难临
+    feel an awful premonition
+#有一种不祥的预感
+    He had a premonition and rushed out of the house just before an explosion wrecked it.
+#他有一种不祥的预感，于是正好在房子被炸毁前跑了出来。
+
+imposing: 英[ɪmˈpəʊzɪŋ] 美[ɪmˈpoʊzɪŋ]
+$adj. 壮观的，仪表堂堂的
+%v. 强制推行，强制实行；把（自己的观点、信仰等）强加于；打扰，麻烦（impose 的现在分词形式）
+    an imposing headmaster
+#威严的校长
+    an imposing appearance
+#堂堂仪表
+    make an imposing display of knowledge
+#显示出令人叹服的博学
+    Her weekends are spent in an imposing mansion by the sea.
+#她的周末是在海边一幢宏伟的房子里度过的。
+
+overestimate: 英[ˌəʊvərˈestɪmeɪt] 美[ˌoʊvərˈestɪmeɪt]
+$v. 过高估计（能力、影响或价值）；过高估计（规格、数量、数字等）
+%n. 过高的估计
+    They were forced to the conclusion that they had overestimated his abilities.
+#他们被迫得出这样的结论，即过高估计了他的能力。
+
+satirize: 英[ˈsætəraɪz] 美[ˈsætəraɪz]
+$vt. 讽刺；挖苦
+%vi. 写讽刺作品
+    The television program satirized the way the wealthy behaved.
+#这档电视节目讽刺了富人的行为做派。
+
+introvert: 英[ˈɪntrəvɜːt] 美[ˈɪntrəvɜːrt]
+$n. 内向的人
+$adj. 内向的
+%v. 使内弯，使内倾
+    He used to be very sociable, but he's been an introvert since his wife's death.
+#他原来很爱交际，但自从妻子去世以后一直很内向。
+
+stalwart: 英[ˈstɔːlwət] 美[ˈstɔːlwərt]
+$n. （政党等组织的）忠诚拥护者
+%adj. 忠诚的；健壮的；勤奋的
+    a stalwart man
+#体格健状的男子
+    the stalwart wall of the castle
+#城堡坚固的墙
+    a stalwart ally
+#坚定的同盟者
+    a stalwart knight
+#勇敢的骑士
+    He has been a stalwart supporter for the party for many years.
+#他多年来一直是该党的坚定支持者。
+
+covet: 英[ˈkʌvət] 美[ˈkʌvət]
+%v. 贪求，觊觎；<正式>贪求，觊觎
+    covet the presidency
+#觊觎总统职位
+    covet after wealth
+#贪图财富
+    covet for popularity
+#贪求名望
+    He always coveted power but never quite achieved it.
+#他一直贪求权力，但从未达到过目标。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,695 @@
+<<<<<<< HEAD
+foist:
+    foist costly and inferior goods on the customers
+#把质次价高的商品卖给顾客
+    a problem foisted on society
+#强加于社会的问题
+    She said that parents should not try to foist their values on their children.
+#她说做父母的不应该试图把他们的价值观强加给他们的孩子。
+
+sublime:
+    a man of sublime taste
+#情趣高雅的人
+    a sublime virtue
+#高尚的美德
+    sublime mountain scenery
+#壮丽的山区景色
+    sublime ignorance
+#极端的无知
+    the sublime beauty of the night
+#夜的静谧之美
+    the sublime in art
+#艺术的崇高
+    move towards the sublime
+#走向顶点
+    from the sublime to the ridiculous
+#从崇高到荒谬
+    a sublime talent
+#卓越的天才
+    The composer had the ability to transform the popular musical styles of his day into something sublime.
+#这位作曲家能将当时流行的音乐风格转化成高雅艺术。
+
+premiere:
+    a movie premiere
+#电影的首映
+    a premiere performance
+#首次演出
+    have the world premiere in Paris
+#在巴黎全球首映
+    The new movie is premiering next month.
+#这部新影片将在下月首次放映。
+
+collude:
+    It was suspected that the accuser had colluded with the witness.
+#原告被怀疑与证人暗中勾结。
+
+pendent:
+    pendent branches
+#下垂的树枝
+    icicles pendent from the eaves
+#从屋檐垂下的冰柱
+    a claim still pendent
+#尚未裁定的权利要求
+    A pendent balcony overlooked the garden.
+#向外伸出的阳台俯瞰着花园。
+
+ensign:
+    an ensign of peace
+#和平的象征
+    The ensign of the United States is the Stars and Strips.
+#美国的国旗是星条旗。
+
+dislocate:
+    dislocate the transport system
+#使运输系统严重混乱
+    dislocate the supply lines
+#扰乱补给线
+    She dislocated her knees falling down some steps.
+#她从几级台阶上跌下来，膝部脱白。
+
+wobble:
+    wobble on wages policy
+#在工资政策上摇摆不定
+    You'll spill my coffee if you wobble the table like that!
+#如果你那样摇晃桌子的话，就会弄酒我的咖啡!
+
+sartorial:
+    He was renowned for sartorial elegance.
+#他衣着考究是出了名的。
+
+harrow:
+    harrow sb.'s feelings
+#伤某人的感情
+    be harrowed with grief and anxiety
+#既伤心又着急
+    under the harrow
+#受折磨，在苦恼中
+    She came back from the hospital with a harrowed expression on her face.
+#她从医院回来，脸上带着痛苦的表情。
+
+etch:
+    grief etched on one's face
+#脸上深切的悲痛
+    a face etched with deep lines
+#刻下深深皱纹的脸
+    a sharply etched disaster
+#难忘的灾难
+    The scene became forever etched on her memory/mind.
+#那情景永远铭刻在她的记忆中。
+
+overture:
+    make overtures of friendship
+#做出友好的表示
+    romantic overtures
+#求爱的表示
+    make overtures for better relations
+#提出改善关系
+    the rebuff to sb.'s friendly overtures
+#对某人友好表示的断然拒绝
+    Neither side of the conflict seems willing to make an overture of peace to the other.
+#冲突双方好像不愿意向对方做出和解的姿态。
+
+snicker:
+    a snicker of disdain
+#蔑视的窃笑
+    snicker to oneself
+#暗自发笑
+    snicker out loud at sth.
+#大声嗤笑某事
+    We were having a snicker at the bride who was rather large and dressed in a tight pale pink dress.
+#新娘身材肥胖却穿着一件粉红色的紧身礼服，我们不由得暗自发笑。
+
+amnesia:
+    In his later life he suffered periods of amnesia.
+#他晚年患有间歇性遗忘症。
+
+yank:
+    yank the teeth out
+#拔牙
+    yank the plug out
+#把插头拔下来
+    yank sb. to his feet
+#把某人拉起来
+    yank on the string
+#猛地一拉绳子
+    give the door a yank
+#使劲一拉门
+    My two-year-old nephew yanked the corner of the table cloth and a bottle of red wine tipped over.
+#我两岁的侄子猛地一拉桌布的一角，一瓶红葡萄酒翻倒了。
+
+wiggle:
+    wiggle one's hip to the sound of music
+#随着音乐扭摆屁股
+    draw the sea as a series of wiggles
+#把大海画成一条条波纹线
+    wiggle out of
+#从……中挣脱出来
+    He tried wiggling the control stick but nothing happened.
+#他试着扭动控制杆，但没有任何反应。
+
+peddle:
+    peddle gossip
+#散布流言
+    peddle doubts and pessimism
+#散布怀疑和悲观
+    He was arrested for peddling drugs.
+#他因兜售毒品而被逮捕。
+
+hoop:
+    gold hoops
+#金耳环
+    shoot hoops
+#投篮
+    hoop a barrel
+#箍桶
+    go through (the) hoop(s)
+#经受磨炼，受苦难
+    put sb. through (the) hoop(s)
+#使经受磨，使受苦难
+    The dogs have been trained to jump through hoops.
+#这些狗经过训练，会跳圈。
+
+swathe:
+    be swathed in clouds
+#被云层遮住
+    huge swathes of rain forest
+#大片雨林
+    a broad swathe of sunlight
+#宽宽的一道阳光
+    Her head was swathed in a scarf.
+#她用围巾包着头。
+
+mollify:
+    mollify an enraged person
+#劝慰发火的人
+    mollifying remarks
+#安慰的话
+    mollify sb.'s fury
+#平息某人的怒气
+    mollify one's demands
+#降低要求
+    A shorter working week has been proposed to mollify the effects of the new working arrangements.
+#一个较短的工作周被建议用来缓和新的工作安排带来的影响。
+
+indemnify:
+    indemnify the house against flooding
+#对房子遭水灾进行赔偿
+    indemnify sb. for his injuries
+#对某人的损伤进行赔偿
+    If there is a breakage you will be indemnified within 28 days.
+#如果有破损的话，你将在28天内得到赔偿。
+
+aghast:
+    stand aghast at a sight
+#被一种景象得目瞪口呆
+    He was aghast at the extent of the damage to his car.
+#他被自己汽车的损坏程度吓呆了。
+
+flaggy:
+    flaggy skin
+#松弛的皮肤
+    flaggy leaves
+#凋萎的树叶
+
+stealth:
+    by stealth
+#偷偷地，暗中地
+    do good by stealth
+#不为人知地做好事
+    It would seem that some politicians would prefer to use financial stealth rather than legislation to produce change.
+#看来有些政治家宁愿用秘密的经济手段，而不是用立法来推行变革。
+
+spleen:
+    in a fit/burst of spleen
+#发脾气
+    choke with spleen
+#气得说不出来话
+    Shareholders used the conference as an opportunity to vent their spleen on the Board of Directors.
+#股东们把股东大会当作一次向董事会出气的机会。
+
+incubation:
+    artificial incubation
+#人工孵卵
+    an incubation of 8-18 days
+#8~18天的潜伏期
+    After a long incubation period, plans for the new fire station were finally proposed.
+#在长时间的酝酿之后，建新消防站的计划终于提出了。
+
+stupor:
+    sit in a glassy-eyed stupor
+#目光呆滞神情恍地坐着
+    in a drunken stupor
+#酒醉后精神恍惚
+    recover from the stupor of defeat
+#从失败后的心灰意冷中恢复过来
+    The injured woman lay in a stupor, unable to tell what had happened to her.
+#受伤的女子躺着不省人事，说不清遇到了什么。
+
+mince:
+    minced beef
+#碎牛肉
+    mince a day into hours
+#一天细分为小时
+    mince across the house
+#扭扭捏捏迈着小步穿过屋子
+    mince of pork
+#一盘切碎的猪肉
+    She minced two pounds of chicken finely.
+#她把两磅鸡肉细细剁碎。
+
+grit:
+    He gritted his teeth in silent fury.
+#他在无言的愤怒中咬牙切齿。
+
+remonstrate:
+    remonstrate against cruelty to children
+#抗议虐待儿童
+    remonstrate against the manager's decision
+#反对经理的决定
+    remonstrate with sb. about/on/upon his bad habits
+#对某人就其不良习惯进行劝诚
+    The driver remonstrated with the policeman about the amount of the fine.
+#司机就罚金的金额向警察提出抗议。
+
+hanker:
+    hanker for/after friendship
+#渴望友谊
+    hanker after the past
+#怀念过去
+    hanker to do a bit of acting
+#十分希望能上台演戏
+    Even after all these years I still hanker for a sports car.
+#尽管过了这么多年，我仍然希望得到一部跑车。
+
+quail:
+    quail at the howl of wolves
+#听到狼声心里发毛
+    quail at the thought of
+#想到……就不寒而栗
+    I was quailing with fear as I opened the envelope containing my exam results.
+#在我打开装着考试成绩的信封时，心里战战兢兢。
+
+unkempt:
+    unkempt beard
+#凌乱的胡须
+    an unkempt appearance
+#不修边幅的外表
+    Theirs is the only garden in the neighborhood with an unkempt lawn.
+#在邻近地区只有他们的花园草坪凌乱。
+
+bazaar:
+    an antique bazaar
+#古玩市场
+    a Christmas bazaar
+#圣诞义卖市场
+    The tourists were bargaining for cheap consumer goods in the covered bazaar.
+#游客们正在有顶棚的集市为买到更便宜的商品讨价还价。
+
+spasmodic:
+    a spasmodic cough
+#痉挛性咳嗽
+    a spasmodic rage
+#一阵狂怒
+    spasmodic pain
+#阵发的疼痛
+    The student said his interest in the subject was rather spasmodic.
+#那名学生说他对这门学科的兴趣是时冷时热的。
+
+matriculate:
+    She has been matriculated in the famous university.
+#她已经考上这所著名大学。
+
+pedestal:
+    knock sb. off his pedestal
+#把某人拉下台
+    put/place/set sb. on a pedestal
+#敬慕某人，奉某人为偶像
+    In the riot the statue was toppled from its pedestal.
+#在暴乱中，雕像被从基座上拉了下来。
+
+regress:
+    He suffered brain damage from a car accident and regressed to the mental age of a five-year-old.
+#他因车祸大脑受损，智力退化到一个5岁孩子的水平。
+
+lurch:
+    lurch down the street
+#摇摇摆摆走过街头
+    given a sudden lurch
+#突摇起来
+    walk with a lurch
+#步履購跚
+    lurch sideways
+#突然歪向一边
+    leave……in the lurch
+#弃……于危难之中
+    The train lurched forward and some of the people standing fell over.
+#火车突然向前是晃动，使一些站着的人摔倒了。
+
+=======
+foist:
+    foist costly and inferior goods on the customers
+#把质次价高的商品卖给顾客
+    a problem foisted on society
+#强加于社会的问题
+    She said that parents should not try to foist their values on their children.
+#她说做父母的不应该试图把他们的价值观强加给他们的孩子。
+
+sublime:
+    a man of sublime taste
+#情趣高雅的人
+    a sublime virtue
+#高尚的美德
+    sublime mountain scenery
+#壮丽的山区景色
+    sublime ignorance
+#极端的无知
+    the sublime beauty of the night
+#夜的静谧之美
+    the sublime in art
+#艺术的崇高
+    move towards the sublime
+#走向顶点
+    from the sublime to the ridiculous
+#从崇高到荒谬
+    a sublime talent
+#卓越的天才
+    The composer had the ability to transform the popular musical styles of his day into something sublime.
+#这位作曲家能将当时流行的音乐风格转化成高雅艺术。
+
+premiere:
+    a movie premiere
+#电影的首映
+    a premiere performance
+#首次演出
+    have the world premiere in Paris
+#在巴黎全球首映
+    The new movie is premiering next month.
+#这部新影片将在下月首次放映。
+
+collude:
+    It was suspected that the accuser had colluded with the witness.
+#原告被怀疑与证人暗中勾结。
+
+pendent:
+    pendent branches
+#下垂的树枝
+    icicles pendent from the eaves
+#从屋檐垂下的冰柱
+    a claim still pendent
+#尚未裁定的权利要求
+    A pendent balcony overlooked the garden.
+#向外伸出的阳台俯瞰着花园。
+
+ensign:
+    an ensign of peace
+#和平的象征
+    The ensign of the United States is the Stars and Strips.
+#美国的国旗是星条旗。
+
+dislocate:
+    dislocate the transport system
+#使运输系统严重混乱
+    dislocate the supply lines
+#扰乱补给线
+    She dislocated her knees falling down some steps.
+#她从几级台阶上跌下来，膝部脱白。
+
+wobble:
+    wobble on wages policy
+#在工资政策上摇摆不定
+    You'll spill my coffee if you wobble the table like that!
+#如果你那样摇晃桌子的话，就会弄酒我的咖啡!
+
+sartorial:
+    He was renowned for sartorial elegance.
+#他衣着考究是出了名的。
+
+harrow:
+    harrow sb.'s feelings
+#伤某人的感情
+    be harrowed with grief and anxiety
+#既伤心又着急
+    under the harrow
+#受折磨，在苦恼中
+    She came back from the hospital with a harrowed expression on her face.
+#她从医院回来，脸上带着痛苦的表情。
+
+etch:
+    grief etched on one's face
+#脸上深切的悲痛
+    a face etched with deep lines
+#刻下深深皱纹的脸
+    a sharply etched disaster
+#难忘的灾难
+    The scene became forever etched on her memory/mind.
+#那情景永远铭刻在她的记忆中。
+
+overture:
+    make overtures of friendship
+#做出友好的表示
+    romantic overtures
+#求爱的表示
+    make overtures for better relations
+#提出改善关系
+    the rebuff to sb.'s friendly overtures
+#对某人友好表示的断然拒绝
+    Neither side of the conflict seems willing to make an overture of peace to the other.
+#冲突双方好像不愿意向对方做出和解的姿态。
+
+snicker:
+    a snicker of disdain
+#蔑视的窃笑
+    snicker to oneself
+#暗自发笑
+    snicker out loud at sth.
+#大声嗤笑某事
+    We were having a snicker at the bride who was rather large and dressed in a tight pale pink dress.
+#新娘身材肥胖却穿着一件粉红色的紧身礼服，我们不由得暗自发笑。
+
+amnesia:
+    In his later life he suffered periods of amnesia.
+#他晚年患有间歇性遗忘症。
+
+yank:
+    yank the teeth out
+#拔牙
+    yank the plug out
+#把插头拔下来
+    yank sb. to his feet
+#把某人拉起来
+    yank on the string
+#猛地一拉绳子
+    give the door a yank
+#使劲一拉门
+    My two-year-old nephew yanked the corner of the table cloth and a bottle of red wine tipped over.
+#我两岁的侄子猛地一拉桌布的一角，一瓶红葡萄酒翻倒了。
+
+wiggle:
+    wiggle one's hip to the sound of music
+#随着音乐扭摆屁股
+    draw the sea as a series of wiggles
+#把大海画成一条条波纹线
+    wiggle out of
+#从……中挣脱出来
+    He tried wiggling the control stick but nothing happened.
+#他试着扭动控制杆，但没有任何反应。
+
+peddle:
+    peddle gossip
+#散布流言
+    peddle doubts and pessimism
+#散布怀疑和悲观
+    He was arrested for peddling drugs.
+#他因兜售毒品而被逮捕。
+
+hoop:
+    gold hoops
+#金耳环
+    shoot hoops
+#投篮
+    hoop a barrel
+#箍桶
+    go through (the) hoop(s)
+#经受磨炼，受苦难
+    put sb. through (the) hoop(s)
+#使经受磨，使受苦难
+    The dogs have been trained to jump through hoops.
+#这些狗经过训练，会跳圈。
+
+swathe:
+    be swathed in clouds
+#被云层遮住
+    huge swathes of rain forest
+#大片雨林
+    a broad swathe of sunlight
+#宽宽的一道阳光
+    Her head was swathed in a scarf.
+#她用围巾包着头。
+
+mollify:
+    mollify an enraged person
+#劝慰发火的人
+    mollifying remarks
+#安慰的话
+    mollify sb.'s fury
+#平息某人的怒气
+    mollify one's demands
+#降低要求
+    A shorter working week has been proposed to mollify the effects of the new working arrangements.
+#一个较短的工作周被建议用来缓和新的工作安排带来的影响。
+
+indemnify:
+    indemnify the house against flooding
+#对房子遭水灾进行赔偿
+    indemnify sb. for his injuries
+#对某人的损伤进行赔偿
+    If there is a breakage you will be indemnified within 28 days.
+#如果有破损的话，你将在28天内得到赔偿。
+
+aghast:
+    stand aghast at a sight
+#被一种景象得目瞪口呆
+    He was aghast at the extent of the damage to his car.
+#他被自己汽车的损坏程度吓呆了。
+
+flaggy:
+    flaggy skin
+#松弛的皮肤
+    flaggy leaves
+#凋萎的树叶
+
+stealth:
+    by stealth
+#偷偷地，暗中地
+    do good by stealth
+#不为人知地做好事
+    It would seem that some politicians would prefer to use financial stealth rather than legislation to produce change.
+#看来有些政治家宁愿用秘密的经济手段，而不是用立法来推行变革。
+
+spleen:
+    in a fit/burst of spleen
+#发脾气
+    choke with spleen
+#气得说不出来话
+    Shareholders used the conference as an opportunity to vent their spleen on the Board of Directors.
+#股东们把股东大会当作一次向董事会出气的机会。
+
+incubation:
+    artificial incubation
+#人工孵卵
+    an incubation of 8-18 days
+#8~18天的潜伏期
+    After a long incubation period, plans for the new fire station were finally proposed.
+#在长时间的酝酿之后，建新消防站的计划终于提出了。
+
+stupor:
+    sit in a glassy-eyed stupor
+#目光呆滞神情恍地坐着
+    in a drunken stupor
+#酒醉后精神恍惚
+    recover from the stupor of defeat
+#从失败后的心灰意冷中恢复过来
+    The injured woman lay in a stupor, unable to tell what had happened to her.
+#受伤的女子躺着不省人事，说不清遇到了什么。
+
+mince:
+    minced beef
+#碎牛肉
+    mince a day into hours
+#一天细分为小时
+    mince across the house
+#扭扭捏捏迈着小步穿过屋子
+    mince of pork
+#一盘切碎的猪肉
+    She minced two pounds of chicken finely.
+#她把两磅鸡肉细细剁碎。
+
+grit:
+    He gritted his teeth in silent fury.
+#他在无言的愤怒中咬牙切齿。
+
+remonstrate:
+    remonstrate against cruelty to children
+#抗议虐待儿童
+    remonstrate against the manager's decision
+#反对经理的决定
+    remonstrate with sb. about/on/upon his bad habits
+#对某人就其不良习惯进行劝诚
+    The driver remonstrated with the policeman about the amount of the fine.
+#司机就罚金的金额向警察提出抗议。
+
+hanker:
+    hanker for/after friendship
+#渴望友谊
+    hanker after the past
+#怀念过去
+    hanker to do a bit of acting
+#十分希望能上台演戏
+    Even after all these years I still hanker for a sports car.
+#尽管过了这么多年，我仍然希望得到一部跑车。
+
+quail:
+    quail at the howl of wolves
+#听到狼声心里发毛
+    quail at the thought of
+#想到……就不寒而栗
+    I was quailing with fear as I opened the envelope containing my exam results.
+#在我打开装着考试成绩的信封时，心里战战兢兢。
+
+unkempt:
+    unkempt beard
+#凌乱的胡须
+    an unkempt appearance
+#不修边幅的外表
+    Theirs is the only garden in the neighborhood with an unkempt lawn.
+#在邻近地区只有他们的花园草坪凌乱。
+
+bazaar:
+    an antique bazaar
+#古玩市场
+    a Christmas bazaar
+#圣诞义卖市场
+    The tourists were bargaining for cheap consumer goods in the covered bazaar.
+#游客们正在有顶棚的集市为买到更便宜的商品讨价还价。
+
+spasmodic:
+    a spasmodic cough
+#痉挛性咳嗽
+    a spasmodic rage
+#一阵狂怒
+    spasmodic pain
+#阵发的疼痛
+    The student said his interest in the subject was rather spasmodic.
+#那名学生说他对这门学科的兴趣是时冷时热的。
+
+matriculate:
+    She has been matriculated in the famous university.
+#她已经考上这所著名大学。
+
+pedestal:
+    knock sb. off his pedestal
+#把某人拉下台
+    put/place/set sb. on a pedestal
+#敬慕某人，奉某人为偶像
+    In the riot the statue was toppled from its pedestal.
+#在暴乱中，雕像被从基座上拉了下来。
+
+regress:
+    He suffered brain damage from a car accident and regressed to the mental age of a five-year-old.
+#他因车祸大脑受损，智力退化到一个5岁孩子的水平。
+
+lurch:
+    lurch down the street
+#摇摇摆摆走过街头
+    given a sudden lurch
+#突摇起来
+    walk with a lurch
+#步履購跚
+    lurch sideways
+#突然歪向一边
+    leave……in the lurch
+#弃……于危难之中
+    The train lurched forward and some of the people standing fell over.
+#火车突然向前是晃动，使一些站着的人摔倒了。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

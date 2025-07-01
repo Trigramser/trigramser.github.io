@@ -1,0 +1,805 @@
+<<<<<<< HEAD
+wean: 英[wiːn] 美[wiːn]
+$vt. 使断奶；使断念；使放弃
+$n. （苏格兰）幼儿
+%n. （Wean）人名；（英）威恩
+    wean oneself of fatty foods
+#改掉吃油腻食物的习惯
+    wean a country from the influence of another
+#使一国摆脱另一国的影响
+    wean people off welfare dependence
+#使人们脱离对福利救济的依赖
+    She started to wean her baby when it was about seven months old.
+#她在孩子七个月左右的时候开始给他断奶。
+
+anthem: 英[ˈænθəm] 美[ˈænθəm]
+%n. 国歌，（团体组织的）颂歌，赞歌；（尤指圣公会或新教教会的）圣歌；（对某一群体很重要的）歌曲
+    the anthem of peace-lovers
+#爱好和平者的圣歌
+    They usually play the national anthems of the teams at the beginning of a big international football match.
+#在重大的国际足球赛开始前，他们通常演奏参赛队的国歌。
+
+suffocate: 英[ˈsʌfəkeɪt] 美[ˈsʌfəkeɪt]
+%v. （使）窒息而死，（使）闷死；（使）呼吸困难，（使）憋闷；（受）束缚，（受）扼制
+    be suffocated with smoke
+#被烟闷死
+    suffocate the sense of justice and liberty
+#扼杀正义感和自由精神
+    suffocate with rage
+#气得喘不过来
+    The democratic press was suffocated by the tyrannical government.
+#那个专制政府扼杀了民主报刊。
+
+skyrocket: 英[ˈskaɪrɒkɪt] 美[ˈskaɪrɑːkɪt]
+$n. 流星烟火；冲天火箭
+%v. （价格）飞涨，猛涨；（使）……猛然上涨
+    skyrocket sb. to fame
+#使某人一举成名
+    Medical costs skyrocketed.
+#医药费用猛涨。
+
+interjection: 英[ˌɪntəˈdʒekʃ(ə)n] 美[ˌɪntərˈdʒekʃ(ə)n]
+%n. 感叹词；插入语；突然的发声
+    His controversial speech was punctuated with noisy interjections from the audience.
+#他那颇有争议的演讲不时被听众嘈杂的插话打断。
+
+daft: 英[dɑːft] 美[dæft]
+$adj. （非正式）癫狂的；愚笨的
+%n. （Daft）（美、英、俄、德、波、澳、加）达夫特（人名）
+    go daft
+#发疯
+    a daft word
+#一个粗野的字眼
+    be daft about
+#迷恋于
+    Some of the suggested solutions to the problem were unusual and others were just plain daft.
+#解决问题的有些建议与众不同，其他的则太愚蠢了。
+
+observance: 英[əbˈzɜːvəns] 美[əbˈzɜːrvəns]
+%n. 惯例；遵守；仪式；庆祝
+    the observance of traffic regulations
+#交通规则的遵守
+    religious observances
+#宗教仪式
+    strict observances
+#严格的规章制度
+    We expect all players to show complete observance of the rules of the game.
+#我们期望所有选手都完全遵守比赛规则。
+
+horticulture: 英[ˈhɔːtɪkʌltʃə(r)] 美[ˈhɔːrtɪkʌltʃər]
+%n. 园艺，园艺学
+    She studied horticulture at college.
+#她在大学里学习园艺学。
+
+nasal: 英[ˈneɪz(ə)l] 美[ˈneɪz(ə)l]
+$adj. 鼻的；（嗓音，话语）带鼻音的；（语音）鼻音的
+%n. 鼻音；<史>（头盔上的）护鼻
+    a nasal voice
+#带鼻音的说话声
+    She talked in a deep nasal monotone.
+#她说话鼻音重，音调单调。
+
+equable: 英[ˈekwəb(ə)l] 美[ˈekwəb(ə)l]
+%adj. 平静的；变动小的
+    an equable climate
+#温和的气候
+    an equable gaze
+#平静的注视
+    an equable mind
+#平静的心境
+    an equable little animal
+#温顺的小动物
+    Graham has a fairly equable temperament and I haven't often seen him really angry.
+#格雷厄姆的性情相当温和，我很少见他真的发脾气。
+
+tirade: 英[taɪˈreɪd] 美[ˈtaɪreɪd]
+%n. 激烈的长篇演说
+    deliver a long tirade against the government
+#发表反政府的长篇演说
+    She launched into an angry tirade about how she had been unfairly treated.
+#她就如何遭受不公正待遇发表了激烈的长篇演说。
+
+hoary: 英[ˈhɔːri] 美[ˈhɔːri]
+%adj. 久远的，古老的；灰白的
+    a few hoary old jokes
+#几个老掉牙的笑话
+    the hoary heads
+#皓首
+    hoary traditions
+#古老的传统
+    the hoary walls of the castle
+#城堡的古墙
+    A hoary old man slowly opened the creaking door.
+#一个头发灰白的老人慢慢打开了嘎吱作响的门。
+
+gripe: 英[ɡraɪp] 美[ɡraɪp]
+$n. 发牢骚；肠胃绞痛；紧握；小艇扣带
+%v. 发牢骚；肠胃绞痛；握紧；惹恼；用扣带系紧（小艇）；偏航
+    a gripe session
+#提意见座谈会
+    have nothing to gripe about
+#没有什么抱怨的
+    Her main gripe is that she's not being trained properly.
+#她主要的牢骚是她没有受到良好的训练。
+
+pane: 英[peɪn] 美[peɪn]
+$n. （窗户或门上的）一块玻璃；（计算机）窗片，子窗口；整张邮票；边，面；嵌板；窗格
+%v. 用锤头敲打使（金属片）弯曲（同 peen）
+    a new pane of glass
+#一块新玻璃
+    He noticed that one of the window panes is cracked.
+#他注意到有一扇窗玻璃裂了。
+
+cranky: 英[ˈkræŋki] 美[ˈkræŋki]
+%adj. 暴躁的；古怪的；动摇的
+    He'd been up late the night before and was very cranky in the morning.
+#他昨夜睡得很晚，早上起来脾气很不好。
+
+dingy: 英[ˈdɪndʒi] 美[ˈdɪndʒi]
+%adj. 昏暗的；肮脏的
+    dingy curtains
+#褪色的窗帘
+    a dingy attic
+#昏暗航脏的阁楼
+    The woman's hair was a dingy brown color.
+#那女人的头发是暗棕色。
+
+mores: 英[ˈmɔːreɪz] 美[ˈmɔːreɪz]
+$n. 习惯，习俗；风俗；道德观念
+%n. （Mores）人名；（捷）莫雷斯
+    social mores
+#社会道德风尚
+    middle-class mores
+#中产阶级的道德观念
+
+disposed: 英[dɪˈspəʊzd] 美[dɪˈspoʊzd]
+$adj. 有……倾向的；打算做……的；有某种健康状态的
+%v. 处理；配置；使适应（dispose 的过去分词）；使有倾向
+    feel well-disposed/ill-disposed towards sb.
+#对某人友好/不友好
+    feel disposed for a walk
+#想散散步
+    After all the trouble she put me to I didn't feel disposed to help her.
+#在她给我造成种种麻烦之后，我不想帮她了。
+
+palette: 英[ˈpælət] 美[ˈpælət]
+%n. 调色板；（画家或一幅画所用的）一组颜色；（计算机程序中的）选项板；（乐曲的）一组音调，音色
+    She mixes her colors on the canvas rather than on the palette.
+#她在油画布而不是调色板上调色。
+
+blanch: 英[blɑːntʃ] 美[blæntʃ]
+$vt. 漂白；使变白
+$vi. 漂白；发白；变白
+$n. 铅矿石
+$adj. 漂白的；银白色的
+%n. （Blanch）人名；（英、西）布兰奇；（葡）布兰什；（瑞典）布兰克
+    blanch with anger
+#（脸）气得煞白
+    Old age blanched his hair.
+#他因年老而白发苍苍。
+
+firearm: 英[ˈfaɪərɑːm] 美[ˈfaɪərɑːrm]
+%n. 火器；枪炮
+    He was found guilty of possession of unlicensed firearm.
+#他被认定犯有非法持枪罪。
+
+cinder: 英[ˈsɪndə(r)] 美[ˈsɪndər]
+$n. 煤渣；灰烬
+$vt. 用煤渣等铺
+%vi. 用煤渣等铺路面
+    burnt to cinders
+#烧毁了的
+    Pick out the cinders before you start a new fire.
+#在重新点火之前先把煤渣拣出来。
+
+demented: 英[dɪˈmentɪd] 美[dɪˈmentɪd]
+$adj. 发狂的，疯狂的；精神错乱的
+%v. 精神错乱；变得痴呆（dement 的过去分词）
+    demented screams
+#疯叫
+
+irk: 英[ɜːk] 美[ɜːrk]
+%vt. 使烦恼；使厌倦
+    restrictions that irk buyers
+#使顾客恼怒的种种限制
+    The negative reply to my complaint really irks me.
+#对我的投诉的否定回答真的令我心烦。
+
+wrest: 英[rest] 美[rest]
+$vt. 用力拧；抢夺；歪曲
+%n. 扭，拧
+    wrest the control of the company
+#得公司的控制权
+    wrest power away from
+#从……夺走权力
+    wrest a knife from a child
+#夺下孩子手中的刀
+    wrest sb.'s words
+#歪曲某人的话
+    For centuries, farmers have wrested a living from these barren hills.
+#几个世纪以来，农民们在这些贫瘠的小山上辛苦谋得一条生路。
+
+tremor: 英[ˈtremə(r)] 美[ˈtremər]
+$n. （身体或声音的）颤抖，战栗；兴奋，害怕；轻微地震，小地震；波动，风波
+%v. 震颤，颤抖，战栗
+    feel a tremor of pride
+#感到一阵骄傲
+    a slight tremor in one's voice
+#声音里有些颤抖
+    a tremor of excitement
+#一阵兴奋
+    The story was so terrible that it sent tremors down my spine.
+#这故事真可怕，使我浑身战票。
+
+pamper: 英[ˈpæmpə(r)] 美[ˈpæmpər]
+%vt. 细心照顾，娇惯；<古>给……吃得过多
+    pamper a child
+#娇惯孩子
+    pamper one's guests
+#盛待客人
+    The job enabled him to pamper his wanderlust.
+#那份工作使他的漫游癖完全得到满足。
+
+ingratiate: 英[ɪnˈɡreɪʃieɪt] 美[ɪnˈɡreɪʃieɪt]
+%vt. 使迎合；使讨好；使逢迎
+    ingratiate oneself with the clients
+#逢迎主顾
+    He's always trying to ingratiate himself with people in authority.
+#他总是设法讨好当权者。
+
+transfigure: 英[trænsˈfɪɡə(r)] 美[trænsˈfɪɡjər]
+%v. （使）改观，美化
+    be transfigured by love
+#爱情使得（人）容光焕发
+    Her face, as she looked down at the baby, was transfigured with tenderness.
+#当她向下凝视宝宝时，她的脸变得柔和亲切。
+
+culmination: 英[ˌkʌlmɪˈneɪʃn] 美[ˌkʌlmɪˈneɪʃ(ə)n]
+%n. 终点，高潮；<旧>（天体的）达于中天
+    the culmination of a brilliant career
+#光辉生涯的顶峰
+    the culmination of the party
+#晚会的高潮
+    Winning first prize was the culmination of years of practice and hard work.
+#取得一等奖是多年实践和辛勤工作的结果。
+
+pressing: 英[ˈpresɪŋ] 美[ˈpresɪŋ]
+$adj. （问题，需求，情况）紧迫的，迫切的；难以推却的，不容忽视的
+$n. 压制品，一批压制品（尤指唱片）；按，压，挤，推
+%v. 按，压；熨平（衣服）；挤着走（pressing 的现在分词形式）
+    pressing need
+#迫切需要
+    a pressing invitation
+#恳切的邀请
+    the pressing of a button
+#按电钮
+    the pressing of peanuts for oil
+#榨花生油
+    It is one of the most pressing problems facing this country.
+#它是该国面临的最紧迫的问题之一。
+
+colt: 英[kəʊlt] 美[koʊlt]
+$n. 小马；生手
+%vt. 以笞绳鞭打
+    She bought him as a £ 1, 000 colt of six months and schooled him.
+#在它还是6个月的小马驹时，她用1，000英镑将它买下，并训练它。
+
+slug: 英[slʌɡ] 美[slʌɡ]
+$n. 蛞蝓，鼻涕虫；<非正式>子弹，气枪弹；满满一口（尤指烈酒）；<美>（投入机器中的）假硬币，代币；懒汉，懒虫；重击；（整行铸排机印刷时的）一行铅字；（计算机）处理后的标题（用于构建固定链接）
+%v. <非正式>重击（某人）；猛击（球）；痛饮（某物，尤指酒），大喝；决一雌雄（slug it out）
+    slug it out
+#一决雌雄，比出个高下
+    take a good slug of drink
+#痛快地喝一杯
+    He slugged her and she fell against the bar.
+#他打了她一拳，她倒在了栏杆上。
+
+underwrite: 英[ˌʌndəˈraɪt] 美[ˌʌndərˈraɪt]
+%v. 承担经济责任，提供财力支持；承保；承购，包销（未获认购的股份）；在……下面写
+    underwrite sb.'s education
+#同意负担某人的教育经费
+    underwrite the regimes of yesterday
+#支持昔日的旧政权
+    The race-track owners have so far failed to find anyone who will underwrite the event.
+#赛车场场主们至今还没有找到愿意资助这次赛事的人。
+
+amalgamate: 英[əˈmælɡəmeɪt] 美[əˈmælɡəmeɪt]
+$vi. 合并；汞齐化；调制汞合金
+%vt. 合并；使（金属）汞齐化；混合
+    amalgamate ten committees into one
+#将十个委员会合并成一个
+    an amalgamate language
+#混合的语言
+    The different offices will be amalgamated into/as employment advice center.
+#不同的办公室将被合并成就业指导中心。
+
+gavel: 英[ˈɡæv(ə)l] 美[ˈɡæv(ə)l]
+$n. （拍卖商、法官、议长用的）小木槌
+%n. （Gavel）人名；（法、瑞典）加韦尔
+    gavel a session to a close
+#击槌宣布闭会
+    gavel for order
+#击槌要求肃静
+    gavel down
+#击槌对……表示否决
+    The judge had to bang his gavel several times before people were quiet.
+#法官不得不敲了几次木槌让人们安静下来。
+
+bough: 英[baʊ] 美[baʊ]
+$n. 大树枝
+%n. （Bough）人名；（英）博夫
+    He cut off some boughs to build a fence.
+#他砍下一些大树杈做栅栏。
+
+torrid: 英[ˈtɒrɪd] 美[ˈtɔːrɪd]
+%adj. 晒热的；热情的
+    in the torrid heat of May
+#在炎热的五月
+    in a torrid time
+#在艰难时期
+    in the torrid sun
+#在火辣辣的骄阳下
+    torrid rocks
+#晒得滚烫的岩石
+    a torrid love letter
+#火热的情书
+    a torrid relationship
+#炽热的关系
+    The novel is set at the turn of the 20th century in a torrid port on Caribbean coast.
+#这部小说是以20世纪初加勒比海海岸的一个炎热的港口为背景的。
+
+disenchant: 英[ˌdɪsɪnˈtʃɑːnt] 美[ˌdɪsɪnˈtʃænt]
+%v. 使清醒；使不抱幻想
+    become disenchanted with the future
+#对未来不再抱有幻想
+    Ten days in bed with flu managed to disenchant me with television.
+#因流感卧床10天总算使我不再迷恋电视了。
+
+abdicate: 英[ˈæbdɪkeɪt] 美[ˈæbdɪkeɪt]
+%v. 退位；放弃（责任），失（职）；放弃
+    abdicate an opinion
+#放弃一种意见
+    abdicate one's throne
+#退位
+    She abdicated her right to a share in the profits.
+#她放弃了分享利润的权利。
+
+icicle: 英[ˈaɪsɪk(ə)l] 美[ˈaɪsək(ə)l]
+%n. 冰柱；垂冰；冷冰冰的人
+    Icicles hung from the roof.
+#屋檐上挂着冰柱。
+
+perjury: 英[ˈpɜːdʒəri] 美[ˈpɜːrdʒəri]
+%n. 伪证；伪誓；背信弃义
+    be charged with perjury
+#被指控犯伪证罪
+    She was sentenced to two years in prison for committing perjury.
+#她因犯有伪证罪而被判两年徒刑。
+
+sheaf: 英[ʃiːf] 美[ʃiːf]
+$n. 捆；束；扎
+$vt. 捆；束；扎
+%n. （Sheaf）人名；（英）希夫
+    a sheaf of papers
+#一扎文件
+    a sheaf of lilies
+#一束百合花
+    a sheaf of notes
+#一扎笔记
+    The corn was cut, tied in sheaves and left to dry.
+#玉米被割了下来，捆成一束束的放在那里晒干。
+
+edgy: 英[ˈedʒi] 美[ˈedʒi]
+%adj. 尖利的；紧张的，烦躁不安的；（演奏或文字作品）尖锐的，强烈的；（电影、书籍等）激动人心的；前卫的，尖端的，先进的
+    an edgy wit
+#敏锐的机智
+    an edgy temper
+#急躁的牌气
+    edgy relations
+#紧张的关系
+    She was edgy over Peter's conduct.
+#她对彼得的行为感到烦躁。
+
+=======
+wean: 英[wiːn] 美[wiːn]
+$vt. 使断奶；使断念；使放弃
+$n. （苏格兰）幼儿
+%n. （Wean）人名；（英）威恩
+    wean oneself of fatty foods
+#改掉吃油腻食物的习惯
+    wean a country from the influence of another
+#使一国摆脱另一国的影响
+    wean people off welfare dependence
+#使人们脱离对福利救济的依赖
+    She started to wean her baby when it was about seven months old.
+#她在孩子七个月左右的时候开始给他断奶。
+
+anthem: 英[ˈænθəm] 美[ˈænθəm]
+%n. 国歌，（团体组织的）颂歌，赞歌；（尤指圣公会或新教教会的）圣歌；（对某一群体很重要的）歌曲
+    the anthem of peace-lovers
+#爱好和平者的圣歌
+    They usually play the national anthems of the teams at the beginning of a big international football match.
+#在重大的国际足球赛开始前，他们通常演奏参赛队的国歌。
+
+suffocate: 英[ˈsʌfəkeɪt] 美[ˈsʌfəkeɪt]
+%v. （使）窒息而死，（使）闷死；（使）呼吸困难，（使）憋闷；（受）束缚，（受）扼制
+    be suffocated with smoke
+#被烟闷死
+    suffocate the sense of justice and liberty
+#扼杀正义感和自由精神
+    suffocate with rage
+#气得喘不过来
+    The democratic press was suffocated by the tyrannical government.
+#那个专制政府扼杀了民主报刊。
+
+skyrocket: 英[ˈskaɪrɒkɪt] 美[ˈskaɪrɑːkɪt]
+$n. 流星烟火；冲天火箭
+%v. （价格）飞涨，猛涨；（使）……猛然上涨
+    skyrocket sb. to fame
+#使某人一举成名
+    Medical costs skyrocketed.
+#医药费用猛涨。
+
+interjection: 英[ˌɪntəˈdʒekʃ(ə)n] 美[ˌɪntərˈdʒekʃ(ə)n]
+%n. 感叹词；插入语；突然的发声
+    His controversial speech was punctuated with noisy interjections from the audience.
+#他那颇有争议的演讲不时被听众嘈杂的插话打断。
+
+daft: 英[dɑːft] 美[dæft]
+$adj. （非正式）癫狂的；愚笨的
+%n. （Daft）（美、英、俄、德、波、澳、加）达夫特（人名）
+    go daft
+#发疯
+    a daft word
+#一个粗野的字眼
+    be daft about
+#迷恋于
+    Some of the suggested solutions to the problem were unusual and others were just plain daft.
+#解决问题的有些建议与众不同，其他的则太愚蠢了。
+
+observance: 英[əbˈzɜːvəns] 美[əbˈzɜːrvəns]
+%n. 惯例；遵守；仪式；庆祝
+    the observance of traffic regulations
+#交通规则的遵守
+    religious observances
+#宗教仪式
+    strict observances
+#严格的规章制度
+    We expect all players to show complete observance of the rules of the game.
+#我们期望所有选手都完全遵守比赛规则。
+
+horticulture: 英[ˈhɔːtɪkʌltʃə(r)] 美[ˈhɔːrtɪkʌltʃər]
+%n. 园艺，园艺学
+    She studied horticulture at college.
+#她在大学里学习园艺学。
+
+nasal: 英[ˈneɪz(ə)l] 美[ˈneɪz(ə)l]
+$adj. 鼻的；（嗓音，话语）带鼻音的；（语音）鼻音的
+%n. 鼻音；<史>（头盔上的）护鼻
+    a nasal voice
+#带鼻音的说话声
+    She talked in a deep nasal monotone.
+#她说话鼻音重，音调单调。
+
+equable: 英[ˈekwəb(ə)l] 美[ˈekwəb(ə)l]
+%adj. 平静的；变动小的
+    an equable climate
+#温和的气候
+    an equable gaze
+#平静的注视
+    an equable mind
+#平静的心境
+    an equable little animal
+#温顺的小动物
+    Graham has a fairly equable temperament and I haven't often seen him really angry.
+#格雷厄姆的性情相当温和，我很少见他真的发脾气。
+
+tirade: 英[taɪˈreɪd] 美[ˈtaɪreɪd]
+%n. 激烈的长篇演说
+    deliver a long tirade against the government
+#发表反政府的长篇演说
+    She launched into an angry tirade about how she had been unfairly treated.
+#她就如何遭受不公正待遇发表了激烈的长篇演说。
+
+hoary: 英[ˈhɔːri] 美[ˈhɔːri]
+%adj. 久远的，古老的；灰白的
+    a few hoary old jokes
+#几个老掉牙的笑话
+    the hoary heads
+#皓首
+    hoary traditions
+#古老的传统
+    the hoary walls of the castle
+#城堡的古墙
+    A hoary old man slowly opened the creaking door.
+#一个头发灰白的老人慢慢打开了嘎吱作响的门。
+
+gripe: 英[ɡraɪp] 美[ɡraɪp]
+$n. 发牢骚；肠胃绞痛；紧握；小艇扣带
+%v. 发牢骚；肠胃绞痛；握紧；惹恼；用扣带系紧（小艇）；偏航
+    a gripe session
+#提意见座谈会
+    have nothing to gripe about
+#没有什么抱怨的
+    Her main gripe is that she's not being trained properly.
+#她主要的牢骚是她没有受到良好的训练。
+
+pane: 英[peɪn] 美[peɪn]
+$n. （窗户或门上的）一块玻璃；（计算机）窗片，子窗口；整张邮票；边，面；嵌板；窗格
+%v. 用锤头敲打使（金属片）弯曲（同 peen）
+    a new pane of glass
+#一块新玻璃
+    He noticed that one of the window panes is cracked.
+#他注意到有一扇窗玻璃裂了。
+
+cranky: 英[ˈkræŋki] 美[ˈkræŋki]
+%adj. 暴躁的；古怪的；动摇的
+    He'd been up late the night before and was very cranky in the morning.
+#他昨夜睡得很晚，早上起来脾气很不好。
+
+dingy: 英[ˈdɪndʒi] 美[ˈdɪndʒi]
+%adj. 昏暗的；肮脏的
+    dingy curtains
+#褪色的窗帘
+    a dingy attic
+#昏暗航脏的阁楼
+    The woman's hair was a dingy brown color.
+#那女人的头发是暗棕色。
+
+mores: 英[ˈmɔːreɪz] 美[ˈmɔːreɪz]
+$n. 习惯，习俗；风俗；道德观念
+%n. （Mores）人名；（捷）莫雷斯
+    social mores
+#社会道德风尚
+    middle-class mores
+#中产阶级的道德观念
+
+disposed: 英[dɪˈspəʊzd] 美[dɪˈspoʊzd]
+$adj. 有……倾向的；打算做……的；有某种健康状态的
+%v. 处理；配置；使适应（dispose 的过去分词）；使有倾向
+    feel well-disposed/ill-disposed towards sb.
+#对某人友好/不友好
+    feel disposed for a walk
+#想散散步
+    After all the trouble she put me to I didn't feel disposed to help her.
+#在她给我造成种种麻烦之后，我不想帮她了。
+
+palette: 英[ˈpælət] 美[ˈpælət]
+%n. 调色板；（画家或一幅画所用的）一组颜色；（计算机程序中的）选项板；（乐曲的）一组音调，音色
+    She mixes her colors on the canvas rather than on the palette.
+#她在油画布而不是调色板上调色。
+
+blanch: 英[blɑːntʃ] 美[blæntʃ]
+$vt. 漂白；使变白
+$vi. 漂白；发白；变白
+$n. 铅矿石
+$adj. 漂白的；银白色的
+%n. （Blanch）人名；（英、西）布兰奇；（葡）布兰什；（瑞典）布兰克
+    blanch with anger
+#（脸）气得煞白
+    Old age blanched his hair.
+#他因年老而白发苍苍。
+
+firearm: 英[ˈfaɪərɑːm] 美[ˈfaɪərɑːrm]
+%n. 火器；枪炮
+    He was found guilty of possession of unlicensed firearm.
+#他被认定犯有非法持枪罪。
+
+cinder: 英[ˈsɪndə(r)] 美[ˈsɪndər]
+$n. 煤渣；灰烬
+$vt. 用煤渣等铺
+%vi. 用煤渣等铺路面
+    burnt to cinders
+#烧毁了的
+    Pick out the cinders before you start a new fire.
+#在重新点火之前先把煤渣拣出来。
+
+demented: 英[dɪˈmentɪd] 美[dɪˈmentɪd]
+$adj. 发狂的，疯狂的；精神错乱的
+%v. 精神错乱；变得痴呆（dement 的过去分词）
+    demented screams
+#疯叫
+
+irk: 英[ɜːk] 美[ɜːrk]
+%vt. 使烦恼；使厌倦
+    restrictions that irk buyers
+#使顾客恼怒的种种限制
+    The negative reply to my complaint really irks me.
+#对我的投诉的否定回答真的令我心烦。
+
+wrest: 英[rest] 美[rest]
+$vt. 用力拧；抢夺；歪曲
+%n. 扭，拧
+    wrest the control of the company
+#得公司的控制权
+    wrest power away from
+#从……夺走权力
+    wrest a knife from a child
+#夺下孩子手中的刀
+    wrest sb.'s words
+#歪曲某人的话
+    For centuries, farmers have wrested a living from these barren hills.
+#几个世纪以来，农民们在这些贫瘠的小山上辛苦谋得一条生路。
+
+tremor: 英[ˈtremə(r)] 美[ˈtremər]
+$n. （身体或声音的）颤抖，战栗；兴奋，害怕；轻微地震，小地震；波动，风波
+%v. 震颤，颤抖，战栗
+    feel a tremor of pride
+#感到一阵骄傲
+    a slight tremor in one's voice
+#声音里有些颤抖
+    a tremor of excitement
+#一阵兴奋
+    The story was so terrible that it sent tremors down my spine.
+#这故事真可怕，使我浑身战票。
+
+pamper: 英[ˈpæmpə(r)] 美[ˈpæmpər]
+%vt. 细心照顾，娇惯；<古>给……吃得过多
+    pamper a child
+#娇惯孩子
+    pamper one's guests
+#盛待客人
+    The job enabled him to pamper his wanderlust.
+#那份工作使他的漫游癖完全得到满足。
+
+ingratiate: 英[ɪnˈɡreɪʃieɪt] 美[ɪnˈɡreɪʃieɪt]
+%vt. 使迎合；使讨好；使逢迎
+    ingratiate oneself with the clients
+#逢迎主顾
+    He's always trying to ingratiate himself with people in authority.
+#他总是设法讨好当权者。
+
+transfigure: 英[trænsˈfɪɡə(r)] 美[trænsˈfɪɡjər]
+%v. （使）改观，美化
+    be transfigured by love
+#爱情使得（人）容光焕发
+    Her face, as she looked down at the baby, was transfigured with tenderness.
+#当她向下凝视宝宝时，她的脸变得柔和亲切。
+
+culmination: 英[ˌkʌlmɪˈneɪʃn] 美[ˌkʌlmɪˈneɪʃ(ə)n]
+%n. 终点，高潮；<旧>（天体的）达于中天
+    the culmination of a brilliant career
+#光辉生涯的顶峰
+    the culmination of the party
+#晚会的高潮
+    Winning first prize was the culmination of years of practice and hard work.
+#取得一等奖是多年实践和辛勤工作的结果。
+
+pressing: 英[ˈpresɪŋ] 美[ˈpresɪŋ]
+$adj. （问题，需求，情况）紧迫的，迫切的；难以推却的，不容忽视的
+$n. 压制品，一批压制品（尤指唱片）；按，压，挤，推
+%v. 按，压；熨平（衣服）；挤着走（pressing 的现在分词形式）
+    pressing need
+#迫切需要
+    a pressing invitation
+#恳切的邀请
+    the pressing of a button
+#按电钮
+    the pressing of peanuts for oil
+#榨花生油
+    It is one of the most pressing problems facing this country.
+#它是该国面临的最紧迫的问题之一。
+
+colt: 英[kəʊlt] 美[koʊlt]
+$n. 小马；生手
+%vt. 以笞绳鞭打
+    She bought him as a £ 1, 000 colt of six months and schooled him.
+#在它还是6个月的小马驹时，她用1，000英镑将它买下，并训练它。
+
+slug: 英[slʌɡ] 美[slʌɡ]
+$n. 蛞蝓，鼻涕虫；<非正式>子弹，气枪弹；满满一口（尤指烈酒）；<美>（投入机器中的）假硬币，代币；懒汉，懒虫；重击；（整行铸排机印刷时的）一行铅字；（计算机）处理后的标题（用于构建固定链接）
+%v. <非正式>重击（某人）；猛击（球）；痛饮（某物，尤指酒），大喝；决一雌雄（slug it out）
+    slug it out
+#一决雌雄，比出个高下
+    take a good slug of drink
+#痛快地喝一杯
+    He slugged her and she fell against the bar.
+#他打了她一拳，她倒在了栏杆上。
+
+underwrite: 英[ˌʌndəˈraɪt] 美[ˌʌndərˈraɪt]
+%v. 承担经济责任，提供财力支持；承保；承购，包销（未获认购的股份）；在……下面写
+    underwrite sb.'s education
+#同意负担某人的教育经费
+    underwrite the regimes of yesterday
+#支持昔日的旧政权
+    The race-track owners have so far failed to find anyone who will underwrite the event.
+#赛车场场主们至今还没有找到愿意资助这次赛事的人。
+
+amalgamate: 英[əˈmælɡəmeɪt] 美[əˈmælɡəmeɪt]
+$vi. 合并；汞齐化；调制汞合金
+%vt. 合并；使（金属）汞齐化；混合
+    amalgamate ten committees into one
+#将十个委员会合并成一个
+    an amalgamate language
+#混合的语言
+    The different offices will be amalgamated into/as employment advice center.
+#不同的办公室将被合并成就业指导中心。
+
+gavel: 英[ˈɡæv(ə)l] 美[ˈɡæv(ə)l]
+$n. （拍卖商、法官、议长用的）小木槌
+%n. （Gavel）人名；（法、瑞典）加韦尔
+    gavel a session to a close
+#击槌宣布闭会
+    gavel for order
+#击槌要求肃静
+    gavel down
+#击槌对……表示否决
+    The judge had to bang his gavel several times before people were quiet.
+#法官不得不敲了几次木槌让人们安静下来。
+
+bough: 英[baʊ] 美[baʊ]
+$n. 大树枝
+%n. （Bough）人名；（英）博夫
+    He cut off some boughs to build a fence.
+#他砍下一些大树杈做栅栏。
+
+torrid: 英[ˈtɒrɪd] 美[ˈtɔːrɪd]
+%adj. 晒热的；热情的
+    in the torrid heat of May
+#在炎热的五月
+    in a torrid time
+#在艰难时期
+    in the torrid sun
+#在火辣辣的骄阳下
+    torrid rocks
+#晒得滚烫的岩石
+    a torrid love letter
+#火热的情书
+    a torrid relationship
+#炽热的关系
+    The novel is set at the turn of the 20th century in a torrid port on Caribbean coast.
+#这部小说是以20世纪初加勒比海海岸的一个炎热的港口为背景的。
+
+disenchant: 英[ˌdɪsɪnˈtʃɑːnt] 美[ˌdɪsɪnˈtʃænt]
+%v. 使清醒；使不抱幻想
+    become disenchanted with the future
+#对未来不再抱有幻想
+    Ten days in bed with flu managed to disenchant me with television.
+#因流感卧床10天总算使我不再迷恋电视了。
+
+abdicate: 英[ˈæbdɪkeɪt] 美[ˈæbdɪkeɪt]
+%v. 退位；放弃（责任），失（职）；放弃
+    abdicate an opinion
+#放弃一种意见
+    abdicate one's throne
+#退位
+    She abdicated her right to a share in the profits.
+#她放弃了分享利润的权利。
+
+icicle: 英[ˈaɪsɪk(ə)l] 美[ˈaɪsək(ə)l]
+%n. 冰柱；垂冰；冷冰冰的人
+    Icicles hung from the roof.
+#屋檐上挂着冰柱。
+
+perjury: 英[ˈpɜːdʒəri] 美[ˈpɜːrdʒəri]
+%n. 伪证；伪誓；背信弃义
+    be charged with perjury
+#被指控犯伪证罪
+    She was sentenced to two years in prison for committing perjury.
+#她因犯有伪证罪而被判两年徒刑。
+
+sheaf: 英[ʃiːf] 美[ʃiːf]
+$n. 捆；束；扎
+$vt. 捆；束；扎
+%n. （Sheaf）人名；（英）希夫
+    a sheaf of papers
+#一扎文件
+    a sheaf of lilies
+#一束百合花
+    a sheaf of notes
+#一扎笔记
+    The corn was cut, tied in sheaves and left to dry.
+#玉米被割了下来，捆成一束束的放在那里晒干。
+
+edgy: 英[ˈedʒi] 美[ˈedʒi]
+%adj. 尖利的；紧张的，烦躁不安的；（演奏或文字作品）尖锐的，强烈的；（电影、书籍等）激动人心的；前卫的，尖端的，先进的
+    an edgy wit
+#敏锐的机智
+    an edgy temper
+#急躁的牌气
+    edgy relations
+#紧张的关系
+    She was edgy over Peter's conduct.
+#她对彼得的行为感到烦躁。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

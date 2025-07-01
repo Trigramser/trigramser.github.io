@@ -1,0 +1,735 @@
+<<<<<<< HEAD
+opaque: 英[əʊˈpeɪk] 美[oʊˈpeɪk]
+$adj. （玻璃、液体等）不透明的，不透光的；难懂的，隐晦的；迟钝的
+$n. 不透明体；（用于底片）不透明颜料
+%v. 使不透明
+    Her explanation of the problem was rather opaque.
+#她对这个问题的解释相当含糊。
+
+dodge: 英[dɒdʒ] 美[dɑːdʒ]
+$v. 闪开，躲开；巧妙躲避，施计回避；按变换序列鸣钟；（冲洗或放大时）局部遮光
+%n. 逃避的诡计，骗人的伎俩；躲闪
+    He dodged the falling rock and escaped unhurt.
+#他躲开了落下来的石头，没有受伤。
+
+misgiving: 英[ˌmɪsˈɡɪvɪŋ] 美[ˌmɪsˈɡɪvɪŋ]
+$n. 疑虑，担忧，不安
+%v. 使……疑虑，使担忧，使害怕（misgive 的现在分词）
+    The plan seemed to be utterly impractical and I was filled with misgivings about it.
+#这项计划似乎完全不切实际，我对此充满疑虑。
+
+stammer: 英[ˈstæmə(r)] 美[ˈstæmər]
+$v. 口吃，结结巴巴地说
+%n. 结巴，口吃
+    He usually stammers when he meets someone for the first time because it makes him nervous.
+#他经常在第一次遇见陌生人时结结巴巴，因为这使他很紧张。
+
+collapse: 英[kəˈlæps] 美[kəˈlæps]
+$v. 倒塌，塌下；崩溃，瓦解；突然倒下，昏倒；瘫倒；突然贬值，暴跌；萎陷，瘪掉；折叠
+%n. 倒塌，塌陷；突然失败，崩溃；病倒，垮掉；突然贬值，暴跌
+    He collapsed at the end of the five-mile race.
+#他跑完5英里赛跑就瘫倒了。
+
+trek: 英[trek] 美[trek]
+$v. （尤指徒步）长途跋涉；（尤指在山中）远足，徒步旅行；缓慢行走，没精打采地走；<南非>不断旅行，过流浪生活；<南非>（牛）拉车，驮运；<南非>用围网捕鱼；<南非，史>（随装载自己财物的牛车）迁移，旅行
+%n. （显得很漫长的）一段路程；（尤指徒步的）长途艰苦旅行；<南非>大迁徙（the Trek）；<南非>一网鱼；<南非，非正式>财产，所有物
+    They did a six-hour trek between the two towns yesterday.
+#昨天他们在两个小城之间长途跋涉了6个小时。
+
+detonate: 英[ˈdetəneɪt] 美[ˈdetəneɪt]
+$vt. 使爆炸
+%vi. 引爆，爆炸
+    A remote control device was used to detonate the bomb.
+#遥控装置被用来引爆了炸弹。
+
+pulp: 英[pʌlp] 美[pʌlp]
+$n. 浆状物；纸浆；（水果或蔬菜的）果肉，瓤；牙髓；矿浆；通俗（或耸人听闻）的劣质作品
+%vt. 将……捣成浆；将（书或报纸）制成纸浆；把（某人的脸或身体）打得血肉模糊
+    The old newspaper was pulped and recycled.
+#旧报纸被化为纸浆回收了。
+
+vagrancy: 英[ˈveɪɡrənsi] 美[ˈveɪɡrənsi]
+%n. 流浪；漂泊；思想游移不定
+    The economic situation has led to rising unemployment and increased vagrancy.
+#这一经济状况已经引起了越来越多的失业和流浪。
+
+seraphic: 英[səˈræfɪk] 美[səˈræfɪk]
+%adj. 纯洁的；美丽的；天使一般的
+    a seraphic child
+#天使般可爱的孩子
+    seraphic purity
+#天使般的纯洁
+
+fasten: 英[ˈfɑːs(ə)n] 美[ˈfæsn]
+%v. 关紧，锁好（门窗）；（使）牢固，（使）固定；握住，咬住；盯住……不放，集中注意力于……；缠着，纠缠；系牢，扣紧
+    fasten the door
+#把门锁上
+    fasten one's mind on the book
+#专心读书
+    The fisherman fastened the boat to a tree by a rope.
+#渔夫用绳子把小船系在树上。
+
+complaisance: 英[kəmˈpleɪzəns] 美[kəmˈpleɪsəns]
+%n. 殷勤；彬彬有礼；柔顺
+    receive sb. with complaisance
+#殷勤接待某人
+
+glutinous: 英[ˈɡluːtənəs] 美[ˈɡluːtənəs]
+%adj. 黏的，胶质的
+    The rice turns into a soft glutinous mass when cooked, making it easy to eat with chopsticks.
+#这种大米煮熟之后变得又黏又软，易于用筷子夹食。
+
+impassable: 英[ɪmˈpɑːsəb(ə)l] 美[ɪmˈpæsəb(ə)l]
+%adj. 不能通行的（名词 impassability, 副词 impassably）；无路可通的
+    an impassable highway
+#不能通行的公路
+    an impassable obstacle
+#不可逾越的障碍
+    Snow and ice made the road impassable.
+#冰雪使道路无法通行。
+
+inimical: 英[ɪˈnɪmɪk(ə)l] 美[ɪˈnɪmɪk(ə)l]
+%adj. 敌意的；有害的
+    inimical to strangers
+#对陌生人不友好
+    be inimical to education
+#对教育不利
+    He is thought to be involved in some activity inimical to nation security.
+#他被认为参与了一些有损国家安全的活动。
+
+dexterous: 英[ˈdekst(ə)rəs] 美[ˈdekst(ə)rəs]
+%adj. 灵巧的；敏捷的；惯用右手的
+    dexterous fingers
+#灵巧的手指
+    a politically dexterous leader
+#政治上机敏的领导人
+    a dexterous surgeon
+#手术熟练的外科医生
+    She's very dexterous with her hands.
+#她的手非常灵巧。
+
+innocuous: 英[ɪˈnɒkjuəs] 美[ɪˈnɑːkjuəs]
+%adj. 无害的；无伤大雅的
+    innocuous remarks
+#无伤大雅的言谈
+    an innocuous speech
+#平淡无味的演讲
+    Some mushrooms look innocuous but are in fact poisonous.
+#有些蘑菇看上去是无害的，但实际上是有毒的。
+
+swampy: 英[ˈswɒmpi] 美[ˈswɑːmpi]
+%adj. 沼泽的；湿地的；沼泽多的；松软的
+    a swampy area
+#沼泽地带
+    swampy ground
+#潮湿的地面
+    The back yard is swampy after a heavy rain.
+#大雨过后，后院简直成了沼泽。
+
+homogenize: 英[həˈmɒdʒənaɪz] 美[həˈmɑːdʒənaɪz]
+%v. 使同样，使相似；对（牛奶）作均质处理；（生物）搅匀；变均匀
+    Automation, commercial television and instant foods have made America a homogenized society.
+#自动化、商业化电视和即食食品已使美国成为一个单一发展的社会。
+
+attenuate: 英[əˈtenjueɪt] 美[əˈtenjueɪt]
+$v. （使）减弱；（使）纤细，稀薄
+%adj. 减弱的；稀薄的；细小的
+    be attenuated by hunger
+#饿瘦
+    Radiation from the sun is attenuated by the earth's atmosphere.
+#太阳的辐射被地球的大气层减弱。
+
+uncontroversial: 英[ˌʌnˌkɒntrəˈvɜːʃ(ə)l] 美[ˌʌnkɑːntrəˈvɜːrʃ(ə)l]
+%adj. 非争论性的；不会引起争论的
+    an un controversial issue
+#无争议的问题
+    He chose an uncontroversial topic for his speech. 
+#他为自己的演讲选择了一个不会引起争议的话题。
+
+acidic: 英[əˈsɪdɪk] 美[əˈsɪdɪk]
+%adj. 酸的，酸性的；产生酸的
+    This area has naturally acidic soil.
+#这个地区有天然的酸性土壤。
+
+verbose: 英[vɜːˈbəʊs] 美[vɜːrˈboʊs]
+%adj. 冗长的；啰嗦的
+    a verbose companion
+#啰嗦的同伴
+    a verbose speech
+#冗长的演说
+    He was renowned for being a verbose and rather tedious after-dinner speaker.
+#他以一个啰嗦而且十分乏味的饭后演说者而闻名。
+
+benefactor: 英[ˈbenɪfæktə(r)] 美[ˈbenɪfæktər]
+%n. 捐助人，赞助人
+    In his old age he became a benefactor of the arts.
+#他晚年成了艺术赞助人。
+
+episodic: 英[ˌepɪˈsɒdɪk] 美[ˌepɪˈsɑːdɪk]
+%adj. 由一系列独立部分（或事件）组成的；偶然发生的；（电视、小说等）连载的；暂时的
+    an episodic reform
+#昙花一现的改革
+    She was episodic in her affections.
+#她的爱情不专
+
+desecrate: 英[ˈdesɪkreɪt] 美[ˈdesɪkreɪt]
+%vt. 亵渎；污辱；把（神物）供俗用
+    It's a crime to desecrate the country's flag.
+#亵渎国旗是一种犯罪。
+
+inconsolable: 英[ˌɪnkənˈsəʊləb(ə)l] 美[ˌɪnkənˈsoʊləb(ə)l]
+%adj. 无法安慰的（名词 inconsolability, 副词 inconsolably）；极为伤心的
+    He was in an inconsolable mood of despair.
+#他极度沮丧，情绪绝望。
+
+outgrowth: 英[ˈaʊtɡrəʊθ] 美[ˈaʊtɡroʊθ]
+%n. 结果；副产物；自然的发展；分枝；生长晕
+    a woody outgrowth on a tree trunk
+#树上长出的木瘤
+    the outgrowth of new leaves
+#新叶的抽出
+    Inflation is an outgrowth of war.
+#通货膨胀是战争的结果。
+
+prior: 英[ˈpraɪə(r)] 美[ˈpraɪər]
+$adj. 先前的，事先的；<正式>优先的，更重要的；<正式>在前面的（prior to）
+%n. <美，非正式>犯罪前科；小修道院院长；大修道院副院长；托钵会会长
+    prior to
+#在……之前，先于
+    He had to refuse the dinner invitation because of a prior engagement.
+#因为事先另有约会，他只好拒绝了吃饭的邀请。
+
+multifaceted: 英[ˌmʌltiˈfæsɪtɪd] 美[ˌmʌltiˈfæsɪtɪd]
+%adj. 多层面的，包罗万象的，要从多方面考虑的；多刻面的
+    the multifaceted problems of foreign policy
+#外交政策所涉及的多方面的问题
+    a multifaceted actor
+#多才多艺的演员
+
+pedantry: 英[ˈped(ə)ntri] 美[ˈped(ə)ntri]
+%n. 迂腐；卖弄学问；假装学者
+    There is a hint of pedantry in his elegant style of speaking.
+#他讲话优雅的风格有些故意卖弄的意味。
+
+subversive: 英[səbˈvɜːsɪv] 美[səbˈvɜːrsɪv]
+$adj. 破坏性的；从事颠覆的
+%n. 危险分子；颠覆分子
+    a subversive group
+#颠覆集团
+    subversive activities
+#颠覆活动
+    The courageous and subversive movie has attracted wide-spread critic support.
+#这部大胆而具颠覆性的电影受到了评论界的广泛支持。
+
+elate: 英[ɪˈleɪt] 美[ɪˈleɪt]
+$vt. 使……欢欣；使……兴高采烈
+%adj. 得意的
+    be elated by the prospect
+#为前景所鼓舞
+    He was elated over the favorable reviews of his novel.
+#他因自己的小说获得好评而得意扬扬。
+
+outlying: 英[ˈaʊtlaɪɪŋ] 美[ˈaʊtlaɪɪŋ]
+$adj. 边远的；无关的
+%v. 放在……外面；在撒谎上胜过（outlie 的 ing 形式）
+    The main industry on the outlying islands is farming.
+#那些边远小岛的主要产业是农业。
+
+charlatan: 英[ˈʃɑːlətən] 美[ˈʃɑːrlətən]
+%n. 骗子，冒牌内行，江湖郎中
+    He was an expert who claimed to have a miracle cure and then exposed as a charlatan.
+#他是个声称有神奇疗法的专家，后来被揭发是个骗子。
+
+disorganise(disorganize): 英[dɪsˈɔːɡəˌnaɪz] 美[dɪsˈɔːɡəˌnaɪz]
+%vt. 瓦解；扰乱（等于 disorganize）
+    Heavy shelling by the enemy disorganized the army's retreat.
+#敌人的炮火猛轰，打乱了部队的撒退步骤。
+
+sculptural: 英[ˈskʌlptʃərəl] 美[ˈskʌlptʃərəl]
+%adj. 雕刻的；雕刻般的
+    Her delicate sculptural pieces are now selling in the USA and Europe.
+#她精致的雕塑作品现在正在美国和欧洲出售。
+
+dorsal: 英[ˈdɔːs(ə)l] 美[ˈdɔːrsl]
+$adj. （鱼或动物）背部的；（人）后背的；（尤指叶片的背面）远轴的；舌鄂音
+$n. （教堂圣坛后面或高坛两侧的）幔布（等于dossal）；背部，背侧
+%n. （Dorsal）（美）多萨尔（人名）
+    The sight of a shark's dorsal fin above the water is enough to clear the sea of swimmers.
+#看到鲨鱼露出水面的脊鳍，就足以吓跑海边的游泳者。
+
+pharmaceutic: 英[fɑ:mə'sju:tɪk] 美[fɑ:mə'sju:tɪk]
+%adj. 调药的；配药学的
+    the pharmaceutic industry
+#制药业
+    a pharmaceutic journal
+#医药杂志
+    pharmaceutic treatment
+#药物治疗
+    The company manufactures pharmaceutics.
+#这家公司生产药品。
+
+identifiable: 英[aɪˌdentɪˈfaɪəb(ə)l] 美[aɪˌdentɪˈfaɪəb(ə)l]
+%adj. 可辨认的；可认明的；可证明是同一的
+    In her bright yellow coat, she was easily identifiable in the crowd.
+#她穿着鲜黄的外套，在人群中很容易辨认。
+
+underrepresented: 英[ˌʌndəˌreprɪˈzentɪd] 美[ˌʌndərˌreprɪˈzentɪd]
+%adj. 代表名额不足的；未被充分代表的
+    They should listen to the underrepresented voices of such marginal groups.
+#他们应该听听这类未被充分代表的边缘团体的呼声。
+
+bootless: 英[ˈbuːtlɪs] 美[ˈbuːtlləs]
+%adj. 无用的；无益的；无利可图的；没穿鞋的
+    bootless care
+#无用的照顾
+
+rarefy: 英[ˈreərɪˌfaɪ] 美[ˈrerəˌfaɪ]
+%v. （使）稀薄；（使）纯化；变稀薄
+    rarefy one's spiritual life
+#使精神生活升华
+
+congruity: 英[kənˈɡruːəti] 美[kənˈɡruːəti]
+%n. 适合，调和；一致；全等
+    a congruity of ideas
+#意见的一致
+    There is a definite congruity in the candidates' approach to the tax problem.
+#候选人对待税收问题的态度上有着明确的共同之处。
+
+criss-cross: 英[ˈkrɪs krɒs] 美[ˈkrɪs krɔːs]
+$adj. 十字交叉的；纵横交错的
+$n. 十字形，交叉形
+$adv. 以十字形地，交叉地
+%v. 构成十字形（或交叉）图案；（直线或直路）多次相交；来往于（某地）
+    a criss-cross pattern
+#十字形花样
+    a criss-cross of streets
+#纵横交错的街道
+    The candidate criss-crossed the country seeking votes.
+#这名候选人在全国往返奔波拉选票。
+
+frequency: 英[ˈfriːkwənsi] 美[ˈfriːkwənsi]
+%n. 出现次数；频繁；频率
+    The human ear cannot hear very high-frequency sounds.
+#人耳听不到极高频率的声音。
+
+morose: 英[məˈrəʊs] 美[məˈroʊs]
+%adj. 郁闷的；孤僻的
+    a morose expression
+#阴郁的表情
+
+pronounced: 英[prəˈnaʊnst] 美[prəˈnaʊnst]
+$adj. 明显的，显著的；讲出来的
+%v. 发音；宣告；断言（pronounce 的过去式和过去分词）
+    a pronounced contrast between the past and the present
+#鲜明的今昔对比
+    She was very pronounced on that question.
+#她在那个问题上有明确的意见。
+
+sanctimonious: 英[ˌsæŋktɪˈməʊniəs] 美[ˌsæŋktɪˈmoʊniəs]
+%adj. 假装虔诚的；假装圣洁的；假装诚实的
+    a sanctimonious hypocrite
+#道貌岸然的伪君子
+    He had a sanctimonious expression on his face.
+#他脸上有一副伪善的表情。
+
+plethora: 英[ˈpleθərə] 美[ˈpleθərə]
+%n. 过多；过剩；[医] 多血症
+    a plethora of restrictions
+#太多的限制
+    a plethora of books
+#许许多多的书
+    A plethora of studies have shown the importance of the pre-school years for a child's later development.
+#大量的研究表明了学前时期对孩子以后发展的重要性。
+
+petulant: 英[ˈpetjulənt] 美[ˈpetʃələnt]
+%adj. 暴躁的；任性的；难以取悦的
+    One colleague recalled the dancer's petulant refusal to collect an award because his name had been wrongly pronounced.
+#一位同事回忆起那名舞蹈演员因为名字被念错了就任性拒绝领奖的事。
+
+tangential: 英[tænˈdʒenʃ(ə)l] 美[tænˈdʒenʃ(ə)l]
+$adj. [数] 切线的，[数] 正切的；离题的，扯远的
+%n. 正切，切线
+    tangential remarks
+#离题的话
+    The subject is tangential to the problem under discussion.
+#这个话题同我们正在讨论的问题没有直接的联系。
+
+dossier: 英[ˈdɒsieɪ] 美[ˈdɔːsieɪ]
+$n. 档案，卷宗；病历表册
+%n. （Dossier）人名；（法）多西耶
+    He made a secret dossier on the whole affair.
+#他已就全部事件编制了一份秘密档案。
+
+clarification: 英[ˌklærəfɪˈkeɪʃn] 美[ˌklærəfɪˈkeɪʃn]
+%n. 澄清，阐明；净化
+    The country has sought clarification from the United States on the plan for peace talks.
+#该国请求美国阐明和平谈判的计划。
+
+=======
+opaque: 英[əʊˈpeɪk] 美[oʊˈpeɪk]
+$adj. （玻璃、液体等）不透明的，不透光的；难懂的，隐晦的；迟钝的
+$n. 不透明体；（用于底片）不透明颜料
+%v. 使不透明
+    Her explanation of the problem was rather opaque.
+#她对这个问题的解释相当含糊。
+
+dodge: 英[dɒdʒ] 美[dɑːdʒ]
+$v. 闪开，躲开；巧妙躲避，施计回避；按变换序列鸣钟；（冲洗或放大时）局部遮光
+%n. 逃避的诡计，骗人的伎俩；躲闪
+    He dodged the falling rock and escaped unhurt.
+#他躲开了落下来的石头，没有受伤。
+
+misgiving: 英[ˌmɪsˈɡɪvɪŋ] 美[ˌmɪsˈɡɪvɪŋ]
+$n. 疑虑，担忧，不安
+%v. 使……疑虑，使担忧，使害怕（misgive 的现在分词）
+    The plan seemed to be utterly impractical and I was filled with misgivings about it.
+#这项计划似乎完全不切实际，我对此充满疑虑。
+
+stammer: 英[ˈstæmə(r)] 美[ˈstæmər]
+$v. 口吃，结结巴巴地说
+%n. 结巴，口吃
+    He usually stammers when he meets someone for the first time because it makes him nervous.
+#他经常在第一次遇见陌生人时结结巴巴，因为这使他很紧张。
+
+collapse: 英[kəˈlæps] 美[kəˈlæps]
+$v. 倒塌，塌下；崩溃，瓦解；突然倒下，昏倒；瘫倒；突然贬值，暴跌；萎陷，瘪掉；折叠
+%n. 倒塌，塌陷；突然失败，崩溃；病倒，垮掉；突然贬值，暴跌
+    He collapsed at the end of the five-mile race.
+#他跑完5英里赛跑就瘫倒了。
+
+trek: 英[trek] 美[trek]
+$v. （尤指徒步）长途跋涉；（尤指在山中）远足，徒步旅行；缓慢行走，没精打采地走；<南非>不断旅行，过流浪生活；<南非>（牛）拉车，驮运；<南非>用围网捕鱼；<南非，史>（随装载自己财物的牛车）迁移，旅行
+%n. （显得很漫长的）一段路程；（尤指徒步的）长途艰苦旅行；<南非>大迁徙（the Trek）；<南非>一网鱼；<南非，非正式>财产，所有物
+    They did a six-hour trek between the two towns yesterday.
+#昨天他们在两个小城之间长途跋涉了6个小时。
+
+detonate: 英[ˈdetəneɪt] 美[ˈdetəneɪt]
+$vt. 使爆炸
+%vi. 引爆，爆炸
+    A remote control device was used to detonate the bomb.
+#遥控装置被用来引爆了炸弹。
+
+pulp: 英[pʌlp] 美[pʌlp]
+$n. 浆状物；纸浆；（水果或蔬菜的）果肉，瓤；牙髓；矿浆；通俗（或耸人听闻）的劣质作品
+%vt. 将……捣成浆；将（书或报纸）制成纸浆；把（某人的脸或身体）打得血肉模糊
+    The old newspaper was pulped and recycled.
+#旧报纸被化为纸浆回收了。
+
+vagrancy: 英[ˈveɪɡrənsi] 美[ˈveɪɡrənsi]
+%n. 流浪；漂泊；思想游移不定
+    The economic situation has led to rising unemployment and increased vagrancy.
+#这一经济状况已经引起了越来越多的失业和流浪。
+
+seraphic: 英[səˈræfɪk] 美[səˈræfɪk]
+%adj. 纯洁的；美丽的；天使一般的
+    a seraphic child
+#天使般可爱的孩子
+    seraphic purity
+#天使般的纯洁
+
+fasten: 英[ˈfɑːs(ə)n] 美[ˈfæsn]
+%v. 关紧，锁好（门窗）；（使）牢固，（使）固定；握住，咬住；盯住……不放，集中注意力于……；缠着，纠缠；系牢，扣紧
+    fasten the door
+#把门锁上
+    fasten one's mind on the book
+#专心读书
+    The fisherman fastened the boat to a tree by a rope.
+#渔夫用绳子把小船系在树上。
+
+complaisance: 英[kəmˈpleɪzəns] 美[kəmˈpleɪsəns]
+%n. 殷勤；彬彬有礼；柔顺
+    receive sb. with complaisance
+#殷勤接待某人
+
+glutinous: 英[ˈɡluːtənəs] 美[ˈɡluːtənəs]
+%adj. 黏的，胶质的
+    The rice turns into a soft glutinous mass when cooked, making it easy to eat with chopsticks.
+#这种大米煮熟之后变得又黏又软，易于用筷子夹食。
+
+impassable: 英[ɪmˈpɑːsəb(ə)l] 美[ɪmˈpæsəb(ə)l]
+%adj. 不能通行的（名词 impassability, 副词 impassably）；无路可通的
+    an impassable highway
+#不能通行的公路
+    an impassable obstacle
+#不可逾越的障碍
+    Snow and ice made the road impassable.
+#冰雪使道路无法通行。
+
+inimical: 英[ɪˈnɪmɪk(ə)l] 美[ɪˈnɪmɪk(ə)l]
+%adj. 敌意的；有害的
+    inimical to strangers
+#对陌生人不友好
+    be inimical to education
+#对教育不利
+    He is thought to be involved in some activity inimical to nation security.
+#他被认为参与了一些有损国家安全的活动。
+
+dexterous: 英[ˈdekst(ə)rəs] 美[ˈdekst(ə)rəs]
+%adj. 灵巧的；敏捷的；惯用右手的
+    dexterous fingers
+#灵巧的手指
+    a politically dexterous leader
+#政治上机敏的领导人
+    a dexterous surgeon
+#手术熟练的外科医生
+    She's very dexterous with her hands.
+#她的手非常灵巧。
+
+innocuous: 英[ɪˈnɒkjuəs] 美[ɪˈnɑːkjuəs]
+%adj. 无害的；无伤大雅的
+    innocuous remarks
+#无伤大雅的言谈
+    an innocuous speech
+#平淡无味的演讲
+    Some mushrooms look innocuous but are in fact poisonous.
+#有些蘑菇看上去是无害的，但实际上是有毒的。
+
+swampy: 英[ˈswɒmpi] 美[ˈswɑːmpi]
+%adj. 沼泽的；湿地的；沼泽多的；松软的
+    a swampy area
+#沼泽地带
+    swampy ground
+#潮湿的地面
+    The back yard is swampy after a heavy rain.
+#大雨过后，后院简直成了沼泽。
+
+homogenize: 英[həˈmɒdʒənaɪz] 美[həˈmɑːdʒənaɪz]
+%v. 使同样，使相似；对（牛奶）作均质处理；（生物）搅匀；变均匀
+    Automation, commercial television and instant foods have made America a homogenized society.
+#自动化、商业化电视和即食食品已使美国成为一个单一发展的社会。
+
+attenuate: 英[əˈtenjueɪt] 美[əˈtenjueɪt]
+$v. （使）减弱；（使）纤细，稀薄
+%adj. 减弱的；稀薄的；细小的
+    be attenuated by hunger
+#饿瘦
+    Radiation from the sun is attenuated by the earth's atmosphere.
+#太阳的辐射被地球的大气层减弱。
+
+uncontroversial: 英[ˌʌnˌkɒntrəˈvɜːʃ(ə)l] 美[ˌʌnkɑːntrəˈvɜːrʃ(ə)l]
+%adj. 非争论性的；不会引起争论的
+    an un controversial issue
+#无争议的问题
+    He chose an uncontroversial topic for his speech. 
+#他为自己的演讲选择了一个不会引起争议的话题。
+
+acidic: 英[əˈsɪdɪk] 美[əˈsɪdɪk]
+%adj. 酸的，酸性的；产生酸的
+    This area has naturally acidic soil.
+#这个地区有天然的酸性土壤。
+
+verbose: 英[vɜːˈbəʊs] 美[vɜːrˈboʊs]
+%adj. 冗长的；啰嗦的
+    a verbose companion
+#啰嗦的同伴
+    a verbose speech
+#冗长的演说
+    He was renowned for being a verbose and rather tedious after-dinner speaker.
+#他以一个啰嗦而且十分乏味的饭后演说者而闻名。
+
+benefactor: 英[ˈbenɪfæktə(r)] 美[ˈbenɪfæktər]
+%n. 捐助人，赞助人
+    In his old age he became a benefactor of the arts.
+#他晚年成了艺术赞助人。
+
+episodic: 英[ˌepɪˈsɒdɪk] 美[ˌepɪˈsɑːdɪk]
+%adj. 由一系列独立部分（或事件）组成的；偶然发生的；（电视、小说等）连载的；暂时的
+    an episodic reform
+#昙花一现的改革
+    She was episodic in her affections.
+#她的爱情不专
+
+desecrate: 英[ˈdesɪkreɪt] 美[ˈdesɪkreɪt]
+%vt. 亵渎；污辱；把（神物）供俗用
+    It's a crime to desecrate the country's flag.
+#亵渎国旗是一种犯罪。
+
+inconsolable: 英[ˌɪnkənˈsəʊləb(ə)l] 美[ˌɪnkənˈsoʊləb(ə)l]
+%adj. 无法安慰的（名词 inconsolability, 副词 inconsolably）；极为伤心的
+    He was in an inconsolable mood of despair.
+#他极度沮丧，情绪绝望。
+
+outgrowth: 英[ˈaʊtɡrəʊθ] 美[ˈaʊtɡroʊθ]
+%n. 结果；副产物；自然的发展；分枝；生长晕
+    a woody outgrowth on a tree trunk
+#树上长出的木瘤
+    the outgrowth of new leaves
+#新叶的抽出
+    Inflation is an outgrowth of war.
+#通货膨胀是战争的结果。
+
+prior: 英[ˈpraɪə(r)] 美[ˈpraɪər]
+$adj. 先前的，事先的；<正式>优先的，更重要的；<正式>在前面的（prior to）
+%n. <美，非正式>犯罪前科；小修道院院长；大修道院副院长；托钵会会长
+    prior to
+#在……之前，先于
+    He had to refuse the dinner invitation because of a prior engagement.
+#因为事先另有约会，他只好拒绝了吃饭的邀请。
+
+multifaceted: 英[ˌmʌltiˈfæsɪtɪd] 美[ˌmʌltiˈfæsɪtɪd]
+%adj. 多层面的，包罗万象的，要从多方面考虑的；多刻面的
+    the multifaceted problems of foreign policy
+#外交政策所涉及的多方面的问题
+    a multifaceted actor
+#多才多艺的演员
+
+pedantry: 英[ˈped(ə)ntri] 美[ˈped(ə)ntri]
+%n. 迂腐；卖弄学问；假装学者
+    There is a hint of pedantry in his elegant style of speaking.
+#他讲话优雅的风格有些故意卖弄的意味。
+
+subversive: 英[səbˈvɜːsɪv] 美[səbˈvɜːrsɪv]
+$adj. 破坏性的；从事颠覆的
+%n. 危险分子；颠覆分子
+    a subversive group
+#颠覆集团
+    subversive activities
+#颠覆活动
+    The courageous and subversive movie has attracted wide-spread critic support.
+#这部大胆而具颠覆性的电影受到了评论界的广泛支持。
+
+elate: 英[ɪˈleɪt] 美[ɪˈleɪt]
+$vt. 使……欢欣；使……兴高采烈
+%adj. 得意的
+    be elated by the prospect
+#为前景所鼓舞
+    He was elated over the favorable reviews of his novel.
+#他因自己的小说获得好评而得意扬扬。
+
+outlying: 英[ˈaʊtlaɪɪŋ] 美[ˈaʊtlaɪɪŋ]
+$adj. 边远的；无关的
+%v. 放在……外面；在撒谎上胜过（outlie 的 ing 形式）
+    The main industry on the outlying islands is farming.
+#那些边远小岛的主要产业是农业。
+
+charlatan: 英[ˈʃɑːlətən] 美[ˈʃɑːrlətən]
+%n. 骗子，冒牌内行，江湖郎中
+    He was an expert who claimed to have a miracle cure and then exposed as a charlatan.
+#他是个声称有神奇疗法的专家，后来被揭发是个骗子。
+
+disorganise(disorganize): 英[dɪsˈɔːɡəˌnaɪz] 美[dɪsˈɔːɡəˌnaɪz]
+%vt. 瓦解；扰乱（等于 disorganize）
+    Heavy shelling by the enemy disorganized the army's retreat.
+#敌人的炮火猛轰，打乱了部队的撒退步骤。
+
+sculptural: 英[ˈskʌlptʃərəl] 美[ˈskʌlptʃərəl]
+%adj. 雕刻的；雕刻般的
+    Her delicate sculptural pieces are now selling in the USA and Europe.
+#她精致的雕塑作品现在正在美国和欧洲出售。
+
+dorsal: 英[ˈdɔːs(ə)l] 美[ˈdɔːrsl]
+$adj. （鱼或动物）背部的；（人）后背的；（尤指叶片的背面）远轴的；舌鄂音
+$n. （教堂圣坛后面或高坛两侧的）幔布（等于dossal）；背部，背侧
+%n. （Dorsal）（美）多萨尔（人名）
+    The sight of a shark's dorsal fin above the water is enough to clear the sea of swimmers.
+#看到鲨鱼露出水面的脊鳍，就足以吓跑海边的游泳者。
+
+pharmaceutic: 英[fɑ:mə'sju:tɪk] 美[fɑ:mə'sju:tɪk]
+%adj. 调药的；配药学的
+    the pharmaceutic industry
+#制药业
+    a pharmaceutic journal
+#医药杂志
+    pharmaceutic treatment
+#药物治疗
+    The company manufactures pharmaceutics.
+#这家公司生产药品。
+
+identifiable: 英[aɪˌdentɪˈfaɪəb(ə)l] 美[aɪˌdentɪˈfaɪəb(ə)l]
+%adj. 可辨认的；可认明的；可证明是同一的
+    In her bright yellow coat, she was easily identifiable in the crowd.
+#她穿着鲜黄的外套，在人群中很容易辨认。
+
+underrepresented: 英[ˌʌndəˌreprɪˈzentɪd] 美[ˌʌndərˌreprɪˈzentɪd]
+%adj. 代表名额不足的；未被充分代表的
+    They should listen to the underrepresented voices of such marginal groups.
+#他们应该听听这类未被充分代表的边缘团体的呼声。
+
+bootless: 英[ˈbuːtlɪs] 美[ˈbuːtlləs]
+%adj. 无用的；无益的；无利可图的；没穿鞋的
+    bootless care
+#无用的照顾
+
+rarefy: 英[ˈreərɪˌfaɪ] 美[ˈrerəˌfaɪ]
+%v. （使）稀薄；（使）纯化；变稀薄
+    rarefy one's spiritual life
+#使精神生活升华
+
+congruity: 英[kənˈɡruːəti] 美[kənˈɡruːəti]
+%n. 适合，调和；一致；全等
+    a congruity of ideas
+#意见的一致
+    There is a definite congruity in the candidates' approach to the tax problem.
+#候选人对待税收问题的态度上有着明确的共同之处。
+
+criss-cross: 英[ˈkrɪs krɒs] 美[ˈkrɪs krɔːs]
+$adj. 十字交叉的；纵横交错的
+$n. 十字形，交叉形
+$adv. 以十字形地，交叉地
+%v. 构成十字形（或交叉）图案；（直线或直路）多次相交；来往于（某地）
+    a criss-cross pattern
+#十字形花样
+    a criss-cross of streets
+#纵横交错的街道
+    The candidate criss-crossed the country seeking votes.
+#这名候选人在全国往返奔波拉选票。
+
+frequency: 英[ˈfriːkwənsi] 美[ˈfriːkwənsi]
+%n. 出现次数；频繁；频率
+    The human ear cannot hear very high-frequency sounds.
+#人耳听不到极高频率的声音。
+
+morose: 英[məˈrəʊs] 美[məˈroʊs]
+%adj. 郁闷的；孤僻的
+    a morose expression
+#阴郁的表情
+
+pronounced: 英[prəˈnaʊnst] 美[prəˈnaʊnst]
+$adj. 明显的，显著的；讲出来的
+%v. 发音；宣告；断言（pronounce 的过去式和过去分词）
+    a pronounced contrast between the past and the present
+#鲜明的今昔对比
+    She was very pronounced on that question.
+#她在那个问题上有明确的意见。
+
+sanctimonious: 英[ˌsæŋktɪˈməʊniəs] 美[ˌsæŋktɪˈmoʊniəs]
+%adj. 假装虔诚的；假装圣洁的；假装诚实的
+    a sanctimonious hypocrite
+#道貌岸然的伪君子
+    He had a sanctimonious expression on his face.
+#他脸上有一副伪善的表情。
+
+plethora: 英[ˈpleθərə] 美[ˈpleθərə]
+%n. 过多；过剩；[医] 多血症
+    a plethora of restrictions
+#太多的限制
+    a plethora of books
+#许许多多的书
+    A plethora of studies have shown the importance of the pre-school years for a child's later development.
+#大量的研究表明了学前时期对孩子以后发展的重要性。
+
+petulant: 英[ˈpetjulənt] 美[ˈpetʃələnt]
+%adj. 暴躁的；任性的；难以取悦的
+    One colleague recalled the dancer's petulant refusal to collect an award because his name had been wrongly pronounced.
+#一位同事回忆起那名舞蹈演员因为名字被念错了就任性拒绝领奖的事。
+
+tangential: 英[tænˈdʒenʃ(ə)l] 美[tænˈdʒenʃ(ə)l]
+$adj. [数] 切线的，[数] 正切的；离题的，扯远的
+%n. 正切，切线
+    tangential remarks
+#离题的话
+    The subject is tangential to the problem under discussion.
+#这个话题同我们正在讨论的问题没有直接的联系。
+
+dossier: 英[ˈdɒsieɪ] 美[ˈdɔːsieɪ]
+$n. 档案，卷宗；病历表册
+%n. （Dossier）人名；（法）多西耶
+    He made a secret dossier on the whole affair.
+#他已就全部事件编制了一份秘密档案。
+
+clarification: 英[ˌklærəfɪˈkeɪʃn] 美[ˌklærəfɪˈkeɪʃn]
+%n. 澄清，阐明；净化
+    The country has sought clarification from the United States on the plan for peace talks.
+#该国请求美国阐明和平谈判的计划。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

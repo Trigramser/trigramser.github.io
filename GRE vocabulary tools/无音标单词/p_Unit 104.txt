@@ -1,0 +1,583 @@
+<<<<<<< HEAD
+opaque:
+    Her explanation of the problem was rather opaque.
+#她对这个问题的解释相当含糊。
+
+dodge:
+    He dodged the falling rock and escaped unhurt.
+#他躲开了落下来的石头，没有受伤。
+
+misgiving:
+    The plan seemed to be utterly impractical and I was filled with misgivings about it.
+#这项计划似乎完全不切实际，我对此充满疑虑。
+
+stammer:
+    He usually stammers when he meets someone for the first time because it makes him nervous.
+#他经常在第一次遇见陌生人时结结巴巴，因为这使他很紧张。
+
+collapse:
+    He collapsed at the end of the five-mile race.
+#他跑完5英里赛跑就瘫倒了。
+
+trek:
+    They did a six-hour trek between the two towns yesterday.
+#昨天他们在两个小城之间长途跋涉了6个小时。
+
+detonate:
+    A remote control device was used to detonate the bomb.
+#遥控装置被用来引爆了炸弹。
+
+pulp:
+    The old newspaper was pulped and recycled.
+#旧报纸被化为纸浆回收了。
+
+vagrancy:
+    The economic situation has led to rising unemployment and increased vagrancy.
+#这一经济状况已经引起了越来越多的失业和流浪。
+
+seraphic:
+    a seraphic child
+#天使般可爱的孩子
+    seraphic purity
+#天使般的纯洁
+
+fasten:
+    fasten the door
+#把门锁上
+    fasten one's mind on the book
+#专心读书
+    The fisherman fastened the boat to a tree by a rope.
+#渔夫用绳子把小船系在树上。
+
+complaisance:
+    receive sb. with complaisance
+#殷勤接待某人
+
+glutinous:
+    The rice turns into a soft glutinous mass when cooked, making it easy to eat with chopsticks.
+#这种大米煮熟之后变得又黏又软，易于用筷子夹食。
+
+impassable:
+    an impassable highway
+#不能通行的公路
+    an impassable obstacle
+#不可逾越的障碍
+    Snow and ice made the road impassable.
+#冰雪使道路无法通行。
+
+inimical:
+    inimical to strangers
+#对陌生人不友好
+    be inimical to education
+#对教育不利
+    He is thought to be involved in some activity inimical to nation security.
+#他被认为参与了一些有损国家安全的活动。
+
+dexterous:
+    dexterous fingers
+#灵巧的手指
+    a politically dexterous leader
+#政治上机敏的领导人
+    a dexterous surgeon
+#手术熟练的外科医生
+    She's very dexterous with her hands.
+#她的手非常灵巧。
+
+innocuous:
+    innocuous remarks
+#无伤大雅的言谈
+    an innocuous speech
+#平淡无味的演讲
+    Some mushrooms look innocuous but are in fact poisonous.
+#有些蘑菇看上去是无害的，但实际上是有毒的。
+
+swampy:
+    a swampy area
+#沼泽地带
+    swampy ground
+#潮湿的地面
+    The back yard is swampy after a heavy rain.
+#大雨过后，后院简直成了沼泽。
+
+homogenize:
+    Automation, commercial television and instant foods have made America a homogenized society.
+#自动化、商业化电视和即食食品已使美国成为一个单一发展的社会。
+
+attenuate:
+    be attenuated by hunger
+#饿瘦
+    Radiation from the sun is attenuated by the earth's atmosphere.
+#太阳的辐射被地球的大气层减弱。
+
+uncontroversial:
+    an un controversial issue
+#无争议的问题
+    He chose an uncontroversial topic for his speech. 
+#他为自己的演讲选择了一个不会引起争议的话题。
+
+acidic:
+    This area has naturally acidic soil.
+#这个地区有天然的酸性土壤。
+
+verbose:
+    a verbose companion
+#啰嗦的同伴
+    a verbose speech
+#冗长的演说
+    He was renowned for being a verbose and rather tedious after-dinner speaker.
+#他以一个啰嗦而且十分乏味的饭后演说者而闻名。
+
+benefactor:
+    In his old age he became a benefactor of the arts.
+#他晚年成了艺术赞助人。
+
+episodic:
+    an episodic reform
+#昙花一现的改革
+    She was episodic in her affections.
+#她的爱情不专
+
+desecrate:
+    It's a crime to desecrate the country's flag.
+#亵渎国旗是一种犯罪。
+
+inconsolable:
+    He was in an inconsolable mood of despair.
+#他极度沮丧，情绪绝望。
+
+outgrowth:
+    a woody outgrowth on a tree trunk
+#树上长出的木瘤
+    the outgrowth of new leaves
+#新叶的抽出
+    Inflation is an outgrowth of war.
+#通货膨胀是战争的结果。
+
+prior:
+    prior to
+#在……之前，先于
+    He had to refuse the dinner invitation because of a prior engagement.
+#因为事先另有约会，他只好拒绝了吃饭的邀请。
+
+multifaceted:
+    the multifaceted problems of foreign policy
+#外交政策所涉及的多方面的问题
+    a multifaceted actor
+#多才多艺的演员
+
+pedantry:
+    There is a hint of pedantry in his elegant style of speaking.
+#他讲话优雅的风格有些故意卖弄的意味。
+
+subversive:
+    a subversive group
+#颠覆集团
+    subversive activities
+#颠覆活动
+    The courageous and subversive movie has attracted wide-spread critic support.
+#这部大胆而具颠覆性的电影受到了评论界的广泛支持。
+
+elate:
+    be elated by the prospect
+#为前景所鼓舞
+    He was elated over the favorable reviews of his novel.
+#他因自己的小说获得好评而得意扬扬。
+
+outlying:
+    The main industry on the outlying islands is farming.
+#那些边远小岛的主要产业是农业。
+
+charlatan:
+    He was an expert who claimed to have a miracle cure and then exposed as a charlatan.
+#他是个声称有神奇疗法的专家，后来被揭发是个骗子。
+
+disorganise(disorganize):
+    Heavy shelling by the enemy disorganized the army's retreat.
+#敌人的炮火猛轰，打乱了部队的撒退步骤。
+
+sculptural:
+    Her delicate sculptural pieces are now selling in the USA and Europe.
+#她精致的雕塑作品现在正在美国和欧洲出售。
+
+dorsal:
+    The sight of a shark's dorsal fin above the water is enough to clear the sea of swimmers.
+#看到鲨鱼露出水面的脊鳍，就足以吓跑海边的游泳者。
+
+pharmaceutic:
+    the pharmaceutic industry
+#制药业
+    a pharmaceutic journal
+#医药杂志
+    pharmaceutic treatment
+#药物治疗
+    The company manufactures pharmaceutics.
+#这家公司生产药品。
+
+identifiable:
+    In her bright yellow coat, she was easily identifiable in the crowd.
+#她穿着鲜黄的外套，在人群中很容易辨认。
+
+underrepresented:
+    They should listen to the underrepresented voices of such marginal groups.
+#他们应该听听这类未被充分代表的边缘团体的呼声。
+
+bootless:
+    bootless care
+#无用的照顾
+
+rarefy:
+    rarefy one's spiritual life
+#使精神生活升华
+
+congruity:
+    a congruity of ideas
+#意见的一致
+    There is a definite congruity in the candidates' approach to the tax problem.
+#候选人对待税收问题的态度上有着明确的共同之处。
+
+criss-cross:
+    a criss-cross pattern
+#十字形花样
+    a criss-cross of streets
+#纵横交错的街道
+    The candidate criss-crossed the country seeking votes.
+#这名候选人在全国往返奔波拉选票。
+
+frequency:
+    The human ear cannot hear very high-frequency sounds.
+#人耳听不到极高频率的声音。
+
+morose:
+    a morose expression
+#阴郁的表情
+
+pronounced:
+    a pronounced contrast between the past and the present
+#鲜明的今昔对比
+    She was very pronounced on that question.
+#她在那个问题上有明确的意见。
+
+sanctimonious:
+    a sanctimonious hypocrite
+#道貌岸然的伪君子
+    He had a sanctimonious expression on his face.
+#他脸上有一副伪善的表情。
+
+plethora:
+    a plethora of restrictions
+#太多的限制
+    a plethora of books
+#许许多多的书
+    A plethora of studies have shown the importance of the pre-school years for a child's later development.
+#大量的研究表明了学前时期对孩子以后发展的重要性。
+
+petulant:
+    One colleague recalled the dancer's petulant refusal to collect an award because his name had been wrongly pronounced.
+#一位同事回忆起那名舞蹈演员因为名字被念错了就任性拒绝领奖的事。
+
+tangential:
+    tangential remarks
+#离题的话
+    The subject is tangential to the problem under discussion.
+#这个话题同我们正在讨论的问题没有直接的联系。
+
+dossier:
+    He made a secret dossier on the whole affair.
+#他已就全部事件编制了一份秘密档案。
+
+clarification:
+    The country has sought clarification from the United States on the plan for peace talks.
+#该国请求美国阐明和平谈判的计划。
+
+=======
+opaque:
+    Her explanation of the problem was rather opaque.
+#她对这个问题的解释相当含糊。
+
+dodge:
+    He dodged the falling rock and escaped unhurt.
+#他躲开了落下来的石头，没有受伤。
+
+misgiving:
+    The plan seemed to be utterly impractical and I was filled with misgivings about it.
+#这项计划似乎完全不切实际，我对此充满疑虑。
+
+stammer:
+    He usually stammers when he meets someone for the first time because it makes him nervous.
+#他经常在第一次遇见陌生人时结结巴巴，因为这使他很紧张。
+
+collapse:
+    He collapsed at the end of the five-mile race.
+#他跑完5英里赛跑就瘫倒了。
+
+trek:
+    They did a six-hour trek between the two towns yesterday.
+#昨天他们在两个小城之间长途跋涉了6个小时。
+
+detonate:
+    A remote control device was used to detonate the bomb.
+#遥控装置被用来引爆了炸弹。
+
+pulp:
+    The old newspaper was pulped and recycled.
+#旧报纸被化为纸浆回收了。
+
+vagrancy:
+    The economic situation has led to rising unemployment and increased vagrancy.
+#这一经济状况已经引起了越来越多的失业和流浪。
+
+seraphic:
+    a seraphic child
+#天使般可爱的孩子
+    seraphic purity
+#天使般的纯洁
+
+fasten:
+    fasten the door
+#把门锁上
+    fasten one's mind on the book
+#专心读书
+    The fisherman fastened the boat to a tree by a rope.
+#渔夫用绳子把小船系在树上。
+
+complaisance:
+    receive sb. with complaisance
+#殷勤接待某人
+
+glutinous:
+    The rice turns into a soft glutinous mass when cooked, making it easy to eat with chopsticks.
+#这种大米煮熟之后变得又黏又软，易于用筷子夹食。
+
+impassable:
+    an impassable highway
+#不能通行的公路
+    an impassable obstacle
+#不可逾越的障碍
+    Snow and ice made the road impassable.
+#冰雪使道路无法通行。
+
+inimical:
+    inimical to strangers
+#对陌生人不友好
+    be inimical to education
+#对教育不利
+    He is thought to be involved in some activity inimical to nation security.
+#他被认为参与了一些有损国家安全的活动。
+
+dexterous:
+    dexterous fingers
+#灵巧的手指
+    a politically dexterous leader
+#政治上机敏的领导人
+    a dexterous surgeon
+#手术熟练的外科医生
+    She's very dexterous with her hands.
+#她的手非常灵巧。
+
+innocuous:
+    innocuous remarks
+#无伤大雅的言谈
+    an innocuous speech
+#平淡无味的演讲
+    Some mushrooms look innocuous but are in fact poisonous.
+#有些蘑菇看上去是无害的，但实际上是有毒的。
+
+swampy:
+    a swampy area
+#沼泽地带
+    swampy ground
+#潮湿的地面
+    The back yard is swampy after a heavy rain.
+#大雨过后，后院简直成了沼泽。
+
+homogenize:
+    Automation, commercial television and instant foods have made America a homogenized society.
+#自动化、商业化电视和即食食品已使美国成为一个单一发展的社会。
+
+attenuate:
+    be attenuated by hunger
+#饿瘦
+    Radiation from the sun is attenuated by the earth's atmosphere.
+#太阳的辐射被地球的大气层减弱。
+
+uncontroversial:
+    an un controversial issue
+#无争议的问题
+    He chose an uncontroversial topic for his speech. 
+#他为自己的演讲选择了一个不会引起争议的话题。
+
+acidic:
+    This area has naturally acidic soil.
+#这个地区有天然的酸性土壤。
+
+verbose:
+    a verbose companion
+#啰嗦的同伴
+    a verbose speech
+#冗长的演说
+    He was renowned for being a verbose and rather tedious after-dinner speaker.
+#他以一个啰嗦而且十分乏味的饭后演说者而闻名。
+
+benefactor:
+    In his old age he became a benefactor of the arts.
+#他晚年成了艺术赞助人。
+
+episodic:
+    an episodic reform
+#昙花一现的改革
+    She was episodic in her affections.
+#她的爱情不专
+
+desecrate:
+    It's a crime to desecrate the country's flag.
+#亵渎国旗是一种犯罪。
+
+inconsolable:
+    He was in an inconsolable mood of despair.
+#他极度沮丧，情绪绝望。
+
+outgrowth:
+    a woody outgrowth on a tree trunk
+#树上长出的木瘤
+    the outgrowth of new leaves
+#新叶的抽出
+    Inflation is an outgrowth of war.
+#通货膨胀是战争的结果。
+
+prior:
+    prior to
+#在……之前，先于
+    He had to refuse the dinner invitation because of a prior engagement.
+#因为事先另有约会，他只好拒绝了吃饭的邀请。
+
+multifaceted:
+    the multifaceted problems of foreign policy
+#外交政策所涉及的多方面的问题
+    a multifaceted actor
+#多才多艺的演员
+
+pedantry:
+    There is a hint of pedantry in his elegant style of speaking.
+#他讲话优雅的风格有些故意卖弄的意味。
+
+subversive:
+    a subversive group
+#颠覆集团
+    subversive activities
+#颠覆活动
+    The courageous and subversive movie has attracted wide-spread critic support.
+#这部大胆而具颠覆性的电影受到了评论界的广泛支持。
+
+elate:
+    be elated by the prospect
+#为前景所鼓舞
+    He was elated over the favorable reviews of his novel.
+#他因自己的小说获得好评而得意扬扬。
+
+outlying:
+    The main industry on the outlying islands is farming.
+#那些边远小岛的主要产业是农业。
+
+charlatan:
+    He was an expert who claimed to have a miracle cure and then exposed as a charlatan.
+#他是个声称有神奇疗法的专家，后来被揭发是个骗子。
+
+disorganise(disorganize):
+    Heavy shelling by the enemy disorganized the army's retreat.
+#敌人的炮火猛轰，打乱了部队的撒退步骤。
+
+sculptural:
+    Her delicate sculptural pieces are now selling in the USA and Europe.
+#她精致的雕塑作品现在正在美国和欧洲出售。
+
+dorsal:
+    The sight of a shark's dorsal fin above the water is enough to clear the sea of swimmers.
+#看到鲨鱼露出水面的脊鳍，就足以吓跑海边的游泳者。
+
+pharmaceutic:
+    the pharmaceutic industry
+#制药业
+    a pharmaceutic journal
+#医药杂志
+    pharmaceutic treatment
+#药物治疗
+    The company manufactures pharmaceutics.
+#这家公司生产药品。
+
+identifiable:
+    In her bright yellow coat, she was easily identifiable in the crowd.
+#她穿着鲜黄的外套，在人群中很容易辨认。
+
+underrepresented:
+    They should listen to the underrepresented voices of such marginal groups.
+#他们应该听听这类未被充分代表的边缘团体的呼声。
+
+bootless:
+    bootless care
+#无用的照顾
+
+rarefy:
+    rarefy one's spiritual life
+#使精神生活升华
+
+congruity:
+    a congruity of ideas
+#意见的一致
+    There is a definite congruity in the candidates' approach to the tax problem.
+#候选人对待税收问题的态度上有着明确的共同之处。
+
+criss-cross:
+    a criss-cross pattern
+#十字形花样
+    a criss-cross of streets
+#纵横交错的街道
+    The candidate criss-crossed the country seeking votes.
+#这名候选人在全国往返奔波拉选票。
+
+frequency:
+    The human ear cannot hear very high-frequency sounds.
+#人耳听不到极高频率的声音。
+
+morose:
+    a morose expression
+#阴郁的表情
+
+pronounced:
+    a pronounced contrast between the past and the present
+#鲜明的今昔对比
+    She was very pronounced on that question.
+#她在那个问题上有明确的意见。
+
+sanctimonious:
+    a sanctimonious hypocrite
+#道貌岸然的伪君子
+    He had a sanctimonious expression on his face.
+#他脸上有一副伪善的表情。
+
+plethora:
+    a plethora of restrictions
+#太多的限制
+    a plethora of books
+#许许多多的书
+    A plethora of studies have shown the importance of the pre-school years for a child's later development.
+#大量的研究表明了学前时期对孩子以后发展的重要性。
+
+petulant:
+    One colleague recalled the dancer's petulant refusal to collect an award because his name had been wrongly pronounced.
+#一位同事回忆起那名舞蹈演员因为名字被念错了就任性拒绝领奖的事。
+
+tangential:
+    tangential remarks
+#离题的话
+    The subject is tangential to the problem under discussion.
+#这个话题同我们正在讨论的问题没有直接的联系。
+
+dossier:
+    He made a secret dossier on the whole affair.
+#他已就全部事件编制了一份秘密档案。
+
+clarification:
+    The country has sought clarification from the United States on the plan for peace talks.
+#该国请求美国阐明和平谈判的计划。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

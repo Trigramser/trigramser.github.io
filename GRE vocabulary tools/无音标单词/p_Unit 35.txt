@@ -1,0 +1,553 @@
+<<<<<<< HEAD
+jesting:
+    This is no jesting matter.
+#这可不是闹着玩的。
+
+checkered:
+    a lawn checkered with sunlight and shade
+#阳光和阴影交错的草坪
+    a checkered history
+#盛衰无常的历史
+
+matte:
+    The Application Research of the Matte Technology on the Non-Linear Editing System 
+#非线性编辑系统中蒙版技术的应用研究
+
+limbo:
+    His life seemed stuck in limbo; he could not go forward and he could not go back. 
+#他的生活好像陷入了不知所措的境地，进退两难。
+
+ruse:
+    His ruse to get an extra week's pay failed.
+#他想多得一个星期报酬的诡计没有得逞。
+
+smattering:
+    I know a smattering of Latin.
+#我懂一点拉丁文。
+
+askance:
+    Companies may look askance at gaps in your employment history.
+#公司可能会对你工作履历中的空白期有所怀疑。
+
+exuberance:
+    He seemed full of exuberance.
+#他看上去精力充沛。
+
+taking:
+    a taking smile
+#迷人的微笑
+    He took the day's takings to the bank.
+#他把一天的进款送到银行。
+
+resourceful:
+    a keen, resourceful politician
+#头脑敏捷且足智多谋的政治家
+
+eidetic:
+    an eidetic memory
+#历历在目的记忆
+    an eidetic image
+#逼真的形象
+
+retrace:
+    She walked straight past her office and then had to retrace her steps.
+#她径直向前走过了办公室，然后又不得不折回。
+
+denunciate:
+    denunciate sb. for neglect of duty
+#指责某人渎职
+    denunciate sb. as a thief
+#告发某人是贼
+
+assoil:
+    She made no attempt to assoil herself of her crime, and assimilated into prison life. 
+#她并不想赦免自己的罪行，被吸收进了监狱。
+
+shipshape:
+    Everything in the house was clean and shipshape.
+#房里的一切都干干净净，整整齐齐。
+
+inadvertence:
+    misprints and inadvertences
+#印刷错误和疏漏
+    Mistakes proceed from inadvertence.
+#错误出自粗心大意。
+
+waylay:
+    Bandits lie in wait to waylay unsuspecting travelers.
+#强盗埋伏起来，拦路抢劫毫无戒备的路人。
+
+blear:
+    Tears bleared her eyes.
+#泪水模糊了她的眼睛。
+
+comely:
+    a comely boy
+#清秀的男孩
+    in neat and comely arrangement
+#安排得整齐而妥帖
+
+dulcet:
+    dulcet tones
+#悦耳的语调
+    dulcet weather
+#宜人的气候
+
+coda:
+    Her real skill on the piano was evident in the difficult coda.
+#有难度的尾声体现了她真正的钢琴演奏技巧。
+
+besot:
+    be besotted with a girl
+#被一个姑娘迷住例
+    He looked at her with a besotted expression.
+#他用一种着迷的表情看着她。
+
+stonewall:
+    He was stonewalling and everybody knew it.
+#他是在故意设置障碍，这大家都看得出来。
+
+precept:
+    Parents must show by example as well as precept.
+#父母应该既有言传也有身教。
+
+bifurcate:
+    The river bifurcated into two narrow winding
+streams.
+#河流分成两条窄而弯曲的小溪。
+
+instate:
+    She was not at once instated in her rights.
+#她并没有立即获得自己的权利。
+
+mull:
+    be mulled with drink
+#喝的烂醉
+    It was something he had mulled over for a long time.
+#这是他反复思索了很久的事。
+
+jaunt:
+    He decided to write an article about his China jaunt.
+#他决定写一篇有关自己在中国观光的文章。
+
+piteous:
+    The kitten gave a piteous cry.
+#小猫发出了可怜的叫声。
+
+sanitize:
+    sanitize the clothes
+#给衣服消毒
+    sanitize a film
+#净化影片的内容
+
+cleft:
+    There was a narrow cleft in the rocks too small for humans to enter.
+#岩石中间有一条窄到人进不去的裂缝。
+
+inter:
+    Her body was interred at the cemetery.
+#她的遗体被埋葬在公墓里。
+
+plenitude:
+    His artistry has reached its plenitude.
+#他的艺术技巧已达到炉火纯青的地步。
+
+syncretize:
+    he two modules syncretize RFID technology, embedded control technology and multimedia playback technology. 
+#两部分模块分别融合了先进的射频识别技术、嵌入式控制技术和多媒体播放技术。
+
+synchronize:
+    The show was designed so that lights synchronized with the music.
+#演出经过精心设计，使灯光和音乐在时间上保持一致。
+
+alluring:
+    an alluring actress
+#迷人的女演员
+    an alluring advertisement
+#吸引人的广告
+
+interlude:
+    an interlude in the main business of one's life
+#人生主要经历中的一段插曲
+    an interlude of sunshine between two showers
+#两次阵雨之间一段出太阳的时间
+
+influx:
+    an influx of foreign visitors
+#外国旅客的蜂拥而至
+    the influx of a river into the sea
+#河流的入海处
+
+extirpate:
+    Many species have been extirpated from those areas.
+#许多物种已在那些地区灭绝了。
+
+perjure:
+    Her evidence in this case was perjured.
+#她在本案中提供的证据是伪证。
+
+abortive:
+    an abortive coup
+#一场失败的政变
+    an abortive attempt
+#企图未遂
+
+perky:
+    a perky squirrel
+#敏捷的松鼠
+    a perky waltz
+#轻快的华尔兹
+    a perky suit
+#时髦的套装
+
+convalescent:
+    a convalescent diet
+#滋养的食物
+    a convalescent ward
+#康复病房
+
+sybaritic:
+    He mercilessly attacked their rulers as corrupt and sybaritic.
+#他无情地押击他们的统治者们荒淫腐败。
+
+intermission:
+    At intermission everyone crowded into the lobby.
+#幕间休息时大家挤进了剧院休息室。
+
+digression:
+    the digression of a ship
+#船只的偏离航
+
+belabor:
+    belabor the obvious
+#对本已十分明显的事做过多说明
+    He belabored his tired horse with a stick.
+#他用棍棒猛打他那疲劳的坐骑。
+
+misperceive:
+    misperceive the situation
+#看错形势
+
+pelt:
+    chase each other and pelt snowballs
+#相互追逐着扔雪球
+    You can't leave now-it's pelting.
+#你现在不能离开，在下大雨。
+
+snob:
+    a snob about one's servants
+#对仆人态度势利的人
+    an intellectual snob
+#自以为很有知识的人
+
+incarcerate:
+    He was to be incarcerated in a cell by himself.
+#他打算把自己囚禁在斗室之内。
+
+univocal:
+    a univocal concept
+#单一概念
+
+upright:
+    an upright citizen
+#诚实正直的公民
+    Man walks upright on two feet.
+#人类用双脚直立行走。
+
+additive:
+    food additives
+#食物添加剂
+    The progress is additive.
+#这个过程是累加的。
+
+gabby:
+    a gabby woman
+#饶舌的女人
+
+spindly:
+    spindly legs
+#细长的腿
+    The plants indoors are getting too spindly.
+#室内的植物长得太瘦弱了。
+
+portentous:
+    The present aspect of society is portentous of great change.
+#目前的社会面貌预示着巨大的变化。
+
+=======
+jesting:
+    This is no jesting matter.
+#这可不是闹着玩的。
+
+checkered:
+    a lawn checkered with sunlight and shade
+#阳光和阴影交错的草坪
+    a checkered history
+#盛衰无常的历史
+
+matte:
+    The Application Research of the Matte Technology on the Non-Linear Editing System 
+#非线性编辑系统中蒙版技术的应用研究
+
+limbo:
+    His life seemed stuck in limbo; he could not go forward and he could not go back. 
+#他的生活好像陷入了不知所措的境地，进退两难。
+
+ruse:
+    His ruse to get an extra week's pay failed.
+#他想多得一个星期报酬的诡计没有得逞。
+
+smattering:
+    I know a smattering of Latin.
+#我懂一点拉丁文。
+
+askance:
+    Companies may look askance at gaps in your employment history.
+#公司可能会对你工作履历中的空白期有所怀疑。
+
+exuberance:
+    He seemed full of exuberance.
+#他看上去精力充沛。
+
+taking:
+    a taking smile
+#迷人的微笑
+    He took the day's takings to the bank.
+#他把一天的进款送到银行。
+
+resourceful:
+    a keen, resourceful politician
+#头脑敏捷且足智多谋的政治家
+
+eidetic:
+    an eidetic memory
+#历历在目的记忆
+    an eidetic image
+#逼真的形象
+
+retrace:
+    She walked straight past her office and then had to retrace her steps.
+#她径直向前走过了办公室，然后又不得不折回。
+
+denunciate:
+    denunciate sb. for neglect of duty
+#指责某人渎职
+    denunciate sb. as a thief
+#告发某人是贼
+
+assoil:
+    She made no attempt to assoil herself of her crime, and assimilated into prison life. 
+#她并不想赦免自己的罪行，被吸收进了监狱。
+
+shipshape:
+    Everything in the house was clean and shipshape.
+#房里的一切都干干净净，整整齐齐。
+
+inadvertence:
+    misprints and inadvertences
+#印刷错误和疏漏
+    Mistakes proceed from inadvertence.
+#错误出自粗心大意。
+
+waylay:
+    Bandits lie in wait to waylay unsuspecting travelers.
+#强盗埋伏起来，拦路抢劫毫无戒备的路人。
+
+blear:
+    Tears bleared her eyes.
+#泪水模糊了她的眼睛。
+
+comely:
+    a comely boy
+#清秀的男孩
+    in neat and comely arrangement
+#安排得整齐而妥帖
+
+dulcet:
+    dulcet tones
+#悦耳的语调
+    dulcet weather
+#宜人的气候
+
+coda:
+    Her real skill on the piano was evident in the difficult coda.
+#有难度的尾声体现了她真正的钢琴演奏技巧。
+
+besot:
+    be besotted with a girl
+#被一个姑娘迷住例
+    He looked at her with a besotted expression.
+#他用一种着迷的表情看着她。
+
+stonewall:
+    He was stonewalling and everybody knew it.
+#他是在故意设置障碍，这大家都看得出来。
+
+precept:
+    Parents must show by example as well as precept.
+#父母应该既有言传也有身教。
+
+bifurcate:
+    The river bifurcated into two narrow winding
+streams.
+#河流分成两条窄而弯曲的小溪。
+
+instate:
+    She was not at once instated in her rights.
+#她并没有立即获得自己的权利。
+
+mull:
+    be mulled with drink
+#喝的烂醉
+    It was something he had mulled over for a long time.
+#这是他反复思索了很久的事。
+
+jaunt:
+    He decided to write an article about his China jaunt.
+#他决定写一篇有关自己在中国观光的文章。
+
+piteous:
+    The kitten gave a piteous cry.
+#小猫发出了可怜的叫声。
+
+sanitize:
+    sanitize the clothes
+#给衣服消毒
+    sanitize a film
+#净化影片的内容
+
+cleft:
+    There was a narrow cleft in the rocks too small for humans to enter.
+#岩石中间有一条窄到人进不去的裂缝。
+
+inter:
+    Her body was interred at the cemetery.
+#她的遗体被埋葬在公墓里。
+
+plenitude:
+    His artistry has reached its plenitude.
+#他的艺术技巧已达到炉火纯青的地步。
+
+syncretize:
+    he two modules syncretize RFID technology, embedded control technology and multimedia playback technology. 
+#两部分模块分别融合了先进的射频识别技术、嵌入式控制技术和多媒体播放技术。
+
+synchronize:
+    The show was designed so that lights synchronized with the music.
+#演出经过精心设计，使灯光和音乐在时间上保持一致。
+
+alluring:
+    an alluring actress
+#迷人的女演员
+    an alluring advertisement
+#吸引人的广告
+
+interlude:
+    an interlude in the main business of one's life
+#人生主要经历中的一段插曲
+    an interlude of sunshine between two showers
+#两次阵雨之间一段出太阳的时间
+
+influx:
+    an influx of foreign visitors
+#外国旅客的蜂拥而至
+    the influx of a river into the sea
+#河流的入海处
+
+extirpate:
+    Many species have been extirpated from those areas.
+#许多物种已在那些地区灭绝了。
+
+perjure:
+    Her evidence in this case was perjured.
+#她在本案中提供的证据是伪证。
+
+abortive:
+    an abortive coup
+#一场失败的政变
+    an abortive attempt
+#企图未遂
+
+perky:
+    a perky squirrel
+#敏捷的松鼠
+    a perky waltz
+#轻快的华尔兹
+    a perky suit
+#时髦的套装
+
+convalescent:
+    a convalescent diet
+#滋养的食物
+    a convalescent ward
+#康复病房
+
+sybaritic:
+    He mercilessly attacked their rulers as corrupt and sybaritic.
+#他无情地押击他们的统治者们荒淫腐败。
+
+intermission:
+    At intermission everyone crowded into the lobby.
+#幕间休息时大家挤进了剧院休息室。
+
+digression:
+    the digression of a ship
+#船只的偏离航
+
+belabor:
+    belabor the obvious
+#对本已十分明显的事做过多说明
+    He belabored his tired horse with a stick.
+#他用棍棒猛打他那疲劳的坐骑。
+
+misperceive:
+    misperceive the situation
+#看错形势
+
+pelt:
+    chase each other and pelt snowballs
+#相互追逐着扔雪球
+    You can't leave now-it's pelting.
+#你现在不能离开，在下大雨。
+
+snob:
+    a snob about one's servants
+#对仆人态度势利的人
+    an intellectual snob
+#自以为很有知识的人
+
+incarcerate:
+    He was to be incarcerated in a cell by himself.
+#他打算把自己囚禁在斗室之内。
+
+univocal:
+    a univocal concept
+#单一概念
+
+upright:
+    an upright citizen
+#诚实正直的公民
+    Man walks upright on two feet.
+#人类用双脚直立行走。
+
+additive:
+    food additives
+#食物添加剂
+    The progress is additive.
+#这个过程是累加的。
+
+gabby:
+    a gabby woman
+#饶舌的女人
+
+spindly:
+    spindly legs
+#细长的腿
+    The plants indoors are getting too spindly.
+#室内的植物长得太瘦弱了。
+
+portentous:
+    The present aspect of society is portentous of great change.
+#目前的社会面貌预示着巨大的变化。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

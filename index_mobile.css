@@ -1,0 +1,210 @@
+html {
+    font-size: 30px;
+}
+body {
+    font-size: 1.6rem;
+    /* width: 960px; */
+    width: 1440px;
+    top: 44px;
+    line-height: 2.5rem;
+    /* max-width: 540px;
+    min-width: 320px;
+    height: 2000px; */
+    margin: 0 auto;
+    /* font: normal 14px/1.5 Tahoma, "Lucida Grande", Verdana, "Microsoft Yahei", STXihei, hei; */
+    background: #000;
+    overflow-x: hidden;
+    -webkit-tap-highlight-color: transparent;
+}
+
+
+a {
+    text-decoration: none;
+    color:#fff;
+    /* transition: text-shadow 0.3s ease; */
+    transition:0.2s ease;
+    /* color:#ffce2e; */
+}
+
+a:hover {
+    /* color: #CD2626; */
+    color:#4AC3E9;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, .5);
+}
+
+div {
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: #777;
+}
+
+.searcher {
+    /* width: 100%; */
+    /* max-width: 90%; */
+    margin: 1rem 0;
+    /* padding-left: 4rem; */
+}
+.searcher form {
+    display: flex;
+    flex-wrap: wrap;  
+    justify-content: left;
+    align-content: left;
+    align-items: center;
+    border-radius: 1rem;
+    margin: 1rem;
+    color: #aaa;
+}
+
+.searcher form input, .Common form input {
+    display: inline-block;
+    height: 3rem;
+    border-radius: 0.5rem;
+}
+
+.searcher form input:nth-child(1), .Common form input:nth-child(1)  {
+    width: 70%;
+}
+/* .searcher form input:nth-child(2) {
+    flex: 1 1 20%;
+} */
+
+select, textarea {
+    height: 3rem; 
+    margin: 1rem 0rem; 
+    border: 1px solid #999; 
+    padding: .2rem .5rem;
+}
+label {
+    color: #999; 
+    margin-left: 1rem
+}
+
+
+.header-bar {
+    display: flex;
+    /* position: fixed; */
+    position: block;
+    width: 100%;
+    top:0;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 1rem;
+    margin: 0 auto;
+    padding: 0.5rem 0rem;
+    /* 帝王绿 */
+    background-color: #006400;  
+    color: #aaa;
+    z-index: 999;
+    align-items: center;
+}
+.header-bar-middle {
+    flex: 1;
+    width: 96rem;
+    text-align: center;
+    font-weight: bold;
+}
+.header-bar a{
+    margin: 0px 0.5rem;
+    color: #FFD700;
+}
+
+
+.Common, .Entertainment, .Games, .CrossGate, .goverment-service, .MERL{
+    display: flex;
+    flex-wrap: wrap;   
+    justify-content: left;
+    align-content: left;
+    align-items: center;
+    border-radius: 1rem;
+}
+.Common h1, .Entertainment h1, .Games h1, .CrossGate h1, .goverment-service h1, .MERL h1{
+    flex: 1 1 100%;
+}
+.Common li , .Entertainment li , .Games li, .CrossGate li, .goverment-service li, .MERL li {
+    display: flex;
+    flex-wrap: wrap;   
+    flex: 1 1 30%;
+    align-content: left;
+    align-items: center;
+    text-align: left;
+    color: #fff;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+.Common p, .Entertainment p , .Games p, .CrossGate p, .goverment-service p, .MERL p{
+    flex: 1 1 100%;
+    /* font-style: italic; */
+    font-weight: bold;
+    margin: 6px 3px;
+    color: #aaa;
+}
+.Common a, .Entertainment a, .Games a, .CrossGate a, .goverment-service a, .MERL a{
+    flex: 1 1 25%;
+    margin: 1rem 1rem;
+}
+.Common li:nth-child(-n+2) , .Entertainment li:nth-child(-n+2) , .Games li:nth-child(-n+2), .CrossGate li:nth-child(-n+2), .goverment-service li:nth-child(-n+2), .MERL li:nth-child(-n+2){
+    display: inline-block;
+    flex: 1 1 100%;
+    padding: 1rem 0px;
+} 
+
+
+.Common li {
+    /* 皇家蓝 柯尼什蓝 */
+    background-color: #0F52BA;
+    /* 午夜蓝 */
+    /* background-color: #03257E; */
+}
+.Entertainment li {
+    /* 鸽血红 */
+    /* background-color: #B03060; */
+    /* google红 */
+    background-color: #B53C16;
+}
+.Games li {
+    background-color: #9966CC;
+}
+.CrossGate li {
+    /* 午夜蓝 */
+    background-color: #03257E;
+}
+.goverment-service li {
+    /* Devil Red */
+    background-color: #860111;
+}
+.MERL li {
+    background-color: #00A86B;
+}
+
+
+
+
+/* .boxLast a:visited {
+    color: blue;
+} */
+
+/* .totop {
+    color: #EE7621;
+    text-align: right;
+}
+.totop a{
+    color: #EE7621;
+} */
+
+
+/* a.indented-link { */
+  /* display: inline-block; 将a标签转换为内联块元素 */
+  /* text-indent: 2em; 设置文本缩进为2em */
+/* } */
+
+

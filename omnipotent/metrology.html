@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unit Converter</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .converter-container {
+            background: #fff;
+            padding: 20px 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 400px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+            color: #444;
+        }
+
+        .converter {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .input-group,
+        .output-group {
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        input,
+        select {
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        #outputValue {
+            background-color: #e9ecef;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+<body>
+    <div class="converter-container">
+        <h1>Unit Converter</h1>
+        <div class="converter">
+            <div class="input-group">
+                <label for="inputValue">Enter Value:</label>
+                <input type="number" id="inputValue" placeholder="e.g., 100">
+            </div>
+            <div class="input-group">
+                <label for="inputUnit">From:</label>
+                <select id="inputUnit">
+                    <option value="meter">Meter</option>
+                    <option value="kilometer">Kilometer</option>
+                    <option value="mile">Mile</option>
+                    <option value="gram">Gram</option>
+                    <option value="kilogram">Kilogram</option>
+                    <option value="pound">Pound</option>
+                    <option value="celsius">Celsius</option>
+                    <option value="fahrenheit">Fahrenheit</option>
+                </select>
+            </div>
+            <div class="input-group">
+                <label for="outputUnit">To:</label>
+                <select id="outputUnit">
+                    <option value="meter">Meter</option>
+                    <option value="kilometer">Kilometer</option>
+                    <option value="mile">Mile</option>
+                    <option value="gram">Gram</option>
+                    <option value="kilogram">Kilogram</option>
+                    <option value="pound">Pound</option>
+                    <option value="celsius">Celsius</option>
+                    <option value="fahrenheit">Fahrenheit</option>
+                </select>
+            </div>
+            <button id="convertBtn">Convert</button>
+            <div class="output-group">
+                <label for="outputValue">Converted Value:</label>
+                <input type="text" id="outputValue" readonly>
+            </div>
+        </div>
+    </div>
+    <script>
+        document.getElementById('convertBtn').addEventListener('click', () => {
+            const inputValue = parseFloat(document.getElementById('inputValue').value);
+            const inputUnit = document.getElementById('inputUnit').value;
+            const outputUnit = document.getElementById('outputUnit').value;
+
+            if (isNaN(inputValue)) {
+                alert('Please enter a valid number!');
+                return;
+            }
+
+            let convertedValue;
+
+            // Conversion logic
+            const conversions = {
+                // Length
+                meter: { meter: 1, kilometer: 0.001, mile: 0.000621371 },
+                kilometer: { meter: 1000, kilometer: 1, mile: 0.621371 },
+                mile: { meter: 1609.34, kilometer: 1.60934, mile: 1 },
+                // Weight
+                gram: { gram: 1, kilogram: 0.001, pound: 0.00220462 },
+                kilogram: { gram: 1000, kilogram: 1, pound: 2.20462 },
+                pound: { gram: 453.592, kilogram: 0.453592, pound: 1 },
+                // Temperature
+                celsius: { celsius: (v) => v, fahrenheit: (v) => (v * 9/5) + 32 },
+                fahrenheit: { celsius: (v) => (v - 32) * 5/9, fahrenheit: (v) => v },
+            };
+
+            if (typeof conversions[inputUnit][outputUnit] === 'function') {
+                convertedValue = conversions[inputUnit][outputUnit](inputValue);
+            } else {
+                convertedValue = inputValue * conversions[inputUnit][outputUnit];
+            }
+
+            document.getElementById('outputValue').value = convertedValue.toFixed(2);
+        });
+    </script>
+</body>
+</html>

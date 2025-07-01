@@ -1,0 +1,803 @@
+<<<<<<< HEAD
+perpetrate: 英[ˈpɜːpətreɪt] 美[ˈpɜːrpətreɪt]
+%vt. 犯（罪）；做（恶）
+    perpetrate atrocities
+#犯下暴行
+    perpetrate the robbery of a store
+#对商店进行抢
+    perpetrate a practical joke
+#搞恶作剧
+    Three businessmen were charged with perpetrating a massive insurance fraud.
+#三个商人被指控犯有大额保险金欺诈罪。
+
+succor: 英[ˈsʌkə(r)] 美[ˈsʌkər]
+$n. 救援；援助者
+%vt. 救援；援助
+    provide succor to the injured
+#救援伤者
+    succor the worn-out, aged men
+#帮助年老体衰的人
+    She crossed the enemy lines, disguised as a civilian, to bring medical succor to the wounded soldiers.
+#她扮作一个平民穿过敌人防线，将医药救助品带给伤兵。
+
+untimely: 英[ʌnˈtaɪmli] 美[ʌnˈtaɪmli]
+$adj. 不合时宜的；过早的
+%adv. 不合时宜地；过早地
+    an untimely subject
+#不合宜的题目
+    an untimely frost
+#不合时令的霜冻
+    He med a tragic and untimely death at the age of 35.
+#他在35岁时不幸猝然辞世。
+
+threaten: 英[ˈθret(ə)n] 美[ˈθret(ə)n]
+%v. 威胁，恐吓；危及，对……构成威胁；预示凶兆，有……危险
+    threaten to rain/snow
+#快下雨/下雪了
+    They threatened to kill her unless she did as they asked.
+#他们威胁要杀她，除非她按他们说的做。
+
+exasperate: 英[ɪɡˈzæspəreɪt] 美[ɪɡˈzæspəreɪt]
+%v. 使烦恼，使恼怒；使恶化
+    He gave an exasperated sigh and turned back.
+#他愤恨地叹了口气，转过身去。
+
+graft: 英[ɡrɑːft] 美[ɡræft]
+$n. 嫁接；移植；辛苦的工作；贪污
+%v. 嫁接；移植；辛苦地工作；贪污；植根；引入；（尤指不恰当地）将（某物）永久地插入别的物体
+    graft pears onto apple trees
+#梨树嫁接到苹果树上
+    try to clear the graft
+#试图消除贪污
+    Surgeons removed some skin from her leg and grafted it onto her face.
+#外科医生将她腿上的一些皮肤移植到她脸上。
+
+fireproof: 英[ˈfaɪəpruːf] 美[ˈfaɪərpruːf]
+$adj. 防火的；耐火的
+%vt. 使耐火；使防火
+    He kept his stamp collection in a fireproof safe.
+#他将集邮册存放在防火保险柜里。
+
+diffident: 英[ˈdɪfɪdənt] 美[ˈdɪfɪdənt]
+%adj. 羞怯的；缺乏自信的；谦虚谨慎的
+    be diffident about expressing one's opinions
+#羞于表达自己的意见
+    There's no need to be so diffident about your achievements -- you've done really well.
+#没有必要对你的成就藏头露尾的——你确实干得很出色。
+
+relentless: 英[rɪˈlentləs] 美[rɪˈlentləs]
+%adj. 坚韧的，不屈不挠的；残酷无情的，不留情面的；不停的，不间断的
+    a relentless enemy
+#残忍的人
+    relentless criticism
+#不留情的批评
+    a relentless autumnal rain
+#绵绵秋雨
+    relentless summer heat
+#炎炎夏日的酷暑
+    He believes that the relentless push for economic growth is deeply damaging to the environment.
+#他认为拼命促进经济发展正在极大地破坏环境。
+
+vigilant: 英[ˈvɪdʒɪlənt] 美[ˈvɪdʒɪlənt]
+%adj. 警觉的，警惕的
+    keep a vigilant eye upon
+#对……保持警觉
+    be vigilant against
+#对……保持警惕
+    Following the bomb scare at the airport, the staff have been warned to be extra vigilant.
+#受到机场爆炸事件恐吓之后，员工们接到警告要格外警惕。
+
+inflexible: 英[ɪnˈfleksəb(ə)l] 美[ɪnˈfleksəb(ə)l]
+%adj. 固守己见的，顽固的；（规则、安排等）不可改变的，不容变更的；（材料）坚硬的，不能弯曲
+    an inflexible rod
+#不可弯曲的棍棒
+    a man of inflexible integrity
+#刚正不阿的人
+    an inflexible rule
+#不可改变的规则
+    The president has adopted an inflexible position.
+#总统采取了强硬的立场。
+
+enigma: 英[ɪˈnɪɡmə] 美[ɪˈnɪɡmə]
+%n. 谜，不可思议的东西
+    a bit of an enigma
+#令人费解
+    speak in enigmas
+#说些别人听不懂的话
+    It's rather an enigma why she left him.
+#她为什么离开他令人费解。
+
+heartfelt: 英[ˈhɑːtfelt] 美[ˈhɑːrtfelt]
+%adj. 由衷的，诚挚的
+    heartfelt joys
+#由衷的高兴
+    heartfelt apologies
+#由衷的道歉
+    With heartfelt relief she saw a car coming towards her through the rain.
+#在雨中，她看见一辆车朝她驶来，不禁感到由衷的宽慰。
+
+feckless: 英[ˈfekləs] 美[ˈfekləs]
+%adj. 无效的；软弱的；没精神的；不负责任的；无气力的
+    feckless attempt
+#徒劳的尝试
+    feckless administration
+#低效率的管理
+    He regarded the young man as feckless and irresponsible.
+#他认为这个年轻人优柔寡断而且不负责任。
+
+sagacious: 英[səˈɡeɪʃəs] 美[səˈɡeɪʃəs]
+%adj. 有洞察力的，显示出聪慧的
+    a sagacious comment
+#鞭辟入里的评论
+    a sagacious choice
+#明智的选择
+    He was sagacious to back out.
+#他及时抽身退出，真是聪明。
+
+
+deterrent: 英[dɪˈterənt] 美[dɪˈtɜːrənt]
+$n. 威慑，遏制；威慑武器
+%adj. 威慑的，遏制的
+    nuclear deterrents
+#核威慑
+    a deterrent force
+#威慑力量
+    It is hoped that the severe prison sentences will act as a deterrent to other would-be-offenders.
+#（人们）希望严厉的徒刑能对其他可能成为罪犯的人起到威慑作用。
+
+efface: 英[ɪˈfeɪs] 美[ɪˈfeɪs]
+%vt. 抹去，抹掉；使自己不受人注意
+    efface that impression once and for all
+#永远消除掉那一印象
+    be effaced from the memory of sb.
+#为某人所遗忘
+    Weathering has effaced the inscription on the tombstone.
+#日晒雨淋已经磨蚀了碑石上的铭文。
+
+inordinate: 英[ɪnˈɔːdɪnət] 美[ɪnˈɔːrdɪnət]
+%adj. 过度的；无节制的；紊乱的
+    an inordinate smoker
+#吸烟无度的人
+    keep inordinate hours
+#过无规律的生活
+    She has always spent an inordinate amount of time on her appearance.
+#她总是在打扮上花过多的时间。
+
+cleave: 英[kliːv] 美[kliːv]
+$vi. 裂开；披荆斩棘地前进；粘住；坚持
+$vt. 砍开；使分开；打通
+%n. （Cleave）人名；（英）克利夫
+    cleave a tree
+#砍断一棵树
+    cleave the billowing sea
+#破浪前进
+    cleave one's way through the crowd
+#从人群中挤出去
+    With one blow of the axe, the wood was cleaved into two.
+#随着斧头一挥，木头被劈成两半。
+
+far-reaching: 英[ˌfɑː ˈriːtʃɪŋ] 美[ˌfɑːr ˈriːtʃɪŋ]
+%adj. 影响深远的，波及广泛的
+    far-reaching consequences
+#意义深远的后果
+    a far-reaching influence
+#深远的影响
+    The report outlines the most far-reaching changes in housing policy for 30 years.
+#报告概括了30年来住房政策中影响最为深远的一些变化。
+
+empathy: 英[ˈempəθi] 美[ˈempəθi]
+%n. 共鸣，同情；感同身受，产生共鸣（的能力）
+    You've lived in other countries so I'd expect you to have some sort of empathy with people who've just arrived here.
+#你在别的国家待过，所以我想你同刚到这里的人会有一些同感。
+
+muddle: 英[ˈmʌd(ə)l] 美[ˈmʌd(ə)l]
+$v. 把……弄乱，把……混在一起；混淆，分不清；使困惑；懵懵懂懂地白忙；<美>调制（饮料），调（酒）；使糊涂，使迷惑
+%n. 糊涂，茫然；（局面）一团糟，混乱；乱七八糟
+    muddle a piece of work
+#把一件作品弄糟
+    muddle away a fortune
+#把一大笔财产挥霍掉
+    in a muddle
+#一片混乱
+    make a muddle of
+#把……弄得一团糟
+    muddle about/around
+#无事忙，使糊涂
+    muddle through college
+#混过大学阶段
+    If your mind is muddled, you cannot think clearly.
+#如果你被弄糊涂了，你就不能清晰地思考。
+
+perfunctory: 英[pəˈfʌŋktəri] 美[pərˈfʌŋktəri]
+%adj. 敷衍的，马虎的
+    a perfunctory search
+#马虎的搜寻
+    make a perfunctory reply
+#敷衍着回答
+    Her smile was perfunctory.
+#她敷衍一笑。
+
+hearten: 英[ˈhɑːt(ə)n] 美[ˈhɑːrt(ə)n]
+$vt. 激励；鼓励；使振作
+%vi. 振作
+    I was heartened to hear reports that the tickets for the show were selling well.
+#报道说展览的门票卖得很好，这令我大为振奋。
+
+erudite: 英[ˈerudaɪt] 美[ˈerjədaɪt]
+$adj. 博学的；有学问的
+%n. 饱学之士
+    an erudite commentary
+#旁征博引的评论
+    He was never dull but always erudite and well informed.
+#他从来都不愚笨，而是一直那么博学多识。
+
+entangle: 英[ɪnˈtæŋɡ(ə)l] 美[ɪnˈtæŋɡ(ə)l]
+%vt. 使纠缠；卷入；使混乱
+    be entangled in/with the fishing nets
+#用渔网缠在一起
+    get entangled in the controversy
+#卷人辩论中
+    be romantically entangled with an actress
+#同一个女演员有些情感纠葛
+    entangle the question further
+#使问题更加复杂化
+    The bill is sure to entangle parliament in endless debate.
+#这个议案肯定会使议会陷人没完没了的争辩。
+
+reprimand: 英[ˈreprɪmɑːnd] 美[ˈreprəmænd]
+$n. 谴责，训斥
+%v. 谴责
+    be reprimanded for not conducting oneself properly
+#因行为不端而受到训斥
+    The boss gave him a severe reprimand for being late yet again.
+#他的老板因他再次迟到而训斥了他顿。
+
+fortnight: 英[ˈfɔːtnaɪt] 美[ˈfɔːrtnaɪt]
+%n. 两星期
+    once a fortnight
+#每两周一次
+    a fortnight ago
+#两周以前
+    in a fortnight's time
+#两周后
+    We're going on holiday for a fortnight.
+#我们要去度假两周。
+
+elucidate: 英[ɪˈluːsɪdeɪt] 美[ɪˈluːsɪdeɪt]
+%v. <正式>阐明，解释
+    elucidate the policy of the government
+#阐明政府的政策
+    The possible reasons for the change in weather conditions have been elucidated by several scientists.
+#可能造成天气状况变化的原因已由几位科学家解释清楚了。
+
+boisterous: 英[ˈbɔɪstərəs] 美[ˈbɔɪstərəs]
+%adj. 喧闹的；狂暴的；猛烈的
+    boisterous winds and waves
+#狂暴的风浪
+    a boisterous child
+#爱吵闹的孩子
+    The children are having a boisterous game in the playground.
+#孩子们正在操场上喧闹地玩游戏。
+
+wilt: 英[wɪlt] 美[wɪlt]
+$v. 枯萎，凋谢；变得萎靡不振，失去自信；将（草、饲料等）晒成半干
+$n. 萎蔫病
+%n. （Wilt）（美）威尔特（人名）
+    He had intended to say something, but when all the hostile faces turned towards him, he wilted.
+#本想说些什么，但当所有带着敌意的脸转向他时，他退缩了。
+
+unleash: 英[ʌnˈliːʃ] 美[ʌnˈliːʃ]
+%v. 释放出，发泄（力量、感情等）；解开皮带放开（动物）；放开，解除对……的限制
+    unleash a dog
+#解带纵狗
+    unleash a storm of controversy
+#发动一场大辩论
+    unleash an air offensive
+#发动空中攻势
+
+canny: 英[ˈkæni] 美[ˈkæni]
+$adj. 精明的，谨慎的；节约的
+%n. （Canny）人名；（英）坎尼
+    a canny politician
+#工于心计的政客
+    a canny mind
+#机敏的头脑
+    She struck a canny bargain with her ex-employer.
+#她同以前的雇主达成了精明的交易。
+
+dose: 英[dəʊs] 美[doʊs]
+$n. 一剂，一服；一次，一点；花柳病
+%v. 给……服药；掺入
+    a dose of cough-mixture
+#一服咳嗽药剂
+    a nasty dose of flu
+#一次重流感
+    a hard dose to swallow
+#难咽的苦药
+    in small doses
+#每次少剂量地
+    at high doses
+#大剂量地
+    The label on the bottle says the dose is three of the pills with every meal.
+#瓶子上的标签说，用量是每餐三粒药丸。
+
+vehement: 英[ˈviːəmənt] 美[ˈviːəmənt]
+%adj. 激烈的，猛烈的；热烈的
+    vehement patriotism
+#激情洋溢的爱国精神
+    a vehement desire
+#急切的欲望
+    a vehement clapping
+#热烈的鼓掌
+    vehement protest
+#强烈的抗议
+    a vehement debate
+#激烈的辩论
+    They launched a vehement attack on the government's handling of environmental issues.
+#他们就政府对待环境问题的做法发起了猛烈的攻击。
+
+exuberant: 英[ɪɡˈzjuːbərənt] 美[ɪɡˈzuːbərənt]
+%adj. 兴高采烈的，精神焕发的；喜气洋洋的，充满生气的；茂盛的，繁茂的；（在艺术风格上）充满活力和想像力的
+    exuberant vegetation
+#繁茂的植物
+    exuberant imagination
+#丰富的想象力
+    be in exuberant health
+#非常健康
+    be in exuberant confidence
+#信心十足
+    an exuberant river
+#奔腾的河流
+    heap exuberant praise on
+#对……大加溢美之词
+    a person of exuberant talent
+#才华横溢的人
+    She gave an exuberant performance.
+#她的表演热情洋溢。
+
+rancor(rancour): 英[ˈræŋkə(r)] 美[ˈræŋkər]
+%n. 深仇；怨恨；敌意
+    a man free of rancor
+#不记仇的人
+    He cheated me, but I feel no rancor towards/against him.
+#他骗了我，但我并不对他怀恨在心。
+
+enrage: 英[ɪnˈreɪdʒ] 美[ɪnˈreɪdʒ]
+%vt. 激怒；使暴怒
+    He was so enraged at the article about him that he sued the newspaper.
+#他对于那篇关于他的文章极为愤怒，起诉了那家报纸。
+
+falsify: 英[ˈfɔːlsɪfaɪ] 美[ˈfɔːlsɪfaɪ]
+$vt. 伪造；篡改；歪曲；证明……虚假
+%vi. 撒谎
+    falsify a record
+#篡改记录
+    falsity one's motives
+#歪曲某人的动机
+    The new discovery has falsified the hypothesis.
+#新的发现已证明那个假设是无根据的。
+
+pounce: 英[paʊns] 美[paʊns]
+$vi. 突袭，猛扑
+$vt. 扑过去抓住
+%n. 猛扑，爪
+    pounce on the quarry
+#猛扑抓住猎物
+    make a pounce
+#突然猛扑
+    The cat sat in the tree ready to pounce on the ducks below.
+#树上的猫准备扑向下方的鸭子。
+
+flagrant: 英[ˈfleɪɡrənt] 美[ˈfleɪɡrənt]
+%adj. 骇人听闻的，公然的
+    a flagrant crime
+#滔天大罪
+    a flagrant offender
+#罪恶昭彰的罪犯
+    flagrant cheating
+#可耻的欺诈
+    They condemned the flagrant encroachment on another nation's sovereignty.
+#他们谴责对别国主权的公然侵犯。
+
+=======
+perpetrate: 英[ˈpɜːpətreɪt] 美[ˈpɜːrpətreɪt]
+%vt. 犯（罪）；做（恶）
+    perpetrate atrocities
+#犯下暴行
+    perpetrate the robbery of a store
+#对商店进行抢
+    perpetrate a practical joke
+#搞恶作剧
+    Three businessmen were charged with perpetrating a massive insurance fraud.
+#三个商人被指控犯有大额保险金欺诈罪。
+
+succor: 英[ˈsʌkə(r)] 美[ˈsʌkər]
+$n. 救援；援助者
+%vt. 救援；援助
+    provide succor to the injured
+#救援伤者
+    succor the worn-out, aged men
+#帮助年老体衰的人
+    She crossed the enemy lines, disguised as a civilian, to bring medical succor to the wounded soldiers.
+#她扮作一个平民穿过敌人防线，将医药救助品带给伤兵。
+
+untimely: 英[ʌnˈtaɪmli] 美[ʌnˈtaɪmli]
+$adj. 不合时宜的；过早的
+%adv. 不合时宜地；过早地
+    an untimely subject
+#不合宜的题目
+    an untimely frost
+#不合时令的霜冻
+    He med a tragic and untimely death at the age of 35.
+#他在35岁时不幸猝然辞世。
+
+threaten: 英[ˈθret(ə)n] 美[ˈθret(ə)n]
+%v. 威胁，恐吓；危及，对……构成威胁；预示凶兆，有……危险
+    threaten to rain/snow
+#快下雨/下雪了
+    They threatened to kill her unless she did as they asked.
+#他们威胁要杀她，除非她按他们说的做。
+
+exasperate: 英[ɪɡˈzæspəreɪt] 美[ɪɡˈzæspəreɪt]
+%v. 使烦恼，使恼怒；使恶化
+    He gave an exasperated sigh and turned back.
+#他愤恨地叹了口气，转过身去。
+
+graft: 英[ɡrɑːft] 美[ɡræft]
+$n. 嫁接；移植；辛苦的工作；贪污
+%v. 嫁接；移植；辛苦地工作；贪污；植根；引入；（尤指不恰当地）将（某物）永久地插入别的物体
+    graft pears onto apple trees
+#梨树嫁接到苹果树上
+    try to clear the graft
+#试图消除贪污
+    Surgeons removed some skin from her leg and grafted it onto her face.
+#外科医生将她腿上的一些皮肤移植到她脸上。
+
+fireproof: 英[ˈfaɪəpruːf] 美[ˈfaɪərpruːf]
+$adj. 防火的；耐火的
+%vt. 使耐火；使防火
+    He kept his stamp collection in a fireproof safe.
+#他将集邮册存放在防火保险柜里。
+
+diffident: 英[ˈdɪfɪdənt] 美[ˈdɪfɪdənt]
+%adj. 羞怯的；缺乏自信的；谦虚谨慎的
+    be diffident about expressing one's opinions
+#羞于表达自己的意见
+    There's no need to be so diffident about your achievements -- you've done really well.
+#没有必要对你的成就藏头露尾的——你确实干得很出色。
+
+relentless: 英[rɪˈlentləs] 美[rɪˈlentləs]
+%adj. 坚韧的，不屈不挠的；残酷无情的，不留情面的；不停的，不间断的
+    a relentless enemy
+#残忍的人
+    relentless criticism
+#不留情的批评
+    a relentless autumnal rain
+#绵绵秋雨
+    relentless summer heat
+#炎炎夏日的酷暑
+    He believes that the relentless push for economic growth is deeply damaging to the environment.
+#他认为拼命促进经济发展正在极大地破坏环境。
+
+vigilant: 英[ˈvɪdʒɪlənt] 美[ˈvɪdʒɪlənt]
+%adj. 警觉的，警惕的
+    keep a vigilant eye upon
+#对……保持警觉
+    be vigilant against
+#对……保持警惕
+    Following the bomb scare at the airport, the staff have been warned to be extra vigilant.
+#受到机场爆炸事件恐吓之后，员工们接到警告要格外警惕。
+
+inflexible: 英[ɪnˈfleksəb(ə)l] 美[ɪnˈfleksəb(ə)l]
+%adj. 固守己见的，顽固的；（规则、安排等）不可改变的，不容变更的；（材料）坚硬的，不能弯曲
+    an inflexible rod
+#不可弯曲的棍棒
+    a man of inflexible integrity
+#刚正不阿的人
+    an inflexible rule
+#不可改变的规则
+    The president has adopted an inflexible position.
+#总统采取了强硬的立场。
+
+enigma: 英[ɪˈnɪɡmə] 美[ɪˈnɪɡmə]
+%n. 谜，不可思议的东西
+    a bit of an enigma
+#令人费解
+    speak in enigmas
+#说些别人听不懂的话
+    It's rather an enigma why she left him.
+#她为什么离开他令人费解。
+
+heartfelt: 英[ˈhɑːtfelt] 美[ˈhɑːrtfelt]
+%adj. 由衷的，诚挚的
+    heartfelt joys
+#由衷的高兴
+    heartfelt apologies
+#由衷的道歉
+    With heartfelt relief she saw a car coming towards her through the rain.
+#在雨中，她看见一辆车朝她驶来，不禁感到由衷的宽慰。
+
+feckless: 英[ˈfekləs] 美[ˈfekləs]
+%adj. 无效的；软弱的；没精神的；不负责任的；无气力的
+    feckless attempt
+#徒劳的尝试
+    feckless administration
+#低效率的管理
+    He regarded the young man as feckless and irresponsible.
+#他认为这个年轻人优柔寡断而且不负责任。
+
+sagacious: 英[səˈɡeɪʃəs] 美[səˈɡeɪʃəs]
+%adj. 有洞察力的，显示出聪慧的
+    a sagacious comment
+#鞭辟入里的评论
+    a sagacious choice
+#明智的选择
+    He was sagacious to back out.
+#他及时抽身退出，真是聪明。
+
+
+deterrent: 英[dɪˈterənt] 美[dɪˈtɜːrənt]
+$n. 威慑，遏制；威慑武器
+%adj. 威慑的，遏制的
+    nuclear deterrents
+#核威慑
+    a deterrent force
+#威慑力量
+    It is hoped that the severe prison sentences will act as a deterrent to other would-be-offenders.
+#（人们）希望严厉的徒刑能对其他可能成为罪犯的人起到威慑作用。
+
+efface: 英[ɪˈfeɪs] 美[ɪˈfeɪs]
+%vt. 抹去，抹掉；使自己不受人注意
+    efface that impression once and for all
+#永远消除掉那一印象
+    be effaced from the memory of sb.
+#为某人所遗忘
+    Weathering has effaced the inscription on the tombstone.
+#日晒雨淋已经磨蚀了碑石上的铭文。
+
+inordinate: 英[ɪnˈɔːdɪnət] 美[ɪnˈɔːrdɪnət]
+%adj. 过度的；无节制的；紊乱的
+    an inordinate smoker
+#吸烟无度的人
+    keep inordinate hours
+#过无规律的生活
+    She has always spent an inordinate amount of time on her appearance.
+#她总是在打扮上花过多的时间。
+
+cleave: 英[kliːv] 美[kliːv]
+$vi. 裂开；披荆斩棘地前进；粘住；坚持
+$vt. 砍开；使分开；打通
+%n. （Cleave）人名；（英）克利夫
+    cleave a tree
+#砍断一棵树
+    cleave the billowing sea
+#破浪前进
+    cleave one's way through the crowd
+#从人群中挤出去
+    With one blow of the axe, the wood was cleaved into two.
+#随着斧头一挥，木头被劈成两半。
+
+far-reaching: 英[ˌfɑː ˈriːtʃɪŋ] 美[ˌfɑːr ˈriːtʃɪŋ]
+%adj. 影响深远的，波及广泛的
+    far-reaching consequences
+#意义深远的后果
+    a far-reaching influence
+#深远的影响
+    The report outlines the most far-reaching changes in housing policy for 30 years.
+#报告概括了30年来住房政策中影响最为深远的一些变化。
+
+empathy: 英[ˈempəθi] 美[ˈempəθi]
+%n. 共鸣，同情；感同身受，产生共鸣（的能力）
+    You've lived in other countries so I'd expect you to have some sort of empathy with people who've just arrived here.
+#你在别的国家待过，所以我想你同刚到这里的人会有一些同感。
+
+muddle: 英[ˈmʌd(ə)l] 美[ˈmʌd(ə)l]
+$v. 把……弄乱，把……混在一起；混淆，分不清；使困惑；懵懵懂懂地白忙；<美>调制（饮料），调（酒）；使糊涂，使迷惑
+%n. 糊涂，茫然；（局面）一团糟，混乱；乱七八糟
+    muddle a piece of work
+#把一件作品弄糟
+    muddle away a fortune
+#把一大笔财产挥霍掉
+    in a muddle
+#一片混乱
+    make a muddle of
+#把……弄得一团糟
+    muddle about/around
+#无事忙，使糊涂
+    muddle through college
+#混过大学阶段
+    If your mind is muddled, you cannot think clearly.
+#如果你被弄糊涂了，你就不能清晰地思考。
+
+perfunctory: 英[pəˈfʌŋktəri] 美[pərˈfʌŋktəri]
+%adj. 敷衍的，马虎的
+    a perfunctory search
+#马虎的搜寻
+    make a perfunctory reply
+#敷衍着回答
+    Her smile was perfunctory.
+#她敷衍一笑。
+
+hearten: 英[ˈhɑːt(ə)n] 美[ˈhɑːrt(ə)n]
+$vt. 激励；鼓励；使振作
+%vi. 振作
+    I was heartened to hear reports that the tickets for the show were selling well.
+#报道说展览的门票卖得很好，这令我大为振奋。
+
+erudite: 英[ˈerudaɪt] 美[ˈerjədaɪt]
+$adj. 博学的；有学问的
+%n. 饱学之士
+    an erudite commentary
+#旁征博引的评论
+    He was never dull but always erudite and well informed.
+#他从来都不愚笨，而是一直那么博学多识。
+
+entangle: 英[ɪnˈtæŋɡ(ə)l] 美[ɪnˈtæŋɡ(ə)l]
+%vt. 使纠缠；卷入；使混乱
+    be entangled in/with the fishing nets
+#用渔网缠在一起
+    get entangled in the controversy
+#卷人辩论中
+    be romantically entangled with an actress
+#同一个女演员有些情感纠葛
+    entangle the question further
+#使问题更加复杂化
+    The bill is sure to entangle parliament in endless debate.
+#这个议案肯定会使议会陷人没完没了的争辩。
+
+reprimand: 英[ˈreprɪmɑːnd] 美[ˈreprəmænd]
+$n. 谴责，训斥
+%v. 谴责
+    be reprimanded for not conducting oneself properly
+#因行为不端而受到训斥
+    The boss gave him a severe reprimand for being late yet again.
+#他的老板因他再次迟到而训斥了他顿。
+
+fortnight: 英[ˈfɔːtnaɪt] 美[ˈfɔːrtnaɪt]
+%n. 两星期
+    once a fortnight
+#每两周一次
+    a fortnight ago
+#两周以前
+    in a fortnight's time
+#两周后
+    We're going on holiday for a fortnight.
+#我们要去度假两周。
+
+elucidate: 英[ɪˈluːsɪdeɪt] 美[ɪˈluːsɪdeɪt]
+%v. <正式>阐明，解释
+    elucidate the policy of the government
+#阐明政府的政策
+    The possible reasons for the change in weather conditions have been elucidated by several scientists.
+#可能造成天气状况变化的原因已由几位科学家解释清楚了。
+
+boisterous: 英[ˈbɔɪstərəs] 美[ˈbɔɪstərəs]
+%adj. 喧闹的；狂暴的；猛烈的
+    boisterous winds and waves
+#狂暴的风浪
+    a boisterous child
+#爱吵闹的孩子
+    The children are having a boisterous game in the playground.
+#孩子们正在操场上喧闹地玩游戏。
+
+wilt: 英[wɪlt] 美[wɪlt]
+$v. 枯萎，凋谢；变得萎靡不振，失去自信；将（草、饲料等）晒成半干
+$n. 萎蔫病
+%n. （Wilt）（美）威尔特（人名）
+    He had intended to say something, but when all the hostile faces turned towards him, he wilted.
+#本想说些什么，但当所有带着敌意的脸转向他时，他退缩了。
+
+unleash: 英[ʌnˈliːʃ] 美[ʌnˈliːʃ]
+%v. 释放出，发泄（力量、感情等）；解开皮带放开（动物）；放开，解除对……的限制
+    unleash a dog
+#解带纵狗
+    unleash a storm of controversy
+#发动一场大辩论
+    unleash an air offensive
+#发动空中攻势
+
+canny: 英[ˈkæni] 美[ˈkæni]
+$adj. 精明的，谨慎的；节约的
+%n. （Canny）人名；（英）坎尼
+    a canny politician
+#工于心计的政客
+    a canny mind
+#机敏的头脑
+    She struck a canny bargain with her ex-employer.
+#她同以前的雇主达成了精明的交易。
+
+dose: 英[dəʊs] 美[doʊs]
+$n. 一剂，一服；一次，一点；花柳病
+%v. 给……服药；掺入
+    a dose of cough-mixture
+#一服咳嗽药剂
+    a nasty dose of flu
+#一次重流感
+    a hard dose to swallow
+#难咽的苦药
+    in small doses
+#每次少剂量地
+    at high doses
+#大剂量地
+    The label on the bottle says the dose is three of the pills with every meal.
+#瓶子上的标签说，用量是每餐三粒药丸。
+
+vehement: 英[ˈviːəmənt] 美[ˈviːəmənt]
+%adj. 激烈的，猛烈的；热烈的
+    vehement patriotism
+#激情洋溢的爱国精神
+    a vehement desire
+#急切的欲望
+    a vehement clapping
+#热烈的鼓掌
+    vehement protest
+#强烈的抗议
+    a vehement debate
+#激烈的辩论
+    They launched a vehement attack on the government's handling of environmental issues.
+#他们就政府对待环境问题的做法发起了猛烈的攻击。
+
+exuberant: 英[ɪɡˈzjuːbərənt] 美[ɪɡˈzuːbərənt]
+%adj. 兴高采烈的，精神焕发的；喜气洋洋的，充满生气的；茂盛的，繁茂的；（在艺术风格上）充满活力和想像力的
+    exuberant vegetation
+#繁茂的植物
+    exuberant imagination
+#丰富的想象力
+    be in exuberant health
+#非常健康
+    be in exuberant confidence
+#信心十足
+    an exuberant river
+#奔腾的河流
+    heap exuberant praise on
+#对……大加溢美之词
+    a person of exuberant talent
+#才华横溢的人
+    She gave an exuberant performance.
+#她的表演热情洋溢。
+
+rancor(rancour): 英[ˈræŋkə(r)] 美[ˈræŋkər]
+%n. 深仇；怨恨；敌意
+    a man free of rancor
+#不记仇的人
+    He cheated me, but I feel no rancor towards/against him.
+#他骗了我，但我并不对他怀恨在心。
+
+enrage: 英[ɪnˈreɪdʒ] 美[ɪnˈreɪdʒ]
+%vt. 激怒；使暴怒
+    He was so enraged at the article about him that he sued the newspaper.
+#他对于那篇关于他的文章极为愤怒，起诉了那家报纸。
+
+falsify: 英[ˈfɔːlsɪfaɪ] 美[ˈfɔːlsɪfaɪ]
+$vt. 伪造；篡改；歪曲；证明……虚假
+%vi. 撒谎
+    falsify a record
+#篡改记录
+    falsity one's motives
+#歪曲某人的动机
+    The new discovery has falsified the hypothesis.
+#新的发现已证明那个假设是无根据的。
+
+pounce: 英[paʊns] 美[paʊns]
+$vi. 突袭，猛扑
+$vt. 扑过去抓住
+%n. 猛扑，爪
+    pounce on the quarry
+#猛扑抓住猎物
+    make a pounce
+#突然猛扑
+    The cat sat in the tree ready to pounce on the ducks below.
+#树上的猫准备扑向下方的鸭子。
+
+flagrant: 英[ˈfleɪɡrənt] 美[ˈfleɪɡrənt]
+%adj. 骇人听闻的，公然的
+    a flagrant crime
+#滔天大罪
+    a flagrant offender
+#罪恶昭彰的罪犯
+    flagrant cheating
+#可耻的欺诈
+    They condemned the flagrant encroachment on another nation's sovereignty.
+#他们谴责对别国主权的公然侵犯。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

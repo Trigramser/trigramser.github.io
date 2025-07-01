@@ -1,0 +1,771 @@
+<<<<<<< HEAD
+stratify:
+    stratified rock
+#成层岩
+    That is a rigidly stratified society.
+#那是一个阶层划分森严的社会。
+
+cordiality:
+    false cordialities
+#虚情假意
+    He stared at her evenly, all cordiality gone.
+#他冷冷地望着她，刚才热诚的样子消失得一干二净。
+
+avarice:
+    He paid a month's rent in advance just enough to satisfy the landlady's avarice.
+#他预交了一个月的房租，勉强满足了房东的贪心。
+
+misalliance:
+    I regret the misalliance.
+#我为那桩不匹配的婚姻感到懊悔。
+
+ultimate:
+    the ultimate limits of the universe
+#宇宙的极限
+    an ultimate principle
+#基本原理
+    the ultimate authority
+#最高当局
+    the ultimate cost of a project
+#一项工程的总成本
+    the ultimate of one's desires
+#个人最终的愿望
+    the ultimate source of success
+#成功之本
+    Her ultimate destination was Paris.
+#她的最后目的地是巴黎
+
+plainspoken:
+    a plainspoken girl
+#快人快语的女孩
+
+insightful:
+    His new essay on the relationship of man and nature is insightful and rewarding.
+#他那篇关于人与自然关系的新论文很有见地，也很有价值。
+
+corruption:
+    political corruption
+#政治腐败
+    an official above corruption
+#不受贿赂的官员
+    the corruption of a translated passage
+#与原文出人很大的一段译文例
+    Greed is the corruption of minds.
+#贪梦腐蚀人的思想。
+
+commercialize:
+    commercialize sport
+#把体育运动商品化
+    commercialize art
+#艺术商品化
+    a highly commercialized country
+#商业极度发达的国家
+
+counteract:
+    counteract sb.'s bad influence
+#抵消某人的恶劣影响
+    counteract a fever with aspirin
+#用阿司匹林散热
+    The drug counteracts the effects of the poison.
+#这种药可抵消毒物的作用。
+
+termite:
+    a colony of termites
+#白蚁群
+
+anticipatory:
+    He gave an anticipatory shiver.
+#事情还没发生他就打了个寒战。
+
+incontrovertible:
+    absolute and incontrovertible truth
+#绝对的、不容置疑的真理
+    an incontrovertible evidence
+#确凿无疑的证据
+    It seemed incontrovertible that he deceived his colleagues.
+#他欺骗了他的同事，这看来无可否认。
+
+pompous:
+    a pompous politician
+#自命不凡的政客
+    be pompous in manner
+#态度傲慢
+    pompous rhetoric
+#浮华的辞藻
+    a pompous celebration
+#盛大的庆典活动
+    He was a pompous little official.
+#他是个自大的芝麻官。
+
+enamor:
+    He's so enamored of his own plan that he won't even consider mine.
+#他太醉心于自己的计划，以至于不考虑我的。
+
+patronizing:
+    a patronizing attitude
+#一副优越屈尊的态度
+    A patronizing remark
+#傲慢的话
+    I can't bear his patronizing arrogance.
+#我不能忍受他那种屈尊俯就的傲慢态度。
+
+inure:
+    inure oneself to hardships
+#使自己习惯于苦难
+    be inured to cold and hunger
+#习惯于忍饥受冻
+    Sick pay inured from the first day of illness.
+#病假工资从生病的第一天开始执行。
+
+incredulity:
+    an expression of sheer incredulity
+#绝对不信的神情
+
+inconvenient:
+    an inconvenient time
+#时间不合时宜
+    an inconvenient day
+#不合时宜的一天
+    Shelves that are too high to reach easily are inconvenient.
+#书架太高，伸手不容易够着，用起来就不方便。
+
+endear:
+    endear oneself by acts of generosity
+#以慷慨行为赢得人们的喜爱
+    Her kindness endeared her to the neighbors.
+#她心地善良，邻居们都喜欢她。
+
+nutritional:
+    the good nutritional value of milk
+#牛奶丰富的营养价值
+
+anaerobic:
+    anaerobic respiration
+#厌氧呼吸
+
+homespun:
+    homespun fabric
+#手织布
+    homespun philosophy
+#朴素的哲学
+
+asunder:
+    tear the sofa asunder
+#发沙发拆分
+    as asunder as pole and pole
+#像两极那样分隔得很远
+    The boat was torn asunder on the rocks.
+#船被石撞成了碎片。
+
+mournful:
+    a mournful song
+#忧伤的歌
+    mournful news
+#令人悲痛的消息
+    the mournful cry of a wolf
+#狼凄厉的嚎叫声
+    take a mournful view of human affairs
+#对人间世事抱悲观态度
+    I saw a mournful expression on her face.
+#我看到她脸上的悲痛表情。
+
+typify:
+    typify peace
+#象征和平
+    She typified the bored housewife.
+#她是那种百无聊赖的家庭主妇的典型。
+
+distasteful:
+    a distasteful job
+#令入不愉快的工作
+    distasteful medicine
+#难吃的药
+    a distasteful expression on sb.'s face
+#某人脸上厌恶的表情
+    a distasteful joke
+#令人倒胃口的笑话
+    The idea is distasteful to me.
+#那个主意令我反感。
+
+inalienable:
+    an inalienable part of the territory of a country
+#国领土不可分割的一部分
+    the inalienable rights of freedom
+#不可剥夺的自由
+
+officious:
+    an officious exchange of views
+#非正式交换意见
+    When people put on uniforms their manner becomes more officious.
+#人们穿上制服后会变得爱指手画脚。
+
+photosensitive:
+    photosensitive glass
+#光敏玻璃
+
+ruminant:
+    The cow is ruminant.
+#牛是反刍动物。
+
+entice:
+    entice a young girl away from home
+#引诱一个姑娘离家出走
+    entice sb. into joining the conspiracy
+#诱使某人加入阴谋集团
+    The beautiful weather enticed me into the garden.
+#睛朗宜人的天气吸引我到花园里来。
+
+primal:
+    primal chaos
+#原始的混沌状态
+    a primal necessity
+#基本必需品
+    a primal need
+#第一需求
+    Village life continued in its primal innocence.
+#乡村生活以其原始的纯朴状态继续着。
+
+dogmatist:
+    I wonder if you realize that, you dogmatist. 
+#我不知道你是否意识到这一点，你这个教条主义者。
+
+egalitarian:
+    I still believe in the notion of an egalitarian society.
+#我仍然相信平等主义社会的理念。
+
+vicissitude:
+    the vicissitude of the sea
+#大海的无穷变化
+    The vicissitude of weather
+#天气的变化无常
+    the vicissitude of night and day
+#昼夜的交替
+    the vicissitude of life
+#人生的沉浮
+
+shiny:
+    a new shiny silver coin
+#闪闪发光的新银币
+    a shiny day
+#晴朗的日子
+    shiny black shoes
+#擦亮的黑皮鞋
+    be shiny with age
+#因使用长久而发亮
+    shiny hair
+#油光的头发
+    He wore a shiny suit.
+#他穿着一套发亮的衣服。
+
+amorphous:
+    an amorphous boundary
+#不定的边界
+    the amorphous mass of the unemployed
+#形形色色的失业群体
+    I can't understand his amorphous plans.
+#我弄不懂他那杂乱无章的计划。
+
+density:
+    high density of buildings in town
+#城市建筑的高度密集
+    population density
+#人口密度
+    low-density housing
+#低密度的住房
+
+gaudy:
+    a gaudy display of wealth
+#财富的庸俗炫耀
+    in native gaudy costumes
+#穿着五彩缤纷的土著服装
+    Peacocks have gaudy plumage.
+#孔雀长着艳丽夺目的羽毛。
+
+undifferentiated:
+    The object of mechanical type is the immediate and undifferentiated object. 
+#机械性的客体就是直接的无差别的客体。
+
+reexamined:
+    He reexamined the validity of various assumptions.
+#他重新检验了各种假设的正确性。
+
+fallow:
+    fallow land
+#休闲地
+    lie fallow
+#休闲，潜伏着
+    a skill lying fallow
+#尚未发挥的技能
+    Fallow helps to increase the fertility of land.
+#休耕有利于增加土地的肥力。
+
+unsubstantiated:
+    an unsubstantiated report
+#未经证实的报告
+    an unsubstantiated accusation
+#无确实根据的指责
+
+artistry:
+    the artistry of a novel
+#小说的艺术性
+    the artistry of the violinist
+#小提琴家的艺术オ华
+    It takes imagination and artistry to write even a short piece of music.
+#即使写一支短曲也需要想象力和艺术才能。
+
+unerring:
+    an unerring guide
+#不会出错的向导
+    sb.'s unerring sense of direction
+#某人从不出错的方向感
+    With unerring judgment he repeatedly hit the center of the target.
+#他判断无误，连连击中靶心。
+
+quagmire:
+    slip into an economic quagmire
+#陷入经济困境
+    be lost in quagmires of negotiation
+#陷入无休止的谈判泥沼
+    Rain has turned the country paths into quagmires.
+#雨水使乡村道路变得一片泥污。
+
+raucous:
+    a raucous voice
+#嘶哑的声音
+    a raucous party
+#闹哄哄的宴会
+    a raucous frontier town
+#喧闹的边境小城
+    They heard a bottle being smashed, then more raucous laughter.
+#他们听到瓶子被打碎的声音，然后是更多刺耳的笑声。
+
+frisky:
+    a frisky puppy
+#活蹦乱跳的小狗
+    The spring weather is making me feel quite frisky.
+#春天的天气使我感到很愉快。
+
+disputable:
+    a disputable demand
+#有争议的要求
+    His argument is highly disputable.
+#他的论点大可商榷。
+
+self-effacement:
+    He was modest to the point of self-effacement. 
+#他过于谦虚，甚至到了自我轻视的程度。
+
+aromatic:
+    the aromatic breath of pine
+#松木的香气
+    a place with an aromatic name
+#一个名字别致的地方
+    Aromatic herbs are often used in cooking.
+#芳香植物常用于烹调。
+
+overblown:
+    overblown praise
+#过分的赞扬
+    an overblown bureaucracy
+#过分膨胀的官僚机构
+    vastly overblown compliments
+#极尽溢美之词
+    His diction is overblown.
+#他的用词华而不实。
+
+indigent:
+    an indigent person
+#穷人
+    an indigent area
+#贫困地区
+    be indigent of moisture
+#一点也不湿润
+    The hospital offers free treatment to indigents.
+#那家医院为穷苦人提供免费治疗。
+
+=======
+stratify:
+    stratified rock
+#成层岩
+    That is a rigidly stratified society.
+#那是一个阶层划分森严的社会。
+
+cordiality:
+    false cordialities
+#虚情假意
+    He stared at her evenly, all cordiality gone.
+#他冷冷地望着她，刚才热诚的样子消失得一干二净。
+
+avarice:
+    He paid a month's rent in advance just enough to satisfy the landlady's avarice.
+#他预交了一个月的房租，勉强满足了房东的贪心。
+
+misalliance:
+    I regret the misalliance.
+#我为那桩不匹配的婚姻感到懊悔。
+
+ultimate:
+    the ultimate limits of the universe
+#宇宙的极限
+    an ultimate principle
+#基本原理
+    the ultimate authority
+#最高当局
+    the ultimate cost of a project
+#一项工程的总成本
+    the ultimate of one's desires
+#个人最终的愿望
+    the ultimate source of success
+#成功之本
+    Her ultimate destination was Paris.
+#她的最后目的地是巴黎
+
+plainspoken:
+    a plainspoken girl
+#快人快语的女孩
+
+insightful:
+    His new essay on the relationship of man and nature is insightful and rewarding.
+#他那篇关于人与自然关系的新论文很有见地，也很有价值。
+
+corruption:
+    political corruption
+#政治腐败
+    an official above corruption
+#不受贿赂的官员
+    the corruption of a translated passage
+#与原文出人很大的一段译文例
+    Greed is the corruption of minds.
+#贪梦腐蚀人的思想。
+
+commercialize:
+    commercialize sport
+#把体育运动商品化
+    commercialize art
+#艺术商品化
+    a highly commercialized country
+#商业极度发达的国家
+
+counteract:
+    counteract sb.'s bad influence
+#抵消某人的恶劣影响
+    counteract a fever with aspirin
+#用阿司匹林散热
+    The drug counteracts the effects of the poison.
+#这种药可抵消毒物的作用。
+
+termite:
+    a colony of termites
+#白蚁群
+
+anticipatory:
+    He gave an anticipatory shiver.
+#事情还没发生他就打了个寒战。
+
+incontrovertible:
+    absolute and incontrovertible truth
+#绝对的、不容置疑的真理
+    an incontrovertible evidence
+#确凿无疑的证据
+    It seemed incontrovertible that he deceived his colleagues.
+#他欺骗了他的同事，这看来无可否认。
+
+pompous:
+    a pompous politician
+#自命不凡的政客
+    be pompous in manner
+#态度傲慢
+    pompous rhetoric
+#浮华的辞藻
+    a pompous celebration
+#盛大的庆典活动
+    He was a pompous little official.
+#他是个自大的芝麻官。
+
+enamor:
+    He's so enamored of his own plan that he won't even consider mine.
+#他太醉心于自己的计划，以至于不考虑我的。
+
+patronizing:
+    a patronizing attitude
+#一副优越屈尊的态度
+    A patronizing remark
+#傲慢的话
+    I can't bear his patronizing arrogance.
+#我不能忍受他那种屈尊俯就的傲慢态度。
+
+inure:
+    inure oneself to hardships
+#使自己习惯于苦难
+    be inured to cold and hunger
+#习惯于忍饥受冻
+    Sick pay inured from the first day of illness.
+#病假工资从生病的第一天开始执行。
+
+incredulity:
+    an expression of sheer incredulity
+#绝对不信的神情
+
+inconvenient:
+    an inconvenient time
+#时间不合时宜
+    an inconvenient day
+#不合时宜的一天
+    Shelves that are too high to reach easily are inconvenient.
+#书架太高，伸手不容易够着，用起来就不方便。
+
+endear:
+    endear oneself by acts of generosity
+#以慷慨行为赢得人们的喜爱
+    Her kindness endeared her to the neighbors.
+#她心地善良，邻居们都喜欢她。
+
+nutritional:
+    the good nutritional value of milk
+#牛奶丰富的营养价值
+
+anaerobic:
+    anaerobic respiration
+#厌氧呼吸
+
+homespun:
+    homespun fabric
+#手织布
+    homespun philosophy
+#朴素的哲学
+
+asunder:
+    tear the sofa asunder
+#发沙发拆分
+    as asunder as pole and pole
+#像两极那样分隔得很远
+    The boat was torn asunder on the rocks.
+#船被石撞成了碎片。
+
+mournful:
+    a mournful song
+#忧伤的歌
+    mournful news
+#令人悲痛的消息
+    the mournful cry of a wolf
+#狼凄厉的嚎叫声
+    take a mournful view of human affairs
+#对人间世事抱悲观态度
+    I saw a mournful expression on her face.
+#我看到她脸上的悲痛表情。
+
+typify:
+    typify peace
+#象征和平
+    She typified the bored housewife.
+#她是那种百无聊赖的家庭主妇的典型。
+
+distasteful:
+    a distasteful job
+#令入不愉快的工作
+    distasteful medicine
+#难吃的药
+    a distasteful expression on sb.'s face
+#某人脸上厌恶的表情
+    a distasteful joke
+#令人倒胃口的笑话
+    The idea is distasteful to me.
+#那个主意令我反感。
+
+inalienable:
+    an inalienable part of the territory of a country
+#国领土不可分割的一部分
+    the inalienable rights of freedom
+#不可剥夺的自由
+
+officious:
+    an officious exchange of views
+#非正式交换意见
+    When people put on uniforms their manner becomes more officious.
+#人们穿上制服后会变得爱指手画脚。
+
+photosensitive:
+    photosensitive glass
+#光敏玻璃
+
+ruminant:
+    The cow is ruminant.
+#牛是反刍动物。
+
+entice:
+    entice a young girl away from home
+#引诱一个姑娘离家出走
+    entice sb. into joining the conspiracy
+#诱使某人加入阴谋集团
+    The beautiful weather enticed me into the garden.
+#睛朗宜人的天气吸引我到花园里来。
+
+primal:
+    primal chaos
+#原始的混沌状态
+    a primal necessity
+#基本必需品
+    a primal need
+#第一需求
+    Village life continued in its primal innocence.
+#乡村生活以其原始的纯朴状态继续着。
+
+dogmatist:
+    I wonder if you realize that, you dogmatist. 
+#我不知道你是否意识到这一点，你这个教条主义者。
+
+egalitarian:
+    I still believe in the notion of an egalitarian society.
+#我仍然相信平等主义社会的理念。
+
+vicissitude:
+    the vicissitude of the sea
+#大海的无穷变化
+    The vicissitude of weather
+#天气的变化无常
+    the vicissitude of night and day
+#昼夜的交替
+    the vicissitude of life
+#人生的沉浮
+
+shiny:
+    a new shiny silver coin
+#闪闪发光的新银币
+    a shiny day
+#晴朗的日子
+    shiny black shoes
+#擦亮的黑皮鞋
+    be shiny with age
+#因使用长久而发亮
+    shiny hair
+#油光的头发
+    He wore a shiny suit.
+#他穿着一套发亮的衣服。
+
+amorphous:
+    an amorphous boundary
+#不定的边界
+    the amorphous mass of the unemployed
+#形形色色的失业群体
+    I can't understand his amorphous plans.
+#我弄不懂他那杂乱无章的计划。
+
+density:
+    high density of buildings in town
+#城市建筑的高度密集
+    population density
+#人口密度
+    low-density housing
+#低密度的住房
+
+gaudy:
+    a gaudy display of wealth
+#财富的庸俗炫耀
+    in native gaudy costumes
+#穿着五彩缤纷的土著服装
+    Peacocks have gaudy plumage.
+#孔雀长着艳丽夺目的羽毛。
+
+undifferentiated:
+    The object of mechanical type is the immediate and undifferentiated object. 
+#机械性的客体就是直接的无差别的客体。
+
+reexamined:
+    He reexamined the validity of various assumptions.
+#他重新检验了各种假设的正确性。
+
+fallow:
+    fallow land
+#休闲地
+    lie fallow
+#休闲，潜伏着
+    a skill lying fallow
+#尚未发挥的技能
+    Fallow helps to increase the fertility of land.
+#休耕有利于增加土地的肥力。
+
+unsubstantiated:
+    an unsubstantiated report
+#未经证实的报告
+    an unsubstantiated accusation
+#无确实根据的指责
+
+artistry:
+    the artistry of a novel
+#小说的艺术性
+    the artistry of the violinist
+#小提琴家的艺术オ华
+    It takes imagination and artistry to write even a short piece of music.
+#即使写一支短曲也需要想象力和艺术才能。
+
+unerring:
+    an unerring guide
+#不会出错的向导
+    sb.'s unerring sense of direction
+#某人从不出错的方向感
+    With unerring judgment he repeatedly hit the center of the target.
+#他判断无误，连连击中靶心。
+
+quagmire:
+    slip into an economic quagmire
+#陷入经济困境
+    be lost in quagmires of negotiation
+#陷入无休止的谈判泥沼
+    Rain has turned the country paths into quagmires.
+#雨水使乡村道路变得一片泥污。
+
+raucous:
+    a raucous voice
+#嘶哑的声音
+    a raucous party
+#闹哄哄的宴会
+    a raucous frontier town
+#喧闹的边境小城
+    They heard a bottle being smashed, then more raucous laughter.
+#他们听到瓶子被打碎的声音，然后是更多刺耳的笑声。
+
+frisky:
+    a frisky puppy
+#活蹦乱跳的小狗
+    The spring weather is making me feel quite frisky.
+#春天的天气使我感到很愉快。
+
+disputable:
+    a disputable demand
+#有争议的要求
+    His argument is highly disputable.
+#他的论点大可商榷。
+
+self-effacement:
+    He was modest to the point of self-effacement. 
+#他过于谦虚，甚至到了自我轻视的程度。
+
+aromatic:
+    the aromatic breath of pine
+#松木的香气
+    a place with an aromatic name
+#一个名字别致的地方
+    Aromatic herbs are often used in cooking.
+#芳香植物常用于烹调。
+
+overblown:
+    overblown praise
+#过分的赞扬
+    an overblown bureaucracy
+#过分膨胀的官僚机构
+    vastly overblown compliments
+#极尽溢美之词
+    His diction is overblown.
+#他的用词华而不实。
+
+indigent:
+    an indigent person
+#穷人
+    an indigent area
+#贫困地区
+    be indigent of moisture
+#一点也不湿润
+    The hospital offers free treatment to indigents.
+#那家医院为穷苦人提供免费治疗。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

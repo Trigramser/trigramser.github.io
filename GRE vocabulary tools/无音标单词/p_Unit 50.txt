@@ -1,0 +1,627 @@
+<<<<<<< HEAD
+perquisite:
+    wages and perquisites
+#工资和外快
+    The perquisite of the college president includes a home and car.
+#大学校长的特权包括住房和汽车。
+
+haggle:
+    haggle about what currency is to be used for payment
+#讨论用何种货支付
+    haggle a branch off
+#把树枝胡乱砍去
+    It's traditional that you haggle over the price of things in the market.
+#在市场上买东西讨价还价是传统的做法。
+
+postdate:
+    Most manuscripts postdate the stories which have circulated by word of mouth for centuries.
+#大部分故事是在口头流传数个世纪后才有书面记载的。
+
+fluster:
+    She was in a terrible fluster when unexpected guests arrived.
+#当不速之客来到时，她手足无措。
+
+indigence:
+    His present indigence is a sufficient punishment for former folly. 
+#他现在所受的困苦足够惩罚他从前的胡作非为了。
+
+composed:
+    Anger appeared on her usually composed face.
+#她平常安详的脸上出现了怒容。
+
+apparition:
+    a ghostly apparition at midnight
+#午夜鬼影
+    He claimed to have seen strange apparitions at night.
+#他说在晚上曾见过奇怪的幽灵。
+
+xenophobic:
+    After years of xenophobic isolation, the country now encourages tourism.
+#在多年的恐外隔绝后，那个国家正鼓励发展旅游业。
+
+collusion:
+    They are acting in collusion to deceive me.
+#他们串通起来在欺骗我。
+
+peevish:
+    a peevish child
+#坏脾气的孩子
+    a peevish, bad tempered person
+#易怒、坏牌气的人
+    He had slept little and that always made him peevish.
+#他睡眠不足，这总是让他很焦躁。
+
+demystify:
+    What I need is a book that will demystify the working of a car engine for me.
+#我需要的是一本阐明汽车发动机原理的书。
+
+restive:
+    a restive mood
+#焦躁不安的心境
+    a restive child
+#犟孩子
+    The audience was restive as they waited for the performance to begin.
+#观众们不耐烦地等待演出开始。
+
+gainsay:
+    We couldn't gainsay the statistics.
+#我们无法否认统计数字。
+
+brazen:
+    a brazen slander
+#无耻的诽谤
+    a brazen violation of the rules
+#对规则的公然违抗
+    a brazen cup
+#黄铜杯
+    brazen it out
+#厚着脸皮干
+    That brazen man told lie after lie.
+#那厚颜无耻的人谎话连篇。
+
+adoration:
+    sing in adoration
+#歌唱赞颂
+    John doesn't hide his adoration for this girl.
+#约翰并不掩饰自己对这个女孩的爱慕。
+
+hydrate:
+    It's important to stay hydrated and to avoid real or artificial sugars when this happens.
+#这时你需要补水并避免食用天然糖或者人造糖。
+
+synergy:
+    There's quite obviously a lot of synergy between the companies.
+#这两家公司之间显然有许多的协同作用。
+
+recessive:
+    Recessive characteristics such as blue eyes or red hair can reappear after being hidden for a generation.
+#隐性性状如蓝眼睛或红头发在隐藏一代之后会重现。
+
+institute:
+    the institute of inventors
+#发明家协会
+    a research institute
+#研究机构
+    institute a law
+#制定法律
+    institute a cease-fire
+#实行停火
+    institute a sweeping reform
+#着手彻底改革
+    The committee will institute a new appraisal system next year.
+#委员会将于明年制定一套新的评估制度。
+
+reenact:
+    Parliament has reenacted a law under which children can give evidence at a trial via a television link.
+#议会重新制定了一项法令，规定儿童可以通过电视向法院作证。
+
+amalgam:
+    a perfect amalgam of human and divine
+#人性与神性的完美结合
+    His character is an amalgam of contradictory traits.
+#他的性格是各种矛盾特质的混合体。
+
+spiny:
+    spiny problems
+#棘手的问题
+    spiny husks
+#多刺的外壳
+    Some small animals have a spiny covering to protect them.
+#有些小动物的身上覆盖了刺用来保护自己。
+
+die:
+    It was too late to back out of the project -- the die was already cast.
+#要使工程下马已经太晚了——木已成舟。
+
+catalyze:
+    The technology bred of science has catalyzed stupendous economic growth.
+#科学造就的技术已经促成了经济的巨大发展。
+
+burgeon:
+    In those happy, carefree days, love burgeoned between them.
+#在那些快乐的无忧无虑的日子他们之间的爱情迅速发展。
+
+consort:
+    In prison he found himself consorting with hardened criminals.
+#他发现自己在监狱里结识的都是惯犯。
+
+decadence:
+    The film depicts the decadence of modern society.
+#这部电影描述了现代社会的堕落。
+
+insignificant:
+    insignificant people
+#小人物
+    insignificant talk
+#无意义的话
+    It seems to me a fairly insignificant sum of money to be arguing about.
+#在我看来，这是一笔相当微不足道的钱，不值得为此争论。
+
+phlegmatic:
+    be phlegmatic by nature
+#生性冷漠
+    As a manager, his great asset was his calm, phlegmatic manner.
+#作为经理，他的最大优点是他遇事不慌的大将风度。
+
+penetrating:
+    penetrating power
+#穿透力
+    a penetrating odor
+#刺鼻的气味
+    a penetrating wind
+#刺骨的寒风
+    a penetrating bomber
+#远程轰炸机
+    a penetrating analysis
+#鞭辟入里的分析
+    a penetrating mind
+#敏锐的头脑
+    His glance was sharp but penetrating.
+#他那一很犀利又具有洞察力。
+
+paean:
+    The song is a paean to solitude and independence.
+#这首歌赞美孤寂和独立。
+
+condemnation:
+    The crime late last night has received universal condemnation.
+#昨天深夜的那起案件受到大众的一致遣责。
+
+undistorted:
+    one's undistorted image
+#某人未被扭曲的形象
+
+underwater:
+    It was filmed with an underwater camera.
+#这是用水下摄影机拍摄的。
+
+collateral:
+    use/offer a house as collateral
+#用房屋作抵押品;
+    collateral mountains
+#并行的山脉
+    a collateral effect
+#伴随的效果
+    collateral evidence
+#旁证
+    a collateral loan
+#抵押的贷款
+    Brothers and sisters are closely related whereas cousins are collateral relatives.
+#兄弟姐妹是近亲，而表兄妹只是旁系亲属。
+
+invariable:
+    It is his invariable habit to take a nap.
+#睡午觉是他惯有的习惯。
+
+permeable:
+    permeable to water
+#渗水
+    Additional guards have been placed along the border and now it is less permeable than it once was.
+#边境上增设了哨兵，现在不像以前那么容易通过了。
+
+confidently:
+    Act confidently in your interview, if you feel nervous, try not to show it.
+#面试中要表现得自信，如果感到紧张，尽量不要流露出来。
+
+garish:
+    He was wearing garish shorts and training shoes.
+#他穿着花哨的短裤和运动鞋。
+
+critic:
+    a literary critic
+#文学评论家
+    a music critic
+#音乐批评家
+    The play has been well received by the critics.
+#这出戏赢得了批评家们的好评。
+
+munificent:
+    a munificent benefactor
+#慷慨的施主
+    a munificent bequest
+#丰厚的遗赠
+    A former student has donated a munificent sum of money to the university.
+#从前的一名学生给这所大学捐了一大笔钱。
+
+animated:
+    an animated piece of sculpture
+#栩栩如生的雕塑品
+    an animated puppet
+#活动木偶
+    an animated city
+#繁忙的城市
+    an animated smile
+#欢乐的微笑
+    a five-minute animated film
+#5分钟的动画片
+    animated cartoons
+#动画片，卡通
+    There was an extremely animated discussion on the subject.
+#（我们）就这个问题进行了一次极为热烈的讨论。
+
+aggrandize:
+    aggrandize an empire
+#扩大帝国的版图
+    He always aggrandized one and disparaged the other.
+#他总是吹捧一个贬低另一个。
+
+ragged:
+    a ragged child
+#衣衫褴楼的孩子
+    a ragged coastline
+#曲折的海岸线
+    a ragged textbook
+#破损的课本;
+    ragged rocks
+#嶙岣的岩石
+    a ragged performance
+#拙劣的表演
+    A ragged line of people were waiting at the bus stop.
+#歪歪扭扭的一队人正在公共汽车站候车。
+
+virulence:
+    The severity and virulence of the disease are causing great concern in medical circles.
+#这种病的严重性和致命性已经引起了医学界的极大关注。
+
+interlock:
+    The branches of the trees interlock to form a natural archway.
+#树枝相互交织，形成一道天然的拱门。
+
+affirmation:
+    nod in affirmation
+#肯定地点了点头
+    We welcome the government's affirmation of its intention to act.
+#我们接受政府对行动意向的确定。
+
+pathologic(al):
+    pathologic studies
+#病理研究
+    pathologic anatomy
+#病理解剖
+    a pathologic drinker
+#病态的嗜酒者
+    His hatred of her was almost pathologic.
+#他对她的憎恨近乎病态。
+
+equestrian:
+    They erected an equestrian statue of the prince.
+#他们立起一尊王子骑马的塑像。
+
+shiftless:
+    He called the young people shiftless, lazy and good-for-nothing.
+#他说这些年轻人胸无大志、懒惰又无用。
+
+=======
+perquisite:
+    wages and perquisites
+#工资和外快
+    The perquisite of the college president includes a home and car.
+#大学校长的特权包括住房和汽车。
+
+haggle:
+    haggle about what currency is to be used for payment
+#讨论用何种货支付
+    haggle a branch off
+#把树枝胡乱砍去
+    It's traditional that you haggle over the price of things in the market.
+#在市场上买东西讨价还价是传统的做法。
+
+postdate:
+    Most manuscripts postdate the stories which have circulated by word of mouth for centuries.
+#大部分故事是在口头流传数个世纪后才有书面记载的。
+
+fluster:
+    She was in a terrible fluster when unexpected guests arrived.
+#当不速之客来到时，她手足无措。
+
+indigence:
+    His present indigence is a sufficient punishment for former folly. 
+#他现在所受的困苦足够惩罚他从前的胡作非为了。
+
+composed:
+    Anger appeared on her usually composed face.
+#她平常安详的脸上出现了怒容。
+
+apparition:
+    a ghostly apparition at midnight
+#午夜鬼影
+    He claimed to have seen strange apparitions at night.
+#他说在晚上曾见过奇怪的幽灵。
+
+xenophobic:
+    After years of xenophobic isolation, the country now encourages tourism.
+#在多年的恐外隔绝后，那个国家正鼓励发展旅游业。
+
+collusion:
+    They are acting in collusion to deceive me.
+#他们串通起来在欺骗我。
+
+peevish:
+    a peevish child
+#坏脾气的孩子
+    a peevish, bad tempered person
+#易怒、坏牌气的人
+    He had slept little and that always made him peevish.
+#他睡眠不足，这总是让他很焦躁。
+
+demystify:
+    What I need is a book that will demystify the working of a car engine for me.
+#我需要的是一本阐明汽车发动机原理的书。
+
+restive:
+    a restive mood
+#焦躁不安的心境
+    a restive child
+#犟孩子
+    The audience was restive as they waited for the performance to begin.
+#观众们不耐烦地等待演出开始。
+
+gainsay:
+    We couldn't gainsay the statistics.
+#我们无法否认统计数字。
+
+brazen:
+    a brazen slander
+#无耻的诽谤
+    a brazen violation of the rules
+#对规则的公然违抗
+    a brazen cup
+#黄铜杯
+    brazen it out
+#厚着脸皮干
+    That brazen man told lie after lie.
+#那厚颜无耻的人谎话连篇。
+
+adoration:
+    sing in adoration
+#歌唱赞颂
+    John doesn't hide his adoration for this girl.
+#约翰并不掩饰自己对这个女孩的爱慕。
+
+hydrate:
+    It's important to stay hydrated and to avoid real or artificial sugars when this happens.
+#这时你需要补水并避免食用天然糖或者人造糖。
+
+synergy:
+    There's quite obviously a lot of synergy between the companies.
+#这两家公司之间显然有许多的协同作用。
+
+recessive:
+    Recessive characteristics such as blue eyes or red hair can reappear after being hidden for a generation.
+#隐性性状如蓝眼睛或红头发在隐藏一代之后会重现。
+
+institute:
+    the institute of inventors
+#发明家协会
+    a research institute
+#研究机构
+    institute a law
+#制定法律
+    institute a cease-fire
+#实行停火
+    institute a sweeping reform
+#着手彻底改革
+    The committee will institute a new appraisal system next year.
+#委员会将于明年制定一套新的评估制度。
+
+reenact:
+    Parliament has reenacted a law under which children can give evidence at a trial via a television link.
+#议会重新制定了一项法令，规定儿童可以通过电视向法院作证。
+
+amalgam:
+    a perfect amalgam of human and divine
+#人性与神性的完美结合
+    His character is an amalgam of contradictory traits.
+#他的性格是各种矛盾特质的混合体。
+
+spiny:
+    spiny problems
+#棘手的问题
+    spiny husks
+#多刺的外壳
+    Some small animals have a spiny covering to protect them.
+#有些小动物的身上覆盖了刺用来保护自己。
+
+die:
+    It was too late to back out of the project -- the die was already cast.
+#要使工程下马已经太晚了——木已成舟。
+
+catalyze:
+    The technology bred of science has catalyzed stupendous economic growth.
+#科学造就的技术已经促成了经济的巨大发展。
+
+burgeon:
+    In those happy, carefree days, love burgeoned between them.
+#在那些快乐的无忧无虑的日子他们之间的爱情迅速发展。
+
+consort:
+    In prison he found himself consorting with hardened criminals.
+#他发现自己在监狱里结识的都是惯犯。
+
+decadence:
+    The film depicts the decadence of modern society.
+#这部电影描述了现代社会的堕落。
+
+insignificant:
+    insignificant people
+#小人物
+    insignificant talk
+#无意义的话
+    It seems to me a fairly insignificant sum of money to be arguing about.
+#在我看来，这是一笔相当微不足道的钱，不值得为此争论。
+
+phlegmatic:
+    be phlegmatic by nature
+#生性冷漠
+    As a manager, his great asset was his calm, phlegmatic manner.
+#作为经理，他的最大优点是他遇事不慌的大将风度。
+
+penetrating:
+    penetrating power
+#穿透力
+    a penetrating odor
+#刺鼻的气味
+    a penetrating wind
+#刺骨的寒风
+    a penetrating bomber
+#远程轰炸机
+    a penetrating analysis
+#鞭辟入里的分析
+    a penetrating mind
+#敏锐的头脑
+    His glance was sharp but penetrating.
+#他那一很犀利又具有洞察力。
+
+paean:
+    The song is a paean to solitude and independence.
+#这首歌赞美孤寂和独立。
+
+condemnation:
+    The crime late last night has received universal condemnation.
+#昨天深夜的那起案件受到大众的一致遣责。
+
+undistorted:
+    one's undistorted image
+#某人未被扭曲的形象
+
+underwater:
+    It was filmed with an underwater camera.
+#这是用水下摄影机拍摄的。
+
+collateral:
+    use/offer a house as collateral
+#用房屋作抵押品;
+    collateral mountains
+#并行的山脉
+    a collateral effect
+#伴随的效果
+    collateral evidence
+#旁证
+    a collateral loan
+#抵押的贷款
+    Brothers and sisters are closely related whereas cousins are collateral relatives.
+#兄弟姐妹是近亲，而表兄妹只是旁系亲属。
+
+invariable:
+    It is his invariable habit to take a nap.
+#睡午觉是他惯有的习惯。
+
+permeable:
+    permeable to water
+#渗水
+    Additional guards have been placed along the border and now it is less permeable than it once was.
+#边境上增设了哨兵，现在不像以前那么容易通过了。
+
+confidently:
+    Act confidently in your interview, if you feel nervous, try not to show it.
+#面试中要表现得自信，如果感到紧张，尽量不要流露出来。
+
+garish:
+    He was wearing garish shorts and training shoes.
+#他穿着花哨的短裤和运动鞋。
+
+critic:
+    a literary critic
+#文学评论家
+    a music critic
+#音乐批评家
+    The play has been well received by the critics.
+#这出戏赢得了批评家们的好评。
+
+munificent:
+    a munificent benefactor
+#慷慨的施主
+    a munificent bequest
+#丰厚的遗赠
+    A former student has donated a munificent sum of money to the university.
+#从前的一名学生给这所大学捐了一大笔钱。
+
+animated:
+    an animated piece of sculpture
+#栩栩如生的雕塑品
+    an animated puppet
+#活动木偶
+    an animated city
+#繁忙的城市
+    an animated smile
+#欢乐的微笑
+    a five-minute animated film
+#5分钟的动画片
+    animated cartoons
+#动画片，卡通
+    There was an extremely animated discussion on the subject.
+#（我们）就这个问题进行了一次极为热烈的讨论。
+
+aggrandize:
+    aggrandize an empire
+#扩大帝国的版图
+    He always aggrandized one and disparaged the other.
+#他总是吹捧一个贬低另一个。
+
+ragged:
+    a ragged child
+#衣衫褴楼的孩子
+    a ragged coastline
+#曲折的海岸线
+    a ragged textbook
+#破损的课本;
+    ragged rocks
+#嶙岣的岩石
+    a ragged performance
+#拙劣的表演
+    A ragged line of people were waiting at the bus stop.
+#歪歪扭扭的一队人正在公共汽车站候车。
+
+virulence:
+    The severity and virulence of the disease are causing great concern in medical circles.
+#这种病的严重性和致命性已经引起了医学界的极大关注。
+
+interlock:
+    The branches of the trees interlock to form a natural archway.
+#树枝相互交织，形成一道天然的拱门。
+
+affirmation:
+    nod in affirmation
+#肯定地点了点头
+    We welcome the government's affirmation of its intention to act.
+#我们接受政府对行动意向的确定。
+
+pathologic(al):
+    pathologic studies
+#病理研究
+    pathologic anatomy
+#病理解剖
+    a pathologic drinker
+#病态的嗜酒者
+    His hatred of her was almost pathologic.
+#他对她的憎恨近乎病态。
+
+equestrian:
+    They erected an equestrian statue of the prince.
+#他们立起一尊王子骑马的塑像。
+
+shiftless:
+    He called the young people shiftless, lazy and good-for-nothing.
+#他说这些年轻人胸无大志、懒惰又无用。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,637 @@
+<<<<<<< HEAD
+sangfroid:
+    She showed great sangfroid in dealing with the panic-stricken audience.
+#在与惊慌失措的听众打交道时，她表现出异常的冷静。
+
+realign:
+    The political parties have realigned themselves.
+#各政党已重新结盟。
+
+mendacious:
+    a mendacious report
+#虚假的报道
+    a mendacious rumor
+#一个虚假的谣言
+
+debrief:
+    He was debriefed by intelligence officers.
+#他受到情报官员的盘问。
+
+canonical:
+    a canonical report
+#权威的报道
+
+miff:
+    A miff rose between them.
+#他们为鸡毛蒜皮的事吵了起来。
+
+purse:
+    make up a purse for the orphans
+#为孤儿募集捐款
+    a heavy/fat purse
+#富裕
+    a light/lean purse
+#拮据，贫穷
+    Her lips pursed a little.
+#她的嘴唇微微撅起。
+
+pendulous:
+    pendulous blossoms
+#低垂的花朵
+    a stout, gloomy man with a pendulous lower lip
+#下唇松垂、一脸阴郁的胖男人
+
+extremist:
+    a group of extremists
+#一群极端主义者
+
+tiff:
+    They had a slight tiff over whose turn it was to clean the floor.
+#他们为轮到谁来打扫地板的问题发生了口角。
+
+pander:
+    These are the books that don't pander to popular taste.
+#这些不是迎合大众口味的书籍。
+
+importune:
+    One can no longer walk the streets without seeing beggars importuning passers-by.
+#走在这些街道上总能看到乞丐纠缠行人乞讨。
+
+squalor:
+    He was out of work, living in squalor.
+#他失业了，过着邋遏不堪的生活。
+
+muggy:
+    a muggy August day
+#八月里闷热的一天
+    The air was growing increasingly muggy.
+#空气越来越闷热了。
+
+fluvial:
+    fluvial navigation
+#在河上上航行
+    fluvial plants
+#河生植物
+
+substratum:
+    a substratum of clay beneath the sandy soil
+#沙土底下的黏土层
+
+madrigal:
+    He composed some madrigals for young boys and girls.
+#他为少男少女们创作了一些抒情短诗。
+
+fealty:
+    do/make/ swear fealty to one's lord
+#向主人宣誓效忠
+    swear fealty to liberty
+#发誓效忠自由
+
+pleonastic:
+    "A tiny little child" is pleonastic.
+#“很小的小孩”这种说法就是赘述。
+
+peeve:
+    be in a peeve over sth.
+#为某事而气恼
+    Every time he got himself into a peeve, he took it out on us.
+#他每次生气总是把气出在我们头上。
+
+lucubrate:
+    He began to lucubrate in his forties.
+#他四十多岁时开始研究学问。
+
+inspissate:
+    It inspissated the gloom of the museum atmosphere.
+#这使博物馆的阴郁气氛更为浓厚。
+
+bromide:
+    She took some bromide to calm her nerves.
+#她服用一些镇静剂来松弛神经。
+
+turgid:
+    turgid limbs
+#肿胀的四肢
+    His writing style is rather turgid.
+#他的文体相当浮夸。
+
+pervious:
+    be pervious to light
+#透光
+    He is narrow-minded and not pervious to our suggestions.
+#他胸襟狭窄，不能接受我们的建议。
+
+volition:
+    She left on her own volition.
+#她是自愿离开的。
+
+pertinacious:
+    He was pertinacious in his resolve to study medicine.
+#他毅然决定学医。
+
+badinage:
+    the cheerful exchange of badinage
+#高高兴兴地互说笑话逗趣
+
+infelicitous:
+    infelicitous marriage
+#不幸的婚姻
+    an infelicitous phrase
+#不恰当的言辞
+    The essay was written in an infelicitous style.
+#是一篇用不恰当的笔调写的散文。
+
+draggy:
+    draggy sales
+#滞销
+    a draggy plan
+#拖沓的计划
+    a draggy summer
+#令人厌烦的夏天
+
+slog:
+    slog sb. over the head
+#猛击某人的头部
+    slog through the mud
+#难地走过泥沼
+    slog up mountain slopes
+#吃力地爬上山坡
+    He has been slogging away at the business for 20 years.
+#他不辞辛劳地经营这项事业已达20年之久。
+
+enrapture:
+    The audience was enraptured by the young soloist's performance.
+#那位年轻独奏家的表演使观众欣喜若狂。
+
+overbearing:
+    His childhood was marked by an overbearing mother and a distant father.
+#他童年生活的特点是母亲专横，父亲疏远。
+
+lowbred:
+    lowbred staff
+#没有教养的员工
+
+expostulate:
+    expostulate with sb. about the evils of gambling
+#告诚某人赌博的害处
+    It's useless to expostulate with such a stubborn man.
+#规劝这种固执的人是没有用的。
+
+spoilsport:
+    What a spoilsport!
+#真是个扫兴的人!
+
+controvert:
+    a problem much controverted between them
+#他们之间争议颇多的问题
+
+conundrum:
+    pose a major conundrum
+#提出一个大难题
+    in conundrum situations
+#在杂困难的局面中
+
+credo:
+    the credo of the westerners
+#西人的信条
+
+ebullience:
+    He was in a state of ebullience.
+#他情绪激昂
+
+persiflage:
+    the persiflage of the colleagues
+#同事的挖苦
+abjure:
+    abjure one's beliefs
+#放弃信仰
+    abjure extravagance
+#改掉铺张恶习
+
+orotund:
+    orotund talk
+#夸夸其谈
+
+hurtle:
+    a highspeed train hurtling past
+#疾驰而过的高速火车
+    He was hurtling along a country road on a horse.
+#他骑着马在乡间小路上飞驰。
+
+polymath:
+    He has a polymath acquaintance with late renaissance scholarship.
+#他对文艺复兴后期的学术研究了如指掌。
+
+covenant:
+    The rival nations signed a covenant to reduce their armaments.
+#敌对国家签署了削减军备的条约。
+
+obverse:
+    the obverse of a statue
+#雕像的正面
+    His dominance in television and film amounts to a cultural power, which is the obverse side to his political power.
+#他在电影和电视行业的统治地位形成了一种文化力量，这与他的政治势力相对应。
+
+ravel:
+    ravel (out) the edge of cloth
+#把布边拆散
+    The difficulty will soon ravel out.
+#困难很快就会解决。
+
+bumptious:
+    There are some jobs in which a bumptious young man like that should be very successful.
+#像那样慢的年轻人做有些工作应该会很成功。
+
+affiliation:
+    a loose affiliation of tribes
+#部落间的松散联系
+    Their hospital has an affiliation with the medical college.
+#他们的医院附属于这所医学院。
+
+artifact:
+    make an ingenious artifact
+#制作精巧的手工艺品
+
+ensnare:
+    be ensnared by lies
+#受谎言欺骗而上当
+    Spiders ensnare flies and other insects in their webs.
+#蜘蛛在网上诱捕苍蝇和其他昆虫。
+
+guffaw:
+    burst out into a guffaw
+#发出一阵狂笑
+    guffaw one's satisfaction
+#大笑着表示满意
+
+bracing:
+    a bracing breeze
+#清爽的微风
+    We took a bracing walk on the beach after supper.
+#晚饭后我们到沙滩上惬意地散步。
+
+justification:
+    You have no justification for criticizing her in that way.
+#你没有理由那样批评她。
+
+suavity:
+    reply with slow suavity
+#慢条斯理文绉绉地回答
+    The music was performed with great suavity.
+#演奏的音乐十分悦耳。
+
+demolition:
+    the demolition of the building
+#建筑物的拆毁
+    a demolition group
+#爆破小组
+
+violet:
+    the violet sunset
+#紫色的晚霞
+
+choosy:
+    Air passengers are becoming more choosy about where they sit.
+#飞机乘客对座位的选择越来越挑剔。
+
+jejune:
+    a jejune diet
+#缺乏营养的饮食
+    jejune remarks about the world affairs
+#对世界事务乏味的评论
+    His lectures seemed jejune.
+#他的演讲平淡无味。
+
+infraction:
+    infraction of a treaty
+#违反条约
+    infraction of disciplines
+#违反纪律
+
+peckish:
+    feel peckish
+#觉得有点饿
+
+decamp:
+    The accountant decamped with the money.
+#会计携款潜逃了。
+
+=======
+sangfroid:
+    She showed great sangfroid in dealing with the panic-stricken audience.
+#在与惊慌失措的听众打交道时，她表现出异常的冷静。
+
+realign:
+    The political parties have realigned themselves.
+#各政党已重新结盟。
+
+mendacious:
+    a mendacious report
+#虚假的报道
+    a mendacious rumor
+#一个虚假的谣言
+
+debrief:
+    He was debriefed by intelligence officers.
+#他受到情报官员的盘问。
+
+canonical:
+    a canonical report
+#权威的报道
+
+miff:
+    A miff rose between them.
+#他们为鸡毛蒜皮的事吵了起来。
+
+purse:
+    make up a purse for the orphans
+#为孤儿募集捐款
+    a heavy/fat purse
+#富裕
+    a light/lean purse
+#拮据，贫穷
+    Her lips pursed a little.
+#她的嘴唇微微撅起。
+
+pendulous:
+    pendulous blossoms
+#低垂的花朵
+    a stout, gloomy man with a pendulous lower lip
+#下唇松垂、一脸阴郁的胖男人
+
+extremist:
+    a group of extremists
+#一群极端主义者
+
+tiff:
+    They had a slight tiff over whose turn it was to clean the floor.
+#他们为轮到谁来打扫地板的问题发生了口角。
+
+pander:
+    These are the books that don't pander to popular taste.
+#这些不是迎合大众口味的书籍。
+
+importune:
+    One can no longer walk the streets without seeing beggars importuning passers-by.
+#走在这些街道上总能看到乞丐纠缠行人乞讨。
+
+squalor:
+    He was out of work, living in squalor.
+#他失业了，过着邋遏不堪的生活。
+
+muggy:
+    a muggy August day
+#八月里闷热的一天
+    The air was growing increasingly muggy.
+#空气越来越闷热了。
+
+fluvial:
+    fluvial navigation
+#在河上上航行
+    fluvial plants
+#河生植物
+
+substratum:
+    a substratum of clay beneath the sandy soil
+#沙土底下的黏土层
+
+madrigal:
+    He composed some madrigals for young boys and girls.
+#他为少男少女们创作了一些抒情短诗。
+
+fealty:
+    do/make/ swear fealty to one's lord
+#向主人宣誓效忠
+    swear fealty to liberty
+#发誓效忠自由
+
+pleonastic:
+    "A tiny little child" is pleonastic.
+#“很小的小孩”这种说法就是赘述。
+
+peeve:
+    be in a peeve over sth.
+#为某事而气恼
+    Every time he got himself into a peeve, he took it out on us.
+#他每次生气总是把气出在我们头上。
+
+lucubrate:
+    He began to lucubrate in his forties.
+#他四十多岁时开始研究学问。
+
+inspissate:
+    It inspissated the gloom of the museum atmosphere.
+#这使博物馆的阴郁气氛更为浓厚。
+
+bromide:
+    She took some bromide to calm her nerves.
+#她服用一些镇静剂来松弛神经。
+
+turgid:
+    turgid limbs
+#肿胀的四肢
+    His writing style is rather turgid.
+#他的文体相当浮夸。
+
+pervious:
+    be pervious to light
+#透光
+    He is narrow-minded and not pervious to our suggestions.
+#他胸襟狭窄，不能接受我们的建议。
+
+volition:
+    She left on her own volition.
+#她是自愿离开的。
+
+pertinacious:
+    He was pertinacious in his resolve to study medicine.
+#他毅然决定学医。
+
+badinage:
+    the cheerful exchange of badinage
+#高高兴兴地互说笑话逗趣
+
+infelicitous:
+    infelicitous marriage
+#不幸的婚姻
+    an infelicitous phrase
+#不恰当的言辞
+    The essay was written in an infelicitous style.
+#是一篇用不恰当的笔调写的散文。
+
+draggy:
+    draggy sales
+#滞销
+    a draggy plan
+#拖沓的计划
+    a draggy summer
+#令人厌烦的夏天
+
+slog:
+    slog sb. over the head
+#猛击某人的头部
+    slog through the mud
+#难地走过泥沼
+    slog up mountain slopes
+#吃力地爬上山坡
+    He has been slogging away at the business for 20 years.
+#他不辞辛劳地经营这项事业已达20年之久。
+
+enrapture:
+    The audience was enraptured by the young soloist's performance.
+#那位年轻独奏家的表演使观众欣喜若狂。
+
+overbearing:
+    His childhood was marked by an overbearing mother and a distant father.
+#他童年生活的特点是母亲专横，父亲疏远。
+
+lowbred:
+    lowbred staff
+#没有教养的员工
+
+expostulate:
+    expostulate with sb. about the evils of gambling
+#告诚某人赌博的害处
+    It's useless to expostulate with such a stubborn man.
+#规劝这种固执的人是没有用的。
+
+spoilsport:
+    What a spoilsport!
+#真是个扫兴的人!
+
+controvert:
+    a problem much controverted between them
+#他们之间争议颇多的问题
+
+conundrum:
+    pose a major conundrum
+#提出一个大难题
+    in conundrum situations
+#在杂困难的局面中
+
+credo:
+    the credo of the westerners
+#西人的信条
+
+ebullience:
+    He was in a state of ebullience.
+#他情绪激昂
+
+persiflage:
+    the persiflage of the colleagues
+#同事的挖苦
+abjure:
+    abjure one's beliefs
+#放弃信仰
+    abjure extravagance
+#改掉铺张恶习
+
+orotund:
+    orotund talk
+#夸夸其谈
+
+hurtle:
+    a highspeed train hurtling past
+#疾驰而过的高速火车
+    He was hurtling along a country road on a horse.
+#他骑着马在乡间小路上飞驰。
+
+polymath:
+    He has a polymath acquaintance with late renaissance scholarship.
+#他对文艺复兴后期的学术研究了如指掌。
+
+covenant:
+    The rival nations signed a covenant to reduce their armaments.
+#敌对国家签署了削减军备的条约。
+
+obverse:
+    the obverse of a statue
+#雕像的正面
+    His dominance in television and film amounts to a cultural power, which is the obverse side to his political power.
+#他在电影和电视行业的统治地位形成了一种文化力量，这与他的政治势力相对应。
+
+ravel:
+    ravel (out) the edge of cloth
+#把布边拆散
+    The difficulty will soon ravel out.
+#困难很快就会解决。
+
+bumptious:
+    There are some jobs in which a bumptious young man like that should be very successful.
+#像那样慢的年轻人做有些工作应该会很成功。
+
+affiliation:
+    a loose affiliation of tribes
+#部落间的松散联系
+    Their hospital has an affiliation with the medical college.
+#他们的医院附属于这所医学院。
+
+artifact:
+    make an ingenious artifact
+#制作精巧的手工艺品
+
+ensnare:
+    be ensnared by lies
+#受谎言欺骗而上当
+    Spiders ensnare flies and other insects in their webs.
+#蜘蛛在网上诱捕苍蝇和其他昆虫。
+
+guffaw:
+    burst out into a guffaw
+#发出一阵狂笑
+    guffaw one's satisfaction
+#大笑着表示满意
+
+bracing:
+    a bracing breeze
+#清爽的微风
+    We took a bracing walk on the beach after supper.
+#晚饭后我们到沙滩上惬意地散步。
+
+justification:
+    You have no justification for criticizing her in that way.
+#你没有理由那样批评她。
+
+suavity:
+    reply with slow suavity
+#慢条斯理文绉绉地回答
+    The music was performed with great suavity.
+#演奏的音乐十分悦耳。
+
+demolition:
+    the demolition of the building
+#建筑物的拆毁
+    a demolition group
+#爆破小组
+
+violet:
+    the violet sunset
+#紫色的晚霞
+
+choosy:
+    Air passengers are becoming more choosy about where they sit.
+#飞机乘客对座位的选择越来越挑剔。
+
+jejune:
+    a jejune diet
+#缺乏营养的饮食
+    jejune remarks about the world affairs
+#对世界事务乏味的评论
+    His lectures seemed jejune.
+#他的演讲平淡无味。
+
+infraction:
+    infraction of a treaty
+#违反条约
+    infraction of disciplines
+#违反纪律
+
+peckish:
+    feel peckish
+#觉得有点饿
+
+decamp:
+    The accountant decamped with the money.
+#会计携款潜逃了。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

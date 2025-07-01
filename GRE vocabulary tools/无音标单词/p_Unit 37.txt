@@ -1,0 +1,635 @@
+<<<<<<< HEAD
+﻿liberality:
+    distribute things with liberality to the poors
+#将东西慷慨地分发给穷人
+
+imprecation:
+    She shouted imprecations after him.
+#她冲着他的背影大声咒骂。
+
+leeward:
+    stand leeward to the wind
+#站在下风
+    on the leeward of
+#在……的下风
+
+square:
+    square for a meal
+#付饭钱
+    square a debt
+#还清债务
+    This money will square him.
+#这钱可以让他还清欠款了。
+
+concatenate:
+    Often, you need to concatenate a variable between two strings.
+#通常，您需要在两个字符串之间连接一个变量。
+
+spank:
+    He was spanked by the boss.
+#他受到头儿的严厉斥责。
+
+charade:
+    No one is fooled by this charade.
+#这种装模作样的把戏骗不了人。
+
+dolorous:
+    a dolorous cry
+#悲哀的哭声
+    during the dolorous period
+#在那个令人悲痛的时期
+
+sweltering:
+    the sweltering air
+#闷热的空气
+
+reek:
+    the reek of tobacco smoke
+#烟草呛人的烟味
+    in a reek of sweat
+#散发着汗臭
+    He walked in reeking powerfully of alcohol.
+#他带着一身酒气走了进来。
+
+expiate:
+    expiate one's guilt by assiduous labor
+#用辛劳来抵偿自己的罪恶
+    expiate for a loss
+#补偿损失
+
+sportive:
+    a sportive puppy
+#顽皮的小狗
+    a sportive remark
+#开玩笑的话
+
+fractional:
+    a fractional glance
+#短促的一瞥
+    a fractional difference
+#很小的差别
+
+crackpot:
+    a crackpot scheme
+#荒诞的计划
+
+lancet:
+    The doctor used a lancet to cut open the skin.
+#医生用柳叶刀切开皮肤。
+
+poncho:
+    a water-proof poncho
+#防水披风
+
+spartan:
+    a spartan meal
+#简单的饭菜
+    spartan living conditions
+#艰苦的生活条件
+    They led a rather spartan life, with no comforts or luxuries.
+#他们过着相当简朴的生活，没有舒适享乐的设施。
+
+sparring:
+    stir up a sparring
+#挑起争斗
+
+spasm:
+    a muscle spasm
+#肌肉抽筋
+    a spasm of pain
+#一阵疼痛
+    a spasm of anger
+#一阵怒火
+    If your leg goes into spasm, take one of these pills immediately.
+#如果你的腿抽筋了，马上吃一粒这种药。
+
+jettison:
+    They were frightened and jettisoned their bombs in the jungle.
+#他们着慌了，把炸弹往丛林里扔。
+
+limn:
+    Not every ancestral likeness has been limned.
+#并不是每一个祖先都画了肖像。
+
+bounteous:
+    a bounteous giver
+#慷慨的赠送人
+    a bounteous harvest
+#丰收
+
+authorization:
+    It was impossible for a private citizen to cross the frontier without special authorization.
+#平民未经特批是不能越过边境的。
+
+condign:
+    a condign punishment
+#罪有应得的惩罚
+
+stodgy:
+    a stodgy book
+#乏味的书
+    a stodgy traveling bag
+#鼓鼓囊囊的旅行包
+
+lingual:
+    lingual difference
+#语言的差异
+    lingual ability
+#语言能力
+
+burnish:
+    burnish the metal
+#擦亮金属
+    burnish one's reputation
+#为自己的名声增辉
+
+lusty:
+    a stout, lusty fellow
+#强壮结实的汉子
+    lusty passion
+#强烈的情感
+    lusty greed
+#贪得无厌
+
+spoliation:
+    condemn the spoliation of the invaders
+#谴责入侵者的掠夺行为
+
+subsume:
+    All his thinking could be subsumed under the title of his last writing.
+#他的全部思想都可用他最后一部著作的题目来归纳。
+
+spat:
+    neighborhood spats
+#邻里之间的口角
+    a spat of rain
+#洒下的一阵雨点
+    bullets spatting the walls
+#噼噼啪啪打在墙上的子弹
+
+leer:
+    He's leering at his neighbor's pretty young wife.
+#他正斜眼看看邻居那漂亮的年轻太太。
+
+phony:
+    a phony name
+#假名
+    a phony address
+#假地址
+    phony up a paper
+#伪造文件
+    He'd telephoned with some phony excuse she didn't believe for a minute.
+#他用某种假的借口打电话，她根本就不信。
+
+tome:
+    a history in 25 tomes
+#一部25卷的历史巨著
+
+splice:
+    splice a rope to a chain
+#把一条绳子系在一根链条上
+    He wrote a speech by splicing parts of several old talks.
+#他把过去几次讲话的片段拼凑起来写成一篇演说稿。
+
+scruffy:
+    a scruffy lie
+#可耻的谎言
+    a scruffy little inn
+#破烂的小客栈
+
+prate:
+    prate without ceasing
+#唠叨个不停
+    prate nonsense
+#胡说八道
+
+forswear:
+    forswear a bad habit
+#发誓戒除坏习惯
+    He forswore any knowledge of the crime.
+#他坚决否认曾听闻这桩罪行。
+
+wile:
+    read a book to wile the time away
+#读书以消磨时间
+
+deputize:
+    He was deputized as officer in charge of the investigation.
+#他受委派负责这项调查。
+
+presupposition:
+    Your actions are based on some false presuppositions.
+#你的行为基于的是一些错误的推测。
+
+parallelism:
+    The parallelism with modern neurological findings is fascinating.
+#这一与现代神经学研究成果间的相似性令人非常感兴趣。
+
+cauterize:
+    cauterize a wound
+#烙伤口
+    cauterize one's conscience
+#使某人的良心麻木不仁
+
+obloquy:
+    I resent the obloquy that you are casting upon my reputation. 
+#我怨恨你对我的名誉横加诽谤。
+
+conterminous:
+    the side of China conterminous with Russia
+#与俄罗斯相邻的中国边界
+
+sodden:
+    the most nostalgia-sodden memories of one's childhood
+#对童年充满怀旧深情的回忆
+    a sodden mind
+#迟钝的头脑
+    rain-sodden skies
+#雨意浓浓的天空
+    My shirt was sodden with sweat.
+#我的衬衫给汗水湿透了。
+
+prepossessing:
+    a prepossessing appearance
+#动人的外貌
+    a prepossessing book
+#引人入胜的书
+
+jabber:
+    jabber about nothing in particular
+#天南地北地闲聊
+    Listen to the jabber of those monkeys.
+#听群猴子叽叽喳喳的叫声。
+
+crepuscular:
+    the crepuscular gloom of a winter afternoon
+#一个冬日下午的阴郁氛围
+    a crepuscular church
+#昏暗的教堂
+
+presentiment:
+    There was a presentiment of dread within her.
+#她心中有种恐怖的预感。
+
+purify:
+    purify water
+#净化水
+    purify the heart
+#净化心灵
+    purify one's spirit of evil thoughts
+#荡涤心中的邪念
+
+abrade:
+    The skin on his knees was abraded.
+#他膝盖上的皮肤擦破了。
+
+ire:
+    arouse/draw/incur the ire of the people
+#激起人民的怒火
+
+inchoate:
+    an inchoate but powerful yearning
+#模糊但强烈的渴望
+    Her father impeded her inchoate musical career.
+#她父亲阻碍了她刚起步的音乐事业。
+
+linguistics:
+    She specialized in linguistics at university.
+#她大学的专业是语言学。
+
+lair:
+    a pirate's lair
+#海盗巢穴.
+
+gab:
+    the gift of gab
+#口オ，辩才
+    Cut the gab.
+#别空谈了。
+
+rig:
+    rig immigration figures
+#伪造移民数字
+    rig a ship with sails
+#给船装帆
+    The elections must cease to be rigged.
+#选举必须不受到操纵。
+
+=======
+﻿liberality:
+    distribute things with liberality to the poors
+#将东西慷慨地分发给穷人
+
+imprecation:
+    She shouted imprecations after him.
+#她冲着他的背影大声咒骂。
+
+leeward:
+    stand leeward to the wind
+#站在下风
+    on the leeward of
+#在……的下风
+
+square:
+    square for a meal
+#付饭钱
+    square a debt
+#还清债务
+    This money will square him.
+#这钱可以让他还清欠款了。
+
+concatenate:
+    Often, you need to concatenate a variable between two strings.
+#通常，您需要在两个字符串之间连接一个变量。
+
+spank:
+    He was spanked by the boss.
+#他受到头儿的严厉斥责。
+
+charade:
+    No one is fooled by this charade.
+#这种装模作样的把戏骗不了人。
+
+dolorous:
+    a dolorous cry
+#悲哀的哭声
+    during the dolorous period
+#在那个令人悲痛的时期
+
+sweltering:
+    the sweltering air
+#闷热的空气
+
+reek:
+    the reek of tobacco smoke
+#烟草呛人的烟味
+    in a reek of sweat
+#散发着汗臭
+    He walked in reeking powerfully of alcohol.
+#他带着一身酒气走了进来。
+
+expiate:
+    expiate one's guilt by assiduous labor
+#用辛劳来抵偿自己的罪恶
+    expiate for a loss
+#补偿损失
+
+sportive:
+    a sportive puppy
+#顽皮的小狗
+    a sportive remark
+#开玩笑的话
+
+fractional:
+    a fractional glance
+#短促的一瞥
+    a fractional difference
+#很小的差别
+
+crackpot:
+    a crackpot scheme
+#荒诞的计划
+
+lancet:
+    The doctor used a lancet to cut open the skin.
+#医生用柳叶刀切开皮肤。
+
+poncho:
+    a water-proof poncho
+#防水披风
+
+spartan:
+    a spartan meal
+#简单的饭菜
+    spartan living conditions
+#艰苦的生活条件
+    They led a rather spartan life, with no comforts or luxuries.
+#他们过着相当简朴的生活，没有舒适享乐的设施。
+
+sparring:
+    stir up a sparring
+#挑起争斗
+
+spasm:
+    a muscle spasm
+#肌肉抽筋
+    a spasm of pain
+#一阵疼痛
+    a spasm of anger
+#一阵怒火
+    If your leg goes into spasm, take one of these pills immediately.
+#如果你的腿抽筋了，马上吃一粒这种药。
+
+jettison:
+    They were frightened and jettisoned their bombs in the jungle.
+#他们着慌了，把炸弹往丛林里扔。
+
+limn:
+    Not every ancestral likeness has been limned.
+#并不是每一个祖先都画了肖像。
+
+bounteous:
+    a bounteous giver
+#慷慨的赠送人
+    a bounteous harvest
+#丰收
+
+authorization:
+    It was impossible for a private citizen to cross the frontier without special authorization.
+#平民未经特批是不能越过边境的。
+
+condign:
+    a condign punishment
+#罪有应得的惩罚
+
+stodgy:
+    a stodgy book
+#乏味的书
+    a stodgy traveling bag
+#鼓鼓囊囊的旅行包
+
+lingual:
+    lingual difference
+#语言的差异
+    lingual ability
+#语言能力
+
+burnish:
+    burnish the metal
+#擦亮金属
+    burnish one's reputation
+#为自己的名声增辉
+
+lusty:
+    a stout, lusty fellow
+#强壮结实的汉子
+    lusty passion
+#强烈的情感
+    lusty greed
+#贪得无厌
+
+spoliation:
+    condemn the spoliation of the invaders
+#谴责入侵者的掠夺行为
+
+subsume:
+    All his thinking could be subsumed under the title of his last writing.
+#他的全部思想都可用他最后一部著作的题目来归纳。
+
+spat:
+    neighborhood spats
+#邻里之间的口角
+    a spat of rain
+#洒下的一阵雨点
+    bullets spatting the walls
+#噼噼啪啪打在墙上的子弹
+
+leer:
+    He's leering at his neighbor's pretty young wife.
+#他正斜眼看看邻居那漂亮的年轻太太。
+
+phony:
+    a phony name
+#假名
+    a phony address
+#假地址
+    phony up a paper
+#伪造文件
+    He'd telephoned with some phony excuse she didn't believe for a minute.
+#他用某种假的借口打电话，她根本就不信。
+
+tome:
+    a history in 25 tomes
+#一部25卷的历史巨著
+
+splice:
+    splice a rope to a chain
+#把一条绳子系在一根链条上
+    He wrote a speech by splicing parts of several old talks.
+#他把过去几次讲话的片段拼凑起来写成一篇演说稿。
+
+scruffy:
+    a scruffy lie
+#可耻的谎言
+    a scruffy little inn
+#破烂的小客栈
+
+prate:
+    prate without ceasing
+#唠叨个不停
+    prate nonsense
+#胡说八道
+
+forswear:
+    forswear a bad habit
+#发誓戒除坏习惯
+    He forswore any knowledge of the crime.
+#他坚决否认曾听闻这桩罪行。
+
+wile:
+    read a book to wile the time away
+#读书以消磨时间
+
+deputize:
+    He was deputized as officer in charge of the investigation.
+#他受委派负责这项调查。
+
+presupposition:
+    Your actions are based on some false presuppositions.
+#你的行为基于的是一些错误的推测。
+
+parallelism:
+    The parallelism with modern neurological findings is fascinating.
+#这一与现代神经学研究成果间的相似性令人非常感兴趣。
+
+cauterize:
+    cauterize a wound
+#烙伤口
+    cauterize one's conscience
+#使某人的良心麻木不仁
+
+obloquy:
+    I resent the obloquy that you are casting upon my reputation. 
+#我怨恨你对我的名誉横加诽谤。
+
+conterminous:
+    the side of China conterminous with Russia
+#与俄罗斯相邻的中国边界
+
+sodden:
+    the most nostalgia-sodden memories of one's childhood
+#对童年充满怀旧深情的回忆
+    a sodden mind
+#迟钝的头脑
+    rain-sodden skies
+#雨意浓浓的天空
+    My shirt was sodden with sweat.
+#我的衬衫给汗水湿透了。
+
+prepossessing:
+    a prepossessing appearance
+#动人的外貌
+    a prepossessing book
+#引人入胜的书
+
+jabber:
+    jabber about nothing in particular
+#天南地北地闲聊
+    Listen to the jabber of those monkeys.
+#听群猴子叽叽喳喳的叫声。
+
+crepuscular:
+    the crepuscular gloom of a winter afternoon
+#一个冬日下午的阴郁氛围
+    a crepuscular church
+#昏暗的教堂
+
+presentiment:
+    There was a presentiment of dread within her.
+#她心中有种恐怖的预感。
+
+purify:
+    purify water
+#净化水
+    purify the heart
+#净化心灵
+    purify one's spirit of evil thoughts
+#荡涤心中的邪念
+
+abrade:
+    The skin on his knees was abraded.
+#他膝盖上的皮肤擦破了。
+
+ire:
+    arouse/draw/incur the ire of the people
+#激起人民的怒火
+
+inchoate:
+    an inchoate but powerful yearning
+#模糊但强烈的渴望
+    Her father impeded her inchoate musical career.
+#她父亲阻碍了她刚起步的音乐事业。
+
+linguistics:
+    She specialized in linguistics at university.
+#她大学的专业是语言学。
+
+lair:
+    a pirate's lair
+#海盗巢穴.
+
+gab:
+    the gift of gab
+#口オ，辩才
+    Cut the gab.
+#别空谈了。
+
+rig:
+    rig immigration figures
+#伪造移民数字
+    rig a ship with sails
+#给船装帆
+    The elections must cease to be rigged.
+#选举必须不受到操纵。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,603 @@
+<<<<<<< HEAD
+piscatorial:
+    The government is taking measures to promote piscatorial development. 
+#政府正在采取措施促进渔业发展。
+
+marsupial:
+    The book has pictures of marsupials.
+#书上附有有袋动物的图片。
+
+idolatrize:
+    He is a man who idolatrizes scientists.
+#他是一个崇拜科学家的人。
+
+gambol:
+    Her dogs gamboled round her.
+#她的几条狗围着她蹦蹦跳跳。
+
+rakish:
+    rakish clothes
+#不落俗套的衣着
+    rakish in manner
+#不拘小节的风格
+
+gangway:
+    His suitcase was blocking the gangway.
+#他的箱子把过道给堵住了。
+
+monumental:
+    a monumental inscription
+#碑志
+    a monumental tree
+#参天大树
+    a monumental victory
+#历史性的胜利
+    monumental ignorance
+#极端无知
+    a monumental task
+#重大任务
+    The steps are flanked by monumental sculptures.
+#台阶两侧是一座座巨大的雕像。
+
+gusher:
+    The oil rushes up the tube and spouts up as a gusher.
+#石油会沿着管道上涌，如同自喷井那样喷射出来。
+
+cumber:
+    rocks cumbering the yard
+#石头凌乱地堆满了院子
+    cumber the memory with trivial facts
+#满脑子琐事记不胜记
+    He was cumbered with heavy clothing.
+#他穿得过多行动不便。
+
+sublimate:
+    Hostile feelings and violent responses often seem to be sublimated into sporting activities.
+#敌对情绪和暴力反应似乎往往在体育运动中升华化解。
+
+myopic:
+    Their myopic refusal to act now will undoubtedly cause problems in the future.
+#他们目光短浅不愿现在行动，一定会后患无穷。
+
+serpentine:
+    a serpentine path through the garden
+#花园中一条弯弯曲曲的小径
+    serpentine cunning
+#恶魔般的狡诈
+    serpentine through the woods
+#蜿蜓穿过树林
+    We followed the serpentine course of the river.
+#我们沿着弯弯曲曲的河道行走。
+
+lump:
+    a lump of coal
+#一块煤
+    a lump of sugar
+#一小块方糖
+    a lump of money
+#大量的钱
+    The great lump of voters are still undecided.
+#大部分选民尚未打定主意。
+
+labile:
+    labile chemical solution
+#不稳定的化学溶液
+
+stultify:
+    The program of taxation reform was stultified by public indifference.
+#税收改革计划因公众的漠不关心而成了一纸空文。
+
+despotic:
+    a despotic regime
+#专制统治
+    a despotic government
+#专制政府
+
+lank:
+    His lank greasy hair looked like it hadn't been washed for a month.
+#他的头发油腻腻的，毫无生气，好像一个月没洗了。
+
+outmaneuver:
+    They were outmaneuvered.
+#他们中计失败。
+
+epidermis:
+    the swollen epidermis
+#肿胀的表皮
+
+felon:
+    a felon blow
+#凶猛的一击
+
+ventriloquist:
+    He looked like a ventriloquist's dummy. 
+#他看上去像腹语术表演者用的人偶。
+
+maraud:
+    Witnesses reported gangs of marauding soldiers breaking into people's houses and setting fire to them.
+#目击者称数帮匪兵闯入民宅，焚烧民居。
+
+stouthearted:
+    Even the most stouthearted climbers have had to turn back half way up this mountain. 
+#使是最勇敢的登山者，这座山爬到半山腰也不得不折回。
+
+picayune:
+    a picayune amount
+#区区小数
+    He concentrated on picayune problems and missed the real hazards.
+#他关注琐细问题而看不见真正的危险所在。
+
+magenta:
+    a magenta carpet
+#紫红色的地毯
+
+rapids:
+    There are many rapids and falls on this part of the river, which make it difficult to navigate.
+#河的部分有许多急流和瀑布，很难航行。
+
+ciliate:
+    76 ciliate species were recorded.
+#共发现了76种浮游纤毛虫。
+
+recollection:
+    a thing beyond/past one's recollection
+#某人记不起的一件事
+    happy recollections of youth
+#对青年时代的愉快回忆
+    to the best of my recollection
+#如果我没记错的话
+    She did not seem to have any recollection of what had happened.
+#她好像一点也不记得所发生的事了。
+
+liquefy:
+    Gases liquefy under pressure.
+#气体受压液化。
+
+podiatrist:
+    While I'm waiting, I guess I could try to see the podiatrist about my feet. 
+#当我等着的时候，我想可以试着去找位足病医生看看我的脚。
+
+whet:
+    A brief extract of the novel has rather whetted my appetite for it.
+#那部小说的一段简短摘录激起了我对它的强烈兴趣。
+
+befuddle:
+    a mind befuddled with fatigue
+#因疲惫而混沌的头脑
+    He befuddled the public with campaign promises.
+#他用竞选时的许诺糊弄公众。
+
+environ:
+    The town was environed with/by woods.
+#这座小城为树林所环绕。
+
+dissociation:
+    the dissociation of church and state
+#政教分离
+
+pan:
+    a flash in the pan
+#昙花一现
+    The camera panned from her face to a middle-aged man.
+#摄像机的镜头从她的脸摇向一位中年男子。
+
+decentralize:
+    We decentralized our operations last year and opened several regional offices.
+#去年我们分散了业务，开放了几个地方办事处。
+
+salve:
+    a salve to one's hurt feelings
+#感情创伤的慰藉
+    salve one's conscience
+#宽慰自己的良心
+    The new agreement was intended to salve the wound of previous conflict.
+#新的协议旨在缓解以前冲突的创伤。
+
+pollster:
+    Soundings by opinion pollsters suggested widespread support for the proposal.
+#根据民意调查测定，这项建议获得了广泛的支持。
+
+excerpt:
+    excerpt passages from a book
+#从一本书中摘几段
+    He read several excerpts of the president's speech.
+#他阅读了总统发言中的几个段落。
+
+insouciance:
+    I admired his youthful insouciance.
+#我美慕他那种充满朝气的无忧无虑。
+
+bouffant:
+    a bouffant skirt
+#宽大的裙子
+
+lacerate:
+    The man's face was severely lacerated in the accident.
+#事故中那男人的脸被严重划伤。
+
+candidacy:
+    She is expected to announce officially her candidacy early next week.
+#预计她在下周早些时候将正式宣布成为候选人。
+
+jaundiced:
+    Sadly, the child developed a jaundiced view of personal relationships.
+#很遗憾，这孩子对人际关系形成了偏见。
+
+nefarious:
+    The company seemed to have been involved in some nefarious activities.
+#该公司看来卷入了卑鄙的活动。
+
+petitioner:
+    The petitioner demanded a retrial.
+#申请人要求重新审判。
+
+bouncing:
+    We've got two grandchildren -- a three-year-old girl and a bouncing baby boy.
+#我们已经有了两个孙辈——一个三岁的女孩和一个健壮的男婴。
+
+excursive:
+    excursive remarks
+#离题的话
+    an excursive conversation
+#闲聊
+
+potentiate:
+    A novelist's work may be potentiated by his experience of war and of suffering.
+#战争和苦难的经历有可能使小说家的作品变得更为深刻有力。
+
+mien:
+    have the mien of a soldier
+#军人风度
+    an aristocratic mien
+#贵族气质
+    She was very earnest of mien.
+#她的态度很诚恳。
+
+obtuse:
+    One's hearing often becomes obtuse in old age.
+#人到老年往往听觉变得不灵。
+
+gaff:
+    a fabric that can take a great deal of gaff
+#经久耐磨的纺织品
+
+bumble:
+    George seems to bumble along through life happily enough.
+#乔治似乎糊里糊涂地过看快乐的日子。
+
+emaciate:
+    There were pictures of emaciated families on the cover of the magazine..
+#杂志封面上是面黄肌瘦的几家人的照片。
+
+autocracy:
+    The battle against autocracy was won after years of struggle.
+#经过多年的努力，反对独裁的斗争获得了胜利。
+
+wigwag:
+    The signalman wigwagged the good news back to the mother ship.
+#信号员用旗语向母舰发回好消息。
+
+cherubic:
+    The children's cherubic pink faces smiled as they sang.
+#孩子们唱歌时，他们天使般粉红色的小脸蛋微笑着。
+
+svelte:
+    a svelte new sports car
+#时髦的新跑车
+    The boss wanted a svelte waitress.
+#老板想要一个身材苗条的女招待。
+
+agape:
+    set sb. agape
+#使某人目瞪口呆
+    with mouth agape in expectation of food
+#大张着嘴等着吃东西
+    The children were all agape with excitement.
+#孩子们全都兴奋得大张着嘴。
+
+mesmerism:
+    It was known as mesmerism.
+#它以催眠术著称。
+
+=======
+piscatorial:
+    The government is taking measures to promote piscatorial development. 
+#政府正在采取措施促进渔业发展。
+
+marsupial:
+    The book has pictures of marsupials.
+#书上附有有袋动物的图片。
+
+idolatrize:
+    He is a man who idolatrizes scientists.
+#他是一个崇拜科学家的人。
+
+gambol:
+    Her dogs gamboled round her.
+#她的几条狗围着她蹦蹦跳跳。
+
+rakish:
+    rakish clothes
+#不落俗套的衣着
+    rakish in manner
+#不拘小节的风格
+
+gangway:
+    His suitcase was blocking the gangway.
+#他的箱子把过道给堵住了。
+
+monumental:
+    a monumental inscription
+#碑志
+    a monumental tree
+#参天大树
+    a monumental victory
+#历史性的胜利
+    monumental ignorance
+#极端无知
+    a monumental task
+#重大任务
+    The steps are flanked by monumental sculptures.
+#台阶两侧是一座座巨大的雕像。
+
+gusher:
+    The oil rushes up the tube and spouts up as a gusher.
+#石油会沿着管道上涌，如同自喷井那样喷射出来。
+
+cumber:
+    rocks cumbering the yard
+#石头凌乱地堆满了院子
+    cumber the memory with trivial facts
+#满脑子琐事记不胜记
+    He was cumbered with heavy clothing.
+#他穿得过多行动不便。
+
+sublimate:
+    Hostile feelings and violent responses often seem to be sublimated into sporting activities.
+#敌对情绪和暴力反应似乎往往在体育运动中升华化解。
+
+myopic:
+    Their myopic refusal to act now will undoubtedly cause problems in the future.
+#他们目光短浅不愿现在行动，一定会后患无穷。
+
+serpentine:
+    a serpentine path through the garden
+#花园中一条弯弯曲曲的小径
+    serpentine cunning
+#恶魔般的狡诈
+    serpentine through the woods
+#蜿蜓穿过树林
+    We followed the serpentine course of the river.
+#我们沿着弯弯曲曲的河道行走。
+
+lump:
+    a lump of coal
+#一块煤
+    a lump of sugar
+#一小块方糖
+    a lump of money
+#大量的钱
+    The great lump of voters are still undecided.
+#大部分选民尚未打定主意。
+
+labile:
+    labile chemical solution
+#不稳定的化学溶液
+
+stultify:
+    The program of taxation reform was stultified by public indifference.
+#税收改革计划因公众的漠不关心而成了一纸空文。
+
+despotic:
+    a despotic regime
+#专制统治
+    a despotic government
+#专制政府
+
+lank:
+    His lank greasy hair looked like it hadn't been washed for a month.
+#他的头发油腻腻的，毫无生气，好像一个月没洗了。
+
+outmaneuver:
+    They were outmaneuvered.
+#他们中计失败。
+
+epidermis:
+    the swollen epidermis
+#肿胀的表皮
+
+felon:
+    a felon blow
+#凶猛的一击
+
+ventriloquist:
+    He looked like a ventriloquist's dummy. 
+#他看上去像腹语术表演者用的人偶。
+
+maraud:
+    Witnesses reported gangs of marauding soldiers breaking into people's houses and setting fire to them.
+#目击者称数帮匪兵闯入民宅，焚烧民居。
+
+stouthearted:
+    Even the most stouthearted climbers have had to turn back half way up this mountain. 
+#使是最勇敢的登山者，这座山爬到半山腰也不得不折回。
+
+picayune:
+    a picayune amount
+#区区小数
+    He concentrated on picayune problems and missed the real hazards.
+#他关注琐细问题而看不见真正的危险所在。
+
+magenta:
+    a magenta carpet
+#紫红色的地毯
+
+rapids:
+    There are many rapids and falls on this part of the river, which make it difficult to navigate.
+#河的部分有许多急流和瀑布，很难航行。
+
+ciliate:
+    76 ciliate species were recorded.
+#共发现了76种浮游纤毛虫。
+
+recollection:
+    a thing beyond/past one's recollection
+#某人记不起的一件事
+    happy recollections of youth
+#对青年时代的愉快回忆
+    to the best of my recollection
+#如果我没记错的话
+    She did not seem to have any recollection of what had happened.
+#她好像一点也不记得所发生的事了。
+
+liquefy:
+    Gases liquefy under pressure.
+#气体受压液化。
+
+podiatrist:
+    While I'm waiting, I guess I could try to see the podiatrist about my feet. 
+#当我等着的时候，我想可以试着去找位足病医生看看我的脚。
+
+whet:
+    A brief extract of the novel has rather whetted my appetite for it.
+#那部小说的一段简短摘录激起了我对它的强烈兴趣。
+
+befuddle:
+    a mind befuddled with fatigue
+#因疲惫而混沌的头脑
+    He befuddled the public with campaign promises.
+#他用竞选时的许诺糊弄公众。
+
+environ:
+    The town was environed with/by woods.
+#这座小城为树林所环绕。
+
+dissociation:
+    the dissociation of church and state
+#政教分离
+
+pan:
+    a flash in the pan
+#昙花一现
+    The camera panned from her face to a middle-aged man.
+#摄像机的镜头从她的脸摇向一位中年男子。
+
+decentralize:
+    We decentralized our operations last year and opened several regional offices.
+#去年我们分散了业务，开放了几个地方办事处。
+
+salve:
+    a salve to one's hurt feelings
+#感情创伤的慰藉
+    salve one's conscience
+#宽慰自己的良心
+    The new agreement was intended to salve the wound of previous conflict.
+#新的协议旨在缓解以前冲突的创伤。
+
+pollster:
+    Soundings by opinion pollsters suggested widespread support for the proposal.
+#根据民意调查测定，这项建议获得了广泛的支持。
+
+excerpt:
+    excerpt passages from a book
+#从一本书中摘几段
+    He read several excerpts of the president's speech.
+#他阅读了总统发言中的几个段落。
+
+insouciance:
+    I admired his youthful insouciance.
+#我美慕他那种充满朝气的无忧无虑。
+
+bouffant:
+    a bouffant skirt
+#宽大的裙子
+
+lacerate:
+    The man's face was severely lacerated in the accident.
+#事故中那男人的脸被严重划伤。
+
+candidacy:
+    She is expected to announce officially her candidacy early next week.
+#预计她在下周早些时候将正式宣布成为候选人。
+
+jaundiced:
+    Sadly, the child developed a jaundiced view of personal relationships.
+#很遗憾，这孩子对人际关系形成了偏见。
+
+nefarious:
+    The company seemed to have been involved in some nefarious activities.
+#该公司看来卷入了卑鄙的活动。
+
+petitioner:
+    The petitioner demanded a retrial.
+#申请人要求重新审判。
+
+bouncing:
+    We've got two grandchildren -- a three-year-old girl and a bouncing baby boy.
+#我们已经有了两个孙辈——一个三岁的女孩和一个健壮的男婴。
+
+excursive:
+    excursive remarks
+#离题的话
+    an excursive conversation
+#闲聊
+
+potentiate:
+    A novelist's work may be potentiated by his experience of war and of suffering.
+#战争和苦难的经历有可能使小说家的作品变得更为深刻有力。
+
+mien:
+    have the mien of a soldier
+#军人风度
+    an aristocratic mien
+#贵族气质
+    She was very earnest of mien.
+#她的态度很诚恳。
+
+obtuse:
+    One's hearing often becomes obtuse in old age.
+#人到老年往往听觉变得不灵。
+
+gaff:
+    a fabric that can take a great deal of gaff
+#经久耐磨的纺织品
+
+bumble:
+    George seems to bumble along through life happily enough.
+#乔治似乎糊里糊涂地过看快乐的日子。
+
+emaciate:
+    There were pictures of emaciated families on the cover of the magazine..
+#杂志封面上是面黄肌瘦的几家人的照片。
+
+autocracy:
+    The battle against autocracy was won after years of struggle.
+#经过多年的努力，反对独裁的斗争获得了胜利。
+
+wigwag:
+    The signalman wigwagged the good news back to the mother ship.
+#信号员用旗语向母舰发回好消息。
+
+cherubic:
+    The children's cherubic pink faces smiled as they sang.
+#孩子们唱歌时，他们天使般粉红色的小脸蛋微笑着。
+
+svelte:
+    a svelte new sports car
+#时髦的新跑车
+    The boss wanted a svelte waitress.
+#老板想要一个身材苗条的女招待。
+
+agape:
+    set sb. agape
+#使某人目瞪口呆
+    with mouth agape in expectation of food
+#大张着嘴等着吃东西
+    The children were all agape with excitement.
+#孩子们全都兴奋得大张着嘴。
+
+mesmerism:
+    It was known as mesmerism.
+#它以催眠术著称。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42
