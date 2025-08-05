@@ -1805,12 +1805,20 @@
     conda config --add channels https://mirrors.bfsu.edu.cn/anaconda/cloud/conda-forge/
     conda config --add channels https://mirrors.bfsu.edu.cn/anaconda/cloud/bioconda/
     conda config --set show_channel_urls yes
-
+    # remove 
+    conda config --remove channels https://mirrors.bfsu.edu.cn/anaconda/pkgs/main/
+    conda config --remove channels https://mirrors.bfsu.edu.cn/anaconda/cloud/conda-forge/
+    conda config --remove channels https://mirrors.bfsu.edu.cn/anaconda/cloud/bioconda/
+    
     # 下面这四行配置清华大学的conda的channel地址（首选北外，如果体验不好再换成清华）
     conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
     conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
     conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
     conda config --set show_channel_urls yes
+    # remove
+    conda config --remove channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+    conda config --remove channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
+    conda config --remove channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda/
 
     # 如果需要官方频道，可以添加下面这两行配置官网的channel地址（不推荐）
     conda config --add channels conda-forge
