@@ -1,0 +1,685 @@
+<<<<<<< HEAD
+barbarous:
+    a barbarous act/practice
+#残忍的行为，暴行
+    land on a barbarous coast
+#登上蛮荒的海岸
+    barbarous taste
+#低级趣味
+    barbarous habits
+#不文明的习惯
+    The barbarous treatment of the refugees is something that a civilized society should be ashamed of.
+#一个文明社会应为野蛮对待难民的行径感到羞耻。
+
+rocky:
+    feel a bit rocky on one's feet
+#双脚感到有些不稳
+    a small rocky island
+#岩石嶙岣的小岛
+    The desert road winds through rocky gorges and hills.
+#沙漠之路蜿蜓在布满岩石的峡谷和小山中。
+
+constructive:
+    constructive work
+#创造性工作
+    a constructive. engineer
+#建筑工程师
+    He didn't offer any constructive criticism -- just complained he didn't like it.
+#他没提出任何有用的批评——只是抱怨他不喜欢它。
+
+credulous:
+    be credulous of advertisements
+#轻信广告
+    He was a credulous fool to believe even half of what they promised.
+#即使他只相信他们承诺的一半也是个傻瓜。
+
+vitality:
+    be full of vitality
+#充满生机
+    an image of youth and vitality
+#青春焕发、朝气蓬勃的形象
+    Seed can preserve its vitality within several years.
+#种子在几年内都有生命力。
+
+protective:
+    form a protective wall
+#形成防护墙
+    a protective bay
+#避风港
+    Protective measures should be taken when travelers climb the mountain.
+#旅行者登山时应采取保护措施。
+
+assertion:
+    a mass of unfounded assertions
+#一大堆毫无根据的断言
+    make a bold assertion
+#做大胆的断言
+    assertion of human rights
+#维护人权
+    She could provide no evidence to build up her assertions.
+#她拿不出证据来支持自己的主张。
+
+intuitive:
+    an intuitive feeling
+#直觉感受
+    a great intuitive musician
+#伟大的天才音乐家
+
+extinction:
+    be hunted to extinction
+#被赶尽杀绝
+    the extinction of the fire
+#火的扑灭
+    Many species of plants and animals are in danger of extinction.
+#许多动植物的种属正面临着绝种的危险。
+
+irresistible:
+    an irresistible offer
+#无法拒绝的提议
+    an irresistible temptation
+#挡不住的诱惑
+    an irresistible urge to rush out
+#抑制不住的要冲出去的冲动
+    sing in one's irresistible voice
+#用令人陶醉的声音唱歌
+    She gave him one of those irresistible smiles and he just had to agree.
+#她对他妖媚一笑，他只好同意。
+
+tyrant:
+    He vowed to liberate his country from the tyrant.
+#他发誓要把他的国家从暴君手里解放出来。
+
+byproduct:
+    The material is often obtained as a byproduct during the separation of lead from rock.
+#在分离岩石和铅的过程中，往往会得到这种物质的副产品。
+
+ascent:
+    make a successful ascent of the mountain
+#成功地登上山
+    struggle up the slippery ascent
+#艰难地沿着滑溜溜的上坡路攀登
+    the sudden ascent of the elevator
+#电梯的突然上升
+    the theory of the ascent of man from the apes
+#关于从猿到人的进化学说
+    a steep ascent
+#陡峭的上坡路
+    The leader's ascent to power was rapid and unexpected.
+#这位领导人神速而出人意料地掌了权。
+
+buoyant:
+    in the buoyant air
+#在有浮力的空气中
+    in a buoyant mood
+#心情愉快
+    a buoyant material
+#浮力大的材料
+    He's striding with buoyant and easy steps.
+#他愉快轻松地阔步行进。
+
+hostility:
+    a slight look of hostility in one's eyes
+#某人眼里流露出的一丝敌意
+    a cessation of hostilities
+#停火
+    be greeted with hostility by conservatives
+#遭到保守党的反对
+
+resignation:
+    submit one's resignation
+#提交辞呈
+    have nothing for it but resignation
+#只能忍一忍
+
+appreciative:
+    an appreciative audience
+#有欣赏能力的观众
+    an appreciative letter
+#感谢信
+    be appreciative of the beautiful landscape
+#对美丽的景色十分欣赏
+    I'm very appreciative of all the support you've given me.
+#我十分感激你给予我的所有支持。
+
+paraphrase:
+    make a paraphrase of an English proverb
+#意译一则英语谚语
+    paraphrase the obscure sentence into a comprehensible one
+#将晦涩难懂的话释义得明白易懂
+    She paraphrased the passage in modern Chinese.
+#她用现代汉语将这个段落重新阐述了一下。
+
+myriad:
+    a myriad of years
+#千秋万代
+    myriads of sheep and cattle on the hillside
+#山坡上无数的牛羊
+    the myriad stars of the summer night
+#夏夜空中数不清的星星
+    myriads of insects/possibilities
+#无数的昆虫/可能性
+    Now myriads of bars and hotels are opening up along the coast.
+#当下，数不胜数的酒吧和旅馆沿海岸开张。
+
+distinctive:
+    the distinctive stripes of the zebra
+#斑马身上特征性的条纹
+    be distinctive of one's writing style
+#某人作品风格的特征
+
+reluctance:
+    She agreed to help us with much reluctance.
+#她很不情愿地答应帮助我们。
+
+unlikely:
+    an unlikely story
+#太真实的报道
+    an unlikely excuse
+#难以相信的借口
+    an unlikely-looking policeman
+#不太像警察
+    It is highly unlikely that computers will do away with the human brain.
+#计算机不见得会替代人脑。
+
+feign:
+    feign a headache
+#装头痛
+    feign (oneself) sick
+#装病
+    feign sb.'s laugh
+#模仿某人的笑
+    For the sake of politeness she responded to his remarks with feigned amusement.
+#出于礼貌，她对他的话假装很感兴趣。
+
+defensive:
+    defensive warfare
+#防御战
+    defensive weapons
+#防御性武器
+    a defensive force
+#防卫力量
+    on the defensive
+#防御，守势
+
+irrelevant:
+    These documents are largely irrelevant to the present investigation.
+#这些文件与目前的调查大都不相关。
+
+audible:
+    in an audible whisper
+#用听得见的低语声
+    The teacher spoke so quietly that he was barely audible at the back of the hall.
+#老师声音很低，在讲堂的后面几乎就听不见他的讲话。
+
+novice:
+    a novice at swimming
+#初学游泳者
+    a humble novice in the world of letters
+#文坛上的无名小卒
+    This is quite a difficult plant for novice gardeners to grow.
+#让园艺新手来培植这种植物是相当困难的。
+
+steadfast:
+    a steadfast opponent
+#坚定的反对者
+    a steadfast friend
+#忠实的朋友
+    be steadfast to principles
+#坚定不移的格守法则
+    steadfast loyalty
+#忠贞不二
+    a house steadfast in the storm
+#在暴风雨中非常稳固的房子
+    the steadfast doctrine
+#不容更改的教义
+    The group remained steadfast in its support for the new system.
+#该团体始终坚定不移地支持新的体制。
+
+informal:
+    an informal meeting
+#非正式会议
+    an informal talk
+#非正式会谈
+    an informal person
+#不拘礼节的人
+    wear informal dress
+#穿便服
+    informal spoken English
+#日常使用的英语口语
+    Journalists often pick up information in informal situations such as in bars and clubs.
+#记者常在酒吧及俱乐部等一些非正式场合搜集信息。
+
+convertible:
+    convertible into a sofa
+#改成沙发
+    convertible currency
+#可兑换货币
+    have a quick convertible talent
+#思维敏捷
+    The bonds are convertible into ordinary shares.
+#债券可兑换为普通股。
+
+impartial:
+    totally impartial advice
+#丝毫不带偏见的建议
+    an impartial evaluation
+#公平的评价
+
+infrared:
+    an infrared camera
+#红外线相机
+    infrared radiation
+#红外线辐射
+
+relevance:
+    have no relevance
+#与……无关
+    The incident has no relevance to them, even though they were present then.
+#这件事与他们不相关，即使当时他们在场。
+
+descriptive:
+    descriptive writing
+#描写
+    a descriptive account of what happened
+#对所发生的事情的描述
+    In the exam we had to write one descriptive essay and one discussion essay.
+#我们得在考试中写一篇描述性散文和一篇论述性散文。
+
+scarlet:
+    scarlet fever
+#猩红热
+    He went scarlet with shame and embarrassment.
+#他因羞愧和窘迫而脸色绯红。
+
+postulate:
+    Scientists have postulated a missing link to account for the development of human beings from apes.
+#科学家们假设了一种过渡动物来解释从猿到人的演化过程。
+
+viral:
+    It is very difficult to produce effective anti-viral drugs.
+#要想制造有效的抗病毒药品很困难。
+
+spheric(al):
+    The Earth is not perfectly spheric.
+#地球不完全是球形的。
+
+confound:
+    be confounded by the complicated directions
+#被复杂的用法说明弄糊涂
+    be confounded by the violence of the storm
+#被暴风雨的肆虐吓得惊慌失措
+    confound public affairs with private ones
+#公私不分
+    He was confounded by incessant noise, crowds and hurry.
+#他被那接连不断的噪声、行色匆匆熙熙攘攘的人群搅得心烦意乱。
+
+fret:
+    fret about /over small matters
+#为小事而不安
+    water fretting over the stones of a brook
+#溪水荡过岩石而产生的水花
+    fret oneself ill/sick
+#急出病来
+    a knife fretted with rust
+#生锈的小刀
+    fret one's health away
+#渐渐损害某人的健康
+    fret a hole
+#咬出一个洞
+    in a fret
+#处于焦虑中
+    He's fretting that he's going to fail his exams.
+#他担心自己会考试不及格而烦躁不安。
+    The sky was fretted with colorful clouds.
+#天空中布满了五色彩云。
+
+reciprocate:
+    reciprocate one's good wishes
+#答谢某人的美好祝愿
+    We invited them to dinner and a week later they reciprocated.
+#我们请他们吃饭，一星期后他们回请了我们。
+
+
+=======
+barbarous:
+    a barbarous act/practice
+#残忍的行为，暴行
+    land on a barbarous coast
+#登上蛮荒的海岸
+    barbarous taste
+#低级趣味
+    barbarous habits
+#不文明的习惯
+    The barbarous treatment of the refugees is something that a civilized society should be ashamed of.
+#一个文明社会应为野蛮对待难民的行径感到羞耻。
+
+rocky:
+    feel a bit rocky on one's feet
+#双脚感到有些不稳
+    a small rocky island
+#岩石嶙岣的小岛
+    The desert road winds through rocky gorges and hills.
+#沙漠之路蜿蜓在布满岩石的峡谷和小山中。
+
+constructive:
+    constructive work
+#创造性工作
+    a constructive. engineer
+#建筑工程师
+    He didn't offer any constructive criticism -- just complained he didn't like it.
+#他没提出任何有用的批评——只是抱怨他不喜欢它。
+
+credulous:
+    be credulous of advertisements
+#轻信广告
+    He was a credulous fool to believe even half of what they promised.
+#即使他只相信他们承诺的一半也是个傻瓜。
+
+vitality:
+    be full of vitality
+#充满生机
+    an image of youth and vitality
+#青春焕发、朝气蓬勃的形象
+    Seed can preserve its vitality within several years.
+#种子在几年内都有生命力。
+
+protective:
+    form a protective wall
+#形成防护墙
+    a protective bay
+#避风港
+    Protective measures should be taken when travelers climb the mountain.
+#旅行者登山时应采取保护措施。
+
+assertion:
+    a mass of unfounded assertions
+#一大堆毫无根据的断言
+    make a bold assertion
+#做大胆的断言
+    assertion of human rights
+#维护人权
+    She could provide no evidence to build up her assertions.
+#她拿不出证据来支持自己的主张。
+
+intuitive:
+    an intuitive feeling
+#直觉感受
+    a great intuitive musician
+#伟大的天才音乐家
+
+extinction:
+    be hunted to extinction
+#被赶尽杀绝
+    the extinction of the fire
+#火的扑灭
+    Many species of plants and animals are in danger of extinction.
+#许多动植物的种属正面临着绝种的危险。
+
+irresistible:
+    an irresistible offer
+#无法拒绝的提议
+    an irresistible temptation
+#挡不住的诱惑
+    an irresistible urge to rush out
+#抑制不住的要冲出去的冲动
+    sing in one's irresistible voice
+#用令人陶醉的声音唱歌
+    She gave him one of those irresistible smiles and he just had to agree.
+#她对他妖媚一笑，他只好同意。
+
+tyrant:
+    He vowed to liberate his country from the tyrant.
+#他发誓要把他的国家从暴君手里解放出来。
+
+byproduct:
+    The material is often obtained as a byproduct during the separation of lead from rock.
+#在分离岩石和铅的过程中，往往会得到这种物质的副产品。
+
+ascent:
+    make a successful ascent of the mountain
+#成功地登上山
+    struggle up the slippery ascent
+#艰难地沿着滑溜溜的上坡路攀登
+    the sudden ascent of the elevator
+#电梯的突然上升
+    the theory of the ascent of man from the apes
+#关于从猿到人的进化学说
+    a steep ascent
+#陡峭的上坡路
+    The leader's ascent to power was rapid and unexpected.
+#这位领导人神速而出人意料地掌了权。
+
+buoyant:
+    in the buoyant air
+#在有浮力的空气中
+    in a buoyant mood
+#心情愉快
+    a buoyant material
+#浮力大的材料
+    He's striding with buoyant and easy steps.
+#他愉快轻松地阔步行进。
+
+hostility:
+    a slight look of hostility in one's eyes
+#某人眼里流露出的一丝敌意
+    a cessation of hostilities
+#停火
+    be greeted with hostility by conservatives
+#遭到保守党的反对
+
+resignation:
+    submit one's resignation
+#提交辞呈
+    have nothing for it but resignation
+#只能忍一忍
+
+appreciative:
+    an appreciative audience
+#有欣赏能力的观众
+    an appreciative letter
+#感谢信
+    be appreciative of the beautiful landscape
+#对美丽的景色十分欣赏
+    I'm very appreciative of all the support you've given me.
+#我十分感激你给予我的所有支持。
+
+paraphrase:
+    make a paraphrase of an English proverb
+#意译一则英语谚语
+    paraphrase the obscure sentence into a comprehensible one
+#将晦涩难懂的话释义得明白易懂
+    She paraphrased the passage in modern Chinese.
+#她用现代汉语将这个段落重新阐述了一下。
+
+myriad:
+    a myriad of years
+#千秋万代
+    myriads of sheep and cattle on the hillside
+#山坡上无数的牛羊
+    the myriad stars of the summer night
+#夏夜空中数不清的星星
+    myriads of insects/possibilities
+#无数的昆虫/可能性
+    Now myriads of bars and hotels are opening up along the coast.
+#当下，数不胜数的酒吧和旅馆沿海岸开张。
+
+distinctive:
+    the distinctive stripes of the zebra
+#斑马身上特征性的条纹
+    be distinctive of one's writing style
+#某人作品风格的特征
+
+reluctance:
+    She agreed to help us with much reluctance.
+#她很不情愿地答应帮助我们。
+
+unlikely:
+    an unlikely story
+#太真实的报道
+    an unlikely excuse
+#难以相信的借口
+    an unlikely-looking policeman
+#不太像警察
+    It is highly unlikely that computers will do away with the human brain.
+#计算机不见得会替代人脑。
+
+feign:
+    feign a headache
+#装头痛
+    feign (oneself) sick
+#装病
+    feign sb.'s laugh
+#模仿某人的笑
+    For the sake of politeness she responded to his remarks with feigned amusement.
+#出于礼貌，她对他的话假装很感兴趣。
+
+defensive:
+    defensive warfare
+#防御战
+    defensive weapons
+#防御性武器
+    a defensive force
+#防卫力量
+    on the defensive
+#防御，守势
+
+irrelevant:
+    These documents are largely irrelevant to the present investigation.
+#这些文件与目前的调查大都不相关。
+
+audible:
+    in an audible whisper
+#用听得见的低语声
+    The teacher spoke so quietly that he was barely audible at the back of the hall.
+#老师声音很低，在讲堂的后面几乎就听不见他的讲话。
+
+novice:
+    a novice at swimming
+#初学游泳者
+    a humble novice in the world of letters
+#文坛上的无名小卒
+    This is quite a difficult plant for novice gardeners to grow.
+#让园艺新手来培植这种植物是相当困难的。
+
+steadfast:
+    a steadfast opponent
+#坚定的反对者
+    a steadfast friend
+#忠实的朋友
+    be steadfast to principles
+#坚定不移的格守法则
+    steadfast loyalty
+#忠贞不二
+    a house steadfast in the storm
+#在暴风雨中非常稳固的房子
+    the steadfast doctrine
+#不容更改的教义
+    The group remained steadfast in its support for the new system.
+#该团体始终坚定不移地支持新的体制。
+
+informal:
+    an informal meeting
+#非正式会议
+    an informal talk
+#非正式会谈
+    an informal person
+#不拘礼节的人
+    wear informal dress
+#穿便服
+    informal spoken English
+#日常使用的英语口语
+    Journalists often pick up information in informal situations such as in bars and clubs.
+#记者常在酒吧及俱乐部等一些非正式场合搜集信息。
+
+convertible:
+    convertible into a sofa
+#改成沙发
+    convertible currency
+#可兑换货币
+    have a quick convertible talent
+#思维敏捷
+    The bonds are convertible into ordinary shares.
+#债券可兑换为普通股。
+
+impartial:
+    totally impartial advice
+#丝毫不带偏见的建议
+    an impartial evaluation
+#公平的评价
+
+infrared:
+    an infrared camera
+#红外线相机
+    infrared radiation
+#红外线辐射
+
+relevance:
+    have no relevance
+#与……无关
+    The incident has no relevance to them, even though they were present then.
+#这件事与他们不相关，即使当时他们在场。
+
+descriptive:
+    descriptive writing
+#描写
+    a descriptive account of what happened
+#对所发生的事情的描述
+    In the exam we had to write one descriptive essay and one discussion essay.
+#我们得在考试中写一篇描述性散文和一篇论述性散文。
+
+scarlet:
+    scarlet fever
+#猩红热
+    He went scarlet with shame and embarrassment.
+#他因羞愧和窘迫而脸色绯红。
+
+postulate:
+    Scientists have postulated a missing link to account for the development of human beings from apes.
+#科学家们假设了一种过渡动物来解释从猿到人的演化过程。
+
+viral:
+    It is very difficult to produce effective anti-viral drugs.
+#要想制造有效的抗病毒药品很困难。
+
+spheric(al):
+    The Earth is not perfectly spheric.
+#地球不完全是球形的。
+
+confound:
+    be confounded by the complicated directions
+#被复杂的用法说明弄糊涂
+    be confounded by the violence of the storm
+#被暴风雨的肆虐吓得惊慌失措
+    confound public affairs with private ones
+#公私不分
+    He was confounded by incessant noise, crowds and hurry.
+#他被那接连不断的噪声、行色匆匆熙熙攘攘的人群搅得心烦意乱。
+
+fret:
+    fret about /over small matters
+#为小事而不安
+    water fretting over the stones of a brook
+#溪水荡过岩石而产生的水花
+    fret oneself ill/sick
+#急出病来
+    a knife fretted with rust
+#生锈的小刀
+    fret one's health away
+#渐渐损害某人的健康
+    fret a hole
+#咬出一个洞
+    in a fret
+#处于焦虑中
+    He's fretting that he's going to fail his exams.
+#他担心自己会考试不及格而烦躁不安。
+    The sky was fretted with colorful clouds.
+#天空中布满了五色彩云。
+
+reciprocate:
+    reciprocate one's good wishes
+#答谢某人的美好祝愿
+    We invited them to dinner and a week later they reciprocated.
+#我们请他们吃饭，一星期后他们回请了我们。
+
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,817 @@
+<<<<<<< HEAD
+sangfroid: 英[sɒŋˈfrwɑː] 美[sɑːŋˈfrwɑː]
+%n. 沉着；冷静
+    She showed great sangfroid in dealing with the panic-stricken audience.
+#在与惊慌失措的听众打交道时，她表现出异常的冷静。
+
+realign: 英[ˌriːəˈlaɪn] 美[ˌriːəˈlaɪn]
+%vi. 重新排列；再结盟；改组；重组
+    The political parties have realigned themselves.
+#各政党已重新结盟。
+
+mendacious: 英[menˈdeɪʃəs] 美[menˈdeɪʃəs]
+%adj. 虚假的；说谎的
+    a mendacious report
+#虚假的报道
+    a mendacious rumor
+#一个虚假的谣言
+
+debrief: 英[ˌdiːˈbriːf] 美[ˌdiːˈbriːf]
+$v. 盘问（某人，尤指士兵或间谍）；述职；听取报告
+%n. 盘问，询问
+    He was debriefed by intelligence officers.
+#他受到情报官员的盘问。
+
+canonical: 英[kəˈnɒnɪk(ə)l] 美[kəˈnɑːnɪkl]
+%adj. 根据教规的，按照宗教法规的；真经的，正经的；标准的，典范的；准确的，权威的；公认的，依据科学法则的；（数学表达式）最简洁的；（与）公理（或标准公式）（有关）的；（与）教会（或教士）（有关）的
+    a canonical report
+#权威的报道
+
+miff: 英[mɪf] 美[mɪf]
+$n. 微怒；小争执
+$vt. 使……恼怒
+%vi. 恼羞成怒
+    A miff rose between them.
+#他们为鸡毛蒜皮的事吵了起来。
+
+purse: 英[pɜːs] 美[pɜːrs]
+$n. <英>钱包，皮夹子（尤指女用的）；<美>（女用）手提包，手袋；资金，财源；（体育竞赛中的）奖金
+%v. 噘嘴，撮起嘴唇（以表示反对等）
+    make up a purse for the orphans
+#为孤儿募集捐款
+    a heavy/fat purse
+#富裕
+    a light/lean purse
+#拮据，贫穷
+    Her lips pursed a little.
+#她的嘴唇微微撅起。
+
+pendulous: 英[ˈpendjələs] 美[ˈpendʒələs]
+%adj. 下垂的，悬垂的；摇摆的
+    pendulous blossoms
+#低垂的花朵
+    a stout, gloomy man with a pendulous lower lip
+#下唇松垂、一脸阴郁的胖男人
+
+extremist: 英[ɪkˈstriːmɪst] 美[ɪkˈstriːmɪst]
+%n. 极端主义者，过激分子
+    a group of extremists
+#一群极端主义者
+
+tiff: 英[tɪf] 美[tɪf]
+$n. 争执，拌嘴，口角
+%n. （TIFF）Toronto International Film Festival，2017年多伦多国际影展
+    They had a slight tiff over whose turn it was to clean the floor.
+#他们为轮到谁来打扫地板的问题发生了口角。
+
+pander: 英[ˈpændə(r)] 美[ˈpændər]
+$vi. 迎合；勾引；怂恿；拉皮条
+$n. 怂恿者；拉皮条者；老鸨
+$vt. 为……拉皮条
+%n. （Pander）人名；（德、俄）潘德尔
+    These are the books that don't pander to popular taste.
+#这些不是迎合大众口味的书籍。
+
+importune: 英[ˌɪmpɔːˈtjuːn] 美[ˌɪmpɔːrˈtuːn]
+%v. 再三要求，纠缠； （指妓女或男妓）招揽（客人）
+    One can no longer walk the streets without seeing beggars importuning passers-by.
+#走在这些街道上总能看到乞丐纠缠行人乞讨。
+
+squalor: 英[ˈskwɒlə(r)] 美[ˈskwɑːlər]
+%n. 肮脏；悲惨；卑劣；道德败坏
+    He was out of work, living in squalor.
+#他失业了，过着邋遏不堪的生活。
+
+muggy: 英[ˈmʌɡi] 美[ˈmʌɡi]
+%adj. 闷热的；潮湿的
+    a muggy August day
+#八月里闷热的一天
+    The air was growing increasingly muggy.
+#空气越来越闷热了。
+
+fluvial: 英[ˈfluːviəl] 美[ˈfluːviəl]
+%adj. 河流的；生在河中的；河流冲刷形成的
+    fluvial navigation
+#在河上上航行
+    fluvial plants
+#河生植物
+
+substratum: 英[ˈsʌbstrɑːtəm] 美[ˈsʌbstreɪtəm]
+%n. 基础；根据；下层
+    a substratum of clay beneath the sandy soil
+#沙土底下的黏土层
+
+madrigal: 英[ˈmædrɪɡ(ə)l] 美[ˈmædrɪɡ(ə)l]
+$n. 情歌；小曲
+%n. （Madrigal）人名；（西）马德里加尔
+    He composed some madrigals for young boys and girls.
+#他为少男少女们创作了一些抒情短诗。
+
+fealty: 英[ˈfiːəlti] 美[ˈfiːəlti]
+%n. 忠诚；忠实
+    do/make/swear fealty to one's lord
+#向主人宣誓效忠
+    swear fealty to liberty
+#发誓效忠自由
+
+pleonastic: 英[ˌpliːəˈnæstɪk] 美[ˌpliːəˈnæstɪk]
+%adj. 重复的，冗言的
+    "A tiny little child" is pleonastic.
+#“很小的小孩”这种说法就是赘述。
+
+peeve: 英[piːv] 美[piːv]
+$v. 惹恼；（使）恼怒
+%n. 惹人生气的原因
+    be in a peeve over sth.
+#为某事而气恼
+    Every time he got himself into a peeve, he took it out on us.
+#他每次生气总是把气出在我们头上。
+
+lucubrate: 英[ˈluːkjʊˌbreɪt] 美[ˈluːkəˌbreɪt]
+%vi. 深入研究；刻苦用功；专心著作
+    He began to lucubrate in his forties.
+#他四十多岁时开始研究学问。
+
+inspissate: 英[ɪnˈspɪseɪt] 美[ɪnˈspɪseɪt]
+%v. （以蒸发）使浓缩；使凝结
+    It inspissated the gloom of the museum atmosphere.
+#这使博物馆的阴郁气氛更为浓厚。
+
+bromide: 英[ˈbrəʊmaɪd] 美[ˈbroʊmaɪd]
+%n. [无化] 溴化物；庸俗的人；陈词滥调
+    She took some bromide to calm her nerves.
+#她服用一些镇静剂来松弛神经。
+
+turgid: 英[ˈtɜːdʒɪd] 美[ˈtɜːrdʒɪd]
+%adj. 肿胀的；浮夸的；浮肿的
+    turgid limbs
+#肿胀的四肢
+    His writing style is rather turgid.
+#他的文体相当浮夸。
+
+pervious: 英[ˈpɜːvɪəs] 美[ˈpɜːrvɪəs]
+%adj. 能被通过的；能接受的；可渗透的
+    be pervious to light
+#透光
+    He is narrow-minded and not pervious to our suggestions.
+#他胸襟狭窄，不能接受我们的建议。
+
+volition: 英[vəˈlɪʃ(ə)n] 美[voʊˈlɪʃ(ə)n]
+%n. 意志，意志力；决断力
+    She left on her own volition.
+#她是自愿离开的。
+
+pertinacious: 英[ˌpɜːtɪˈneɪʃəs] 美[ˌpɜːrt(ə)nˈeɪʃəs]
+%adj. 顽固的；执拗的
+    He was pertinacious in his resolve to study medicine.
+#他毅然决定学医。
+
+badinage: 英[ˈbædɪnɑːʒ] 美[ˌbæd(ə)nˈɑːʒ]
+$n. 开玩笑；嘲弄，揶揄
+%vt. 打趣
+    the cheerful exchange of badinage
+#高高兴兴地互说笑话逗趣
+
+infelicitous: 英[ɪnfɪˈlɪsɪtəs] 美[ˌɪnfəˈlɪsətəs]
+%adj. 不幸的；不适当的；不吉利的
+    infelicitous marriage
+#不幸的婚姻
+    an infelicitous phrase
+#不恰当的言辞
+    The essay was written in an infelicitous style.
+#是一篇用不恰当的笔调写的散文。
+
+draggy: 英[ˈdræɡi] 美[ˈdræɡi]
+%adj. 拖拉的；极为讨厌的；呆滞的
+    draggy sales
+#滞销
+    a draggy plan
+#拖沓的计划
+    a draggy summer
+#令人厌烦的夏天
+
+slog: 英[slɒɡ] 美[slɑːɡ]
+$v. （一段时间）艰苦地干；步履艰难地行进；（尤指拳击或板球中）猛击
+%n. 一段时间的艰苦努力；（尤指板球）猛击；长途跋涉
+    slog sb. over the head
+#猛击某人的头部
+    slog through the mud
+#难地走过泥沼
+    slog up mountain slopes
+#吃力地爬上山坡
+    He has been slogging away at the business for 20 years.
+#他不辞辛劳地经营这项事业已达20年之久。
+
+enrapture: 英[ɪnˈræptʃə(r)] 美[ɪnˈræptʃər]
+%vt. 使狂喜；使着迷
+    The audience was enraptured by the young soloist's performance.
+#那位年轻独奏家的表演使观众欣喜若狂。
+
+overbearing: 英[ˌəʊvəˈbeərɪŋ] 美[ˌoʊvərˈberɪŋ]
+$v. 压倒；击败；控制；专横对待（overbear 的现在分词）
+%adj. 专横的，傲慢的；压倒一切的
+    His childhood was marked by an overbearing mother and a distant father.
+#他童年生活的特点是母亲专横，父亲疏远。
+
+lowbred: 英[ˈləʊbred] 美[ˈloʊbred]
+%adj. 没礼貌的；未受过好教育的
+    lowbred staff
+#没有教养的员工
+
+expostulate: 英[ɪkˈspɒstʃuleɪt] 美[ɪkˈspɑːstʃəleɪt]
+%vi. 劝诫，告诫；忠告
+    expostulate with sb. about the evils of gambling
+#告诚某人赌博的害处
+    It's useless to expostulate with such a stubborn man.
+#规劝这种固执的人是没有用的。
+
+spoilsport: 英[ˈspɔɪlspɔːt] 美[ˈspɔɪlspɔːrt]
+%n. （尤指拒绝参加活动的）扫兴的人
+    What a spoilsport!
+#真是个扫兴的人!
+
+controvert: 英[ˌkɒntrəˈvɜːt] 美[ˈkɑːntrəvɜːrt]
+%v. 否认，驳斥；就……展开争论
+    a problem much controverted between them
+#他们之间争议颇多的问题
+
+conundrum: 英[kəˈnʌndrəm] 美[kəˈnʌndrəm]
+%n. 令人迷惑的难题；（尤指答案中含双关语的）谜语
+    pose a major conundrum
+#提出一个大难题
+    in conundrum situations
+#在杂困难的局面中
+
+credo: 英[ˈkriːdəʊ] 美[ˈkriːdoʊ]
+%n. 信条，教义
+    the credo of the westerners
+#西方人的信条
+
+ebullience: 英[ɪˈbʌliəns] 美[ɪˈbʌliənsˌɪˈbʊliəns]
+%n. 奔放；兴高采烈；沸腾；冒泡
+    He was in a state of ebullience.
+#他情绪激昂
+
+persiflage: 英[ˈpɜːsɪflɑːʒ] 美[ˈpɜːrsɪflɑːʒ]
+%n. 挖苦；嘲弄；戏谑
+    the persiflage of the colleagues
+#同事的挖苦
+
+abjure: 英[əbˈdʒʊə(r)] 美[əbˈdʒʊr]
+%vt. 发誓放弃；公开放弃；避免
+    abjure one's beliefs
+#放弃信仰
+    abjure extravagance
+#改掉铺张恶习
+
+orotund: 英[ˈɒrətʌnd] 美[ˈɔːrətʌnd]
+%adj. 夸大的；做作的；朗朗的
+    orotund talk
+#夸夸其谈
+
+hurtle: 英[ˈhɜːt(ə)l] 美[ˈhɜːrt(ə)l]
+$vi. 猛冲；猛烈碰撞
+$vt. 猛投；冲向
+%n. 碰撞；猛冲
+    a highspeed train hurtling past
+#疾驰而过的高速火车
+    He was hurtling along a country road on a horse.
+#他骑着马在乡间小路上飞驰。
+
+polymath: 英[ˈpɒlimæθ] 美[ˈpɑːlimæθ]
+$n. 博学的人
+%adj. 博学的
+    He has a polymath acquaintance with late renaissance scholarship.
+#他对文艺复兴后期的学术研究了如指掌。
+
+covenant: 英[ˈkʌvənənt] 美[ˈkʌvənənt]
+$n. 盟约，契约；协议，盖印合同（尤指向慈善机构定期捐款）；（上帝与人所立的）约
+%v. 立约，立约同意；通过立约定期（给慈善机构等）捐（款）
+    The rival nations signed a covenant to reduce their armaments.
+#敌对国家签署了削减军备的条约。
+
+obverse: 英[ˈɒbvɜːs] 美[ˈɑːbvɜːrs]
+$n. 正面；对立面；主要的一面
+%adj. 正面的；[植] 倒转的；对应面的
+    the obverse of a statue
+#雕像的正面
+    His dominance in television and film amounts to a cultural power, which is the obverse side to his political power.
+#他在电影和电视行业的统治地位形成了一种文化力量，这与他的政治势力相对应。
+
+ravel: 英[ˈræv(ə)l] 美[ˈræv(ə)l]
+$vi. 使更复杂
+$n. 纠结，纠缠；一团乱麻；串，簇；复杂
+%n. (Ravel) （法、美、英）拉威尔（人名）
+    ravel (out) the edge of cloth
+#把布边拆散
+    The difficulty will soon ravel out.
+#困难很快就会解决。
+
+bumptious: 英[ˈbʌmpʃəs] 美[ˈbʌmpʃəs]
+%adj. 傲慢的；瞎自夸的
+    There are some jobs in which a bumptious young man like that should be very successful.
+#像那样傲慢的年轻人做有些工作应该会很成功。
+
+affiliation: 英[əˌfɪliˈeɪʃ(ə)n] 美[əˌfɪliˈeɪʃ(ə)n]
+%n. （与政治、宗教等组织的）联系，从属关系；加盟，加入
+    a loose affiliation of tribes
+#部落间的松散联系
+    Their hospital has an affiliation with the medical college.
+#他们的医院附属于这所医学院。
+
+artifact: 英[ˈɑːtɪfækt] 美[ˈɑːrtɪfækt]
+%n. （尤指有文化价值或历史价值的）人工制品，历史文物；非自然存在物体，假象（=artefact）
+    make an ingenious artifact
+#制作精巧的手工艺品
+
+ensnare: 英[ɪnˈsneə(r)] 美[ɪnˈsner]
+%vt. 诱捕；诱入陷阱；进入罗网
+    be ensnared by lies
+#受谎言欺骗而上当
+    Spiders ensnare flies and other insects in their webs.
+#蜘蛛在网上诱捕苍蝇和其他昆虫。
+
+guffaw: 英[ɡəˈfɔː] 美[ɡəˈfɔː]
+$n. 哄笑；狂笑
+$vi. 哄笑
+%vt. 大笑着说
+    burst out into a guffaw
+#发出一阵狂笑
+    guffaw one's satisfaction
+#大笑着表示满意
+
+bracing: 英[ˈbreɪsɪŋ] 美[ˈbreɪsɪŋ]
+$adj. 令人振奋的，凉爽的；支撑的
+$n. 支撑，支柱；背带
+%v. 绷紧，顶住（brace 的现在分词）
+    a bracing breeze
+#清爽的微风
+    We took a bracing walk on the beach after supper.
+#晚饭后我们到沙滩上惬意地散步。
+
+justification: 英[ˌdʒʌstɪfɪˈkeɪʃ(ə)n] 美[ˌdʒʌstɪfɪˈkeɪʃ(ə)n]
+%n. 正当理由，合理解释；证明为正当，辩护；齐行，整版；（上帝眼中的）称义
+    You have no justification for criticizing her in that way.
+#你没有理由那样批评她。
+
+suavity: 英[ˈswɑːvəti] 美[ˈswɑːvəti]
+%n. 柔和，温和；愉快
+    reply with slow suavity
+#慢条斯理文绉绉地回答
+    The music was performed with great suavity.
+#演奏的音乐十分悦耳。
+
+demolition: 英[ˌdeməˈlɪʃ(ə)n] 美[ˌdeməˈlɪʃ(ə)n]
+%n. （故意的）拆毁，毁坏；<非正式>大败
+    the demolition of the building
+#建筑物的拆毁
+    a demolition group
+#爆破小组
+
+violet: 英[ˈvaɪələt] 美[ˈvaɪələt]
+$n. 紫罗兰，堇菜；蓝紫色，紫罗兰色
+%adj. 紫色的，紫罗兰色的
+    the violet sunset
+#紫色的晚霞
+
+choosy: 英[ˈtʃuːzi] 美[ˈtʃuːzi]
+%adj. 挑剔的，过分讲究的
+    Air passengers are becoming more choosy about where they sit.
+#飞机乘客对座位的选择越来越挑剔。
+
+jejune: 英[dʒɪˈdʒuːn] 美[dʒɪˈdʒuːn]
+%adj. 枯燥无味的；幼稚的；缺乏营养的
+    a jejune diet
+#缺乏营养的饮食
+    jejune remarks about the world affairs
+#对世界事务乏味的评论
+    His lectures seemed jejune.
+#他的演讲平淡无味。
+
+infraction: 英[ɪnˈfrækʃn] 美[ɪnˈfrækʃ(ə)n]
+%n. 犯规，违法行为；（对法律、协定的）违背，违犯
+    infraction of a treaty
+#违反条约
+    infraction of disciplines
+#违反纪律
+
+peckish: 英[ˈpekɪʃ] 美[ˈpekɪʃ]
+%adj. 饥饿的；急躁的
+    feel peckish
+#觉得有点饿
+
+decamp: 英[dɪˈkæmp] 美[dɪˈkæmp]
+$vi. 撤营；逃走；逃亡
+%n. （Decamp）人名；（法）德康；（英）德坎普
+    The accountant decamped with the money.
+#会计携款潜逃了。
+
+=======
+sangfroid: 英[sɒŋˈfrwɑː] 美[sɑːŋˈfrwɑː]
+%n. 沉着；冷静
+    She showed great sangfroid in dealing with the panic-stricken audience.
+#在与惊慌失措的听众打交道时，她表现出异常的冷静。
+
+realign: 英[ˌriːəˈlaɪn] 美[ˌriːəˈlaɪn]
+%vi. 重新排列；再结盟；改组；重组
+    The political parties have realigned themselves.
+#各政党已重新结盟。
+
+mendacious: 英[menˈdeɪʃəs] 美[menˈdeɪʃəs]
+%adj. 虚假的；说谎的
+    a mendacious report
+#虚假的报道
+    a mendacious rumor
+#一个虚假的谣言
+
+debrief: 英[ˌdiːˈbriːf] 美[ˌdiːˈbriːf]
+$v. 盘问（某人，尤指士兵或间谍）；述职；听取报告
+%n. 盘问，询问
+    He was debriefed by intelligence officers.
+#他受到情报官员的盘问。
+
+canonical: 英[kəˈnɒnɪk(ə)l] 美[kəˈnɑːnɪkl]
+%adj. 根据教规的，按照宗教法规的；真经的，正经的；标准的，典范的；准确的，权威的；公认的，依据科学法则的；（数学表达式）最简洁的；（与）公理（或标准公式）（有关）的；（与）教会（或教士）（有关）的
+    a canonical report
+#权威的报道
+
+miff: 英[mɪf] 美[mɪf]
+$n. 微怒；小争执
+$vt. 使……恼怒
+%vi. 恼羞成怒
+    A miff rose between them.
+#他们为鸡毛蒜皮的事吵了起来。
+
+purse: 英[pɜːs] 美[pɜːrs]
+$n. <英>钱包，皮夹子（尤指女用的）；<美>（女用）手提包，手袋；资金，财源；（体育竞赛中的）奖金
+%v. 噘嘴，撮起嘴唇（以表示反对等）
+    make up a purse for the orphans
+#为孤儿募集捐款
+    a heavy/fat purse
+#富裕
+    a light/lean purse
+#拮据，贫穷
+    Her lips pursed a little.
+#她的嘴唇微微撅起。
+
+pendulous: 英[ˈpendjələs] 美[ˈpendʒələs]
+%adj. 下垂的，悬垂的；摇摆的
+    pendulous blossoms
+#低垂的花朵
+    a stout, gloomy man with a pendulous lower lip
+#下唇松垂、一脸阴郁的胖男人
+
+extremist: 英[ɪkˈstriːmɪst] 美[ɪkˈstriːmɪst]
+%n. 极端主义者，过激分子
+    a group of extremists
+#一群极端主义者
+
+tiff: 英[tɪf] 美[tɪf]
+$n. 争执，拌嘴，口角
+%n. （TIFF）Toronto International Film Festival，2017年多伦多国际影展
+    They had a slight tiff over whose turn it was to clean the floor.
+#他们为轮到谁来打扫地板的问题发生了口角。
+
+pander: 英[ˈpændə(r)] 美[ˈpændər]
+$vi. 迎合；勾引；怂恿；拉皮条
+$n. 怂恿者；拉皮条者；老鸨
+$vt. 为……拉皮条
+%n. （Pander）人名；（德、俄）潘德尔
+    These are the books that don't pander to popular taste.
+#这些不是迎合大众口味的书籍。
+
+importune: 英[ˌɪmpɔːˈtjuːn] 美[ˌɪmpɔːrˈtuːn]
+%v. 再三要求，纠缠； （指妓女或男妓）招揽（客人）
+    One can no longer walk the streets without seeing beggars importuning passers-by.
+#走在这些街道上总能看到乞丐纠缠行人乞讨。
+
+squalor: 英[ˈskwɒlə(r)] 美[ˈskwɑːlər]
+%n. 肮脏；悲惨；卑劣；道德败坏
+    He was out of work, living in squalor.
+#他失业了，过着邋遏不堪的生活。
+
+muggy: 英[ˈmʌɡi] 美[ˈmʌɡi]
+%adj. 闷热的；潮湿的
+    a muggy August day
+#八月里闷热的一天
+    The air was growing increasingly muggy.
+#空气越来越闷热了。
+
+fluvial: 英[ˈfluːviəl] 美[ˈfluːviəl]
+%adj. 河流的；生在河中的；河流冲刷形成的
+    fluvial navigation
+#在河上上航行
+    fluvial plants
+#河生植物
+
+substratum: 英[ˈsʌbstrɑːtəm] 美[ˈsʌbstreɪtəm]
+%n. 基础；根据；下层
+    a substratum of clay beneath the sandy soil
+#沙土底下的黏土层
+
+madrigal: 英[ˈmædrɪɡ(ə)l] 美[ˈmædrɪɡ(ə)l]
+$n. 情歌；小曲
+%n. （Madrigal）人名；（西）马德里加尔
+    He composed some madrigals for young boys and girls.
+#他为少男少女们创作了一些抒情短诗。
+
+fealty: 英[ˈfiːəlti] 美[ˈfiːəlti]
+%n. 忠诚；忠实
+    do/make/swear fealty to one's lord
+#向主人宣誓效忠
+    swear fealty to liberty
+#发誓效忠自由
+
+pleonastic: 英[ˌpliːəˈnæstɪk] 美[ˌpliːəˈnæstɪk]
+%adj. 重复的，冗言的
+    "A tiny little child" is pleonastic.
+#“很小的小孩”这种说法就是赘述。
+
+peeve: 英[piːv] 美[piːv]
+$v. 惹恼；（使）恼怒
+%n. 惹人生气的原因
+    be in a peeve over sth.
+#为某事而气恼
+    Every time he got himself into a peeve, he took it out on us.
+#他每次生气总是把气出在我们头上。
+
+lucubrate: 英[ˈluːkjʊˌbreɪt] 美[ˈluːkəˌbreɪt]
+%vi. 深入研究；刻苦用功；专心著作
+    He began to lucubrate in his forties.
+#他四十多岁时开始研究学问。
+
+inspissate: 英[ɪnˈspɪseɪt] 美[ɪnˈspɪseɪt]
+%v. （以蒸发）使浓缩；使凝结
+    It inspissated the gloom of the museum atmosphere.
+#这使博物馆的阴郁气氛更为浓厚。
+
+bromide: 英[ˈbrəʊmaɪd] 美[ˈbroʊmaɪd]
+%n. [无化] 溴化物；庸俗的人；陈词滥调
+    She took some bromide to calm her nerves.
+#她服用一些镇静剂来松弛神经。
+
+turgid: 英[ˈtɜːdʒɪd] 美[ˈtɜːrdʒɪd]
+%adj. 肿胀的；浮夸的；浮肿的
+    turgid limbs
+#肿胀的四肢
+    His writing style is rather turgid.
+#他的文体相当浮夸。
+
+pervious: 英[ˈpɜːvɪəs] 美[ˈpɜːrvɪəs]
+%adj. 能被通过的；能接受的；可渗透的
+    be pervious to light
+#透光
+    He is narrow-minded and not pervious to our suggestions.
+#他胸襟狭窄，不能接受我们的建议。
+
+volition: 英[vəˈlɪʃ(ə)n] 美[voʊˈlɪʃ(ə)n]
+%n. 意志，意志力；决断力
+    She left on her own volition.
+#她是自愿离开的。
+
+pertinacious: 英[ˌpɜːtɪˈneɪʃəs] 美[ˌpɜːrt(ə)nˈeɪʃəs]
+%adj. 顽固的；执拗的
+    He was pertinacious in his resolve to study medicine.
+#他毅然决定学医。
+
+badinage: 英[ˈbædɪnɑːʒ] 美[ˌbæd(ə)nˈɑːʒ]
+$n. 开玩笑；嘲弄，揶揄
+%vt. 打趣
+    the cheerful exchange of badinage
+#高高兴兴地互说笑话逗趣
+
+infelicitous: 英[ɪnfɪˈlɪsɪtəs] 美[ˌɪnfəˈlɪsətəs]
+%adj. 不幸的；不适当的；不吉利的
+    infelicitous marriage
+#不幸的婚姻
+    an infelicitous phrase
+#不恰当的言辞
+    The essay was written in an infelicitous style.
+#是一篇用不恰当的笔调写的散文。
+
+draggy: 英[ˈdræɡi] 美[ˈdræɡi]
+%adj. 拖拉的；极为讨厌的；呆滞的
+    draggy sales
+#滞销
+    a draggy plan
+#拖沓的计划
+    a draggy summer
+#令人厌烦的夏天
+
+slog: 英[slɒɡ] 美[slɑːɡ]
+$v. （一段时间）艰苦地干；步履艰难地行进；（尤指拳击或板球中）猛击
+%n. 一段时间的艰苦努力；（尤指板球）猛击；长途跋涉
+    slog sb. over the head
+#猛击某人的头部
+    slog through the mud
+#难地走过泥沼
+    slog up mountain slopes
+#吃力地爬上山坡
+    He has been slogging away at the business for 20 years.
+#他不辞辛劳地经营这项事业已达20年之久。
+
+enrapture: 英[ɪnˈræptʃə(r)] 美[ɪnˈræptʃər]
+%vt. 使狂喜；使着迷
+    The audience was enraptured by the young soloist's performance.
+#那位年轻独奏家的表演使观众欣喜若狂。
+
+overbearing: 英[ˌəʊvəˈbeərɪŋ] 美[ˌoʊvərˈberɪŋ]
+$v. 压倒；击败；控制；专横对待（overbear 的现在分词）
+%adj. 专横的，傲慢的；压倒一切的
+    His childhood was marked by an overbearing mother and a distant father.
+#他童年生活的特点是母亲专横，父亲疏远。
+
+lowbred: 英[ˈləʊbred] 美[ˈloʊbred]
+%adj. 没礼貌的；未受过好教育的
+    lowbred staff
+#没有教养的员工
+
+expostulate: 英[ɪkˈspɒstʃuleɪt] 美[ɪkˈspɑːstʃəleɪt]
+%vi. 劝诫，告诫；忠告
+    expostulate with sb. about the evils of gambling
+#告诚某人赌博的害处
+    It's useless to expostulate with such a stubborn man.
+#规劝这种固执的人是没有用的。
+
+spoilsport: 英[ˈspɔɪlspɔːt] 美[ˈspɔɪlspɔːrt]
+%n. （尤指拒绝参加活动的）扫兴的人
+    What a spoilsport!
+#真是个扫兴的人!
+
+controvert: 英[ˌkɒntrəˈvɜːt] 美[ˈkɑːntrəvɜːrt]
+%v. 否认，驳斥；就……展开争论
+    a problem much controverted between them
+#他们之间争议颇多的问题
+
+conundrum: 英[kəˈnʌndrəm] 美[kəˈnʌndrəm]
+%n. 令人迷惑的难题；（尤指答案中含双关语的）谜语
+    pose a major conundrum
+#提出一个大难题
+    in conundrum situations
+#在杂困难的局面中
+
+credo: 英[ˈkriːdəʊ] 美[ˈkriːdoʊ]
+%n. 信条，教义
+    the credo of the westerners
+#西方人的信条
+
+ebullience: 英[ɪˈbʌliəns] 美[ɪˈbʌliənsˌɪˈbʊliəns]
+%n. 奔放；兴高采烈；沸腾；冒泡
+    He was in a state of ebullience.
+#他情绪激昂
+
+persiflage: 英[ˈpɜːsɪflɑːʒ] 美[ˈpɜːrsɪflɑːʒ]
+%n. 挖苦；嘲弄；戏谑
+    the persiflage of the colleagues
+#同事的挖苦
+
+abjure: 英[əbˈdʒʊə(r)] 美[əbˈdʒʊr]
+%vt. 发誓放弃；公开放弃；避免
+    abjure one's beliefs
+#放弃信仰
+    abjure extravagance
+#改掉铺张恶习
+
+orotund: 英[ˈɒrətʌnd] 美[ˈɔːrətʌnd]
+%adj. 夸大的；做作的；朗朗的
+    orotund talk
+#夸夸其谈
+
+hurtle: 英[ˈhɜːt(ə)l] 美[ˈhɜːrt(ə)l]
+$vi. 猛冲；猛烈碰撞
+$vt. 猛投；冲向
+%n. 碰撞；猛冲
+    a highspeed train hurtling past
+#疾驰而过的高速火车
+    He was hurtling along a country road on a horse.
+#他骑着马在乡间小路上飞驰。
+
+polymath: 英[ˈpɒlimæθ] 美[ˈpɑːlimæθ]
+$n. 博学的人
+%adj. 博学的
+    He has a polymath acquaintance with late renaissance scholarship.
+#他对文艺复兴后期的学术研究了如指掌。
+
+covenant: 英[ˈkʌvənənt] 美[ˈkʌvənənt]
+$n. 盟约，契约；协议，盖印合同（尤指向慈善机构定期捐款）；（上帝与人所立的）约
+%v. 立约，立约同意；通过立约定期（给慈善机构等）捐（款）
+    The rival nations signed a covenant to reduce their armaments.
+#敌对国家签署了削减军备的条约。
+
+obverse: 英[ˈɒbvɜːs] 美[ˈɑːbvɜːrs]
+$n. 正面；对立面；主要的一面
+%adj. 正面的；[植] 倒转的；对应面的
+    the obverse of a statue
+#雕像的正面
+    His dominance in television and film amounts to a cultural power, which is the obverse side to his political power.
+#他在电影和电视行业的统治地位形成了一种文化力量，这与他的政治势力相对应。
+
+ravel: 英[ˈræv(ə)l] 美[ˈræv(ə)l]
+$vi. 使更复杂
+$n. 纠结，纠缠；一团乱麻；串，簇；复杂
+%n. (Ravel) （法、美、英）拉威尔（人名）
+    ravel (out) the edge of cloth
+#把布边拆散
+    The difficulty will soon ravel out.
+#困难很快就会解决。
+
+bumptious: 英[ˈbʌmpʃəs] 美[ˈbʌmpʃəs]
+%adj. 傲慢的；瞎自夸的
+    There are some jobs in which a bumptious young man like that should be very successful.
+#像那样傲慢的年轻人做有些工作应该会很成功。
+
+affiliation: 英[əˌfɪliˈeɪʃ(ə)n] 美[əˌfɪliˈeɪʃ(ə)n]
+%n. （与政治、宗教等组织的）联系，从属关系；加盟，加入
+    a loose affiliation of tribes
+#部落间的松散联系
+    Their hospital has an affiliation with the medical college.
+#他们的医院附属于这所医学院。
+
+artifact: 英[ˈɑːtɪfækt] 美[ˈɑːrtɪfækt]
+%n. （尤指有文化价值或历史价值的）人工制品，历史文物；非自然存在物体，假象（=artefact）
+    make an ingenious artifact
+#制作精巧的手工艺品
+
+ensnare: 英[ɪnˈsneə(r)] 美[ɪnˈsner]
+%vt. 诱捕；诱入陷阱；进入罗网
+    be ensnared by lies
+#受谎言欺骗而上当
+    Spiders ensnare flies and other insects in their webs.
+#蜘蛛在网上诱捕苍蝇和其他昆虫。
+
+guffaw: 英[ɡəˈfɔː] 美[ɡəˈfɔː]
+$n. 哄笑；狂笑
+$vi. 哄笑
+%vt. 大笑着说
+    burst out into a guffaw
+#发出一阵狂笑
+    guffaw one's satisfaction
+#大笑着表示满意
+
+bracing: 英[ˈbreɪsɪŋ] 美[ˈbreɪsɪŋ]
+$adj. 令人振奋的，凉爽的；支撑的
+$n. 支撑，支柱；背带
+%v. 绷紧，顶住（brace 的现在分词）
+    a bracing breeze
+#清爽的微风
+    We took a bracing walk on the beach after supper.
+#晚饭后我们到沙滩上惬意地散步。
+
+justification: 英[ˌdʒʌstɪfɪˈkeɪʃ(ə)n] 美[ˌdʒʌstɪfɪˈkeɪʃ(ə)n]
+%n. 正当理由，合理解释；证明为正当，辩护；齐行，整版；（上帝眼中的）称义
+    You have no justification for criticizing her in that way.
+#你没有理由那样批评她。
+
+suavity: 英[ˈswɑːvəti] 美[ˈswɑːvəti]
+%n. 柔和，温和；愉快
+    reply with slow suavity
+#慢条斯理文绉绉地回答
+    The music was performed with great suavity.
+#演奏的音乐十分悦耳。
+
+demolition: 英[ˌdeməˈlɪʃ(ə)n] 美[ˌdeməˈlɪʃ(ə)n]
+%n. （故意的）拆毁，毁坏；<非正式>大败
+    the demolition of the building
+#建筑物的拆毁
+    a demolition group
+#爆破小组
+
+violet: 英[ˈvaɪələt] 美[ˈvaɪələt]
+$n. 紫罗兰，堇菜；蓝紫色，紫罗兰色
+%adj. 紫色的，紫罗兰色的
+    the violet sunset
+#紫色的晚霞
+
+choosy: 英[ˈtʃuːzi] 美[ˈtʃuːzi]
+%adj. 挑剔的，过分讲究的
+    Air passengers are becoming more choosy about where they sit.
+#飞机乘客对座位的选择越来越挑剔。
+
+jejune: 英[dʒɪˈdʒuːn] 美[dʒɪˈdʒuːn]
+%adj. 枯燥无味的；幼稚的；缺乏营养的
+    a jejune diet
+#缺乏营养的饮食
+    jejune remarks about the world affairs
+#对世界事务乏味的评论
+    His lectures seemed jejune.
+#他的演讲平淡无味。
+
+infraction: 英[ɪnˈfrækʃn] 美[ɪnˈfrækʃ(ə)n]
+%n. 犯规，违法行为；（对法律、协定的）违背，违犯
+    infraction of a treaty
+#违反条约
+    infraction of disciplines
+#违反纪律
+
+peckish: 英[ˈpekɪʃ] 美[ˈpekɪʃ]
+%adj. 饥饿的；急躁的
+    feel peckish
+#觉得有点饿
+
+decamp: 英[dɪˈkæmp] 美[dɪˈkæmp]
+$vi. 撤营；逃走；逃亡
+%n. （Decamp）人名；（法）德康；（英）德坎普
+    The accountant decamped with the money.
+#会计携款潜逃了。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

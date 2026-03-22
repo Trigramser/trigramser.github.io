@@ -1,0 +1,865 @@
+<<<<<<< HEAD
+abscond: 英[əbˈskɒnd] 美[əbˈskɑːnd]
+%vi. 逃匿，潜逃；避债
+    abscond from the prison
+#从监狱潜逃
+    The cashier absconded with $500, 000 of the company's money.
+#出纳带着公司的50万美元潜逃了。
+
+indignity: 英[ɪnˈdɪɡnəti] 美[ɪnˈdɪɡnəti]
+%n. 侮辱；轻蔑；有伤尊严；无礼举动
+    suffer indignities
+#蒙受侮辱
+    bear/put up with an indignity
+#忍受侮辱
+    They were subjected to various indignities and discomforts in public.
+#他们不得不当众做各种有损尊严的事。
+
+recompense: 英[ˈrekəmpens] 美[ˈrekəmpens]
+$v. 赔偿，补偿；酬谢，回报
+%n. 赔偿，补偿；报酬，酬金
+    recompense sb. for his trouble
+#酬谢某人费心出力
+    recompense good with evil
+#以怨报德
+    recompense sb. for his misdeeds
+#惩罚某人的行
+    work hard without recompense
+#无报酬地辛勤工作
+    receive $2, 000 in recompense for/as recompense for the damage
+#收到2000美元作为损坏赔偿
+    I gave her some flowers and chocolates as recompense for looking after my child while I was away.
+#我送给她一些花和巧克力，酬谢她我不在时对我孩子的照顾。
+
+guise: 英[ɡaɪz] 美[ɡaɪz]
+$n. 伪装；装束；外观
+$vt. 使化装
+$vi. 伪装
+%n. （Guise）人名；（葡）吉塞；（英、法）吉斯
+    under the guise of philosophy
+#以哲的名义
+    an enemy in friendly guises
+#伪装成朋友的人
+    an old idea in new guises
+#旧瓶装新酒
+    a lady clad in peasant guises
+#穿着村姑服装的女士
+    The company has been accused of trying to sell their products under the guise of market research.
+#这家公司被指控打着市场调查的幌子推销他们的产品。
+
+vantage: 英[ˈvɑːntɪdʒ] 美[ˈvæntɪdʒ]
+%n. 优势；有利情况；有利地位
+    vantage point
+#有利地位，优越地位，观点，看法
+    From the vantage point on the hill, we could see the city spread below us.
+#从山上的有利地位跳望，我们可以看到这座城市在我们脚下延伸开来。
+
+dither: 英[ˈdɪðə(r)] 美[ˈdɪðər]
+$v. 犹豫不决；对（录音）进行噪声处理；抖色
+%n. 犹豫不决；紧张，颤抖
+    be in/of a dither about tomorrow's interview
+#对明天的面试紧张万分
+    dither on making a purchase
+#对买不买一件东西犹豫不决
+    She's still dithering over whether to accept the job she's just been offered.
+#她还在犹豫不决，不知要不要接受刚提供给她的工作。
+
+embroil: 英[ɪmˈbrɔɪl] 美[ɪmˈbrɔɪl]
+%vt. 使卷入；使混乱
+    become embroiled in a war
+#卷入战争
+    be embroiled in traffic jam
+#因交通堵塞而陷于混乱状态
+    She had no desire to embroil herself into lengthy lawsuits with the newspapers.
+#她丝毫不想将自己卷人与报社的没完没了的诉讼纠纷中。
+
+ruckus: 英[ˈrʌkəs] 美[ˈrʌkəs]
+%n. 骚动；喧闹
+    raise a ruckus
+#掀起一场争吵
+    A further ruckus exploded in these areas.
+#这些地区又发生了骚乱。
+
+vengeance: 英[ˈvendʒəns] 美[ˈvendʒəns]
+%n. 报仇，复仇；猛烈地，极度地（with a vengeance）
+    take/have vengeance on/upon the murderer
+#向凶手报仇
+    seek vengeance upon sb. for sth.
+#为某事找某人复仇
+    swear terrible vengeance on sb.
+#发誓要对某人进行无情的报复
+    be full of vengeance
+#一心想报复
+    with a vengeance
+#猛烈地，激烈地
+    On the day after the terrorist attack, the overall mood in the town was one of vengeance.
+#在恐怖分子袭击之后的次日，镇上人普遍的情绪就是要复仇。
+
+cede: 英[siːd] 美[siːd]
+%vt. 放弃；割让（领土）
+    cede the territory
+#割让领土
+    cede the right to work the enterprise
+#转让企业经营权
+
+languid: 英[ˈlæŋɡwɪd] 美[ˈlæŋɡwɪd]
+%adj. 倦怠的；呆滞的；无精打采的；（人举止、姿势）无力的；（因疾病、劳累）虚弱的；（场合、时段）闲适安逸的；不活跃的；懒洋洋的；慢悠悠的，慵懒的
+    a languid wave of the hand
+#懒洋洋地挥一挥手
+    The hot summer makes him feel languid.
+#炎夏使他感到倦怠乏力。
+
+stoke: 英[stəʊk] 美[stoʊk]
+$vi. 烧火；做司炉工；大吃大喝
+$vt. 拨旺火；使饱吃一顿
+%n. （Stoke）人名；（英）斯托克
+    stoke the fires of nationalism
+#煽动民族主义情绪
+    stoke (up) the furnace
+#给炉子添燃料
+    stoke up economy
+#刺激经济
+    stoke up prices
+#促使物价上涨
+    stoke up on bacon and bread
+#饱餐一顿熏肉和面包
+    It seems that some unscrupulous politicians have been stoking hatred.
+#看来一些肆无忌惮的政客煽起了仇恨。
+
+flunk: 英[flʌŋk] 美[flʌŋk]
+$vi. 失败；放弃；考试不及格
+$vt. 使……不及格
+%n. 不及格；失败
+    flunk an chemistry examination
+#化学考试不及格
+    flunk in an examination
+#考试不及格
+    flunk out
+#（因不及格而）退学
+    He flunked the first test but fortunately passed the second.
+#他第一门考试没通过，但幸运地通过了第二门。
+
+wanton: 英[ˈwɒntən] 美[ˈwɑːntən]
+$adj. 嬉戏的；繁茂的；荒唐的；无节制的；放纵的
+$n. 荡妇；水性杨花的女人
+$vi. 放肆；嬉戏；闲荡
+$vt. 挥霍
+%n. (Wanton)人名；(英)万顿
+    a wanton destruction of human life
+#草营人命
+    a wanton attack
+#恶意攻击
+    senseless and wanton cruelty
+#无谓的肆意虐待
+    wanton spending
+#挥挥无度
+    a wanton imagination
+#漫无边际的想象
+    a wanton party
+#闹哄哄的聚会
+    a wanton brook
+#蜿蜓的小河
+    wanton winds
+#变化无常的风
+    The judge said that Jack's driving had shown a wanton disregard for the safety of his passengers.
+#法官说杰克的驾车行为表现出对乘客的极不负责的态度。
+
+insurrection: 英[ˌɪnsəˈrekʃ(ə)n] 美[ˌɪnsəˈrekʃ(ə)n]
+%n. 暴动；叛乱
+    excite domestic insurrections
+#煽动内乱
+    Insurrection was seen as one way of changing the government.
+#起义被认为是更换政府的一种路径。
+
+bicker: 英[ˈbɪkə(r)] 美[ˈbɪkər]
+$v. （为小事）斗嘴；（诗、文）潺潺而流；（火、光）闪耀，闪动
+$n. 吵嘴，口角
+%n. （Bicker）（美、英、德）比克尔（人名）
+    They're always bickering with each other about/over their personal problems.
+#他们总是为私事争。
+
+foolproof: 英[ˈfuːlpruːf] 美[ˈfuːlpruːf]
+%adj. 不会出毛病的，万无一失的
+    a foolproof camera
+#傻瓜相机
+    a foolproof automatic washer
+#使用方便的自动洗衣机
+    I don't believe there's any such thing as a foolproof scheme for making money.
+#说是连傻瓜错不了的赚钱计划，我不相信世上竟有这种事。
+
+hash: 英[hæʃ] 美[hæʃ]
+$n. 剁碎的食物；混杂，拼凑；重新表述
+$vt. 搞糟，把……弄乱；切细；推敲
+%n. （Hash）人名；（阿拉伯、保、英）哈什；（西）阿什
+    a hash of unorganized figures
+#一堆未整理的杂乱数字
+    hash out
+#充分讨论，长时间商讨后决定/解决
+    hash out the differences
+#通过商谈消除分歧
+    hash over
+#充分讨论，回顾
+    hash over future plans
+#仔细讨论将来的计划
+    hash over the old days
+#追忆往昔
+    We stopped at a coffee shop and ordered eggs and hash.
+#我们在咖啡店停留了一下，点了鸡蛋和碎杂烩。
+
+repose: 英[rɪˈpəʊz] 美[rɪˈpoʊz]
+$n. 休息；睡眠；静止
+$vt. 使休息；寄托于
+%vi. 休息；座落；长眠；依靠；静卧；建立于
+    disturb sb.'s repose
+#干扰某人的睡眠
+    pray for the repose of the dead
+#为死者的安息祈祷
+    have repose of manner
+#举止安详
+    the repose of the country
+#乡间的静谧
+    the volcano in repose
+#休眠火山
+    repose in the local church
+#长眠在教堂墓地
+    repose on the past
+#回忆起往事
+    repose one's head on a pillow
+#把头靠在枕头上。
+    He entered the room, reposed on the couch and put his head into Mary's lap.
+#他进了屋，在沙发上躺下，头枕着玛丽的腿。
+
+serenade: 英[ˌserəˈneɪd] 美[ˌserəˈneɪd]
+$n. 小夜曲
+$vt. 为……唱小夜曲
+%vi. 唱小夜曲
+    a lover's serenade beneath his lady's window
+#情人在意中人窗下唱的小夜曲
+    There's a lovely scene in the film where Romeo serenades Juliet in the moonlight.
+#电影里有个可爱的场景，罗密欧在月光下为朱丽叶唱小夜曲。
+
+nausea: 英[ˈnɔːziə] 美[ˈnɔːziə]
+%n. 恶心，呕吐感；极端的憎恶
+    be filled with nausea at the sight of cruelty to animals
+#看到虐待动物就满腔憎恶
+    If I miss breakfast, I always suffer from nausea in the middle of the morning.
+#如果我没吃早饭，在半响午我就会恶心。
+
+barrister: 英[ˈbærɪstə(r)] 美[ˈbærɪstər]
+%n. 律师；（加拿大）出庭律师（等于 arrister-at-law）；（英）（有资格出席高等法庭并辩护的）专门律师
+    The barrister welcomed the judge's ruling.
+#律师欢迎法官的判决。
+
+repine: 英[rɪˈpaɪn] 美[rɪˈpaɪn]
+%vi. 抱怨；不满
+    bear without repining
+#毫无怨言地接受
+    repine at misfortune
+#因不幸而愁苦
+    repine for a change in weather
+#渴望天气变化
+    He was alone and unloved, but he did not repine.
+#他孤零零无人关爱，但他毫无怨言。
+
+totter: 英[ˈtɒtə(r)] 美[ˈtɑːtər]
+$vi. 蹒跚；踉跄
+$n. 蹒跚的步子
+%n. （Totter）人名；（英）托特尔
+    totter on the edge of bankruptcy
+#摇摇欲坠瀬临破产
+    the totter of traditions
+#传统的动摇
+    She tottered unsteadily down the stairs in her high-heeled shoes.
+#她穿着高跟鞋跌跌撞撞地走下楼来。
+
+despotism: 英[ˈdespətɪzəm] 美[ˈdespətɪzəm]
+%n. 专制，独裁；专制政治
+    the despotism of the monarchy
+#君主专制
+    After years of despotism, the country is now moving towards democracy.
+#在多年的专制统治后，这个国家现在正在朝民主政治迈进。
+
+qualm: 英[kwɑːm] 美[kwɑːm]
+%n. 疑虑；不安
+    have no qualms about
+#对……不感到良心不安
+    suffer many a qualm of conscience
+#一直受到良心的责备
+    a little qualm of homesickness
+#油然而生的思乡之情
+    a qualm of tenderness
+#一股温情
+    Many parents have occasional qualms about whether they're doing the best thing for their children.
+#许多家长对于他们是不是在做最有利于孩子的事情时而有疑惑。
+
+covert: 英[ˈkʌvət] 美[ˈkʌvərt]
+$adj. 隐蔽的，秘密的；在丈夫保护下的
+%n. （动物可藏身的）矮树丛；覆羽；隐藏处
+    take covert action
+#采取秘密行动
+    with covert malice
+#以隐怀的恶意
+    in covert conversation
+#在窃窃私语中
+    fire from covert
+#从掩蔽处射击
+    The murdered soldier belonged to an army unit which specializes in covert operations.
+#被害士兵属于一个专门从事秘密军事行动的军队组织。
+
+rig: 英[rɪɡ] 美[rɪɡ]
+$v. 操纵（选举、比赛）；（给船只）装帆，提供索具；（秘密地）安装，装配；临时搭建，临时架起；（给某人或某物）装束，打扮
+%n. 钻井架，钻塔；<美>大型卡车；（成套的）装置，装备；帆桅的装配（方式）；服装，制服；<古>诡计，骗局
+    rig prices
+#垄断市价
+    a rigged car crash
+#预谋的撞车事故
+    rig the immigration figures
+#伪造移民数字
+    rig up a tent
+#搭起一个帐篷
+    rig the ship with new sails
+#为船安装新帆
+    All previous elections in the country have been rigged by the ruling party.
+#该国所有以前的选举都被执政党做了手脚。
+
+harry: 英[ˈhæri] 美[ˈhæri]
+%v. 不断烦扰，折磨；反复进攻，不断袭击
+    harry the enemy
+#袭击敌人
+    The pirates harried the towns along the coast.
+#海盗抢劫了沿海城市。
+
+emissary: 英[ˈemɪsəri] 美[ˈemɪseri]
+$n. 使者；间谍；密使
+%adj. 间谍的；密使的
+    send a special emissary to discuss peace terms
+#派特使商谈構和条件
+    The Foreign Secretary has flown to China for a three-day visit as the personal emissary of the Prime Minister.
+#外交大臣作为首相的私人使者飞往中国做为期三天的访问。
+
+gimmick: 英[ˈɡɪmɪk] 美[ˈɡɪmɪk]
+$n. 暗机关；骗人的玩意；花招
+%vt. 使暗机关；搞骗人的玩意
+    a political gimmick
+#政治花招
+    an election gimmick
+#选举骗局
+    Free gifts given away with purchases are just another sales gimmick.
+#购买商品可获得免费赠品只不过是销售上的又一个花招。
+
+exude: 英[ɪɡˈzjuːd] 美[ɪɡˈzuːd]
+$vt. 散发；流出；使渗出
+%vi. 流出；渗出；发散
+    exude an odor
+#发出气味
+    exude anger
+#显得怒气冲冲
+    exude sweat
+#出汗
+    exude from cracks
+#从裂缝中慢慢渗出
+    Few people exude such confidence as Allen.
+#很少有人像艾伦一样流露出如此强烈的自信。
+
+sundry: 英[ˈsʌndri] 美[ˈsʌndri]
+$adj. 杂的；各式各样的
+%n. 杂货；杂项
+    a sundry revenue
+#杂项税收
+    sundry persons
+#各色人等
+    a meadow full of sundry flowers
+#百花中的一片草地
+    Sundry distant relations turned up for my brother's wedding.
+#形形色色的远房亲都来参加我哥哥的婚礼。
+
+levee: 英[ˈlevi] 美[ˈlevi]
+$n. 堤坝；码头；<古，北美>（会见宾客的）正式欢迎会；<史>（英国国君或其代表主持的）男宾下午聚会；<古>（旧时君主或显贵的）早晨接见
+$vt. 为……筑堤
+%n. （Levee）（利比）莱维（人名）
+    the levees along the Yangtze River
+#长江大堤
+
+drawl: 英[drɔːl] 美[drɔːl]
+$v. （拉长调子）慢吞吞地说
+%n. 慢吞吞拉长调子的说话方式（或口音、拖腔）
+    drawl on and on
+#拖长声调说个没完
+    drawl one's words
+#慢吞吞地吐字说
+    He speaks with/in this affected lazy drawl.
+#他以一种做作的、懒散的、慢吞吞的方式说话。
+
+ejaculate: 英[ɪˈdʒækjuleɪt] 美[ɪˈdʒækjuleɪt]
+$vt. 突然说出；射出
+$vi. 射精；射出液体
+%n. 一次射出的精液
+    The seagulls ejaculated from time to time.
+#海鸥时不时发出凄厉的叫声。
+
+jolly: 英[ˈdʒɒli] 美[ˈdʒɑːli]
+$adj. 愉快的，高兴的；令人愉快的，惬意的；明亮好看的
+$v. <非正式>鼓励（某人），劝（某人）高兴；开玩笑
+$n. 聚会，庆祝活动
+%adv. （用于强调）很，非常
+    a jolly laugh
+#开怀大笑
+    a jolly fat man
+#胖乎乎乐呵呵的人
+    jolly weather
+#宜人的天气
+    a jolly fool
+#一个大傻瓜
+    a jolly good fellow
+#一个大好人
+    the jolly god
+#酒神
+    We had a lovely holiday there but it was jolly expensive.
+#我们在那里度过了一个愉快的假期，可就是花费太多了。
+
+decency: 英[ˈdiːs(ə)nsi] 美[ˈdiːs(ə)nsi]
+%n. 正派；体面；庄重；合乎礼仪；礼貌
+    the norms of human decency
+#人类尊严的准则
+    a remark too rude for decency
+#不体的粗话
+    a breach of decency
+#失礼
+    observe the decencies
+#遵守规矩
+    His sense of decency and fair play made him refuse the offer.
+#他的正直感和公平竟争意识使他拒绝了这一提议。
+
+=======
+abscond: 英[əbˈskɒnd] 美[əbˈskɑːnd]
+%vi. 逃匿，潜逃；避债
+    abscond from the prison
+#从监狱潜逃
+    The cashier absconded with $500, 000 of the company's money.
+#出纳带着公司的50万美元潜逃了。
+
+indignity: 英[ɪnˈdɪɡnəti] 美[ɪnˈdɪɡnəti]
+%n. 侮辱；轻蔑；有伤尊严；无礼举动
+    suffer indignities
+#蒙受侮辱
+    bear/put up with an indignity
+#忍受侮辱
+    They were subjected to various indignities and discomforts in public.
+#他们不得不当众做各种有损尊严的事。
+
+recompense: 英[ˈrekəmpens] 美[ˈrekəmpens]
+$v. 赔偿，补偿；酬谢，回报
+%n. 赔偿，补偿；报酬，酬金
+    recompense sb. for his trouble
+#酬谢某人费心出力
+    recompense good with evil
+#以怨报德
+    recompense sb. for his misdeeds
+#惩罚某人的行
+    work hard without recompense
+#无报酬地辛勤工作
+    receive $2, 000 in recompense for/as recompense for the damage
+#收到2000美元作为损坏赔偿
+    I gave her some flowers and chocolates as recompense for looking after my child while I was away.
+#我送给她一些花和巧克力，酬谢她我不在时对我孩子的照顾。
+
+guise: 英[ɡaɪz] 美[ɡaɪz]
+$n. 伪装；装束；外观
+$vt. 使化装
+$vi. 伪装
+%n. （Guise）人名；（葡）吉塞；（英、法）吉斯
+    under the guise of philosophy
+#以哲的名义
+    an enemy in friendly guises
+#伪装成朋友的人
+    an old idea in new guises
+#旧瓶装新酒
+    a lady clad in peasant guises
+#穿着村姑服装的女士
+    The company has been accused of trying to sell their products under the guise of market research.
+#这家公司被指控打着市场调查的幌子推销他们的产品。
+
+vantage: 英[ˈvɑːntɪdʒ] 美[ˈvæntɪdʒ]
+%n. 优势；有利情况；有利地位
+    vantage point
+#有利地位，优越地位，观点，看法
+    From the vantage point on the hill, we could see the city spread below us.
+#从山上的有利地位跳望，我们可以看到这座城市在我们脚下延伸开来。
+
+dither: 英[ˈdɪðə(r)] 美[ˈdɪðər]
+$v. 犹豫不决；对（录音）进行噪声处理；抖色
+%n. 犹豫不决；紧张，颤抖
+    be in/of a dither about tomorrow's interview
+#对明天的面试紧张万分
+    dither on making a purchase
+#对买不买一件东西犹豫不决
+    She's still dithering over whether to accept the job she's just been offered.
+#她还在犹豫不决，不知要不要接受刚提供给她的工作。
+
+embroil: 英[ɪmˈbrɔɪl] 美[ɪmˈbrɔɪl]
+%vt. 使卷入；使混乱
+    become embroiled in a war
+#卷入战争
+    be embroiled in traffic jam
+#因交通堵塞而陷于混乱状态
+    She had no desire to embroil herself into lengthy lawsuits with the newspapers.
+#她丝毫不想将自己卷人与报社的没完没了的诉讼纠纷中。
+
+ruckus: 英[ˈrʌkəs] 美[ˈrʌkəs]
+%n. 骚动；喧闹
+    raise a ruckus
+#掀起一场争吵
+    A further ruckus exploded in these areas.
+#这些地区又发生了骚乱。
+
+vengeance: 英[ˈvendʒəns] 美[ˈvendʒəns]
+%n. 报仇，复仇；猛烈地，极度地（with a vengeance）
+    take/have vengeance on/upon the murderer
+#向凶手报仇
+    seek vengeance upon sb. for sth.
+#为某事找某人复仇
+    swear terrible vengeance on sb.
+#发誓要对某人进行无情的报复
+    be full of vengeance
+#一心想报复
+    with a vengeance
+#猛烈地，激烈地
+    On the day after the terrorist attack, the overall mood in the town was one of vengeance.
+#在恐怖分子袭击之后的次日，镇上人普遍的情绪就是要复仇。
+
+cede: 英[siːd] 美[siːd]
+%vt. 放弃；割让（领土）
+    cede the territory
+#割让领土
+    cede the right to work the enterprise
+#转让企业经营权
+
+languid: 英[ˈlæŋɡwɪd] 美[ˈlæŋɡwɪd]
+%adj. 倦怠的；呆滞的；无精打采的；（人举止、姿势）无力的；（因疾病、劳累）虚弱的；（场合、时段）闲适安逸的；不活跃的；懒洋洋的；慢悠悠的，慵懒的
+    a languid wave of the hand
+#懒洋洋地挥一挥手
+    The hot summer makes him feel languid.
+#炎夏使他感到倦怠乏力。
+
+stoke: 英[stəʊk] 美[stoʊk]
+$vi. 烧火；做司炉工；大吃大喝
+$vt. 拨旺火；使饱吃一顿
+%n. （Stoke）人名；（英）斯托克
+    stoke the fires of nationalism
+#煽动民族主义情绪
+    stoke (up) the furnace
+#给炉子添燃料
+    stoke up economy
+#刺激经济
+    stoke up prices
+#促使物价上涨
+    stoke up on bacon and bread
+#饱餐一顿熏肉和面包
+    It seems that some unscrupulous politicians have been stoking hatred.
+#看来一些肆无忌惮的政客煽起了仇恨。
+
+flunk: 英[flʌŋk] 美[flʌŋk]
+$vi. 失败；放弃；考试不及格
+$vt. 使……不及格
+%n. 不及格；失败
+    flunk an chemistry examination
+#化学考试不及格
+    flunk in an examination
+#考试不及格
+    flunk out
+#（因不及格而）退学
+    He flunked the first test but fortunately passed the second.
+#他第一门考试没通过，但幸运地通过了第二门。
+
+wanton: 英[ˈwɒntən] 美[ˈwɑːntən]
+$adj. 嬉戏的；繁茂的；荒唐的；无节制的；放纵的
+$n. 荡妇；水性杨花的女人
+$vi. 放肆；嬉戏；闲荡
+$vt. 挥霍
+%n. (Wanton)人名；(英)万顿
+    a wanton destruction of human life
+#草营人命
+    a wanton attack
+#恶意攻击
+    senseless and wanton cruelty
+#无谓的肆意虐待
+    wanton spending
+#挥挥无度
+    a wanton imagination
+#漫无边际的想象
+    a wanton party
+#闹哄哄的聚会
+    a wanton brook
+#蜿蜓的小河
+    wanton winds
+#变化无常的风
+    The judge said that Jack's driving had shown a wanton disregard for the safety of his passengers.
+#法官说杰克的驾车行为表现出对乘客的极不负责的态度。
+
+insurrection: 英[ˌɪnsəˈrekʃ(ə)n] 美[ˌɪnsəˈrekʃ(ə)n]
+%n. 暴动；叛乱
+    excite domestic insurrections
+#煽动内乱
+    Insurrection was seen as one way of changing the government.
+#起义被认为是更换政府的一种路径。
+
+bicker: 英[ˈbɪkə(r)] 美[ˈbɪkər]
+$v. （为小事）斗嘴；（诗、文）潺潺而流；（火、光）闪耀，闪动
+$n. 吵嘴，口角
+%n. （Bicker）（美、英、德）比克尔（人名）
+    They're always bickering with each other about/over their personal problems.
+#他们总是为私事争。
+
+foolproof: 英[ˈfuːlpruːf] 美[ˈfuːlpruːf]
+%adj. 不会出毛病的，万无一失的
+    a foolproof camera
+#傻瓜相机
+    a foolproof automatic washer
+#使用方便的自动洗衣机
+    I don't believe there's any such thing as a foolproof scheme for making money.
+#说是连傻瓜错不了的赚钱计划，我不相信世上竟有这种事。
+
+hash: 英[hæʃ] 美[hæʃ]
+$n. 剁碎的食物；混杂，拼凑；重新表述
+$vt. 搞糟，把……弄乱；切细；推敲
+%n. （Hash）人名；（阿拉伯、保、英）哈什；（西）阿什
+    a hash of unorganized figures
+#一堆未整理的杂乱数字
+    hash out
+#充分讨论，长时间商讨后决定/解决
+    hash out the differences
+#通过商谈消除分歧
+    hash over
+#充分讨论，回顾
+    hash over future plans
+#仔细讨论将来的计划
+    hash over the old days
+#追忆往昔
+    We stopped at a coffee shop and ordered eggs and hash.
+#我们在咖啡店停留了一下，点了鸡蛋和碎杂烩。
+
+repose: 英[rɪˈpəʊz] 美[rɪˈpoʊz]
+$n. 休息；睡眠；静止
+$vt. 使休息；寄托于
+%vi. 休息；座落；长眠；依靠；静卧；建立于
+    disturb sb.'s repose
+#干扰某人的睡眠
+    pray for the repose of the dead
+#为死者的安息祈祷
+    have repose of manner
+#举止安详
+    the repose of the country
+#乡间的静谧
+    the volcano in repose
+#休眠火山
+    repose in the local church
+#长眠在教堂墓地
+    repose on the past
+#回忆起往事
+    repose one's head on a pillow
+#把头靠在枕头上。
+    He entered the room, reposed on the couch and put his head into Mary's lap.
+#他进了屋，在沙发上躺下，头枕着玛丽的腿。
+
+serenade: 英[ˌserəˈneɪd] 美[ˌserəˈneɪd]
+$n. 小夜曲
+$vt. 为……唱小夜曲
+%vi. 唱小夜曲
+    a lover's serenade beneath his lady's window
+#情人在意中人窗下唱的小夜曲
+    There's a lovely scene in the film where Romeo serenades Juliet in the moonlight.
+#电影里有个可爱的场景，罗密欧在月光下为朱丽叶唱小夜曲。
+
+nausea: 英[ˈnɔːziə] 美[ˈnɔːziə]
+%n. 恶心，呕吐感；极端的憎恶
+    be filled with nausea at the sight of cruelty to animals
+#看到虐待动物就满腔憎恶
+    If I miss breakfast, I always suffer from nausea in the middle of the morning.
+#如果我没吃早饭，在半响午我就会恶心。
+
+barrister: 英[ˈbærɪstə(r)] 美[ˈbærɪstər]
+%n. 律师；（加拿大）出庭律师（等于 arrister-at-law）；（英）（有资格出席高等法庭并辩护的）专门律师
+    The barrister welcomed the judge's ruling.
+#律师欢迎法官的判决。
+
+repine: 英[rɪˈpaɪn] 美[rɪˈpaɪn]
+%vi. 抱怨；不满
+    bear without repining
+#毫无怨言地接受
+    repine at misfortune
+#因不幸而愁苦
+    repine for a change in weather
+#渴望天气变化
+    He was alone and unloved, but he did not repine.
+#他孤零零无人关爱，但他毫无怨言。
+
+totter: 英[ˈtɒtə(r)] 美[ˈtɑːtər]
+$vi. 蹒跚；踉跄
+$n. 蹒跚的步子
+%n. （Totter）人名；（英）托特尔
+    totter on the edge of bankruptcy
+#摇摇欲坠瀬临破产
+    the totter of traditions
+#传统的动摇
+    She tottered unsteadily down the stairs in her high-heeled shoes.
+#她穿着高跟鞋跌跌撞撞地走下楼来。
+
+despotism: 英[ˈdespətɪzəm] 美[ˈdespətɪzəm]
+%n. 专制，独裁；专制政治
+    the despotism of the monarchy
+#君主专制
+    After years of despotism, the country is now moving towards democracy.
+#在多年的专制统治后，这个国家现在正在朝民主政治迈进。
+
+qualm: 英[kwɑːm] 美[kwɑːm]
+%n. 疑虑；不安
+    have no qualms about
+#对……不感到良心不安
+    suffer many a qualm of conscience
+#一直受到良心的责备
+    a little qualm of homesickness
+#油然而生的思乡之情
+    a qualm of tenderness
+#一股温情
+    Many parents have occasional qualms about whether they're doing the best thing for their children.
+#许多家长对于他们是不是在做最有利于孩子的事情时而有疑惑。
+
+covert: 英[ˈkʌvət] 美[ˈkʌvərt]
+$adj. 隐蔽的，秘密的；在丈夫保护下的
+%n. （动物可藏身的）矮树丛；覆羽；隐藏处
+    take covert action
+#采取秘密行动
+    with covert malice
+#以隐怀的恶意
+    in covert conversation
+#在窃窃私语中
+    fire from covert
+#从掩蔽处射击
+    The murdered soldier belonged to an army unit which specializes in covert operations.
+#被害士兵属于一个专门从事秘密军事行动的军队组织。
+
+rig: 英[rɪɡ] 美[rɪɡ]
+$v. 操纵（选举、比赛）；（给船只）装帆，提供索具；（秘密地）安装，装配；临时搭建，临时架起；（给某人或某物）装束，打扮
+%n. 钻井架，钻塔；<美>大型卡车；（成套的）装置，装备；帆桅的装配（方式）；服装，制服；<古>诡计，骗局
+    rig prices
+#垄断市价
+    a rigged car crash
+#预谋的撞车事故
+    rig the immigration figures
+#伪造移民数字
+    rig up a tent
+#搭起一个帐篷
+    rig the ship with new sails
+#为船安装新帆
+    All previous elections in the country have been rigged by the ruling party.
+#该国所有以前的选举都被执政党做了手脚。
+
+harry: 英[ˈhæri] 美[ˈhæri]
+%v. 不断烦扰，折磨；反复进攻，不断袭击
+    harry the enemy
+#袭击敌人
+    The pirates harried the towns along the coast.
+#海盗抢劫了沿海城市。
+
+emissary: 英[ˈemɪsəri] 美[ˈemɪseri]
+$n. 使者；间谍；密使
+%adj. 间谍的；密使的
+    send a special emissary to discuss peace terms
+#派特使商谈構和条件
+    The Foreign Secretary has flown to China for a three-day visit as the personal emissary of the Prime Minister.
+#外交大臣作为首相的私人使者飞往中国做为期三天的访问。
+
+gimmick: 英[ˈɡɪmɪk] 美[ˈɡɪmɪk]
+$n. 暗机关；骗人的玩意；花招
+%vt. 使暗机关；搞骗人的玩意
+    a political gimmick
+#政治花招
+    an election gimmick
+#选举骗局
+    Free gifts given away with purchases are just another sales gimmick.
+#购买商品可获得免费赠品只不过是销售上的又一个花招。
+
+exude: 英[ɪɡˈzjuːd] 美[ɪɡˈzuːd]
+$vt. 散发；流出；使渗出
+%vi. 流出；渗出；发散
+    exude an odor
+#发出气味
+    exude anger
+#显得怒气冲冲
+    exude sweat
+#出汗
+    exude from cracks
+#从裂缝中慢慢渗出
+    Few people exude such confidence as Allen.
+#很少有人像艾伦一样流露出如此强烈的自信。
+
+sundry: 英[ˈsʌndri] 美[ˈsʌndri]
+$adj. 杂的；各式各样的
+%n. 杂货；杂项
+    a sundry revenue
+#杂项税收
+    sundry persons
+#各色人等
+    a meadow full of sundry flowers
+#百花中的一片草地
+    Sundry distant relations turned up for my brother's wedding.
+#形形色色的远房亲都来参加我哥哥的婚礼。
+
+levee: 英[ˈlevi] 美[ˈlevi]
+$n. 堤坝；码头；<古，北美>（会见宾客的）正式欢迎会；<史>（英国国君或其代表主持的）男宾下午聚会；<古>（旧时君主或显贵的）早晨接见
+$vt. 为……筑堤
+%n. （Levee）（利比）莱维（人名）
+    the levees along the Yangtze River
+#长江大堤
+
+drawl: 英[drɔːl] 美[drɔːl]
+$v. （拉长调子）慢吞吞地说
+%n. 慢吞吞拉长调子的说话方式（或口音、拖腔）
+    drawl on and on
+#拖长声调说个没完
+    drawl one's words
+#慢吞吞地吐字说
+    He speaks with/in this affected lazy drawl.
+#他以一种做作的、懒散的、慢吞吞的方式说话。
+
+ejaculate: 英[ɪˈdʒækjuleɪt] 美[ɪˈdʒækjuleɪt]
+$vt. 突然说出；射出
+$vi. 射精；射出液体
+%n. 一次射出的精液
+    The seagulls ejaculated from time to time.
+#海鸥时不时发出凄厉的叫声。
+
+jolly: 英[ˈdʒɒli] 美[ˈdʒɑːli]
+$adj. 愉快的，高兴的；令人愉快的，惬意的；明亮好看的
+$v. <非正式>鼓励（某人），劝（某人）高兴；开玩笑
+$n. 聚会，庆祝活动
+%adv. （用于强调）很，非常
+    a jolly laugh
+#开怀大笑
+    a jolly fat man
+#胖乎乎乐呵呵的人
+    jolly weather
+#宜人的天气
+    a jolly fool
+#一个大傻瓜
+    a jolly good fellow
+#一个大好人
+    the jolly god
+#酒神
+    We had a lovely holiday there but it was jolly expensive.
+#我们在那里度过了一个愉快的假期，可就是花费太多了。
+
+decency: 英[ˈdiːs(ə)nsi] 美[ˈdiːs(ə)nsi]
+%n. 正派；体面；庄重；合乎礼仪；礼貌
+    the norms of human decency
+#人类尊严的准则
+    a remark too rude for decency
+#不体的粗话
+    a breach of decency
+#失礼
+    observe the decencies
+#遵守规矩
+    His sense of decency and fair play made him refuse the offer.
+#他的正直感和公平竟争意识使他拒绝了这一提议。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

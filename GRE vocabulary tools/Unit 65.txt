@@ -1,0 +1,721 @@
+<<<<<<< HEAD
+procurement: 英[prəˈkjʊəmənt] 美[prəˈkjʊrmənt]
+%n. （尤指为政府或机构）采购，购买；取得，获得；
+    They are reported to have a substantial budget for the procurement of military supplies.
+#据报道，他们在采购军事用品方面有大量预算。
+
+sprawling: 英[ˈsprɔːlɪŋ] 美[ˈsprɔːlɪŋ]
+$adj. 蔓延的，杂乱延伸的
+%v. 伸开四肢坐、躺或倒下；蔓延，杂乱无序地拓展（sprawl 的现在分词）
+    sprawling handwriting
+#潦草的笔记
+    There were plants sprawling all over the place.
+#那里到处杂乱地生长着各种植物。
+
+domesticated: 英[dəˈmestɪkeɪtɪd] 美[dəˈmestɪkeɪtɪd]
+$adj. 家养的；驯服的；喜欢家庭生活的
+%v. 驯养（domesticate 的过去分词）；使习惯于家庭生活
+    Sheep and cows are two of the most important domesticated animals.
+#牛和羊是两种最重要的家畜。
+
+captivating: 英[ˈkæptɪveɪtɪŋ] 美[ˈkæptɪveɪtɪŋ]
+$adj. 迷人的；有魅力的
+%v. 使……着迷（captivate 的 ing 形式）
+    Her speeches are full of captivating wit and warmth.
+#她的演讲充满令人着迷的智慧和亲切感。
+
+vacillate: 英[ˈvæsəleɪt] 美[ˈvæsəleɪt]
+%v. 观点（或立场等）摇摆，动摇
+    vacillate between hope and despair
+#在希望和绝望之间摇摆不定
+    He vacillated for too long and the opportunity to accept was lost.
+#他犹豫了太多的时间，失去了接受的机会。
+
+polarize: 英[ˈpəʊləraɪz] 美[ˈpoʊləraɪz]
+$vt. （使）极化；（使）偏振；（使）两极分化
+%vi. 极化；偏振；两极分化
+    The debate has become polarized and there seems to be no middle ground.
+#争论已经两极化，似乎没有中间立场。
+
+parasitic: 英[ˌpærəˈsɪtɪk] 美[ˌpærəˈsɪtɪk]
+%adj. 寄生的（等于 parasitical）
+    a parasitic plant
+#寄生植物
+    a parasitic disease
+#寄生性疾病
+
+benevolent: 英[bəˈnevələnt] 美[bəˈnevələnt]
+%adj. 仁慈的，乐善好施的；（用于慈善机构名称）慈善的，救济的
+    a benevolent smile
+#和蔼的微笑
+    a benevolent society
+#慈善团体
+    She has a benevolent feeling toward small animals.
+#她对小动物怀有爱心。
+
+castigate: 英[ˈkæstɪɡeɪt] 美[ˈkæstɪɡeɪt]
+%v. <正式>严厉批评，申斥；苛评
+    His teacher castigated him for his inattentiveness in class.
+#他的老师因为他在课堂上不专心听讲而严厉批评他。
+
+untouched: 英[ʌnˈtʌtʃt] 美[ʌnˈtʌtʃt]
+%adj. 未受影响的；未改变的；未触动过的；不受感动的
+    be untouched by bullets
+#未被子弹打伤
+    an untouched island
+#保持自然风貌的岛屿
+    Some banknotes had been taken but the credit cards were left untouched.
+#一些钞票被拿走了，但信用卡却原封未动。
+
+portend: 英[pɔːˈtend] 美[pɔːrˈtend]
+%vt. 预示；预兆；意味着
+    It is a deeply superstitions country, where earthquakes are commonly believed to portend the end of dynasties.
+#这是一个很迷信的国家，地震被认为预示着王朝的终结。
+
+rustic: 英[ˈrʌstɪk] 美[ˈrʌstɪk]
+$adj. 乡村的；纯朴的；粗野的；手工粗糙的
+%n. 乡下人；乡巴佬
+    The landlord tried to give the pub a rustic appearance by putting horseshoes and old guns on the walls.
+#房东把马蹄铁和旧枪挂在墙上，想使这个小酒馆显得有乡村风味。
+
+veracity: 英[vəˈræsəti] 美[vəˈræsəti]
+%n. 真实，准确；诚实，老实
+    There is no reason to doubt the veracity of the evidence.
+#(人们)没有理由怀疑证据的真实性。
+
+tenacious: 英[təˈneɪʃəs] 美[təˈneɪʃəs]
+%adj. 顽强的，坚韧不拔的；稳固的，牢固的；（观点、信念）根深蒂固的，深入人心的；顽强的，坚忍不拔的
+    The baby took my finger in its tenacious little fist.
+#那婴儿用小拳头紧紧地擦住我的手指。
+
+renewal: 英[rɪˈnjuːəl] 美[rɪˈnuːəl]
+%n. 恢复，重新开始；（有效期的）延长，续订；更新，改建；（有神授超凡能力基督徒的）精神重生
+    economic renewal
+#经济复兴
+    a renewal of interest in traditional culture
+#对传统文化重新产生兴趣
+    Renewal of a passport can be done at a post office in the country.
+#在该国的邮局可以办理护照的换领手续。
+
+facetious: 英[fəˈsiːʃəs] 美[fəˈsiːʃəs]
+%adj. 诙谐的；爱开玩笑的；滑稽的；(尤指在不合适的时候)开玩笑的
+    We grew tired of his facetious remarks.
+#我们听腻了他的俏皮话。
+
+surreptitious: 英[ˌsʌrəpˈtɪʃəs] 美[ˌsɜːrəpˈtɪʃəs]
+%adj. 秘密的；鬼鬼祟祟的；暗中的
+    a surreptitious glance
+#偷偷的一瞥
+    a surreptitious meeting
+#私密会议
+    He had been so surreptitious about his drinking that no one realized he had become an alcoholic.
+#他喝酒一向鬼鬼崇崇的，没有人意识到他已经变成了一个酒鬼。
+
+bulky: 英[ˈbʌlki] 美[ˈbʌlki]
+%adj. 笨重的，庞大的；大块头的，高大肥胖的
+    bulky items
+#大件物品
+    a bulky piece of luggage
+#一件笨重的行李
+    Her padded coat made her look very bulky.
+#穿着棉袄使她显得雁肿。
+
+prodigious: 英[prəˈdɪdʒəs] 美[prəˈdɪdʒəs]
+%adj. （范围，规模，程度）巨大的，庞大的
+    a prodigious amount of water
+#大量的水
+    a prodigious feat
+#惊人的功绩
+    a prodigious speed
+#惊人的速度
+    He had a prodigious appetite.
+#他食量惊人。
+
+abstruse: 英[əbˈstruːs] 美[əbˈstruːs]
+%adj. 深奥的；难懂的
+    some abstruse medical topic.
+#某个深奥的医学问题
+
+wanderlust: 英[ˈwɒndəlʌst] 美[ˈwɑːndərlʌst]
+%n. 流浪癖；漫游癖；旅游热
+    In July wanderlust took over the whole nation.
+#七月，旅行癖席卷了全国。
+
+sectarianism: 英[sekˈteəriənɪzəm] 美[sekˈteriənɪzəm]
+%n. 宗派主义；教派意识
+    political rivalry and sectarianism within our movement
+#我们这场运动内部的政治对立及宗派主义。
+
+reverberate: 英[rɪˈvɜːbəreɪt] 美[rɪˈvɜːrbəreɪt]
+$vt. 使回响；使反射；使弹回
+$vi. 回响；反响；弹回；不断发生后效
+%adj. 回响的；反射的
+    The house is still reverberating to his hammer blows.
+#屋子里依然回荡着他锤子的敲打声。
+
+hypnotic: 英[hɪpˈnɒtɪk] 美[hɪpˈnɑːtɪk]
+$adj. 催眠的，催眠术的；易于催眠的
+%n. 安眠药；催眠状态的人
+    go into a hypnotic trance
+#进入催眠状态
+    The beat of the music was strangely hypnotic.
+#这个音乐的节奏有奇怪的催眠作用。
+
+disarray: 英[ˌdɪsəˈreɪ] 美[ˌdɪsəˈreɪ]
+$n. 无秩序；杂乱；衣冠不整
+%vt. 使混乱；弄乱；使脱去衣服
+    in complete disarray
+#凌乱不堪
+    She rushed out of the burning house with her clothes in disarray.
+#她衣服凌乱地冲出燃烧的房子。
+
+synonymous: 英[sɪˈnɒnɪməs] 美[sɪˈnɑːnɪməs]
+%adj. 紧密联系的，引起联想的；（词，短语）同义的
+    The word "annoyed" is more or less synonymous with "irritated".
+#“annoyed”、“irritated”这两个词多少是同义的。
+
+conventionalize: 英[kənˈvenʃənəˌlaɪz] 美[kənˈvenʃənəlˌaɪz]
+%v. 使遵从习俗，使习俗化；使样式化
+    According to this view, meaning is based on conventionalized conceptual structures. 
+#根据这种观点，意思是根据规约的概念结构。
+
+astounding: 英[əˈstaʊndɪŋ] 美[əˈstaʊndɪŋ]
+%adj. 令人震惊的；令人惊骇的
+    astounding facts
+#令人震的事实
+    astounding achievements
+#令人惊叹的成就
+    I find it astounding that you could ever think of doing anything so terrible.
+#你竟然想到要做这么可怕的事，真让我震惊。
+
+chromatic: 英[krəˈmætɪk] 美[krəˈmætɪk]
+%adj. 彩色的；色品的；易染色的
+    a chromatic carpet
+#彩色的、地毯
+
+replete: 英[rɪˈpliːt] 美[rɪˈpliːt]
+$adj. 充满的；装满的
+%n. [昆] 贮蜜蚁
+    History is replete with examples of population out of control.
+#历史上人口失控的例子比比皆是。
+
+conceptual: 英[kənˈseptʃuəl] 美[kənˈseptʃuəl]
+%adj. 概念的，观念的
+    The weakness of the proposal was conceptual.
+#这项提议的弱点在概念方面。
+
+precursor: 英[priˈkɜːsə(r)] 美[priˈkɜːrsər]
+%n. （事物）先驱，先兆；（尤指经新陈代谢形成另一种物质的）前体，前质
+    Pure research has often been a precursor to application which gives economic benefits.
+#纯研究往往是具有经济效益的应用的先导。
+
+interplay: 英[ˈɪntəpleɪ] 美[ˈɪntərpleɪ]
+$n. 相互影响，相互作用
+%vi. 相互影响，相互作用
+    The interplay of economic forces makes it difficult to predict accurately the likely effect of the fax changes.
+#经济力量的相互作用使得很难准确预测传真变化可能产生的影响。
+
+outburst: 英[ˈaʊtbɜːst] 美[ˈaʊtbɜːrst]
+%n. （火山、情感等的）爆发；破裂
+    outbursts of laughing
+#一阵大笑
+    an outburst of anger
+#勃然大怒
+    He instantly regretted his outburst.
+#他立刻对自己的一时冲动感到后悔了。
+
+motley: 英[ˈmɒtli] 美[ˈmɑːtli]
+$adj. 杂色的；混杂的
+$n. 混杂物；（小丑的）杂色衣服
+%n. （Motley）（美、英、加）莫特利（人名）
+    a motley collection of shells
+#一堆各色贝壳
+    a motley prattle of birds
+#百鸟齐鸣声
+    a motley community
+#三教九流
+    There is a motley collection of old furniture in the house.
+#房子里有一批混杂的旧家具。
+
+predictable: 英[prɪˈdɪktəb(ə)l] 美[prɪˈdɪktəb(ə)l]
+%adj. 可预测的，可预料的；老套乏味的，墨守成规的
+    Comets appear at predictable times.
+#慧星在预计的时间出现。
+
+blameworthy: 英[ˈbleɪmwɜːði] 美[ˈbleɪmwɜːrði]
+%adj. 应受谴责的；该受责备的
+    She does not feel that she is blameworthy.
+#她并不觉得自己有什么过错。
+
+reigning: 英[ˈreɪnɪŋ] 美[ˈreɪnɪŋ]
+$adj. 统治的；在位的；本届的；起支配作用的
+%v. 统治；支配；盛行；成为最佳（reign 的现在分词）
+    the reigning monarch
+#当今君主
+    the reigning heavyweight champion
+#本界重量级冠军
+    She was the reigning beauty of her day.
+#她曾是当时的第一美人。
+
+disenfranchise: 英[ˌdɪsɪnˈfræntʃaɪz] 美[ˌdɪsɪnˈfræntʃaɪz]
+%vt. 剥夺……的公民权（等于 disfranchise）
+    Many voters were disenfranchised.
+#许多选民被剥夺了选举权。
+
+charismatic: 英[ˌkærɪzˈmætɪk] 美[ˌkærɪzˈmætɪk]
+$adj. 有超凡魅力的；（基督教派）蒙受神恩的，有特恩的；（力量）神赐的，（能力）神授的
+%n. 神授能力运动拥护者；自称得到神灵启示的人
+    a charismatic leader
+#具有超凡魅力的领导者
+
+expository: 英[ɪkˈspɒzətri] 美[ɪkˈspɑːzətɔːri]
+%adj. 说明的，阐述的
+    an expository essay
+#说明文
+
+believable: 英[bɪˈliːvəb(ə)l] 美[bɪˈliːvəb(ə)l]
+%adj. 可信的
+    I do not enjoy the film because I did not think the characters were believable.
+#我不喜欢这部电影，因为我觉得其中的人物不真实。
+
+humanistic: 英[ˌhjuːməˈnɪstɪk] 美[ˌhjuːməˈnɪstɪk]
+%adj. 人文主义的；人道主义的
+    Mark has a humanistic view of the world.
+#马克有着人文主义的世界观。
+
+centralize: 英[ˈsentrəlaɪz] 美[ˈsentrəlaɪz]
+%v. 集权控制，使集中；实行中央集权
+    centralize power in sb.
+#将权力集中在某人手中
+    The economy of the times made it difficult to support centralized rule.
+#那个时期的经济状况使集权统治难以为继。
+
+tussle: 英[ˈtʌs(ə)l] 美[ˈtʌs(ə)l]
+$n. 争斗，扭打；争辩
+%v. 扭打；争夺
+    an ideological tussle
+#意识形态的争论
+    have a bit of a tussle over the price
+#进行一番讨价还价
+    I tussled with him for a few minutes and managed to wrench the tool from his grasp.
+#我和他扭打了几分钟，好不容易才把他手里的工具板开。
+
+dappled: 英[ˈdæp(ə)ld] 美[ˈdæp(ə)ld]
+$adj. 斑纹的；有斑点的；花的
+%v. 起斑纹（dapple 的过去式和过去分词）
+    the dappled shade of a tree
+#阳光斑驳的树荫
+
+obtainable: 英[əbˈteɪnəb(ə)l] 美[əbˈteɪnəb(ə)l]
+%adj. 能得到的
+    That particular drug is not obtainable any more in this country.
+#那种药在这个国家已买不到了。
+
+bemused: 英[bɪˈmjuːzd] 美[bɪˈmjuːzd]
+$adj. 困惑的；发呆的
+%v. 使发呆（bemuse 的过去式和过去分词）
+    give sb. a bemused look
+#茫然地看了某人一眼
+    I must admit that I was bemused by his sudden anger.
+#我得承认我确实被他的突然生气弄糊涂了。
+
+inexcusable: 英[ˌɪnɪkˈskjuːzəb(ə)l] 美[ˌɪnɪkˈskjuːzəb(ə)l]
+%adj. 不可原谅的；没法辩解的；不可宽恕的
+    It is inexcusable that such young children were left in the house alone.
+#把这么小的孩于独自留在家里是无法原谅的。
+
+gripping: 英[ˈɡrɪpɪŋ] 美[ˈɡrɪpɪŋ]
+$adj. （电影、故事等）扣人心弦的，引人入胜的
+%v. 紧握，紧抓；使感兴趣，吸引……的注意；（感情，情绪）强烈地影响（grip 的现在分词）
+    I found the book so gripping that I could not stop reading it from start to finish.
+#我发现这本书如此引人人胜，以至于我能一口气把它读完。
+
+self-righteous: 英[ˌself ˈraɪtʃəs] 美[ˌself ˈraɪtʃəs]
+%adj. 自以为是的
+    He is so self-righteous that you would think he had never done anything wrong in his life.
+#他是如此自以为是，以至于你会认为他一生中从未做过任何错事。
+
+dilettante: 英[ˌdɪləˈtænti] 美[ˌdɪləˈtænti]
+$n. 业余爱好者；一知半解者
+$adj. 浅薄的；业余艺术爱好的
+%vi. （在艺术、科学等方面）浅尝辄止
+    He is a bit of a dilettante as far as wine is concerned.
+#就酒而言，他是个有点外行的人。
+
+interpolate: 英[ɪnˈtɜːpəleɪt] 美[ɪnˈtɜːrpəleɪt]
+$vt. 篡改；插入新语句
+%vi. 插入；篡改
+    It would help our readers to understand the technical terms if we interpolate some explanations into the text.
+#如果我们在文本中插人一些解释，将有助于读者理解技术术语。
+
+camaraderie: 英[ˌkæməˈrɑːdəri] 美[ˌkɑːməˈrɑːdəri]
+%n. 友情；同志之爱
+    When you have been climbing alone for hours, there is a tremendous sense of camaraderie when you meet another climber.
+#独自攀山爬了几个小时，当你遇到另一个攀山人时，你们之间会产生一种巨大的同志情谊。
+
+ill-prepared: 英[ˌɪl prɪˈpeəd] 美[ˌɪl prɪˈperd]
+%adj. 准备不足的
+    He came here ill-prepared with few professional skills.
+#他来这里时准备不足，缺乏专业技能。
+
+=======
+procurement: 英[prəˈkjʊəmənt] 美[prəˈkjʊrmənt]
+%n. （尤指为政府或机构）采购，购买；取得，获得；
+    They are reported to have a substantial budget for the procurement of military supplies.
+#据报道，他们在采购军事用品方面有大量预算。
+
+sprawling: 英[ˈsprɔːlɪŋ] 美[ˈsprɔːlɪŋ]
+$adj. 蔓延的，杂乱延伸的
+%v. 伸开四肢坐、躺或倒下；蔓延，杂乱无序地拓展（sprawl 的现在分词）
+    sprawling handwriting
+#潦草的笔记
+    There were plants sprawling all over the place.
+#那里到处杂乱地生长着各种植物。
+
+domesticated: 英[dəˈmestɪkeɪtɪd] 美[dəˈmestɪkeɪtɪd]
+$adj. 家养的；驯服的；喜欢家庭生活的
+%v. 驯养（domesticate 的过去分词）；使习惯于家庭生活
+    Sheep and cows are two of the most important domesticated animals.
+#牛和羊是两种最重要的家畜。
+
+captivating: 英[ˈkæptɪveɪtɪŋ] 美[ˈkæptɪveɪtɪŋ]
+$adj. 迷人的；有魅力的
+%v. 使……着迷（captivate 的 ing 形式）
+    Her speeches are full of captivating wit and warmth.
+#她的演讲充满令人着迷的智慧和亲切感。
+
+vacillate: 英[ˈvæsəleɪt] 美[ˈvæsəleɪt]
+%v. 观点（或立场等）摇摆，动摇
+    vacillate between hope and despair
+#在希望和绝望之间摇摆不定
+    He vacillated for too long and the opportunity to accept was lost.
+#他犹豫了太多的时间，失去了接受的机会。
+
+polarize: 英[ˈpəʊləraɪz] 美[ˈpoʊləraɪz]
+$vt. （使）极化；（使）偏振；（使）两极分化
+%vi. 极化；偏振；两极分化
+    The debate has become polarized and there seems to be no middle ground.
+#争论已经两极化，似乎没有中间立场。
+
+parasitic: 英[ˌpærəˈsɪtɪk] 美[ˌpærəˈsɪtɪk]
+%adj. 寄生的（等于 parasitical）
+    a parasitic plant
+#寄生植物
+    a parasitic disease
+#寄生性疾病
+
+benevolent: 英[bəˈnevələnt] 美[bəˈnevələnt]
+%adj. 仁慈的，乐善好施的；（用于慈善机构名称）慈善的，救济的
+    a benevolent smile
+#和蔼的微笑
+    a benevolent society
+#慈善团体
+    She has a benevolent feeling toward small animals.
+#她对小动物怀有爱心。
+
+castigate: 英[ˈkæstɪɡeɪt] 美[ˈkæstɪɡeɪt]
+%v. <正式>严厉批评，申斥；苛评
+    His teacher castigated him for his inattentiveness in class.
+#他的老师因为他在课堂上不专心听讲而严厉批评他。
+
+untouched: 英[ʌnˈtʌtʃt] 美[ʌnˈtʌtʃt]
+%adj. 未受影响的；未改变的；未触动过的；不受感动的
+    be untouched by bullets
+#未被子弹打伤
+    an untouched island
+#保持自然风貌的岛屿
+    Some banknotes had been taken but the credit cards were left untouched.
+#一些钞票被拿走了，但信用卡却原封未动。
+
+portend: 英[pɔːˈtend] 美[pɔːrˈtend]
+%vt. 预示；预兆；意味着
+    It is a deeply superstitions country, where earthquakes are commonly believed to portend the end of dynasties.
+#这是一个很迷信的国家，地震被认为预示着王朝的终结。
+
+rustic: 英[ˈrʌstɪk] 美[ˈrʌstɪk]
+$adj. 乡村的；纯朴的；粗野的；手工粗糙的
+%n. 乡下人；乡巴佬
+    The landlord tried to give the pub a rustic appearance by putting horseshoes and old guns on the walls.
+#房东把马蹄铁和旧枪挂在墙上，想使这个小酒馆显得有乡村风味。
+
+veracity: 英[vəˈræsəti] 美[vəˈræsəti]
+%n. 真实，准确；诚实，老实
+    There is no reason to doubt the veracity of the evidence.
+#(人们)没有理由怀疑证据的真实性。
+
+tenacious: 英[təˈneɪʃəs] 美[təˈneɪʃəs]
+%adj. 顽强的，坚韧不拔的；稳固的，牢固的；（观点、信念）根深蒂固的，深入人心的；顽强的，坚忍不拔的
+    The baby took my finger in its tenacious little fist.
+#那婴儿用小拳头紧紧地擦住我的手指。
+
+renewal: 英[rɪˈnjuːəl] 美[rɪˈnuːəl]
+%n. 恢复，重新开始；（有效期的）延长，续订；更新，改建；（有神授超凡能力基督徒的）精神重生
+    economic renewal
+#经济复兴
+    a renewal of interest in traditional culture
+#对传统文化重新产生兴趣
+    Renewal of a passport can be done at a post office in the country.
+#在该国的邮局可以办理护照的换领手续。
+
+facetious: 英[fəˈsiːʃəs] 美[fəˈsiːʃəs]
+%adj. 诙谐的；爱开玩笑的；滑稽的；(尤指在不合适的时候)开玩笑的
+    We grew tired of his facetious remarks.
+#我们听腻了他的俏皮话。
+
+surreptitious: 英[ˌsʌrəpˈtɪʃəs] 美[ˌsɜːrəpˈtɪʃəs]
+%adj. 秘密的；鬼鬼祟祟的；暗中的
+    a surreptitious glance
+#偷偷的一瞥
+    a surreptitious meeting
+#私密会议
+    He had been so surreptitious about his drinking that no one realized he had become an alcoholic.
+#他喝酒一向鬼鬼崇崇的，没有人意识到他已经变成了一个酒鬼。
+
+bulky: 英[ˈbʌlki] 美[ˈbʌlki]
+%adj. 笨重的，庞大的；大块头的，高大肥胖的
+    bulky items
+#大件物品
+    a bulky piece of luggage
+#一件笨重的行李
+    Her padded coat made her look very bulky.
+#穿着棉袄使她显得雁肿。
+
+prodigious: 英[prəˈdɪdʒəs] 美[prəˈdɪdʒəs]
+%adj. （范围，规模，程度）巨大的，庞大的
+    a prodigious amount of water
+#大量的水
+    a prodigious feat
+#惊人的功绩
+    a prodigious speed
+#惊人的速度
+    He had a prodigious appetite.
+#他食量惊人。
+
+abstruse: 英[əbˈstruːs] 美[əbˈstruːs]
+%adj. 深奥的；难懂的
+    some abstruse medical topic.
+#某个深奥的医学问题
+
+wanderlust: 英[ˈwɒndəlʌst] 美[ˈwɑːndərlʌst]
+%n. 流浪癖；漫游癖；旅游热
+    In July wanderlust took over the whole nation.
+#七月，旅行癖席卷了全国。
+
+sectarianism: 英[sekˈteəriənɪzəm] 美[sekˈteriənɪzəm]
+%n. 宗派主义；教派意识
+    political rivalry and sectarianism within our movement
+#我们这场运动内部的政治对立及宗派主义。
+
+reverberate: 英[rɪˈvɜːbəreɪt] 美[rɪˈvɜːrbəreɪt]
+$vt. 使回响；使反射；使弹回
+$vi. 回响；反响；弹回；不断发生后效
+%adj. 回响的；反射的
+    The house is still reverberating to his hammer blows.
+#屋子里依然回荡着他锤子的敲打声。
+
+hypnotic: 英[hɪpˈnɒtɪk] 美[hɪpˈnɑːtɪk]
+$adj. 催眠的，催眠术的；易于催眠的
+%n. 安眠药；催眠状态的人
+    go into a hypnotic trance
+#进入催眠状态
+    The beat of the music was strangely hypnotic.
+#这个音乐的节奏有奇怪的催眠作用。
+
+disarray: 英[ˌdɪsəˈreɪ] 美[ˌdɪsəˈreɪ]
+$n. 无秩序；杂乱；衣冠不整
+%vt. 使混乱；弄乱；使脱去衣服
+    in complete disarray
+#凌乱不堪
+    She rushed out of the burning house with her clothes in disarray.
+#她衣服凌乱地冲出燃烧的房子。
+
+synonymous: 英[sɪˈnɒnɪməs] 美[sɪˈnɑːnɪməs]
+%adj. 紧密联系的，引起联想的；（词，短语）同义的
+    The word "annoyed" is more or less synonymous with "irritated".
+#“annoyed”、“irritated”这两个词多少是同义的。
+
+conventionalize: 英[kənˈvenʃənəˌlaɪz] 美[kənˈvenʃənəlˌaɪz]
+%v. 使遵从习俗，使习俗化；使样式化
+    According to this view, meaning is based on conventionalized conceptual structures. 
+#根据这种观点，意思是根据规约的概念结构。
+
+astounding: 英[əˈstaʊndɪŋ] 美[əˈstaʊndɪŋ]
+%adj. 令人震惊的；令人惊骇的
+    astounding facts
+#令人震的事实
+    astounding achievements
+#令人惊叹的成就
+    I find it astounding that you could ever think of doing anything so terrible.
+#你竟然想到要做这么可怕的事，真让我震惊。
+
+chromatic: 英[krəˈmætɪk] 美[krəˈmætɪk]
+%adj. 彩色的；色品的；易染色的
+    a chromatic carpet
+#彩色的、地毯
+
+replete: 英[rɪˈpliːt] 美[rɪˈpliːt]
+$adj. 充满的；装满的
+%n. [昆] 贮蜜蚁
+    History is replete with examples of population out of control.
+#历史上人口失控的例子比比皆是。
+
+conceptual: 英[kənˈseptʃuəl] 美[kənˈseptʃuəl]
+%adj. 概念的，观念的
+    The weakness of the proposal was conceptual.
+#这项提议的弱点在概念方面。
+
+precursor: 英[priˈkɜːsə(r)] 美[priˈkɜːrsər]
+%n. （事物）先驱，先兆；（尤指经新陈代谢形成另一种物质的）前体，前质
+    Pure research has often been a precursor to application which gives economic benefits.
+#纯研究往往是具有经济效益的应用的先导。
+
+interplay: 英[ˈɪntəpleɪ] 美[ˈɪntərpleɪ]
+$n. 相互影响，相互作用
+%vi. 相互影响，相互作用
+    The interplay of economic forces makes it difficult to predict accurately the likely effect of the fax changes.
+#经济力量的相互作用使得很难准确预测传真变化可能产生的影响。
+
+outburst: 英[ˈaʊtbɜːst] 美[ˈaʊtbɜːrst]
+%n. （火山、情感等的）爆发；破裂
+    outbursts of laughing
+#一阵大笑
+    an outburst of anger
+#勃然大怒
+    He instantly regretted his outburst.
+#他立刻对自己的一时冲动感到后悔了。
+
+motley: 英[ˈmɒtli] 美[ˈmɑːtli]
+$adj. 杂色的；混杂的
+$n. 混杂物；（小丑的）杂色衣服
+%n. （Motley）（美、英、加）莫特利（人名）
+    a motley collection of shells
+#一堆各色贝壳
+    a motley prattle of birds
+#百鸟齐鸣声
+    a motley community
+#三教九流
+    There is a motley collection of old furniture in the house.
+#房子里有一批混杂的旧家具。
+
+predictable: 英[prɪˈdɪktəb(ə)l] 美[prɪˈdɪktəb(ə)l]
+%adj. 可预测的，可预料的；老套乏味的，墨守成规的
+    Comets appear at predictable times.
+#慧星在预计的时间出现。
+
+blameworthy: 英[ˈbleɪmwɜːði] 美[ˈbleɪmwɜːrði]
+%adj. 应受谴责的；该受责备的
+    She does not feel that she is blameworthy.
+#她并不觉得自己有什么过错。
+
+reigning: 英[ˈreɪnɪŋ] 美[ˈreɪnɪŋ]
+$adj. 统治的；在位的；本届的；起支配作用的
+%v. 统治；支配；盛行；成为最佳（reign 的现在分词）
+    the reigning monarch
+#当今君主
+    the reigning heavyweight champion
+#本界重量级冠军
+    She was the reigning beauty of her day.
+#她曾是当时的第一美人。
+
+disenfranchise: 英[ˌdɪsɪnˈfræntʃaɪz] 美[ˌdɪsɪnˈfræntʃaɪz]
+%vt. 剥夺……的公民权（等于 disfranchise）
+    Many voters were disenfranchised.
+#许多选民被剥夺了选举权。
+
+charismatic: 英[ˌkærɪzˈmætɪk] 美[ˌkærɪzˈmætɪk]
+$adj. 有超凡魅力的；（基督教派）蒙受神恩的，有特恩的；（力量）神赐的，（能力）神授的
+%n. 神授能力运动拥护者；自称得到神灵启示的人
+    a charismatic leader
+#具有超凡魅力的领导者
+
+expository: 英[ɪkˈspɒzətri] 美[ɪkˈspɑːzətɔːri]
+%adj. 说明的，阐述的
+    an expository essay
+#说明文
+
+believable: 英[bɪˈliːvəb(ə)l] 美[bɪˈliːvəb(ə)l]
+%adj. 可信的
+    I do not enjoy the film because I did not think the characters were believable.
+#我不喜欢这部电影，因为我觉得其中的人物不真实。
+
+humanistic: 英[ˌhjuːməˈnɪstɪk] 美[ˌhjuːməˈnɪstɪk]
+%adj. 人文主义的；人道主义的
+    Mark has a humanistic view of the world.
+#马克有着人文主义的世界观。
+
+centralize: 英[ˈsentrəlaɪz] 美[ˈsentrəlaɪz]
+%v. 集权控制，使集中；实行中央集权
+    centralize power in sb.
+#将权力集中在某人手中
+    The economy of the times made it difficult to support centralized rule.
+#那个时期的经济状况使集权统治难以为继。
+
+tussle: 英[ˈtʌs(ə)l] 美[ˈtʌs(ə)l]
+$n. 争斗，扭打；争辩
+%v. 扭打；争夺
+    an ideological tussle
+#意识形态的争论
+    have a bit of a tussle over the price
+#进行一番讨价还价
+    I tussled with him for a few minutes and managed to wrench the tool from his grasp.
+#我和他扭打了几分钟，好不容易才把他手里的工具板开。
+
+dappled: 英[ˈdæp(ə)ld] 美[ˈdæp(ə)ld]
+$adj. 斑纹的；有斑点的；花的
+%v. 起斑纹（dapple 的过去式和过去分词）
+    the dappled shade of a tree
+#阳光斑驳的树荫
+
+obtainable: 英[əbˈteɪnəb(ə)l] 美[əbˈteɪnəb(ə)l]
+%adj. 能得到的
+    That particular drug is not obtainable any more in this country.
+#那种药在这个国家已买不到了。
+
+bemused: 英[bɪˈmjuːzd] 美[bɪˈmjuːzd]
+$adj. 困惑的；发呆的
+%v. 使发呆（bemuse 的过去式和过去分词）
+    give sb. a bemused look
+#茫然地看了某人一眼
+    I must admit that I was bemused by his sudden anger.
+#我得承认我确实被他的突然生气弄糊涂了。
+
+inexcusable: 英[ˌɪnɪkˈskjuːzəb(ə)l] 美[ˌɪnɪkˈskjuːzəb(ə)l]
+%adj. 不可原谅的；没法辩解的；不可宽恕的
+    It is inexcusable that such young children were left in the house alone.
+#把这么小的孩于独自留在家里是无法原谅的。
+
+gripping: 英[ˈɡrɪpɪŋ] 美[ˈɡrɪpɪŋ]
+$adj. （电影、故事等）扣人心弦的，引人入胜的
+%v. 紧握，紧抓；使感兴趣，吸引……的注意；（感情，情绪）强烈地影响（grip 的现在分词）
+    I found the book so gripping that I could not stop reading it from start to finish.
+#我发现这本书如此引人人胜，以至于我能一口气把它读完。
+
+self-righteous: 英[ˌself ˈraɪtʃəs] 美[ˌself ˈraɪtʃəs]
+%adj. 自以为是的
+    He is so self-righteous that you would think he had never done anything wrong in his life.
+#他是如此自以为是，以至于你会认为他一生中从未做过任何错事。
+
+dilettante: 英[ˌdɪləˈtænti] 美[ˌdɪləˈtænti]
+$n. 业余爱好者；一知半解者
+$adj. 浅薄的；业余艺术爱好的
+%vi. （在艺术、科学等方面）浅尝辄止
+    He is a bit of a dilettante as far as wine is concerned.
+#就酒而言，他是个有点外行的人。
+
+interpolate: 英[ɪnˈtɜːpəleɪt] 美[ɪnˈtɜːrpəleɪt]
+$vt. 篡改；插入新语句
+%vi. 插入；篡改
+    It would help our readers to understand the technical terms if we interpolate some explanations into the text.
+#如果我们在文本中插人一些解释，将有助于读者理解技术术语。
+
+camaraderie: 英[ˌkæməˈrɑːdəri] 美[ˌkɑːməˈrɑːdəri]
+%n. 友情；同志之爱
+    When you have been climbing alone for hours, there is a tremendous sense of camaraderie when you meet another climber.
+#独自攀山爬了几个小时，当你遇到另一个攀山人时，你们之间会产生一种巨大的同志情谊。
+
+ill-prepared: 英[ˌɪl prɪˈpeəd] 美[ˌɪl prɪˈperd]
+%adj. 准备不足的
+    He came here ill-prepared with few professional skills.
+#他来这里时准备不足，缺乏专业技能。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,707 @@
+<<<<<<< HEAD
+anomaly: 英[əˈnɒməli] 美[əˈnɑːməli]
+%n. 异常事物，反常现象；近点角，近点距离
+    mental anomaly
+#精神失常状态
+    Statistical anomalies can make it difficult to compare economic data from one year to the next.
+#统计数字的不规则使得一年的经济资料很难与下一年相比较。
+
+security: 英[sɪˈkjʊərəti] 美[sɪˈkjʊrəti]
+%n. 保护措施，安全工作；保安部门；安检处；保障，保证；安全，安全感；抵押品，保证金；证券，债券
+    safeguard the security of one's country
+#保护国家的安全
+    security of a person
+#人身安全
+    security from famine
+#免遭饥荒
+    job security
+#工作保障
+    government securities
+#政府证券
+    a security man
+#治安人员
+    in security
+#安全地，安心地
+    She believes it to be important for children to have the security of a stable family life.
+#她相信对孩子们来说，有稳定的家庭生活的安全感很重要。
+
+protract: 英[prəˈtrækt] 美[proʊˈtrækt]
+%v. 延长；绘制；伸展（身体部位）
+    protracted negotiations
+#持久未决的谈判
+    protract a piece of land by surveying
+#测绘一片土地
+    A protracted debate about whether the book can be published remains unsolved.
+#一场关于本书能否出版的争议拖到现在还没有结束。
+
+indefatigable: 英[ˌɪndɪˈfætɪɡəb(ə)l] 美[ˌɪndɪˈfætɪɡəbl]
+%adj. 不知疲倦的；不屈不挠的；有耐性的
+    an indefatigable writer
+#笔耕不息的作者
+    He has been indefatigable in his fight to clean his name.
+#他一直为澄清自己的名声做不懈的努力。
+
+overrule: 英[ˌəʊvəˈruːl] 美[ˌoʊvərˈruːl]
+%vt. 否决；统治；对……施加影响
+    be overruled by the Supreme Court
+#被最高法院驳回
+    belief in a deity that overrules the universe
+#对主宰宇宙之神的信仰
+    The school governors have overruled the headmaster's proposals.
+#学校的董事们驳回了校长的建议。
+
+invulnerable: 英[ɪnˈvʌlnərəb(ə)l] 美[ɪnˈvʌlnərəb(ə)l]
+%adj. 无懈可击的；不会受伤害的
+    an invulnerable position in overhanging cliffs
+#悬崖上难以攻破的阵地
+    an invulnerable argument
+#无可辩驳的论据
+    The underground command post is virtually invulnerable even to a nuclear attack.
+#这个地下指挥所甚至连核武器也难以攻破。
+
+forte: 英[ˈfɔːteɪ] 美[fɔːrt]
+$n. 长处；特长
+$adj. 强音的；响的
+$adv. 响亮地
+%n. （Forte）人名；（英、意、葡、法、德、西）福特
+    Charts and graphs are his forte.
+#绘图制表是他的专长。
+
+embroider: 英[ɪmˈbrɔɪdə(r)] 美[ɪmˈbrɔɪdər]
+$vt. 刺绣；装饰；镶边
+%vi. 绣花；刺绣
+    embroider the story of one's adventures
+#对自己的冒险经历做添油加醋的描述
+    embroider one's speech
+#对自己的发言做润饰
+    She's embroidered the bedspread with flowers and birds.
+#她在床单上绣上花朵和鸟。
+
+morbid: 英[ˈmɔːbɪd] 美[ˈmɔːrbɪd]
+%adj. 病态的；由病引起的；恐怖的；病变部位的
+    a morbid substance
+#致病物质
+    a morbid look
+#病容
+    morbid psychology
+#病态心理
+
+recourse: 英[rɪˈkɔːs] 美[ˈriːkɔːrs]
+%n. 求援，求助；[经] 追索权；依赖；救生索
+    have recourse to
+#求助于，诉诸
+    He handled his own difficulties without recourse to outside help.
+#他不依靠外援而独立对付自己的困难。
+
+dampen: 英[ˈdæmpən] 美[ˈdæmpən]
+%v. 使潮湿，弄湿；减弱，抑制
+    dampen the lawn
+#打湿草
+    dampen sb.'s spirits
+#扫某人的兴
+    dampen sb.'s interest
+#减少某人的兴趣
+    dampen down house price
+#抑制房价
+    I think the accident dampened his enthusiasm for the sport for a while.
+#我想那次事故在一段时间内使他对运动的热情有所减退。
+
+reparation: 英[ˌrepəˈreɪʃ(ə)n] 美[ˌrepəˈreɪʃ(ə)n]
+%n. 赔偿；修理；赔款
+    be in need of constant reparation
+#需要经常修理
+    make reparation(s)
+#赔偿
+    demand reparations from sb.
+#向某人索赔
+    war reparations
+#战争赔款
+    The company was forced to make reparation to the victims for ill health caused by chemical pollution.
+#因为化学污染对健康造成的损害，公司被迫向受害者做出赔偿。
+
+slanderous: 英[ˈslɑːndərəs] 美[ˈslændərəs]
+%adj. 诽谤的；诽谤性的；中伤的
+    The reporter has made slanderous accusations about the owner of the newspaper he worked for.
+#该记者对他为之工作的报纸的所有者进行了诽谤性的指责。
+
+ignoble: 英[ɪɡˈnəʊb(ə)l] 美[ɪɡˈnoʊb(ə)l]
+%adj. 不光彩的；卑鄙的；卑贱的
+    play an ignoble role
+#扮演不光彩的角色
+    come from an ignoble family
+#出身低微
+    an ignoble mob
+#下层民众
+    There's something cowardly and ignoble about such an attitude.
+#这样的态度有点怯懦可鄙。
+
+retribution: 英[ˌretrɪˈbjuːʃ(ə)n] 美[ˌretrɪˈbjuːʃ(ə)n]
+%n. 报应；惩罚；报答；报偿
+    suffer terrible retribution
+#受到严厉惩罚
+    divine retribution for evil deeds
+#恶行的天罚
+    retribution for one's services
+#某人服务的报酬
+    Some people saw her death as divine retribution for her crimes.
+#有人将她的死看作神对她罪过的惩罚。
+
+ungainly: 英[ʌnˈɡeɪnli] 美[ʌnˈɡeɪnli]
+$adj. 笨拙的；不雅的
+%adv. 笨拙地；不雅地
+    an ungainly appearance
+#难看的外表
+    an ungainly child
+#笨手笨脚的孩子
+    an ungainly coat
+#粗陋的外衣
+    an ungainly trunk
+#笨重的大木箱
+    He walked heavily with both feet turned out at an ungainly angle.
+#他脚步很重，外伸的两只脚形成难看的八字。
+
+outweigh: 英[ˌaʊtˈweɪ] 美[ˌaʊtˈweɪ]
+%vt. (在重要性或意义上) 超过；比 (某人) 重
+    outweigh sb. ten pounds
+#比某人重10磅
+    For me, the advantages of living in a town outweighs the disadvantages.
+#对我来说，住在城镇里的优越之处超过了不利。
+
+seclude: 英[sɪˈkluːd] 美[sɪˈkluːd]
+%vt. 使隔离，使隔绝
+    seclude oneself from society
+#与世隔绝
+    seclude oneself in a room
+#把自己关在房间里
+    We used to sunbathe on a secluded beach that was completely cut off when the tide came in.
+#过去常在僻静的海滩上晒日光浴，这个地方涨潮时完全与外界隔绝。
+
+antidote: 英[ˈæntidəʊt] 美[ˈæntidoʊt]
+%n. 解毒药，解毒剂；矫正方法，对策
+    an antidote for/against/to snakebite
+#蛇毒解毒剂
+    antidote for ignorance
+#消除无知
+    Regular exercise is the best antidote to tiredness and depression.
+#经常运动是防止疲劳和菱靡的最好办法。
+
+renegade: 英[ˈrenɪɡeɪd] 美[ˈrenɪɡeɪd]
+$n. 叛徒；变节者；脱党者
+$vi. 背叛；脱离
+%adj. 叛徒的；背弃的；脱离的
+    renegade soldiers
+#叛逃士兵
+    A band of renegades had captured the prince and were holding him to ransom.
+#一群叛逆者抓获王子勒索赎金。
+
+continental: 英[ˌkɒntɪˈnent(ə)l] 美[ˌkɑːntɪˈnent(ə)l]
+$adj. 大洲的，大陆的；欧洲大陆的；具有欧洲特点的
+%n. （欧洲）大陆人
+    a continental missile
+#洲际导弹
+    not care a continental
+#一点不在乎
+    not worth a continental
+#一钱不值
+    continental drift
+#大陆漂移
+    She preferred the continental way of life -- the food was better, the cafes stayed open and the weather was sublime.
+#她喜欢欧洲大陆的生活方式——食物更好，咖啡馆开得更晚，天气又十分宜人
+
+ostentatious: 英[ˌɒstenˈteɪʃəs] 美[ˌɑːstenˈteɪʃəs]
+%adj. 招摇的；卖弄的；夸耀的；铺张的；惹人注目的
+    a magnificent and ostentatious palace
+#宏伟豪华的官殿
+    ostentatious ceremonies
+#讲究排场的仪式
+    The dress is too ostentatious to wear to a reception.
+#这件衣服过于引人注目，不宜穿着去参加招待会。
+
+decorum: 英[dɪˈkɔːrəm] 美[dɪˈkɔːrəm]
+%n. 礼仪；礼貌；端正
+    behave with decorum
+#举止端庄有礼
+    observe decorum
+#遵守礼节
+    The meeting was a model of self-restraint and decorum.
+#那次会面是自我约束和端庄有礼的典范。
+
+philanthropic: 英[ˌfɪlənˈθrɒpɪk] 美[ˌfɪlənˈθrɑːpɪk]
+%adj. 慈善的，捐助的
+    a philanthropic foundation
+#慈善基金会
+    a philanthropic act
+#善举
+    a philanthropic nature
+#仁慈的天性
+    The company offers money purely as a philanthropic gesture -- it's usually after something in return.
+#这家公司出钱只是摆个慈善的样子——它总是图回报的。
+
+efficacy: 英[ˈefɪkəsi] 美[ˈefɪkəsi]
+%n. <正式>功效，效力
+    They recently ran a series of tests to measure the efficacy of this drug.
+#他们最近做了一系列实验，来测试这种药的功效。
+
+arbiter: 英[ˈɑːbɪtə(r)] 美[ˈɑːrbɪtər]
+%n. 仲裁人，公断人；（社会行为的）评判人，引领者
+    The government will be the final arbiter in the dispute over the new road.
+#在关于新筑道路的争端上，政府将是最后的裁决者。
+
+pervade: 英[pəˈveɪd] 美[pərˈveɪd]
+%vt. <正式>遍及，弥漫
+    a smell of coffee pervading the atmosphere
+#弥漫于空气中的咖啡味
+    As she walked through the office, her perfume pervaded the whole room.
+#随着她在办公室的走动，她的香水味弥漫于整个房间。
+
+contemptuous: 英[kənˈtemptʃuəs] 美[kənˈtemptʃuəs]
+%adj. 轻蔑的，鄙视的
+    a contemptuous smile
+#轻蔑的冷笑
+    a contemptuous attitude
+#轻蔑的态度
+    He was very contemptuous of “popular" writers whom he described as talentless and worthless.
+#他很瞧不起那些“通俗”作家，认为他们缺少天赋，毫无价值。
+
+sibling: 英[ˈsɪblɪŋ] 美[ˈsɪblɪŋ]
+%n. <正式>兄弟姐妹
+    sibling rivalry
+#兄弟间的竞争
+    sibling cities
+#姊妹城市
+    I have four siblings: three brothers and a sister.
+#我有四兄妹：三个兄弟，一个妹妹。
+
+rowdy: 英[ˈraʊdi] 美[ˈraʊdi]
+$adj. 吵闹的；粗暴的
+$n. 粗暴的人；好吵闹的人
+%n. （Rowdy）人名；（英）罗迪
+    rowdy behavior
+#粗暴的举止
+    rowdy teenagers on the streets
+#街头喧嚣的青少年
+    a rowdy street
+#喧闹的街道
+    He has complained to the police about rowdy neighbours.
+#他已向警察投诉了吵闹的邻居。
+
+docile: 英[ˈdəʊsaɪl] 美[ˈdɑːs(ə)l]
+%adj. 驯服的，容易控制的，温顺的
+    The once docile population has finally risen up against the ruthless regime.
+#曾经温顺的人们终于站了起来，反对暴虐的统治。
+
+forebode: 英[fɔːˈbəʊd] 美[fɔːrˈboʊd]
+%v. 预示；预感；预兆
+    forebode a disaster
+#预感到灾祸临头
+    The woman always forebodes that the worst will happen.
+#那女人总是预感到要发生最坏的事。
+
+esoteric: 英[ˌiːsəˈterɪk] 美[ˌesəˈterɪk]
+%adj. 只有内行才懂的，难领略的；限于少数人的，限于小圈子的
+    the technologists' esoteric knowledge
+#技术专家的特有知识
+    an esoteric pursuit
+#少数人从事的活动
+    an esoteric plan
+#秘密计划
+    He has an esoteric collection of old toys and games.
+#他收藏有一批内行才懂的旧玩具和游戏用具。
+
+baroque: 英[bəˈrɒk] 美[bəˈroʊk]
+$adj. 巴洛克式的；结构复杂的，形式怪样的
+%n. 巴洛克风格；巴洛克艺术
+    baroque architecture
+#巴洛克风格建筑
+    He was one of the greatest baroque painters.
+#他是一位伟大的巴洛克艺术风格画家。
+
+instructive: 英[ɪnˈstrʌktɪv] 美[ɪnˈstrʌktɪv]
+%adj. 有教益的，有启发性的
+    talk in an instructive tone
+#用开导的口气说
+    It is an entertaining and instructive documentary.
+#这是一部寓教于乐的纪录片。
+
+insurmountable: 英[ˌɪnsəˈmaʊntəb(ə)l] 美[ˌɪnsərˈmaʊntəb(ə)l]
+%adj. 不能克服的；不能超越的；难以对付的
+    an insurmountable obstacle
+#不可逾越的障碍
+    The government faces almost insurmountable difficulties in its attempt to unite its country's people.
+#该政府试图团结本国人民，但面临着几乎难以克服的困难。
+
+trustworthy: 英[ˈtrʌstwɜːði] 美[ˈtrʌstwɜːrði]
+%adj. 值得信赖的，可信的
+    a trustworthy colleague
+#可信赖的同事
+    Television should be a trustworthy source of information from which the public can find out what's going on.
+#电视应该是可靠的消息来源，从中公众可以知道发生的事。
+
+unreliable: 英[ˌʌnrɪˈlaɪəb(ə)l] 美[ˌʌnrɪˈlaɪəb(ə)l]
+%adj. 不可靠的；靠不住的
+    In the early 1950s computers were expensive and unreliable.
+#在20世纪50年代初期，计算机价格昂贵，而且也不可靠。
+
+encumber: 英[ɪnˈkʌmbə(r)] 美[ɪnˈkʌmbər]
+%vt. 阻塞；妨害；拖累
+    a room encumbered with useless furniture
+#堆置无用的家具的房间
+    encumber oneself with luggage
+#携带行李
+    Debts encumbered the young couple while the children were small.
+#这对年轻夫妇在子女幼小时为债务所牵累。
+
+=======
+anomaly: 英[əˈnɒməli] 美[əˈnɑːməli]
+%n. 异常事物，反常现象；近点角，近点距离
+    mental anomaly
+#精神失常状态
+    Statistical anomalies can make it difficult to compare economic data from one year to the next.
+#统计数字的不规则使得一年的经济资料很难与下一年相比较。
+
+security: 英[sɪˈkjʊərəti] 美[sɪˈkjʊrəti]
+%n. 保护措施，安全工作；保安部门；安检处；保障，保证；安全，安全感；抵押品，保证金；证券，债券
+    safeguard the security of one's country
+#保护国家的安全
+    security of a person
+#人身安全
+    security from famine
+#免遭饥荒
+    job security
+#工作保障
+    government securities
+#政府证券
+    a security man
+#治安人员
+    in security
+#安全地，安心地
+    She believes it to be important for children to have the security of a stable family life.
+#她相信对孩子们来说，有稳定的家庭生活的安全感很重要。
+
+protract: 英[prəˈtrækt] 美[proʊˈtrækt]
+%v. 延长；绘制；伸展（身体部位）
+    protracted negotiations
+#持久未决的谈判
+    protract a piece of land by surveying
+#测绘一片土地
+    A protracted debate about whether the book can be published remains unsolved.
+#一场关于本书能否出版的争议拖到现在还没有结束。
+
+indefatigable: 英[ˌɪndɪˈfætɪɡəb(ə)l] 美[ˌɪndɪˈfætɪɡəbl]
+%adj. 不知疲倦的；不屈不挠的；有耐性的
+    an indefatigable writer
+#笔耕不息的作者
+    He has been indefatigable in his fight to clean his name.
+#他一直为澄清自己的名声做不懈的努力。
+
+overrule: 英[ˌəʊvəˈruːl] 美[ˌoʊvərˈruːl]
+%vt. 否决；统治；对……施加影响
+    be overruled by the Supreme Court
+#被最高法院驳回
+    belief in a deity that overrules the universe
+#对主宰宇宙之神的信仰
+    The school governors have overruled the headmaster's proposals.
+#学校的董事们驳回了校长的建议。
+
+invulnerable: 英[ɪnˈvʌlnərəb(ə)l] 美[ɪnˈvʌlnərəb(ə)l]
+%adj. 无懈可击的；不会受伤害的
+    an invulnerable position in overhanging cliffs
+#悬崖上难以攻破的阵地
+    an invulnerable argument
+#无可辩驳的论据
+    The underground command post is virtually invulnerable even to a nuclear attack.
+#这个地下指挥所甚至连核武器也难以攻破。
+
+forte: 英[ˈfɔːteɪ] 美[fɔːrt]
+$n. 长处；特长
+$adj. 强音的；响的
+$adv. 响亮地
+%n. （Forte）人名；（英、意、葡、法、德、西）福特
+    Charts and graphs are his forte.
+#绘图制表是他的专长。
+
+embroider: 英[ɪmˈbrɔɪdə(r)] 美[ɪmˈbrɔɪdər]
+$vt. 刺绣；装饰；镶边
+%vi. 绣花；刺绣
+    embroider the story of one's adventures
+#对自己的冒险经历做添油加醋的描述
+    embroider one's speech
+#对自己的发言做润饰
+    She's embroidered the bedspread with flowers and birds.
+#她在床单上绣上花朵和鸟。
+
+morbid: 英[ˈmɔːbɪd] 美[ˈmɔːrbɪd]
+%adj. 病态的；由病引起的；恐怖的；病变部位的
+    a morbid substance
+#致病物质
+    a morbid look
+#病容
+    morbid psychology
+#病态心理
+
+recourse: 英[rɪˈkɔːs] 美[ˈriːkɔːrs]
+%n. 求援，求助；[经] 追索权；依赖；救生索
+    have recourse to
+#求助于，诉诸
+    He handled his own difficulties without recourse to outside help.
+#他不依靠外援而独立对付自己的困难。
+
+dampen: 英[ˈdæmpən] 美[ˈdæmpən]
+%v. 使潮湿，弄湿；减弱，抑制
+    dampen the lawn
+#打湿草
+    dampen sb.'s spirits
+#扫某人的兴
+    dampen sb.'s interest
+#减少某人的兴趣
+    dampen down house price
+#抑制房价
+    I think the accident dampened his enthusiasm for the sport for a while.
+#我想那次事故在一段时间内使他对运动的热情有所减退。
+
+reparation: 英[ˌrepəˈreɪʃ(ə)n] 美[ˌrepəˈreɪʃ(ə)n]
+%n. 赔偿；修理；赔款
+    be in need of constant reparation
+#需要经常修理
+    make reparation(s)
+#赔偿
+    demand reparations from sb.
+#向某人索赔
+    war reparations
+#战争赔款
+    The company was forced to make reparation to the victims for ill health caused by chemical pollution.
+#因为化学污染对健康造成的损害，公司被迫向受害者做出赔偿。
+
+slanderous: 英[ˈslɑːndərəs] 美[ˈslændərəs]
+%adj. 诽谤的；诽谤性的；中伤的
+    The reporter has made slanderous accusations about the owner of the newspaper he worked for.
+#该记者对他为之工作的报纸的所有者进行了诽谤性的指责。
+
+ignoble: 英[ɪɡˈnəʊb(ə)l] 美[ɪɡˈnoʊb(ə)l]
+%adj. 不光彩的；卑鄙的；卑贱的
+    play an ignoble role
+#扮演不光彩的角色
+    come from an ignoble family
+#出身低微
+    an ignoble mob
+#下层民众
+    There's something cowardly and ignoble about such an attitude.
+#这样的态度有点怯懦可鄙。
+
+retribution: 英[ˌretrɪˈbjuːʃ(ə)n] 美[ˌretrɪˈbjuːʃ(ə)n]
+%n. 报应；惩罚；报答；报偿
+    suffer terrible retribution
+#受到严厉惩罚
+    divine retribution for evil deeds
+#恶行的天罚
+    retribution for one's services
+#某人服务的报酬
+    Some people saw her death as divine retribution for her crimes.
+#有人将她的死看作神对她罪过的惩罚。
+
+ungainly: 英[ʌnˈɡeɪnli] 美[ʌnˈɡeɪnli]
+$adj. 笨拙的；不雅的
+%adv. 笨拙地；不雅地
+    an ungainly appearance
+#难看的外表
+    an ungainly child
+#笨手笨脚的孩子
+    an ungainly coat
+#粗陋的外衣
+    an ungainly trunk
+#笨重的大木箱
+    He walked heavily with both feet turned out at an ungainly angle.
+#他脚步很重，外伸的两只脚形成难看的八字。
+
+outweigh: 英[ˌaʊtˈweɪ] 美[ˌaʊtˈweɪ]
+%vt. (在重要性或意义上) 超过；比 (某人) 重
+    outweigh sb. ten pounds
+#比某人重10磅
+    For me, the advantages of living in a town outweighs the disadvantages.
+#对我来说，住在城镇里的优越之处超过了不利。
+
+seclude: 英[sɪˈkluːd] 美[sɪˈkluːd]
+%vt. 使隔离，使隔绝
+    seclude oneself from society
+#与世隔绝
+    seclude oneself in a room
+#把自己关在房间里
+    We used to sunbathe on a secluded beach that was completely cut off when the tide came in.
+#过去常在僻静的海滩上晒日光浴，这个地方涨潮时完全与外界隔绝。
+
+antidote: 英[ˈæntidəʊt] 美[ˈæntidoʊt]
+%n. 解毒药，解毒剂；矫正方法，对策
+    an antidote for/against/to snakebite
+#蛇毒解毒剂
+    antidote for ignorance
+#消除无知
+    Regular exercise is the best antidote to tiredness and depression.
+#经常运动是防止疲劳和菱靡的最好办法。
+
+renegade: 英[ˈrenɪɡeɪd] 美[ˈrenɪɡeɪd]
+$n. 叛徒；变节者；脱党者
+$vi. 背叛；脱离
+%adj. 叛徒的；背弃的；脱离的
+    renegade soldiers
+#叛逃士兵
+    A band of renegades had captured the prince and were holding him to ransom.
+#一群叛逆者抓获王子勒索赎金。
+
+continental: 英[ˌkɒntɪˈnent(ə)l] 美[ˌkɑːntɪˈnent(ə)l]
+$adj. 大洲的，大陆的；欧洲大陆的；具有欧洲特点的
+%n. （欧洲）大陆人
+    a continental missile
+#洲际导弹
+    not care a continental
+#一点不在乎
+    not worth a continental
+#一钱不值
+    continental drift
+#大陆漂移
+    She preferred the continental way of life -- the food was better, the cafes stayed open and the weather was sublime.
+#她喜欢欧洲大陆的生活方式——食物更好，咖啡馆开得更晚，天气又十分宜人
+
+ostentatious: 英[ˌɒstenˈteɪʃəs] 美[ˌɑːstenˈteɪʃəs]
+%adj. 招摇的；卖弄的；夸耀的；铺张的；惹人注目的
+    a magnificent and ostentatious palace
+#宏伟豪华的官殿
+    ostentatious ceremonies
+#讲究排场的仪式
+    The dress is too ostentatious to wear to a reception.
+#这件衣服过于引人注目，不宜穿着去参加招待会。
+
+decorum: 英[dɪˈkɔːrəm] 美[dɪˈkɔːrəm]
+%n. 礼仪；礼貌；端正
+    behave with decorum
+#举止端庄有礼
+    observe decorum
+#遵守礼节
+    The meeting was a model of self-restraint and decorum.
+#那次会面是自我约束和端庄有礼的典范。
+
+philanthropic: 英[ˌfɪlənˈθrɒpɪk] 美[ˌfɪlənˈθrɑːpɪk]
+%adj. 慈善的，捐助的
+    a philanthropic foundation
+#慈善基金会
+    a philanthropic act
+#善举
+    a philanthropic nature
+#仁慈的天性
+    The company offers money purely as a philanthropic gesture -- it's usually after something in return.
+#这家公司出钱只是摆个慈善的样子——它总是图回报的。
+
+efficacy: 英[ˈefɪkəsi] 美[ˈefɪkəsi]
+%n. <正式>功效，效力
+    They recently ran a series of tests to measure the efficacy of this drug.
+#他们最近做了一系列实验，来测试这种药的功效。
+
+arbiter: 英[ˈɑːbɪtə(r)] 美[ˈɑːrbɪtər]
+%n. 仲裁人，公断人；（社会行为的）评判人，引领者
+    The government will be the final arbiter in the dispute over the new road.
+#在关于新筑道路的争端上，政府将是最后的裁决者。
+
+pervade: 英[pəˈveɪd] 美[pərˈveɪd]
+%vt. <正式>遍及，弥漫
+    a smell of coffee pervading the atmosphere
+#弥漫于空气中的咖啡味
+    As she walked through the office, her perfume pervaded the whole room.
+#随着她在办公室的走动，她的香水味弥漫于整个房间。
+
+contemptuous: 英[kənˈtemptʃuəs] 美[kənˈtemptʃuəs]
+%adj. 轻蔑的，鄙视的
+    a contemptuous smile
+#轻蔑的冷笑
+    a contemptuous attitude
+#轻蔑的态度
+    He was very contemptuous of “popular" writers whom he described as talentless and worthless.
+#他很瞧不起那些“通俗”作家，认为他们缺少天赋，毫无价值。
+
+sibling: 英[ˈsɪblɪŋ] 美[ˈsɪblɪŋ]
+%n. <正式>兄弟姐妹
+    sibling rivalry
+#兄弟间的竞争
+    sibling cities
+#姊妹城市
+    I have four siblings: three brothers and a sister.
+#我有四兄妹：三个兄弟，一个妹妹。
+
+rowdy: 英[ˈraʊdi] 美[ˈraʊdi]
+$adj. 吵闹的；粗暴的
+$n. 粗暴的人；好吵闹的人
+%n. （Rowdy）人名；（英）罗迪
+    rowdy behavior
+#粗暴的举止
+    rowdy teenagers on the streets
+#街头喧嚣的青少年
+    a rowdy street
+#喧闹的街道
+    He has complained to the police about rowdy neighbours.
+#他已向警察投诉了吵闹的邻居。
+
+docile: 英[ˈdəʊsaɪl] 美[ˈdɑːs(ə)l]
+%adj. 驯服的，容易控制的，温顺的
+    The once docile population has finally risen up against the ruthless regime.
+#曾经温顺的人们终于站了起来，反对暴虐的统治。
+
+forebode: 英[fɔːˈbəʊd] 美[fɔːrˈboʊd]
+%v. 预示；预感；预兆
+    forebode a disaster
+#预感到灾祸临头
+    The woman always forebodes that the worst will happen.
+#那女人总是预感到要发生最坏的事。
+
+esoteric: 英[ˌiːsəˈterɪk] 美[ˌesəˈterɪk]
+%adj. 只有内行才懂的，难领略的；限于少数人的，限于小圈子的
+    the technologists' esoteric knowledge
+#技术专家的特有知识
+    an esoteric pursuit
+#少数人从事的活动
+    an esoteric plan
+#秘密计划
+    He has an esoteric collection of old toys and games.
+#他收藏有一批内行才懂的旧玩具和游戏用具。
+
+baroque: 英[bəˈrɒk] 美[bəˈroʊk]
+$adj. 巴洛克式的；结构复杂的，形式怪样的
+%n. 巴洛克风格；巴洛克艺术
+    baroque architecture
+#巴洛克风格建筑
+    He was one of the greatest baroque painters.
+#他是一位伟大的巴洛克艺术风格画家。
+
+instructive: 英[ɪnˈstrʌktɪv] 美[ɪnˈstrʌktɪv]
+%adj. 有教益的，有启发性的
+    talk in an instructive tone
+#用开导的口气说
+    It is an entertaining and instructive documentary.
+#这是一部寓教于乐的纪录片。
+
+insurmountable: 英[ˌɪnsəˈmaʊntəb(ə)l] 美[ˌɪnsərˈmaʊntəb(ə)l]
+%adj. 不能克服的；不能超越的；难以对付的
+    an insurmountable obstacle
+#不可逾越的障碍
+    The government faces almost insurmountable difficulties in its attempt to unite its country's people.
+#该政府试图团结本国人民，但面临着几乎难以克服的困难。
+
+trustworthy: 英[ˈtrʌstwɜːði] 美[ˈtrʌstwɜːrði]
+%adj. 值得信赖的，可信的
+    a trustworthy colleague
+#可信赖的同事
+    Television should be a trustworthy source of information from which the public can find out what's going on.
+#电视应该是可靠的消息来源，从中公众可以知道发生的事。
+
+unreliable: 英[ˌʌnrɪˈlaɪəb(ə)l] 美[ˌʌnrɪˈlaɪəb(ə)l]
+%adj. 不可靠的；靠不住的
+    In the early 1950s computers were expensive and unreliable.
+#在20世纪50年代初期，计算机价格昂贵，而且也不可靠。
+
+encumber: 英[ɪnˈkʌmbə(r)] 美[ɪnˈkʌmbər]
+%vt. 阻塞；妨害；拖累
+    a room encumbered with useless furniture
+#堆置无用的家具的房间
+    encumber oneself with luggage
+#携带行李
+    Debts encumbered the young couple while the children were small.
+#这对年轻夫妇在子女幼小时为债务所牵累。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

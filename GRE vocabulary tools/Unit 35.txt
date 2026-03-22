@@ -1,0 +1,727 @@
+<<<<<<< HEAD
+jesting: 英[ˈdʒestɪŋ] 美[ˈdʒestɪŋ]
+$adj. 爱开玩笑的，幽默的
+%v. 开玩笑，打趣（jest 的现在分词）
+    This is no jesting matter.
+#这可不是闹着玩的。
+
+checkered: 英[ˈtʃekəd] 美[ˈtʃekərd]
+$adj. 多变的；有方格的；多波折的
+%v. 使交错；使交替变化（checker 的过去分词）
+    a lawn checkered with sunlight and shade
+#阳光和阴影交错的草坪
+    a checkered history
+#盛衰无常的历史
+
+matte: 英[mæt] 美[mæt]
+$n. 冰铜；无光粗糙层；影像形板
+$adj. 无光泽的；不光滑的
+%n. （Matte）（德、英、法、西、意）马特（人名）
+    The Application Research of the Matte Technology on the Non-Linear Editing System 
+#非线性编辑系统中蒙版技术的应用研究
+
+limbo: 英[ˈlɪmbəʊ] 美[ˈlɪmboʊ]
+$n. 监狱；地狱的边境；放置丢弃物的场所；处于中间的或不定的状态
+%n. （Limbo）人名；（纳米）林博
+    His life seemed stuck in limbo; he could not go forward and he could not go back. 
+#他的生活好像陷入了不知所措的境地，进退两难。
+
+ruse: 英[ruːz] 美[ruːz]
+$n. 策略，计策；诡计
+%n. （Ruse）人名；（罗、塞）鲁塞；（英）鲁斯
+    His ruse to get an extra week's pay failed.
+#他想多得一个星期报酬的诡计没有得逞。
+
+smattering: 英[ˈsmætərɪŋ] 美[ˈsmætərɪŋ]
+$n. 一知半解；少数；略知
+$adj. 肤浅的；些许的；点滴的
+%v. 略知；肤浅地学习；粉碎（smatter 的 ing 形式）
+    I know a smattering of Latin.
+#我懂一点拉丁文。
+
+askance: 英[əˈskæns] 美[əˈskæns]
+%adv. 怀疑地；斜视地
+    Companies may look askance at gaps in your employment history.
+#公司可能会对你工作履历中的空白期有所怀疑。
+
+exuberance: 英[ɪɡˈzjuːbərəns] 美[ɪɡˈzuːbərəns]
+%n. 丰富，茂盛；健康；感情洋溢(或慷慨激昂)的言行；(感情等的)过度(或极度)表现
+    He seemed full of exuberance.
+#他看上去精力充沛。
+
+taking: 英[ˈteɪkɪŋ] 美[ˈteɪkɪŋ]
+$n. 取得；捕获；营业收入
+$adj. 可爱的；迷人的；会传染的
+%v. 拿；捕捉；夺取（take 的 ing 形式）
+    a taking smile
+#迷人的微笑
+    He took the day's takings to the bank.
+#他把一天的进款送到银行。
+
+resourceful: 英[rɪˈsɔːsf(ə)l] 美[rɪˈsɔːrsf(ə)l]
+%adj. 足智多谋的，机敏的
+    a keen, resourceful politician
+#头脑敏捷且足智多谋的政治家
+
+eidetic: 英[aɪˈdetɪk] 美[aɪˈdetɪk]
+%adj. 异常清晰的；极为逼真的
+    an eidetic memory
+#历历在目的记忆
+    an eidetic image
+#逼真的形象
+
+retrace: 英[rɪˈtreɪs] 美[rɪˈtreɪs]
+%vt. 追溯；折回；重描
+    She walked straight past her office and then had to retrace her steps.
+#她径直向前走过了办公室，然后又不得不折回。
+
+denunciate: 英[dɪˈnʌnsɪˌeɪt] 美[dɪˈnʌnsɪeɪt]
+%vt. 谴责；公开指责；公然抨击（等于 denounce）
+    denunciate sb. for neglect of duty
+#指责某人渎职
+    denunciate sb. as a thief
+#告发某人是贼
+
+assoil: 英[əˈsɔɪl] 美[əˈsɔɪl]
+%vt. 补偿；赦免，宣布……无罪
+    She made no attempt to assoil herself of her crime, and assimilated into prison life. 
+#她并不想赦免自己的罪行，被吸收进了监狱。
+
+shipshape: 英[ˈʃɪpʃeɪp] 美[ˈʃɪpʃeɪp]
+$adj. 井然有序的；整整齐齐的；整洁干净的
+%adv. 整齐地；整洁地
+    Everything in the house was clean and shipshape.
+#房里的一切都干干净净，整整齐齐。
+
+inadvertence: 英[ˌɪnədˈvɜːt(ə)ns] 美[ˌɪnədˈvɜːrt(ə)ns]
+%n. 不注意；怠慢，疏忽
+    misprints and inadvertences
+#印刷错误和疏漏
+    Mistakes proceed from inadvertence.
+#错误出自粗心大意。
+
+waylay: 英[weɪˈleɪ] 美[weɪˈleɪ]
+%vt. 伏击；埋伏
+    Bandits lie in wait to waylay unsuspecting travelers.
+#强盗埋伏起来，拦路抢劫毫无戒备的路人。
+
+blear: 英[blɪə(r)] 美[blɪr]
+$adj. 朦胧的，模糊的
+%v. 使……模糊不清，使……朦胧；使（眼睛）湿润
+    Tears bleared her eyes.
+#泪水模糊了她的眼睛。
+
+comely: 英[ˈkʌmli] 美[ˈkʌmli]
+%adj. 清秀的，标致的
+    a comely boy
+#清秀的男孩
+    in neat and comely arrangement
+#安排得整齐而妥帖
+
+dulcet: 英[ˈdʌlsɪt] 美[ˈdʌlsɪt]
+%adj. 美妙的；悦耳的；怡人的
+    dulcet tones
+#悦耳的语调
+    dulcet weather
+#宜人的气候
+
+coda: 英[ˈkəʊdə] 美[ˈkoʊdə]
+$n. 结尾部分；终结句；尾声；终曲
+%n. （Coda）人名；（法、西、意）科达
+    Her real skill on the piano was evident in the difficult coda.
+#有难度的尾声体现了她真正的钢琴演奏技巧。
+
+besot: 英[bɪˈsɒt] 美[bɪˈsɑːt]
+%vt. 使醉；使糊涂；使迷糊
+    be besotted with a girl
+#被一个姑娘迷住例
+    He looked at her with a besotted expression.
+#他用一种着迷的表情看着她。
+
+stonewall: 英[ˈstəʊnwɔːl] 美[ˈstoʊnwɔːl]
+$v. 拖延，阻碍；防守挡击
+%n. 拖延，阻碍；防守挡击
+    He was stonewalling and everybody knew it.
+#他是在故意设置障碍，这大家都看得出来。
+
+precept: 英[ˈpriːsept] 美[ˈpriːsept]
+%n. 规则；格言；训诫；命令
+    Parents must show by example as well as precept.
+#父母应该既有言传也有身教。
+
+bifurcate: 英[ˈbaɪfəkeɪt] 美[ˈbaɪfərkeɪt]
+$v. （路、河等）分为两支；（使）分岔
+%adj. 分叉的；分枝的
+    The river bifurcated into two narrow winding
+streams.
+#河流分成两条窄而弯曲的小溪。
+
+instate: 英[ɪnˈsteɪt] 美[ɪnˈsteɪt]
+%v. 安置；建立；任命
+    She was not at once instated in her rights.
+#她并没有立即获得自己的权利。
+
+mull: 英[mʌl] 美[mʌl]
+$vt. 研磨；思索或思考某事物；使醉
+$n. 混乱；软薄布
+$vi. 深思熟虑
+%n. （Mull）人名；（英）马尔
+    be mulled with drink
+#喝的烂醉
+    It was something he had mulled over for a long time.
+#这是他反复思索了很久的事。
+
+jaunt: 英[dʒɔːnt] 美[dʒɔːnt]
+$n. 远足；短途旅游
+%vi. 远足；作短途旅游
+    He decided to write an article about his China jaunt.
+#他决定写一篇有关自己在中国观光的文章。
+
+piteous: 英[ˈpɪtiəs] 美[ˈpɪtiəs]
+%adj. 可怜的；哀怨的；慈悲的
+    The kitten gave a piteous cry.
+#小猫发出了可怜的叫声。
+
+sanitize: 英[ˈsænɪtaɪz] 美[ˈsænɪtaɪz]
+%vt. 使……无害；给……消毒；对……采取卫生措施
+    sanitize the clothes
+#给衣服消毒
+    sanitize a film
+#净化影片的内容
+
+cleft: 英[kleft] 美[kleft]
+$v. 劈开；分开；迅速穿过；紧挨；坚信；分离（分子）；开（路）；（细胞）分裂；（诗、文）黏着；专心于；依恋（某人）（cleave的过去式及过去分词）
+$n. （尤指岩石、地表的）裂缝；额头（或下巴）中间的竖缝；（身体）V 字形凹陷
+%adj. （部分）裂成两半的
+    There was a narrow cleft in the rocks too small for humans to enter.
+#岩石中间有一条窄到人进不去的裂缝。
+
+inter: 英[ɪnˈtɜː(r)] 美[ɪnˈtɜːr]
+%v. <正式>埋葬（遗体）
+    Her body was interred at the cemetery.
+#她的遗体被埋葬在公墓里。
+
+plenitude: 英[ˈplenɪtjuːd] 美[ˈplenɪtuːd]
+%n. 充分；丰富；大量
+    His artistry has reached its plenitude.
+#他的艺术技巧已达到炉火纯青的地步。
+
+syncretize: 英[ˈsɪŋkrɪˌtaɪz] 美[ˈsɪŋkrəˌtaɪz]
+$vt. 融合；结合
+%vi. 融合；结合
+    he two modules syncretize RFID technology, embedded control technology and multimedia playback technology. 
+#两部分模块分别融合了先进的射频识别技术、嵌入式控制技术和多媒体播放技术。
+
+synchronize: 英[ˈsɪŋkrənaɪz] 美[ˈsɪŋkrənaɪz]
+%vt. （使）同步；对准（钟，表）；相符；（电脑）同步化
+    The show was designed so that lights synchronized with the music.
+#演出经过精心设计，使灯光和音乐在时间上保持一致。
+
+alluring: 英[əˈlʊərɪŋ] 美[əˈlʊrɪŋ]
+%adj. 诱惑的，诱人的；迷人的，吸引人的
+    an alluring actress
+#迷人的女演员
+    an alluring advertisement
+#吸引人的广告
+
+interlude: 英[ˈɪntəluːd] 美[ˈɪntərluːd]
+%n. （两件事情、两种形势之间的）间歇；（戏剧、电影等的）幕间休息；幕间乐曲（或节目、表演），插曲；短暂的幽会，风流韵事
+    an interlude in the main business of one's life
+#人生主要经历中的一段插曲
+    an interlude of sunshine between two showers
+#两次阵雨之间一段出太阳的时间
+
+influx: 英[ˈɪnflʌks] 美[ˈɪnflʌks]
+%n. （人或物的）大量涌入，大量流入；（水）流入，注入（河，湖，海）
+    an influx of foreign visitors
+#外国旅客的蜂拥而至
+    the influx of a river into the sea
+#河流的入海处
+
+extirpate: 英[ˈekstəpeɪt] 美[ˈekstərpeɪt]
+%v. 根除；彻底毁坏
+    Many species have been extirpated from those areas.
+#许多物种已在那些地区灭绝了。
+
+perjure: 英[ˈpɜːdʒə(r)] 美[ˈpɜːrdʒər]
+%vt. 作伪证；使发伪誓；使破坏誓言
+    Her evidence in this case was perjured.
+#她在本案中提供的证据是伪证。
+
+abortive: 英[əˈbɔːtɪv] 美[əˈbɔːrtɪv]
+%adj. 失败的；流产的；堕胎的
+    an abortive coup
+#一场失败的政变
+    an abortive attempt
+#企图未遂
+
+perky: 英[ˈpɜːki] 美[ˈpɜːrki]
+%adj. 神气的；得意洋洋的；自信的；活泼的
+    a perky squirrel
+#敏捷的松鼠
+    a perky waltz
+#轻快的华尔兹
+    a perky suit
+#时髦的套装
+
+convalescent: 英[ˌkɒnvəˈles(ə)nt] 美[ˌkɑːnvəˈles(ə)nt]
+$adj. 康复的；恢复期的
+%n. 恢复中的病人；康复的人
+    a convalescent diet
+#滋养的食物
+    a convalescent ward
+#康复病房
+
+sybaritic: 英[ˌsɪbəˈrɪtɪk] 美[ˌsɪbəˈrɪtɪk]
+%adj. 奢侈逸乐的；柔弱的
+    He mercilessly attacked their rulers as corrupt and sybaritic.
+#他无情地押击他们的统治者们荒淫腐败。
+
+intermission: 英[ˌɪntəˈmɪʃ(ə)n] 美[ˌɪntərˈmɪʃ(ə)n]
+%n. 幕间休息；暂停；中断
+    At intermission everyone crowded into the lobby.
+#幕间休息时大家挤进了剧院休息室。
+
+digression: 英[daɪˈɡreʃ(ə)n] 美[daɪˈɡreʃn]
+%n. 离题；脱轨
+    the digression of a ship
+#船只的偏离航
+
+belabor: 英[bɪˈleɪbə(r)] 美[bɪˈleɪbər]
+%vt. 痛打；抨击；过度说明；反复讨论
+    belabor the obvious
+#对本已十分明显的事做过多说明
+    He belabored his tired horse with a stick.
+#他用棍棒猛打他那疲劳的坐骑。
+
+misperceive: 英[ˌmɪspəˈsiːv] 美[ˌmɪspərˈsiːv]
+%vt. 误解；看错
+    misperceive the situation
+#看错形势
+
+pelt: 英[pelt] 美[pelt]
+$v. 向……连续投掷；连续向……投掷；（雨）倾盆而下；（非正式）（朝某处）飞跑；剥下（动物）的皮毛
+$n. （动物的）皮毛；（绵羊或山羊的）生皮；投掷；（非正式）（人的）毛发
+%n. （Pelt）（美）佩尔特（人名）
+    chase each other and pelt snowballs
+#相互追逐着扔雪球
+    You can't leave now -- it's pelting.
+#你现在不能离开，在下大雨。
+
+snob: 英[snɒb] 美[snɑːb]
+%n. 势利小人，谄上欺下的人；自以为懂行者，自命不凡的人
+    a snob about one's servants
+#对仆人态度势利的人
+    an intellectual snob
+#自以为很有知识的人
+
+incarcerate: 英[ɪnˈkɑːsəreɪt] 美[ɪnˈkɑːrsəreɪt]
+$vt. 监禁；下狱；禁闭
+%adj. 监禁的；禁闭的
+    He was to be incarcerated in a cell by himself.
+#他打算把自己囚禁在斗室之内。
+
+univocal: 英[ˌjuːnɪˈvəʊk(ə)l] 美[juːˈnɪvəkəl]
+%adj. 意义明确的；单一意思的
+    a univocal concept
+#单一概念
+
+upright: 英[ˈʌpraɪt] 美[ˈʌpraɪt]
+$adj. （人）直立的，挺直的；直立的，垂直的，立式的；正直的，诚实的；（椅子）直靠背的，没有扶手的
+$adv. 笔直地，直立地，垂直地；平稳地
+%n. （起支撑作用的）直柱，立柱，直立部分；球门柱；立式钢琴
+    an upright citizen
+#诚实正直的公民
+    Man walks upright on two feet.
+#人类用双脚直立行走。
+
+additive: 英[ˈædətɪv] 美[ˈædətɪv]
+$n. 添加剂，添加物
+%adj. 累积的，添加的；（与）叠加色（有关）的
+    food additives
+#食物添加剂
+    The progress is additive.
+#这个过程是累加的。
+
+gabby: 英[ˈɡæbi] 美[ˈɡæbi]
+$adj. 饶舌的，多嘴的；健谈的
+%n. （Gabby）（美）加比（人名）
+    a gabby woman
+#饶舌的女人
+
+spindly: 英[ˈspɪndli] 美[ˈspɪndli]
+%adj. 细长的；纺锤形的
+    spindly legs
+#细长的腿
+    The plants indoors are getting too spindly.
+#室内的植物长得太瘦弱了。
+
+portentous: 英[pɔːˈtentəs] 美[pɔːrˈtentəs]
+%adj. 不祥的；预兆的；令人惊讶的
+    The present aspect of society is portentous of great change.
+#目前的社会面貌预示着巨大的变化。
+
+=======
+jesting: 英[ˈdʒestɪŋ] 美[ˈdʒestɪŋ]
+$adj. 爱开玩笑的，幽默的
+%v. 开玩笑，打趣（jest 的现在分词）
+    This is no jesting matter.
+#这可不是闹着玩的。
+
+checkered: 英[ˈtʃekəd] 美[ˈtʃekərd]
+$adj. 多变的；有方格的；多波折的
+%v. 使交错；使交替变化（checker 的过去分词）
+    a lawn checkered with sunlight and shade
+#阳光和阴影交错的草坪
+    a checkered history
+#盛衰无常的历史
+
+matte: 英[mæt] 美[mæt]
+$n. 冰铜；无光粗糙层；影像形板
+$adj. 无光泽的；不光滑的
+%n. （Matte）（德、英、法、西、意）马特（人名）
+    The Application Research of the Matte Technology on the Non-Linear Editing System 
+#非线性编辑系统中蒙版技术的应用研究
+
+limbo: 英[ˈlɪmbəʊ] 美[ˈlɪmboʊ]
+$n. 监狱；地狱的边境；放置丢弃物的场所；处于中间的或不定的状态
+%n. （Limbo）人名；（纳米）林博
+    His life seemed stuck in limbo; he could not go forward and he could not go back. 
+#他的生活好像陷入了不知所措的境地，进退两难。
+
+ruse: 英[ruːz] 美[ruːz]
+$n. 策略，计策；诡计
+%n. （Ruse）人名；（罗、塞）鲁塞；（英）鲁斯
+    His ruse to get an extra week's pay failed.
+#他想多得一个星期报酬的诡计没有得逞。
+
+smattering: 英[ˈsmætərɪŋ] 美[ˈsmætərɪŋ]
+$n. 一知半解；少数；略知
+$adj. 肤浅的；些许的；点滴的
+%v. 略知；肤浅地学习；粉碎（smatter 的 ing 形式）
+    I know a smattering of Latin.
+#我懂一点拉丁文。
+
+askance: 英[əˈskæns] 美[əˈskæns]
+%adv. 怀疑地；斜视地
+    Companies may look askance at gaps in your employment history.
+#公司可能会对你工作履历中的空白期有所怀疑。
+
+exuberance: 英[ɪɡˈzjuːbərəns] 美[ɪɡˈzuːbərəns]
+%n. 丰富，茂盛；健康；感情洋溢(或慷慨激昂)的言行；(感情等的)过度(或极度)表现
+    He seemed full of exuberance.
+#他看上去精力充沛。
+
+taking: 英[ˈteɪkɪŋ] 美[ˈteɪkɪŋ]
+$n. 取得；捕获；营业收入
+$adj. 可爱的；迷人的；会传染的
+%v. 拿；捕捉；夺取（take 的 ing 形式）
+    a taking smile
+#迷人的微笑
+    He took the day's takings to the bank.
+#他把一天的进款送到银行。
+
+resourceful: 英[rɪˈsɔːsf(ə)l] 美[rɪˈsɔːrsf(ə)l]
+%adj. 足智多谋的，机敏的
+    a keen, resourceful politician
+#头脑敏捷且足智多谋的政治家
+
+eidetic: 英[aɪˈdetɪk] 美[aɪˈdetɪk]
+%adj. 异常清晰的；极为逼真的
+    an eidetic memory
+#历历在目的记忆
+    an eidetic image
+#逼真的形象
+
+retrace: 英[rɪˈtreɪs] 美[rɪˈtreɪs]
+%vt. 追溯；折回；重描
+    She walked straight past her office and then had to retrace her steps.
+#她径直向前走过了办公室，然后又不得不折回。
+
+denunciate: 英[dɪˈnʌnsɪˌeɪt] 美[dɪˈnʌnsɪeɪt]
+%vt. 谴责；公开指责；公然抨击（等于 denounce）
+    denunciate sb. for neglect of duty
+#指责某人渎职
+    denunciate sb. as a thief
+#告发某人是贼
+
+assoil: 英[əˈsɔɪl] 美[əˈsɔɪl]
+%vt. 补偿；赦免，宣布……无罪
+    She made no attempt to assoil herself of her crime, and assimilated into prison life. 
+#她并不想赦免自己的罪行，被吸收进了监狱。
+
+shipshape: 英[ˈʃɪpʃeɪp] 美[ˈʃɪpʃeɪp]
+$adj. 井然有序的；整整齐齐的；整洁干净的
+%adv. 整齐地；整洁地
+    Everything in the house was clean and shipshape.
+#房里的一切都干干净净，整整齐齐。
+
+inadvertence: 英[ˌɪnədˈvɜːt(ə)ns] 美[ˌɪnədˈvɜːrt(ə)ns]
+%n. 不注意；怠慢，疏忽
+    misprints and inadvertences
+#印刷错误和疏漏
+    Mistakes proceed from inadvertence.
+#错误出自粗心大意。
+
+waylay: 英[weɪˈleɪ] 美[weɪˈleɪ]
+%vt. 伏击；埋伏
+    Bandits lie in wait to waylay unsuspecting travelers.
+#强盗埋伏起来，拦路抢劫毫无戒备的路人。
+
+blear: 英[blɪə(r)] 美[blɪr]
+$adj. 朦胧的，模糊的
+%v. 使……模糊不清，使……朦胧；使（眼睛）湿润
+    Tears bleared her eyes.
+#泪水模糊了她的眼睛。
+
+comely: 英[ˈkʌmli] 美[ˈkʌmli]
+%adj. 清秀的，标致的
+    a comely boy
+#清秀的男孩
+    in neat and comely arrangement
+#安排得整齐而妥帖
+
+dulcet: 英[ˈdʌlsɪt] 美[ˈdʌlsɪt]
+%adj. 美妙的；悦耳的；怡人的
+    dulcet tones
+#悦耳的语调
+    dulcet weather
+#宜人的气候
+
+coda: 英[ˈkəʊdə] 美[ˈkoʊdə]
+$n. 结尾部分；终结句；尾声；终曲
+%n. （Coda）人名；（法、西、意）科达
+    Her real skill on the piano was evident in the difficult coda.
+#有难度的尾声体现了她真正的钢琴演奏技巧。
+
+besot: 英[bɪˈsɒt] 美[bɪˈsɑːt]
+%vt. 使醉；使糊涂；使迷糊
+    be besotted with a girl
+#被一个姑娘迷住例
+    He looked at her with a besotted expression.
+#他用一种着迷的表情看着她。
+
+stonewall: 英[ˈstəʊnwɔːl] 美[ˈstoʊnwɔːl]
+$v. 拖延，阻碍；防守挡击
+%n. 拖延，阻碍；防守挡击
+    He was stonewalling and everybody knew it.
+#他是在故意设置障碍，这大家都看得出来。
+
+precept: 英[ˈpriːsept] 美[ˈpriːsept]
+%n. 规则；格言；训诫；命令
+    Parents must show by example as well as precept.
+#父母应该既有言传也有身教。
+
+bifurcate: 英[ˈbaɪfəkeɪt] 美[ˈbaɪfərkeɪt]
+$v. （路、河等）分为两支；（使）分岔
+%adj. 分叉的；分枝的
+    The river bifurcated into two narrow winding
+streams.
+#河流分成两条窄而弯曲的小溪。
+
+instate: 英[ɪnˈsteɪt] 美[ɪnˈsteɪt]
+%v. 安置；建立；任命
+    She was not at once instated in her rights.
+#她并没有立即获得自己的权利。
+
+mull: 英[mʌl] 美[mʌl]
+$vt. 研磨；思索或思考某事物；使醉
+$n. 混乱；软薄布
+$vi. 深思熟虑
+%n. （Mull）人名；（英）马尔
+    be mulled with drink
+#喝的烂醉
+    It was something he had mulled over for a long time.
+#这是他反复思索了很久的事。
+
+jaunt: 英[dʒɔːnt] 美[dʒɔːnt]
+$n. 远足；短途旅游
+%vi. 远足；作短途旅游
+    He decided to write an article about his China jaunt.
+#他决定写一篇有关自己在中国观光的文章。
+
+piteous: 英[ˈpɪtiəs] 美[ˈpɪtiəs]
+%adj. 可怜的；哀怨的；慈悲的
+    The kitten gave a piteous cry.
+#小猫发出了可怜的叫声。
+
+sanitize: 英[ˈsænɪtaɪz] 美[ˈsænɪtaɪz]
+%vt. 使……无害；给……消毒；对……采取卫生措施
+    sanitize the clothes
+#给衣服消毒
+    sanitize a film
+#净化影片的内容
+
+cleft: 英[kleft] 美[kleft]
+$v. 劈开；分开；迅速穿过；紧挨；坚信；分离（分子）；开（路）；（细胞）分裂；（诗、文）黏着；专心于；依恋（某人）（cleave的过去式及过去分词）
+$n. （尤指岩石、地表的）裂缝；额头（或下巴）中间的竖缝；（身体）V 字形凹陷
+%adj. （部分）裂成两半的
+    There was a narrow cleft in the rocks too small for humans to enter.
+#岩石中间有一条窄到人进不去的裂缝。
+
+inter: 英[ɪnˈtɜː(r)] 美[ɪnˈtɜːr]
+%v. <正式>埋葬（遗体）
+    Her body was interred at the cemetery.
+#她的遗体被埋葬在公墓里。
+
+plenitude: 英[ˈplenɪtjuːd] 美[ˈplenɪtuːd]
+%n. 充分；丰富；大量
+    His artistry has reached its plenitude.
+#他的艺术技巧已达到炉火纯青的地步。
+
+syncretize: 英[ˈsɪŋkrɪˌtaɪz] 美[ˈsɪŋkrəˌtaɪz]
+$vt. 融合；结合
+%vi. 融合；结合
+    he two modules syncretize RFID technology, embedded control technology and multimedia playback technology. 
+#两部分模块分别融合了先进的射频识别技术、嵌入式控制技术和多媒体播放技术。
+
+synchronize: 英[ˈsɪŋkrənaɪz] 美[ˈsɪŋkrənaɪz]
+%vt. （使）同步；对准（钟，表）；相符；（电脑）同步化
+    The show was designed so that lights synchronized with the music.
+#演出经过精心设计，使灯光和音乐在时间上保持一致。
+
+alluring: 英[əˈlʊərɪŋ] 美[əˈlʊrɪŋ]
+%adj. 诱惑的，诱人的；迷人的，吸引人的
+    an alluring actress
+#迷人的女演员
+    an alluring advertisement
+#吸引人的广告
+
+interlude: 英[ˈɪntəluːd] 美[ˈɪntərluːd]
+%n. （两件事情、两种形势之间的）间歇；（戏剧、电影等的）幕间休息；幕间乐曲（或节目、表演），插曲；短暂的幽会，风流韵事
+    an interlude in the main business of one's life
+#人生主要经历中的一段插曲
+    an interlude of sunshine between two showers
+#两次阵雨之间一段出太阳的时间
+
+influx: 英[ˈɪnflʌks] 美[ˈɪnflʌks]
+%n. （人或物的）大量涌入，大量流入；（水）流入，注入（河，湖，海）
+    an influx of foreign visitors
+#外国旅客的蜂拥而至
+    the influx of a river into the sea
+#河流的入海处
+
+extirpate: 英[ˈekstəpeɪt] 美[ˈekstərpeɪt]
+%v. 根除；彻底毁坏
+    Many species have been extirpated from those areas.
+#许多物种已在那些地区灭绝了。
+
+perjure: 英[ˈpɜːdʒə(r)] 美[ˈpɜːrdʒər]
+%vt. 作伪证；使发伪誓；使破坏誓言
+    Her evidence in this case was perjured.
+#她在本案中提供的证据是伪证。
+
+abortive: 英[əˈbɔːtɪv] 美[əˈbɔːrtɪv]
+%adj. 失败的；流产的；堕胎的
+    an abortive coup
+#一场失败的政变
+    an abortive attempt
+#企图未遂
+
+perky: 英[ˈpɜːki] 美[ˈpɜːrki]
+%adj. 神气的；得意洋洋的；自信的；活泼的
+    a perky squirrel
+#敏捷的松鼠
+    a perky waltz
+#轻快的华尔兹
+    a perky suit
+#时髦的套装
+
+convalescent: 英[ˌkɒnvəˈles(ə)nt] 美[ˌkɑːnvəˈles(ə)nt]
+$adj. 康复的；恢复期的
+%n. 恢复中的病人；康复的人
+    a convalescent diet
+#滋养的食物
+    a convalescent ward
+#康复病房
+
+sybaritic: 英[ˌsɪbəˈrɪtɪk] 美[ˌsɪbəˈrɪtɪk]
+%adj. 奢侈逸乐的；柔弱的
+    He mercilessly attacked their rulers as corrupt and sybaritic.
+#他无情地押击他们的统治者们荒淫腐败。
+
+intermission: 英[ˌɪntəˈmɪʃ(ə)n] 美[ˌɪntərˈmɪʃ(ə)n]
+%n. 幕间休息；暂停；中断
+    At intermission everyone crowded into the lobby.
+#幕间休息时大家挤进了剧院休息室。
+
+digression: 英[daɪˈɡreʃ(ə)n] 美[daɪˈɡreʃn]
+%n. 离题；脱轨
+    the digression of a ship
+#船只的偏离航
+
+belabor: 英[bɪˈleɪbə(r)] 美[bɪˈleɪbər]
+%vt. 痛打；抨击；过度说明；反复讨论
+    belabor the obvious
+#对本已十分明显的事做过多说明
+    He belabored his tired horse with a stick.
+#他用棍棒猛打他那疲劳的坐骑。
+
+misperceive: 英[ˌmɪspəˈsiːv] 美[ˌmɪspərˈsiːv]
+%vt. 误解；看错
+    misperceive the situation
+#看错形势
+
+pelt: 英[pelt] 美[pelt]
+$v. 向……连续投掷；连续向……投掷；（雨）倾盆而下；（非正式）（朝某处）飞跑；剥下（动物）的皮毛
+$n. （动物的）皮毛；（绵羊或山羊的）生皮；投掷；（非正式）（人的）毛发
+%n. （Pelt）（美）佩尔特（人名）
+    chase each other and pelt snowballs
+#相互追逐着扔雪球
+    You can't leave now -- it's pelting.
+#你现在不能离开，在下大雨。
+
+snob: 英[snɒb] 美[snɑːb]
+%n. 势利小人，谄上欺下的人；自以为懂行者，自命不凡的人
+    a snob about one's servants
+#对仆人态度势利的人
+    an intellectual snob
+#自以为很有知识的人
+
+incarcerate: 英[ɪnˈkɑːsəreɪt] 美[ɪnˈkɑːrsəreɪt]
+$vt. 监禁；下狱；禁闭
+%adj. 监禁的；禁闭的
+    He was to be incarcerated in a cell by himself.
+#他打算把自己囚禁在斗室之内。
+
+univocal: 英[ˌjuːnɪˈvəʊk(ə)l] 美[juːˈnɪvəkəl]
+%adj. 意义明确的；单一意思的
+    a univocal concept
+#单一概念
+
+upright: 英[ˈʌpraɪt] 美[ˈʌpraɪt]
+$adj. （人）直立的，挺直的；直立的，垂直的，立式的；正直的，诚实的；（椅子）直靠背的，没有扶手的
+$adv. 笔直地，直立地，垂直地；平稳地
+%n. （起支撑作用的）直柱，立柱，直立部分；球门柱；立式钢琴
+    an upright citizen
+#诚实正直的公民
+    Man walks upright on two feet.
+#人类用双脚直立行走。
+
+additive: 英[ˈædətɪv] 美[ˈædətɪv]
+$n. 添加剂，添加物
+%adj. 累积的，添加的；（与）叠加色（有关）的
+    food additives
+#食物添加剂
+    The progress is additive.
+#这个过程是累加的。
+
+gabby: 英[ˈɡæbi] 美[ˈɡæbi]
+$adj. 饶舌的，多嘴的；健谈的
+%n. （Gabby）（美）加比（人名）
+    a gabby woman
+#饶舌的女人
+
+spindly: 英[ˈspɪndli] 美[ˈspɪndli]
+%adj. 细长的；纺锤形的
+    spindly legs
+#细长的腿
+    The plants indoors are getting too spindly.
+#室内的植物长得太瘦弱了。
+
+portentous: 英[pɔːˈtentəs] 美[pɔːrˈtentəs]
+%adj. 不祥的；预兆的；令人惊讶的
+    The present aspect of society is portentous of great change.
+#目前的社会面貌预示着巨大的变化。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

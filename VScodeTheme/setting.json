@@ -1,0 +1,16 @@
+{
+    "Codegeex.Privacy": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontSize": 20,
+    "editor.fontWeight": "normal",
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontFamily"
+    ],
+    "editor.wordWrap": "on",
+    "workbench.editor.decorations.colors": false,
+    "editor.renderWhitespace": "boundary",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Monokai",
+    "editor.fontFamily": "Times New Roman, 'Courier New', monospace",
+    "editor.fontLigatures": false
+}

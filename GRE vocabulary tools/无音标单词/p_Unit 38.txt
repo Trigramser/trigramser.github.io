@@ -1,0 +1,599 @@
+<<<<<<< HEAD
+﻿acedia:
+    Sadly these kids attend schools where acedia exists among both the students and teachers.
+#可悲的是，在这些孩子念书的学校里，师生都缺乏热情。
+
+nemesis:
+    invite nemesis
+#招致报应
+    The tax increases proved to be the president's political nemesis at the following election.
+#增加赋税致使总统在下届选举中遭到了政治上的报应。
+
+gerontocracy:
+    A gerontocracy of designers who became world famous two if not three decades ago have left little space for young challengers.
+#20、30年前蜚声海内外、如今已步入暮年的设计师挤压了年轻设计师的挑战空间。
+
+plaudit:
+    The novel received plaudits of the critics.
+#这部小说受到了批评家的赞扬。
+
+drawn:
+    a drawn match
+#不分胜负的比赛
+    He saw a face drawn with sorrow.
+#他看到一张因悲伤而惟悴的脸。
+
+cosmopolitanism:
+    Cosmopolitanism became difficult to disentangle from its overtones of anti-nationalism.
+#世界主义很难摆脱反爱国主义的色彩。
+
+gumption:
+    She had the gumption to phone directly to the company manager and persuade him to give her a job.
+#她很有魄力，直接给公司经理打电话并劝说他给她一份工作。
+
+polemical:
+    The polemical dispute between the two countries deepens.
+#两国间的论战日趋深化。
+
+jamb:
+    The jamb is fallen.
+#侧柱倒塌了。
+
+neophyte:
+    a neophyte on the political stage
+#在政治舞台上初露头角的人
+
+subpoena:
+    call sb. on subpoena
+#传唤某人
+    be under a subpoena
+#被传唤
+    subpoena sb. to testify
+#传某人到法庭作证
+
+negligence:
+    He dressed with easy negligence.
+#他穿得随随便便。
+
+statuary:
+    some magnificent Roman statuary
+#几尊雄伟的罗马雕像
+    statuary art
+#雕塑艺术
+
+summation:
+    She gave us a final summation of what they had achieved.
+#她最后给我们总结了他们已取得的成就。
+
+scrimp:
+    scrimp and save
+#节省钱财
+    the scrimping life of peasants
+#农民的节俭生活
+    scrimp and scrape
+#节俭
+    She spent most of her money on clothes and scrimped on food.
+#她把钱大部分花在了衣着上，在吃的方面十分节俭。
+
+transpose:
+    transpose the verse into prose
+#把诗改写成散文
+    The director transposes the action from 15th century France to modern America.
+#导演把故事背景从15世纪的法国变为现代美国。
+
+bray:
+    Cannons roared, and trumpets brayed.
+#炮声隆隆，军号嘟嘟。
+
+blandish:
+    She blandished him out of his black mood.
+#她用甜言蜜语消除了他忧郁的情绪。
+
+naysay:
+    naysay one's suggestions
+#拒绝某人的建议
+
+betoken:
+    Dark clouds usually betoken rain.
+#乌云通常预示着要下雨。
+
+forger:
+    The paintings were produced by a clever art forger.
+#这些画是由一个高超的艺术伪造者仿制的。
+
+ancillary:
+    an ancillary undertaking
+#附属事业
+    ancillary equipment
+#辅助设备
+    ancillary evidence
+#附加证据
+
+star-crossed:
+    a star-crossed day
+#倒霉的日子
+
+ilk:
+    the world of media people and their ilk
+#新闻媒体一类人等
+    Girls of Amy's ilk prefer to go to the movies alone.
+#埃米这类姑娘喜欢独个儿看电影。
+
+rambunctious:
+    He was too rambunctious to get along with.
+#他太任性，很难相处。
+
+muzzy:
+    feel a bit muzzy in the head
+#头脑有点昏沉
+    a muzzy day
+#阴沉的一天
+
+forgo:
+    forgo a holiday
+#放弃假期
+    I'll have to forgo the pleasure of seeing you this week.
+#这周我只好放弃与你相见的乐事。
+
+other-directed:
+    an other-directed man
+#没有主见的人
+
+prevaricate:
+    Jane prevaricated over whether to buy a new house.
+#简在是否买新房子上含糊其词。
+
+rapacious:
+    rapacious invaders
+#四处掠夺的入侵者
+    a rapacious businessman
+#贪婪的商人
+    rapacious animals
+#食肉动物
+
+bovine:
+    He was a gentle, rather bovine man.
+#他是一个文雅有耐性的人。
+
+preponderant:
+    Music does not play a very preponderant role in school's teaching.
+#音乐在学校教育中还未起到重要的作用。
+
+mawkish:
+    sentimental mawkish verses
+#无病呻吟的诗句
+
+disaffect:
+    The policies of the new government soon disaffected the people.
+#新政府的政策不久就激起了人民的不满。
+    disaffected soldiers
+#心怀不满的士兵们
+
+sequacious:
+    a sequacious argument
+#合乎逻辑的论点
+
+conjoin:
+    The past and present are conjoined in the author's imagination.
+#过去和现在通过作者的想象重叠在一起。
+
+ratification:
+    Treaties require ratification by respective countries.
+#条约需经各自的国家批准。
+
+informed:
+    alert and informed students
+#机灵而有见识的学生
+    informed sources
+#消息灵通人士
+    informed taste
+#高雅的情趣
+    She was so well informed about all things that happened in the town.
+#她对镇上发生的大小事儿全都了解得一清二楚。
+
+verboten:
+    a verboten film
+#禁止上映的电影
+
+consonance:
+    consonance of thought and expression
+#思想和表达的一致
+    His actions are in consonance with his beliefs.
+#他的行为和他的信仰是一致的。
+
+superfluity:
+    a superfluity of apples
+#太多的苹果
+    Luxuries are superfluities.
+#奢侈品为非必需品。
+
+gyrate:
+    gyrating prices
+#波动的价格
+    They are gyrating to the accompaniment of bands playing jazz.
+#他们在爵士乐队的演奏下旋转起舞。
+
+striate:
+    The temple perches on the striated cliffs.
+#那座寺庙坐落在布满条纹的峭壁上。
+
+restless:
+    restless pacing up and down
+#焦躁地来回步
+    spend a restless night
+#度过一个不眠之夜
+    a restless mind
+#探索不止的头脑
+    The animals grew restless as if in anticipation of an earthquake.
+#各种动物都变得焦躁不安，像是感到了地震即将发生。
+
+naysayer:
+    Be warned that the majority of people out there will go into naysayer mode automatically.
+#值得注意的是，这类人大多数都会自动的变为反对者。
+
+insolence:
+    She was unwilling to put up with his insolence.
+#她不愿忍受他的做慢无礼。
+
+gustatory:
+    Eating fine food gives gustatory pleasure.
+#美食给人以味觉的享受。
+
+mutate:
+    These bacteria have mutated into forms that are resistant to certain drugs.
+#这些细菌已突变成对某些药物有抗药性的形态。
+
+empyreal:
+    empyreal ideas
+#崇高的理想
+    empyreal mountain air
+#纯净的山间空气
+
+blockage:
+    a blockage in the drainpipe
+#排水管堵塞
+
+albeit:
+    They are still waiting, albeit with growing impatience.
+#他们仍在等着，尽管越来越不耐烦。
+
+atheism:
+    He then segued into a discussion of atheism.
+#然后他转入对无神论的论述。
+
+torrential:
+    a torrential flow of words
+#滔滔不绝的讲话;
+    torrential applause
+#暴风雨般的掌声
+    Before we got home, torrential rain began to pour.
+#我们还没有到家，暴雨就倾盆而下。
+
+skirt:
+    skirt an issue
+#回避问题
+    a road skirting round the bay
+#一条沿海湾的路
+    They skirted the willow grove instead of going through it.
+#他们绕过而不是穿过柳树林。
+
+lassitude:
+    Shareholders are blaming the company's problems on the lassitude of the managing director.
+#股东们把公司的问题归咎于总经理的懈怠。
+
+vandalize:
+    They are the type of men likely to vandalize phone boxes.
+#他们是些可能恶意破坏电话亭的人。
+
+pauper:
+    Most of the paupers live in the north of the country.
+#大多数贫民住在该国的北部。
+
+patrician:
+    He was born into a patrician family and privately educated.
+#他出生于一个贵族家庭，接受的是私人教育。
+
+splashy:
+    a splashy half-page ad
+#引人注意的半页广告
+
+=======
+﻿acedia:
+    Sadly these kids attend schools where acedia exists among both the students and teachers.
+#可悲的是，在这些孩子念书的学校里，师生都缺乏热情。
+
+nemesis:
+    invite nemesis
+#招致报应
+    The tax increases proved to be the president's political nemesis at the following election.
+#增加赋税致使总统在下届选举中遭到了政治上的报应。
+
+gerontocracy:
+    A gerontocracy of designers who became world famous two if not three decades ago have left little space for young challengers.
+#20、30年前蜚声海内外、如今已步入暮年的设计师挤压了年轻设计师的挑战空间。
+
+plaudit:
+    The novel received plaudits of the critics.
+#这部小说受到了批评家的赞扬。
+
+drawn:
+    a drawn match
+#不分胜负的比赛
+    He saw a face drawn with sorrow.
+#他看到一张因悲伤而惟悴的脸。
+
+cosmopolitanism:
+    Cosmopolitanism became difficult to disentangle from its overtones of anti-nationalism.
+#世界主义很难摆脱反爱国主义的色彩。
+
+gumption:
+    She had the gumption to phone directly to the company manager and persuade him to give her a job.
+#她很有魄力，直接给公司经理打电话并劝说他给她一份工作。
+
+polemical:
+    The polemical dispute between the two countries deepens.
+#两国间的论战日趋深化。
+
+jamb:
+    The jamb is fallen.
+#侧柱倒塌了。
+
+neophyte:
+    a neophyte on the political stage
+#在政治舞台上初露头角的人
+
+subpoena:
+    call sb. on subpoena
+#传唤某人
+    be under a subpoena
+#被传唤
+    subpoena sb. to testify
+#传某人到法庭作证
+
+negligence:
+    He dressed with easy negligence.
+#他穿得随随便便。
+
+statuary:
+    some magnificent Roman statuary
+#几尊雄伟的罗马雕像
+    statuary art
+#雕塑艺术
+
+summation:
+    She gave us a final summation of what they had achieved.
+#她最后给我们总结了他们已取得的成就。
+
+scrimp:
+    scrimp and save
+#节省钱财
+    the scrimping life of peasants
+#农民的节俭生活
+    scrimp and scrape
+#节俭
+    She spent most of her money on clothes and scrimped on food.
+#她把钱大部分花在了衣着上，在吃的方面十分节俭。
+
+transpose:
+    transpose the verse into prose
+#把诗改写成散文
+    The director transposes the action from 15th century France to modern America.
+#导演把故事背景从15世纪的法国变为现代美国。
+
+bray:
+    Cannons roared, and trumpets brayed.
+#炮声隆隆，军号嘟嘟。
+
+blandish:
+    She blandished him out of his black mood.
+#她用甜言蜜语消除了他忧郁的情绪。
+
+naysay:
+    naysay one's suggestions
+#拒绝某人的建议
+
+betoken:
+    Dark clouds usually betoken rain.
+#乌云通常预示着要下雨。
+
+forger:
+    The paintings were produced by a clever art forger.
+#这些画是由一个高超的艺术伪造者仿制的。
+
+ancillary:
+    an ancillary undertaking
+#附属事业
+    ancillary equipment
+#辅助设备
+    ancillary evidence
+#附加证据
+
+star-crossed:
+    a star-crossed day
+#倒霉的日子
+
+ilk:
+    the world of media people and their ilk
+#新闻媒体一类人等
+    Girls of Amy's ilk prefer to go to the movies alone.
+#埃米这类姑娘喜欢独个儿看电影。
+
+rambunctious:
+    He was too rambunctious to get along with.
+#他太任性，很难相处。
+
+muzzy:
+    feel a bit muzzy in the head
+#头脑有点昏沉
+    a muzzy day
+#阴沉的一天
+
+forgo:
+    forgo a holiday
+#放弃假期
+    I'll have to forgo the pleasure of seeing you this week.
+#这周我只好放弃与你相见的乐事。
+
+other-directed:
+    an other-directed man
+#没有主见的人
+
+prevaricate:
+    Jane prevaricated over whether to buy a new house.
+#简在是否买新房子上含糊其词。
+
+rapacious:
+    rapacious invaders
+#四处掠夺的入侵者
+    a rapacious businessman
+#贪婪的商人
+    rapacious animals
+#食肉动物
+
+bovine:
+    He was a gentle, rather bovine man.
+#他是一个文雅有耐性的人。
+
+preponderant:
+    Music does not play a very preponderant role in school's teaching.
+#音乐在学校教育中还未起到重要的作用。
+
+mawkish:
+    sentimental mawkish verses
+#无病呻吟的诗句
+
+disaffect:
+    The policies of the new government soon disaffected the people.
+#新政府的政策不久就激起了人民的不满。
+    disaffected soldiers
+#心怀不满的士兵们
+
+sequacious:
+    a sequacious argument
+#合乎逻辑的论点
+
+conjoin:
+    The past and present are conjoined in the author's imagination.
+#过去和现在通过作者的想象重叠在一起。
+
+ratification:
+    Treaties require ratification by respective countries.
+#条约需经各自的国家批准。
+
+informed:
+    alert and informed students
+#机灵而有见识的学生
+    informed sources
+#消息灵通人士
+    informed taste
+#高雅的情趣
+    She was so well informed about all things that happened in the town.
+#她对镇上发生的大小事儿全都了解得一清二楚。
+
+verboten:
+    a verboten film
+#禁止上映的电影
+
+consonance:
+    consonance of thought and expression
+#思想和表达的一致
+    His actions are in consonance with his beliefs.
+#他的行为和他的信仰是一致的。
+
+superfluity:
+    a superfluity of apples
+#太多的苹果
+    Luxuries are superfluities.
+#奢侈品为非必需品。
+
+gyrate:
+    gyrating prices
+#波动的价格
+    They are gyrating to the accompaniment of bands playing jazz.
+#他们在爵士乐队的演奏下旋转起舞。
+
+striate:
+    The temple perches on the striated cliffs.
+#那座寺庙坐落在布满条纹的峭壁上。
+
+restless:
+    restless pacing up and down
+#焦躁地来回步
+    spend a restless night
+#度过一个不眠之夜
+    a restless mind
+#探索不止的头脑
+    The animals grew restless as if in anticipation of an earthquake.
+#各种动物都变得焦躁不安，像是感到了地震即将发生。
+
+naysayer:
+    Be warned that the majority of people out there will go into naysayer mode automatically.
+#值得注意的是，这类人大多数都会自动的变为反对者。
+
+insolence:
+    She was unwilling to put up with his insolence.
+#她不愿忍受他的做慢无礼。
+
+gustatory:
+    Eating fine food gives gustatory pleasure.
+#美食给人以味觉的享受。
+
+mutate:
+    These bacteria have mutated into forms that are resistant to certain drugs.
+#这些细菌已突变成对某些药物有抗药性的形态。
+
+empyreal:
+    empyreal ideas
+#崇高的理想
+    empyreal mountain air
+#纯净的山间空气
+
+blockage:
+    a blockage in the drainpipe
+#排水管堵塞
+
+albeit:
+    They are still waiting, albeit with growing impatience.
+#他们仍在等着，尽管越来越不耐烦。
+
+atheism:
+    He then segued into a discussion of atheism.
+#然后他转入对无神论的论述。
+
+torrential:
+    a torrential flow of words
+#滔滔不绝的讲话;
+    torrential applause
+#暴风雨般的掌声
+    Before we got home, torrential rain began to pour.
+#我们还没有到家，暴雨就倾盆而下。
+
+skirt:
+    skirt an issue
+#回避问题
+    a road skirting round the bay
+#一条沿海湾的路
+    They skirted the willow grove instead of going through it.
+#他们绕过而不是穿过柳树林。
+
+lassitude:
+    Shareholders are blaming the company's problems on the lassitude of the managing director.
+#股东们把公司的问题归咎于总经理的懈怠。
+
+vandalize:
+    They are the type of men likely to vandalize phone boxes.
+#他们是些可能恶意破坏电话亭的人。
+
+pauper:
+    Most of the paupers live in the north of the country.
+#大多数贫民住在该国的北部。
+
+patrician:
+    He was born into a patrician family and privately educated.
+#他出生于一个贵族家庭，接受的是私人教育。
+
+splashy:
+    a splashy half-page ad
+#引人注意的半页广告
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

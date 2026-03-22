@@ -1,0 +1,733 @@
+<<<<<<< HEAD
+belligerent: 英[bəˈlɪdʒərənt] 美[bəˈlɪdʒərənt]
+$adj. 敌对的，好战的；<正式>  参战的，交战的
+%n. <正式>交战方，交战国
+    speak in a belligerent voice
+#用挑战的口说话
+    belligerent feelings
+#敌对的情绪
+    the belligerent powers
+#诸交战国
+    The belligerent countries are having difficulties funding the war.
+#交战国缺乏战争资金。
+
+fearsome: 英[ˈfɪəsəm] 美[ˈfɪrsəm]
+%adj. 可怕的；害怕的；极大的
+    fearsome chemical weapons
+#可怕的化学武器
+    a fearsome display of violence
+#可怕的暴力行为
+    fearsome noise
+#可怕的噪声
+    a fearsome rate
+#极快的速度
+
+sentimentalize: 英[ˌsentɪˈmentəlaɪz] 美[ˌsentɪˈmentəlaɪz]
+$vt. 感伤地对待……
+%vi. 感伤
+    sentimentalize over/about one's childhood
+#回想童年而伤感
+    The film is a sentimentalized version of what actually happened.
+#那部电影伤感地反映了实际发生的事情。
+
+bolster: 英[ˈbəʊlstə(r)] 美[ˈboʊlstər]
+$v. 增强，激励；巩固（地位），加强；改善，改进；给（座位）加软垫
+%n. 长枕，垫枕；承梁（用于支撑或减少摩擦）；托木；（削砖用的）凿刀
+    bolster the roof
+#把屋顶支起来
+    bolster the industry
+#促进工业
+    bolster one's image
+#改善形象
+    She tried to bolster his confidence by telling him that he had a special talent.
+#她告诉他，他有特殊才能，试图增强他的自信心。
+
+uninitiated: 英[ˌʌnɪˈnɪʃieɪtɪd] 美[ˌʌnɪˈnɪʃieɪtɪd]
+%adj. 不知情的；缺少经验的
+    the uninitiated
+#缺乏某种特定知识和经验的人
+    This must seem a bizarre ceremony to uninitiated Western eyes.
+#这种礼仪在不熟悉的西方人看来定很怪诞。
+
+opprobrious: 英[əˈprəʊbriəs] 美[əˈproʊbriəs]
+%adj. 无礼的；嘴不干净的；该骂的；可耻的
+    opprobrious language
+#骂人的话
+    opprobrious conduct
+#恶行
+    an opprobrious affair
+#丑事
+
+flickering: 英[ˈflɪkərɪŋ] 美[ˈflɪkərɪŋ]
+$adj. 闪烁的，忽隐忽现的；摇曳的
+%v. 闪烁（flicker 的 ing 形式）
+    a flickering hope
+#微弱的希望
+    a flickering light
+#闪烁的光
+    flickering leaves
+#颤动着的树叶
+    flickerings of a possible reconciliation
+#和解的迹象
+    We sat comfortably by the flickering fire, reading our books.
+#我们舒舒服服地坐在摇曳的火光前看书。
+
+exhilaration: 英[ɪɡˌzɪləˈreɪʃ(ə)n] 美[ɪɡˌzɪləˈreɪʃ(ə)n]
+%n. 兴奋，欢欣
+    After the walk in the woods, I felt a certain feeling of exhilaration.
+#在林间散步之后，我有种心旷神怡之感。
+
+rescind: 英[rɪˈsɪnd] 美[rɪˈsɪnd]
+%v. <正式>废除，取消
+    rescind an agreement
+#废除协议
+    rescind a contract
+#解除合同
+    rescind the order
+#收回成命
+    The government rescinded his French citizenship.
+#政府取消了他的法国国籍。
+
+neolithic: 英[ˌniːəˈlɪθɪk] 美[ˌniːəˈlɪθɪk]
+%adj. [古] 新石器时代的；早先的
+    This area has been used as a burial ground since neolithic times.
+#这个地区从新石器时代起一直被用作墓地。
+
+off-key: 英[ˌɒf ˈkiː] 美[ˌɔːf ˈkiː]
+%adj. 不和谐的；走音的；不恰当的
+    The vocals are off-key.
+#歌声走音了。
+
+underrate: 英[ˌʌndəˈreɪt] 美[ˌʌndəˈreɪt]
+%vt. 低估；看轻
+    make the mistake of underrating sb.
+#犯了低估某人的错误
+    The company has consistently underrated the importance of a well-trained workforce.
+#这个公司一贯低估一支受过良好训练的员工队伍的重要性。
+
+impunity: 英[ɪmˈpjuːnəti] 美[ɪmˈpjuːnəti]
+%n. 不受惩罚；无患；[法] 免罚
+    The verdict seemed to be impunity.
+#看来裁决可能是免于惩处。
+
+unimpassioned: 英[ˌʌnɪmˈpæʃ(ə)nd] 美[ˌʌnɪmˈpæʃ(ə)nd]
+%adj. 没有激情的；不动感情的；不感情用事的
+    an unimpassioned discussion of the problem
+#问题心平气和的讨论
+
+synchronization: 英[ˌsɪŋkrənaɪˈzeɪʃ(ə)n] 美[ˌsɪŋkrənəˈzeɪʃ(ə)n]
+%n. [物] 同步；同时性
+    The entire roomful of dancers moved in perfect synchronization, just like in the movies.
+#一屋子的舞者步调完全一致地跳着舞，就像电影里发生的情节一样。
+
+reprehensible: 英[ˌreprɪˈhensəbl] 美[ˌreprɪˈhensəb(ə)l]
+%adj. 应斥责的；应该谴责的
+    a morally reprehensible act
+#道义上应受严责的行为
+
+potted: 英[ˈpɒtɪd] 美[ˈpɑːtɪd]
+$adj. 盆栽的；罐装的；密封的；喝醉的；（英）扼要的，简写的
+%v. 把……装罐；装在盆中（pot 的过去式和过去分词）
+    potted eat
+#罐装肉
+    a potted version of Shakespeare's plays
+#莎士比亚戏剧简写本
+    There were potted plants on the windowsill.
+#窗台上摆着盆栽植物。
+
+investigative: 英[ɪnˈvestɪɡətɪv] 美[ɪnˈvestɪɡeɪtɪv]
+%adj. 研究的；调查的；好调查的
+    an investigative report
+#调查报告
+    investigative journalism
+#调查性新闻
+    Children are encouraged to take an investigative approach to learning.
+#鼓励儿童采取一种探究型学习方式。
+
+concoct: 英[kənˈkɒkt] 美[kənˈkɑːkt]
+%vt. 编造；调制（食物或饮品）
+    concoct an amazing dish
+#调制出令人惊奇的菜肴
+    concoct a new kind of soup
+#配置一种新汤
+    concoct an excuse
+#编造借口
+    He concocted a story about working late at the office, but I knew he was going drinking with his brother.
+#他编造了一个在办公室加班的故事，不过我知道他和他兄弟喝酒去了。
+
+omnipotent: 英[ɒmˈnɪpətənt] 美[ɑːmˈnɪpətənt]
+%adj. 全能的，无所不能的
+    an omnipotent God
+#全能的上帝
+    in omnipotent silence
+#在绝对的肃静中
+    an omnipotent villain
+#彻头彻尾的恶棍
+    Until his illness, we'd always thought of the president as omnipotent.
+#在总统生病之前，我们一直认为他是万能的。
+
+verifiable: 英[ˈverɪfaɪəb(ə)l] 美[ˈverɪfaɪəb(ə)l]
+%adj. 可证实的，可核实的
+    He didn't produce a single verifiable fact to prove that the alleged incident had ever taken place.
+#他没有提供一丁点可靠的事实来证明那一事件曾发生过。
+
+impartiality: 英[ˌɪmˌpɑːʃiˈæləti] 美[ˌɪmˌpɑːrʃiˈæləti]
+%n. 公正，公平；不偏不倚
+    Some ministers are pressing for new rules on broadcasting impartiality.
+#一些部长迫切要求就广播的客观性制定新规则。
+
+adulatory: 英[ˌædjuˈleɪtəri] 美[ˈædʒələtɔːri]
+%adj. 阿谀的，奉承的；谄媚的
+    adulatory listeners
+#捧场的听众
+    an adulatory speech
+#一席溢美之词
+    He is being adulatory of the candidate.
+#他是在吹嘘候选人。
+
+sanctum: 英[ˈsæŋktəm] 美[ˈsæŋktəm]
+%n. 圣所；密室；私室
+    Few people ever managed to penetrate the manager's inner sanctum.
+#几乎没有人曾进人过经理的私室。
+
+flagging: 英[ˈflæɡɪŋ] 美[ˈflæɡɪŋ]
+$adj. 下垂的；衰弱的
+$n. 石板路；铺砌石板
+%v. 悬旗于（flag 的现在分词）
+    flagging spirit
+#萎靡不振的精神
+    flagging morale
+#衰弱的士气
+    the flagging economy
+#萎缩的经济
+
+fertilize: 英[ˈfɜːtəlaɪz] 美[ˈfɜːrtəlaɪz]
+%vt. 使受精；使肥沃
+    fertilize farmland
+#给农田施肥
+    fertilize one's vocabulary with wide reading
+#通过博览群书来丰富词汇
+    fertilized eggs
+#受精卵
+    Bees can fertilize flowers.
+#蜜蜂能使花受精。
+
+permissive: 英[pəˈmɪsɪv] 美[pərˈmɪsɪv]
+%adj. 放任的，纵容的；<法律>允许而非强制的，可选择的；（生）允许的，许可的；（道路）公众获准可使用的
+    a permissive school
+#放任自由的学校
+    a permissive attitude
+#宽容放任的态度
+    a permissive society
+#性开放的社会
+    a permissive regulation
+#非约束性规定
+    He claims that some parents have been far too permissive towards their children.
+#他声称有些父对孩子过分纵容。
+
+uneventful: 英[ˌʌnɪˈventf(ə)l] 美[ˌʌnɪˈventf(ə)l]
+%adj. 平凡的；平静无事的
+    an uneventful week
+#平静无事的一周
+    an uneventful life
+#平静的生活/平凡的一生
+    uneventful recovery
+#顺利的复原
+    They had an uneventful journey.
+#他们的旅途平安无事。
+
+indubitably: 英[ɪnˈdjuːbɪtəbli] 美[ɪnˈduːbɪtəbli]
+%adv. 无疑地，不容置疑地，不容置疑地
+    He looked different but it was indubitably John.
+#他看上去(跟从前)有些不同，但他肯定是约翰。
+
+choreograph: 英[ˈkɒriəɡrɑːf] 美[ˈkɔːriəɡræf]
+%v. 给……设计舞蹈动作， 给……编舞；设计，筹划（活动，工作）
+    The ballet was choreographed by Ashton.
+#这部蕾舞剧是阿什顿设计的舞蹈动作。
+
+irradicable: 英[ɪˈrædɪkəbl] 美[ɪˈrædɪkəbəl]
+%adj. 不能根除的
+    an irradicable prejudice
+#根深蒂固的偏见
+
+misconstrue: 英[ˌmɪskənˈstruː] 美[ˌmɪskənˈstruː]
+%vt. 误解，曲解；误会
+    You misconstrue me if you think I will give up my support of the plan.
+#如果你以为我将不再支持这项计划，那你就误解我的意思了。
+
+coercive: 英[kəʊˈɜːsɪv] 美[koʊˈɜːrsɪv]
+%adj. 强制的，胁迫的
+    The president relied on coercive powers of the military and the police to enforce law and order.
+#总统凭借军队和警察这种强制力量实施法律和维持秩序。
+
+well-intentioned: 英[ˌwel ɪnˈtenʃ(ə)nd] 美[ˌwel ɪnˈtenʃ(ə)nd]
+%adj. 好意的，好心的；出于善意的
+    He described the report as well-intentioned, but misguided.
+#他称这份报告本意是好的，但指导思想是错误的。
+
+preempt: 英[ˌpriːˈempt] 美[ˌpriːˈempt]
+%vt. 先占；先取；以先买权获得
+    The rebels have preempted the power of the local government.
+#反叛者已经夺取了地方政府的权力。
+
+ingrain: 英[ɪnˈɡreɪn] 美[ɪnˈɡreɪn]
+$vt. 使……根深蒂固；就……原料染色；生染
+$n. 固有品质；原纱染色；生染的纤维
+$adj. 生染的；原纱染色的；根深蒂固的
+%n. （Ingrain）人名；（法）安格兰；（西）因格拉因
+    ingrain habits
+#固习
+    A deep respect for the truth has been ingrained in the child.
+#尊重真理的深刻信念深深扎根在这孩子的心中。
+
+veracious: 英[vəˈreɪʃəs] 美[vəˈreɪʃəs]
+%adj. 诚实的；真实的
+    a veracious witness
+#诚实的证人
+    a veracious account
+#忠实的叙述
+
+hesitant: 英[ˈhezɪtənt] 美[ˈhezɪtənt]
+%adj. 犹豫的，不愿的
+    An elderly lady was approaching him in a somewhat hesitant manner.
+#一位上了年纪的女士略带着几分迟疑向他走去。
+
+jaded: 英[ˈdʒeɪdɪd] 美[ˈdʒeɪdɪd]
+$adj. 厌倦的；疲倦不堪的
+%v. 厌倦（jade 的过去分词）；变得疲倦；精疲力竭
+    a jaded look
+#倦容
+    a jaded appetite
+#食欲不振
+    The movie dealt with the same old jaded theme of revenge and murder.
+#这部电影围绕复仇和谋杀这种老一套的陈腐题材。
+
+salubrious: 英[səˈluːbriəs] 美[səˈluːbriəs]
+%adj. 清爽的；气候有益健康的
+    He doesn't live in a very salubrious part of town.
+#他住在镇上风气不太好的地段。
+
+stylize: 英[ˈstaɪlaɪz] 美[ˈstaɪˌlaɪz]
+$vt. 使风格化；使程式化
+%vi. 符合特定（或传统）程式
+    In Beijing Opera, acting performances are usually stylized.
+#在京剧中，表演动作常常是模式化的。
+
+purposive: 英[ˈpɜːpəsɪv] 美[ˈpɜːrpəsɪv]
+%adj. 有目的的；故意的
+    purposive behavior
+#有目的的行为
+    a purposive structure
+#有针对性的结构
+
+circumscribe: 英[ˈsɜːkəmskraɪb] 美[ˈsɜːrkəmskraɪb]
+%vt. 约束，限定；在……上画圈；包围；（几何学）外接
+    a voyage that circumscribes the world
+#环绕世界的航行
+    There followed a series of tightly circumscribed visits to military installations.
+#随之而来的是一系列充满严格限制的对军事设施的参观。
+
+impediment: 英[ɪmˈpedɪmənt] 美[ɪmˈpedɪmənt]
+%n. 妨碍，障碍；口吃，结巴
+    have an impediment in one's speech
+#讲话口吃
+    an impediment to reform
+#改革的障碍
+    The new taxes were a major impediment to economic growth.
+#新增的税是经济增长的主要障碍。
+
+superstructure: 英[ˈsuːpəstrʌktʃə(r)] 美[ˈsuːpərstrʌktʃər]
+%n. 上层建筑；上部构造
+    The foundations are finished and work has now begun on building the superstructure of the new library.
+#新图书馆的地基已打好，现在开始地面上部结构的施工。
+
+recalcitrant: 英[rɪˈkælsɪtrənt] 美[rɪˈkælsɪtrənt]
+$adj. 反抗的；反对的；顽强的
+%n. 顽抗者；不服从的人
+    be recalcitrant to tradition
+#反抗传统
+    a recalcitrant boy
+#犟男孩
+    The taxpayers are becoming increasingly recalcitrant about open-ended programs for overseas purposes.
+#纳税人对于资助那些无限制的海外项目越来越持抗拒态度。
+
+sunlit: 英[ˈsʌnlɪt] 美[ˈsʌnlɪt]
+%adj. 阳光照射的；被日光照射了的
+    a sunlit courtyard
+#洒满阳光的院子
+    in those sunlit years
+#在那些欢乐的年月里
+
+dietary: 英[ˈdaɪətəri] 美[ˈdaɪəteri]
+%adj. 饮食的
+    Dietary habits can be very difficult to change.
+#饮食习惯很难改变。
+
+=======
+belligerent: 英[bəˈlɪdʒərənt] 美[bəˈlɪdʒərənt]
+$adj. 敌对的，好战的；<正式>  参战的，交战的
+%n. <正式>交战方，交战国
+    speak in a belligerent voice
+#用挑战的口说话
+    belligerent feelings
+#敌对的情绪
+    the belligerent powers
+#诸交战国
+    The belligerent countries are having difficulties funding the war.
+#交战国缺乏战争资金。
+
+fearsome: 英[ˈfɪəsəm] 美[ˈfɪrsəm]
+%adj. 可怕的；害怕的；极大的
+    fearsome chemical weapons
+#可怕的化学武器
+    a fearsome display of violence
+#可怕的暴力行为
+    fearsome noise
+#可怕的噪声
+    a fearsome rate
+#极快的速度
+
+sentimentalize: 英[ˌsentɪˈmentəlaɪz] 美[ˌsentɪˈmentəlaɪz]
+$vt. 感伤地对待……
+%vi. 感伤
+    sentimentalize over/about one's childhood
+#回想童年而伤感
+    The film is a sentimentalized version of what actually happened.
+#那部电影伤感地反映了实际发生的事情。
+
+bolster: 英[ˈbəʊlstə(r)] 美[ˈboʊlstər]
+$v. 增强，激励；巩固（地位），加强；改善，改进；给（座位）加软垫
+%n. 长枕，垫枕；承梁（用于支撑或减少摩擦）；托木；（削砖用的）凿刀
+    bolster the roof
+#把屋顶支起来
+    bolster the industry
+#促进工业
+    bolster one's image
+#改善形象
+    She tried to bolster his confidence by telling him that he had a special talent.
+#她告诉他，他有特殊才能，试图增强他的自信心。
+
+uninitiated: 英[ˌʌnɪˈnɪʃieɪtɪd] 美[ˌʌnɪˈnɪʃieɪtɪd]
+%adj. 不知情的；缺少经验的
+    the uninitiated
+#缺乏某种特定知识和经验的人
+    This must seem a bizarre ceremony to uninitiated Western eyes.
+#这种礼仪在不熟悉的西方人看来定很怪诞。
+
+opprobrious: 英[əˈprəʊbriəs] 美[əˈproʊbriəs]
+%adj. 无礼的；嘴不干净的；该骂的；可耻的
+    opprobrious language
+#骂人的话
+    opprobrious conduct
+#恶行
+    an opprobrious affair
+#丑事
+
+flickering: 英[ˈflɪkərɪŋ] 美[ˈflɪkərɪŋ]
+$adj. 闪烁的，忽隐忽现的；摇曳的
+%v. 闪烁（flicker 的 ing 形式）
+    a flickering hope
+#微弱的希望
+    a flickering light
+#闪烁的光
+    flickering leaves
+#颤动着的树叶
+    flickerings of a possible reconciliation
+#和解的迹象
+    We sat comfortably by the flickering fire, reading our books.
+#我们舒舒服服地坐在摇曳的火光前看书。
+
+exhilaration: 英[ɪɡˌzɪləˈreɪʃ(ə)n] 美[ɪɡˌzɪləˈreɪʃ(ə)n]
+%n. 兴奋，欢欣
+    After the walk in the woods, I felt a certain feeling of exhilaration.
+#在林间散步之后，我有种心旷神怡之感。
+
+rescind: 英[rɪˈsɪnd] 美[rɪˈsɪnd]
+%v. <正式>废除，取消
+    rescind an agreement
+#废除协议
+    rescind a contract
+#解除合同
+    rescind the order
+#收回成命
+    The government rescinded his French citizenship.
+#政府取消了他的法国国籍。
+
+neolithic: 英[ˌniːəˈlɪθɪk] 美[ˌniːəˈlɪθɪk]
+%adj. [古] 新石器时代的；早先的
+    This area has been used as a burial ground since neolithic times.
+#这个地区从新石器时代起一直被用作墓地。
+
+off-key: 英[ˌɒf ˈkiː] 美[ˌɔːf ˈkiː]
+%adj. 不和谐的；走音的；不恰当的
+    The vocals are off-key.
+#歌声走音了。
+
+underrate: 英[ˌʌndəˈreɪt] 美[ˌʌndəˈreɪt]
+%vt. 低估；看轻
+    make the mistake of underrating sb.
+#犯了低估某人的错误
+    The company has consistently underrated the importance of a well-trained workforce.
+#这个公司一贯低估一支受过良好训练的员工队伍的重要性。
+
+impunity: 英[ɪmˈpjuːnəti] 美[ɪmˈpjuːnəti]
+%n. 不受惩罚；无患；[法] 免罚
+    The verdict seemed to be impunity.
+#看来裁决可能是免于惩处。
+
+unimpassioned: 英[ˌʌnɪmˈpæʃ(ə)nd] 美[ˌʌnɪmˈpæʃ(ə)nd]
+%adj. 没有激情的；不动感情的；不感情用事的
+    an unimpassioned discussion of the problem
+#问题心平气和的讨论
+
+synchronization: 英[ˌsɪŋkrənaɪˈzeɪʃ(ə)n] 美[ˌsɪŋkrənəˈzeɪʃ(ə)n]
+%n. [物] 同步；同时性
+    The entire roomful of dancers moved in perfect synchronization, just like in the movies.
+#一屋子的舞者步调完全一致地跳着舞，就像电影里发生的情节一样。
+
+reprehensible: 英[ˌreprɪˈhensəbl] 美[ˌreprɪˈhensəb(ə)l]
+%adj. 应斥责的；应该谴责的
+    a morally reprehensible act
+#道义上应受严责的行为
+
+potted: 英[ˈpɒtɪd] 美[ˈpɑːtɪd]
+$adj. 盆栽的；罐装的；密封的；喝醉的；（英）扼要的，简写的
+%v. 把……装罐；装在盆中（pot 的过去式和过去分词）
+    potted eat
+#罐装肉
+    a potted version of Shakespeare's plays
+#莎士比亚戏剧简写本
+    There were potted plants on the windowsill.
+#窗台上摆着盆栽植物。
+
+investigative: 英[ɪnˈvestɪɡətɪv] 美[ɪnˈvestɪɡeɪtɪv]
+%adj. 研究的；调查的；好调查的
+    an investigative report
+#调查报告
+    investigative journalism
+#调查性新闻
+    Children are encouraged to take an investigative approach to learning.
+#鼓励儿童采取一种探究型学习方式。
+
+concoct: 英[kənˈkɒkt] 美[kənˈkɑːkt]
+%vt. 编造；调制（食物或饮品）
+    concoct an amazing dish
+#调制出令人惊奇的菜肴
+    concoct a new kind of soup
+#配置一种新汤
+    concoct an excuse
+#编造借口
+    He concocted a story about working late at the office, but I knew he was going drinking with his brother.
+#他编造了一个在办公室加班的故事，不过我知道他和他兄弟喝酒去了。
+
+omnipotent: 英[ɒmˈnɪpətənt] 美[ɑːmˈnɪpətənt]
+%adj. 全能的，无所不能的
+    an omnipotent God
+#全能的上帝
+    in omnipotent silence
+#在绝对的肃静中
+    an omnipotent villain
+#彻头彻尾的恶棍
+    Until his illness, we'd always thought of the president as omnipotent.
+#在总统生病之前，我们一直认为他是万能的。
+
+verifiable: 英[ˈverɪfaɪəb(ə)l] 美[ˈverɪfaɪəb(ə)l]
+%adj. 可证实的，可核实的
+    He didn't produce a single verifiable fact to prove that the alleged incident had ever taken place.
+#他没有提供一丁点可靠的事实来证明那一事件曾发生过。
+
+impartiality: 英[ˌɪmˌpɑːʃiˈæləti] 美[ˌɪmˌpɑːrʃiˈæləti]
+%n. 公正，公平；不偏不倚
+    Some ministers are pressing for new rules on broadcasting impartiality.
+#一些部长迫切要求就广播的客观性制定新规则。
+
+adulatory: 英[ˌædjuˈleɪtəri] 美[ˈædʒələtɔːri]
+%adj. 阿谀的，奉承的；谄媚的
+    adulatory listeners
+#捧场的听众
+    an adulatory speech
+#一席溢美之词
+    He is being adulatory of the candidate.
+#他是在吹嘘候选人。
+
+sanctum: 英[ˈsæŋktəm] 美[ˈsæŋktəm]
+%n. 圣所；密室；私室
+    Few people ever managed to penetrate the manager's inner sanctum.
+#几乎没有人曾进人过经理的私室。
+
+flagging: 英[ˈflæɡɪŋ] 美[ˈflæɡɪŋ]
+$adj. 下垂的；衰弱的
+$n. 石板路；铺砌石板
+%v. 悬旗于（flag 的现在分词）
+    flagging spirit
+#萎靡不振的精神
+    flagging morale
+#衰弱的士气
+    the flagging economy
+#萎缩的经济
+
+fertilize: 英[ˈfɜːtəlaɪz] 美[ˈfɜːrtəlaɪz]
+%vt. 使受精；使肥沃
+    fertilize farmland
+#给农田施肥
+    fertilize one's vocabulary with wide reading
+#通过博览群书来丰富词汇
+    fertilized eggs
+#受精卵
+    Bees can fertilize flowers.
+#蜜蜂能使花受精。
+
+permissive: 英[pəˈmɪsɪv] 美[pərˈmɪsɪv]
+%adj. 放任的，纵容的；<法律>允许而非强制的，可选择的；（生）允许的，许可的；（道路）公众获准可使用的
+    a permissive school
+#放任自由的学校
+    a permissive attitude
+#宽容放任的态度
+    a permissive society
+#性开放的社会
+    a permissive regulation
+#非约束性规定
+    He claims that some parents have been far too permissive towards their children.
+#他声称有些父对孩子过分纵容。
+
+uneventful: 英[ˌʌnɪˈventf(ə)l] 美[ˌʌnɪˈventf(ə)l]
+%adj. 平凡的；平静无事的
+    an uneventful week
+#平静无事的一周
+    an uneventful life
+#平静的生活/平凡的一生
+    uneventful recovery
+#顺利的复原
+    They had an uneventful journey.
+#他们的旅途平安无事。
+
+indubitably: 英[ɪnˈdjuːbɪtəbli] 美[ɪnˈduːbɪtəbli]
+%adv. 无疑地，不容置疑地，不容置疑地
+    He looked different but it was indubitably John.
+#他看上去(跟从前)有些不同，但他肯定是约翰。
+
+choreograph: 英[ˈkɒriəɡrɑːf] 美[ˈkɔːriəɡræf]
+%v. 给……设计舞蹈动作， 给……编舞；设计，筹划（活动，工作）
+    The ballet was choreographed by Ashton.
+#这部蕾舞剧是阿什顿设计的舞蹈动作。
+
+irradicable: 英[ɪˈrædɪkəbl] 美[ɪˈrædɪkəbəl]
+%adj. 不能根除的
+    an irradicable prejudice
+#根深蒂固的偏见
+
+misconstrue: 英[ˌmɪskənˈstruː] 美[ˌmɪskənˈstruː]
+%vt. 误解，曲解；误会
+    You misconstrue me if you think I will give up my support of the plan.
+#如果你以为我将不再支持这项计划，那你就误解我的意思了。
+
+coercive: 英[kəʊˈɜːsɪv] 美[koʊˈɜːrsɪv]
+%adj. 强制的，胁迫的
+    The president relied on coercive powers of the military and the police to enforce law and order.
+#总统凭借军队和警察这种强制力量实施法律和维持秩序。
+
+well-intentioned: 英[ˌwel ɪnˈtenʃ(ə)nd] 美[ˌwel ɪnˈtenʃ(ə)nd]
+%adj. 好意的，好心的；出于善意的
+    He described the report as well-intentioned, but misguided.
+#他称这份报告本意是好的，但指导思想是错误的。
+
+preempt: 英[ˌpriːˈempt] 美[ˌpriːˈempt]
+%vt. 先占；先取；以先买权获得
+    The rebels have preempted the power of the local government.
+#反叛者已经夺取了地方政府的权力。
+
+ingrain: 英[ɪnˈɡreɪn] 美[ɪnˈɡreɪn]
+$vt. 使……根深蒂固；就……原料染色；生染
+$n. 固有品质；原纱染色；生染的纤维
+$adj. 生染的；原纱染色的；根深蒂固的
+%n. （Ingrain）人名；（法）安格兰；（西）因格拉因
+    ingrain habits
+#固习
+    A deep respect for the truth has been ingrained in the child.
+#尊重真理的深刻信念深深扎根在这孩子的心中。
+
+veracious: 英[vəˈreɪʃəs] 美[vəˈreɪʃəs]
+%adj. 诚实的；真实的
+    a veracious witness
+#诚实的证人
+    a veracious account
+#忠实的叙述
+
+hesitant: 英[ˈhezɪtənt] 美[ˈhezɪtənt]
+%adj. 犹豫的，不愿的
+    An elderly lady was approaching him in a somewhat hesitant manner.
+#一位上了年纪的女士略带着几分迟疑向他走去。
+
+jaded: 英[ˈdʒeɪdɪd] 美[ˈdʒeɪdɪd]
+$adj. 厌倦的；疲倦不堪的
+%v. 厌倦（jade 的过去分词）；变得疲倦；精疲力竭
+    a jaded look
+#倦容
+    a jaded appetite
+#食欲不振
+    The movie dealt with the same old jaded theme of revenge and murder.
+#这部电影围绕复仇和谋杀这种老一套的陈腐题材。
+
+salubrious: 英[səˈluːbriəs] 美[səˈluːbriəs]
+%adj. 清爽的；气候有益健康的
+    He doesn't live in a very salubrious part of town.
+#他住在镇上风气不太好的地段。
+
+stylize: 英[ˈstaɪlaɪz] 美[ˈstaɪˌlaɪz]
+$vt. 使风格化；使程式化
+%vi. 符合特定（或传统）程式
+    In Beijing Opera, acting performances are usually stylized.
+#在京剧中，表演动作常常是模式化的。
+
+purposive: 英[ˈpɜːpəsɪv] 美[ˈpɜːrpəsɪv]
+%adj. 有目的的；故意的
+    purposive behavior
+#有目的的行为
+    a purposive structure
+#有针对性的结构
+
+circumscribe: 英[ˈsɜːkəmskraɪb] 美[ˈsɜːrkəmskraɪb]
+%vt. 约束，限定；在……上画圈；包围；（几何学）外接
+    a voyage that circumscribes the world
+#环绕世界的航行
+    There followed a series of tightly circumscribed visits to military installations.
+#随之而来的是一系列充满严格限制的对军事设施的参观。
+
+impediment: 英[ɪmˈpedɪmənt] 美[ɪmˈpedɪmənt]
+%n. 妨碍，障碍；口吃，结巴
+    have an impediment in one's speech
+#讲话口吃
+    an impediment to reform
+#改革的障碍
+    The new taxes were a major impediment to economic growth.
+#新增的税是经济增长的主要障碍。
+
+superstructure: 英[ˈsuːpəstrʌktʃə(r)] 美[ˈsuːpərstrʌktʃər]
+%n. 上层建筑；上部构造
+    The foundations are finished and work has now begun on building the superstructure of the new library.
+#新图书馆的地基已打好，现在开始地面上部结构的施工。
+
+recalcitrant: 英[rɪˈkælsɪtrənt] 美[rɪˈkælsɪtrənt]
+$adj. 反抗的；反对的；顽强的
+%n. 顽抗者；不服从的人
+    be recalcitrant to tradition
+#反抗传统
+    a recalcitrant boy
+#犟男孩
+    The taxpayers are becoming increasingly recalcitrant about open-ended programs for overseas purposes.
+#纳税人对于资助那些无限制的海外项目越来越持抗拒态度。
+
+sunlit: 英[ˈsʌnlɪt] 美[ˈsʌnlɪt]
+%adj. 阳光照射的；被日光照射了的
+    a sunlit courtyard
+#洒满阳光的院子
+    in those sunlit years
+#在那些欢乐的年月里
+
+dietary: 英[ˈdaɪətəri] 美[ˈdaɪəteri]
+%adj. 饮食的
+    Dietary habits can be very difficult to change.
+#饮食习惯很难改变。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

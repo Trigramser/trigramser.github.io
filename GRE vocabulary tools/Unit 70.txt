@@ -1,0 +1,793 @@
+<<<<<<< HEAD
+verisimilar: 英[ˌverɪˈsɪmɪlə] 美[ˌverəˈsɪmələr]
+%adj. 好像是真的
+    a verisimilar portrait
+#逼真的画像
+
+intertwine: 英[ˌɪntəˈtwaɪn] 美[ˌɪntərˈtwaɪn]
+$vi. 纠缠；编结
+%vt. 缠绕；纠缠
+    Two vines intertwined with the wall.
+#两条蔓藤缠绕着攀附在墙上。
+
+pied: 英[paɪd] 美[paɪd]
+$adj. 杂色的；斑驳的；穿花衣服的
+%n. （Pied）人名；（法）皮耶
+    pied kingfishers
+#杂色翠鸟
+
+swill: 英[swɪl] 美[swɪl]
+$v. 冲洗；（使）摇动，晃动；痛饮；边大量喝饮料边吃
+%n. 泔水，剩饭菜；劣质饮料（或食物）；一大口饮料；冲洗
+    swill out a dirty tub
+#冲洗脏浴缸
+    I swilled my tea in two gulps.
+#我两口就把茶喝完了。
+
+equivocate: 英[ɪˈkwɪvəkeɪt] 美[ɪˈkwɪvəkeɪt]
+%vi. 说模棱两可的话；支吾， 躲闪；推诿；含糊其词
+    She accused the minister of equivocating, claiming that he had deliberately avoided telling the truth.
+#她指责部长含糊其词，声称他故意回避说实话。
+
+elocution: 英[ˌeləˈkjuːʃ(ə)n] 美[ˌeləˈkjuːʃn]
+%n. 朗诵法；演说法；雄辩术
+    clear concise elocution
+#清晰简洁的演讲风格
+
+disburse: 英[dɪsˈbɜːs] 美[dɪsˈbɜːrs]
+%vt. 支付；支出
+    disburse property by will
+#按遗嘱分配财产
+    Company salaries are disbursed by the accountant.
+#公司的工资由会计发放。
+
+infelicity: 英[ˌɪnfɪˈlɪsɪti] 美[ˌɪnfəˈlɪsəti]
+%n. 不幸；不适当；不吉利（复数 infelicities）
+    He examined the manuscript for infelicities before printing.
+#他在付印前检查书稿中的不当之处
+
+concave: 英[kɒnˈkeɪv] 美[kɑːnˈkeɪv]
+$adj. 凹的，凹面的
+$n. 凹面
+%v. 使变凹形
+    a concave mirror
+#凹镜
+    a concave stomach
+#凹陷的肚子
+    He sighed, his concave chest rising and sinking.
+#他叹了口气，他凹陷的胸口上下起伏着。
+
+purvey: 英[pəˈveɪ] 美[pərˈveɪ]
+$vi. 供应；供给
+%vt. 供应；供给
+    purvey meat for the army
+#给军队提供肉食
+    purvey information
+#传播信息
+    They have two restaurants that purvey dumplings and chicken noodle soup.
+#他们有两个饭店供应饺子和鸡肉面汤。
+
+procrustean: 英[ˌprəʊˈkrʌstiən] 美[ˌproʊˈkrʌstiən]
+%adj. 强求一致的；迫使就范的；残暴的
+    procrustean methods
+#强迫的方法
+
+tumid: 英[ˈtjuːmɪd] 美[ˈtuːmɪd]
+%adj. （身体某部分）肿胀的；（语言、文体）浮夸的，浮华的
+    a badly injured tumid leg
+#受伤严重而肿胀的腿
+    tumid prose
+#浮夸的散文
+
+plebeian: 英[pləˈbiːən] 美[pləˈbiːən]
+$adj. 平民的；普通的；粗俗的
+%n. 平民；百姓；粗俗的人
+    plebeian origin
+#平民出身
+    an alarmingly plebeian manner
+#粗俗不堪的举止
+    plebeian tastes
+#粗俗的趣味
+
+putrefy: 英[ˈpjuːtrɪfaɪ] 美[ˈpjuːtrɪfaɪ]
+$vi. 化脓，腐烂；堕落
+%vt. 腐烂，化脓；堕落
+    The river is badly polluted and full of dead putrefying fish.
+#这条河流严重污染，全是腐烂的死鱼。
+
+eaglet: 英[ˈiːɡlət] 美[ˈiːɡlət]
+%n. 小鹰
+    Put it in a warm environment and it will become a lovely eaglet after a due period. 
+#把它放在一个暖和的环境里，经过适当的时间，它就会变成一只可爱的雏鹰。
+
+eugenic: 英[juːˈdʒenɪk] 美[juːˈdʒenɪk]
+%adj. 优种的；优生学的
+    In China, each couple is required to carry out a eugenic plan strictly. 
+#中国要求每对夫妇都要严格执行优生计划。
+
+sloven: 英[ˈslʌv(ə)n] 美[ˈslʌv(ə)n]
+%n. 懒散的人；不修边幅的人
+    an unpunctual slacker and sloven
+#不守时间的懒散的人
+
+pusillanimous: 英[ˌpjuːsɪˈlænɪməs] 美[ˌpjuːsɪˈlænɪməs]
+%adj. 胆怯的；懦弱的；优柔寡断的
+    a pusillanimous attitude
+#怯懦的态度
+
+salutation: 英[ˌsæljuˈteɪʃ(ə)n] 美[ˌsæljuˈteɪʃ(ə)n]
+%n. <正式>招呼，致意；（信函、演讲开头的）称呼语
+    throw a kiss as a salutation
+#飞吻致意
+    He raised his hat in salutation.
+#他举帽致意。
+
+draconian: 英[drəˈkəʊniən] 美[drəˈkoʊniən]
+%adj. 严厉的，苛刻的
+    draconian punishment
+#严酷的惩罚
+    Draconian fines keep illegal parking in the city center to a minimum.
+#严厉的罚款使城市中心的非法停车降到了最低。
+
+fusty: 英[ˈfʌsti] 美[ˈfʌsti]
+%adj. 发霉的；守旧的，老式的
+    a dark and fusty room
+#阴暗有霉味的房间
+    a fusty idea
+#守旧的思想
+
+skittish: 英[ˈskɪtɪʃ] 美[ˈskɪtɪʃ]
+$adj. （人或动物）不安的，易受惊的；难驾驭的
+%adj. （人）轻佻的，善变的
+    a skittish ship
+#难以操作的船
+    The financial market is skittish.
+#金融市场动荡不安
+
+tatty: 英[ˈtæti] 美[ˈtæti]
+%adj. 不整洁的；不值钱的；破旧的
+    tatty clothes
+#破烂的衣服
+
+chasten: 英[ˈtʃeɪs(ə)n] 美[ˈtʃeɪs(ə)n]
+%vt. 惩罚；磨炼；抑制
+    He has clearly not been chastened by his fifteen days in detention.
+#15天的拘留显然没能让他服帖。
+
+clairvoyance: 英[kleəˈvɔɪəns] 美[klerˈvɔɪəns]
+%n. 千里眼；异常的洞察力
+    He claims that he has the power of telepathy and clairvoyance.
+#他声称自己有心灵感应术和洞察未来的能力。
+
+ocular: 英[ˈɒkjələ(r)] 美[ˈɑːkjələr]
+$adj. 眼睛的；视觉的；目击的
+%n. [光] 目镜
+    ocular organs
+#视觉器官
+    ocular testimony
+#目击证据
+
+rhubarb: 英[ˈruːbɑːb] 美[ˈruːbɑːrb]
+%n. 大黄的叶柄，大黄；喧哗
+    a mob rhubarbing at the palace door
+#冲着宫殿大门乱嚷嚷的一群暴徒
+
+cull: 英[kʌl] 美[kʌl]
+$v. 挑选；部分捕杀，选择性宰杀；（诗、文）采集（花果）
+$n. 选择性宰杀；被选出宰杀的体弱（或过剩）动物
+%n. （Cull）（美、英）卡尔（人名）
+    cull the best passage from the poet's works
+#从诗人的作品中挑选出最佳的一段
+    cull materials
+#收集材料
+    cull the spoiled berries from the box
+#从箱中剔除坏浆果
+    He culled the apples, picking only the choicest ones.
+#他挑拣单果，只挑出最好的。
+
+lexicon: 英[ˈleksɪkən] 美[ˈleksɪkɑːn]
+%n. 词典，辞典
+    Chocolate equals sin in most people's lexicon. 
+#巧克力在大多数人的字典里等同于罪恶。
+
+exigent: 英[ˈeksɪdʒənt] 美[ˈeksədʒənt]
+%adj. 迫切的；紧急的；苛求的
+    be exigent of rest
+#急需休息
+    The woman was exigent in her demands for money.
+#那女人没完没了地要钱。
+
+distain: 英[dɪsˈteɪn] 美[dɪˈsteɪn]
+%v. （使）变色；将……弄脏；伤害……的名誉
+    distain one's shirt
+#弄脏衬衫
+    distain one's reputation
+#伤害某人的名誉
+
+numinous: 英[ˈnjuːmɪnəs] 美[ˈnuːmɪnəs]
+%adj. 精神上的；超自然的；神圣的；庄严的
+    a numinous phenomenon
+#超自然现象
+
+braise: 英[breɪz] 美[breɪz]
+$vt. 炖；蒸
+$n. 文火炖熟的肉；赤鲷
+%n. （Braise）人名；（法）布雷兹
+    braise steak
+#用文火烧牛排
+
+interdisciplinary: 英[ˌɪntədɪsəˈplɪnəri] 美[ˌɪntərˈdɪsəplɪneri]
+%adj. 跨学科的
+    interdisciplinary research
+#跨学科研究
+    The work is interdisciplinary.
+#这项工作是多学科性质的。
+
+jubilation: 英[ˌdʒuːbɪˈleɪʃ(ə)n] 美[ˌdʒuːbɪˈleɪʃn]
+%n. 喜欢；庆祝；欢呼
+    The whole country exploded in jubilation at the overthrow of the dictator.
+#独裁者被推翻，举国欢腾。
+
+niggle: 英[ˈnɪɡ(ə)l] 美[ˈnɪɡ(ə)l]
+$vi. 拘泥小节；为琐事费时；挑剔
+$vt. 小气地给……；玩忽
+%n. 小牢骚；疑虑，烦恼
+    niggle at each other
+#相互找岔子
+    Make sure the document is perfect -- she will niggle endlessly to find mistakes.
+#务必把文件做得完善一些，因为她会没完没了地挑毛病。
+
+mariner: 英[ˈmærɪnə(r)] 美[ˈmærɪnər]
+$n. 水手；船员
+%n. （Mariner）人名；（西）马里内尔；（英）马里纳
+    Many mariners lost their lives on these rocks.
+#这些礁石葬送了许多水手。
+
+hauteur: 英[əʊˈtɜː(r)] 美[hɔːˈtɜːr]
+$n. 傲慢；自大
+%n. （Hauteur）（法）奥特尔（人名）
+    He presided over the first day of the meeting with his customary detached hauteur.
+#他以他惯有的冷淡而傲慢的态度主持了第一天的会议。
+
+versant: 英[ˈvɜːs(ə)nt] 美[ˈvɜːrsənt]
+$adj. 熟练的，有经验的；精通的
+%n. 山坡
+    a person versant with five languages
+#通晓五种语言的人
+    He is thoroughly versant in the law.
+#他精通法律。
+
+tattle: 英[ˈtæt(ə)l] 美[ˈtæt(ə)l]
+$vi. 闲谈；泄露秘密
+%n. 闲谈
+    tattle on a friend
+#讲朋友的闲话
+    tattle one's secret
+#闲谈中泄露某人的秘密
+
+fulminate: 英[ˈfʊlmɪneɪt] 美[ˈfʊlmɪneɪt]
+$vi. 爆炸；电闪；怒喝
+$vt. 使爆发；以严词谴责
+%n. 雷酸盐；烈性炸药
+    Uncle Ted is always fulminating about the youth of today.
+#泰德叔叔总是对如今的年轻人大加指责。
+
+twinge: 英[twɪndʒ] 美[twɪndʒ]
+$n. 阵痛；悔恨
+$vt. 使刺痛；使感到剧痛
+%vi. 刺痛；感到剧痛
+    a twinge of toothache
+#一阵牙痛
+    a twinge of conscience
+#良心的折磨
+    This gave me more than a twinge of uneasiness.
+#这件事使我内心非常不安。
+
+subvention: 英[səbˈvenʃ(ə)n] 美[səbˈvenʃ(ə)n]
+%n. 津贴；补助金；援助
+    The subvention will tide them over the difficulties.
+#这些补助金将帮助他们渡过难关。
+
+tambourine: 英[ˌtæmbəˈriːn] 美[ˌtæmbəˈriːn]
+%n. 小手鼓；非洲野鸽
+    A stew without an onion is like a dance without a tambourine. 
+#烧菜没有洋葱就像跳舞没有手鼓。
+
+chortle: 英[ˈtʃɔːt(ə)l] 美[ˈtʃɔːrt(ə)l]
+$vi. 咯咯笑
+%n. 得意的高笑
+    She chortled in her joy.
+#她高兴得咯咯直笑。
+
+bucolic: 英[bjuːˈkɒlɪk] 美[bjuːˈkɑːlɪk]
+$adj. 牧歌的；牧羊的；乡下风味的
+%n. 田园诗；农夫
+    bucolic poetry
+#田园诗
+    bucolic setting
+#乡村背景
+    The painting shows a typically bucolic scene with peasants harvesting crops in the fields.
+#这幅画展现了典型的田园风光——农夫们在田野收割庄稼。
+
+ravishing: 英[ˈrævɪʃɪŋ] 美[ˈrævɪʃɪŋ]
+$adj. 引人入胜的；令人陶醉的
+%v. 使陶醉；强奸（ravish 的 ing 形式）
+    jewels of ravishing beauty
+#璀琛迷人的珠宝
+    Her smile was ravishing.
+#她的微笑妖媚动人。
+
+mettle: 英[ˈmet(ə)l] 美[ˈmet(ə)l]
+%n. 勇气；气质；耐力
+    a man of born mettle
+#天生无畏的男子汉
+    be on/upon one's mettle
+#奋发，准备尽最大的努力
+    put sb. on mettle
+#激励某人尽最大的努力
+    I felt I was on my mettle.
+#我感到自己浑身是劲，跃跃欲试。
+
+obsession: 英[əbˈseʃ(ə)n] 美[əbˈseʃn]
+%n. 痴迷，困扰；令人着迷的人（或事物）
+    have an obsession for home
+#苦苦想家
+    The idea of sailing became an obsession.
+#航海的念头成了一种强迫观念。
+
+lambaste: 英[læmˈbæst] 美[læmˈbæst]
+%vt. 痛打；严责；鞭打
+    He has been lambasted for his ideas.
+#他的思想一直受到猛烈押击。
+
+centripetal: 英[ˌsentrɪˈpiːt(ə)l] 美[senˈtrɪpɪt(ə)l]
+%adj. 向心的；利用向心力的
+    centripetal force
+#向心力
+    centripetal acceleration
+#向心加速度
+
+licentious: 英[laɪˈsenʃəs] 美[laɪˈsenʃəs]
+%adj. 放肆的；放纵的
+    The licentious monarch helped bring about his country's downfall. 
+#这昏君荒淫无道，加速了这个国家的灭亡。
+
+dillydally: 英[ˈdɪliˌdæli] 美[ˈdɪliˌdæli]
+%v. 磨蹭，浪费时间
+    dillydally on tax reform
+#在税收改革上犹豫不决
+    Don't dillydally, make up your mind which painting you want to buy.
+#别再磨贈了，决定你要买哪幅画吧。
+
+interrogative: 英[ˌɪntəˈrɒɡətɪv] 美[ˌɪntəˈrɑːɡətɪv]
+$adj. （姿势、语调）询问的，疑问的
+%n. 疑问句，疑问结构；疑问词
+    an interrogative pronoun
+#疑问代词
+    in an interrogative tone
+#用疑问的口气
+    He made a further interrogative noise.
+#他发出了进一步疑问的声音。
+
+scuff: 英[skʌf] 美[skʌf]
+$v. 磨损，磨坏；拖着脚走
+%n. 磨痕，擦痕
+    scuff into the bedroom
+#一点点走进卧室
+    a scuffed face
+#被打肿的脸
+    scuff one's shoes
+#穿坏鞋子
+    shoes that resist scuff
+#耐磨的鞋
+    The floor was badly scuffed where they had been dancing.
+#地板在他们跳舞的地方磨损得很厉害。
+
+tremendous: 英[trəˈmendəs] 美[trəˈmendəs]
+%adj. 巨大的，极大的；极好的，精彩的；令人望而生畏的，可怕的
+    a tremendous amount of money
+#巨款
+    give a tremendous performance
+#进行精彩的表演
+    make tremendous progress
+#取得巨大的进步
+    The play is a tremendous hit.
+#这出戏一鸣惊人。
+
+=======
+verisimilar: 英[ˌverɪˈsɪmɪlə] 美[ˌverəˈsɪmələr]
+%adj. 好像是真的
+    a verisimilar portrait
+#逼真的画像
+
+intertwine: 英[ˌɪntəˈtwaɪn] 美[ˌɪntərˈtwaɪn]
+$vi. 纠缠；编结
+%vt. 缠绕；纠缠
+    Two vines intertwined with the wall.
+#两条蔓藤缠绕着攀附在墙上。
+
+pied: 英[paɪd] 美[paɪd]
+$adj. 杂色的；斑驳的；穿花衣服的
+%n. （Pied）人名；（法）皮耶
+    pied kingfishers
+#杂色翠鸟
+
+swill: 英[swɪl] 美[swɪl]
+$v. 冲洗；（使）摇动，晃动；痛饮；边大量喝饮料边吃
+%n. 泔水，剩饭菜；劣质饮料（或食物）；一大口饮料；冲洗
+    swill out a dirty tub
+#冲洗脏浴缸
+    I swilled my tea in two gulps.
+#我两口就把茶喝完了。
+
+equivocate: 英[ɪˈkwɪvəkeɪt] 美[ɪˈkwɪvəkeɪt]
+%vi. 说模棱两可的话；支吾， 躲闪；推诿；含糊其词
+    She accused the minister of equivocating, claiming that he had deliberately avoided telling the truth.
+#她指责部长含糊其词，声称他故意回避说实话。
+
+elocution: 英[ˌeləˈkjuːʃ(ə)n] 美[ˌeləˈkjuːʃn]
+%n. 朗诵法；演说法；雄辩术
+    clear concise elocution
+#清晰简洁的演讲风格
+
+disburse: 英[dɪsˈbɜːs] 美[dɪsˈbɜːrs]
+%vt. 支付；支出
+    disburse property by will
+#按遗嘱分配财产
+    Company salaries are disbursed by the accountant.
+#公司的工资由会计发放。
+
+infelicity: 英[ˌɪnfɪˈlɪsɪti] 美[ˌɪnfəˈlɪsəti]
+%n. 不幸；不适当；不吉利（复数 infelicities）
+    He examined the manuscript for infelicities before printing.
+#他在付印前检查书稿中的不当之处
+
+concave: 英[kɒnˈkeɪv] 美[kɑːnˈkeɪv]
+$adj. 凹的，凹面的
+$n. 凹面
+%v. 使变凹形
+    a concave mirror
+#凹镜
+    a concave stomach
+#凹陷的肚子
+    He sighed, his concave chest rising and sinking.
+#他叹了口气，他凹陷的胸口上下起伏着。
+
+purvey: 英[pəˈveɪ] 美[pərˈveɪ]
+$vi. 供应；供给
+%vt. 供应；供给
+    purvey meat for the army
+#给军队提供肉食
+    purvey information
+#传播信息
+    They have two restaurants that purvey dumplings and chicken noodle soup.
+#他们有两个饭店供应饺子和鸡肉面汤。
+
+procrustean: 英[ˌprəʊˈkrʌstiən] 美[ˌproʊˈkrʌstiən]
+%adj. 强求一致的；迫使就范的；残暴的
+    procrustean methods
+#强迫的方法
+
+tumid: 英[ˈtjuːmɪd] 美[ˈtuːmɪd]
+%adj. （身体某部分）肿胀的；（语言、文体）浮夸的，浮华的
+    a badly injured tumid leg
+#受伤严重而肿胀的腿
+    tumid prose
+#浮夸的散文
+
+plebeian: 英[pləˈbiːən] 美[pləˈbiːən]
+$adj. 平民的；普通的；粗俗的
+%n. 平民；百姓；粗俗的人
+    plebeian origin
+#平民出身
+    an alarmingly plebeian manner
+#粗俗不堪的举止
+    plebeian tastes
+#粗俗的趣味
+
+putrefy: 英[ˈpjuːtrɪfaɪ] 美[ˈpjuːtrɪfaɪ]
+$vi. 化脓，腐烂；堕落
+%vt. 腐烂，化脓；堕落
+    The river is badly polluted and full of dead putrefying fish.
+#这条河流严重污染，全是腐烂的死鱼。
+
+eaglet: 英[ˈiːɡlət] 美[ˈiːɡlət]
+%n. 小鹰
+    Put it in a warm environment and it will become a lovely eaglet after a due period. 
+#把它放在一个暖和的环境里，经过适当的时间，它就会变成一只可爱的雏鹰。
+
+eugenic: 英[juːˈdʒenɪk] 美[juːˈdʒenɪk]
+%adj. 优种的；优生学的
+    In China, each couple is required to carry out a eugenic plan strictly. 
+#中国要求每对夫妇都要严格执行优生计划。
+
+sloven: 英[ˈslʌv(ə)n] 美[ˈslʌv(ə)n]
+%n. 懒散的人；不修边幅的人
+    an unpunctual slacker and sloven
+#不守时间的懒散的人
+
+pusillanimous: 英[ˌpjuːsɪˈlænɪməs] 美[ˌpjuːsɪˈlænɪməs]
+%adj. 胆怯的；懦弱的；优柔寡断的
+    a pusillanimous attitude
+#怯懦的态度
+
+salutation: 英[ˌsæljuˈteɪʃ(ə)n] 美[ˌsæljuˈteɪʃ(ə)n]
+%n. <正式>招呼，致意；（信函、演讲开头的）称呼语
+    throw a kiss as a salutation
+#飞吻致意
+    He raised his hat in salutation.
+#他举帽致意。
+
+draconian: 英[drəˈkəʊniən] 美[drəˈkoʊniən]
+%adj. 严厉的，苛刻的
+    draconian punishment
+#严酷的惩罚
+    Draconian fines keep illegal parking in the city center to a minimum.
+#严厉的罚款使城市中心的非法停车降到了最低。
+
+fusty: 英[ˈfʌsti] 美[ˈfʌsti]
+%adj. 发霉的；守旧的，老式的
+    a dark and fusty room
+#阴暗有霉味的房间
+    a fusty idea
+#守旧的思想
+
+skittish: 英[ˈskɪtɪʃ] 美[ˈskɪtɪʃ]
+$adj. （人或动物）不安的，易受惊的；难驾驭的
+%adj. （人）轻佻的，善变的
+    a skittish ship
+#难以操作的船
+    The financial market is skittish.
+#金融市场动荡不安
+
+tatty: 英[ˈtæti] 美[ˈtæti]
+%adj. 不整洁的；不值钱的；破旧的
+    tatty clothes
+#破烂的衣服
+
+chasten: 英[ˈtʃeɪs(ə)n] 美[ˈtʃeɪs(ə)n]
+%vt. 惩罚；磨炼；抑制
+    He has clearly not been chastened by his fifteen days in detention.
+#15天的拘留显然没能让他服帖。
+
+clairvoyance: 英[kleəˈvɔɪəns] 美[klerˈvɔɪəns]
+%n. 千里眼；异常的洞察力
+    He claims that he has the power of telepathy and clairvoyance.
+#他声称自己有心灵感应术和洞察未来的能力。
+
+ocular: 英[ˈɒkjələ(r)] 美[ˈɑːkjələr]
+$adj. 眼睛的；视觉的；目击的
+%n. [光] 目镜
+    ocular organs
+#视觉器官
+    ocular testimony
+#目击证据
+
+rhubarb: 英[ˈruːbɑːb] 美[ˈruːbɑːrb]
+%n. 大黄的叶柄，大黄；喧哗
+    a mob rhubarbing at the palace door
+#冲着宫殿大门乱嚷嚷的一群暴徒
+
+cull: 英[kʌl] 美[kʌl]
+$v. 挑选；部分捕杀，选择性宰杀；（诗、文）采集（花果）
+$n. 选择性宰杀；被选出宰杀的体弱（或过剩）动物
+%n. （Cull）（美、英）卡尔（人名）
+    cull the best passage from the poet's works
+#从诗人的作品中挑选出最佳的一段
+    cull materials
+#收集材料
+    cull the spoiled berries from the box
+#从箱中剔除坏浆果
+    He culled the apples, picking only the choicest ones.
+#他挑拣单果，只挑出最好的。
+
+lexicon: 英[ˈleksɪkən] 美[ˈleksɪkɑːn]
+%n. 词典，辞典
+    Chocolate equals sin in most people's lexicon. 
+#巧克力在大多数人的字典里等同于罪恶。
+
+exigent: 英[ˈeksɪdʒənt] 美[ˈeksədʒənt]
+%adj. 迫切的；紧急的；苛求的
+    be exigent of rest
+#急需休息
+    The woman was exigent in her demands for money.
+#那女人没完没了地要钱。
+
+distain: 英[dɪsˈteɪn] 美[dɪˈsteɪn]
+%v. （使）变色；将……弄脏；伤害……的名誉
+    distain one's shirt
+#弄脏衬衫
+    distain one's reputation
+#伤害某人的名誉
+
+numinous: 英[ˈnjuːmɪnəs] 美[ˈnuːmɪnəs]
+%adj. 精神上的；超自然的；神圣的；庄严的
+    a numinous phenomenon
+#超自然现象
+
+braise: 英[breɪz] 美[breɪz]
+$vt. 炖；蒸
+$n. 文火炖熟的肉；赤鲷
+%n. （Braise）人名；（法）布雷兹
+    braise steak
+#用文火烧牛排
+
+interdisciplinary: 英[ˌɪntədɪsəˈplɪnəri] 美[ˌɪntərˈdɪsəplɪneri]
+%adj. 跨学科的
+    interdisciplinary research
+#跨学科研究
+    The work is interdisciplinary.
+#这项工作是多学科性质的。
+
+jubilation: 英[ˌdʒuːbɪˈleɪʃ(ə)n] 美[ˌdʒuːbɪˈleɪʃn]
+%n. 喜欢；庆祝；欢呼
+    The whole country exploded in jubilation at the overthrow of the dictator.
+#独裁者被推翻，举国欢腾。
+
+niggle: 英[ˈnɪɡ(ə)l] 美[ˈnɪɡ(ə)l]
+$vi. 拘泥小节；为琐事费时；挑剔
+$vt. 小气地给……；玩忽
+%n. 小牢骚；疑虑，烦恼
+    niggle at each other
+#相互找岔子
+    Make sure the document is perfect -- she will niggle endlessly to find mistakes.
+#务必把文件做得完善一些，因为她会没完没了地挑毛病。
+
+mariner: 英[ˈmærɪnə(r)] 美[ˈmærɪnər]
+$n. 水手；船员
+%n. （Mariner）人名；（西）马里内尔；（英）马里纳
+    Many mariners lost their lives on these rocks.
+#这些礁石葬送了许多水手。
+
+hauteur: 英[əʊˈtɜː(r)] 美[hɔːˈtɜːr]
+$n. 傲慢；自大
+%n. （Hauteur）（法）奥特尔（人名）
+    He presided over the first day of the meeting with his customary detached hauteur.
+#他以他惯有的冷淡而傲慢的态度主持了第一天的会议。
+
+versant: 英[ˈvɜːs(ə)nt] 美[ˈvɜːrsənt]
+$adj. 熟练的，有经验的；精通的
+%n. 山坡
+    a person versant with five languages
+#通晓五种语言的人
+    He is thoroughly versant in the law.
+#他精通法律。
+
+tattle: 英[ˈtæt(ə)l] 美[ˈtæt(ə)l]
+$vi. 闲谈；泄露秘密
+%n. 闲谈
+    tattle on a friend
+#讲朋友的闲话
+    tattle one's secret
+#闲谈中泄露某人的秘密
+
+fulminate: 英[ˈfʊlmɪneɪt] 美[ˈfʊlmɪneɪt]
+$vi. 爆炸；电闪；怒喝
+$vt. 使爆发；以严词谴责
+%n. 雷酸盐；烈性炸药
+    Uncle Ted is always fulminating about the youth of today.
+#泰德叔叔总是对如今的年轻人大加指责。
+
+twinge: 英[twɪndʒ] 美[twɪndʒ]
+$n. 阵痛；悔恨
+$vt. 使刺痛；使感到剧痛
+%vi. 刺痛；感到剧痛
+    a twinge of toothache
+#一阵牙痛
+    a twinge of conscience
+#良心的折磨
+    This gave me more than a twinge of uneasiness.
+#这件事使我内心非常不安。
+
+subvention: 英[səbˈvenʃ(ə)n] 美[səbˈvenʃ(ə)n]
+%n. 津贴；补助金；援助
+    The subvention will tide them over the difficulties.
+#这些补助金将帮助他们渡过难关。
+
+tambourine: 英[ˌtæmbəˈriːn] 美[ˌtæmbəˈriːn]
+%n. 小手鼓；非洲野鸽
+    A stew without an onion is like a dance without a tambourine. 
+#烧菜没有洋葱就像跳舞没有手鼓。
+
+chortle: 英[ˈtʃɔːt(ə)l] 美[ˈtʃɔːrt(ə)l]
+$vi. 咯咯笑
+%n. 得意的高笑
+    She chortled in her joy.
+#她高兴得咯咯直笑。
+
+bucolic: 英[bjuːˈkɒlɪk] 美[bjuːˈkɑːlɪk]
+$adj. 牧歌的；牧羊的；乡下风味的
+%n. 田园诗；农夫
+    bucolic poetry
+#田园诗
+    bucolic setting
+#乡村背景
+    The painting shows a typically bucolic scene with peasants harvesting crops in the fields.
+#这幅画展现了典型的田园风光——农夫们在田野收割庄稼。
+
+ravishing: 英[ˈrævɪʃɪŋ] 美[ˈrævɪʃɪŋ]
+$adj. 引人入胜的；令人陶醉的
+%v. 使陶醉；强奸（ravish 的 ing 形式）
+    jewels of ravishing beauty
+#璀琛迷人的珠宝
+    Her smile was ravishing.
+#她的微笑妖媚动人。
+
+mettle: 英[ˈmet(ə)l] 美[ˈmet(ə)l]
+%n. 勇气；气质；耐力
+    a man of born mettle
+#天生无畏的男子汉
+    be on/upon one's mettle
+#奋发，准备尽最大的努力
+    put sb. on mettle
+#激励某人尽最大的努力
+    I felt I was on my mettle.
+#我感到自己浑身是劲，跃跃欲试。
+
+obsession: 英[əbˈseʃ(ə)n] 美[əbˈseʃn]
+%n. 痴迷，困扰；令人着迷的人（或事物）
+    have an obsession for home
+#苦苦想家
+    The idea of sailing became an obsession.
+#航海的念头成了一种强迫观念。
+
+lambaste: 英[læmˈbæst] 美[læmˈbæst]
+%vt. 痛打；严责；鞭打
+    He has been lambasted for his ideas.
+#他的思想一直受到猛烈押击。
+
+centripetal: 英[ˌsentrɪˈpiːt(ə)l] 美[senˈtrɪpɪt(ə)l]
+%adj. 向心的；利用向心力的
+    centripetal force
+#向心力
+    centripetal acceleration
+#向心加速度
+
+licentious: 英[laɪˈsenʃəs] 美[laɪˈsenʃəs]
+%adj. 放肆的；放纵的
+    The licentious monarch helped bring about his country's downfall. 
+#这昏君荒淫无道，加速了这个国家的灭亡。
+
+dillydally: 英[ˈdɪliˌdæli] 美[ˈdɪliˌdæli]
+%v. 磨蹭，浪费时间
+    dillydally on tax reform
+#在税收改革上犹豫不决
+    Don't dillydally, make up your mind which painting you want to buy.
+#别再磨贈了，决定你要买哪幅画吧。
+
+interrogative: 英[ˌɪntəˈrɒɡətɪv] 美[ˌɪntəˈrɑːɡətɪv]
+$adj. （姿势、语调）询问的，疑问的
+%n. 疑问句，疑问结构；疑问词
+    an interrogative pronoun
+#疑问代词
+    in an interrogative tone
+#用疑问的口气
+    He made a further interrogative noise.
+#他发出了进一步疑问的声音。
+
+scuff: 英[skʌf] 美[skʌf]
+$v. 磨损，磨坏；拖着脚走
+%n. 磨痕，擦痕
+    scuff into the bedroom
+#一点点走进卧室
+    a scuffed face
+#被打肿的脸
+    scuff one's shoes
+#穿坏鞋子
+    shoes that resist scuff
+#耐磨的鞋
+    The floor was badly scuffed where they had been dancing.
+#地板在他们跳舞的地方磨损得很厉害。
+
+tremendous: 英[trəˈmendəs] 美[trəˈmendəs]
+%adj. 巨大的，极大的；极好的，精彩的；令人望而生畏的，可怕的
+    a tremendous amount of money
+#巨款
+    give a tremendous performance
+#进行精彩的表演
+    make tremendous progress
+#取得巨大的进步
+    The play is a tremendous hit.
+#这出戏一鸣惊人。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

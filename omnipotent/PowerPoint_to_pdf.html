@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PPT 转 PDF</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsPDF/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pptxgenjs/3.9.0/pptxgen.bundle.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        input {
+            margin-bottom: 20px;
+        }
+        canvas {
+            border: 1px solid #ccc;
+            margin: 10px 0;
+            width: 100%;
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>PPT 转 PDF</h1>
+    <input type="file" id="pptFile" accept=".pptx">
+    <button onclick="convertPPTToPDF()">转换为 PDF</button>
+    <div id="preview"></div>
+
+    <script>
+        async function convertPPTToPDF() {
+            const input = document.getElementById('pptFile');
+            const file = input.files[0];
+
+            if (!file) {
+                alert("请选择一个PPT文件");
+                return;
+            }
+
+            const reader = new FileReader();
+            reader.onload = async function (event) {
+                const arrayBuffer = event.target.result;
+
+                // 解析 PPTX 文件
+                const pptx = new PptxGenJS();
+                pptx.load(arrayBuffer, async function(presentation) {
+                    const { jsPDF } = window.jspdf;
+                    const pdf = new jsPDF();
+
+                    let slideIndex = 0;
+                    for (const slide of presentation.slides) {
+                        if (slideIndex > 0) pdf.addPage();
+
+                        // 创建 Canvas 预览幻灯片内容
+                        const canvas = document.createElement("canvas");
+                        canvas.width = 800;
+                        canvas.height = 450;
+                        document.getElementById("preview").appendChild(canvas);
+
+                        const ctx = canvas.getContext("2d");
+                        ctx.fillStyle = "#FFF";
+                        ctx.fillRect(0, 0, canvas.width, canvas.height);
+                        ctx.font = "20px Arial";
+                        ctx.fillStyle = "#333";
+                        ctx.fillText(`幻灯片 ${slideIndex + 1}`, 50, 50);
+
+                        // 添加内容（仅示例，真实PPT需要复杂处理）
+                        slide.objects.forEach(obj => {
+                            ctx.fillText(obj.text || "", 100, 100 + slideIndex * 30);
+                        });
+
+                        // 将 Canvas 添加到 PDF
+                        const imgData = canvas.toDataURL("image/png");
+                        pdf.addImage(imgData, 'PNG', 10, 10, 180, 100);
+
+                        slideIndex++;
+                    }
+
+                    // 生成 PDF 文件
+                    pdf.save("converted_ppt.pdf");
+                });
+            };
+
+            reader.readAsArrayBuffer(file);
+        }
+    </script>
+
+</body>
+</html>

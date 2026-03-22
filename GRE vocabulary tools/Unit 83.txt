@@ -1,0 +1,747 @@
+<<<<<<< HEAD
+discernable: 英[dɪˈsɜːnəbl] 美[dɪˈzɜːrnəbl]
+%adj. 可辨别的；可认识的
+    no discernable difference
+#没有明显的区别
+    There is no discernable reason why this should be the case.
+#情况为何应该如此，看不出有任何理由。
+
+tempting: 英[ˈtemptɪŋ] 美[ˈtemptɪŋ]
+$adj. 诱人的，吸引人的
+%v. 引诱，诱惑；怂恿，利诱；冒……的风险（tempt 的现在分词）
+    a tempting offer
+#诱人的提议
+    an extremely tempting dish
+#令人垂涎的佳肴
+    The display of fresh fruit looked tempting.
+#新鲜水果摆放得很诱人。
+
+inadvertent: 英[ˌɪnədˈvɜːt(ə)nt] 美[ˌɪnədˈvɜːrt(ə)nt]
+%adj. 疏忽的；不注意的（副词 inadvertently）；无意中做的
+    an inadvertent remark
+#漫不经心的话
+    some inadvertent errors
+#一些因疏忽而造成的错误
+    All authors need to be wary of inadvertent plagiarism of other people's work.
+#所有的作者都要注意不要在无意中抄袭了他人的作品。
+
+shoal: 英[ʃəʊl] 美[ʃoʊl]
+$n. 浅滩，沙洲；鱼群；潜在危险
+$vi. 变浅
+$vt. 使变浅；驶入
+%adj. 浅的
+    a shoal channel
+#浅航道
+    a shoal of tourists
+#大批游客
+    shoals of people
+#成群结队的人
+    a shoal of troubles
+#一大堆困难
+    get letters in shoals
+#收到大批大批信件
+    In the shallower water, we could see shoals of tiny fish darting about.
+#在水浅的地方，我们能看见一群群的小鱼儿游来游去。
+
+evanescent: 英[ˌevəˈnes(ə)nt] 美[ˌevəˈnes(ə)nt]
+%adj. 容易消散的；逐渐消失的；会凋零的
+    evanescent flowers
+#很快凋谢的花
+    the evanescent beauty of the sunset
+#日落景象的短暂的美
+    The evanescent postwar economic boom was quickly followed by a deep recession.
+#衰退紧随着短暂的战后经济繁荣而来。
+
+unwieldy: 英[ʌnˈwiːldi] 美[ʌnˈwiːldi]
+%adj. 笨拙的；笨重的；不灵便的；难处理的
+    the country's unwieldy banking system
+#该国无效率的银行系统
+    The problem with pushchairs is that they're so unwieldy to take on public transport.
+#幼儿推车存在的问题是在上公共交通工具时不太灵便。
+
+decimate: 英[ˈdesɪmeɪt] 美[ˈdesɪmeɪt]
+%v. 大批杀害，大量毁灭；大大削弱，使……严重失效；抽杀……十分之一的人；十中抽一，取十分之一
+    If the disease spreads it will decimate the cattle herds in this country.
+#若疾病蔓延开来，将导致这个国家的牛群大量死亡。
+
+commensurate: 英[kəˈmenʃərət] 美[kəˈmenʃərət]
+%adj. 相称的；同量的；同样大小的
+    The salary will be commensurate with age, experience and position.
+#薪水将和年龄、经验和职位相当。
+
+insider: 英[ɪnˈsaɪdə(r)] 美[ɪnˈsaɪdər]
+%n. 内部的人，知情人
+    insider dealing/trading
+#内部交易
+    According to insiders, the committee is having difficulty making up its mind.
+#据知情人士称，委员会很难做出决定。
+
+bastion: 英[ˈbæstiən] 美[ˈbæstʃən]
+$n. 堡垒；棱堡
+%n. （Bastion）（英）巴斯申（人名）
+    the last bastion of conservatism
+#保守派的最后堡垒
+    The club regarded itself as one of the last bastions of male supremacy.
+#这家俱乐部自称是持大男子主义的最后堡垒之一。
+
+flaunt: 英[flɔːnt] 美[flɔːnt]
+$vt. 炫耀，卖弄；无视，藐视
+$vi. 炫耀；飘扬
+%n. 炫耀
+    flaunt himself at every opportunity
+#有机会就炫耀自己
+    flaunt one's wealth
+#炫富
+    One secret he learned very early was not to flaunt his success.
+#他很早就领悟到的秘诀便是不夸耀自己的成功。
+
+blithe: 英[blaɪð] 美[blaɪð]
+%adj. 愉快的；快乐无忧的
+    blithe unconcern
+#漠不关心
+    a blithe indifference to other's feelings
+#毫不考虑别人的感情
+    I often think of those blithe summer days when I was young.
+#我时常想起年轻时那些快乐的夏日。
+
+spurious: 英[ˈspjʊəriəs] 美[ˈspjʊriəs]
+%adj. （声明、论据等）站不住脚的，谬误的；虚假的，伪造的
+    spurious coins
+#伪币
+    Some of the arguments in favor of shutting the factory are downright spurious.
+#有些赞同关闭工厂的言论具有明显的欺骗性。
+
+prodigal: 英[ˈprɒdɪɡ(ə)l] 美[ˈprɑːdɪɡ(ə)l]
+$adj. 挥霍的；十分慷慨的
+%n. 浪子；挥霍者
+    be prodigal of forests
+#浪费森林资源
+    be prodigal with money
+#挥霍金钱
+    be prodigal with praise
+#赞不绝口
+    a mind prodigal of ideas
+#足智多谋
+    the return of the prodigal
+#浪子的回头
+    play the prodigal
+#挥霍，浪荡
+    There have been rumors that he has been prodigal with company funds.
+#有谣言说他挥霍公司的资金。
+
+unwitting: 英[ʌnˈwɪtɪŋ] 美[ʌnˈwɪtɪŋ]
+$adj. 不知情的；不知不觉的，无意的
+%v. 使精神错乱；使丧失智能（unwit 的 ing 形式）
+    be unwitting of danger
+#不知道有危险
+    an unwitting mistake
+#无心之失
+    His insult, though unwitting, pained her.
+#他的侮辱，尽管不是出于故意，却使她很痛苦
+
+sedative: 英[ˈsedətɪv] 美[ˈsedətɪv]
+$n. [药] 镇静剂；能使安静的东西；止痛药
+%adj. 使镇静的；使安静的
+    have sedative properties
+#具有镇静特效
+    This drug has a sedative effect and should not be taken when driving.
+#这种药有镇静作用，开车时不应服用。
+
+ulterior: 英[ʌlˈtɪəriə(r)] 美[ʌlˈtɪriər]
+%adj. 将来的，较远的；在那边的；隐秘不明的
+    an ulterior region
+#较远的地区
+    He assured us that there was no ulterior motive in his suggestion.
+#他向我们保证，他的建议没有不可告人的动机
+
+audacious: 英[ɔːˈdeɪʃəs] 美[ɔːˈdeɪʃəs]
+%adj. 无畏的；鲁莽的
+    an audacious warrior
+#无畏的战士
+    an audacious vision of the future
+#对未来的大胆幻想
+    He was known for risky tactics that ranged from audacious to outrageous.
+#他以大胆甚至是骇人听闻的冒险战术而闻名。
+
+monolith: 英[ˈmɒnəlɪθ] 美[ˈmɑːnəlɪθ]
+%n. 整块石料；庞然大物
+    The statue is carved out of a monolith.
+#这座雕像由一块独块巨石雕刻而成。
+
+antiseptic: 英[ˌæntiˈseptɪk] 美[ˌæntiˈseptɪk]
+$adj. 防腐的，抗菌的；非常整洁的
+%n. 防腐剂，抗菌剂
+    antiseptic gauze
+#无菌纱布
+    antiseptic treatment
+#防腐处理
+    an antiseptic mind
+#一尘不染的天真头脑
+    an air of antiseptic cleanliness
+#过分讲究的洁净气氛
+    In the 1870s and 1880s, doctors began to follow the principles of antiseptic surgery.
+#自十九世纪七八十年代起，医生们开始遵循无菌外科手术的原则。
+
+inflamed: 英[ɪnˈfleɪmd] 美[ɪnˈfleɪmd]
+$adj. 发炎的；红肿的
+%v. 使发炎（inflame 的过去分词）；使燃烧；使火红；激起
+    inflamed eyes
+#红肿的眼睛
+    inflamed hands
+#红肿的手
+
+disjunctive: 英[dɪsˈdʒʌŋktɪv] 美[dɪsˈdʒʌŋktɪv]
+$adj. 分开的，分离的；（连词）转折的，反意的；（逻）选言命题的，析取命题的
+%n. 转折连词，反意连词；（逻）选言命题，析取命题
+    a disjunctive narrative sequence
+#不连续的叙述顺序
+
+fractious: 英[ˈfrækʃəs] 美[ˈfrækʃəs]
+%adj. 易怒的；倔强的，难以对待的
+    a fractious horse
+#难驾驭的马
+    a fractious crew
+#一船不听指挥的水手
+    I'm afraid I don't have much patience in dealing with a fractious man.
+#恐怕我没有多少耐心应付个脾气暴躁的男人。
+
+diehard: 英[ˈdaɪhɑːd] 美[ˈdaɪhɑːrd]
+$adj. 顽固的，因循守旧的
+%n. 顽固分子，死硬派
+    a diehard conservative
+#顽固的保守主义者
+    Only a few diehards on the right of the party object to the proposed changes.
+#只有该党几个右翼的顽固分子反对所建议的改革。
+
+sanguine: 英[ˈsæŋɡwɪn] 美[ˈsæŋɡwɪn]
+$adj. 乐观的；满怀希望的；面色红润的
+$vt. 血染；以血沾污
+%n. 血红色
+    a sanguine disposition
+#乐天的性格
+    a sanguine complexion
+#红润的脸色
+    The hope placed on the general election may be too sanguine.
+#对大选所抱的希望也许过于乐观了。
+
+intricacy: 英[ˈɪntrɪkəsi] 美[ˈɪntrɪkəsi]
+%n. 错综复杂的事物（或细节）；盘根错节，复杂精细
+    the intricacy of one's philosophic notions
+#某人哲学观念的错综复杂
+    the intricacies of the processes
+#过程的错综复杂
+    These mechanisms are very expensive to repair because of the intricacies of the work involved in making them.
+#这些机械装置维修起来很昂贵，因为其制造工艺复杂精细。
+
+untenable: 英[ʌnˈtenəb(ə)l] 美[ʌnˈtenəb(ə)l]
+%adj. （论据等）站不住脚的；不能维持的；不能租赁的；难以防守的
+    an untenable position
+#难以防守的阵地
+    an untenable argument
+#站不住脚的论据
+    If three people in four no longer support the government, then it is an untenable situation.
+#如果四人中有三人不再支持政府，那就是难以为继的局面。
+
+inexhaustible: 英[ˌɪnɪɡˈzɔːstəb(ə)l] 美[ˌɪnɪɡˈzɔːstəb(ə)l]
+%adj. 用不完的；不知疲倦的
+    an inexhaustible supply
+#用之不竭的供应
+    an inexhaustible hiker
+#不知疲倦的远足者
+    Oil and coal will run out one day, but wind and water power are inexhaustible.
+#石油和煤有一天终将用完，但风力和水力是取之不尽的。
+
+supercilious: 英[ˌsuːpəˈsɪliəs] 美[ˌsuːpərˈsɪliəs]
+%adj. 目空一切的，高傲的；傲慢的，自大的
+    a supercilious manner
+#傲慢的态度
+    He spoke in a haughty, supercilious voice.
+#他说话的口气轻蔑而傲慢。
+
+idiosyncracy: 英[ˌɪdiəˈsɪŋkrəsi] 美[ˌɪdiəˈsɪŋkrəsi]
+%n. 特质
+    innate idiosyncracy
+#内在特质
+    It's an idiosyncracy of hers that she always smells a book before opening it.
+#打开书之前先闻闻是她的癖好。
+
+florid: 英[ˈflɒrɪd] 美[ˈflɔːrɪd]
+%adj. 绚丽的；气色好的
+    a florid complexion
+#脸色红润
+    florid language
+#华丽的言辞
+    be florid with excitement
+#激动得满脸通红
+    Mr. Higgins was the florid-faced gentleman in the blue jacket.
+#希金斯先生是那位脸色红润、身着蓝色上衣的绅士。
+
+salutary: 英[ˈsæljət(ə)ri] 美[ˈsæljəteri]
+%adj. 有益的，有用的；有益健康的
+    a salutary reminder
+#有益的提醒
+    salutary advice
+#有益的忠告
+    sea breezes salutary to insomniacs
+#对失眠症患者有好处的海上微风
+    His experience offers a salutary lesson to other people.
+#他的经历为其他人提供了一个有益的教训。
+
+unfailing: 英[ʌnˈfeɪlɪŋ] 美[ʌnˈfeɪlɪŋ]
+%adj. 经久不衰的；可靠的；无穷尽的
+    with unfailing energy
+#精力充沛地
+    an unfailing pleasure
+#无穷的乐趣
+    an unfailing friend
+#忠实的朋友
+    One of the good things about her is that you always rely on her unfailing enthusiasm.
+#她身上的良好品质之一是你永远可以相信她经久不衰的热心。
+
+veer: 英[vɪə(r)] 美[vɪr]
+$vi. 转向；改变观点；风向顺时针转；调转船尾向上风
+$vt. 使转向；使顺风；使船尾向上风
+$n. 转向；方向的转变
+%n. （Veer）人名；（英、印）维尔
+    veer round to the east
+#转向东
+    There was a sudden flash of light, making the driver veer sharply.
+#突然闪出的一道光使得司机猛地改变了方向。
+
+hedonist: 英[ˈhedənɪst; ˈhiːdənɪst] 美[ˈhedənɪst]
+%n. 快乐主义者，享乐主义者
+    According to the hedonists, the most important thing in life is to enjoy yourself.
+#按照享乐主义者的观点，人生最重要的事就是享受自我。
+
+domineer: 英[ˌdɒmɪˈnɪə] 美[dɑːməˈnɪr]
+%v. 专横跋扈；压制
+    A mother who domineers over her family is likely to lose her children's love.
+#对子女专横的母亲可能会失去孩子们的爱。
+
+terse: 英[tɜːs] 美[tɜːrs]
+%adj. 简洁的，精练的，扼要的
+    a terse writer
+#行文简洁的作者
+    be terse in one's answer
+#回答简洁
+    In a terse statement yesterday, the company announced that it was closing three of its factories.
+#在昨天简短的声明中，公司宣布将关闭它的三个工厂。
+
+unpretentious: 英[ˌʌnprɪˈtenʃəs] 美[ˌʌnprɪˈtenʃəs]
+%adj. 谦逊的，不炫耀的；（地方）简朴实用的，朴实无华的
+    a large but unpretentious house
+#大而简朴的房子
+    She has a quiet and unpretentious disposition.
+#她有着娴静质朴的性情。
+
+enthral: 英[ɪnˈθrɔːl] 美[ɪnˈθrɔːl]
+%v. 迷住；奴役
+    be enthralled by a woman's beauty
+#被一个女人的美色迷住
+    The audience was enthralled by a sparkling dramatic performance.
+#观众被一个精彩的戏剧表演迷住了。
+
+vindictive: 英[vɪnˈdɪktɪv] 美[vɪnˈdɪktɪv]
+%adj. 怀恨的；有报仇心的；惩罚的
+    vindictive act
+#报复行为
+    The lawyer was threatened by a vindictive former prisoner.
+#这位律师受到一个怀恨在心的出狱囚犯的威胁。
+
+detriment: 英[ˈdetrɪmənt] 美[ˈdetrɪmənt]
+%n. 损害，伤害；造成损害（或损伤）的事物
+    a detriment to one's studies
+#影响学业
+    The civil war caused great detriment to the nation's economy.
+#内战极大地损害了该国经济。
+
+consummate: 英[kənˈsʌmət] 美[ˈkɑːnsəmət]
+$adj. 至上的；完美的；圆满的
+%vt. 完成；作成；使达到极点
+    consummate a business deal
+#完成交易
+    consummate a desire
+#使愿望变成现实
+    consummate skill
+#完美的技艺
+    a consummate master of piano
+#钢琴大师
+    a consummate liar
+#撒谎大王
+    With her he would lead a life of consummate happiness.
+#有了她，他就会过上圆满的幸福生活。
+
+=======
+discernable: 英[dɪˈsɜːnəbl] 美[dɪˈzɜːrnəbl]
+%adj. 可辨别的；可认识的
+    no discernable difference
+#没有明显的区别
+    There is no discernable reason why this should be the case.
+#情况为何应该如此，看不出有任何理由。
+
+tempting: 英[ˈtemptɪŋ] 美[ˈtemptɪŋ]
+$adj. 诱人的，吸引人的
+%v. 引诱，诱惑；怂恿，利诱；冒……的风险（tempt 的现在分词）
+    a tempting offer
+#诱人的提议
+    an extremely tempting dish
+#令人垂涎的佳肴
+    The display of fresh fruit looked tempting.
+#新鲜水果摆放得很诱人。
+
+inadvertent: 英[ˌɪnədˈvɜːt(ə)nt] 美[ˌɪnədˈvɜːrt(ə)nt]
+%adj. 疏忽的；不注意的（副词 inadvertently）；无意中做的
+    an inadvertent remark
+#漫不经心的话
+    some inadvertent errors
+#一些因疏忽而造成的错误
+    All authors need to be wary of inadvertent plagiarism of other people's work.
+#所有的作者都要注意不要在无意中抄袭了他人的作品。
+
+shoal: 英[ʃəʊl] 美[ʃoʊl]
+$n. 浅滩，沙洲；鱼群；潜在危险
+$vi. 变浅
+$vt. 使变浅；驶入
+%adj. 浅的
+    a shoal channel
+#浅航道
+    a shoal of tourists
+#大批游客
+    shoals of people
+#成群结队的人
+    a shoal of troubles
+#一大堆困难
+    get letters in shoals
+#收到大批大批信件
+    In the shallower water, we could see shoals of tiny fish darting about.
+#在水浅的地方，我们能看见一群群的小鱼儿游来游去。
+
+evanescent: 英[ˌevəˈnes(ə)nt] 美[ˌevəˈnes(ə)nt]
+%adj. 容易消散的；逐渐消失的；会凋零的
+    evanescent flowers
+#很快凋谢的花
+    the evanescent beauty of the sunset
+#日落景象的短暂的美
+    The evanescent postwar economic boom was quickly followed by a deep recession.
+#衰退紧随着短暂的战后经济繁荣而来。
+
+unwieldy: 英[ʌnˈwiːldi] 美[ʌnˈwiːldi]
+%adj. 笨拙的；笨重的；不灵便的；难处理的
+    the country's unwieldy banking system
+#该国无效率的银行系统
+    The problem with pushchairs is that they're so unwieldy to take on public transport.
+#幼儿推车存在的问题是在上公共交通工具时不太灵便。
+
+decimate: 英[ˈdesɪmeɪt] 美[ˈdesɪmeɪt]
+%v. 大批杀害，大量毁灭；大大削弱，使……严重失效；抽杀……十分之一的人；十中抽一，取十分之一
+    If the disease spreads it will decimate the cattle herds in this country.
+#若疾病蔓延开来，将导致这个国家的牛群大量死亡。
+
+commensurate: 英[kəˈmenʃərət] 美[kəˈmenʃərət]
+%adj. 相称的；同量的；同样大小的
+    The salary will be commensurate with age, experience and position.
+#薪水将和年龄、经验和职位相当。
+
+insider: 英[ɪnˈsaɪdə(r)] 美[ɪnˈsaɪdər]
+%n. 内部的人，知情人
+    insider dealing/trading
+#内部交易
+    According to insiders, the committee is having difficulty making up its mind.
+#据知情人士称，委员会很难做出决定。
+
+bastion: 英[ˈbæstiən] 美[ˈbæstʃən]
+$n. 堡垒；棱堡
+%n. （Bastion）（英）巴斯申（人名）
+    the last bastion of conservatism
+#保守派的最后堡垒
+    The club regarded itself as one of the last bastions of male supremacy.
+#这家俱乐部自称是持大男子主义的最后堡垒之一。
+
+flaunt: 英[flɔːnt] 美[flɔːnt]
+$vt. 炫耀，卖弄；无视，藐视
+$vi. 炫耀；飘扬
+%n. 炫耀
+    flaunt himself at every opportunity
+#有机会就炫耀自己
+    flaunt one's wealth
+#炫富
+    One secret he learned very early was not to flaunt his success.
+#他很早就领悟到的秘诀便是不夸耀自己的成功。
+
+blithe: 英[blaɪð] 美[blaɪð]
+%adj. 愉快的；快乐无忧的
+    blithe unconcern
+#漠不关心
+    a blithe indifference to other's feelings
+#毫不考虑别人的感情
+    I often think of those blithe summer days when I was young.
+#我时常想起年轻时那些快乐的夏日。
+
+spurious: 英[ˈspjʊəriəs] 美[ˈspjʊriəs]
+%adj. （声明、论据等）站不住脚的，谬误的；虚假的，伪造的
+    spurious coins
+#伪币
+    Some of the arguments in favor of shutting the factory are downright spurious.
+#有些赞同关闭工厂的言论具有明显的欺骗性。
+
+prodigal: 英[ˈprɒdɪɡ(ə)l] 美[ˈprɑːdɪɡ(ə)l]
+$adj. 挥霍的；十分慷慨的
+%n. 浪子；挥霍者
+    be prodigal of forests
+#浪费森林资源
+    be prodigal with money
+#挥霍金钱
+    be prodigal with praise
+#赞不绝口
+    a mind prodigal of ideas
+#足智多谋
+    the return of the prodigal
+#浪子的回头
+    play the prodigal
+#挥霍，浪荡
+    There have been rumors that he has been prodigal with company funds.
+#有谣言说他挥霍公司的资金。
+
+unwitting: 英[ʌnˈwɪtɪŋ] 美[ʌnˈwɪtɪŋ]
+$adj. 不知情的；不知不觉的，无意的
+%v. 使精神错乱；使丧失智能（unwit 的 ing 形式）
+    be unwitting of danger
+#不知道有危险
+    an unwitting mistake
+#无心之失
+    His insult, though unwitting, pained her.
+#他的侮辱，尽管不是出于故意，却使她很痛苦
+
+sedative: 英[ˈsedətɪv] 美[ˈsedətɪv]
+$n. [药] 镇静剂；能使安静的东西；止痛药
+%adj. 使镇静的；使安静的
+    have sedative properties
+#具有镇静特效
+    This drug has a sedative effect and should not be taken when driving.
+#这种药有镇静作用，开车时不应服用。
+
+ulterior: 英[ʌlˈtɪəriə(r)] 美[ʌlˈtɪriər]
+%adj. 将来的，较远的；在那边的；隐秘不明的
+    an ulterior region
+#较远的地区
+    He assured us that there was no ulterior motive in his suggestion.
+#他向我们保证，他的建议没有不可告人的动机
+
+audacious: 英[ɔːˈdeɪʃəs] 美[ɔːˈdeɪʃəs]
+%adj. 无畏的；鲁莽的
+    an audacious warrior
+#无畏的战士
+    an audacious vision of the future
+#对未来的大胆幻想
+    He was known for risky tactics that ranged from audacious to outrageous.
+#他以大胆甚至是骇人听闻的冒险战术而闻名。
+
+monolith: 英[ˈmɒnəlɪθ] 美[ˈmɑːnəlɪθ]
+%n. 整块石料；庞然大物
+    The statue is carved out of a monolith.
+#这座雕像由一块独块巨石雕刻而成。
+
+antiseptic: 英[ˌæntiˈseptɪk] 美[ˌæntiˈseptɪk]
+$adj. 防腐的，抗菌的；非常整洁的
+%n. 防腐剂，抗菌剂
+    antiseptic gauze
+#无菌纱布
+    antiseptic treatment
+#防腐处理
+    an antiseptic mind
+#一尘不染的天真头脑
+    an air of antiseptic cleanliness
+#过分讲究的洁净气氛
+    In the 1870s and 1880s, doctors began to follow the principles of antiseptic surgery.
+#自十九世纪七八十年代起，医生们开始遵循无菌外科手术的原则。
+
+inflamed: 英[ɪnˈfleɪmd] 美[ɪnˈfleɪmd]
+$adj. 发炎的；红肿的
+%v. 使发炎（inflame 的过去分词）；使燃烧；使火红；激起
+    inflamed eyes
+#红肿的眼睛
+    inflamed hands
+#红肿的手
+
+disjunctive: 英[dɪsˈdʒʌŋktɪv] 美[dɪsˈdʒʌŋktɪv]
+$adj. 分开的，分离的；（连词）转折的，反意的；（逻）选言命题的，析取命题的
+%n. 转折连词，反意连词；（逻）选言命题，析取命题
+    a disjunctive narrative sequence
+#不连续的叙述顺序
+
+fractious: 英[ˈfrækʃəs] 美[ˈfrækʃəs]
+%adj. 易怒的；倔强的，难以对待的
+    a fractious horse
+#难驾驭的马
+    a fractious crew
+#一船不听指挥的水手
+    I'm afraid I don't have much patience in dealing with a fractious man.
+#恐怕我没有多少耐心应付个脾气暴躁的男人。
+
+diehard: 英[ˈdaɪhɑːd] 美[ˈdaɪhɑːrd]
+$adj. 顽固的，因循守旧的
+%n. 顽固分子，死硬派
+    a diehard conservative
+#顽固的保守主义者
+    Only a few diehards on the right of the party object to the proposed changes.
+#只有该党几个右翼的顽固分子反对所建议的改革。
+
+sanguine: 英[ˈsæŋɡwɪn] 美[ˈsæŋɡwɪn]
+$adj. 乐观的；满怀希望的；面色红润的
+$vt. 血染；以血沾污
+%n. 血红色
+    a sanguine disposition
+#乐天的性格
+    a sanguine complexion
+#红润的脸色
+    The hope placed on the general election may be too sanguine.
+#对大选所抱的希望也许过于乐观了。
+
+intricacy: 英[ˈɪntrɪkəsi] 美[ˈɪntrɪkəsi]
+%n. 错综复杂的事物（或细节）；盘根错节，复杂精细
+    the intricacy of one's philosophic notions
+#某人哲学观念的错综复杂
+    the intricacies of the processes
+#过程的错综复杂
+    These mechanisms are very expensive to repair because of the intricacies of the work involved in making them.
+#这些机械装置维修起来很昂贵，因为其制造工艺复杂精细。
+
+untenable: 英[ʌnˈtenəb(ə)l] 美[ʌnˈtenəb(ə)l]
+%adj. （论据等）站不住脚的；不能维持的；不能租赁的；难以防守的
+    an untenable position
+#难以防守的阵地
+    an untenable argument
+#站不住脚的论据
+    If three people in four no longer support the government, then it is an untenable situation.
+#如果四人中有三人不再支持政府，那就是难以为继的局面。
+
+inexhaustible: 英[ˌɪnɪɡˈzɔːstəb(ə)l] 美[ˌɪnɪɡˈzɔːstəb(ə)l]
+%adj. 用不完的；不知疲倦的
+    an inexhaustible supply
+#用之不竭的供应
+    an inexhaustible hiker
+#不知疲倦的远足者
+    Oil and coal will run out one day, but wind and water power are inexhaustible.
+#石油和煤有一天终将用完，但风力和水力是取之不尽的。
+
+supercilious: 英[ˌsuːpəˈsɪliəs] 美[ˌsuːpərˈsɪliəs]
+%adj. 目空一切的，高傲的；傲慢的，自大的
+    a supercilious manner
+#傲慢的态度
+    He spoke in a haughty, supercilious voice.
+#他说话的口气轻蔑而傲慢。
+
+idiosyncracy: 英[ˌɪdiəˈsɪŋkrəsi] 美[ˌɪdiəˈsɪŋkrəsi]
+%n. 特质
+    innate idiosyncracy
+#内在特质
+    It's an idiosyncracy of hers that she always smells a book before opening it.
+#打开书之前先闻闻是她的癖好。
+
+florid: 英[ˈflɒrɪd] 美[ˈflɔːrɪd]
+%adj. 绚丽的；气色好的
+    a florid complexion
+#脸色红润
+    florid language
+#华丽的言辞
+    be florid with excitement
+#激动得满脸通红
+    Mr. Higgins was the florid-faced gentleman in the blue jacket.
+#希金斯先生是那位脸色红润、身着蓝色上衣的绅士。
+
+salutary: 英[ˈsæljət(ə)ri] 美[ˈsæljəteri]
+%adj. 有益的，有用的；有益健康的
+    a salutary reminder
+#有益的提醒
+    salutary advice
+#有益的忠告
+    sea breezes salutary to insomniacs
+#对失眠症患者有好处的海上微风
+    His experience offers a salutary lesson to other people.
+#他的经历为其他人提供了一个有益的教训。
+
+unfailing: 英[ʌnˈfeɪlɪŋ] 美[ʌnˈfeɪlɪŋ]
+%adj. 经久不衰的；可靠的；无穷尽的
+    with unfailing energy
+#精力充沛地
+    an unfailing pleasure
+#无穷的乐趣
+    an unfailing friend
+#忠实的朋友
+    One of the good things about her is that you always rely on her unfailing enthusiasm.
+#她身上的良好品质之一是你永远可以相信她经久不衰的热心。
+
+veer: 英[vɪə(r)] 美[vɪr]
+$vi. 转向；改变观点；风向顺时针转；调转船尾向上风
+$vt. 使转向；使顺风；使船尾向上风
+$n. 转向；方向的转变
+%n. （Veer）人名；（英、印）维尔
+    veer round to the east
+#转向东
+    There was a sudden flash of light, making the driver veer sharply.
+#突然闪出的一道光使得司机猛地改变了方向。
+
+hedonist: 英[ˈhedənɪst; ˈhiːdənɪst] 美[ˈhedənɪst]
+%n. 快乐主义者，享乐主义者
+    According to the hedonists, the most important thing in life is to enjoy yourself.
+#按照享乐主义者的观点，人生最重要的事就是享受自我。
+
+domineer: 英[ˌdɒmɪˈnɪə] 美[dɑːməˈnɪr]
+%v. 专横跋扈；压制
+    A mother who domineers over her family is likely to lose her children's love.
+#对子女专横的母亲可能会失去孩子们的爱。
+
+terse: 英[tɜːs] 美[tɜːrs]
+%adj. 简洁的，精练的，扼要的
+    a terse writer
+#行文简洁的作者
+    be terse in one's answer
+#回答简洁
+    In a terse statement yesterday, the company announced that it was closing three of its factories.
+#在昨天简短的声明中，公司宣布将关闭它的三个工厂。
+
+unpretentious: 英[ˌʌnprɪˈtenʃəs] 美[ˌʌnprɪˈtenʃəs]
+%adj. 谦逊的，不炫耀的；（地方）简朴实用的，朴实无华的
+    a large but unpretentious house
+#大而简朴的房子
+    She has a quiet and unpretentious disposition.
+#她有着娴静质朴的性情。
+
+enthral: 英[ɪnˈθrɔːl] 美[ɪnˈθrɔːl]
+%v. 迷住；奴役
+    be enthralled by a woman's beauty
+#被一个女人的美色迷住
+    The audience was enthralled by a sparkling dramatic performance.
+#观众被一个精彩的戏剧表演迷住了。
+
+vindictive: 英[vɪnˈdɪktɪv] 美[vɪnˈdɪktɪv]
+%adj. 怀恨的；有报仇心的；惩罚的
+    vindictive act
+#报复行为
+    The lawyer was threatened by a vindictive former prisoner.
+#这位律师受到一个怀恨在心的出狱囚犯的威胁。
+
+detriment: 英[ˈdetrɪmənt] 美[ˈdetrɪmənt]
+%n. 损害，伤害；造成损害（或损伤）的事物
+    a detriment to one's studies
+#影响学业
+    The civil war caused great detriment to the nation's economy.
+#内战极大地损害了该国经济。
+
+consummate: 英[kənˈsʌmət] 美[ˈkɑːnsəmət]
+$adj. 至上的；完美的；圆满的
+%vt. 完成；作成；使达到极点
+    consummate a business deal
+#完成交易
+    consummate a desire
+#使愿望变成现实
+    consummate skill
+#完美的技艺
+    a consummate master of piano
+#钢琴大师
+    a consummate liar
+#撒谎大王
+    With her he would lead a life of consummate happiness.
+#有了她，他就会过上圆满的幸福生活。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

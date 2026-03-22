@@ -1,0 +1,787 @@
+<<<<<<< HEAD
+slobber: 英[ˈslɒbə(r)] 美[ˈslɑːbər]
+$vi. 流口水；情不自禁地说；过分感伤地说；感情迸发
+$vt. 处事马虎；流口水弄湿；口齿不清地说
+%n. 口水；感情用事的话
+    slobber over sb.'s beauty
+#对某人的美色垂涎欲滴
+    She slobbered the medicine on her night clothes.
+#药水从她口中滴到睡衣上。
+
+vaunt: 英[vɔ:nt] 美[vɔ:nt]
+$vi. 自夸；吹嘘
+$vt. 自夸；吹嘘
+%n. 自吹自擂
+    Patience and discipline were vaunted as virtues in the army.
+#耐心和纪律被夸耀为军队的美德。
+
+stentorian: 英[stenˈtɔːriən] 美[stenˈtɔːriən]
+%adj. 声音洪亮的
+    Suddenly a stentorian voice boomed across the hall.
+#突然，一个洪亮的声音响彻大厅。
+
+apocryphal: 英[əˈpɒkrɪf(ə)l] 美[əˈpɑːkrɪf(ə)l]
+%adj. 伪的；可疑的
+    an apocryphal story
+#杜撰的故事
+
+valedictorian: 英[ˌvælɪdɪkˈtɔːriən] 美[ˌvælɪdɪkˈtɔːriən]
+%n. （毕业典礼上）致告别辞的最优秀毕业生
+    If you were valedictorian of your university, you can make a note of that.
+#如果你是就读大学的优秀毕业生，那你可以强调这一点。
+
+expurgate: 英[ˈekspəɡeɪt] 美[ˈekspərɡeɪt]
+%vt. 删除，删去
+    expurgate a book
+#修订了一本书
+    She expurgated the objectionable passage from the book.
+#她把书中令人反感的一段删去了。
+
+hyperactive: 英[ˌhaɪpərˈæktɪv] 美[ˌhaɪpərˈæktɪv]
+%adj. 极度活跃的；活动过度的
+    the child's hyperactive imagination
+#那孩子极度活跃的想象力
+
+chimera: 英[kaɪˈmɪərə] 美[kaɪˈmɪrə]
+%n. [遗] 嵌合体；虚构的怪物；妄想
+    a chimera in sb.'s brain
+#某人头脑中的幻觉
+
+acuity: 英[əˈkjuːəti] 美[əˈkjuːəti]
+%n. 敏锐；尖锐；剧烈
+    man of great political acuity
+#具有高度政治敏感的人
+    Tiredness also affects visual acuity.
+#疲劳也影响视力。
+
+charisma: 英[kəˈrɪzmə] 美[kəˈrɪzmə]
+%n. 个人魅力，感召力；神赐的力量，神授的能力；非凡的领导力
+    the charisma of a popular actor
+#受欢迎的演员的魅力
+    He had the unexplainable charisma of a born leader.
+#他有天生领袖人物所具有的那种无法解释的魅力。
+
+blight: 英[blaɪt] 美[blaɪt]
+$n. 枯萎病；荒芜
+$vt. 破坏；使……枯萎
+$vi. 枯萎
+%n. （Blight）人名；（英）布莱特
+    a blight upon sb.'s hopes
+#使某人的希望落空
+    a blight on sb.'s life
+#毁掉某人一生的因素
+    Her career has been blighted by some clashes with the authorities.
+#她和当权者的一些冲突令她的事业遭了殃。
+
+estrange: 英[ɪˈstreɪndʒ] 美[ɪˈstreɪndʒ]
+%vt. 使疏远；离间
+    be estranged from each other
+#相互疏远
+    estrange oneself from society
+#与社会脱离
+    one's estranged wife
+#分居的妻子
+    She has been estranged from her husband for several years.
+#她和丈夫已经分居多年。
+
+oblique: 英[əˈbliːk] 美[əˈbliːk]
+$adj. 斜的；不光明正大的
+$n. 倾斜物
+%vi. 倾斜
+    give sb. an oblique glance
+#斜视某人一眼
+    make oblique accusations
+#指桑骂槐
+    an oblique answer
+#躲躲闪闪的答复
+    In her speech she made several oblique references to the current financial situation.
+#她在发言中几次拐弯抹角地提到了当前的财政状况。
+
+schism: 英[ˈskɪzəm] 美[ˈskɪzəm]
+%n. 分裂；分裂教会罪
+    The schism in the party will damage its chance of being reelected.
+#该党内部的分裂将损害其连任的机会。
+
+fetid: 英[ˈfetɪd] 美[ˈfetɪd]
+%adj. 臭的；恶臭的；腐臭的
+    The fetid air of the prison cell made her want to vomit.
+#牢房里恶臭的空气使她想吐。
+
+indubitable: 英[ɪnˈdjuːbɪtəbl] 美[ɪnˈduːbɪtəb(ə)l]
+%adj. 不容置疑的；明确的
+    indubitable evidence
+#不容置疑的证据
+
+fete: 英[feɪt] 美[feɪt]
+$n. 祭祀；庆祝；节日；游乐会
+%vt. 宴请；招待
+    the village fete
+#村民游乐会
+    fete a visiting celebrity
+#盛宴招待一位来访的名人
+    be feted as a great thinker
+#被誉为伟人的思想家
+    The ball was the greatest fete of the season.
+#这次舞会是这个季节最大的盛会。
+
+posthumous: 英[ˈpɒstjʊməs] 美[ˈpɑːstʃəməs]
+%adj. 死后的；遗腹的；作者死后出版的
+    a posthumous child
+#遗腹子
+    posthumous works
+#遗作
+    The posthumous publication of the actress's memoirs aroused a lot of interest.
+#这位女演员死后回忆录的出版引起了许多人的兴趣。
+
+ado: 英[əˈduː] 美[əˈduː]
+$n. 麻烦，困难；纷扰，忙乱
+%n. （Ado）（意、尼）阿杜（人名）
+    have/make much ado
+#费尽心心血
+    much ado about nothing
+#无事生非
+    without more/further ado
+#干脆，立即
+    And now, without further ado, let me introduce our next speaker.
+#下面，闲话少说，让我来介绍我们下一个演讲者。
+
+adultery: 英[əˈdʌltəri] 美[əˈdʌltəri]
+%n. 通奸，通奸行为
+    Her second novel deals with the adultery of the class.
+#她的第二部小说涉及了该阶级的通奸行为。
+
+adulterate: 英[əˈdʌltəreɪt] 美[əˈdʌltəreɪt]
+$v. 在（饮食）中掺入低劣杂质，掺假
+%adj. 掺假的，不纯的；通奸的
+    There were complaints that the beer had been adulterated with water.
+#有人投诉说这啤酒里掺了水
+
+affable: 英[ˈæfəb(ə)l] 美[ˈæfəb(ə)l]
+%adj. 和蔼可亲的；友善的
+    He stuck me as an affable sort of person.
+#他给我的印象是一个和蔼可亲的人。
+
+crux: 英[krʌks] 美[krʌks]
+%n. 关键，症结；难题；十字架形，坩埚
+    The crux of the country's economic problems is its foreign debt.
+#外债是这个国家经济问题的症结所在。
+
+thespian: 英[ˈθespiən] 美[ˈθespiən]
+$adj. 戏剧的；悲剧性的；泰斯庇斯的
+%n. 悲剧演员；演员
+    thespian skill
+#戏剧技巧
+    thespian talent
+#戏剧天オ
+    The biography covers a thespian's career which spanned for four decades.
+#这部传记讲述了一个演员40年的戏剧生涯。
+
+petrify: 英[ˈpetrɪfaɪ] 美[ˈpetrɪfaɪ]
+$vi. 石化；惊呆
+%vt. 使……石化；使……惊呆
+    petrified wood
+#石化的木头
+    The warning whistle petrified the children.
+#警笛声把孩子们吓呆了。
+
+diagram: 英[ˈdaɪəɡræm] 美[ˈdaɪəɡræm]
+$n. 图表，图解；几何图形
+%v. 以图表示
+    draw a diagram
+#绘制图表
+    diagram a sentence
+#用图解法分析句子
+
+postiche: 英[pɒˈstiːʃ] 美[pɔːˈstiːʃ]
+$n. 小束假发；虚假之物
+%adj. 画蛇添足的；人工的；伪造的
+    The painting turned out to be a postiche.
+#这幅油画被证明是个赝品。
+
+rebarbative: 英[rɪˈbɑːbətɪv] 美[rɪˈbɑːrbətɪv]
+%adj. 令人讨厌的；难看的
+    a rebarbative character
+#讨厌的家伙
+    a rebarbative hat
+#丑陋的帽子
+
+adventitious: 英[ˌædvenˈtɪʃəs] 美[ˌædvenˈtɪʃəs]
+%adj. 外来的，偶然的
+    an adventitious event
+#偶然事件
+    adventitious aid
+#外来援助
+    an adventitious remark
+#附加备注
+
+gratification: 英[ˌɡrætɪfɪˈkeɪʃ(ə)n] 美[ˌɡrætɪfɪˈkeɪʃ(ə)n]
+%n. 满足，令人喜悦的事物
+    The gratification of every wish of every person is not possible.
+#满足每个人的每一个愿望是不可能的。
+
+pallid: 英[ˈpælɪd] 美[ˈpælɪd]
+%adj. 苍白的；暗淡的；无生气的
+    a pallid countenance
+#病容
+    a pallid moon
+#惨白的月亮
+    a pallid performance
+#呆板的表演
+
+transgression: 英[trænzˈɡreʃ(ə)n] 美[trænzˈɡreʃnˌtrænsˈɡreʃn]
+%n. [地质] 海侵；犯罪；违反；逸出
+    commit a transgression of college rules
+#违反校规
+    He apologized at once for his transgression.
+#他对自己所犯的过失立即表示了道歉。
+
+reprehend: 英[ˌreprɪˈhend] 美[ˌreprɪˈhend]
+$vt. 申斥；指责
+%n. 责备
+    reprehend the imperfections of others
+#指摘他人的缺点
+    The man deserves to be severely reprehended.
+#那人应该受到严厉的遗责。
+
+prolix: 英[ˈprəʊlɪks] 美[ˈproʊlɪks]
+%adj. 冗长的；说话啰嗦的
+    a prolix speech
+#冗长的演讲
+    be prolix with one's pen
+#好写长篇大论的文章
+
+diaphanous: 英[daɪˈæfənəs] 美[daɪˈæfənəs]
+%adj. 透明的；精致的；模糊的
+    diaphanous silk veils
+#透明的丝绸面纱
+    a diaphanous hope of success
+#隐约的成功希望
+
+guileless: 英[ˈɡaɪlləs] 美[ˈɡaɪlləs]
+%adj. 诚实的
+    People's liking for her guileless campaign style was enough to give her victory in the election.
+#人们喜欢她诚实的竞选风格，这足以使她在选举中获胜。
+
+reincarnate: 英[ˌriːɪnkɑːˈneɪt] 美[ˌriːɪnˈkɑːrneɪt]
+$v. 使转世，使再生；使转世化身
+%adj. 转世化身的
+    be reincarnated as a bull
+#转世变成一头公牛
+    His father's talents are reincarnated in his brother.
+#他父亲的才能在他的兄弟身上重新体现了。
+
+omnivorous: 英[ɒmˈnɪvərəs] 美[ɑːmˈnɪvərəs]
+%adj. 杂食的；什么都读的；无所不吃的
+    an omnivorous reader
+#什么书都看的读者
+    Man is an omnivorous animal.
+#人是杂食动物。
+
+overreach: 英[ˌəʊvəˈriːtʃ] 美[ˌoʊvərˈriːtʃ]
+$v. 伸得过远；以奸诈取胜；不自量力；（后腿碰前腿而）交突致伤
+%n. （马的前腿）交突伤
+    overreach one's authority
+#越权
+    overreach sb. in a bargain
+#在交易中诈骗某人
+    I think he was overreaching himself in taking on that job, which he really knew nothing about.
+#我认为他做那件工作是自不量力，因为他对其一无所知。
+
+disembody: 英[ˌdɪsɪmˈbɒdi] 美[ˌdɪsɪmˈbɑːdi]
+%vt. 使脱离肉体（或躯壳）
+    a disembodied spirit
+#游魂
+    a disembodied ideal
+#脱离现实的观念
+    The play of light off the dome's glass further served to disembody it.
+#将光从穹顶玻璃射出使它显得更加游离。
+
+devotional: 英[dɪˈvəʊʃən(ə)l] 美[dɪˈvoʊʃən(ə)l]
+%adj. 虔诚的，祷告的；信仰的；献身的
+    devotional music
+#祈祷音乐
+    devotional practices
+#祈祷仪式
+
+canon: 英[ˈkænən] 美[ˈkænən]
+%n. <正式>准则，标准；教规，宗教法规；作品集，精品集；经典；真经，正经；卡农（一种复调音乐）；大教堂教士，（主教座堂的）咏礼司铎；（罗马天主教）律修会修士；（作为罗马天主教弥撒一部分的）祭献经文
+    the canons of good taste
+#高雅趣味的标准
+    newspaper canons
+#报界的准则
+
+sacrilege: 英[ˈsækrəlɪdʒ] 美[ˈsækrəlɪdʒ]
+%n. （对圣物或圣地的）亵渎；不敬
+    Building a motorway through the forest would be sacrilege.
+#在这个森林中修高速公路是暴珍天物。
+
+puffery: 英[ˈpʌfəri] 美[ˈpʌfəri]
+%n. 夸大广告；吹捧；极力称赞
+    In spite of media puffery, her latest novel failed to make it into the bestseller list.
+#尽管媒体大肆宣传，她的最新小说仍未能进人畅销书名单。
+
+frenzy: 英[ˈfrenzi] 美[ˈfrenzi]
+$n. 疯狂，狂乱；一阵狂热
+%v. 使发狂，使狂怒
+    be in a frenzy
+#发狂
+    They whipped up a nationalist frenzy among the excitable crowds.
+#他们在容易激动的群众中煸起民族主义的狂热。
+
+awry: 英[əˈraɪ] 美[əˈraɪ]
+$adj. 脱离既定路线的；歪的
+%adv. 迷途地；歪
+    glance awry
+#斜视
+    go/run awry
+#走上邪路，出错
+    Everything that goes awry in the town is blamed on the nuclear power station.
+#镇上出的一切差错都归咎于核电站。
+
+unconscionable: 英[ʌnˈkɒnʃənəb(ə)l] 美[ʌnˈkɑːnʃənəb(ə)l]
+%adj. 不合理的；昧着良心的；肆无忌惮的；过度的
+    an unconscionable villain
+#恣意妄为的恶棍
+    an unconscionable number of mistakes
+#过量的错误
+    unconscionable sales practices
+#极不正当的推销伎俩
+
+farewell: 英[ˌfeəˈwel] 美[ˌferˈwel]
+$n. 告别；离去；分别时的美好祝愿
+$adj. 告别的
+$v. 告别，欢送
+%int. 再见，一路顺风
+    make one's farewell
+#告别
+    wave one's farewell to guests
+#向客人们挥手告别
+    She bade me farewells at the gate.
+#她在门口向我告别。
+
+disfigure: 英[dɪsˈfɪɡə(r)] 美[dɪsˈfɪɡjər]
+%vt. 使变丑；损毁……的外形；使大为减色
+    Many of the wounded had been badly disfigured
+#受伤者中很多被严重毁容。
+
+crudity: 英[ˈkruːdəti] 美[ˈkruːdəti]
+%n. 粗糙；简陋；未成熟物
+    the crudities of the business world
+#商业界种种粗鄙的谋利行径
+
+promenade: 英[ˌprɒməˈnɑːd] 美[ˌprɑːməˈneɪd]
+$n. 散步场所（尤指海滨步行大道）；散步，骑马；（乡村舞蹈）齐步行进；（大中学校年终举办的）班级舞会
+%v. 散步，骑马；（尤指招摇地）领（某人）散步
+    take a promenade in the street
+#在大街上溜达
+    a promenade at sea
+#海上的航游
+    promenade along the seafront
+#沿海滨散步
+
+full-bodied: 英[ˌfʊl ˈbɒdid] 美[ˌfʊl ˈbɑːdid]
+%adj. 浓郁的；醇厚的；魁梧的；躯体大的
+    a full-bodied soup
+#浓汤
+    a full-bodied novel
+#内容充实的小说
+
+incongruent: 英[ɪnˈkɒŋɡrʊənt] 美[ˌɪnˈkɑːŋɡrʊənt]
+%adj. 不一致的；不协调的；不和谐的；不合适的（名词 incongruence, 副词 incongruently）
+    The style of serving was incongruent with a holiday of this style and expense.
+#这样的服务配不上这种风格和价位的度假。
+
+=======
+slobber: 英[ˈslɒbə(r)] 美[ˈslɑːbər]
+$vi. 流口水；情不自禁地说；过分感伤地说；感情迸发
+$vt. 处事马虎；流口水弄湿；口齿不清地说
+%n. 口水；感情用事的话
+    slobber over sb.'s beauty
+#对某人的美色垂涎欲滴
+    She slobbered the medicine on her night clothes.
+#药水从她口中滴到睡衣上。
+
+vaunt: 英[vɔ:nt] 美[vɔ:nt]
+$vi. 自夸；吹嘘
+$vt. 自夸；吹嘘
+%n. 自吹自擂
+    Patience and discipline were vaunted as virtues in the army.
+#耐心和纪律被夸耀为军队的美德。
+
+stentorian: 英[stenˈtɔːriən] 美[stenˈtɔːriən]
+%adj. 声音洪亮的
+    Suddenly a stentorian voice boomed across the hall.
+#突然，一个洪亮的声音响彻大厅。
+
+apocryphal: 英[əˈpɒkrɪf(ə)l] 美[əˈpɑːkrɪf(ə)l]
+%adj. 伪的；可疑的
+    an apocryphal story
+#杜撰的故事
+
+valedictorian: 英[ˌvælɪdɪkˈtɔːriən] 美[ˌvælɪdɪkˈtɔːriən]
+%n. （毕业典礼上）致告别辞的最优秀毕业生
+    If you were valedictorian of your university, you can make a note of that.
+#如果你是就读大学的优秀毕业生，那你可以强调这一点。
+
+expurgate: 英[ˈekspəɡeɪt] 美[ˈekspərɡeɪt]
+%vt. 删除，删去
+    expurgate a book
+#修订了一本书
+    She expurgated the objectionable passage from the book.
+#她把书中令人反感的一段删去了。
+
+hyperactive: 英[ˌhaɪpərˈæktɪv] 美[ˌhaɪpərˈæktɪv]
+%adj. 极度活跃的；活动过度的
+    the child's hyperactive imagination
+#那孩子极度活跃的想象力
+
+chimera: 英[kaɪˈmɪərə] 美[kaɪˈmɪrə]
+%n. [遗] 嵌合体；虚构的怪物；妄想
+    a chimera in sb.'s brain
+#某人头脑中的幻觉
+
+acuity: 英[əˈkjuːəti] 美[əˈkjuːəti]
+%n. 敏锐；尖锐；剧烈
+    man of great political acuity
+#具有高度政治敏感的人
+    Tiredness also affects visual acuity.
+#疲劳也影响视力。
+
+charisma: 英[kəˈrɪzmə] 美[kəˈrɪzmə]
+%n. 个人魅力，感召力；神赐的力量，神授的能力；非凡的领导力
+    the charisma of a popular actor
+#受欢迎的演员的魅力
+    He had the unexplainable charisma of a born leader.
+#他有天生领袖人物所具有的那种无法解释的魅力。
+
+blight: 英[blaɪt] 美[blaɪt]
+$n. 枯萎病；荒芜
+$vt. 破坏；使……枯萎
+$vi. 枯萎
+%n. （Blight）人名；（英）布莱特
+    a blight upon sb.'s hopes
+#使某人的希望落空
+    a blight on sb.'s life
+#毁掉某人一生的因素
+    Her career has been blighted by some clashes with the authorities.
+#她和当权者的一些冲突令她的事业遭了殃。
+
+estrange: 英[ɪˈstreɪndʒ] 美[ɪˈstreɪndʒ]
+%vt. 使疏远；离间
+    be estranged from each other
+#相互疏远
+    estrange oneself from society
+#与社会脱离
+    one's estranged wife
+#分居的妻子
+    She has been estranged from her husband for several years.
+#她和丈夫已经分居多年。
+
+oblique: 英[əˈbliːk] 美[əˈbliːk]
+$adj. 斜的；不光明正大的
+$n. 倾斜物
+%vi. 倾斜
+    give sb. an oblique glance
+#斜视某人一眼
+    make oblique accusations
+#指桑骂槐
+    an oblique answer
+#躲躲闪闪的答复
+    In her speech she made several oblique references to the current financial situation.
+#她在发言中几次拐弯抹角地提到了当前的财政状况。
+
+schism: 英[ˈskɪzəm] 美[ˈskɪzəm]
+%n. 分裂；分裂教会罪
+    The schism in the party will damage its chance of being reelected.
+#该党内部的分裂将损害其连任的机会。
+
+fetid: 英[ˈfetɪd] 美[ˈfetɪd]
+%adj. 臭的；恶臭的；腐臭的
+    The fetid air of the prison cell made her want to vomit.
+#牢房里恶臭的空气使她想吐。
+
+indubitable: 英[ɪnˈdjuːbɪtəbl] 美[ɪnˈduːbɪtəb(ə)l]
+%adj. 不容置疑的；明确的
+    indubitable evidence
+#不容置疑的证据
+
+fete: 英[feɪt] 美[feɪt]
+$n. 祭祀；庆祝；节日；游乐会
+%vt. 宴请；招待
+    the village fete
+#村民游乐会
+    fete a visiting celebrity
+#盛宴招待一位来访的名人
+    be feted as a great thinker
+#被誉为伟人的思想家
+    The ball was the greatest fete of the season.
+#这次舞会是这个季节最大的盛会。
+
+posthumous: 英[ˈpɒstjʊməs] 美[ˈpɑːstʃəməs]
+%adj. 死后的；遗腹的；作者死后出版的
+    a posthumous child
+#遗腹子
+    posthumous works
+#遗作
+    The posthumous publication of the actress's memoirs aroused a lot of interest.
+#这位女演员死后回忆录的出版引起了许多人的兴趣。
+
+ado: 英[əˈduː] 美[əˈduː]
+$n. 麻烦，困难；纷扰，忙乱
+%n. （Ado）（意、尼）阿杜（人名）
+    have/make much ado
+#费尽心心血
+    much ado about nothing
+#无事生非
+    without more/further ado
+#干脆，立即
+    And now, without further ado, let me introduce our next speaker.
+#下面，闲话少说，让我来介绍我们下一个演讲者。
+
+adultery: 英[əˈdʌltəri] 美[əˈdʌltəri]
+%n. 通奸，通奸行为
+    Her second novel deals with the adultery of the class.
+#她的第二部小说涉及了该阶级的通奸行为。
+
+adulterate: 英[əˈdʌltəreɪt] 美[əˈdʌltəreɪt]
+$v. 在（饮食）中掺入低劣杂质，掺假
+%adj. 掺假的，不纯的；通奸的
+    There were complaints that the beer had been adulterated with water.
+#有人投诉说这啤酒里掺了水
+
+affable: 英[ˈæfəb(ə)l] 美[ˈæfəb(ə)l]
+%adj. 和蔼可亲的；友善的
+    He stuck me as an affable sort of person.
+#他给我的印象是一个和蔼可亲的人。
+
+crux: 英[krʌks] 美[krʌks]
+%n. 关键，症结；难题；十字架形，坩埚
+    The crux of the country's economic problems is its foreign debt.
+#外债是这个国家经济问题的症结所在。
+
+thespian: 英[ˈθespiən] 美[ˈθespiən]
+$adj. 戏剧的；悲剧性的；泰斯庇斯的
+%n. 悲剧演员；演员
+    thespian skill
+#戏剧技巧
+    thespian talent
+#戏剧天オ
+    The biography covers a thespian's career which spanned for four decades.
+#这部传记讲述了一个演员40年的戏剧生涯。
+
+petrify: 英[ˈpetrɪfaɪ] 美[ˈpetrɪfaɪ]
+$vi. 石化；惊呆
+%vt. 使……石化；使……惊呆
+    petrified wood
+#石化的木头
+    The warning whistle petrified the children.
+#警笛声把孩子们吓呆了。
+
+diagram: 英[ˈdaɪəɡræm] 美[ˈdaɪəɡræm]
+$n. 图表，图解；几何图形
+%v. 以图表示
+    draw a diagram
+#绘制图表
+    diagram a sentence
+#用图解法分析句子
+
+postiche: 英[pɒˈstiːʃ] 美[pɔːˈstiːʃ]
+$n. 小束假发；虚假之物
+%adj. 画蛇添足的；人工的；伪造的
+    The painting turned out to be a postiche.
+#这幅油画被证明是个赝品。
+
+rebarbative: 英[rɪˈbɑːbətɪv] 美[rɪˈbɑːrbətɪv]
+%adj. 令人讨厌的；难看的
+    a rebarbative character
+#讨厌的家伙
+    a rebarbative hat
+#丑陋的帽子
+
+adventitious: 英[ˌædvenˈtɪʃəs] 美[ˌædvenˈtɪʃəs]
+%adj. 外来的，偶然的
+    an adventitious event
+#偶然事件
+    adventitious aid
+#外来援助
+    an adventitious remark
+#附加备注
+
+gratification: 英[ˌɡrætɪfɪˈkeɪʃ(ə)n] 美[ˌɡrætɪfɪˈkeɪʃ(ə)n]
+%n. 满足，令人喜悦的事物
+    The gratification of every wish of every person is not possible.
+#满足每个人的每一个愿望是不可能的。
+
+pallid: 英[ˈpælɪd] 美[ˈpælɪd]
+%adj. 苍白的；暗淡的；无生气的
+    a pallid countenance
+#病容
+    a pallid moon
+#惨白的月亮
+    a pallid performance
+#呆板的表演
+
+transgression: 英[trænzˈɡreʃ(ə)n] 美[trænzˈɡreʃnˌtrænsˈɡreʃn]
+%n. [地质] 海侵；犯罪；违反；逸出
+    commit a transgression of college rules
+#违反校规
+    He apologized at once for his transgression.
+#他对自己所犯的过失立即表示了道歉。
+
+reprehend: 英[ˌreprɪˈhend] 美[ˌreprɪˈhend]
+$vt. 申斥；指责
+%n. 责备
+    reprehend the imperfections of others
+#指摘他人的缺点
+    The man deserves to be severely reprehended.
+#那人应该受到严厉的遗责。
+
+prolix: 英[ˈprəʊlɪks] 美[ˈproʊlɪks]
+%adj. 冗长的；说话啰嗦的
+    a prolix speech
+#冗长的演讲
+    be prolix with one's pen
+#好写长篇大论的文章
+
+diaphanous: 英[daɪˈæfənəs] 美[daɪˈæfənəs]
+%adj. 透明的；精致的；模糊的
+    diaphanous silk veils
+#透明的丝绸面纱
+    a diaphanous hope of success
+#隐约的成功希望
+
+guileless: 英[ˈɡaɪlləs] 美[ˈɡaɪlləs]
+%adj. 诚实的
+    People's liking for her guileless campaign style was enough to give her victory in the election.
+#人们喜欢她诚实的竞选风格，这足以使她在选举中获胜。
+
+reincarnate: 英[ˌriːɪnkɑːˈneɪt] 美[ˌriːɪnˈkɑːrneɪt]
+$v. 使转世，使再生；使转世化身
+%adj. 转世化身的
+    be reincarnated as a bull
+#转世变成一头公牛
+    His father's talents are reincarnated in his brother.
+#他父亲的才能在他的兄弟身上重新体现了。
+
+omnivorous: 英[ɒmˈnɪvərəs] 美[ɑːmˈnɪvərəs]
+%adj. 杂食的；什么都读的；无所不吃的
+    an omnivorous reader
+#什么书都看的读者
+    Man is an omnivorous animal.
+#人是杂食动物。
+
+overreach: 英[ˌəʊvəˈriːtʃ] 美[ˌoʊvərˈriːtʃ]
+$v. 伸得过远；以奸诈取胜；不自量力；（后腿碰前腿而）交突致伤
+%n. （马的前腿）交突伤
+    overreach one's authority
+#越权
+    overreach sb. in a bargain
+#在交易中诈骗某人
+    I think he was overreaching himself in taking on that job, which he really knew nothing about.
+#我认为他做那件工作是自不量力，因为他对其一无所知。
+
+disembody: 英[ˌdɪsɪmˈbɒdi] 美[ˌdɪsɪmˈbɑːdi]
+%vt. 使脱离肉体（或躯壳）
+    a disembodied spirit
+#游魂
+    a disembodied ideal
+#脱离现实的观念
+    The play of light off the dome's glass further served to disembody it.
+#将光从穹顶玻璃射出使它显得更加游离。
+
+devotional: 英[dɪˈvəʊʃən(ə)l] 美[dɪˈvoʊʃən(ə)l]
+%adj. 虔诚的，祷告的；信仰的；献身的
+    devotional music
+#祈祷音乐
+    devotional practices
+#祈祷仪式
+
+canon: 英[ˈkænən] 美[ˈkænən]
+%n. <正式>准则，标准；教规，宗教法规；作品集，精品集；经典；真经，正经；卡农（一种复调音乐）；大教堂教士，（主教座堂的）咏礼司铎；（罗马天主教）律修会修士；（作为罗马天主教弥撒一部分的）祭献经文
+    the canons of good taste
+#高雅趣味的标准
+    newspaper canons
+#报界的准则
+
+sacrilege: 英[ˈsækrəlɪdʒ] 美[ˈsækrəlɪdʒ]
+%n. （对圣物或圣地的）亵渎；不敬
+    Building a motorway through the forest would be sacrilege.
+#在这个森林中修高速公路是暴珍天物。
+
+puffery: 英[ˈpʌfəri] 美[ˈpʌfəri]
+%n. 夸大广告；吹捧；极力称赞
+    In spite of media puffery, her latest novel failed to make it into the bestseller list.
+#尽管媒体大肆宣传，她的最新小说仍未能进人畅销书名单。
+
+frenzy: 英[ˈfrenzi] 美[ˈfrenzi]
+$n. 疯狂，狂乱；一阵狂热
+%v. 使发狂，使狂怒
+    be in a frenzy
+#发狂
+    They whipped up a nationalist frenzy among the excitable crowds.
+#他们在容易激动的群众中煸起民族主义的狂热。
+
+awry: 英[əˈraɪ] 美[əˈraɪ]
+$adj. 脱离既定路线的；歪的
+%adv. 迷途地；歪
+    glance awry
+#斜视
+    go/run awry
+#走上邪路，出错
+    Everything that goes awry in the town is blamed on the nuclear power station.
+#镇上出的一切差错都归咎于核电站。
+
+unconscionable: 英[ʌnˈkɒnʃənəb(ə)l] 美[ʌnˈkɑːnʃənəb(ə)l]
+%adj. 不合理的；昧着良心的；肆无忌惮的；过度的
+    an unconscionable villain
+#恣意妄为的恶棍
+    an unconscionable number of mistakes
+#过量的错误
+    unconscionable sales practices
+#极不正当的推销伎俩
+
+farewell: 英[ˌfeəˈwel] 美[ˌferˈwel]
+$n. 告别；离去；分别时的美好祝愿
+$adj. 告别的
+$v. 告别，欢送
+%int. 再见，一路顺风
+    make one's farewell
+#告别
+    wave one's farewell to guests
+#向客人们挥手告别
+    She bade me farewells at the gate.
+#她在门口向我告别。
+
+disfigure: 英[dɪsˈfɪɡə(r)] 美[dɪsˈfɪɡjər]
+%vt. 使变丑；损毁……的外形；使大为减色
+    Many of the wounded had been badly disfigured
+#受伤者中很多被严重毁容。
+
+crudity: 英[ˈkruːdəti] 美[ˈkruːdəti]
+%n. 粗糙；简陋；未成熟物
+    the crudities of the business world
+#商业界种种粗鄙的谋利行径
+
+promenade: 英[ˌprɒməˈnɑːd] 美[ˌprɑːməˈneɪd]
+$n. 散步场所（尤指海滨步行大道）；散步，骑马；（乡村舞蹈）齐步行进；（大中学校年终举办的）班级舞会
+%v. 散步，骑马；（尤指招摇地）领（某人）散步
+    take a promenade in the street
+#在大街上溜达
+    a promenade at sea
+#海上的航游
+    promenade along the seafront
+#沿海滨散步
+
+full-bodied: 英[ˌfʊl ˈbɒdid] 美[ˌfʊl ˈbɑːdid]
+%adj. 浓郁的；醇厚的；魁梧的；躯体大的
+    a full-bodied soup
+#浓汤
+    a full-bodied novel
+#内容充实的小说
+
+incongruent: 英[ɪnˈkɒŋɡrʊənt] 美[ˌɪnˈkɑːŋɡrʊənt]
+%adj. 不一致的；不协调的；不和谐的；不合适的（名词 incongruence, 副词 incongruently）
+    The style of serving was incongruent with a holiday of this style and expense.
+#这样的服务配不上这种风格和价位的度假。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

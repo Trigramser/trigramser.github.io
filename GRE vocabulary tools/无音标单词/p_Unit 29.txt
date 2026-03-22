@@ -1,0 +1,467 @@
+<<<<<<< HEAD
+intercept:
+    I managed to intercept him at the front door, giving Jane time to leave by the back door.
+#我设法在前门截住他，以便简有时间从后门离开。
+
+confer:
+    The directors are still conferring on the expansion of the company.
+#董事们仍在商议有关公司扩张的问题。
+
+tragedy:
+    Hamlet is one of Shakespeare's most known tragedies.
+#《哈姆雷特》是莎士比亚最著名的悲剧之一。
+
+veto:
+    The president's veto kept the bill from becoming a law.
+#由于总统行使了否决权，这项提案未能成为法律。
+
+whistle:
+    The referee whistled the end of the game.
+#裁判吹口哨宣布比赛结束。
+
+pedal:
+    My legs are aching from pedaling too fast.
+#我的两条腿由于骑自行车蹬得太快而酸痛。
+
+jog:
+    I haven't done much exercise all week, so I think I'll go for a jog this morning.
+#我一星期没怎么锻炼，所以今天早上想去慢跑。
+
+humor:
+    Philip is in a rather bad mood today, you'd better humor him.
+#菲利普今天心情很糟，你最好迁就他。
+
+immortal:
+    The priest warned him he was endangering his immortal soul.
+#牧师警告他，说他正在危及自己不朽的灵魂。
+
+impact:
+    They say they expect the meeting to have a marked impact on the future of the country.
+#他们说期望这次会议对国家的未来产生显著的影响。
+
+expound:
+    He expounded for some hours on his theories about the international trade.
+#他用了几个小时阐明了他对国际贸易的看法。
+
+slippery:
+    Her mother is worried about her daughter's boyfriend, who has a slippery brother.
+#她妈妈为女儿的男朋友担心，因为他有一个狡猾的兄弟。
+
+tackle:
+    That problem can be left for him to tackle.
+#那个难题可以留给他解决。
+
+abuse:
+    Alcohol abuse contributed to his early death.
+#酒精的滥用造成了他的早亡。
+
+feat:
+    The construction of this bridge was a brilliant feat of engineering.
+#这座桥的建造是一项了不起的工程壮举。
+
+bait:
+    The shop used free gifts as a bait to attract customers.
+#商店用赠品作诱饵吸引顾客
+
+hue:
+    The diamond shone with every hue under the sun.
+#钻石在阳光下显得色彩斑斓。
+
+crucial:
+    His evidence proved crucial to the legal case.
+#的证据对这一案件至关重要。
+
+reputation:
+    She made a reputation for herself as an expert.
+#为自己赢得了专家的美名。
+
+divine:
+    She spoke in such a confused way that it was almost impossible to divine what she wanted to tell me.
+#她说话含含糊糊，我基本不能推测她到底想告诉我什么。
+
+elevate:
+    Reading good books can elevate your mind.
+#读好书可以提升你的思想境界。
+
+rumble:
+    We could hear the rumble of distant thunder.
+#我们能够听到远处的隆隆雷声。
+
+wield:
+    You should wield greater power in determining.
+#在做决定时，你应该行使更大的权力。
+
+fake:
+    He admitted to faking famous paintings and selling them around the world.
+#他承认自己伪造名画在世界各地出售。
+
+cutlery:
+    She bought a set of cutlery.
+#她买了一套餐具。
+
+jurisdiction:
+    The court has no jurisdiction over cases of this kind.
+#这个法庭无权审理这类案件。
+
+toss:
+    He tossed and turned all night, fearing that his son would get involved in the case.
+#他整夜翻来覆去睡不着，担心儿子会卷入这个案子中」
+
+tear:
+    A couple of pages were tore out of the book.
+#本书有几页被人撕掉了。
+
+erupt:
+    The volcano in the island erupted in 1908 after two hundred years of silence.
+#这个岛上的火山沉寂了200年后在1908年爆发了。
+
+dignity:
+    The whole dignity of man lies in his character.
+#人的所有尊严体现在他的品格上。
+
+salmon:
+    He caught two large salmon in the river.
+#他在河里捕到两条大鲑鱼。
+
+drip:
+    The only sound was the drip of melting snow.
+#唯一的响声就是积雪融化的滴水声。
+
+agreeable:
+    The helpful flight attendants made our flight very agreeable.
+#乐于助人的航班乘务员使我们的飞行非常愉快。
+
+habitat:
+    The polar bear's habitat is the icy waters of the Arctic.
+#北极熊的栖息地是冰冷的北极海域。
+
+illustrate:
+    Nothing illustrate his courage and wisdom more clearly than his action at the critical moment.
+#没有什么比他在危急关头的行为更能说明他的勇敢和智慧了。
+
+creep:
+    A lonely feeling crept over me.
+#一种孤独感悄悄地爬上我的心头。
+
+horizontal:
+    She drew a horizontal line across the bottom of the page.
+#她在此页的底部画了一条水平线，
+
+brag:
+    He bragged that he had never been beaten.
+#他吹嘘说他从未被打败过。
+
+skim:
+    The birds skimmed over/across the tops of the waves, then dipped beneath them to catch fish.
+#鸟儿掠过浪尖，接着扎入水中捉鱼。
+
+smuggle:
+    They were caught on the spot smuggling cultural relics abroad.
+#他们在偷运文物出国时当场被捕。
+
+pester:
+    Her children are always pestering her to buy them sweets.
+#她的孩子总是缠着她给他们买糖吃。
+
+consensus:
+    The project was vetoed by the consensus of expert opinions.
+#专家们一致否决了该项工程。
+
+unilateral:
+    The rebels declared a unilateral ceasefire from the beginning of the year.
+#反叛者宣布单方面从年初开始停火。
+
+startle:
+    I was concentrating on my book when a phone bell startled me up.
+#我正在专心看书，突然电话铃响了，吓了我一大跳。
+
+inherit:
+    She inherited all her mother's beauty.
+#她继承了她母亲的全部美貌。
+
+motto:
+    His family motto is "God helps those who help themselves."
+#他家族的座右铭是 “自助者天助”。
+
+havoc:
+    A scene of havoc met their eyes when they opened the door.
+#他们打开门时，混乱的景象映人他们的眼帘。
+
+rotate:
+    The satellite slowly rotates as it circles the earth.
+#卫星绕地球缓慢地旋转。
+
+moan:
+    Following the moans, we discovered an old man lying under a tree, his legs bleeding.
+#顺着呻吟声，我们发现一个老人躺在树下，他的腿在流血。
+
+obedient:
+    We sat down at the table, obedient to the host's words.
+#我们遵从主人的话在桌子旁坐了下来。
+
+coup:
+    Getting the contract was quite a coup.
+#把合同争取到手是难得的成就。
+
+stiff:
+    The athlete was given a stiff punishment for cheating.
+#这名运动员因作弊而受到了严厉处罚。
+
+remainder:
+    It rained the first day but the remainder of the trip was lovely.
+#旅行的第一天下雨，但后来几天天气很好。
+
+fumble:
+    She fumbled about in her handbag, looking for her key.
+#她在手提包里摸着找钥匙。
+
+clench:
+    Sam clenched the toy car tightly in his hands, and wouldn't give it to his brother.
+#萨姆把玩具车紧紧抓在手里，不肯给他的兄弟。
+
+gravel:
+    A gravel path ran through the forest.
+#一条砂砾小路穿过森林
+
+weird:
+    It's a weird old house full of cracks.
+#这是一个神秘而古怪的老宅，到处都是裂缝。
+
+confiscate:
+    Her passport was confiscated by the police in attempt to prevent her from the country.
+#警察设收了她的护照以阻止她出境。
+
+=======
+intercept:
+    I managed to intercept him at the front door, giving Jane time to leave by the back door.
+#我设法在前门截住他，以便简有时间从后门离开。
+
+confer:
+    The directors are still conferring on the expansion of the company.
+#董事们仍在商议有关公司扩张的问题。
+
+tragedy:
+    Hamlet is one of Shakespeare's most known tragedies.
+#《哈姆雷特》是莎士比亚最著名的悲剧之一。
+
+veto:
+    The president's veto kept the bill from becoming a law.
+#由于总统行使了否决权，这项提案未能成为法律。
+
+whistle:
+    The referee whistled the end of the game.
+#裁判吹口哨宣布比赛结束。
+
+pedal:
+    My legs are aching from pedaling too fast.
+#我的两条腿由于骑自行车蹬得太快而酸痛。
+
+jog:
+    I haven't done much exercise all week, so I think I'll go for a jog this morning.
+#我一星期没怎么锻炼，所以今天早上想去慢跑。
+
+humor:
+    Philip is in a rather bad mood today, you'd better humor him.
+#菲利普今天心情很糟，你最好迁就他。
+
+immortal:
+    The priest warned him he was endangering his immortal soul.
+#牧师警告他，说他正在危及自己不朽的灵魂。
+
+impact:
+    They say they expect the meeting to have a marked impact on the future of the country.
+#他们说期望这次会议对国家的未来产生显著的影响。
+
+expound:
+    He expounded for some hours on his theories about the international trade.
+#他用了几个小时阐明了他对国际贸易的看法。
+
+slippery:
+    Her mother is worried about her daughter's boyfriend, who has a slippery brother.
+#她妈妈为女儿的男朋友担心，因为他有一个狡猾的兄弟。
+
+tackle:
+    That problem can be left for him to tackle.
+#那个难题可以留给他解决。
+
+abuse:
+    Alcohol abuse contributed to his early death.
+#酒精的滥用造成了他的早亡。
+
+feat:
+    The construction of this bridge was a brilliant feat of engineering.
+#这座桥的建造是一项了不起的工程壮举。
+
+bait:
+    The shop used free gifts as a bait to attract customers.
+#商店用赠品作诱饵吸引顾客
+
+hue:
+    The diamond shone with every hue under the sun.
+#钻石在阳光下显得色彩斑斓。
+
+crucial:
+    His evidence proved crucial to the legal case.
+#的证据对这一案件至关重要。
+
+reputation:
+    She made a reputation for herself as an expert.
+#为自己赢得了专家的美名。
+
+divine:
+    She spoke in such a confused way that it was almost impossible to divine what she wanted to tell me.
+#她说话含含糊糊，我基本不能推测她到底想告诉我什么。
+
+elevate:
+    Reading good books can elevate your mind.
+#读好书可以提升你的思想境界。
+
+rumble:
+    We could hear the rumble of distant thunder.
+#我们能够听到远处的隆隆雷声。
+
+wield:
+    You should wield greater power in determining.
+#在做决定时，你应该行使更大的权力。
+
+fake:
+    He admitted to faking famous paintings and selling them around the world.
+#他承认自己伪造名画在世界各地出售。
+
+cutlery:
+    She bought a set of cutlery.
+#她买了一套餐具。
+
+jurisdiction:
+    The court has no jurisdiction over cases of this kind.
+#这个法庭无权审理这类案件。
+
+toss:
+    He tossed and turned all night, fearing that his son would get involved in the case.
+#他整夜翻来覆去睡不着，担心儿子会卷入这个案子中」
+
+tear:
+    A couple of pages were tore out of the book.
+#本书有几页被人撕掉了。
+
+erupt:
+    The volcano in the island erupted in 1908 after two hundred years of silence.
+#这个岛上的火山沉寂了200年后在1908年爆发了。
+
+dignity:
+    The whole dignity of man lies in his character.
+#人的所有尊严体现在他的品格上。
+
+salmon:
+    He caught two large salmon in the river.
+#他在河里捕到两条大鲑鱼。
+
+drip:
+    The only sound was the drip of melting snow.
+#唯一的响声就是积雪融化的滴水声。
+
+agreeable:
+    The helpful flight attendants made our flight very agreeable.
+#乐于助人的航班乘务员使我们的飞行非常愉快。
+
+habitat:
+    The polar bear's habitat is the icy waters of the Arctic.
+#北极熊的栖息地是冰冷的北极海域。
+
+illustrate:
+    Nothing illustrate his courage and wisdom more clearly than his action at the critical moment.
+#没有什么比他在危急关头的行为更能说明他的勇敢和智慧了。
+
+creep:
+    A lonely feeling crept over me.
+#一种孤独感悄悄地爬上我的心头。
+
+horizontal:
+    She drew a horizontal line across the bottom of the page.
+#她在此页的底部画了一条水平线，
+
+brag:
+    He bragged that he had never been beaten.
+#他吹嘘说他从未被打败过。
+
+skim:
+    The birds skimmed over/across the tops of the waves, then dipped beneath them to catch fish.
+#鸟儿掠过浪尖，接着扎入水中捉鱼。
+
+smuggle:
+    They were caught on the spot smuggling cultural relics abroad.
+#他们在偷运文物出国时当场被捕。
+
+pester:
+    Her children are always pestering her to buy them sweets.
+#她的孩子总是缠着她给他们买糖吃。
+
+consensus:
+    The project was vetoed by the consensus of expert opinions.
+#专家们一致否决了该项工程。
+
+unilateral:
+    The rebels declared a unilateral ceasefire from the beginning of the year.
+#反叛者宣布单方面从年初开始停火。
+
+startle:
+    I was concentrating on my book when a phone bell startled me up.
+#我正在专心看书，突然电话铃响了，吓了我一大跳。
+
+inherit:
+    She inherited all her mother's beauty.
+#她继承了她母亲的全部美貌。
+
+motto:
+    His family motto is "God helps those who help themselves."
+#他家族的座右铭是 “自助者天助”。
+
+havoc:
+    A scene of havoc met their eyes when they opened the door.
+#他们打开门时，混乱的景象映人他们的眼帘。
+
+rotate:
+    The satellite slowly rotates as it circles the earth.
+#卫星绕地球缓慢地旋转。
+
+moan:
+    Following the moans, we discovered an old man lying under a tree, his legs bleeding.
+#顺着呻吟声，我们发现一个老人躺在树下，他的腿在流血。
+
+obedient:
+    We sat down at the table, obedient to the host's words.
+#我们遵从主人的话在桌子旁坐了下来。
+
+coup:
+    Getting the contract was quite a coup.
+#把合同争取到手是难得的成就。
+
+stiff:
+    The athlete was given a stiff punishment for cheating.
+#这名运动员因作弊而受到了严厉处罚。
+
+remainder:
+    It rained the first day but the remainder of the trip was lovely.
+#旅行的第一天下雨，但后来几天天气很好。
+
+fumble:
+    She fumbled about in her handbag, looking for her key.
+#她在手提包里摸着找钥匙。
+
+clench:
+    Sam clenched the toy car tightly in his hands, and wouldn't give it to his brother.
+#萨姆把玩具车紧紧抓在手里，不肯给他的兄弟。
+
+gravel:
+    A gravel path ran through the forest.
+#一条砂砾小路穿过森林
+
+weird:
+    It's a weird old house full of cracks.
+#这是一个神秘而古怪的老宅，到处都是裂缝。
+
+confiscate:
+    Her passport was confiscated by the police in attempt to prevent her from the country.
+#警察设收了她的护照以阻止她出境。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

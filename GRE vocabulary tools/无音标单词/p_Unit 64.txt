@@ -1,0 +1,715 @@
+<<<<<<< HEAD
+prefabricate:
+    a prefabricated plan
+#预先编制的计划
+    The tickets office is a temporary and prefabricated house.
+#这个售票处是个预先建造的临时用房。
+
+upscale:
+    an upscale area of town
+#城镇的高消费区
+    an upscale car
+#高档汽车
+
+naturalistic:
+    a naturalistic writer
+#自由主义作家
+    a naturalistic painting
+#自然主义绘画
+
+universality:
+    the universality of contradiction
+#矛盾的普遍性
+
+disparage:
+    disparaging remarks
+#毁谤性的话
+    Your behavior will disparage the whole family.
+#你的行为会贬低整个家庭。
+
+pitiful:
+    a pitiful fate
+#可怜的命运
+    a pitiful excuse
+#卑劣的托词
+
+obsolescent:
+    obsolescent equipment
+#老化的设备
+    an obsolescent organ
+#正在老化的器官
+    This type of computer is obsolescent.
+#这种电脑正在被淘汰。
+
+referent:
+    It is not referent to the matter under discussion.
+#这与正在讨论的事情无关。
+
+immodest:
+    brash immodest boasting
+#大言不惭
+
+eulogize:
+    She was much eulogized by the press.
+#她被报刊大加赞颂。
+
+tawdry:
+    tawdry jewelry
+#俗丽而不值钱的首饰
+    tawdry clothes
+#廉价而花哨的衣服
+
+overwrought:
+    She became overwrought on hearing the bad news.
+#听到坏消息她变得极为紧张。
+
+welter:
+    welter about in the mud
+#在泥浆里打滚
+    welter in tears
+#哭成了泪人儿
+    welter in civil war
+#卷入内战
+    the welter of the street
+#街上的杂乱情景
+    The researchers were buried under a welter of data.
+#研究者埋头于一堆杂乱无章的资料之中。
+
+opacity:
+    paper of remarkable whiteness and opacity
+#洁白且不透明的纸
+    Opacity of the eye lens can be induced by deficiency of certain vitamins.
+#眼球晶状体的混浊可由缺乏某些维生素引起。
+
+gluttonous:
+    a selfish, gluttonous and lazy person
+#既自私又好吃懒做的人
+
+cometary:
+    The cometary ejection play a crucial role in formation and evolution of the meteoroid stream. 
+#彗星的喷发速度在流星群的演化过程中起着重要作用。
+
+penchant:
+    have a penchant for gardening
+#偏爱园艺
+    have a penchant for generating controversy
+#喜欢挑起争议
+    Her penchant for disappearing for days at a time worries her family.
+#她时而数天音讯全无的嗜好令家人担心。
+
+egoistic(al):
+    Dreams are absolutely egoistic.
+#梦是绝对以自我为中心的。
+
+briny:
+    The briny water is not good for the growth of the trees.
+#海水不利于这种树木的生长。
+
+geomagnetic:
+    the geomagnetic field
+#地磁场
+
+moralistic:
+    a long moralistic speech
+#一篇冗长的说教
+    The priest was a humorless and moralistic man.
+#那个牧师是个毫无幽默感的道德主义者。
+
+foreknowledge:
+    I had no foreknowledge of what she might say.
+#她可能说什么我一无所知。
+
+torpid:
+    a torpid mind
+#迟钝的头脑
+    a torpid frog
+#蛰伏的青蛙
+    torpid memory
+#麻木的记忆
+    The heat and humidity made us feel torpid.
+#炎热和潮湿的天气使我们感到浑身无力。
+
+slovenly:
+    be slovenly in thought
+#思想懒散
+    slovenly workmanship
+#马虎的做工
+    He can not bear to live in such slovenly conditions.
+#他不能忍受在如此邀邊的环境中生活。
+
+retract:
+    The Liberals also retracted their promise to balance the budget.
+#自由党人也违背了他们平衡预算的承诺。
+
+ingrained:
+    ingrained prejudice
+#很深的成见
+    an ingrained way of life
+#根深固的生活方式
+    an ingrained dirt
+#难以清除的污垢
+    A deep respect for the truth has been ingrained in the children.
+#尊重真理的深刻信念已深深扎根在孩子们的心中。
+
+autograph:
+    a book with the author's autograph
+#有作者亲签名的一本书
+    an autograph letter
+#一封亲笔信
+    an autograph album
+#签名留念册
+    The little boy asked the football star for his autograph.
+#那个小男孩拉着足球明星给他签名。
+
+erudition:
+    be impressed with the erudition of the author
+#对作者的博学印象深刻
+    a book that displays great erudition
+#一本饱含知识的书
+    He possessed considerable legal erudition.
+#他的法律知识相当渊博。
+
+choppy:
+    a choppy style of writing
+#支离破碎的文体
+    The strong wind made the water choppy.
+#大风使水面变得波浪翻滚。
+
+uncommitted:
+    a crime left uncommitted
+#未遂罪
+    a delegate uncommitted to either candidate
+#对两位候选人都未做承诺的代表
+    an uncommitted country
+#中立国
+    He has no family and is quite uncommitted.
+#他没有家人，因而自由自在。
+
+tout:
+    tout votes
+#拉选票
+    tout the island as a new resort area
+#把这个岛吹捧成一个新的度假胜地
+    He went out to do touting for customers.
+#他出去招揽顾客。
+
+beneficent:
+    a beneficent aunt
+#仁慈的阿姨
+    beneficent bacteria
+#有益的细菌
+
+determinant:
+    Reliability is the main determinant in choosing a new car.
+#选择新车时主要考虑的因素是可靠性。
+
+plaintive:
+    the plaintive cries of a child
+#孩子悲哀的哭叫声;
+    a plaintive love song
+#一首哀怨的情歌
+
+penitent:
+    a penitent letter
+#悔罪信
+    Those who were penitent obtained absolution.
+#悔过者获得了赦免。
+
+hyperbole:
+    To say "I could sleep for a year" is an example of hyperbole.
+#“我能睡一年”是一种夸张的说法。
+
+unedited:
+    an unedited manuscript
+#一份未出版的手稿
+    an unedited film
+#未经剪辑的影片
+
+arcane:
+    arcane rites
+#神秘的仪式
+    arcane jargon
+#晦涩的行话
+    arcane inquiries
+#秘密调查
+    This argument may seem arcane to those not closely involved in the world of finance.
+#这番论证对不熟悉金融业的人简直是高深莫测。
+
+peerless:
+    peerless beauty
+#倾国的美貌
+    peerless ability
+#出类拔萃的能力
+
+impound:
+    impound the pigs
+#把猪关在圈中
+    impound polluting ships
+#扣押造成污染的船
+    The judge ordered the documents to be impounded.
+#法官下令扣押文件。
+
+cavil:
+    beyond cavils
+#无可指摘
+    cavil about minor points
+#对细节问题挑毛病
+    He is always caviling at little things.
+#他总是在毛蒜皮的小事上吹毛求疵。
+
+cautionary:
+    a cautionary book
+#警世作品
+    strike a cautionary note
+#敲警钟
+    a cautionary tale
+#警示性的故事
+
+humane:
+    a humane warden
+#好心肠的看守
+    the humane treatment of prisoners
+#对俘虏的人道待遇
+    humane studies/learning
+#人文科学
+    I do not think it humane to keep people alive with machines.
+#我认为用机器来维持人的生命是不人道的。
+
+torpor:
+    The weather induces torpor.
+#这种天气使人懒散
+
+predetermine:
+    a predetermined plan
+#预定计划
+    predetermine the cost of producing an article
+#预先确定生产一件物品的成本
+    meet at a predetermined spot
+#在预先确定的地方见面
+    The color of a person's eyes is predetermined by those of his parents.
+#一个人眼睛的颜色是由他父母眼睛的颜色决定的。
+
+unstable:
+    unstable oil price
+#不稳定的石油价格
+    an unstable government
+#不坚定的政府
+    rebuild on an unstable foundation
+#在不稳定的基础上重建
+    unstable sand
+#流沙
+    an unstable climate
+#易变的气候
+    an unstable nature
+#反复无常的特性
+    It is an unstable region of the world.
+#那是世界上一个动荡不安的地区。
+
+interruption:
+    The snow continued without interruption all day.
+#雪整天下个不停。
+
+readable:
+    It is a very readable novel.
+#这是一本可读性很强的小说。
+
+valorous:
+    People praised his valorous deeds.
+#人们颂他的英勇事迹。
+
+piercing:
+    a piercing look
+#锐利的目光
+    a very piercing voice
+#非常刺耳的声音
+    piercing sarcasm
+#辛辣的讽刺
+    A piercing cry ran out across the moor.
+#一声惨叫掠过荒原。
+
+rave:
+    rave all night
+#整晚胡言乱语
+    rave for water
+#大叫要喝水
+    rave oneself coarse
+#嚷得嗓子都哑了
+    rave in the forest
+#在丛林中怒号
+    The critics are raving about her wonderful performance in the film.
+#评论家们正在热捧她在那部电影中的精彩表演。
+
+hazardous:
+    a hazardous occupation
+#危险的职业
+    a hazardous journey
+#危险的旅行
+    They have no way to dispose of the hazardous waste they produce.
+#他们无法处理掉自己制造出来的有害废物。
+
+embryological:
+    consideration on reform for histological and embryological teaching contents on eight-year program medical students 
+#对八年制医学生组织胚胎学教学内容改革的思考
+
+flaunty:
+    The look was always lady-like and appropriately flaunty.
+#这种装扮总是很淑女，奢华得恰到好处。
+
+=======
+prefabricate:
+    a prefabricated plan
+#预先编制的计划
+    The tickets office is a temporary and prefabricated house.
+#这个售票处是个预先建造的临时用房。
+
+upscale:
+    an upscale area of town
+#城镇的高消费区
+    an upscale car
+#高档汽车
+
+naturalistic:
+    a naturalistic writer
+#自由主义作家
+    a naturalistic painting
+#自然主义绘画
+
+universality:
+    the universality of contradiction
+#矛盾的普遍性
+
+disparage:
+    disparaging remarks
+#毁谤性的话
+    Your behavior will disparage the whole family.
+#你的行为会贬低整个家庭。
+
+pitiful:
+    a pitiful fate
+#可怜的命运
+    a pitiful excuse
+#卑劣的托词
+
+obsolescent:
+    obsolescent equipment
+#老化的设备
+    an obsolescent organ
+#正在老化的器官
+    This type of computer is obsolescent.
+#这种电脑正在被淘汰。
+
+referent:
+    It is not referent to the matter under discussion.
+#这与正在讨论的事情无关。
+
+immodest:
+    brash immodest boasting
+#大言不惭
+
+eulogize:
+    She was much eulogized by the press.
+#她被报刊大加赞颂。
+
+tawdry:
+    tawdry jewelry
+#俗丽而不值钱的首饰
+    tawdry clothes
+#廉价而花哨的衣服
+
+overwrought:
+    She became overwrought on hearing the bad news.
+#听到坏消息她变得极为紧张。
+
+welter:
+    welter about in the mud
+#在泥浆里打滚
+    welter in tears
+#哭成了泪人儿
+    welter in civil war
+#卷入内战
+    the welter of the street
+#街上的杂乱情景
+    The researchers were buried under a welter of data.
+#研究者埋头于一堆杂乱无章的资料之中。
+
+opacity:
+    paper of remarkable whiteness and opacity
+#洁白且不透明的纸
+    Opacity of the eye lens can be induced by deficiency of certain vitamins.
+#眼球晶状体的混浊可由缺乏某些维生素引起。
+
+gluttonous:
+    a selfish, gluttonous and lazy person
+#既自私又好吃懒做的人
+
+cometary:
+    The cometary ejection play a crucial role in formation and evolution of the meteoroid stream. 
+#彗星的喷发速度在流星群的演化过程中起着重要作用。
+
+penchant:
+    have a penchant for gardening
+#偏爱园艺
+    have a penchant for generating controversy
+#喜欢挑起争议
+    Her penchant for disappearing for days at a time worries her family.
+#她时而数天音讯全无的嗜好令家人担心。
+
+egoistic(al):
+    Dreams are absolutely egoistic.
+#梦是绝对以自我为中心的。
+
+briny:
+    The briny water is not good for the growth of the trees.
+#海水不利于这种树木的生长。
+
+geomagnetic:
+    the geomagnetic field
+#地磁场
+
+moralistic:
+    a long moralistic speech
+#一篇冗长的说教
+    The priest was a humorless and moralistic man.
+#那个牧师是个毫无幽默感的道德主义者。
+
+foreknowledge:
+    I had no foreknowledge of what she might say.
+#她可能说什么我一无所知。
+
+torpid:
+    a torpid mind
+#迟钝的头脑
+    a torpid frog
+#蛰伏的青蛙
+    torpid memory
+#麻木的记忆
+    The heat and humidity made us feel torpid.
+#炎热和潮湿的天气使我们感到浑身无力。
+
+slovenly:
+    be slovenly in thought
+#思想懒散
+    slovenly workmanship
+#马虎的做工
+    He can not bear to live in such slovenly conditions.
+#他不能忍受在如此邀邊的环境中生活。
+
+retract:
+    The Liberals also retracted their promise to balance the budget.
+#自由党人也违背了他们平衡预算的承诺。
+
+ingrained:
+    ingrained prejudice
+#很深的成见
+    an ingrained way of life
+#根深固的生活方式
+    an ingrained dirt
+#难以清除的污垢
+    A deep respect for the truth has been ingrained in the children.
+#尊重真理的深刻信念已深深扎根在孩子们的心中。
+
+autograph:
+    a book with the author's autograph
+#有作者亲签名的一本书
+    an autograph letter
+#一封亲笔信
+    an autograph album
+#签名留念册
+    The little boy asked the football star for his autograph.
+#那个小男孩拉着足球明星给他签名。
+
+erudition:
+    be impressed with the erudition of the author
+#对作者的博学印象深刻
+    a book that displays great erudition
+#一本饱含知识的书
+    He possessed considerable legal erudition.
+#他的法律知识相当渊博。
+
+choppy:
+    a choppy style of writing
+#支离破碎的文体
+    The strong wind made the water choppy.
+#大风使水面变得波浪翻滚。
+
+uncommitted:
+    a crime left uncommitted
+#未遂罪
+    a delegate uncommitted to either candidate
+#对两位候选人都未做承诺的代表
+    an uncommitted country
+#中立国
+    He has no family and is quite uncommitted.
+#他没有家人，因而自由自在。
+
+tout:
+    tout votes
+#拉选票
+    tout the island as a new resort area
+#把这个岛吹捧成一个新的度假胜地
+    He went out to do touting for customers.
+#他出去招揽顾客。
+
+beneficent:
+    a beneficent aunt
+#仁慈的阿姨
+    beneficent bacteria
+#有益的细菌
+
+determinant:
+    Reliability is the main determinant in choosing a new car.
+#选择新车时主要考虑的因素是可靠性。
+
+plaintive:
+    the plaintive cries of a child
+#孩子悲哀的哭叫声;
+    a plaintive love song
+#一首哀怨的情歌
+
+penitent:
+    a penitent letter
+#悔罪信
+    Those who were penitent obtained absolution.
+#悔过者获得了赦免。
+
+hyperbole:
+    To say "I could sleep for a year" is an example of hyperbole.
+#“我能睡一年”是一种夸张的说法。
+
+unedited:
+    an unedited manuscript
+#一份未出版的手稿
+    an unedited film
+#未经剪辑的影片
+
+arcane:
+    arcane rites
+#神秘的仪式
+    arcane jargon
+#晦涩的行话
+    arcane inquiries
+#秘密调查
+    This argument may seem arcane to those not closely involved in the world of finance.
+#这番论证对不熟悉金融业的人简直是高深莫测。
+
+peerless:
+    peerless beauty
+#倾国的美貌
+    peerless ability
+#出类拔萃的能力
+
+impound:
+    impound the pigs
+#把猪关在圈中
+    impound polluting ships
+#扣押造成污染的船
+    The judge ordered the documents to be impounded.
+#法官下令扣押文件。
+
+cavil:
+    beyond cavils
+#无可指摘
+    cavil about minor points
+#对细节问题挑毛病
+    He is always caviling at little things.
+#他总是在毛蒜皮的小事上吹毛求疵。
+
+cautionary:
+    a cautionary book
+#警世作品
+    strike a cautionary note
+#敲警钟
+    a cautionary tale
+#警示性的故事
+
+humane:
+    a humane warden
+#好心肠的看守
+    the humane treatment of prisoners
+#对俘虏的人道待遇
+    humane studies/learning
+#人文科学
+    I do not think it humane to keep people alive with machines.
+#我认为用机器来维持人的生命是不人道的。
+
+torpor:
+    The weather induces torpor.
+#这种天气使人懒散
+
+predetermine:
+    a predetermined plan
+#预定计划
+    predetermine the cost of producing an article
+#预先确定生产一件物品的成本
+    meet at a predetermined spot
+#在预先确定的地方见面
+    The color of a person's eyes is predetermined by those of his parents.
+#一个人眼睛的颜色是由他父母眼睛的颜色决定的。
+
+unstable:
+    unstable oil price
+#不稳定的石油价格
+    an unstable government
+#不坚定的政府
+    rebuild on an unstable foundation
+#在不稳定的基础上重建
+    unstable sand
+#流沙
+    an unstable climate
+#易变的气候
+    an unstable nature
+#反复无常的特性
+    It is an unstable region of the world.
+#那是世界上一个动荡不安的地区。
+
+interruption:
+    The snow continued without interruption all day.
+#雪整天下个不停。
+
+readable:
+    It is a very readable novel.
+#这是一本可读性很强的小说。
+
+valorous:
+    People praised his valorous deeds.
+#人们颂他的英勇事迹。
+
+piercing:
+    a piercing look
+#锐利的目光
+    a very piercing voice
+#非常刺耳的声音
+    piercing sarcasm
+#辛辣的讽刺
+    A piercing cry ran out across the moor.
+#一声惨叫掠过荒原。
+
+rave:
+    rave all night
+#整晚胡言乱语
+    rave for water
+#大叫要喝水
+    rave oneself coarse
+#嚷得嗓子都哑了
+    rave in the forest
+#在丛林中怒号
+    The critics are raving about her wonderful performance in the film.
+#评论家们正在热捧她在那部电影中的精彩表演。
+
+hazardous:
+    a hazardous occupation
+#危险的职业
+    a hazardous journey
+#危险的旅行
+    They have no way to dispose of the hazardous waste they produce.
+#他们无法处理掉自己制造出来的有害废物。
+
+embryological:
+    consideration on reform for histological and embryological teaching contents on eight-year program medical students 
+#对八年制医学生组织胚胎学教学内容改革的思考
+
+flaunty:
+    The look was always lady-like and appropriately flaunty.
+#这种装扮总是很淑女，奢华得恰到好处。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

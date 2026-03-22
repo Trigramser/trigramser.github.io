@@ -1,0 +1,627 @@
+<<<<<<< HEAD
+integrate: 英[ˈɪntɪɡreɪt] 美[ˈɪntɪɡreɪt]
+$v. （使）合并，成为一体；（使）加入，融入群体；（使）取消种族隔离；求……的积分；表示（面积、温度等）的总和，表示……的平均值
+%adj. 整合的
+    Writers of history books often attempt to integrate the past with the present.
+#史书作者常试图把过去与现在结合在一起。
+
+horrific: 英[həˈrɪfɪk] 美[həˈrɪfɪk]
+%adj. 可怕的；令人毛骨悚然的
+    The film showed the most horrific scenes.
+#那部影片有极恐怖的场面。
+
+slash: 英[slæʃ] 美[slæʃ]
+$v. （用利器）砍，劈；大幅度削减，大大降低；严厉批评，抨击；猛力移动，袭击
+%n. （用刀等）砍，劈；（长而窄的）伤口，砍痕；斜杠，斜线号；<英，非正式> 撒尿，小便；装饰性开叉；（喻）明亮的条纹（或色线）；<美> 残留枝桠；沼泽低地
+    The government spending should be slashed.
+#政府开支应大幅度削减。
+
+tentative: 英[ˈtentətɪv] 美[ˈtentətɪv]
+$adj. 试探性的，暂定的；踌躇的，犹豫不定的
+%n. 不确定的事物
+    We've made tentative plans for a holiday but haven't decided anything certain yet.
+#我们制订了好几个度假的初步计划，但还没有做出任何决定。
+
+epic: 英[ˈepɪk] 美[ˈepɪk]
+$n. （讲述英雄冒险经历的）叙事诗，史诗；史诗般的书籍（或电影等）；壮举，惊人之举；<非正式>特别耗时费力的事（或活动）
+%adj. 史诗般的；漫长而艰难的；宏大的，壮丽的
+    It's an epic film about the Roman Empire.
+#这是关于罗马帝国的一部史诗般的电影。
+
+verify: 英[ˈverɪfaɪ] 美[ˈverɪfaɪ]
+%v. 核实，查证；证明，证实
+    These figures are surprisingly high and they'll have to be verified.
+#这些数字之高令人惊讶，必须加以核实。
+
+offspring: 英[ˈɒfsprɪŋ] 美[ˈɔːfsprɪŋ]
+%n. （人的）后代，子女；（动物的）幼崽，崽兽；结果，产物
+    Tom's sister came round on Saturday with her numerous offspring.
+#汤姆的姐姐星期六带着她的许多孩子来了。
+
+prevalent: 英[ˈprevələnt] 美[ˈprevələnt]
+%adj. 盛行的，普遍的
+    It is a point of view that is still prevalent.
+#这种观点依然盛行。
+
+demobilize: 英[diːˈməʊbəlaɪz] 美[diːˈmoʊbəlaɪz]
+%vt. 遣散；使复员；使退伍（demobilise）
+    At the end of the war, Jack was demobilized and went back to his job as a train driver.
+#战争结束后，杰克复员回去当火车司机了。
+
+definite: 英[ˈdefɪnət] 美[ˈdefɪnət]
+$adj. 清晰的，明晰的；确定的，不会改变的；肯定的，一定的
+%n. 确定之事
+    There's been a definite improvement in your English since your arrival.
+#你来这里后英语确实有进步。
+
+disciplinary: 英[ˌdɪsəˈplɪnəri; ˈdɪsəplɪnəri] 美[ˈdɪsəpləneri]
+%adj. 有关纪律的，惩戒性的
+    She was dismissed in accordance with the company's usual disciplinary procedures.
+#依照公司实行的一般纪律程序，她被解雇了。
+
+justify: 英[ˈdʒʌstɪfaɪ] 美[ˈdʒʌstɪfaɪ]
+%v. 是……的正当理由；对……作出解释，为……辩解；使（文本）对齐；（在上帝的眼中）称义，使有义；证明合法；整理版面
+    The fact that he annoyed you does not justify your treating him in that way.
+#他使你生气并不能说明你那样对待他是有理的。
+
+vigorous: 英[ˈvɪɡərəs] 美[ˈvɪɡərəs]
+%adj. 精力充沛的，充满活力的；强壮的，强健的
+    He is a vigorous man in his upper 30's.
+#他是个35岁左右的精力旺盛的男子。
+
+foul: 英[faʊl] 美[faʊl]
+$adj. 难闻的，令人恶心的；(脾气）暴躁的，（心情）烦躁的；不正当的，不道德的；（语言）下流的，无礼的；犯规的；肮脏的，被污染的；被阻塞的；（绳子、锚）缠结住的；（天气）恶劣的；界外的
+$n. 犯规；（马术、划船、赛跑）碰撞，缠结；界外球
+$v. 弄脏，污染；犯规；（棒球中）击出界外球；（船）碰撞，妨碍（另一艘船的）航行；（绳索、链条等）缠结（或堵塞）
+%adv. 违反规则地，不正当地
+    Anyone whose dog fouls the footpath will be fined.
+#任何人的狗弄脏了人行道都要被罚款。
+
+amateur: 英[ˈæmətə(r)] 美[ˈæmətər]
+$n. 业余爱好者；生手，外行
+%adj. 非专业的，业余爱好的；不熟练的
+    The competition is open to both professionals and amateurs.
+#这场比赛专业人士和业余爱好者均可参加。
+
+autonomous: 英[ɔːˈtɒnəməs] 美[ɔːˈtɑːnəməs]
+%adj. 自治的，有自治权的；自主的，有自主权的；自动的
+    School governors are legally autonomous.
+#学校主管们在法律上是自主的。
+
+conflict: 英[ˈkɒnflɪkt] 美[ˈkɑːnflɪkt]
+$n. 争执，争论，分歧；战斗，战争；抵触，矛盾
+%v. 冲突，抵触
+    Your account of the cause of the war conflicts with what I have in the history book in front of me.
+#你对战争起因的说法与我面前这本历史书上写的不一致。
+
+considerable: 英[kənˈsɪdərəb(ə)l] 美[kənˈsɪdərəb(ə)l]
+%adj. 相当大的，相当重要的；（人）显要的，值得尊敬的
+    The fire caused considerable damage to the church.
+#火灾对教堂造成了重大损害。
+
+constitute: 英[ˈkɒnstɪtjuːt] 美[ˈkɑːnstɪtuːt]
+%v. 组成，构成；是，被视为；成立，设立；任命
+    People over sixty years old constitute 25 percent of the city's population.
+#60岁以上的老人占这座城市人口的25%。
+
+dogged: 英[ˈdɒɡɪd] 美[ˈdɔːɡɪd]
+$adj. 顽强的，坚持不懈的
+%v. 困扰，纠缠；跟踪，尾随（dog 的过去式和过去分词）
+    His ambition and dogged determination ensured that he rose to the top of this profession.
+#他的雄心和顽强的意志确保了他成为这个行业的顶尖人物。
+
+reclaim: 英[rɪˈkleɪm] 美[rɪˈkleɪm]
+$v. 要求归还；利用，改造（荒地）；回收（废品中有用的东西）；感化，使纠正
+%n. 归还要求（或主张）
+    I went to the station to reclaim my suitcase from the left luggage office.
+#我去车站的遗留行李处领回箱子。
+
+dialect: 英[ˈdaɪəlekt] 美[ˈdaɪəlekt]
+%n. 方言，土话
+    speak in the Suzhou dialect
+#用苏州方言讲话
+
+convince: 英[kənˈvɪns] 美[kənˈvɪns]
+%v. 使确信，使信服；说服，劝服
+    It took me several hours to convince her of his guilt.
+#我花了几个小时才使她相信他有罪。
+
+harsh: 英[hɑːʃ] 美[hɑːrʃ]
+%adj. （环境）恶劣的，艰苦的；严厉的，残酷的；刺耳的，难听的；刺眼的，耀眼的；丑陋的；刺激性强的，太强力的
+    The punishment was rather harsh for such a minor offence.
+#这惩罚对于如此小的过错来说太严酷了。
+
+exaggerate: 英[ɪɡˈzædʒəreɪt] 美[ɪɡˈzædʒəreɪt]
+%v. 夸大，言过其实；使扩大
+    I've told you a million times not to exaggerate.
+#我告诉过你无数遍切勿夸大其词。
+
+poignant: 英[ˈpɔɪnjənt] 美[ˈpɔɪnjənt]
+%adj. 令人沉痛的，悲惨的；切中要害的
+    The photograph awakens poignant memories of past years.
+#这张照片唤起了过去的辛酸回忆。
+
+reconcile: 英[ˈrekənsaɪl] 美[ˈrekənsaɪl]
+%v. 调和，使协调一致；（使）和解，（使）恢复友好关系；调停，调解（争吵）；使顺从于，使接受；核对，查核（账目）
+    They soon reconciled after the quarrel.
+#争吵后不久他们就言归于好了。
+
+climax: 英[ˈklaɪmæks] 美[ˈklaɪmæks]
+$n. 高潮，顶点；性高潮；（植物群落演替达到平衡的）顶极（群落）；层进法
+%v. 达到性高潮；达到高潮，达到顶点
+    The story came to a climax in the middle.
+#故事在中间部分达到了高潮。
+
+cognitive: 英[ˈkɒɡnətɪv] 美[ˈkɑːɡnətɪv]
+%adj. 认识的，认知的
+    A cognitive psychologist studies how people think.
+#认知心理学家研究人的思维方式。
+
+devastate: 英[ˈdevəsteɪt] 美[ˈdevəsteɪt]
+%v. 毁坏，破坏；使极度震惊，使伤心欲绝
+    The fire swept through the theater, devastating the entire building.
+#大火横扫剧院，彻底摧毁了整座建筑。
+
+dramatic: 英[drəˈmætɪk] 美[drəˈmætɪk]
+%adj. 巨大而突然的，急剧的；激动人心的，引人注目的，给人深刻印象的；有关戏剧的，戏剧表演的；夸张的
+    She tends to be very dramatic about everything
+#她做什么事都很夸张做作。
+
+perfume: 英[ˈpɜːfjuːm] 美[pərˈfjuːm]
+$n. 香水；芳香，香味，馨香；香精，香料
+%v. 使香气弥漫；在……上撒香水，抹香水
+    He held a rose close to his nose, enjoying its perfume.
+#他把一朵玫瑰紧贴鼻子，享受其芬芳。
+
+dynamic: 英[daɪˈnæmɪk] 美[daɪˈnæmɪk]
+$adj. 充满活力的，精力充沛的；动态的，发展变化的；力的，动力的
+%n. 动力，活力；相互作用，动态；动力学
+    He's young and dynamic and will be great head of the department.
+#他年轻、精力充沛，会成为部门出色的领导人
+
+deficient: 英[dɪˈfɪʃ(ə)nt] 美[dɪˈfɪʃ(ə)nt]
+%adj. 缺乏的，不足的；有缺点的，有缺陷的
+    I think the book has a very deficient index.
+#我认为这本书的索引残缺严重。
+
+plumb: 英[plʌm] 美[plʌm]
+$vt. 装水管；使垂直；探测，探索
+$vi. 当管子工
+$n. 垂直；铅锤；（Plumb）（英）普拉姆（人名）
+$adv. 恰恰，正；垂直地；彻底地
+%adj. 垂直的
+    The book plumbed the complexities of human relationships.
+#这本书探讨的是人际关系的复杂性。
+
+arbitrary: 英[ˈɑːbɪtrəri] 美[ˈɑːrbɪtreri]
+%adj. 任意的，随心所欲的；专横的，武断的
+    I don't know anything about any of the books, so my choice is quite arbitrary.
+#我对那些书均无了解，因此我的选择是十分随意的。
+
+infant: 英[ˈɪnfənt] 美[ˈɪnfənt]
+$n. 婴儿，幼儿；（英国学校里四至七岁的）学童；<法律>未成年人
+%adj. 供婴幼儿用的；初期的，初创期的；四岁至七岁幼儿的
+    The nurse came into the room carrying a newborn infant.
+#护士抱着一个刚出生的婴儿走进房间。
+
+aggravate: 英[ˈæɡrəveɪt] 美[ˈæɡrəveɪt]
+%v. 使加重，使恶化；惹怒，激怒
+    The lack of rain aggravated the already serious lack of food.
+#降水匮乏加重了原来就严重的粮食短缺问题。
+
+smother: 英[ˈsmʌðə(r)] 美[ˈsmʌðər]
+$vt. 使窒息；抑制；（用灰等）闷熄；忍住
+$vi. 窒息；被抑制；闷死
+%n. 窒息状态；令人窒息的浓烟
+    He smothered his anger and continued to work.
+#他抑制住怒火，继续工作。
+
+chip: 英[tʃɪp] 美[tʃɪp]
+$n. 炸薯条，炸薯片；芯片；碎块，碎屑；缺口，豁口；筹码；撮球，切球；木条
+%v. 打破，弄缺；（尤指用工具）削下，凿下；切成细条；撮球，挑球
+    The ground was covered with wood chips.
+#地上满是木屑。
+
+segregate: 英[ˈseɡrɪɡeɪt] 美[ˈseɡrɪɡeɪt]
+$v. （尤指因种族、性别、宗教不同而）使隔离，使分开；实行种族隔离；（使）分开，分离；（成对的等位基因）分离
+%n. （遗传）分离子；（植物学）集合物种中的一种
+    Girls and boys were segregated into different dining rooms for meals.
+#吃饭时男孩和女孩被分进了不同的餐厅。
+
+universal: 英[ˌjuːnɪˈvɜːs(ə)l] 美[ˌjuːnɪˈvɜːrs(ə)l]
+$adj. 普遍的，全体的，全世界的；通用的，万能的；（逻）全称的，总称的
+%n. 普遍原则，通用原理；普遍看法，普遍特征；（逻）全称命题；（哲）普遍，一般概念；（哲）共相；（语言学）普遍现象，通用规则
+    The desire to look attractive is universal.
+#爱美之心人皆有之。
+
+potential: 英[pəˈtenʃ(ə)l] 美[pəˈtenʃ(ə)l]
+$adj. 潜在的，可能的
+%n. （事物的）潜力，可能性；（人的）潜能，潜力；电势，电位，电压
+    You have the potential to reach the top of your profession.
+#你具有达到事业顶峰的潜力。
+
+cynical: 英[ˈsɪnɪk(ə)l] 美[ˈsɪnɪk(ə)l]
+%adj. 认为人皆自私的，愤世嫉俗的；悲观的，怀疑的；损人利己的；轻蔑的，嘲笑的
+    Some young artists today have a cynical outlook.
+#当今的一些年轻艺术家抱着愤世嫉俗的心态。
+
+circulation: 英[ˌsɜːkjəˈleɪʃ(ə)n] 美[ˌsɜːrkjəˈleɪʃ(ə)n]
+%n. 发行量，销售量；血液循环；流传，流通；参加社交活动，交际；环流，循环；（图书的）借出
+    It is reported that there are many forged tickets in circulation.
+#据报道，有许多假入场券在流通。
+
+prudent: 英[ˈpruːd(ə)nt] 美[ˈpruːd(ə)nt]
+%adj. 谨慎的，慎重的；节俭的
+    It would be prudent to read the contract properly before signing it.
+#在签字前好好读一读合同是慎重的。
+
+soothe: 英[suːð] 美[suːð]
+%v. 使平静，安抚；减轻，缓和（疼痛）
+    I've managed to soothe her a bit, but she's still pretty annoyed.
+#我想方设法使她平静了一点，可她还是很恼怒。
+
+irrational: 英[ɪˈræʃən(ə)l] 美[ɪˈræʃən(ə)l]
+$adj. 非理性的，不合逻辑的，荒谬的；无理的
+%n. 无理数
+    After the failure she became quite irrational.
+#在失败后变得相当没有理性。
+
+bland: 英[blænd] 美[blænd]
+%adj. 平淡的，枯燥乏味的；（食品，饮料）未加调料的，清淡的；沉稳的，无动于衷的；（评论或话语）温和的，无关痛痒的
+    I find the chicken a little bland.
+#我发现鸡肉有点清淡。
+
+span: 英[spæn] 美[spæn]
+$n. 时间跨度，一段时间；（桥或拱的）墩距，跨距；宽度，翼展；范围，包括的种类；（航海）跨绳；一队人（或动物）；数值范围；一掌的长度
+$v. 持续，贯穿；包括（广大地区），涵盖（多项内容）；横跨，跨越；张开手覆盖（或环绕）；<南非>给（动物）套上轭
+%adj. 整洁干净的，照管得很好的（spick and span）
+    An old bridge spans the river just outside the town.
+#一座老桥横跨镇外的河流
+
+prospect: 英[ˈprɒspekt] 美[ˈprɑːspekt]
+$n. 可能性，希望；预期，展望；（尤指事业的）成功机会，前景；有望成功的人，有前途的人；可能的顾客，潜在的主顾；<正式>（尤指从高处看到的）景象，景色；潜在矿藏或矿床
+%v. 勘探，勘察；寻找（商业机会）
+    The building has an extensive prospect of the sea.
+#从这幢大楼可以看到很开阔的海景。
+
+intent: 英[ɪnˈtent] 美[ɪnˈtent]
+$adj. 专注的，专心致志的；坚决的；急切的
+%n. 目的，意图；故意
+    I could see that my wife was intent on buying the hat, whether I approved of it or not.
+#我看得出，不论我同意与否，我妻子都一定要买那顶帽子。
+
+hover: 英[ˈhɒvə(r)] 美[ˈhʌvər]
+$v. 翱翔，盘旋；徘徊，守候；处于不稳定状态；上下波动，左右摇摆；伏窝孵化
+%n. 翱翔，徘徊
+    From the mountain top he could see some eagles hovering in the valley.
+#从山顶上，他能够看见几只鹰在山谷中盘旋。
+
+defy: 英[dɪˈfaɪ] 美[dɪˈfaɪ]
+%v. 违抗，不服从；挑战，激；无法，难以（描述或理解）；经受住，顶住
+    It was the only time I dared to defy my mother.
+#那是我唯一次敢违抗妈妈。
+
+perception: 英[pəˈsepʃ(ə)n] 美[pərˈsepʃ(ə)n]
+%n. 看法，认识；感觉，感知；洞察力；<法律>（租金、农作物等的）收取，占有
+    This theory can alter your perception of reality.
+#这一理论会改变你对现实的感知。
+
+credible: 英[ˈkredəb(ə)l] 美[ˈkredəb(ə)l]
+%adj. 可信的，可靠的；足够好的，有明显效果的；（因看似可能成功而）可接受的
+    The police concluded that her story was credible.
+#警方断定她的说法是可信的。
+
+=======
+integrate: 英[ˈɪntɪɡreɪt] 美[ˈɪntɪɡreɪt]
+$v. （使）合并，成为一体；（使）加入，融入群体；（使）取消种族隔离；求……的积分；表示（面积、温度等）的总和，表示……的平均值
+%adj. 整合的
+    Writers of history books often attempt to integrate the past with the present.
+#史书作者常试图把过去与现在结合在一起。
+
+horrific: 英[həˈrɪfɪk] 美[həˈrɪfɪk]
+%adj. 可怕的；令人毛骨悚然的
+    The film showed the most horrific scenes.
+#那部影片有极恐怖的场面。
+
+slash: 英[slæʃ] 美[slæʃ]
+$v. （用利器）砍，劈；大幅度削减，大大降低；严厉批评，抨击；猛力移动，袭击
+%n. （用刀等）砍，劈；（长而窄的）伤口，砍痕；斜杠，斜线号；<英，非正式> 撒尿，小便；装饰性开叉；（喻）明亮的条纹（或色线）；<美> 残留枝桠；沼泽低地
+    The government spending should be slashed.
+#政府开支应大幅度削减。
+
+tentative: 英[ˈtentətɪv] 美[ˈtentətɪv]
+$adj. 试探性的，暂定的；踌躇的，犹豫不定的
+%n. 不确定的事物
+    We've made tentative plans for a holiday but haven't decided anything certain yet.
+#我们制订了好几个度假的初步计划，但还没有做出任何决定。
+
+epic: 英[ˈepɪk] 美[ˈepɪk]
+$n. （讲述英雄冒险经历的）叙事诗，史诗；史诗般的书籍（或电影等）；壮举，惊人之举；<非正式>特别耗时费力的事（或活动）
+%adj. 史诗般的；漫长而艰难的；宏大的，壮丽的
+    It's an epic film about the Roman Empire.
+#这是关于罗马帝国的一部史诗般的电影。
+
+verify: 英[ˈverɪfaɪ] 美[ˈverɪfaɪ]
+%v. 核实，查证；证明，证实
+    These figures are surprisingly high and they'll have to be verified.
+#这些数字之高令人惊讶，必须加以核实。
+
+offspring: 英[ˈɒfsprɪŋ] 美[ˈɔːfsprɪŋ]
+%n. （人的）后代，子女；（动物的）幼崽，崽兽；结果，产物
+    Tom's sister came round on Saturday with her numerous offspring.
+#汤姆的姐姐星期六带着她的许多孩子来了。
+
+prevalent: 英[ˈprevələnt] 美[ˈprevələnt]
+%adj. 盛行的，普遍的
+    It is a point of view that is still prevalent.
+#这种观点依然盛行。
+
+demobilize: 英[diːˈməʊbəlaɪz] 美[diːˈmoʊbəlaɪz]
+%vt. 遣散；使复员；使退伍（demobilise）
+    At the end of the war, Jack was demobilized and went back to his job as a train driver.
+#战争结束后，杰克复员回去当火车司机了。
+
+definite: 英[ˈdefɪnət] 美[ˈdefɪnət]
+$adj. 清晰的，明晰的；确定的，不会改变的；肯定的，一定的
+%n. 确定之事
+    There's been a definite improvement in your English since your arrival.
+#你来这里后英语确实有进步。
+
+disciplinary: 英[ˌdɪsəˈplɪnəri; ˈdɪsəplɪnəri] 美[ˈdɪsəpləneri]
+%adj. 有关纪律的，惩戒性的
+    She was dismissed in accordance with the company's usual disciplinary procedures.
+#依照公司实行的一般纪律程序，她被解雇了。
+
+justify: 英[ˈdʒʌstɪfaɪ] 美[ˈdʒʌstɪfaɪ]
+%v. 是……的正当理由；对……作出解释，为……辩解；使（文本）对齐；（在上帝的眼中）称义，使有义；证明合法；整理版面
+    The fact that he annoyed you does not justify your treating him in that way.
+#他使你生气并不能说明你那样对待他是有理的。
+
+vigorous: 英[ˈvɪɡərəs] 美[ˈvɪɡərəs]
+%adj. 精力充沛的，充满活力的；强壮的，强健的
+    He is a vigorous man in his upper 30's.
+#他是个35岁左右的精力旺盛的男子。
+
+foul: 英[faʊl] 美[faʊl]
+$adj. 难闻的，令人恶心的；(脾气）暴躁的，（心情）烦躁的；不正当的，不道德的；（语言）下流的，无礼的；犯规的；肮脏的，被污染的；被阻塞的；（绳子、锚）缠结住的；（天气）恶劣的；界外的
+$n. 犯规；（马术、划船、赛跑）碰撞，缠结；界外球
+$v. 弄脏，污染；犯规；（棒球中）击出界外球；（船）碰撞，妨碍（另一艘船的）航行；（绳索、链条等）缠结（或堵塞）
+%adv. 违反规则地，不正当地
+    Anyone whose dog fouls the footpath will be fined.
+#任何人的狗弄脏了人行道都要被罚款。
+
+amateur: 英[ˈæmətə(r)] 美[ˈæmətər]
+$n. 业余爱好者；生手，外行
+%adj. 非专业的，业余爱好的；不熟练的
+    The competition is open to both professionals and amateurs.
+#这场比赛专业人士和业余爱好者均可参加。
+
+autonomous: 英[ɔːˈtɒnəməs] 美[ɔːˈtɑːnəməs]
+%adj. 自治的，有自治权的；自主的，有自主权的；自动的
+    School governors are legally autonomous.
+#学校主管们在法律上是自主的。
+
+conflict: 英[ˈkɒnflɪkt] 美[ˈkɑːnflɪkt]
+$n. 争执，争论，分歧；战斗，战争；抵触，矛盾
+%v. 冲突，抵触
+    Your account of the cause of the war conflicts with what I have in the history book in front of me.
+#你对战争起因的说法与我面前这本历史书上写的不一致。
+
+considerable: 英[kənˈsɪdərəb(ə)l] 美[kənˈsɪdərəb(ə)l]
+%adj. 相当大的，相当重要的；（人）显要的，值得尊敬的
+    The fire caused considerable damage to the church.
+#火灾对教堂造成了重大损害。
+
+constitute: 英[ˈkɒnstɪtjuːt] 美[ˈkɑːnstɪtuːt]
+%v. 组成，构成；是，被视为；成立，设立；任命
+    People over sixty years old constitute 25 percent of the city's population.
+#60岁以上的老人占这座城市人口的25%。
+
+dogged: 英[ˈdɒɡɪd] 美[ˈdɔːɡɪd]
+$adj. 顽强的，坚持不懈的
+%v. 困扰，纠缠；跟踪，尾随（dog 的过去式和过去分词）
+    His ambition and dogged determination ensured that he rose to the top of this profession.
+#他的雄心和顽强的意志确保了他成为这个行业的顶尖人物。
+
+reclaim: 英[rɪˈkleɪm] 美[rɪˈkleɪm]
+$v. 要求归还；利用，改造（荒地）；回收（废品中有用的东西）；感化，使纠正
+%n. 归还要求（或主张）
+    I went to the station to reclaim my suitcase from the left luggage office.
+#我去车站的遗留行李处领回箱子。
+
+dialect: 英[ˈdaɪəlekt] 美[ˈdaɪəlekt]
+%n. 方言，土话
+    speak in the Suzhou dialect
+#用苏州方言讲话
+
+convince: 英[kənˈvɪns] 美[kənˈvɪns]
+%v. 使确信，使信服；说服，劝服
+    It took me several hours to convince her of his guilt.
+#我花了几个小时才使她相信他有罪。
+
+harsh: 英[hɑːʃ] 美[hɑːrʃ]
+%adj. （环境）恶劣的，艰苦的；严厉的，残酷的；刺耳的，难听的；刺眼的，耀眼的；丑陋的；刺激性强的，太强力的
+    The punishment was rather harsh for such a minor offence.
+#这惩罚对于如此小的过错来说太严酷了。
+
+exaggerate: 英[ɪɡˈzædʒəreɪt] 美[ɪɡˈzædʒəreɪt]
+%v. 夸大，言过其实；使扩大
+    I've told you a million times not to exaggerate.
+#我告诉过你无数遍切勿夸大其词。
+
+poignant: 英[ˈpɔɪnjənt] 美[ˈpɔɪnjənt]
+%adj. 令人沉痛的，悲惨的；切中要害的
+    The photograph awakens poignant memories of past years.
+#这张照片唤起了过去的辛酸回忆。
+
+reconcile: 英[ˈrekənsaɪl] 美[ˈrekənsaɪl]
+%v. 调和，使协调一致；（使）和解，（使）恢复友好关系；调停，调解（争吵）；使顺从于，使接受；核对，查核（账目）
+    They soon reconciled after the quarrel.
+#争吵后不久他们就言归于好了。
+
+climax: 英[ˈklaɪmæks] 美[ˈklaɪmæks]
+$n. 高潮，顶点；性高潮；（植物群落演替达到平衡的）顶极（群落）；层进法
+%v. 达到性高潮；达到高潮，达到顶点
+    The story came to a climax in the middle.
+#故事在中间部分达到了高潮。
+
+cognitive: 英[ˈkɒɡnətɪv] 美[ˈkɑːɡnətɪv]
+%adj. 认识的，认知的
+    A cognitive psychologist studies how people think.
+#认知心理学家研究人的思维方式。
+
+devastate: 英[ˈdevəsteɪt] 美[ˈdevəsteɪt]
+%v. 毁坏，破坏；使极度震惊，使伤心欲绝
+    The fire swept through the theater, devastating the entire building.
+#大火横扫剧院，彻底摧毁了整座建筑。
+
+dramatic: 英[drəˈmætɪk] 美[drəˈmætɪk]
+%adj. 巨大而突然的，急剧的；激动人心的，引人注目的，给人深刻印象的；有关戏剧的，戏剧表演的；夸张的
+    She tends to be very dramatic about everything
+#她做什么事都很夸张做作。
+
+perfume: 英[ˈpɜːfjuːm] 美[pərˈfjuːm]
+$n. 香水；芳香，香味，馨香；香精，香料
+%v. 使香气弥漫；在……上撒香水，抹香水
+    He held a rose close to his nose, enjoying its perfume.
+#他把一朵玫瑰紧贴鼻子，享受其芬芳。
+
+dynamic: 英[daɪˈnæmɪk] 美[daɪˈnæmɪk]
+$adj. 充满活力的，精力充沛的；动态的，发展变化的；力的，动力的
+%n. 动力，活力；相互作用，动态；动力学
+    He's young and dynamic and will be great head of the department.
+#他年轻、精力充沛，会成为部门出色的领导人
+
+deficient: 英[dɪˈfɪʃ(ə)nt] 美[dɪˈfɪʃ(ə)nt]
+%adj. 缺乏的，不足的；有缺点的，有缺陷的
+    I think the book has a very deficient index.
+#我认为这本书的索引残缺严重。
+
+plumb: 英[plʌm] 美[plʌm]
+$vt. 装水管；使垂直；探测，探索
+$vi. 当管子工
+$n. 垂直；铅锤；（Plumb）（英）普拉姆（人名）
+$adv. 恰恰，正；垂直地；彻底地
+%adj. 垂直的
+    The book plumbed the complexities of human relationships.
+#这本书探讨的是人际关系的复杂性。
+
+arbitrary: 英[ˈɑːbɪtrəri] 美[ˈɑːrbɪtreri]
+%adj. 任意的，随心所欲的；专横的，武断的
+    I don't know anything about any of the books, so my choice is quite arbitrary.
+#我对那些书均无了解，因此我的选择是十分随意的。
+
+infant: 英[ˈɪnfənt] 美[ˈɪnfənt]
+$n. 婴儿，幼儿；（英国学校里四至七岁的）学童；<法律>未成年人
+%adj. 供婴幼儿用的；初期的，初创期的；四岁至七岁幼儿的
+    The nurse came into the room carrying a newborn infant.
+#护士抱着一个刚出生的婴儿走进房间。
+
+aggravate: 英[ˈæɡrəveɪt] 美[ˈæɡrəveɪt]
+%v. 使加重，使恶化；惹怒，激怒
+    The lack of rain aggravated the already serious lack of food.
+#降水匮乏加重了原来就严重的粮食短缺问题。
+
+smother: 英[ˈsmʌðə(r)] 美[ˈsmʌðər]
+$vt. 使窒息；抑制；（用灰等）闷熄；忍住
+$vi. 窒息；被抑制；闷死
+%n. 窒息状态；令人窒息的浓烟
+    He smothered his anger and continued to work.
+#他抑制住怒火，继续工作。
+
+chip: 英[tʃɪp] 美[tʃɪp]
+$n. 炸薯条，炸薯片；芯片；碎块，碎屑；缺口，豁口；筹码；撮球，切球；木条
+%v. 打破，弄缺；（尤指用工具）削下，凿下；切成细条；撮球，挑球
+    The ground was covered with wood chips.
+#地上满是木屑。
+
+segregate: 英[ˈseɡrɪɡeɪt] 美[ˈseɡrɪɡeɪt]
+$v. （尤指因种族、性别、宗教不同而）使隔离，使分开；实行种族隔离；（使）分开，分离；（成对的等位基因）分离
+%n. （遗传）分离子；（植物学）集合物种中的一种
+    Girls and boys were segregated into different dining rooms for meals.
+#吃饭时男孩和女孩被分进了不同的餐厅。
+
+universal: 英[ˌjuːnɪˈvɜːs(ə)l] 美[ˌjuːnɪˈvɜːrs(ə)l]
+$adj. 普遍的，全体的，全世界的；通用的，万能的；（逻）全称的，总称的
+%n. 普遍原则，通用原理；普遍看法，普遍特征；（逻）全称命题；（哲）普遍，一般概念；（哲）共相；（语言学）普遍现象，通用规则
+    The desire to look attractive is universal.
+#爱美之心人皆有之。
+
+potential: 英[pəˈtenʃ(ə)l] 美[pəˈtenʃ(ə)l]
+$adj. 潜在的，可能的
+%n. （事物的）潜力，可能性；（人的）潜能，潜力；电势，电位，电压
+    You have the potential to reach the top of your profession.
+#你具有达到事业顶峰的潜力。
+
+cynical: 英[ˈsɪnɪk(ə)l] 美[ˈsɪnɪk(ə)l]
+%adj. 认为人皆自私的，愤世嫉俗的；悲观的，怀疑的；损人利己的；轻蔑的，嘲笑的
+    Some young artists today have a cynical outlook.
+#当今的一些年轻艺术家抱着愤世嫉俗的心态。
+
+circulation: 英[ˌsɜːkjəˈleɪʃ(ə)n] 美[ˌsɜːrkjəˈleɪʃ(ə)n]
+%n. 发行量，销售量；血液循环；流传，流通；参加社交活动，交际；环流，循环；（图书的）借出
+    It is reported that there are many forged tickets in circulation.
+#据报道，有许多假入场券在流通。
+
+prudent: 英[ˈpruːd(ə)nt] 美[ˈpruːd(ə)nt]
+%adj. 谨慎的，慎重的；节俭的
+    It would be prudent to read the contract properly before signing it.
+#在签字前好好读一读合同是慎重的。
+
+soothe: 英[suːð] 美[suːð]
+%v. 使平静，安抚；减轻，缓和（疼痛）
+    I've managed to soothe her a bit, but she's still pretty annoyed.
+#我想方设法使她平静了一点，可她还是很恼怒。
+
+irrational: 英[ɪˈræʃən(ə)l] 美[ɪˈræʃən(ə)l]
+$adj. 非理性的，不合逻辑的，荒谬的；无理的
+%n. 无理数
+    After the failure she became quite irrational.
+#在失败后变得相当没有理性。
+
+bland: 英[blænd] 美[blænd]
+%adj. 平淡的，枯燥乏味的；（食品，饮料）未加调料的，清淡的；沉稳的，无动于衷的；（评论或话语）温和的，无关痛痒的
+    I find the chicken a little bland.
+#我发现鸡肉有点清淡。
+
+span: 英[spæn] 美[spæn]
+$n. 时间跨度，一段时间；（桥或拱的）墩距，跨距；宽度，翼展；范围，包括的种类；（航海）跨绳；一队人（或动物）；数值范围；一掌的长度
+$v. 持续，贯穿；包括（广大地区），涵盖（多项内容）；横跨，跨越；张开手覆盖（或环绕）；<南非>给（动物）套上轭
+%adj. 整洁干净的，照管得很好的（spick and span）
+    An old bridge spans the river just outside the town.
+#一座老桥横跨镇外的河流
+
+prospect: 英[ˈprɒspekt] 美[ˈprɑːspekt]
+$n. 可能性，希望；预期，展望；（尤指事业的）成功机会，前景；有望成功的人，有前途的人；可能的顾客，潜在的主顾；<正式>（尤指从高处看到的）景象，景色；潜在矿藏或矿床
+%v. 勘探，勘察；寻找（商业机会）
+    The building has an extensive prospect of the sea.
+#从这幢大楼可以看到很开阔的海景。
+
+intent: 英[ɪnˈtent] 美[ɪnˈtent]
+$adj. 专注的，专心致志的；坚决的；急切的
+%n. 目的，意图；故意
+    I could see that my wife was intent on buying the hat, whether I approved of it or not.
+#我看得出，不论我同意与否，我妻子都一定要买那顶帽子。
+
+hover: 英[ˈhɒvə(r)] 美[ˈhʌvər]
+$v. 翱翔，盘旋；徘徊，守候；处于不稳定状态；上下波动，左右摇摆；伏窝孵化
+%n. 翱翔，徘徊
+    From the mountain top he could see some eagles hovering in the valley.
+#从山顶上，他能够看见几只鹰在山谷中盘旋。
+
+defy: 英[dɪˈfaɪ] 美[dɪˈfaɪ]
+%v. 违抗，不服从；挑战，激；无法，难以（描述或理解）；经受住，顶住
+    It was the only time I dared to defy my mother.
+#那是我唯一次敢违抗妈妈。
+
+perception: 英[pəˈsepʃ(ə)n] 美[pərˈsepʃ(ə)n]
+%n. 看法，认识；感觉，感知；洞察力；<法律>（租金、农作物等的）收取，占有
+    This theory can alter your perception of reality.
+#这一理论会改变你对现实的感知。
+
+credible: 英[ˈkredəb(ə)l] 美[ˈkredəb(ə)l]
+%adj. 可信的，可靠的；足够好的，有明显效果的；（因看似可能成功而）可接受的
+    The police concluded that her story was credible.
+#警方断定她的说法是可信的。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

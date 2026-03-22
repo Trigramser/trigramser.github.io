@@ -1,0 +1,563 @@
+<<<<<<< HEAD
+sententious:
+    a sententious speaker
+#一昧说教的演讲者
+
+nether:
+    The boiler room is somewhere down in the building's nether regions.
+#锅炉房在大楼下面的地下室里。
+
+requite:
+    The charm of travel requites its disadvantages.
+#旅行的魅力补偿了旅途中的不便。
+
+slink:
+    He hurriedly paid his bills and slunk away.
+#他匆匆付了账就溜走了。
+
+mnemonics:
+    a lecture on mnemonics
+#关于记忆法的讲座
+
+ultramundane:
+    She seems to be a ultramundane girl.
+#她好像是一个脱离尘世的人。
+
+malefactor:
+    The malefactor will be prosecuted.
+#罪犯将受到起诉。
+
+vegetate:
+    The plants in my garden vegetate vigorously.
+#我家园子里的植物苗壮地生长。
+
+emolument:
+    a clearest example of taxable emolument
+#应纳税报酬的一个最清楚的例子
+
+subcelestial:
+    subcelestial is used to describe something situated beneath the heavens
+#subcelestial用来描述位于天空之下的事物。
+
+fatidic:
+    a fatidic witch
+#有预言能力的女巫
+
+jumpy:
+    I told myself not to be so jumpy 
+#我告诉自己别这么提心吊胆的。
+
+multifarious:
+    the multifarious noises of a great city
+#大城市里的种种噪声
+    the multifarious duties of a teacher
+#教师多方面的职责
+
+unfasten:
+    unfasten the seat belt
+#解开安全带
+
+miscellany:
+    a literary miscellany
+#文学杂集
+
+engaging:
+    an engaging smile
+#迷人的微笑
+    engaging manners
+#动人的风度
+
+inflame:
+    The setting sun inflamed the sky.
+#夕阳使天空赤红如火烧一般。
+
+felicitous:
+    a felicitous remark
+#妥帖的话
+    a felicitous journey
+#愉快的旅行
+
+podium:
+    The teacher stepped down from the lecture podium.
+#教师走下了讲台。
+
+disruptive:
+    the disruptive effects of war
+#战争的种种破坏作用
+    disruptive behavior
+#捣乱行为
+
+arraign:
+    be arraigned on a charge of theft
+#因盗窃罪被传讯
+    arraign sb. for high treason
+#以叛国罪控告某人
+
+animus:
+    have an animus against sb.
+#对某人怀有敌意
+
+abominate:
+    She abominates hot weather.
+#她不喜欢炎热天气。
+
+jaunty:
+    walk with jaunty steps
+#蹦蹦跳跳地走
+    a jaunty hat
+#漂亮的帽子
+
+corrugate:
+    He corrugated his brows in thought.
+#他皱着眉头沉思。
+
+inscrutable:
+    She looked up at me with inscrutable eyes.
+#她抬起头，用一种不可思议的眼神望着我。
+
+sensible:
+    His distress was sensible from his manner.
+#他的忧伤从他的举止就可以看出。
+
+atone:
+    His hard work atones for his lack of skill.
+#他的辛勤工作补偿了技术的不熟练。
+
+troll:
+    He rowed her ashore and then continued trolling around the lake.
+#他划船把她送上岸，然后继续慢悠悠地在湖上划。
+
+gestate:
+    He was gestating the hero of the next chapter.
+#他在构思下一章的男主角。
+
+renascent:
+    a renascent love for one's motherland
+#对自己的祖国重新产生的爱
+
+fecundity:
+    the fecundity of the earth
+#土壤的肥沃
+    The boy's fecundity of imagination amazed his teacher.
+#男孩想像力的丰富使教师感到惊异。
+
+retrench:
+    retrench the traveling expenses
+#削减旅费
+    retrench a long speech
+#删节长篇演说
+
+insignia:
+    different airline insignias
+#不同的航空公司标记
+    A national flag displayed on ships and aircraft, often with the special insignia of a branch or unit of the armed forces.
+#国旗挂于船只或飞机上的国旗，常带有部队分队或部队单位的特殊识别标记。
+
+pharisaic:
+    Don't believe his pharisaic words.
+#不要相信他那伪善的言词。
+
+pharaoh:
+    He became pharaoh when still very young.
+#他在很小时就成了法老。
+
+sate:
+    Nothing will sate his lust for power.
+#他的权力欲永无满足之日。
+
+phenom:
+    the team's phenom
+#队里杰出的运动员
+
+concinnity:
+    Tied arch bridge, not only has a concinnity outline, but also is fit for buildings in the watery region and cities on the soft clay ground.
+#系杆拱桥不仅外形简洁，而且适用于多水地区的建筑和软土地基上的城市。
+
+onus:
+    The onus is on the press.
+#责任在新闻界方面。
+
+miscreant:
+    a gang of miscreants
+#一伙歹徒
+
+vituperate:
+    She vituperated her former lover.
+#她对她从前的情人破口大骂。
+
+rive:
+    The army was riven with personal rivalries.
+#军队因军人间的钩心斗角而四分五裂。
+
+stature:
+    He was rather small in stature.
+#他的身材相当矮小。
+
+dowdy:
+    a dowdy woman
+#不时髦的女人
+    a dowdy novel
+#过时的小说
+
+long-winded:
+    a long-winded speech
+#冗长的演讲
+
+pith:
+    an argument without pith
+#没有实质意义的争论
+    the pith of the matter
+#问题的实质
+
+jamboree:
+    The jamboree lasted until the midnight.
+#狂欢活动一直持续到午夜。
+
+abject:
+    abject poverty
+#赤贫
+    an abject performance
+#拙劣的演出
+    an abject coward
+#可鄙的懦夫
+    abject submission
+#奴颜婢膝
+    in an abject way
+#自卑地
+
+abode:
+    make one's abode
+#居住
+    take up one's abode with sb.
+#与某人同住
+    a person of no fixed abode
+#居无定所的人
+
+abrasive:
+    His abrasive personality led to constant squabbles
+#他那粗暴的性格常导致争吵。
+
+abstention:
+    The agreement calls for abstention by both sides from provocative activities.
+#协议呼吁双方避免挑衅行动。
+
+abyss:
+    the abyss of time
+#时光绵绵
+    She was plunged into an abyss of despair.
+#她落入绝望的深渊。
+
+acclimatize:
+    Jack has not become acclimatized to long hair.
+#杰克对蓄长发还不习惯。
+
+acerbity:
+    The acerbity of his two volumes of memoirs shocked a lot of people.
+#他的两卷回忆录中的辛辣描写使许多人感到震惊。
+
+sear:
+    The heart from the explosion seared their hands and faces.
+#爆炸的热浪烧灼了他们的手和脸。
+
+opine:
+    You may opine about anything under the sun.
+#对世界上任何事你都可以发表意见。
+
+peep:
+    peep into the room
+#屋里偷窥
+    peep out from behind the clouds
+#(月亮)从云层后面露出脸来
+    a hurried/hasty peep
+#匆匆的一瞥
+    take/get/have a peep at one's telephone number
+#偷看一下某人的电话号码
+    at the peep of darkness
+#夜幕刚刚降临时
+
+pithy:
+    Her later books are pithier and contain more critical social commentary.
+#她后来的书更加言简意赅，包含了更多对社会的批评性的评述。
+
+=======
+sententious:
+    a sententious speaker
+#一昧说教的演讲者
+
+nether:
+    The boiler room is somewhere down in the building's nether regions.
+#锅炉房在大楼下面的地下室里。
+
+requite:
+    The charm of travel requites its disadvantages.
+#旅行的魅力补偿了旅途中的不便。
+
+slink:
+    He hurriedly paid his bills and slunk away.
+#他匆匆付了账就溜走了。
+
+mnemonics:
+    a lecture on mnemonics
+#关于记忆法的讲座
+
+ultramundane:
+    She seems to be a ultramundane girl.
+#她好像是一个脱离尘世的人。
+
+malefactor:
+    The malefactor will be prosecuted.
+#罪犯将受到起诉。
+
+vegetate:
+    The plants in my garden vegetate vigorously.
+#我家园子里的植物苗壮地生长。
+
+emolument:
+    a clearest example of taxable emolument
+#应纳税报酬的一个最清楚的例子
+
+subcelestial:
+    subcelestial is used to describe something situated beneath the heavens
+#subcelestial用来描述位于天空之下的事物。
+
+fatidic:
+    a fatidic witch
+#有预言能力的女巫
+
+jumpy:
+    I told myself not to be so jumpy 
+#我告诉自己别这么提心吊胆的。
+
+multifarious:
+    the multifarious noises of a great city
+#大城市里的种种噪声
+    the multifarious duties of a teacher
+#教师多方面的职责
+
+unfasten:
+    unfasten the seat belt
+#解开安全带
+
+miscellany:
+    a literary miscellany
+#文学杂集
+
+engaging:
+    an engaging smile
+#迷人的微笑
+    engaging manners
+#动人的风度
+
+inflame:
+    The setting sun inflamed the sky.
+#夕阳使天空赤红如火烧一般。
+
+felicitous:
+    a felicitous remark
+#妥帖的话
+    a felicitous journey
+#愉快的旅行
+
+podium:
+    The teacher stepped down from the lecture podium.
+#教师走下了讲台。
+
+disruptive:
+    the disruptive effects of war
+#战争的种种破坏作用
+    disruptive behavior
+#捣乱行为
+
+arraign:
+    be arraigned on a charge of theft
+#因盗窃罪被传讯
+    arraign sb. for high treason
+#以叛国罪控告某人
+
+animus:
+    have an animus against sb.
+#对某人怀有敌意
+
+abominate:
+    She abominates hot weather.
+#她不喜欢炎热天气。
+
+jaunty:
+    walk with jaunty steps
+#蹦蹦跳跳地走
+    a jaunty hat
+#漂亮的帽子
+
+corrugate:
+    He corrugated his brows in thought.
+#他皱着眉头沉思。
+
+inscrutable:
+    She looked up at me with inscrutable eyes.
+#她抬起头，用一种不可思议的眼神望着我。
+
+sensible:
+    His distress was sensible from his manner.
+#他的忧伤从他的举止就可以看出。
+
+atone:
+    His hard work atones for his lack of skill.
+#他的辛勤工作补偿了技术的不熟练。
+
+troll:
+    He rowed her ashore and then continued trolling around the lake.
+#他划船把她送上岸，然后继续慢悠悠地在湖上划。
+
+gestate:
+    He was gestating the hero of the next chapter.
+#他在构思下一章的男主角。
+
+renascent:
+    a renascent love for one's motherland
+#对自己的祖国重新产生的爱
+
+fecundity:
+    the fecundity of the earth
+#土壤的肥沃
+    The boy's fecundity of imagination amazed his teacher.
+#男孩想像力的丰富使教师感到惊异。
+
+retrench:
+    retrench the traveling expenses
+#削减旅费
+    retrench a long speech
+#删节长篇演说
+
+insignia:
+    different airline insignias
+#不同的航空公司标记
+    A national flag displayed on ships and aircraft, often with the special insignia of a branch or unit of the armed forces.
+#国旗挂于船只或飞机上的国旗，常带有部队分队或部队单位的特殊识别标记。
+
+pharisaic:
+    Don't believe his pharisaic words.
+#不要相信他那伪善的言词。
+
+pharaoh:
+    He became pharaoh when still very young.
+#他在很小时就成了法老。
+
+sate:
+    Nothing will sate his lust for power.
+#他的权力欲永无满足之日。
+
+phenom:
+    the team's phenom
+#队里杰出的运动员
+
+concinnity:
+    Tied arch bridge, not only has a concinnity outline, but also is fit for buildings in the watery region and cities on the soft clay ground.
+#系杆拱桥不仅外形简洁，而且适用于多水地区的建筑和软土地基上的城市。
+
+onus:
+    The onus is on the press.
+#责任在新闻界方面。
+
+miscreant:
+    a gang of miscreants
+#一伙歹徒
+
+vituperate:
+    She vituperated her former lover.
+#她对她从前的情人破口大骂。
+
+rive:
+    The army was riven with personal rivalries.
+#军队因军人间的钩心斗角而四分五裂。
+
+stature:
+    He was rather small in stature.
+#他的身材相当矮小。
+
+dowdy:
+    a dowdy woman
+#不时髦的女人
+    a dowdy novel
+#过时的小说
+
+long-winded:
+    a long-winded speech
+#冗长的演讲
+
+pith:
+    an argument without pith
+#没有实质意义的争论
+    the pith of the matter
+#问题的实质
+
+jamboree:
+    The jamboree lasted until the midnight.
+#狂欢活动一直持续到午夜。
+
+abject:
+    abject poverty
+#赤贫
+    an abject performance
+#拙劣的演出
+    an abject coward
+#可鄙的懦夫
+    abject submission
+#奴颜婢膝
+    in an abject way
+#自卑地
+
+abode:
+    make one's abode
+#居住
+    take up one's abode with sb.
+#与某人同住
+    a person of no fixed abode
+#居无定所的人
+
+abrasive:
+    His abrasive personality led to constant squabbles
+#他那粗暴的性格常导致争吵。
+
+abstention:
+    The agreement calls for abstention by both sides from provocative activities.
+#协议呼吁双方避免挑衅行动。
+
+abyss:
+    the abyss of time
+#时光绵绵
+    She was plunged into an abyss of despair.
+#她落入绝望的深渊。
+
+acclimatize:
+    Jack has not become acclimatized to long hair.
+#杰克对蓄长发还不习惯。
+
+acerbity:
+    The acerbity of his two volumes of memoirs shocked a lot of people.
+#他的两卷回忆录中的辛辣描写使许多人感到震惊。
+
+sear:
+    The heart from the explosion seared their hands and faces.
+#爆炸的热浪烧灼了他们的手和脸。
+
+opine:
+    You may opine about anything under the sun.
+#对世界上任何事你都可以发表意见。
+
+peep:
+    peep into the room
+#屋里偷窥
+    peep out from behind the clouds
+#(月亮)从云层后面露出脸来
+    a hurried/hasty peep
+#匆匆的一瞥
+    take/get/have a peep at one's telephone number
+#偷看一下某人的电话号码
+    at the peep of darkness
+#夜幕刚刚降临时
+
+pithy:
+    Her later books are pithier and contain more critical social commentary.
+#她后来的书更加言简意赅，包含了更多对社会的批评性的评述。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

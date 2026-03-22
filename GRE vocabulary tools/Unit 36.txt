@@ -1,0 +1,795 @@
+<<<<<<< HEAD
+bilk: 英[bɪlk] 美[bɪlk]
+$vt. 欺骗，诈骗；使受挫折；赖帐
+%n. 诈骗；骗子；赖帐
+    bilk one's creditor
+#躲避债主
+    They are charged with bilking investors out of millions of dollars.
+#他们被控骗取投资者数百万美元。
+
+ostracism: 英[ˈɒstrəsɪzəm] 美[ˈɑːstrəsɪzəm]
+%n. 排斥；放逐；贝壳流放法
+    the total ostracism of the country from international sports
+#完全排斥在国际比赛之外的国家
+
+libel: 英[ˈlaɪb(ə)l] 美[ˈlaɪb(ə)l]
+$n. 诽谤罪；诋毁；毁坏名誉的东西；控诉书
+$vt. 中伤；控告；对……进行诽谤
+%vi. 进行文字诽谤
+    sue sb. for libel
+#控告某人犯诽谤罪
+    The book is a libel on human nature.
+#这本书是对人性的污蔑。
+
+stingy: 英[ˈstɪndʒi] 美[ˈstɪndʒi]
+%adj. 吝啬的，小气的；小的，少的；有刺的
+    be stingy with one's money
+#吝啬钱财
+    The stingy man won't contribute a cent.
+#那个啬鬼连一分钱也不愿捐助。
+
+statutory: 英[ˈstætʃətri] 美[ˈstætʃətɔːri]
+%adj. 依照法令的，法定的；成文法的，法令的；定期的，规则的
+    statutory provisions
+#法律规定
+    statutory control of wage
+#工资的法定控制
+
+stinginess: 英[ˈstɪndʒinəs] 美[ˈstɪndʒinəs]
+%n. 吝啬
+    the nature of stinginess
+#吝啬的秉性
+
+positiveness: 英[ˈpɒzətɪvnəs] 美[ˈpɑːzətɪvnəs]
+%n. 信心；肯定
+    She said with positiveness that she would come, so I went ahead and saved a place for her.
+#她肯定地说她会来，所以我先去给她占了位子。
+
+inexpiable: 英[ɪnˈekspɪəb(ə)l] 美[ɪnˈekspiəbəl]
+%adj. 不能抵偿的；不能平息的；不能抵赎的
+    an inexpiable sin
+#不能抵赎的罪孽
+    an inexpiable hatred
+#不能平息的心头之恨
+
+winnow: 英[ˈwɪnəʊ] 美[ˈwɪnoʊ]
+$vt. 簸；把……挑出来；精选
+$vi. 分出好坏；扬谷
+%n. 扬谷；扬谷器
+    winnow truth from falsehood
+#辨别真伪
+    winnow out certain inaccuracies
+#删去某些不准确之处
+    The farmers are winnowing the thrashed wheat.
+#农夫们正在把脱粒的小麦簸一簸。
+
+immanent: 英[ˈɪmənənt] 美[ˈɪmənənt]
+%adj. 内在的；固有的
+    both immanent and external factors in social evolution
+#社会演变的内在和外在因素
+
+reprobate: 英[ˈreprəbeɪt] 美[ˈreprəbeɪt]
+$n. 堕落的人，不道德的人；（加尔文教派用语）被上帝摈弃的人，无望受救赎者
+$adj. 堕落的，不道德的；（加尔文教派用语）被上帝摈弃的，无望受救赎的
+%v. 非难；拒绝；斥责
+    a drunken reprobate
+#酗酒无度的人
+    We reprobate his evil behavior.
+#我们谴责他的邪恶行为。
+
+congeal: 英[kənˈdʒiːl] 美[kənˈdʒiːl]
+$vi. 凝结；凝固
+%vt. 使……凝结；使……冻结
+    Some philosophic systems lost their vitality and became totally congealed.
+#有些哲学体系失去了生命力，变得完全僵化了。
+
+oracular: 英[əˈrækjələ(r)] 美[əˈrækjələr]
+%adj. 神谕的；谜似的；玄妙深奥的
+    an oracular guidance for the future
+#对未来的神谕指引
+    oracular remarks
+#隐晦难懂的话
+
+throe: 英[θrəʊ] 美[θroʊ]
+$n. 阵痛；剧痛
+%vi. 使……痛苦
+    throes of childbirth
+#分娩的阵痛
+    the throes of revolution
+#处于革命的动荡时期
+
+insolvency: 英[ɪnˈsɒlvənsi] 美[ɪnˈsɑːlvənsi]
+%n. 破产，无力偿还；倒闭
+    The company simply couldn't sell it's products in sufficient volumes and was driven into insolvency.
+#该公司实在无法销售足够量的产品，被迫破产。
+
+necessitous: 英[nɪˈsesɪtəs] 美[nəˈsesɪtəs]
+%adj. 贫困的，贫穷的；紧急的
+    a necessitous family
+#贫困家庭
+    a most necessitous reason
+#最紧迫的理由
+
+lavender: 英[ˈlævəndə(r)] 美[ˈlævəndər]
+$n. 薰衣草；干薰衣草花（用以熏香衣物等）；淡紫色；薰衣草香油精（=lavender oil）；用于类似植物名称；<非正式>女人气
+$adj. 淡紫色的
+%v. 用薰衣草熏香
+    in the lavender dusk
+#在淡紫色的暮中
+    The path was edged with lavender.
+#小路边长着薰衣草。
+
+prevision: 英[prɪˈvɪʒən] 美[ˌprivɪʒən]
+$n. 预知；先见
+%n. （Prevision）人名；（西）普雷维西翁
+    She knew by prevision what most women learn only by experience.
+#大多数女子只有靠经验才能学到的东西，她靠自己的先见之明就知道了。
+
+rent: 英[rent] 美[rent]
+$n. 租金，租用费；（布等上面的）破洞，裂口
+$vt. 租用，租借；出租，将……租给； 可租用，租金为
+%v. 撕裂，扯碎；（声音）响彻，刺破；<文>使心碎（rend 的过去式和过去分词形式）
+    a rent in a shirt
+#衬衫上的破洞
+    a rent in a political party
+#政党的分裂
+
+cynosure: 英[ˈsaɪnəsjʊə(r)] 美[ˈsaɪnəʃʊr]
+%n. 指针；众人瞩目的焦点
+    The council was a cynosure of the nation's hopes.
+#该委员会是全国人民关注的焦点。
+
+visceral: 英[ˈvɪsərəl] 美[ˈvɪsərəl]
+%adj. 内脏的；出于本能的；发自肺腑的；粗俗的
+    experience visceral hate
+#深恶痛绝
+    a visceral repugnance
+#本能的反感
+
+riotous: 英[ˈraɪətəs] 美[ˈraɪətəs]
+%adj. （人群）骚乱的，暴乱的；狂欢的，纵情欢闹的；非常滑稽有趣的；丰富多彩的，繁茂的
+    riotous students
+#闹事的学生
+    a riotous fancy
+#自由驰骋的想象力
+    a riotous party
+#喧闹的聚会
+    a garden riotous with flowers
+#百花盛开的花园
+
+immure: 英[ɪˈmjʊə(r)] 美[ɪˈmjʊr]
+%v. 把……嵌在墙上；监禁，禁闭
+    immure oneself in one's study
+#自己关在书里(读书)
+    She was immured in an attic.
+#她被监禁在阁楼里。
+
+bricklayer: 英[ˈbrɪkleɪə(r)] 美[ˈbrɪkleɪər]
+%n. 砖匠
+    bricklayers and carpenters
+#砖匠和木匠
+
+subreption: 英[səbˈrepʃən] 美[səbˈrepʃən]
+%n. 歪曲事实；隐匿事实；作虚伪的申辩
+    subreption of flood relief
+#冒领水灾救济金
+
+jape: 英[dʒeɪp] 美[dʒeɪp]
+$n. 嘲弄；玩笑
+$vi. 开玩笑
+%vt. 嘲弄
+    jape at sb.
+#取笑某人
+
+remand: 英[rɪˈmɑːnd] 美[rɪˈmænd]
+$n. 送还，遣回；还押
+%vt. 还押，还押候审；遣回
+    remand sb. to his country 
+#遣送某人回国;
+    be remanded for interrogation
+#还押受审问
+
+neonate: 英[ˈniːəʊneɪt] 美[ˈniːoʊneɪt]
+%n. 婴儿；（不足四周的）新生儿；新出生的哺乳动物
+    The doctor expected the neonate to make complete recovery.
+#医生希望新生儿完全康。
+
+quondam: 英[ˈkwɒndæm] 美[ˈkwɑːndəm]
+%adj. 昔日的，旧时的
+    a quondam friend of mine
+#我昔日的朋友
+
+deracinate: 英[ˌdiːˈræsɪneɪt] 美[ˌdiːˈræsɪneɪt]
+%vt. 灭绝，根除；使孤立，使隔绝
+    The tree was deracinated by the strong wind.
+#那棵树被大风连根拔起。
+
+stickler: 英[ˈstɪklə(r)] 美[ˈstɪklər]
+$n. 坚持细节的人；顽固的人；费解的事物
+%n. （Stickler）人名；（德）施蒂克勒；（英、瑞典）斯蒂克勒
+    a stickler for routine
+#墨守成规的人
+    a stickler for discipline
+#遵守纪律的人
+    The investigation proved to be a stickler.
+#这项调查进行得非常艰难。
+
+potentate: 英[ˈpəʊt(ə)nteɪt] 美[ˈpoʊt(ə)nteɪt]
+%n. 统治者，君主；有权势的人
+    A state of emergency had been in force since the coup which overthrew the potentate.
+#自从推翻君主的政变发生以来，全国处于紧急状态。
+
+transience: 英[ˈtrænziəns] 美[ˈtrænʃəns]
+%n. 稍纵即逝
+    the transience of human life
+#人生的短暂
+    He began to become aware of the transience of human relationships.
+#他开始意识到人际关系的无常。
+
+moldy: 英[ˈməʊldi] 美[ˈmoʊldi]
+%adj. 发霉的；乏味的；陈腐的
+    a moldy cheese
+#发霉的乳酪
+    a moldy meal
+#糟糕的饭菜
+
+whine: 英[waɪn] 美[waɪn]
+$v. 嘀咕，抱怨；发出哀鸣；（机器）嘎嘎响，嗖嗖响
+%n. 嘎吱声，吱吱声；抱怨，嘀咕；哀鸣
+    the whining puppies
+#呜呜叫的小狗
+    The bullets whined over their heads.
+#子弹从他们的头上嗖嗖掠过。
+
+impertinence: 英[ɪmˈpɜːtɪnəns] 美[ɪmˈpɜːrtnəns]
+%n. 鲁莽，无理；不恰当
+    He was angered to see impertinence in the young man.
+#他看见那个年轻人莽撞无礼很恼火。
+
+retaliation: 英[rɪˌtæliˈeɪʃ(ə)n] 美[rɪˌtæliˈeɪʃn]
+%n. 报复，反击
+    threaten retaliation against sb.
+#扬言对某人进行报复
+
+parley: 英[ˈpɑːli] 美[ˈpɑːrli]
+$n. 谈判；会谈
+$vi. 谈判；会谈
+%n. (Parley)人名；(英)帕利
+    hold a parley with the enemy about exchanging prisoners
+#与敌人就交换俘虏进行谈判
+
+simper: 英[ˈsɪmpə(r)] 美[ˈsɪmpər]
+$v. 假笑；假笑着说
+%n. 假笑；忸怩的姿态
+    Her face wears a simper.
+#她脸上老挂着一种不自然的笑容。
+
+feisty: 英[ˈfaɪsti] 美[ˈfaɪsti]
+%adj. 活跃的；好争吵的；烦躁不安的；坚决而据理力争的
+    a feisty old man
+#精神婴铄的老人
+    He often gets a little feisty after a few drinks.
+#他几杯酒下肚后就好跟人斗嘴。
+
+coarsen: 英[ˈkɔːs(ə)n] 美[ˈkɔːrs(ə)n]
+$vt. 使变粗；使变粗俗
+%vi. 变粗糙；变粗俗
+    Working outside in harsh weather coarsened his skin.
+#在户外恶劣天气下的工作使他的皮肤变得粗糙。
+
+irremediable: 英[ˌɪrɪˈmiːdiəb(ə)l] 美[ˌɪrɪˈmiːdiəb(ə)l]
+%adj. 不能挽回的；不能补救的
+    irremediable errors
+#无法补救的错误
+    The merits of this plan outweighed several obvious flaws in it, which were irremediable.
+#这计划的优点抵消了几处无法补救的明显缺陷。
+
+spendthrift: 英[ˈspendθrɪft] 美[ˈspendθrɪft]
+$n. 挥霍无度的人，浪费的人
+%adj. 挥霍无度的；浪费的
+    She accused him of spendthrift inclinations.
+#她指责他生性好挥霍。
+
+lard: 英[lɑːd] 美[lɑːrd]
+$n. 猪油；（非正式）人的多余脂肪
+$v. 嵌（肥肉）在其他肉中；涂抹猪油于……；润色，点缀；盖满
+%n. （Lard）（美）拉德（人名）
+    The book is well larded with anecdotes.
+#书中穿插了不少轶闻趣事。
+
+febrile: 英[ˈfiːbraɪl] 美[ˈfiːbraɪl]
+%adj. 发热的；[医] 热病的；发烧的
+    She sang with febrile intensity.
+#她激情湃地演唱。
+
+hallucination: 英[həˌluːsɪˈneɪʃ(ə)n] 美[həˌluːsɪˈneɪʃ(ə)n]
+%n. 幻觉，幻想；错觉
+    The patient complained of pains, dizziness and hallucination in the head.
+#病人诉说头痛、头晕以及产生幻觉。
+
+lout: 英[laʊt] 美[laʊt]
+$n. 笨拙的人
+$vt. 愚弄
+%vi. 鞠躬；屈服
+    Teenage louts roam the streets at night.
+#粗野少年晚上在街上闲荡。
+
+flagellate: 英[ˈflædʒəleɪt] 美[ˈflædʒəleɪt]
+$v. （因宗教戒条或性满足）鞭打
+$adj. 有鞭毛的；鞭状的
+%n. 鞭毛虫
+    She flagellated the levity of his conduct.
+#她痛斥他的举止轻率。
+
+garrulity: 英[ɡæˈruːlɪti] 美[ɡəˈruːlɪti]
+%n. 饶舌；多言；多嘴
+    He was tired of the garrulity of the fat woman.
+#他厌烦了那个胖女人的饶舌。
+
+lesion: 英[ˈliːʒn] 美[ˈliːʒ(ə)n]
+%n. 损害；身体上的伤害；机能障碍
+    There were photographs showing lesions to backs and thighs.
+#照片显示出对背部和大腿造成的伤害。
+
+dedication: 英[ˌdedɪˈkeɪʃ(ə)n] 美[ˌdedɪˈkeɪʃ(ə)n]
+%n. 献身，奉献；献辞；落成典礼
+    a sense of dedication to the defence of one's country
+#献身于国防事业的观念
+
+locution: 英[ləˈkjuːʃ(ə)n] 美[ləˈkjuːʃ(ə)n]
+%n. 说话风格；惯用语
+    A locution or pronunciation peculiar to the southern US.
+#美国南方特有的发音或者语言风格。
+
+locus: 英[ˈləʊkəs] 美[ˈloʊkəs]
+%n. (某事发生的)确切地点，所在地，发生地；(被视为某物的)中心，核心；[数] 轨迹
+    Thereafter, the military remained the locus of real power.
+#自此以后，军方一直掌握着核心实权。
+
+shilly-shally: 英[ˈʃɪli ʃæli] 美[ˈʃɪli ʃæli]
+$v. 犹豫不决，优柔寡断
+$adv. 犹豫不决地
+$adj. 犹豫不决的，优柔寡断的
+%n. 犹豫不决，优柔寡断
+    Having reached a decision, I did not shilly-shally about the matter.
+#既然已经就此事做出决定，我就不再犹豫不决。
+
+pandemonium: 英[ˌpændəˈməʊniəm] 美[ˌpændəˈmoʊniəm]
+%n. 一片混乱；闹哄哄的场所
+    In the street there was a pandemonium of shouting and screaming.
+#大街上，呼喊声和尖叫声一片喧器。
+
+ticklish: 英[ˈtɪklɪʃ] 美[ˈtɪklɪʃ]
+%adj. 不安定的，不稳定的；难对付的；易倒的；易痒的；忌讳的
+    a ticklish job
+#难做的事
+    handle a ticklish situation
+#处理棘手的局面
+    The bottoms of the feet are ticklish.
+#脚底板怕痒。
+
+feasible: 英[ˈfiːzəb(ə)l] 美[ˈfiːzəb(ə)l]
+%adj. 可行的，办得到的；很可能会发生的
+    the feasible sources of power
+#可用的能源
+    land feasible for cultivation
+#适宜耕种的土地
+
+profane: 英[prəˈfeɪn] 美[prəˈfeɪn]
+$adj. 亵渎的；世俗的；异教的
+%vt. 亵渎；玷污
+    profane the long upheld tradition of the people
+#亵渎民众长期尊崇的传统
+    profane art
+#世俗艺术
+    profane rites
+#异教仪式
+
+effervesce: 英[ˌefəˈves] 美[ˌefərˈves]
+%v. （液体）泡腾，冒泡；兴奋，兴高采烈
+    Beer effervesces.
+#啤酒起了泡沫。
+
+pedagogy: 英[ˈpedəɡɒdʒi] 美[ˈpedəɡɑːdʒi]
+%n. 教育学，教学法
+    language pedagogy
+#语言教学
+
+=======
+bilk: 英[bɪlk] 美[bɪlk]
+$vt. 欺骗，诈骗；使受挫折；赖帐
+%n. 诈骗；骗子；赖帐
+    bilk one's creditor
+#躲避债主
+    They are charged with bilking investors out of millions of dollars.
+#他们被控骗取投资者数百万美元。
+
+ostracism: 英[ˈɒstrəsɪzəm] 美[ˈɑːstrəsɪzəm]
+%n. 排斥；放逐；贝壳流放法
+    the total ostracism of the country from international sports
+#完全排斥在国际比赛之外的国家
+
+libel: 英[ˈlaɪb(ə)l] 美[ˈlaɪb(ə)l]
+$n. 诽谤罪；诋毁；毁坏名誉的东西；控诉书
+$vt. 中伤；控告；对……进行诽谤
+%vi. 进行文字诽谤
+    sue sb. for libel
+#控告某人犯诽谤罪
+    The book is a libel on human nature.
+#这本书是对人性的污蔑。
+
+stingy: 英[ˈstɪndʒi] 美[ˈstɪndʒi]
+%adj. 吝啬的，小气的；小的，少的；有刺的
+    be stingy with one's money
+#吝啬钱财
+    The stingy man won't contribute a cent.
+#那个啬鬼连一分钱也不愿捐助。
+
+statutory: 英[ˈstætʃətri] 美[ˈstætʃətɔːri]
+%adj. 依照法令的，法定的；成文法的，法令的；定期的，规则的
+    statutory provisions
+#法律规定
+    statutory control of wage
+#工资的法定控制
+
+stinginess: 英[ˈstɪndʒinəs] 美[ˈstɪndʒinəs]
+%n. 吝啬
+    the nature of stinginess
+#吝啬的秉性
+
+positiveness: 英[ˈpɒzətɪvnəs] 美[ˈpɑːzətɪvnəs]
+%n. 信心；肯定
+    She said with positiveness that she would come, so I went ahead and saved a place for her.
+#她肯定地说她会来，所以我先去给她占了位子。
+
+inexpiable: 英[ɪnˈekspɪəb(ə)l] 美[ɪnˈekspiəbəl]
+%adj. 不能抵偿的；不能平息的；不能抵赎的
+    an inexpiable sin
+#不能抵赎的罪孽
+    an inexpiable hatred
+#不能平息的心头之恨
+
+winnow: 英[ˈwɪnəʊ] 美[ˈwɪnoʊ]
+$vt. 簸；把……挑出来；精选
+$vi. 分出好坏；扬谷
+%n. 扬谷；扬谷器
+    winnow truth from falsehood
+#辨别真伪
+    winnow out certain inaccuracies
+#删去某些不准确之处
+    The farmers are winnowing the thrashed wheat.
+#农夫们正在把脱粒的小麦簸一簸。
+
+immanent: 英[ˈɪmənənt] 美[ˈɪmənənt]
+%adj. 内在的；固有的
+    both immanent and external factors in social evolution
+#社会演变的内在和外在因素
+
+reprobate: 英[ˈreprəbeɪt] 美[ˈreprəbeɪt]
+$n. 堕落的人，不道德的人；（加尔文教派用语）被上帝摈弃的人，无望受救赎者
+$adj. 堕落的，不道德的；（加尔文教派用语）被上帝摈弃的，无望受救赎的
+%v. 非难；拒绝；斥责
+    a drunken reprobate
+#酗酒无度的人
+    We reprobate his evil behavior.
+#我们谴责他的邪恶行为。
+
+congeal: 英[kənˈdʒiːl] 美[kənˈdʒiːl]
+$vi. 凝结；凝固
+%vt. 使……凝结；使……冻结
+    Some philosophic systems lost their vitality and became totally congealed.
+#有些哲学体系失去了生命力，变得完全僵化了。
+
+oracular: 英[əˈrækjələ(r)] 美[əˈrækjələr]
+%adj. 神谕的；谜似的；玄妙深奥的
+    an oracular guidance for the future
+#对未来的神谕指引
+    oracular remarks
+#隐晦难懂的话
+
+throe: 英[θrəʊ] 美[θroʊ]
+$n. 阵痛；剧痛
+%vi. 使……痛苦
+    throes of childbirth
+#分娩的阵痛
+    the throes of revolution
+#处于革命的动荡时期
+
+insolvency: 英[ɪnˈsɒlvənsi] 美[ɪnˈsɑːlvənsi]
+%n. 破产，无力偿还；倒闭
+    The company simply couldn't sell it's products in sufficient volumes and was driven into insolvency.
+#该公司实在无法销售足够量的产品，被迫破产。
+
+necessitous: 英[nɪˈsesɪtəs] 美[nəˈsesɪtəs]
+%adj. 贫困的，贫穷的；紧急的
+    a necessitous family
+#贫困家庭
+    a most necessitous reason
+#最紧迫的理由
+
+lavender: 英[ˈlævəndə(r)] 美[ˈlævəndər]
+$n. 薰衣草；干薰衣草花（用以熏香衣物等）；淡紫色；薰衣草香油精（=lavender oil）；用于类似植物名称；<非正式>女人气
+$adj. 淡紫色的
+%v. 用薰衣草熏香
+    in the lavender dusk
+#在淡紫色的暮中
+    The path was edged with lavender.
+#小路边长着薰衣草。
+
+prevision: 英[prɪˈvɪʒən] 美[ˌprivɪʒən]
+$n. 预知；先见
+%n. （Prevision）人名；（西）普雷维西翁
+    She knew by prevision what most women learn only by experience.
+#大多数女子只有靠经验才能学到的东西，她靠自己的先见之明就知道了。
+
+rent: 英[rent] 美[rent]
+$n. 租金，租用费；（布等上面的）破洞，裂口
+$vt. 租用，租借；出租，将……租给； 可租用，租金为
+%v. 撕裂，扯碎；（声音）响彻，刺破；<文>使心碎（rend 的过去式和过去分词形式）
+    a rent in a shirt
+#衬衫上的破洞
+    a rent in a political party
+#政党的分裂
+
+cynosure: 英[ˈsaɪnəsjʊə(r)] 美[ˈsaɪnəʃʊr]
+%n. 指针；众人瞩目的焦点
+    The council was a cynosure of the nation's hopes.
+#该委员会是全国人民关注的焦点。
+
+visceral: 英[ˈvɪsərəl] 美[ˈvɪsərəl]
+%adj. 内脏的；出于本能的；发自肺腑的；粗俗的
+    experience visceral hate
+#深恶痛绝
+    a visceral repugnance
+#本能的反感
+
+riotous: 英[ˈraɪətəs] 美[ˈraɪətəs]
+%adj. （人群）骚乱的，暴乱的；狂欢的，纵情欢闹的；非常滑稽有趣的；丰富多彩的，繁茂的
+    riotous students
+#闹事的学生
+    a riotous fancy
+#自由驰骋的想象力
+    a riotous party
+#喧闹的聚会
+    a garden riotous with flowers
+#百花盛开的花园
+
+immure: 英[ɪˈmjʊə(r)] 美[ɪˈmjʊr]
+%v. 把……嵌在墙上；监禁，禁闭
+    immure oneself in one's study
+#自己关在书里(读书)
+    She was immured in an attic.
+#她被监禁在阁楼里。
+
+bricklayer: 英[ˈbrɪkleɪə(r)] 美[ˈbrɪkleɪər]
+%n. 砖匠
+    bricklayers and carpenters
+#砖匠和木匠
+
+subreption: 英[səbˈrepʃən] 美[səbˈrepʃən]
+%n. 歪曲事实；隐匿事实；作虚伪的申辩
+    subreption of flood relief
+#冒领水灾救济金
+
+jape: 英[dʒeɪp] 美[dʒeɪp]
+$n. 嘲弄；玩笑
+$vi. 开玩笑
+%vt. 嘲弄
+    jape at sb.
+#取笑某人
+
+remand: 英[rɪˈmɑːnd] 美[rɪˈmænd]
+$n. 送还，遣回；还押
+%vt. 还押，还押候审；遣回
+    remand sb. to his country 
+#遣送某人回国;
+    be remanded for interrogation
+#还押受审问
+
+neonate: 英[ˈniːəʊneɪt] 美[ˈniːoʊneɪt]
+%n. 婴儿；（不足四周的）新生儿；新出生的哺乳动物
+    The doctor expected the neonate to make complete recovery.
+#医生希望新生儿完全康。
+
+quondam: 英[ˈkwɒndæm] 美[ˈkwɑːndəm]
+%adj. 昔日的，旧时的
+    a quondam friend of mine
+#我昔日的朋友
+
+deracinate: 英[ˌdiːˈræsɪneɪt] 美[ˌdiːˈræsɪneɪt]
+%vt. 灭绝，根除；使孤立，使隔绝
+    The tree was deracinated by the strong wind.
+#那棵树被大风连根拔起。
+
+stickler: 英[ˈstɪklə(r)] 美[ˈstɪklər]
+$n. 坚持细节的人；顽固的人；费解的事物
+%n. （Stickler）人名；（德）施蒂克勒；（英、瑞典）斯蒂克勒
+    a stickler for routine
+#墨守成规的人
+    a stickler for discipline
+#遵守纪律的人
+    The investigation proved to be a stickler.
+#这项调查进行得非常艰难。
+
+potentate: 英[ˈpəʊt(ə)nteɪt] 美[ˈpoʊt(ə)nteɪt]
+%n. 统治者，君主；有权势的人
+    A state of emergency had been in force since the coup which overthrew the potentate.
+#自从推翻君主的政变发生以来，全国处于紧急状态。
+
+transience: 英[ˈtrænziəns] 美[ˈtrænʃəns]
+%n. 稍纵即逝
+    the transience of human life
+#人生的短暂
+    He began to become aware of the transience of human relationships.
+#他开始意识到人际关系的无常。
+
+moldy: 英[ˈməʊldi] 美[ˈmoʊldi]
+%adj. 发霉的；乏味的；陈腐的
+    a moldy cheese
+#发霉的乳酪
+    a moldy meal
+#糟糕的饭菜
+
+whine: 英[waɪn] 美[waɪn]
+$v. 嘀咕，抱怨；发出哀鸣；（机器）嘎嘎响，嗖嗖响
+%n. 嘎吱声，吱吱声；抱怨，嘀咕；哀鸣
+    the whining puppies
+#呜呜叫的小狗
+    The bullets whined over their heads.
+#子弹从他们的头上嗖嗖掠过。
+
+impertinence: 英[ɪmˈpɜːtɪnəns] 美[ɪmˈpɜːrtnəns]
+%n. 鲁莽，无理；不恰当
+    He was angered to see impertinence in the young man.
+#他看见那个年轻人莽撞无礼很恼火。
+
+retaliation: 英[rɪˌtæliˈeɪʃ(ə)n] 美[rɪˌtæliˈeɪʃn]
+%n. 报复，反击
+    threaten retaliation against sb.
+#扬言对某人进行报复
+
+parley: 英[ˈpɑːli] 美[ˈpɑːrli]
+$n. 谈判；会谈
+$vi. 谈判；会谈
+%n. (Parley)人名；(英)帕利
+    hold a parley with the enemy about exchanging prisoners
+#与敌人就交换俘虏进行谈判
+
+simper: 英[ˈsɪmpə(r)] 美[ˈsɪmpər]
+$v. 假笑；假笑着说
+%n. 假笑；忸怩的姿态
+    Her face wears a simper.
+#她脸上老挂着一种不自然的笑容。
+
+feisty: 英[ˈfaɪsti] 美[ˈfaɪsti]
+%adj. 活跃的；好争吵的；烦躁不安的；坚决而据理力争的
+    a feisty old man
+#精神婴铄的老人
+    He often gets a little feisty after a few drinks.
+#他几杯酒下肚后就好跟人斗嘴。
+
+coarsen: 英[ˈkɔːs(ə)n] 美[ˈkɔːrs(ə)n]
+$vt. 使变粗；使变粗俗
+%vi. 变粗糙；变粗俗
+    Working outside in harsh weather coarsened his skin.
+#在户外恶劣天气下的工作使他的皮肤变得粗糙。
+
+irremediable: 英[ˌɪrɪˈmiːdiəb(ə)l] 美[ˌɪrɪˈmiːdiəb(ə)l]
+%adj. 不能挽回的；不能补救的
+    irremediable errors
+#无法补救的错误
+    The merits of this plan outweighed several obvious flaws in it, which were irremediable.
+#这计划的优点抵消了几处无法补救的明显缺陷。
+
+spendthrift: 英[ˈspendθrɪft] 美[ˈspendθrɪft]
+$n. 挥霍无度的人，浪费的人
+%adj. 挥霍无度的；浪费的
+    She accused him of spendthrift inclinations.
+#她指责他生性好挥霍。
+
+lard: 英[lɑːd] 美[lɑːrd]
+$n. 猪油；（非正式）人的多余脂肪
+$v. 嵌（肥肉）在其他肉中；涂抹猪油于……；润色，点缀；盖满
+%n. （Lard）（美）拉德（人名）
+    The book is well larded with anecdotes.
+#书中穿插了不少轶闻趣事。
+
+febrile: 英[ˈfiːbraɪl] 美[ˈfiːbraɪl]
+%adj. 发热的；[医] 热病的；发烧的
+    She sang with febrile intensity.
+#她激情湃地演唱。
+
+hallucination: 英[həˌluːsɪˈneɪʃ(ə)n] 美[həˌluːsɪˈneɪʃ(ə)n]
+%n. 幻觉，幻想；错觉
+    The patient complained of pains, dizziness and hallucination in the head.
+#病人诉说头痛、头晕以及产生幻觉。
+
+lout: 英[laʊt] 美[laʊt]
+$n. 笨拙的人
+$vt. 愚弄
+%vi. 鞠躬；屈服
+    Teenage louts roam the streets at night.
+#粗野少年晚上在街上闲荡。
+
+flagellate: 英[ˈflædʒəleɪt] 美[ˈflædʒəleɪt]
+$v. （因宗教戒条或性满足）鞭打
+$adj. 有鞭毛的；鞭状的
+%n. 鞭毛虫
+    She flagellated the levity of his conduct.
+#她痛斥他的举止轻率。
+
+garrulity: 英[ɡæˈruːlɪti] 美[ɡəˈruːlɪti]
+%n. 饶舌；多言；多嘴
+    He was tired of the garrulity of the fat woman.
+#他厌烦了那个胖女人的饶舌。
+
+lesion: 英[ˈliːʒn] 美[ˈliːʒ(ə)n]
+%n. 损害；身体上的伤害；机能障碍
+    There were photographs showing lesions to backs and thighs.
+#照片显示出对背部和大腿造成的伤害。
+
+dedication: 英[ˌdedɪˈkeɪʃ(ə)n] 美[ˌdedɪˈkeɪʃ(ə)n]
+%n. 献身，奉献；献辞；落成典礼
+    a sense of dedication to the defence of one's country
+#献身于国防事业的观念
+
+locution: 英[ləˈkjuːʃ(ə)n] 美[ləˈkjuːʃ(ə)n]
+%n. 说话风格；惯用语
+    A locution or pronunciation peculiar to the southern US.
+#美国南方特有的发音或者语言风格。
+
+locus: 英[ˈləʊkəs] 美[ˈloʊkəs]
+%n. (某事发生的)确切地点，所在地，发生地；(被视为某物的)中心，核心；[数] 轨迹
+    Thereafter, the military remained the locus of real power.
+#自此以后，军方一直掌握着核心实权。
+
+shilly-shally: 英[ˈʃɪli ʃæli] 美[ˈʃɪli ʃæli]
+$v. 犹豫不决，优柔寡断
+$adv. 犹豫不决地
+$adj. 犹豫不决的，优柔寡断的
+%n. 犹豫不决，优柔寡断
+    Having reached a decision, I did not shilly-shally about the matter.
+#既然已经就此事做出决定，我就不再犹豫不决。
+
+pandemonium: 英[ˌpændəˈməʊniəm] 美[ˌpændəˈmoʊniəm]
+%n. 一片混乱；闹哄哄的场所
+    In the street there was a pandemonium of shouting and screaming.
+#大街上，呼喊声和尖叫声一片喧器。
+
+ticklish: 英[ˈtɪklɪʃ] 美[ˈtɪklɪʃ]
+%adj. 不安定的，不稳定的；难对付的；易倒的；易痒的；忌讳的
+    a ticklish job
+#难做的事
+    handle a ticklish situation
+#处理棘手的局面
+    The bottoms of the feet are ticklish.
+#脚底板怕痒。
+
+feasible: 英[ˈfiːzəb(ə)l] 美[ˈfiːzəb(ə)l]
+%adj. 可行的，办得到的；很可能会发生的
+    the feasible sources of power
+#可用的能源
+    land feasible for cultivation
+#适宜耕种的土地
+
+profane: 英[prəˈfeɪn] 美[prəˈfeɪn]
+$adj. 亵渎的；世俗的；异教的
+%vt. 亵渎；玷污
+    profane the long upheld tradition of the people
+#亵渎民众长期尊崇的传统
+    profane art
+#世俗艺术
+    profane rites
+#异教仪式
+
+effervesce: 英[ˌefəˈves] 美[ˌefərˈves]
+%v. （液体）泡腾，冒泡；兴奋，兴高采烈
+    Beer effervesces.
+#啤酒起了泡沫。
+
+pedagogy: 英[ˈpedəɡɒdʒi] 美[ˈpedəɡɑːdʒi]
+%n. 教育学，教学法
+    language pedagogy
+#语言教学
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

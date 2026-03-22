@@ -1,0 +1,483 @@
+<<<<<<< HEAD
+halcyon:
+    He would look back on those halcyon days at college when he hadn't a care in the world.
+#他会回首在大学时的平静日子，那时他从不为世事操心。
+
+occult:
+    She claims to have occult powers, given to her by some mysterious spirit.
+#她声称自己具有某一神秘精灵赋予的魔力。
+
+rile:
+    It's not in your best interest to get him riled.
+#激怒他对你是没好处的。
+
+superannuated:
+    No one supports these superannuated policies.
+#没人支持这些过时的政策。
+
+gingerly:
+    He handled a china vase gingerly.
+#他小心翼翼地摆弄着瓷花瓶。
+
+anesthetic:
+    She seemed unmoved and quite anesthetic to his presence.
+#她显出无动于衷的样子，对他的在场持漠然态度。
+
+pique:
+    She piqued him by refusing his invitation.
+#她拒绝了他的邀请，这使他很生气。
+
+plod:
+    She saw an old lady plodding wearily along the road.
+#她看见一位老太太疲惫而缓慢地在路上走着。
+
+anvil:
+    The anvil onto which the staples are pressed was not assemble correctly.
+#订书机上的铁砧安装错位。
+
+foment:
+    But does it contribute to robust public discussion or, instead, foment hatred and promote conflict?
+#但是，这样做是有助于推动活跃的公共讨论，还是会煽动仇恨和助长冲突？
+
+tyro:
+    I am a veritable tyro at the game.
+#我玩这个是新手。
+
+carrion:
+    They range widely in search of carrion.
+#它们在广阔的区域内搜寻腐肉。
+
+placard:
+    About 1,000 people marched past carrying placards denouncing armed intervention.
+#约有1 000人打着标语牌游行，反对武力干预。
+
+famish:
+    The children were famished for food.
+#孩子们因缺少食物而挨饿。
+
+roe:
+    She fed the cat with roes.
+#她用鱼卵喂猫。
+
+gregarious:
+    She is such a gregarious person.
+#她是个喜欢交际的人。
+
+dabble:
+    He dabbled in painting but soon gave it up.
+#他过一点绘画，但很快就放弃了。
+
+inconstancy:
+    On the other hand, inconstancy often results in failure.
+#从另一方面说，无恒就往往会造成失败。
+
+grasping:
+    She was portrayed in the press as a grasping sort of character who was only interested in fame.
+#她被新闻界描绘成一个贪梦的人物，只对名望感兴趣。
+
+adduce:
+    More data may be adduced to reinforce the point.
+#可以引证更多的资料来进一步证实这个论点。
+
+affliction:
+    He does not consider his deafness an affliction.
+#他从不把耳聋看作一种痛苦。
+
+excoriate:
+    The president excoriated the Western press for their biased views.
+#总统痛斥西方新闻界带有偏见的观点。
+
+smite:
+    The sound of an explosion smote our ears.
+#一声爆炸震耳欲聋。
+
+stubby:
+    He nodded and puffed on a stubby pipe as he listened.
+#他边听边点头，还吸着一支粗短的烟斗。
+
+sock:
+    Most of the country was socked by harsh weather.
+#全国大部分地区遭到严寒天气的袭击。
+
+rebuttal:
+    The country's statement drew a prompt rebuttal from one of its neighboring nations.
+#该的声明立即遭到一个邻国的驳斥。
+
+divagate:
+    Natural science divagates more and more from metaphysics.
+#自然科学与形而上学越来越分道扬镳了。
+
+fossilize:
+    Unfortunately, an organization structure can get fossilized over time and develop into a highly bureaucratic institution.
+#不幸的是一个机构的结构，会随着时间推移而僵化，最后滋生出官僚主义。
+
+materialize:
+    He drove through the woods and suddenly a brightly lighted hotel materialized.
+#他驱车穿过树林，眼前突然出现了一家灯火通明的旅馆。
+
+waspish:
+    She had a waspish tongue which could hurt.
+#她言辞刻毒，容易伤人。
+
+snooze:
+    The dog snoozed under the tree.
+#狗在树下打。
+
+felicitate:
+    He felicitated himself of having found a good job.
+#他庆幸自己找了一份好工作。
+
+well-groomed:
+    The days of the well-groomed metrosexual man might soon be over as the "lumber sexual" trend takes precedence.
+#衣着整洁的都市美男时代可能不久就要结束了，因为“木匠美男”们正在成为新宠。
+
+obnoxious:
+    The very thought of her was obnoxious to him.
+#他一想到她就厌恶。
+
+prefigure:
+    She was not what I had prefigured her.
+#她并不像我原先想象的那样。
+
+palpitate:
+    The girl palpitated in dread.
+#那女孩吓得直哆嗉。
+
+convergent:
+    The convergent speed of this search method is very fast. 
+#这种搜寻方法的收敛速度较快。
+
+stipulation:
+    The only stipulation is that the candidate must be over the age of 35.
+#唯一的规定是候选人必须超过35岁。
+
+nostrum:
+    nostrums claiming to be magic potions
+#据称是神奇药剂的秘方
+
+governance:
+    He was invested with governance of the kingdom.
+#他被授予统治王国之权。
+
+cower:
+    They cowered in the hut, listening in fear.
+#他们蜷缩在茅屋里，战战兢兢地听着。
+
+impalpable:
+    an impalpable beauty of style
+#难以领略的风格美
+
+bloated:
+    He did not leave the table until feeling bloated.
+#他直到肚子胀鼓鼓的才离开餐桌。
+
+pretension:
+    He despised the pretensions, prejudices and bad habits of the man.
+#他鄙视那人的虚荣、偏见和恶习。
+
+vibrancy:
+    the tremendous vibrancy of the young people
+#年轻人的朝气蓬勃
+
+piebald:
+    piebald ponies
+#杂色小马
+
+accountability:
+    There were furious demands for greater police accountability.
+#公众强烈要求警方做出更多的解释。
+
+swank:
+    She swanked about in her new fur coat.
+#她穿着新裘皮大衣到处炫耀。
+
+scission:
+    the scission of the party
+#政党的分裂
+
+obstreperous:
+    The riot police were there in case they got obstreperous.
+#防暴警察在那里以防他们闹事。
+
+whit:
+    That doesn't worry him a whit.
+#那事丝毫不使他担心。
+
+proffer:
+    She rose and proffered a silver box full of sweets.
+#她起身递上一个装满糖果的银色盒子。
+
+squelch:
+    He squelched along the water's edge.
+#他嘎吱嘎吱地沿着水边走。
+
+bowdlerize:
+    The version of the play that I saw had been dreadfully bowdlerized.
+#我看到的剧本版本已被删改得面目全非。
+
+raspy:
+    a raspy temper
+#火暴性子
+
+yen:
+    a yen to see the world
+#见见世面的渴望
+
+turncoat:
+    label sb. a turncoat
+#称某人为叛徒
+
+exceptionable:
+    a highly exceptionable piece of writing
+#一篇可能引起争议的文章
+
+immemorial:
+    an immemorial elm
+#古榆树
+
+deductive:
+    She didn't seem at all impressed by his deductive powers.
+#她似乎根本不为他的推论能力所动。
+
+=======
+halcyon:
+    He would look back on those halcyon days at college when he hadn't a care in the world.
+#他会回首在大学时的平静日子，那时他从不为世事操心。
+
+occult:
+    She claims to have occult powers, given to her by some mysterious spirit.
+#她声称自己具有某一神秘精灵赋予的魔力。
+
+rile:
+    It's not in your best interest to get him riled.
+#激怒他对你是没好处的。
+
+superannuated:
+    No one supports these superannuated policies.
+#没人支持这些过时的政策。
+
+gingerly:
+    He handled a china vase gingerly.
+#他小心翼翼地摆弄着瓷花瓶。
+
+anesthetic:
+    She seemed unmoved and quite anesthetic to his presence.
+#她显出无动于衷的样子，对他的在场持漠然态度。
+
+pique:
+    She piqued him by refusing his invitation.
+#她拒绝了他的邀请，这使他很生气。
+
+plod:
+    She saw an old lady plodding wearily along the road.
+#她看见一位老太太疲惫而缓慢地在路上走着。
+
+anvil:
+    The anvil onto which the staples are pressed was not assemble correctly.
+#订书机上的铁砧安装错位。
+
+foment:
+    But does it contribute to robust public discussion or, instead, foment hatred and promote conflict?
+#但是，这样做是有助于推动活跃的公共讨论，还是会煽动仇恨和助长冲突？
+
+tyro:
+    I am a veritable tyro at the game.
+#我玩这个是新手。
+
+carrion:
+    They range widely in search of carrion.
+#它们在广阔的区域内搜寻腐肉。
+
+placard:
+    About 1,000 people marched past carrying placards denouncing armed intervention.
+#约有1 000人打着标语牌游行，反对武力干预。
+
+famish:
+    The children were famished for food.
+#孩子们因缺少食物而挨饿。
+
+roe:
+    She fed the cat with roes.
+#她用鱼卵喂猫。
+
+gregarious:
+    She is such a gregarious person.
+#她是个喜欢交际的人。
+
+dabble:
+    He dabbled in painting but soon gave it up.
+#他过一点绘画，但很快就放弃了。
+
+inconstancy:
+    On the other hand, inconstancy often results in failure.
+#从另一方面说，无恒就往往会造成失败。
+
+grasping:
+    She was portrayed in the press as a grasping sort of character who was only interested in fame.
+#她被新闻界描绘成一个贪梦的人物，只对名望感兴趣。
+
+adduce:
+    More data may be adduced to reinforce the point.
+#可以引证更多的资料来进一步证实这个论点。
+
+affliction:
+    He does not consider his deafness an affliction.
+#他从不把耳聋看作一种痛苦。
+
+excoriate:
+    The president excoriated the Western press for their biased views.
+#总统痛斥西方新闻界带有偏见的观点。
+
+smite:
+    The sound of an explosion smote our ears.
+#一声爆炸震耳欲聋。
+
+stubby:
+    He nodded and puffed on a stubby pipe as he listened.
+#他边听边点头，还吸着一支粗短的烟斗。
+
+sock:
+    Most of the country was socked by harsh weather.
+#全国大部分地区遭到严寒天气的袭击。
+
+rebuttal:
+    The country's statement drew a prompt rebuttal from one of its neighboring nations.
+#该的声明立即遭到一个邻国的驳斥。
+
+divagate:
+    Natural science divagates more and more from metaphysics.
+#自然科学与形而上学越来越分道扬镳了。
+
+fossilize:
+    Unfortunately, an organization structure can get fossilized over time and develop into a highly bureaucratic institution.
+#不幸的是一个机构的结构，会随着时间推移而僵化，最后滋生出官僚主义。
+
+materialize:
+    He drove through the woods and suddenly a brightly lighted hotel materialized.
+#他驱车穿过树林，眼前突然出现了一家灯火通明的旅馆。
+
+waspish:
+    She had a waspish tongue which could hurt.
+#她言辞刻毒，容易伤人。
+
+snooze:
+    The dog snoozed under the tree.
+#狗在树下打。
+
+felicitate:
+    He felicitated himself of having found a good job.
+#他庆幸自己找了一份好工作。
+
+well-groomed:
+    The days of the well-groomed metrosexual man might soon be over as the "lumber sexual" trend takes precedence.
+#衣着整洁的都市美男时代可能不久就要结束了，因为“木匠美男”们正在成为新宠。
+
+obnoxious:
+    The very thought of her was obnoxious to him.
+#他一想到她就厌恶。
+
+prefigure:
+    She was not what I had prefigured her.
+#她并不像我原先想象的那样。
+
+palpitate:
+    The girl palpitated in dread.
+#那女孩吓得直哆嗉。
+
+convergent:
+    The convergent speed of this search method is very fast. 
+#这种搜寻方法的收敛速度较快。
+
+stipulation:
+    The only stipulation is that the candidate must be over the age of 35.
+#唯一的规定是候选人必须超过35岁。
+
+nostrum:
+    nostrums claiming to be magic potions
+#据称是神奇药剂的秘方
+
+governance:
+    He was invested with governance of the kingdom.
+#他被授予统治王国之权。
+
+cower:
+    They cowered in the hut, listening in fear.
+#他们蜷缩在茅屋里，战战兢兢地听着。
+
+impalpable:
+    an impalpable beauty of style
+#难以领略的风格美
+
+bloated:
+    He did not leave the table until feeling bloated.
+#他直到肚子胀鼓鼓的才离开餐桌。
+
+pretension:
+    He despised the pretensions, prejudices and bad habits of the man.
+#他鄙视那人的虚荣、偏见和恶习。
+
+vibrancy:
+    the tremendous vibrancy of the young people
+#年轻人的朝气蓬勃
+
+piebald:
+    piebald ponies
+#杂色小马
+
+accountability:
+    There were furious demands for greater police accountability.
+#公众强烈要求警方做出更多的解释。
+
+swank:
+    She swanked about in her new fur coat.
+#她穿着新裘皮大衣到处炫耀。
+
+scission:
+    the scission of the party
+#政党的分裂
+
+obstreperous:
+    The riot police were there in case they got obstreperous.
+#防暴警察在那里以防他们闹事。
+
+whit:
+    That doesn't worry him a whit.
+#那事丝毫不使他担心。
+
+proffer:
+    She rose and proffered a silver box full of sweets.
+#她起身递上一个装满糖果的银色盒子。
+
+squelch:
+    He squelched along the water's edge.
+#他嘎吱嘎吱地沿着水边走。
+
+bowdlerize:
+    The version of the play that I saw had been dreadfully bowdlerized.
+#我看到的剧本版本已被删改得面目全非。
+
+raspy:
+    a raspy temper
+#火暴性子
+
+yen:
+    a yen to see the world
+#见见世面的渴望
+
+turncoat:
+    label sb. a turncoat
+#称某人为叛徒
+
+exceptionable:
+    a highly exceptionable piece of writing
+#一篇可能引起争议的文章
+
+immemorial:
+    an immemorial elm
+#古榆树
+
+deductive:
+    She didn't seem at all impressed by his deductive powers.
+#她似乎根本不为他的推论能力所动。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,663 @@
+<<<<<<< HEAD
+extinguish: 英[ɪkˈstɪŋɡwɪʃ] 美[ɪkˈstɪŋɡwɪʃ]
+%v. 熄灭；消灭，使破灭；<法律>取消（权利，义务），使无效；偿清；压制
+    It took the firemen nearly five hours to extinguish the big fire.
+#扑灭那场大火花了消防队员近五个小时。
+
+merit: 英[ˈmerɪt] 美[ˈmerɪt]
+$n. 优秀品质，价值；优点，长处；<英>（成绩等级）良好；事实真相，是非曲直；善行，善事
+%v. 值得，应受；应受赏（或罚）
+    Everybody has his merits and demerits.
+#人各有优缺点。
+
+gadget: 英[ˈɡædʒɪt] 美[ˈɡædʒɪt]
+%n. 小器具，小玩意儿
+    She's mad about gadgets, and her kitchen is just full of them.
+#她对小装置着了迷，整个厨房里都是这类东西。
+
+homage: 英[ˈhɒmɪdʒ] 美[ˈhɑːmɪdʒ]
+%n. 敬意，尊敬；<正式>宣誓效忠
+    On this occasion we pay homage to him for his achievement.
+#在此我们谨向他的成就表示敬意。
+
+complacent: 英[kəmˈpleɪs(ə)nt] 美[kəmˈpleɪs(ə)nt]
+%adj. 自满的，自鸣得意的
+    After so many wins they were complacent and thought they'd never lose.
+#赢了许多场比赛后，他们得意忘形，以为永远不会输。
+
+distinct: 英[dɪˈstɪŋkt] 美[dɪˈstɪŋkt]
+%adj. 不同的，有区别的；清楚的，明显的；确切的
+    be distinct from
+#与……截然不同
+    Beer has a very distinctive smell; it's quite distinct from the smell of liquor.
+#啤酒有独特的气味，它和白酒的气味完全不同。
+
+prolong: 英[prəˈlɒŋ] 美[prəˈlɔːŋ]
+%v. 拉长，拖长（感觉或活动）；<罕>延长
+    One speaker dwelled on some trifles and prolonged the meeting by half an hour.
+#有个发言人在鸡毛蒜皮的小事上讲个没完，把会议拖延了半个小时。
+
+preclude: 英[prɪˈkluːd] 美[prɪˈkluːd]
+%v. <正式>阻止，妨碍（preclude sb. from）
+    His contract precludes him from discussing his work with anyone outside the company.
+#他的合同使他不能与公司外的任何人谈工作。
+
+stagnant: 英[ˈstæɡnənt] 美[ˈstæɡnənt]
+%adj. （经济、社会等）停滞不前的，不景气的；不流动的，污浊的
+    While the economies of industrialized countries are stagnant, the economies of many developing countries are growing rapidly.
+#当工业化国家的经济停滞时，许多发展中国家的经济却快速增长。
+
+effective: 英[ɪˈfektɪv] 美[ɪˈfektɪv]
+$adj. 产生预期结果的，有效的；实际的，事实上的；（法律、规则等）生效的，起作用的；给人深刻印象的
+%n. 实际可作战的士兵
+    Although there is a parliament, the army is in effective control of the country.
+#虽然有国会存在，但军队实际控制着这个国家。
+
+withhold: 英[wɪðˈhəʊld] 美[wɪðˈhoʊld]
+%v. 保留，隐瞒，扣留；克制，抑制（情感或反应等）
+    The dam was too weak to withhold the pressure of the rising water.
+#堤坝不够牢固，阻挡不了水位上涨的压力。
+
+repeal: 英[rɪˈpiːl] 美[rɪˈpiːl]
+$vt. 废除，废止，撤销（法律、议会法案）；放弃；否定
+%n. 废除，撤销
+    The laws that discriminate against women have been repealed.
+#歧视妇女的法律已经被废除了。
+
+relegate: 英[ˈrelɪɡeɪt] 美[ˈrelɪɡeɪt]
+%v. 贬低，使降级；<英>把（球队）降级；<正式>托付，交付
+    He resigned from the company when he was relegated to a role of financial consultant.
+#他被降位为财政顾问后从公司辞职了。
+
+sane: 英[seɪn] 美[seɪn]
+%adj. 心智健全的，头脑清醒的；明智的
+    He seemed a sane, well-balanced sort of person.
+#他看来是那种明智稳健的人。
+
+stagger: 英[ˈstæɡə(r)] 美[ˈstæɡər]
+$v. 摇摇晃晃地走，蹒跚；使震惊，使大吃一惊；使交错，使错开
+$n. 踉跄，蹒跚；使（物体，物体的组成部分）交错排列；赛跑选手起跑时的梯形排列
+%adj. 交错的，错开的
+    He staggered forward with the injured leg.
+#他拖着伤腿瞒跚着往前走。
+
+charter: 英[ˈtʃɑːtə(r)] 美[ˈtʃɑːrtər]
+$n. 宪章，章程；特许状，许可证；不完善，漏洞；包租，租赁
+$v. 包租，租用；特许成立，给予……特权
+%adj. （临时）租用的
+    charter flights
+#包机
+    a charter of human rights
+#人权宪章
+    They chartered a ship and sailed toward the island.
+#他们租了一条船向那个岛驶去。
+
+original: 英[əˈrɪdʒən(ə)l] 美[əˈrɪdʒən(ə)l]
+$adj. 起初的，原先的；原作的，真迹的；新创作的，未发表的；独创的，新颖的；有独到见解的，有独创性的
+%n. （艺术作品或文件的）原件，原稿；（文学作品中人物或地点的）原型；原版书，原版唱片；（根据服装展特制图样定做的）真品原板服装；<非正式>（举止、服装等）怪异滑稽的人，独特有趣的人
+    in the original
+#用原著的语言
+    These gardens have recently been restored to their original glory.
+#这些花园最近恢复了原先的华丽。
+
+pine: 英[paɪn] 美[paɪn]
+$n. 松树；松木；……松（用于其他科针叶类树木名称中）；……松（用于某方面类似松树而与松树无关的植物名称中）；有松针香味；<非正式>凤梨
+%v. （因死亡、离别） 难过，悲伤；苦苦思念；<古>为……悲哀，哀悼；渴望，苦苦盼望（尤指不太可能拥有的东西）
+    It's at this time of year that I start to pine for the snow-topped mountains.
+#每年这个时候我就开始向往山顶上覆盖着白雪的高山。
+
+constraint: 英[kənˈstreɪnt] 美[kənˈstreɪnt]
+%n. 限制，束缚；克制，拘束
+    She tried to appear friendly and natural but her constraint was obvious.
+#她尽力显得友好自然，但很明显是在克制自己。
+
+alternate: 英[ɔːlˈtɜːnət] 美[ˈɔːltərnət]
+$v. （使）交替，（使）轮流
+$adj. 轮流的，交替的；间隔的；供选择的，备用的；（叶，芽）互生的；另类的
+%n. 替补者，候补者
+    The two professors will alternate in giving the class lectures.
+#这两位教授将轮流给这个班上课。
+
+inborn: 英[ˌɪnˈbɔːn] 美[ˌɪnˈbɔːrn]
+%adj. 天生的
+    She has an apparently inborn talent for physics.
+#显然，她有天生的物理才能。
+
+inhabit: 英[ɪnˈhæbɪt] 美[ɪnˈhæbɪt]
+%v. 居住于，栖居在；存在于，占据
+    Those remote islands are inhabited by birds.
+#在那些遥远的岛屿上，有鸟类栖息。
+
+feminist: 英[ˈfemənɪst] 美[ˈfemənɪst]
+$n. 女权主义者，女权运动者
+%adj. 女权主义的，支持女权运动的
+    Her beliefs are strongly feminist.
+#她有强烈的主张男女平等的信仰。
+
+isolate: 英[ˈaɪsəleɪt] 美[ˈaɪsəleɪt]
+$v. 孤立，分离；隔离；单独考虑，区别看待；使（某物质、细胞等）分离
+$n. 被隔离的人（或物）；（用于研究的）分离菌，隔离群
+%adj. 孤独的，孤立的
+    It is harmful to isolate new-born babies from their mothers.
+#把新生婴儿同其母亲隔开是不利的。
+
+cater: 英[ˈkeɪtə(r)] 美[ˈkeɪtər]
+%v. 提供餐饮服务，承办酒席；满足，迎合
+    cater for all tastes
+#迎合各种口味
+    TV programs must cater for/to many different tastes.
+#电视节目必须满足许多不同爱好。
+
+confrontation: 英[ˌkɒnfrʌnˈteɪʃn] 美[ˌkɑːnfrənˈteɪʃn]
+%n. 对抗，冲突；战斗，战役
+    He had a series of confrontations with his parents over homework.
+#他和他父母就家庭作业一事发生了一系列冲突。
+
+code: 英[kəʊd] 美[koʊd]
+$n. 密码，暗码；（邮政）编码，（电话）区号；（计算机）编码；道德准则，行为规范；法典，法规
+%v. 把……编码（或编号）；把……译成密码；（给计算机）编写指令
+    The message was written in code.
+#这条消息是用密码写的。
+
+potent: 英[ˈpəʊt(ə)nt] 美[ˈpoʊt(ə)nt]
+$adj. 强大的，有力的；（毒品、药品或化学品）药效强的，强效的；（男子）有性功能的；由T字形构成的，（尤指十字架）有T形端的；（纹章装饰）有交错T形拼花毛皮的；有说服力的
+%n. 有交错T形拼花的毛皮
+    a potent drug
+#效力很强的药
+    In her speech she presents a potent argument for increasing taxes.
+#在演讲中，她就增税提出了有利的论证。
+
+incense: 英[ˈɪnsens] 美[ˈɪnsens]
+$n. 香（树脂、香料等燃烧可得香气的物质）；焚香时的烟，香气；奉承
+%v. 熏香；激怒
+    She was so incensed by what he was saying that she slapped his face.
+#她被他的话激怒了，扇了他一个耳光。
+
+expertise: 英[ˌekspɜːˈtiːz] 美[ˌekspɜːrˈtiːz]
+%n. 专长，专门技能（知识）；专家的意见
+    To survive in the intensely competitive society, we must acquire technical expertise.
+#要在竞争激烈的社会上立足，我们必须有技术专长。
+
+opponent: 英[əˈpəʊnənt] 美[əˈpoʊnənt]
+$n. 对手，竞争者；反对者，阻止者
+%adj. 对立的，敌对的
+    He is the leading opponent of the budget cuts.
+#他是带头反对削减预算的人。
+
+agitate: 英[ˈædʒɪteɪt] 美[ˈædʒɪteɪt]
+%v. 煽动，鼓动，抗议；使焦虑；搅动，摇动（液体等）
+    He became quite agitated when he was asked about his criminal past.
+#当问到他过去的犯罪历史时，他变得十分焦虑不安。
+
+solvent: 英[ˈsɒlvənt] 美[ˈsɑːlvənt]
+$adj. （尤指公司）有偿付能力的，付得起的；有溶解力的
+%n. 溶剂；（对处境的某种态度）起削弱（或瓦解）作用的事物；解决方法
+    When I get my pay check I'll be solvent again.
+#拿到工资支票时，我又有偿付能力了。
+
+static: 英[ˈstætɪk] 美[ˈstætɪk]
+$adj. 静止的，停滞的；静电的；静力的；（计算机）（储存器，储存）静态的；（计算机）（程序，变量）静态的；（物理）（物体）静止的，不动的
+%n. 静电；（广播、电视里的）静电噪声，静电干扰；<美，非正式>不停的抱怨，指责；静力学
+    Production has remained virtually static these years.
+#这几年的产量实际上保持不增不减。
+
+reversible: 英[rɪˈvɜːsəb(ə)l] 美[rɪˈvɜːrsəb(ə)l]
+%adj. 可逆的，可恢复原状的，可医治的；可翻转 ，可两面穿的，正反两用的
+    It is a good idea to buy a reversible raincoat because it can be worn with either side out.
+#买一件可正反穿的雨衣是个好主意，因为它的两面都可以穿外面。
+
+tension: 英[ˈtenʃ(ə)n] 美[ˈtenʃ(ə)n]
+$n. 紧张，焦虑；紧张关系，紧张局势；矛盾，冲突；（电线、绳子、肌肉等的）拉紧，绷紧；拉力，张力；（电影、书籍中的）紧张情绪，恐怖气氛；（编织的）针织密度；电压
+%v. 使拉紧，使紧张
+    The latest terrorist activity has created a lot of tension.
+#恐怖分子最近的活动造成了许多紧张局势。
+
+flourish: 英[ˈflʌrɪʃ] 美[ˈflɜːrɪʃ]
+$v. 繁荣，昌盛；挥动；（植物或动物）长势好，茁壮成长
+%n. 夸张动作；（讲话或文章的）华丽辞藻，修饰；花彩号声；（手写花体字的）花饰
+    Wild plants flourish on the banks of the lake.
+#野生植物在湖岸上生长茂盛。
+
+momentous: 英[məˈmentəs] 美[moʊˈmentəs]
+%adj. 重大的，重要的
+    Whether or not to move overseas was a momentous decision for the family.
+#是否移居海外对这个家庭来说是个重要的决定。
+
+oust: 英[aʊst] 美[aʊst]
+%vt. 罢免，撤职；淘汰；驱逐；取代；撤销（法院对某事的司法权）；<法律>剥夺
+    He was ousted as chairman after 20 years.
+#做了20年的主席后，他被撤职了。
+
+constant: 英[ˈkɒnstənt] 美[ˈkɑːnstənt]
+$adj. 持续不断的，经常发生的；恒定的，不变的；忠诚的，忠实的
+%n. 常数，恒量；不变的事物
+    We kept a fairly constant speed all through the journey.
+#旅途中我们始终保持着相当平稳的速度。
+
+dissolve: 英[dɪˈzɒlv] 美[dɪˈzɑːlv]
+$v. 解散，解除；消失；（以化学手段）除去，分散；（使）溶解
+%n. （电影中）（画面的）叠化，淡入淡出
+    The distant hills dissolved in mist.
+#远处的山在雾中消失了。
+
+renowned: 英[rɪˈnaʊnd] 美[rɪˈnaʊnd]
+$adj. 有名望的，著名的
+%v. 使有声誉（renown 的过去式和过去分词形式）
+    The region is renowned for its outstanding natural beauty.
+#这一地区因其美妙的自然景观而著称。
+
+inspire: 英[ɪnˈspaɪə(r)] 美[ɪnˈspaɪər]
+%v. 激励，鼓舞；赋予灵感，激发（想法）；使产生（感觉或情感）；引起，导致；吸气，吸入
+    His best music was inspired by the memory of his mother.
+#他最优秀的音乐作品是受到了对母亲回忆的启发。
+
+negligible: 英[ˈneɡlɪdʒəb(ə)l] 美[ˈneɡlɪdʒəb(ə)l]
+%adj. 微不足道的，不值一提的
+    This error is so small that it is negligible.
+#误差如此小，是可以忽略不计的。
+
+absurd: 英[əbˈsɜːd] 美[əbˈsɜːrd]
+$adj. 愚蠢的，荒谬的；滑稽可笑的；荒诞派的
+%n. 荒诞，荒诞的事物 （the absurd）
+    It's absurd not to wear a coat in such cold weather.
+#这么冷的天气不穿一件外套真是荒唐。
+
+persuasive: 英[pəˈsweɪsɪv] 美[pərˈsweɪsɪv]
+%adj. 有说服力的，能使人信服的
+    She gave a very persuasive speech about the need for more funding for the project.
+#她就项目需要增加资金做了一场极有说服力的演说。
+
+smear: 英[smɪə(r)] 美[smɪr]
+$v. 涂抹，涂上；诽谤，诋毁；弄脏，弄污；蹭花，变模糊
+%n. 污点，污渍；诽谤，诋毁；子宫颈抹片检查；（显微镜）涂片；（登山）不稳立足处
+    Several words were smeared and I couldn't read them.
+#有几个字被弄脏了，我无法辨认出来。
+
+marine: 英[məˈriːn] 美[məˈriːn]
+$adj. 海洋的，海产的；海运的，海事的
+%n. 水兵，海军陆战队士兵；（一个国家的）船舶
+    Marines were the first to land on the beach.
+#海军陆战队士兵首批登上海滩。
+
+illuminate: 英[ɪˈluːmɪneɪt] 美[ɪˈluːmɪneɪt]
+%v. 照射，照亮；阐明，解释；使容光焕发；用彩灯装饰；用金、银等彩色图案装饰（书稿的书页或首词第一个字母）
+    The whole city is illuminated on such occasions.
+#每逢这样的日子全城都灯火通明。
+
+bulge: 英[bʌldʒ] 美[bʌldʒ]
+$v. 鼓起，凸出；装满，充满
+%n. 鼓起，凸出；骤增，暴涨；（身体的）肥胖部位；（尤用于军事场合）突出部；肿块，疙瘩；（尤指暂时的或幅度不大的）增大，增多
+    His eyes bulged in surprise when he saw the house.
+#看见那幢房子时，他惊得眼睛都瞪出来了。
+
+fume: 英[fjuːm] 美[fjuːm]
+$v. 发怒，生气；冒气（或烟、汽）；熏（尤指木材）
+%n. 刺鼻（或有害）的气，烟
+    I saw her a week after they'd had the argument and she was still fuming.
+#我在他们吵架一个星期后看到了她，她还是怒气冲冲。
+
+prune: 英[pruːn] 美[pruːn]
+$v. 修剪，修整；删除，削减
+%n. 李子干，西梅干；<非正式>讨厌的人，乏味的人；（树枝、灌木丛等的）修剪，修整
+    To pay back our loan we'd better prune our budget for the next six months.
+#为了还贷款，我们最好把下半年的预算开支削减一些。
+
+finite: 英[ˈfaɪnaɪt] 美[ˈfaɪnaɪt]
+$adj. 有限的，有限制的；限定的
+%n. 有限之物
+    We must accept finite despair, but we must never lose infinite hope.
+#我们必须接受有限的绝望，但是我们永远不能失去无限的希望。
+
+associate: 英[əˈsəʊsieɪt] 美[əˈsoʊsieɪt]
+$v. 联想，联系；支持，同意；交往，（尤指）混在一起
+$n. 同事，伙伴；副学士，准学士；副职，副手；准会员；联想
+%adj. 副的，准的，非正式的；联合的，有关连的
+    We associate autumn with fruit and harvest.
+#我们想到秋天就想到果实与丰收。
+
+strand: 英[strænd] 美[strænd]
+$n. （绳、线、毛发等的）股，缕；串；（故事、观点、计划等的）部分；（海洋、湖或河的）岸，滨
+%v. 使滞留，使困在（某处）；使（船，船员，海洋生物）搁浅；使（跑垒员）残留垒上
+    A ship was stranded on the rock.
+#一条船在礁石上搁浅了。
+
+blur: 英[blɜː(r)] 美[blɜːr]
+$n. 模糊不清的事物；模糊的记忆，记不清的事情；污迹
+%v. （使）看不清楚，记不清；（使）难以区分；玷污
+    a blur on one's good name
+#一个人美名上的污点
+    Her eyes were blurred with tears.
+#泪水模糊了她的眼睛。
+
+=======
+extinguish: 英[ɪkˈstɪŋɡwɪʃ] 美[ɪkˈstɪŋɡwɪʃ]
+%v. 熄灭；消灭，使破灭；<法律>取消（权利，义务），使无效；偿清；压制
+    It took the firemen nearly five hours to extinguish the big fire.
+#扑灭那场大火花了消防队员近五个小时。
+
+merit: 英[ˈmerɪt] 美[ˈmerɪt]
+$n. 优秀品质，价值；优点，长处；<英>（成绩等级）良好；事实真相，是非曲直；善行，善事
+%v. 值得，应受；应受赏（或罚）
+    Everybody has his merits and demerits.
+#人各有优缺点。
+
+gadget: 英[ˈɡædʒɪt] 美[ˈɡædʒɪt]
+%n. 小器具，小玩意儿
+    She's mad about gadgets, and her kitchen is just full of them.
+#她对小装置着了迷，整个厨房里都是这类东西。
+
+homage: 英[ˈhɒmɪdʒ] 美[ˈhɑːmɪdʒ]
+%n. 敬意，尊敬；<正式>宣誓效忠
+    On this occasion we pay homage to him for his achievement.
+#在此我们谨向他的成就表示敬意。
+
+complacent: 英[kəmˈpleɪs(ə)nt] 美[kəmˈpleɪs(ə)nt]
+%adj. 自满的，自鸣得意的
+    After so many wins they were complacent and thought they'd never lose.
+#赢了许多场比赛后，他们得意忘形，以为永远不会输。
+
+distinct: 英[dɪˈstɪŋkt] 美[dɪˈstɪŋkt]
+%adj. 不同的，有区别的；清楚的，明显的；确切的
+    be distinct from
+#与……截然不同
+    Beer has a very distinctive smell; it's quite distinct from the smell of liquor.
+#啤酒有独特的气味，它和白酒的气味完全不同。
+
+prolong: 英[prəˈlɒŋ] 美[prəˈlɔːŋ]
+%v. 拉长，拖长（感觉或活动）；<罕>延长
+    One speaker dwelled on some trifles and prolonged the meeting by half an hour.
+#有个发言人在鸡毛蒜皮的小事上讲个没完，把会议拖延了半个小时。
+
+preclude: 英[prɪˈkluːd] 美[prɪˈkluːd]
+%v. <正式>阻止，妨碍（preclude sb. from）
+    His contract precludes him from discussing his work with anyone outside the company.
+#他的合同使他不能与公司外的任何人谈工作。
+
+stagnant: 英[ˈstæɡnənt] 美[ˈstæɡnənt]
+%adj. （经济、社会等）停滞不前的，不景气的；不流动的，污浊的
+    While the economies of industrialized countries are stagnant, the economies of many developing countries are growing rapidly.
+#当工业化国家的经济停滞时，许多发展中国家的经济却快速增长。
+
+effective: 英[ɪˈfektɪv] 美[ɪˈfektɪv]
+$adj. 产生预期结果的，有效的；实际的，事实上的；（法律、规则等）生效的，起作用的；给人深刻印象的
+%n. 实际可作战的士兵
+    Although there is a parliament, the army is in effective control of the country.
+#虽然有国会存在，但军队实际控制着这个国家。
+
+withhold: 英[wɪðˈhəʊld] 美[wɪðˈhoʊld]
+%v. 保留，隐瞒，扣留；克制，抑制（情感或反应等）
+    The dam was too weak to withhold the pressure of the rising water.
+#堤坝不够牢固，阻挡不了水位上涨的压力。
+
+repeal: 英[rɪˈpiːl] 美[rɪˈpiːl]
+$vt. 废除，废止，撤销（法律、议会法案）；放弃；否定
+%n. 废除，撤销
+    The laws that discriminate against women have been repealed.
+#歧视妇女的法律已经被废除了。
+
+relegate: 英[ˈrelɪɡeɪt] 美[ˈrelɪɡeɪt]
+%v. 贬低，使降级；<英>把（球队）降级；<正式>托付，交付
+    He resigned from the company when he was relegated to a role of financial consultant.
+#他被降位为财政顾问后从公司辞职了。
+
+sane: 英[seɪn] 美[seɪn]
+%adj. 心智健全的，头脑清醒的；明智的
+    He seemed a sane, well-balanced sort of person.
+#他看来是那种明智稳健的人。
+
+stagger: 英[ˈstæɡə(r)] 美[ˈstæɡər]
+$v. 摇摇晃晃地走，蹒跚；使震惊，使大吃一惊；使交错，使错开
+$n. 踉跄，蹒跚；使（物体，物体的组成部分）交错排列；赛跑选手起跑时的梯形排列
+%adj. 交错的，错开的
+    He staggered forward with the injured leg.
+#他拖着伤腿瞒跚着往前走。
+
+charter: 英[ˈtʃɑːtə(r)] 美[ˈtʃɑːrtər]
+$n. 宪章，章程；特许状，许可证；不完善，漏洞；包租，租赁
+$v. 包租，租用；特许成立，给予……特权
+%adj. （临时）租用的
+    charter flights
+#包机
+    a charter of human rights
+#人权宪章
+    They chartered a ship and sailed toward the island.
+#他们租了一条船向那个岛驶去。
+
+original: 英[əˈrɪdʒən(ə)l] 美[əˈrɪdʒən(ə)l]
+$adj. 起初的，原先的；原作的，真迹的；新创作的，未发表的；独创的，新颖的；有独到见解的，有独创性的
+%n. （艺术作品或文件的）原件，原稿；（文学作品中人物或地点的）原型；原版书，原版唱片；（根据服装展特制图样定做的）真品原板服装；<非正式>（举止、服装等）怪异滑稽的人，独特有趣的人
+    in the original
+#用原著的语言
+    These gardens have recently been restored to their original glory.
+#这些花园最近恢复了原先的华丽。
+
+pine: 英[paɪn] 美[paɪn]
+$n. 松树；松木；……松（用于其他科针叶类树木名称中）；……松（用于某方面类似松树而与松树无关的植物名称中）；有松针香味；<非正式>凤梨
+%v. （因死亡、离别） 难过，悲伤；苦苦思念；<古>为……悲哀，哀悼；渴望，苦苦盼望（尤指不太可能拥有的东西）
+    It's at this time of year that I start to pine for the snow-topped mountains.
+#每年这个时候我就开始向往山顶上覆盖着白雪的高山。
+
+constraint: 英[kənˈstreɪnt] 美[kənˈstreɪnt]
+%n. 限制，束缚；克制，拘束
+    She tried to appear friendly and natural but her constraint was obvious.
+#她尽力显得友好自然，但很明显是在克制自己。
+
+alternate: 英[ɔːlˈtɜːnət] 美[ˈɔːltərnət]
+$v. （使）交替，（使）轮流
+$adj. 轮流的，交替的；间隔的；供选择的，备用的；（叶，芽）互生的；另类的
+%n. 替补者，候补者
+    The two professors will alternate in giving the class lectures.
+#这两位教授将轮流给这个班上课。
+
+inborn: 英[ˌɪnˈbɔːn] 美[ˌɪnˈbɔːrn]
+%adj. 天生的
+    She has an apparently inborn talent for physics.
+#显然，她有天生的物理才能。
+
+inhabit: 英[ɪnˈhæbɪt] 美[ɪnˈhæbɪt]
+%v. 居住于，栖居在；存在于，占据
+    Those remote islands are inhabited by birds.
+#在那些遥远的岛屿上，有鸟类栖息。
+
+feminist: 英[ˈfemənɪst] 美[ˈfemənɪst]
+$n. 女权主义者，女权运动者
+%adj. 女权主义的，支持女权运动的
+    Her beliefs are strongly feminist.
+#她有强烈的主张男女平等的信仰。
+
+isolate: 英[ˈaɪsəleɪt] 美[ˈaɪsəleɪt]
+$v. 孤立，分离；隔离；单独考虑，区别看待；使（某物质、细胞等）分离
+$n. 被隔离的人（或物）；（用于研究的）分离菌，隔离群
+%adj. 孤独的，孤立的
+    It is harmful to isolate new-born babies from their mothers.
+#把新生婴儿同其母亲隔开是不利的。
+
+cater: 英[ˈkeɪtə(r)] 美[ˈkeɪtər]
+%v. 提供餐饮服务，承办酒席；满足，迎合
+    cater for all tastes
+#迎合各种口味
+    TV programs must cater for/to many different tastes.
+#电视节目必须满足许多不同爱好。
+
+confrontation: 英[ˌkɒnfrʌnˈteɪʃn] 美[ˌkɑːnfrənˈteɪʃn]
+%n. 对抗，冲突；战斗，战役
+    He had a series of confrontations with his parents over homework.
+#他和他父母就家庭作业一事发生了一系列冲突。
+
+code: 英[kəʊd] 美[koʊd]
+$n. 密码，暗码；（邮政）编码，（电话）区号；（计算机）编码；道德准则，行为规范；法典，法规
+%v. 把……编码（或编号）；把……译成密码；（给计算机）编写指令
+    The message was written in code.
+#这条消息是用密码写的。
+
+potent: 英[ˈpəʊt(ə)nt] 美[ˈpoʊt(ə)nt]
+$adj. 强大的，有力的；（毒品、药品或化学品）药效强的，强效的；（男子）有性功能的；由T字形构成的，（尤指十字架）有T形端的；（纹章装饰）有交错T形拼花毛皮的；有说服力的
+%n. 有交错T形拼花的毛皮
+    a potent drug
+#效力很强的药
+    In her speech she presents a potent argument for increasing taxes.
+#在演讲中，她就增税提出了有利的论证。
+
+incense: 英[ˈɪnsens] 美[ˈɪnsens]
+$n. 香（树脂、香料等燃烧可得香气的物质）；焚香时的烟，香气；奉承
+%v. 熏香；激怒
+    She was so incensed by what he was saying that she slapped his face.
+#她被他的话激怒了，扇了他一个耳光。
+
+expertise: 英[ˌekspɜːˈtiːz] 美[ˌekspɜːrˈtiːz]
+%n. 专长，专门技能（知识）；专家的意见
+    To survive in the intensely competitive society, we must acquire technical expertise.
+#要在竞争激烈的社会上立足，我们必须有技术专长。
+
+opponent: 英[əˈpəʊnənt] 美[əˈpoʊnənt]
+$n. 对手，竞争者；反对者，阻止者
+%adj. 对立的，敌对的
+    He is the leading opponent of the budget cuts.
+#他是带头反对削减预算的人。
+
+agitate: 英[ˈædʒɪteɪt] 美[ˈædʒɪteɪt]
+%v. 煽动，鼓动，抗议；使焦虑；搅动，摇动（液体等）
+    He became quite agitated when he was asked about his criminal past.
+#当问到他过去的犯罪历史时，他变得十分焦虑不安。
+
+solvent: 英[ˈsɒlvənt] 美[ˈsɑːlvənt]
+$adj. （尤指公司）有偿付能力的，付得起的；有溶解力的
+%n. 溶剂；（对处境的某种态度）起削弱（或瓦解）作用的事物；解决方法
+    When I get my pay check I'll be solvent again.
+#拿到工资支票时，我又有偿付能力了。
+
+static: 英[ˈstætɪk] 美[ˈstætɪk]
+$adj. 静止的，停滞的；静电的；静力的；（计算机）（储存器，储存）静态的；（计算机）（程序，变量）静态的；（物理）（物体）静止的，不动的
+%n. 静电；（广播、电视里的）静电噪声，静电干扰；<美，非正式>不停的抱怨，指责；静力学
+    Production has remained virtually static these years.
+#这几年的产量实际上保持不增不减。
+
+reversible: 英[rɪˈvɜːsəb(ə)l] 美[rɪˈvɜːrsəb(ə)l]
+%adj. 可逆的，可恢复原状的，可医治的；可翻转 ，可两面穿的，正反两用的
+    It is a good idea to buy a reversible raincoat because it can be worn with either side out.
+#买一件可正反穿的雨衣是个好主意，因为它的两面都可以穿外面。
+
+tension: 英[ˈtenʃ(ə)n] 美[ˈtenʃ(ə)n]
+$n. 紧张，焦虑；紧张关系，紧张局势；矛盾，冲突；（电线、绳子、肌肉等的）拉紧，绷紧；拉力，张力；（电影、书籍中的）紧张情绪，恐怖气氛；（编织的）针织密度；电压
+%v. 使拉紧，使紧张
+    The latest terrorist activity has created a lot of tension.
+#恐怖分子最近的活动造成了许多紧张局势。
+
+flourish: 英[ˈflʌrɪʃ] 美[ˈflɜːrɪʃ]
+$v. 繁荣，昌盛；挥动；（植物或动物）长势好，茁壮成长
+%n. 夸张动作；（讲话或文章的）华丽辞藻，修饰；花彩号声；（手写花体字的）花饰
+    Wild plants flourish on the banks of the lake.
+#野生植物在湖岸上生长茂盛。
+
+momentous: 英[məˈmentəs] 美[moʊˈmentəs]
+%adj. 重大的，重要的
+    Whether or not to move overseas was a momentous decision for the family.
+#是否移居海外对这个家庭来说是个重要的决定。
+
+oust: 英[aʊst] 美[aʊst]
+%vt. 罢免，撤职；淘汰；驱逐；取代；撤销（法院对某事的司法权）；<法律>剥夺
+    He was ousted as chairman after 20 years.
+#做了20年的主席后，他被撤职了。
+
+constant: 英[ˈkɒnstənt] 美[ˈkɑːnstənt]
+$adj. 持续不断的，经常发生的；恒定的，不变的；忠诚的，忠实的
+%n. 常数，恒量；不变的事物
+    We kept a fairly constant speed all through the journey.
+#旅途中我们始终保持着相当平稳的速度。
+
+dissolve: 英[dɪˈzɒlv] 美[dɪˈzɑːlv]
+$v. 解散，解除；消失；（以化学手段）除去，分散；（使）溶解
+%n. （电影中）（画面的）叠化，淡入淡出
+    The distant hills dissolved in mist.
+#远处的山在雾中消失了。
+
+renowned: 英[rɪˈnaʊnd] 美[rɪˈnaʊnd]
+$adj. 有名望的，著名的
+%v. 使有声誉（renown 的过去式和过去分词形式）
+    The region is renowned for its outstanding natural beauty.
+#这一地区因其美妙的自然景观而著称。
+
+inspire: 英[ɪnˈspaɪə(r)] 美[ɪnˈspaɪər]
+%v. 激励，鼓舞；赋予灵感，激发（想法）；使产生（感觉或情感）；引起，导致；吸气，吸入
+    His best music was inspired by the memory of his mother.
+#他最优秀的音乐作品是受到了对母亲回忆的启发。
+
+negligible: 英[ˈneɡlɪdʒəb(ə)l] 美[ˈneɡlɪdʒəb(ə)l]
+%adj. 微不足道的，不值一提的
+    This error is so small that it is negligible.
+#误差如此小，是可以忽略不计的。
+
+absurd: 英[əbˈsɜːd] 美[əbˈsɜːrd]
+$adj. 愚蠢的，荒谬的；滑稽可笑的；荒诞派的
+%n. 荒诞，荒诞的事物 （the absurd）
+    It's absurd not to wear a coat in such cold weather.
+#这么冷的天气不穿一件外套真是荒唐。
+
+persuasive: 英[pəˈsweɪsɪv] 美[pərˈsweɪsɪv]
+%adj. 有说服力的，能使人信服的
+    She gave a very persuasive speech about the need for more funding for the project.
+#她就项目需要增加资金做了一场极有说服力的演说。
+
+smear: 英[smɪə(r)] 美[smɪr]
+$v. 涂抹，涂上；诽谤，诋毁；弄脏，弄污；蹭花，变模糊
+%n. 污点，污渍；诽谤，诋毁；子宫颈抹片检查；（显微镜）涂片；（登山）不稳立足处
+    Several words were smeared and I couldn't read them.
+#有几个字被弄脏了，我无法辨认出来。
+
+marine: 英[məˈriːn] 美[məˈriːn]
+$adj. 海洋的，海产的；海运的，海事的
+%n. 水兵，海军陆战队士兵；（一个国家的）船舶
+    Marines were the first to land on the beach.
+#海军陆战队士兵首批登上海滩。
+
+illuminate: 英[ɪˈluːmɪneɪt] 美[ɪˈluːmɪneɪt]
+%v. 照射，照亮；阐明，解释；使容光焕发；用彩灯装饰；用金、银等彩色图案装饰（书稿的书页或首词第一个字母）
+    The whole city is illuminated on such occasions.
+#每逢这样的日子全城都灯火通明。
+
+bulge: 英[bʌldʒ] 美[bʌldʒ]
+$v. 鼓起，凸出；装满，充满
+%n. 鼓起，凸出；骤增，暴涨；（身体的）肥胖部位；（尤用于军事场合）突出部；肿块，疙瘩；（尤指暂时的或幅度不大的）增大，增多
+    His eyes bulged in surprise when he saw the house.
+#看见那幢房子时，他惊得眼睛都瞪出来了。
+
+fume: 英[fjuːm] 美[fjuːm]
+$v. 发怒，生气；冒气（或烟、汽）；熏（尤指木材）
+%n. 刺鼻（或有害）的气，烟
+    I saw her a week after they'd had the argument and she was still fuming.
+#我在他们吵架一个星期后看到了她，她还是怒气冲冲。
+
+prune: 英[pruːn] 美[pruːn]
+$v. 修剪，修整；删除，削减
+%n. 李子干，西梅干；<非正式>讨厌的人，乏味的人；（树枝、灌木丛等的）修剪，修整
+    To pay back our loan we'd better prune our budget for the next six months.
+#为了还贷款，我们最好把下半年的预算开支削减一些。
+
+finite: 英[ˈfaɪnaɪt] 美[ˈfaɪnaɪt]
+$adj. 有限的，有限制的；限定的
+%n. 有限之物
+    We must accept finite despair, but we must never lose infinite hope.
+#我们必须接受有限的绝望，但是我们永远不能失去无限的希望。
+
+associate: 英[əˈsəʊsieɪt] 美[əˈsoʊsieɪt]
+$v. 联想，联系；支持，同意；交往，（尤指）混在一起
+$n. 同事，伙伴；副学士，准学士；副职，副手；准会员；联想
+%adj. 副的，准的，非正式的；联合的，有关连的
+    We associate autumn with fruit and harvest.
+#我们想到秋天就想到果实与丰收。
+
+strand: 英[strænd] 美[strænd]
+$n. （绳、线、毛发等的）股，缕；串；（故事、观点、计划等的）部分；（海洋、湖或河的）岸，滨
+%v. 使滞留，使困在（某处）；使（船，船员，海洋生物）搁浅；使（跑垒员）残留垒上
+    A ship was stranded on the rock.
+#一条船在礁石上搁浅了。
+
+blur: 英[blɜː(r)] 美[blɜːr]
+$n. 模糊不清的事物；模糊的记忆，记不清的事情；污迹
+%v. （使）看不清楚，记不清；（使）难以区分；玷污
+    a blur on one's good name
+#一个人美名上的污点
+    Her eyes were blurred with tears.
+#泪水模糊了她的眼睛。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

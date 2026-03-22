@@ -1,0 +1,747 @@
+<<<<<<< HEAD
+unstinting: 英[ʌnˈstɪntɪŋ] 美[ʌnˈstɪntɪŋ]
+%adj. 慷慨的；大方的；无限制的
+    earn unstinting admiration
+#赢得无限的钦佩
+    be unstinting in one's praise
+#大加赞赏
+    unstinting support
+#慷慨的支持
+    Where the family were concerned he was quite unstinting in his generosity.
+#只要涉及家庭，他花钱就毫不吝啬。
+
+abysmal: 英[əˈbɪzməl] 美[əˈbɪzməl]
+%adj. 深不可测的；糟透的；极度的
+    an abysmal cliff
+#万丈深崖
+    abysmal ignorance
+#极度的无知
+    an abysmal performance
+#非常糟糕的演出
+    His taste is abysmal.
+#他的趣味十分低级。
+
+subtly: 英[ˈsʌtəli] 美[ˈsʌtəli]
+%adv. 精细地；巧妙地；敏锐地
+    She subtly suggested that she was willing to help if needed.
+#她含蓄地表示如果需要，她愿意帮忙。
+
+nonviable: 英[nɒnˈvaɪəb(ə)l] 美[nɑːnˈvaɪəb(ə)l]
+%adj. 不能存活的；无法自力生活或发展的
+    a nonviable plan
+#不可行的计划
+
+calumny: 英[ˈkæləmni] 美[ˈkæləmni]
+%n. 诽谤；中伤；诬蔑
+    Calumnies are answered best with silence.
+#对诬陷之词的最好回答是沉默不理。
+
+predator: 英[ˈpredətə(r)] 美[ˈpredətər]
+%n. 捕食性动物； 掠夺者，掠夺成性的人（或组织）
+    The antelopes are on their guard against lions and other predators.
+#羚羊警惕着狮子和其他猛兽的袭击。
+
+riven: 英[ˈrɪv(ə)n] 美[ˈrɪvn]
+$v. 劈开；（使）裂开；（木头、石头）裂开（rive的过去分词）
+$adj. 四分五裂的；（物体）破裂的
+%n. （Riven）（美）里文（人名）
+    It was a nation riven by jealousy, hatred and bitterness.
+#那是一个被嫉妒、仇恨和积怨撕裂的国家。
+
+continuation: 英[kənˌtɪnjuˈeɪʃ(ə)n] 美[kənˌtɪnjuˈeɪʃ(ə)n]
+%n. 连续，持续；延续物，附加物；（停顿后的）继续，再开始
+    a continuation of the old highway
+#旧公路的延伸
+    The continuation of funding was in doubt because of budget cuts.
+#因为预算的削减，继续提供资金是有问题的。
+
+auspice: 英[ˈɔːspɪs] 美[ˈɔːspɪs]
+%n. 赞助，主办；吉兆
+    an auspice of happiness
+#幸福的预兆
+    Financial aid is being provided to the country under the auspices of the International Monetary Fund.
+#在国际货币基金组织的赞助下，这个国家正在获得财政援助。
+
+probity: 英[ˈprəʊbəti] 美[ˈproʊbəti]
+%n. 廉洁；正直
+    a man of probity
+#正人君子
+    Her probity and integrity are beyond question.
+#她的诚实和正直是无可置疑的。
+
+authenticate: 英[ɔːˈθentɪkeɪt] 美[ɔːˈθentɪkeɪt]
+%v. 鉴定；证明……是真实的；（用户，程序）验证身份
+    authenticate a story
+#证明报道属实
+    The painting has been authenticated as an original.
+#这幅画已被证明是真迹。
+
+chromosome: 英[ˈkrəʊməsəʊm] 美[ˈkroʊməsoʊm]
+%n. 染色体
+    sex chromosome
+#性别染色体
+
+untapped: 英[ˌʌnˈtæpt] 美[ˌʌnˈtæpt]
+%adj. 未利用的，未开发的；塞子未开的
+    untapped resources
+#未开垦的资源
+    Untapped potentials
+#未挖掘的潜力
+    the biggest untapped market in the world
+#世界上最大的未开发市场
+    By overlooking racial minorities, these companies are missing out on a wealth of untapped talent and skills.
+#由于忽略了少数民族，这些公司未能有效利用尚未开发的大量人才和技术资源。
+
+abeyance: 英[əˈbeɪəns] 美[əˈbeɪəns]
+%n. 中止，停顿；归属待定，暂搁
+    fall /go into abeyance
+#中止
+    in abeyance
+#处于中止/搁置状态
+    The custom was revived after an abeyance of several centuries.
+#这一风俗在中断了几个世纪后又重新流行起来。
+
+noncommittal: 英[ˌnɒnkəˈmɪtəl] 美[ˌnɑːnkəˈmɪtl]
+%adj. 不表态的，含糊的；不承担义务的
+    a noncommittal answer
+#含糊的回答
+    a noncommittal letter
+#含糊其词的信
+    The ambassador was typically noncommittal when asked whether further sanctions would be introduced.
+#当被问及是否会进一步制裁时，大使如既往地概不表态。
+
+expediency: 英[ɪkˈspiːdiənsi] 美[ɪkˈspiːdiənsi]
+%n. 方便，权宜；私利；权宜之计
+    act from expediency but not from principle
+#从自身利益考虑出发，而非按原则行事
+    As a matter of expediency, we will not be taking on any new staff this year.
+#作为权宜之计，今年我们不再接收新职员。
+
+ascetic: 英[əˈsetɪk] 美[əˈsetɪk]
+$adj. 苦行的；禁欲主义的
+%n. 苦行者；禁欲者
+    live a very ascetic life
+#过清心寡欲的生活
+    He has spent most of his adult life living as an ascetic.
+#他在成年的大部分时间里过着苦行者的日子。
+
+ineligible: 英[ɪnˈelɪdʒəb(ə)l] 美[ɪnˈelɪdʒəb(ə)l]
+$adj. 不合格的；不适任的；无被选资格的
+%n. 无被选资格的人
+    be ineligible for the competition
+#无资格参加比赛
+    be ineligible to unemployment benefit
+#无资格享受失业津贴
+    Many people would become ineligible to receive state aid because their earnings, although small, are above the new limit.
+#许多人将没有资格接受政府的救济金，因为尽管他们的收人少，却超过了新的标准界线。
+
+temptation: 英[tempˈteɪʃ(ə)n] 美[tempˈteɪʃ(ə)n]
+%n. 引诱，诱惑；诱惑人的东西；（魔鬼对耶稣的）引诱（the Temptation）
+    Clever advertisements are temptations to spend money.
+#巧妙的广告是诱人花钱的花招。
+
+succinct: 英[səkˈsɪŋkt] 美[səkˈsɪŋkt]
+%adj. 言简意赅的，简练的 ；<古>紧身的
+    succinct terms
+#简洁的措辞
+    a succinct refusal
+#直截了当的拒绝
+    Her writing is confident and succinct.
+#她的作文自信而简洁。
+
+saturnine: 英[ˈsætənaɪn] 美[ˈsætərnaɪn]
+%adj. 忧郁的；阴沉的；铅中毒的；沉默寡言的
+    a saturnine smile
+#冷笑
+    a saturnine character
+#阴沉的性格
+
+descry: 英[dɪˈskraɪ] 美[dɪˈskraɪ]
+%vt. 看见；发现；察看
+    descry an island in the distance
+#看见远处有一座岛
+    He descried a way out of his troubles.
+#他找到了一条摆脱困境的出路。
+
+mordant: 英[ˈmɔːd(ə)nt] 美[ˈmɔːrd(ə)nt]
+$adj. 有腐蚀性的；尖酸的；辛辣的
+$n. [助剂]媒染剂；金属腐蚀剂；金属箔粘着剂
+$vt. 媒染；用媒染剂处理
+%n. （Mordant）人名；（英）莫登特；（法）莫尔当
+    a mordant remark
+#讽刺性评论
+    mordant criticism
+#尖锐的批评
+    mordant pain
+#灼痛
+
+tribulation: 英[ˌtrɪbjuˈleɪʃ(ə)n] 美[ˌtrɪbjuˈleɪʃ(ə)n]
+%n. 苦难；磨难；忧患
+    bear one's tribulations bravely
+#勇敢地忍受艰难困苦
+    The war was a time of tribulation for all of us.
+#那场战争对我们大家来说都是一次苦难。
+
+misnomer: 英[ˌmɪsˈnəʊmə(r)] 美[ˌmɪsˈnoʊmər]
+%n. 用词不当；误称；写错姓名
+    "Fruit" as used to describe potatoes is a misnomer.
+#用“水果”一词来形容土豆是用词不当。
+
+altruism: 英[ˈæltruɪzəm] 美[ˈæltruɪzəm]
+%n. 利他；利他主义
+    An important feature of moral behaviour is altruism. 
+#道德行为一个重要特点就是利他主义。
+
+feigned: 英[feɪnd] 美[feɪnd]
+$adj. 假的；做作的；捏造的
+%v. 假装；捏造（feign 的过去式）
+    feigned civilities
+#虚假的客套
+    speak in a feigned voice
+#用假嗓子讲话
+
+suffragist: 英[ˈsʌfrədʒɪst] 美[ˈsʌfrədʒɪst]
+%n. 妇女政权论者；参政权扩大论者
+    In 1842, the suffragist movement under the leadership of Thomas Dorr developed into an armed rebellion, which eventually forced the state government to adopt universal suffrage.
+#1842年，争取普选权的运动在多尔律师领导下演变为武装起义，迫使州政府做出让步。
+
+dispensable: 英[dɪˈspensəb(ə)l] 美[dɪˈspensəb(ə)l]
+%adj. 不必要的，可有可无的；（法律或其他规则）在特定情况下可放宽的，可通融的
+    The government eliminated the dispensable items from the budget.
+#政府去除了预算中不必要的项目。
+
+deleterious: 英[ˌdeləˈtɪəriəs] 美[ˌdeləˈtɪriəs]
+%adj. 有毒的，有害的
+    These drugs have a proven deleterious effect on the nervous system.
+#经证实，这些药物对于神经系统具有损害作用。
+
+particulate: 英[pɑːˈtɪkjələt] 美[pɑːrˈtɪkjələt]
+$adj. 微粒的
+%n. 微粒，微粒状物质
+    particulate matter
+#颗粒物质
+
+urbane: 英[ɜːˈbeɪn] 美[ɜːrˈbeɪn]
+%adj. 彬彬有礼的，温文尔雅的；都市化的
+    an urbane manner
+#彬彬有礼的态度
+    David was the most urbane of correspondents.
+#戴维是记者中最有礼貌的一位。
+
+hypersensitive: 英[ˌhaɪpəˈsensətɪv] 美[ˌhaɪpərˈsensətɪv]
+%adj. 过敏的；高灵敏度的；超感光度的
+    be hypersensitive about one's height
+#对身高敏感
+    Her damaged eyes are hypersensitive to light.
+#她受伤的眼睛对光过敏。
+
+potshot: 英[ˈpɒtʃɒt] 美[ˈpɑːtʃɑːt]
+$n. 乱射；肆意抨击
+%v. 肆意抨击；射击（potshoot 的过去分词）
+    fire verbal potshots at sb.
+#对某人进行口头攻击
+    They were taking potshots at passing rabbits.
+#他们向奔窜而过的野兔乱开枪。
+
+cogent: 英[ˈkəʊdʒənt] 美[ˈkoʊdʒənt]
+%adj. 有说服力的，令人信服的；清晰的，合乎逻辑的
+    cogent forces of nature
+#大自然的强大威力
+    The arguments are cogent enough.
+#这些论据足以使人信服。
+
+antagonistic: 英[ænˌtæɡəˈnɪstɪk] 美[ænˌtæɡəˈnɪstɪk]
+%adj. 敌对的，反对的，仇恨的；拮抗物（或拮抗作用）的
+    The directors are taking an unnecessarily antagonistic approach towards these negotiations.
+#董事们在这些谈判项目上采取了一种不必要的对抗态度。
+
+mite: 英[maɪt] 美[maɪt]
+$n. 小虫，螨；（可怜的）小孩儿，小动物；微粒，微小的东西；少量，极小量；小硬币
+%adv. （非正式）一点儿，稍许
+    I think you are being a mite stingy by offering him $300.
+#我想你给他300美元有点小气。
+
+impute: 英[ɪmˈpjuːt] 美[ɪmˈpjuːt]
+%vt. 归罪于，归咎于；嫁祸于
+    Because of his arrogance he would always impute stupidity to those who disagreed with him.
+#因为他很傲慢，所以他总认为是别人太蠢才会不同意他的意见。
+
+humanitarian: 英[hjuːˌmænɪˈteəriən] 美[hjuːˌmænɪˈteriən]
+$adj. 人道主义的，博爱的；基督凡人论的
+%n. 人道主义者，博爱者；慈善家；基督凡人论者
+    humanitarian aid
+#人道主义援助
+    The prisoner has been released for humanitarian reasons.
+#因犯因人道主义原因而获释。
+
+incomprehensible: 英[ɪnˌkɒmprɪˈhensəb(ə)l] 美[ɪnˌkɑːmprɪˈhensəb(ə)l]
+%adj. 费解的；无限的；不可思议的
+    Her northern accent is incomprehensible to the majority of southerners.
+#她的北方口音对绝大多数南方人来说很难听懂。
+
+unreasonable: 英[ʌnˈriːz(ə)nəb(ə)l] 美[ʌnˈriːz(ə)nəb(ə)l]
+%adj. 不合理的；过度的；不切实际的；非理智的
+    an unreasonable woman
+#不讲道理的女人
+    unreasonable conduct
+#悖理行为
+    an unreasonable price
+#过高的价格
+    Their request doesn't seem unreasonable.
+#他们的要求看来并不过分。
+
+impudent: 英[ˈɪmpjədənt] 美[ˈɪmpjədənt]
+%adj. 无耻的；鲁莽的；放肆无礼的
+    an impudent remark
+#放肆的言论
+    The impudent boy made faces at his teacher.
+#这个无礼的男孩冲着老师做鬼脸。
+
+platitude: 英[ˈplætɪtjuːd] 美[ˈplætɪtuːd]
+%n. 陈词滥调；平凡；陈腐
+    empty platitude about peace and democracy
+#关于和平和民主的空洞的陈词滥调
+
+combative: 英[ˈkɒmbətɪv] 美[kəmˈbætɪv]
+%adj. 好战的，好争论的
+    The prime minister was in a combative mood and made several verbal attacks on the opposition.
+#首相现在斗志昂扬，对反对党进行了好几次口头攻击。
+
+momentarily: 英[ˈməʊməntrəli] 美[ˌmoʊmənˈterəli]
+%adv. 片刻地，短暂地；<美>立刻
+    He was momentarily confused by the road signs but soon found the right way.
+#他被路标迷惑了一会儿，但很快就找到了正确的路。
+
+astigmatic: 英[ˌæstɪɡˈmætɪk] 美[ˌæstɪɡˈmætɪk]
+%adj. 散光的；乱视的；矫正散光的
+    astigmatic lenses
+#散光镜
+
+guile: 英[ɡaɪl] 美[ɡaɪl]
+%n. 狡猾；诡计；欺诈
+    a man without guile
+#厚道人
+    get sth. by guile
+#诈取某物
+    He is a simple, honest man, totally lacking in guile.
+#他是个淳朴诚实的人，一点也不狡诈。
+
+drudgery: 英[ˈdrʌdʒəri] 美[ˈdrʌdʒəri]
+%n. 苦工，苦差事
+    the drudgery of housework
+#单调乏味的家务劳动
+    Her whole life was spent in drudgery.
+#她一生都很辛苦。
+
+effervescence: 英[ˌefəˈves(ə)ns] 美[ˌefərˈvesns]
+%n. 冒泡；[化工] 泡腾；欢腾
+    She called out in rapturous effervescence of expectation.
+#她在期待的狂喜中大声喊叫起来。
+
+blazing: 英[ˈbleɪzɪŋ] 美[ˈbleɪzɪŋ]
+$adj. 燃烧的；耀眼的，炽热的；（力量、速度等）强烈的；（争论）激烈的；极其愤怒的，情感强烈的
+$adv. 与火或热量相关地
+$n. 猛烈燃烧的火焰
+%v. 燃烧；闪耀；怒视；（愤怒等情绪）突然爆发；（枪或射击者）连续射击；（非正式）夺取，摘取；大力击（球）；（报纸）耸人听闻地报道，大肆宣扬（blaze 的现在分词）
+    the blazing heat of the midday sun
+#炽热的正午阳光
+    in a blazing temper
+#大发脾气
+    a blazing lie
+#明显的谎言
+    We quickly get tired in the blazing sunshine.
+#在炽热的阳光下我们很快就累了。
+
+supernova: 英[ˈsuːpənəʊvə] 美[ˈsuːpərnoʊvə]
+%n. [天] 超新星
+    He is a satiric supernova.
+#他是个写讽刺作品的超级新秀。
+
+ostracize: 英[ˈɒstrəsaɪz] 美[ˈɑːstrəsaɪz]
+%vt. 放逐；排斥；按贝壳流放法放逐
+    be socially ostracized
+#遭到社会的摒弃
+    His colleagues ostracized him after he criticized the company in public.
+#他在公共场合批评了公司之后，他的同事开始疏远他。
+
+wistful: 英[ˈwɪstf(ə)l] 美[ˈwɪstf(ə)l]
+%adj. （因求而不得）失意的，伤感的；思念的，怀旧的
+    have a last wistful look round the room
+#留恋地最后环顾一下房间
+    They often talked together in a wistful way about their hometown.
+#他们常常在一起怀着思念之情谈起故乡。
+
+=======
+unstinting: 英[ʌnˈstɪntɪŋ] 美[ʌnˈstɪntɪŋ]
+%adj. 慷慨的；大方的；无限制的
+    earn unstinting admiration
+#赢得无限的钦佩
+    be unstinting in one's praise
+#大加赞赏
+    unstinting support
+#慷慨的支持
+    Where the family were concerned he was quite unstinting in his generosity.
+#只要涉及家庭，他花钱就毫不吝啬。
+
+abysmal: 英[əˈbɪzməl] 美[əˈbɪzməl]
+%adj. 深不可测的；糟透的；极度的
+    an abysmal cliff
+#万丈深崖
+    abysmal ignorance
+#极度的无知
+    an abysmal performance
+#非常糟糕的演出
+    His taste is abysmal.
+#他的趣味十分低级。
+
+subtly: 英[ˈsʌtəli] 美[ˈsʌtəli]
+%adv. 精细地；巧妙地；敏锐地
+    She subtly suggested that she was willing to help if needed.
+#她含蓄地表示如果需要，她愿意帮忙。
+
+nonviable: 英[nɒnˈvaɪəb(ə)l] 美[nɑːnˈvaɪəb(ə)l]
+%adj. 不能存活的；无法自力生活或发展的
+    a nonviable plan
+#不可行的计划
+
+calumny: 英[ˈkæləmni] 美[ˈkæləmni]
+%n. 诽谤；中伤；诬蔑
+    Calumnies are answered best with silence.
+#对诬陷之词的最好回答是沉默不理。
+
+predator: 英[ˈpredətə(r)] 美[ˈpredətər]
+%n. 捕食性动物； 掠夺者，掠夺成性的人（或组织）
+    The antelopes are on their guard against lions and other predators.
+#羚羊警惕着狮子和其他猛兽的袭击。
+
+riven: 英[ˈrɪv(ə)n] 美[ˈrɪvn]
+$v. 劈开；（使）裂开；（木头、石头）裂开（rive的过去分词）
+$adj. 四分五裂的；（物体）破裂的
+%n. （Riven）（美）里文（人名）
+    It was a nation riven by jealousy, hatred and bitterness.
+#那是一个被嫉妒、仇恨和积怨撕裂的国家。
+
+continuation: 英[kənˌtɪnjuˈeɪʃ(ə)n] 美[kənˌtɪnjuˈeɪʃ(ə)n]
+%n. 连续，持续；延续物，附加物；（停顿后的）继续，再开始
+    a continuation of the old highway
+#旧公路的延伸
+    The continuation of funding was in doubt because of budget cuts.
+#因为预算的削减，继续提供资金是有问题的。
+
+auspice: 英[ˈɔːspɪs] 美[ˈɔːspɪs]
+%n. 赞助，主办；吉兆
+    an auspice of happiness
+#幸福的预兆
+    Financial aid is being provided to the country under the auspices of the International Monetary Fund.
+#在国际货币基金组织的赞助下，这个国家正在获得财政援助。
+
+probity: 英[ˈprəʊbəti] 美[ˈproʊbəti]
+%n. 廉洁；正直
+    a man of probity
+#正人君子
+    Her probity and integrity are beyond question.
+#她的诚实和正直是无可置疑的。
+
+authenticate: 英[ɔːˈθentɪkeɪt] 美[ɔːˈθentɪkeɪt]
+%v. 鉴定；证明……是真实的；（用户，程序）验证身份
+    authenticate a story
+#证明报道属实
+    The painting has been authenticated as an original.
+#这幅画已被证明是真迹。
+
+chromosome: 英[ˈkrəʊməsəʊm] 美[ˈkroʊməsoʊm]
+%n. 染色体
+    sex chromosome
+#性别染色体
+
+untapped: 英[ˌʌnˈtæpt] 美[ˌʌnˈtæpt]
+%adj. 未利用的，未开发的；塞子未开的
+    untapped resources
+#未开垦的资源
+    Untapped potentials
+#未挖掘的潜力
+    the biggest untapped market in the world
+#世界上最大的未开发市场
+    By overlooking racial minorities, these companies are missing out on a wealth of untapped talent and skills.
+#由于忽略了少数民族，这些公司未能有效利用尚未开发的大量人才和技术资源。
+
+abeyance: 英[əˈbeɪəns] 美[əˈbeɪəns]
+%n. 中止，停顿；归属待定，暂搁
+    fall /go into abeyance
+#中止
+    in abeyance
+#处于中止/搁置状态
+    The custom was revived after an abeyance of several centuries.
+#这一风俗在中断了几个世纪后又重新流行起来。
+
+noncommittal: 英[ˌnɒnkəˈmɪtəl] 美[ˌnɑːnkəˈmɪtl]
+%adj. 不表态的，含糊的；不承担义务的
+    a noncommittal answer
+#含糊的回答
+    a noncommittal letter
+#含糊其词的信
+    The ambassador was typically noncommittal when asked whether further sanctions would be introduced.
+#当被问及是否会进一步制裁时，大使如既往地概不表态。
+
+expediency: 英[ɪkˈspiːdiənsi] 美[ɪkˈspiːdiənsi]
+%n. 方便，权宜；私利；权宜之计
+    act from expediency but not from principle
+#从自身利益考虑出发，而非按原则行事
+    As a matter of expediency, we will not be taking on any new staff this year.
+#作为权宜之计，今年我们不再接收新职员。
+
+ascetic: 英[əˈsetɪk] 美[əˈsetɪk]
+$adj. 苦行的；禁欲主义的
+%n. 苦行者；禁欲者
+    live a very ascetic life
+#过清心寡欲的生活
+    He has spent most of his adult life living as an ascetic.
+#他在成年的大部分时间里过着苦行者的日子。
+
+ineligible: 英[ɪnˈelɪdʒəb(ə)l] 美[ɪnˈelɪdʒəb(ə)l]
+$adj. 不合格的；不适任的；无被选资格的
+%n. 无被选资格的人
+    be ineligible for the competition
+#无资格参加比赛
+    be ineligible to unemployment benefit
+#无资格享受失业津贴
+    Many people would become ineligible to receive state aid because their earnings, although small, are above the new limit.
+#许多人将没有资格接受政府的救济金，因为尽管他们的收人少，却超过了新的标准界线。
+
+temptation: 英[tempˈteɪʃ(ə)n] 美[tempˈteɪʃ(ə)n]
+%n. 引诱，诱惑；诱惑人的东西；（魔鬼对耶稣的）引诱（the Temptation）
+    Clever advertisements are temptations to spend money.
+#巧妙的广告是诱人花钱的花招。
+
+succinct: 英[səkˈsɪŋkt] 美[səkˈsɪŋkt]
+%adj. 言简意赅的，简练的 ；<古>紧身的
+    succinct terms
+#简洁的措辞
+    a succinct refusal
+#直截了当的拒绝
+    Her writing is confident and succinct.
+#她的作文自信而简洁。
+
+saturnine: 英[ˈsætənaɪn] 美[ˈsætərnaɪn]
+%adj. 忧郁的；阴沉的；铅中毒的；沉默寡言的
+    a saturnine smile
+#冷笑
+    a saturnine character
+#阴沉的性格
+
+descry: 英[dɪˈskraɪ] 美[dɪˈskraɪ]
+%vt. 看见；发现；察看
+    descry an island in the distance
+#看见远处有一座岛
+    He descried a way out of his troubles.
+#他找到了一条摆脱困境的出路。
+
+mordant: 英[ˈmɔːd(ə)nt] 美[ˈmɔːrd(ə)nt]
+$adj. 有腐蚀性的；尖酸的；辛辣的
+$n. [助剂]媒染剂；金属腐蚀剂；金属箔粘着剂
+$vt. 媒染；用媒染剂处理
+%n. （Mordant）人名；（英）莫登特；（法）莫尔当
+    a mordant remark
+#讽刺性评论
+    mordant criticism
+#尖锐的批评
+    mordant pain
+#灼痛
+
+tribulation: 英[ˌtrɪbjuˈleɪʃ(ə)n] 美[ˌtrɪbjuˈleɪʃ(ə)n]
+%n. 苦难；磨难；忧患
+    bear one's tribulations bravely
+#勇敢地忍受艰难困苦
+    The war was a time of tribulation for all of us.
+#那场战争对我们大家来说都是一次苦难。
+
+misnomer: 英[ˌmɪsˈnəʊmə(r)] 美[ˌmɪsˈnoʊmər]
+%n. 用词不当；误称；写错姓名
+    "Fruit" as used to describe potatoes is a misnomer.
+#用“水果”一词来形容土豆是用词不当。
+
+altruism: 英[ˈæltruɪzəm] 美[ˈæltruɪzəm]
+%n. 利他；利他主义
+    An important feature of moral behaviour is altruism. 
+#道德行为一个重要特点就是利他主义。
+
+feigned: 英[feɪnd] 美[feɪnd]
+$adj. 假的；做作的；捏造的
+%v. 假装；捏造（feign 的过去式）
+    feigned civilities
+#虚假的客套
+    speak in a feigned voice
+#用假嗓子讲话
+
+suffragist: 英[ˈsʌfrədʒɪst] 美[ˈsʌfrədʒɪst]
+%n. 妇女政权论者；参政权扩大论者
+    In 1842, the suffragist movement under the leadership of Thomas Dorr developed into an armed rebellion, which eventually forced the state government to adopt universal suffrage.
+#1842年，争取普选权的运动在多尔律师领导下演变为武装起义，迫使州政府做出让步。
+
+dispensable: 英[dɪˈspensəb(ə)l] 美[dɪˈspensəb(ə)l]
+%adj. 不必要的，可有可无的；（法律或其他规则）在特定情况下可放宽的，可通融的
+    The government eliminated the dispensable items from the budget.
+#政府去除了预算中不必要的项目。
+
+deleterious: 英[ˌdeləˈtɪəriəs] 美[ˌdeləˈtɪriəs]
+%adj. 有毒的，有害的
+    These drugs have a proven deleterious effect on the nervous system.
+#经证实，这些药物对于神经系统具有损害作用。
+
+particulate: 英[pɑːˈtɪkjələt] 美[pɑːrˈtɪkjələt]
+$adj. 微粒的
+%n. 微粒，微粒状物质
+    particulate matter
+#颗粒物质
+
+urbane: 英[ɜːˈbeɪn] 美[ɜːrˈbeɪn]
+%adj. 彬彬有礼的，温文尔雅的；都市化的
+    an urbane manner
+#彬彬有礼的态度
+    David was the most urbane of correspondents.
+#戴维是记者中最有礼貌的一位。
+
+hypersensitive: 英[ˌhaɪpəˈsensətɪv] 美[ˌhaɪpərˈsensətɪv]
+%adj. 过敏的；高灵敏度的；超感光度的
+    be hypersensitive about one's height
+#对身高敏感
+    Her damaged eyes are hypersensitive to light.
+#她受伤的眼睛对光过敏。
+
+potshot: 英[ˈpɒtʃɒt] 美[ˈpɑːtʃɑːt]
+$n. 乱射；肆意抨击
+%v. 肆意抨击；射击（potshoot 的过去分词）
+    fire verbal potshots at sb.
+#对某人进行口头攻击
+    They were taking potshots at passing rabbits.
+#他们向奔窜而过的野兔乱开枪。
+
+cogent: 英[ˈkəʊdʒənt] 美[ˈkoʊdʒənt]
+%adj. 有说服力的，令人信服的；清晰的，合乎逻辑的
+    cogent forces of nature
+#大自然的强大威力
+    The arguments are cogent enough.
+#这些论据足以使人信服。
+
+antagonistic: 英[ænˌtæɡəˈnɪstɪk] 美[ænˌtæɡəˈnɪstɪk]
+%adj. 敌对的，反对的，仇恨的；拮抗物（或拮抗作用）的
+    The directors are taking an unnecessarily antagonistic approach towards these negotiations.
+#董事们在这些谈判项目上采取了一种不必要的对抗态度。
+
+mite: 英[maɪt] 美[maɪt]
+$n. 小虫，螨；（可怜的）小孩儿，小动物；微粒，微小的东西；少量，极小量；小硬币
+%adv. （非正式）一点儿，稍许
+    I think you are being a mite stingy by offering him $300.
+#我想你给他300美元有点小气。
+
+impute: 英[ɪmˈpjuːt] 美[ɪmˈpjuːt]
+%vt. 归罪于，归咎于；嫁祸于
+    Because of his arrogance he would always impute stupidity to those who disagreed with him.
+#因为他很傲慢，所以他总认为是别人太蠢才会不同意他的意见。
+
+humanitarian: 英[hjuːˌmænɪˈteəriən] 美[hjuːˌmænɪˈteriən]
+$adj. 人道主义的，博爱的；基督凡人论的
+%n. 人道主义者，博爱者；慈善家；基督凡人论者
+    humanitarian aid
+#人道主义援助
+    The prisoner has been released for humanitarian reasons.
+#因犯因人道主义原因而获释。
+
+incomprehensible: 英[ɪnˌkɒmprɪˈhensəb(ə)l] 美[ɪnˌkɑːmprɪˈhensəb(ə)l]
+%adj. 费解的；无限的；不可思议的
+    Her northern accent is incomprehensible to the majority of southerners.
+#她的北方口音对绝大多数南方人来说很难听懂。
+
+unreasonable: 英[ʌnˈriːz(ə)nəb(ə)l] 美[ʌnˈriːz(ə)nəb(ə)l]
+%adj. 不合理的；过度的；不切实际的；非理智的
+    an unreasonable woman
+#不讲道理的女人
+    unreasonable conduct
+#悖理行为
+    an unreasonable price
+#过高的价格
+    Their request doesn't seem unreasonable.
+#他们的要求看来并不过分。
+
+impudent: 英[ˈɪmpjədənt] 美[ˈɪmpjədənt]
+%adj. 无耻的；鲁莽的；放肆无礼的
+    an impudent remark
+#放肆的言论
+    The impudent boy made faces at his teacher.
+#这个无礼的男孩冲着老师做鬼脸。
+
+platitude: 英[ˈplætɪtjuːd] 美[ˈplætɪtuːd]
+%n. 陈词滥调；平凡；陈腐
+    empty platitude about peace and democracy
+#关于和平和民主的空洞的陈词滥调
+
+combative: 英[ˈkɒmbətɪv] 美[kəmˈbætɪv]
+%adj. 好战的，好争论的
+    The prime minister was in a combative mood and made several verbal attacks on the opposition.
+#首相现在斗志昂扬，对反对党进行了好几次口头攻击。
+
+momentarily: 英[ˈməʊməntrəli] 美[ˌmoʊmənˈterəli]
+%adv. 片刻地，短暂地；<美>立刻
+    He was momentarily confused by the road signs but soon found the right way.
+#他被路标迷惑了一会儿，但很快就找到了正确的路。
+
+astigmatic: 英[ˌæstɪɡˈmætɪk] 美[ˌæstɪɡˈmætɪk]
+%adj. 散光的；乱视的；矫正散光的
+    astigmatic lenses
+#散光镜
+
+guile: 英[ɡaɪl] 美[ɡaɪl]
+%n. 狡猾；诡计；欺诈
+    a man without guile
+#厚道人
+    get sth. by guile
+#诈取某物
+    He is a simple, honest man, totally lacking in guile.
+#他是个淳朴诚实的人，一点也不狡诈。
+
+drudgery: 英[ˈdrʌdʒəri] 美[ˈdrʌdʒəri]
+%n. 苦工，苦差事
+    the drudgery of housework
+#单调乏味的家务劳动
+    Her whole life was spent in drudgery.
+#她一生都很辛苦。
+
+effervescence: 英[ˌefəˈves(ə)ns] 美[ˌefərˈvesns]
+%n. 冒泡；[化工] 泡腾；欢腾
+    She called out in rapturous effervescence of expectation.
+#她在期待的狂喜中大声喊叫起来。
+
+blazing: 英[ˈbleɪzɪŋ] 美[ˈbleɪzɪŋ]
+$adj. 燃烧的；耀眼的，炽热的；（力量、速度等）强烈的；（争论）激烈的；极其愤怒的，情感强烈的
+$adv. 与火或热量相关地
+$n. 猛烈燃烧的火焰
+%v. 燃烧；闪耀；怒视；（愤怒等情绪）突然爆发；（枪或射击者）连续射击；（非正式）夺取，摘取；大力击（球）；（报纸）耸人听闻地报道，大肆宣扬（blaze 的现在分词）
+    the blazing heat of the midday sun
+#炽热的正午阳光
+    in a blazing temper
+#大发脾气
+    a blazing lie
+#明显的谎言
+    We quickly get tired in the blazing sunshine.
+#在炽热的阳光下我们很快就累了。
+
+supernova: 英[ˈsuːpənəʊvə] 美[ˈsuːpərnoʊvə]
+%n. [天] 超新星
+    He is a satiric supernova.
+#他是个写讽刺作品的超级新秀。
+
+ostracize: 英[ˈɒstrəsaɪz] 美[ˈɑːstrəsaɪz]
+%vt. 放逐；排斥；按贝壳流放法放逐
+    be socially ostracized
+#遭到社会的摒弃
+    His colleagues ostracized him after he criticized the company in public.
+#他在公共场合批评了公司之后，他的同事开始疏远他。
+
+wistful: 英[ˈwɪstf(ə)l] 美[ˈwɪstf(ə)l]
+%adj. （因求而不得）失意的，伤感的；思念的，怀旧的
+    have a last wistful look round the room
+#留恋地最后环顾一下房间
+    They often talked together in a wistful way about their hometown.
+#他们常常在一起怀着思念之情谈起故乡。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

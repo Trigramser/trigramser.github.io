@@ -1,0 +1,729 @@
+<<<<<<< HEAD
+guilt: 英[ɡɪlt] 美[ɡɪlt]
+%n. 内疚；罪行；罪责
+    a guilt-ridden man
+#内疚感很深的人
+    be filled with guilt at having failed sb.
+#因辜负某人而内心深感不安
+    live with a burden of guilt
+#时时深受良心的谴责活着
+    She was tormented by feelings of guilt and shame over what she had done.
+#她被内疚感所折磨，为她的所为感到羞耻。
+
+derogatory: 英[dɪˈrɒɡətri] 美[dɪˈrɑːɡətɔːri]
+%adj. 贬低的，贬义的
+    be derogatory to one's reputation
+#有损某人的声誉
+    His statements are very derogatory of/to/towards his colleagues.
+#他的说法对同事很有贬损之意。
+
+gratuitous: 英[ɡrəˈtjuːɪtəs] 美[ɡrəˈtuːɪtəs]
+%adj. 无理由的，无端的；免费的
+    gratuitous service
+#免费的服务
+    a gratuitous insult
+#无端的侮辱
+    a gratuitous liar
+#信口扯谎者
+    A lot of viewers complained that there were too many gratuitous elements in the film.
+#许多观众抱怨电影里充斥着过多不必要的元素。
+
+imperious: 英[ɪmˈpɪəriəs] 美[ɪmˈpɪriəs]
+%adj. 专横的；迫切的；傲慢的
+    an imperious boss
+#飞扬跋扈的老板
+    an imperious tone
+#傲慢的口气
+    imperious need
+#迫切需要
+    He sent them away with an imperious wave of the hand.
+#他专横地挥了挥手把他们打发走。
+
+ferocity: 英[fəˈrɒsəti] 美[fəˈrɑːsəti]
+%n. 凶猛；残忍；暴行
+    ferocity on one's face
+#满脸凶光
+    The ferocity of the attack has shocked a lot of people.
+#这次袭击之猛烈使许多人感到震惊。
+
+generosity: 英[ˌdʒenəˈrɒsəti] 美[ˌdʒenəˈrɑːsəti]
+%n. 慷慨，大方
+    live on the generosity of one's friends
+#靠朋友的慷慨接济生活
+    sb.'s countless generosity
+#某人数不清的慷慨行为
+    the extreme generosity of illustrations
+#极其丰富的插图
+    He showed generosity in dealing with a defeated enemy.
+#他对待败敌很宽宏大量。
+
+euphemism: 英[ˈjuːfəmɪzəm] 美[ˈjuːfəmɪzəm]
+%n. 委婉语，委婉说法
+    The article made so much use of euphemism that its meaning was often unclear.
+#这篇文章用了那么多委婉说法，常有意思不明之处。
+
+flout: 英[flaʊt] 美[flaʊt]
+$v. 藐视，无视（规则、法律等）；嘲笑，愚弄
+%n. 嘲笑，愚弄
+    flout the advice
+#对劝告嗤之以鼻
+    flout authority
+#藐视权威
+    The research indicates that six out of ten rear passengers flout the law by not wearing their belts.
+#调查表明，坐在车后部的乘客十个中有六个无视法律规定，不系安全带。
+
+quixotic(al): 英[kwɪkˈsɒtɪk] 美[kwɪkˈsɑːtɪk]
+%adj. 唐吉诃德式的；狂想家的；愚侠的
+    This is a vast, exciting and perhaps quixotic project.
+#这是个宏大、令人振奋但或许是不切实际的计划。
+
+fallible: 英[ˈfæləb(ə)l] 美[ˈfæləb(ə)l]
+%adj. 易犯错误的；不可靠的
+    This method is all too fallible because it depends on careful and accurate timing.
+#这种方法极易出错，因为需要仔细而精确的计时。
+
+eventful: 英[ɪˈventf(ə)l] 美[ɪˈventf(ə)l]
+%adj. 充满大事的，多变故的；重大的，重要的
+    an eventful year
+#多事的年头
+    an eventful affair
+#重大的事件
+    an eventful decision
+#重要的决定
+    Her time at university was the most eventful period of her life.
+#她的大学时期是她一生中发生事情最多的时期。
+
+delimit: 英[diːˈlɪmɪt] 美[diːˈlɪmɪt]
+%vt. 划界；定界限
+    delimit a boundary
+#划定边界
+    Police powers are delimited by law.
+#警察的权限由法律划定。
+
+impersonate: 英[ɪmˈpɜːsəneɪt] 美[ɪmˈpɜːrsəneɪt]
+%vt. 扮演；模仿；拟人，人格化
+    impersonate a police officer
+#扮演警官
+    impersonate the pioneer spirit
+#体现先驱精神
+    She's the woman who impersonates the Queen on TV.
+#她是在电视中扮演女王的人。
+
+avid: 英[ˈævɪd] 美[ˈævɪd]
+%adj. 热心的，热衷的；渴望的，渴求的
+    an avid reader
+#热心的读者
+    an avid eye
+#急切的目光
+    the dictator's avid desire for power
+#独裁者搜取权力的迫切愿望
+    an avid moviegoer
+#电影迷
+    have an avid desire for
+#渴望
+    She was an avid proponent of equal rights for immigrants.
+#她是一位主张移民应获得平等权利的热心倡议者。
+
+seminal: 英[ˈsemɪn(ə)l] 美[ˈsemɪn(ə)l]
+%adj. 有创造力的，对未来有影响的；重大的；种子的；精液的；生殖的
+    a seminal article
+#很有见地的文章
+    play a seminal role
+#起到重大作用
+    in the seminal state
+#处于萌芽状态
+    It took her ten years to collect and check all the materials that have gone into this seminal work.
+#她花了十年的时间来收集和核查所有资料，为这项具有开创性的工作做了准备。
+
+decorous: 英[ˈdekərəs] 美[ˈdekərəs]
+%adj. 有礼貌的，高雅的；端正的
+    a decorous performance
+#稳重的表现
+    He explained the problem in his careful and decorous way.
+#他谨慎得体地解释了这个问题。
+
+generation: 英[ˌdʒenəˈreɪʃ(ə)n] 美[ˌdʒenəˈreɪʃ(ə)n]
+%n. 一代（人）；一代人的时间；（产品发展的）代；产生
+    the younger generation
+#年轻一代
+    be handed down from one generation to the next
+#一代传至下一代
+    the older generation
+#老一辈
+    sb.'s descendant in the tenth generation
+#某人的第十代后裔
+    the post-war generation
+#战后的一代人
+    factors in the generation of income
+#产生收益的因素
+    Environmental resources must be preserved for future generations.
+#（人）为了后代必须要保护好环境资源。
+
+affront: 英[əˈfrʌnt] 美[əˈfrʌnt]
+$n. （当众）侮辱，（故意）冒犯；
+%v. 冒犯，侮辱；面对；相遇
+    an affront to one's dignify
+#对某人尊严的冒犯
+    an affronted look
+#受辱的眼神
+    suffer an affront
+#遭到公开侮辱
+    commit an affront to sb.'s authority
+#冒犯某人的权威
+    The publication of the novel is an affront to them.
+#这部小说的出版是对他们的故意侮辱。
+
+folklore: 英[ˈfəʊklɔː(r)] 美[ˈfoʊklɔːr]
+%n. 民间传说，民俗；民俗学
+    Her books are often based on folklore and fairy tales.
+#她的书常取材于民间传说和童话。
+
+banal: 英[bəˈnɑːl] 美[bəˈnɑːl]
+%adj. 平淡无奇的，平庸的，陈腐的
+    a banal lecture
+#平庸的演讲
+    banal food
+#无特色的菜
+    He just sat there making banal remarks all evening.
+#他整晚都坐在那里说些无聊的话。
+
+fortitude: 英[ˈfɔːtɪtjuːd] 美[ˈfɔːrtɪtuːd]
+%n. 刚毅；不屈不挠；勇气
+    show great fortitude
+#表现出极大的坚韧
+    These brave people met their troubles with splendid fortitude of spirit.
+#这些勇敢的人以杰出的坚韧不拔的精神应对重重困难。
+
+resentful: 英[rɪˈzentf(ə)l] 美[rɪˈzentf(ə)l]
+%adj. 气愤的，憎恨的
+    be resentful at the way one is treated
+#对自己受到的待遇愤愤不平
+    resentful remarks
+#怨言气话
+    She was resentful at having been left out of the team.
+#她因被运动队淘汰而感到气愤。
+
+stately: 英[ˈsteɪtli] 美[ˈsteɪtli]
+%adj. 庄严的；堂皇的，宏伟的
+    a slow, stately pace
+#缓慢而庄重的步伐
+    a stately building
+#宏伟的建筑
+    He always walks with a stately bearing.
+#他经常带着威严的神态走路。
+
+peripatetic: 英[ˌperipəˈtetɪk] 美[ˌperipəˈtetɪk]
+$adj. 漫游的；逍遥学派的
+%n. 走来走去的人；逍遥学派的人
+    peripatetic candidates
+#四处游说的候选人
+    a peripatetic scissors grinder
+#流动磨剪刀的人
+    He lived a peripatetic life.
+#他过着漂泊不定的生活。
+
+whimsy: 英[ˈwɪmzi] 美[ˈwɪmzi]
+%n. 怪念头；反复无常
+    a story full of whimsy
+#充满离奇情节的故事
+    I think the play is a reasonably diverting piece of English whimsy but that's all.
+#我认为这出戏可算是有趣的英国式荒诞，仅此而已。
+
+smug: 英[smʌɡ] 美[smʌɡ]
+$adj. 自鸣得意的；自以为是的；整洁的
+%n. 书呆子；自命不凡的家伙
+    get nothing to be smug about
+#没有什么可自鸣得意的
+    a clean, smug town
+#清洁整齐的城镇
+    It's difficult to tell people about my good exam results without sounding smug.
+#要告诉别人我考试的好成绩，同时又不听起来沾沾自喜，真是件难事。
+
+axiom: 英[ˈæksiəm] 美[ˈæksiəm]
+%n. [数] 公理；格言；自明之理
+    a widely held axiom
+#普遍接受的公理
+    the fundamental axioms of diplomacy
+#外交基本原则
+    The victorious team had skillfully demonstrated the old axiom about attack being the best form of defence.
+#胜利的一方有力地证明了古老的格言——进攻是最好的防守方式。
+
+foible: 英[ˈfɔɪbl] 美[ˈfɔɪb(ə)l]
+%n. 弱点；小缺点；癖好
+    We all have our little foibles.
+#我们每个人都有些小缺点。
+
+nibble: 英[ˈnɪb(ə)l] 美[ˈnɪb(ə)l]
+$v. 啃，小口咬；反复轻咬；（对提议或想法）略显兴趣；蚕食；（动物）小口地啃
+%n. 一小口；<非正式>（常为聚会上提供的）点心，小吃（nibbles）；<非正式>对商业机会感兴趣的表示
+    nibble a hole in the sofa
+#在沙发上咬一个洞
+    take a nibble
+#尝一小口
+    nibble at one's supper
+#小口吃晚饭
+    nibble at the new book
+#对新书吹毛求疵
+    A mouse has nibbled through the cables that link our computers together.
+#老鼠嘴断了连接我的计算机的电缆线。
+
+enumerate: 英[ɪˈnjuːməreɪt] 美[ɪˈnuːməreɪt]
+%vt. 列举；枚举；计算
+    enumerate the benefits of
+#列举……的好处
+    There were more birds there than I could enumerate.
+#那里的鸟多得数不胜数。
+
+synoptic: 英[sɪˈnɒptɪk] 美[sɪˈnɑːptɪk]
+%adj. 天气的；概要的；对观福音书的
+    a synoptic presentation of a theory
+#一种理论的概述
+    a synoptic chart
+#天气图
+
+incoherent: 英[ˌɪnkəʊˈhɪərənt] 美[ˌɪnkoʊˈhɪrənt]
+%adj. 语无伦次的；不连贯的；不合逻辑的
+    a man incoherent from sorrow
+#因悲伤而语无伦次的人
+    He was confused and incoherent and I didn't get much sense out of him.
+#他很慌乱，说话语无伦次，我听不懂他在说些什么。
+
+assiduous: 英[əˈsɪdʒuəs] 美[əˈsɪdʒuəs]
+%adj. 刻苦的，勤勉的
+    assiduous research
+#锲而不舍的研究
+    an assiduous student
+#孜孜不倦的学生
+    an assiduous editing
+#一丝不苟的编辑工作
+    The government has been assiduous in the fight against corruption.
+#政府一直不遗余力地同腐败做斗争。
+
+blatant: 英[ˈbleɪt(ə)nt] 美[ˈbleɪt(ə)nt]
+%adj. 喧嚣的；公然的；炫耀的；俗丽的
+    blatant colors
+#刺眼的颜色
+    blatant intrusion into a nation's internal affairs
+#对一国内政的公然干预
+    It was a blatant lie and showed a reckless disregard for the truth.
+#这是一个弥天大谎，公然无视事实真相。
+
+clamber: 英[ˈklæmbə(r)] 美[ˈklæmbər]
+$vi. 攀登，爬上
+$vt. 爬，攀登
+%n. 攀登，爬上
+    clamber over/up the rocks
+#攀岩
+    clamber into the bus
+#挤进公共汽车
+    I was completely out of breath after my clamber up the hillside.
+#我攀登上山坡后完全是上气不接下气了。
+
+duplicity: 英[djuːˈplɪsəti] 美[duːˈplɪsəti]
+%n. 口是心非；表里不一；不诚实
+    They were accused of duplicity in their dealings with both sides.
+#他们被指控在和双方打交道时都有欺骗行为。
+
+utopian: 英[juːˈtəʊpiən] 美[juːˈtoʊpiən]
+$adj. 乌托邦的；空想的；理想化的
+%n. 空想家；乌托邦的居民
+    utopian goals
+#乌托邦式的目标
+    the utopian nature of one's hopes
+#所抱希望的不切实际性
+
+inept: 英[ɪnˈept] 美[ɪˈnept]
+%adj. 笨拙的；不适当的
+    a rather inept comment
+#很不明智的评论
+    an inept comparison
+#不恰当的比较
+    insolent and inept behavior
+#傲慢而愚蠢的行为
+    The election comes amid charges for inept leadership and government mismanagement.
+#在批评领导无能和政府管理不善的指责声中（该国）迎来了大选。
+
+surrogate: 英[ˈsʌrəɡət] 美[ˈsɜːrəɡət]
+$adj. 替代的，代理的
+$n. 代理人，替代者；代孕母亲；（基督教）（签发结婚证书的）主教代理人；遗嘱检验法官
+%v. 取代，替代；指定（某人）为自己的代理人
+    a surrogate woman
+#代孕妇，代理母亲
+    the surrogate money
+#代用货币
+    For some people, reading travel books is a surrogate for actual travel.
+#对某些人来说，读游记可代替真正的旅行。
+
+hackneyed: 英[ˈhæknid] 美[ˈhæknid]
+$adj. 陈腐的；平庸的
+%v. 出租（马匹、马车等）；役使（hackney 的过去式）
+    a hackneyed expression
+#陈词滥调
+    The plot of this film is just a hackneyed boy-meets-girl love story.
+#这部电影的情节只是一个老套的爱情故事。
+
+=======
+guilt: 英[ɡɪlt] 美[ɡɪlt]
+%n. 内疚；罪行；罪责
+    a guilt-ridden man
+#内疚感很深的人
+    be filled with guilt at having failed sb.
+#因辜负某人而内心深感不安
+    live with a burden of guilt
+#时时深受良心的谴责活着
+    She was tormented by feelings of guilt and shame over what she had done.
+#她被内疚感所折磨，为她的所为感到羞耻。
+
+derogatory: 英[dɪˈrɒɡətri] 美[dɪˈrɑːɡətɔːri]
+%adj. 贬低的，贬义的
+    be derogatory to one's reputation
+#有损某人的声誉
+    His statements are very derogatory of/to/towards his colleagues.
+#他的说法对同事很有贬损之意。
+
+gratuitous: 英[ɡrəˈtjuːɪtəs] 美[ɡrəˈtuːɪtəs]
+%adj. 无理由的，无端的；免费的
+    gratuitous service
+#免费的服务
+    a gratuitous insult
+#无端的侮辱
+    a gratuitous liar
+#信口扯谎者
+    A lot of viewers complained that there were too many gratuitous elements in the film.
+#许多观众抱怨电影里充斥着过多不必要的元素。
+
+imperious: 英[ɪmˈpɪəriəs] 美[ɪmˈpɪriəs]
+%adj. 专横的；迫切的；傲慢的
+    an imperious boss
+#飞扬跋扈的老板
+    an imperious tone
+#傲慢的口气
+    imperious need
+#迫切需要
+    He sent them away with an imperious wave of the hand.
+#他专横地挥了挥手把他们打发走。
+
+ferocity: 英[fəˈrɒsəti] 美[fəˈrɑːsəti]
+%n. 凶猛；残忍；暴行
+    ferocity on one's face
+#满脸凶光
+    The ferocity of the attack has shocked a lot of people.
+#这次袭击之猛烈使许多人感到震惊。
+
+generosity: 英[ˌdʒenəˈrɒsəti] 美[ˌdʒenəˈrɑːsəti]
+%n. 慷慨，大方
+    live on the generosity of one's friends
+#靠朋友的慷慨接济生活
+    sb.'s countless generosity
+#某人数不清的慷慨行为
+    the extreme generosity of illustrations
+#极其丰富的插图
+    He showed generosity in dealing with a defeated enemy.
+#他对待败敌很宽宏大量。
+
+euphemism: 英[ˈjuːfəmɪzəm] 美[ˈjuːfəmɪzəm]
+%n. 委婉语，委婉说法
+    The article made so much use of euphemism that its meaning was often unclear.
+#这篇文章用了那么多委婉说法，常有意思不明之处。
+
+flout: 英[flaʊt] 美[flaʊt]
+$v. 藐视，无视（规则、法律等）；嘲笑，愚弄
+%n. 嘲笑，愚弄
+    flout the advice
+#对劝告嗤之以鼻
+    flout authority
+#藐视权威
+    The research indicates that six out of ten rear passengers flout the law by not wearing their belts.
+#调查表明，坐在车后部的乘客十个中有六个无视法律规定，不系安全带。
+
+quixotic(al): 英[kwɪkˈsɒtɪk] 美[kwɪkˈsɑːtɪk]
+%adj. 唐吉诃德式的；狂想家的；愚侠的
+    This is a vast, exciting and perhaps quixotic project.
+#这是个宏大、令人振奋但或许是不切实际的计划。
+
+fallible: 英[ˈfæləb(ə)l] 美[ˈfæləb(ə)l]
+%adj. 易犯错误的；不可靠的
+    This method is all too fallible because it depends on careful and accurate timing.
+#这种方法极易出错，因为需要仔细而精确的计时。
+
+eventful: 英[ɪˈventf(ə)l] 美[ɪˈventf(ə)l]
+%adj. 充满大事的，多变故的；重大的，重要的
+    an eventful year
+#多事的年头
+    an eventful affair
+#重大的事件
+    an eventful decision
+#重要的决定
+    Her time at university was the most eventful period of her life.
+#她的大学时期是她一生中发生事情最多的时期。
+
+delimit: 英[diːˈlɪmɪt] 美[diːˈlɪmɪt]
+%vt. 划界；定界限
+    delimit a boundary
+#划定边界
+    Police powers are delimited by law.
+#警察的权限由法律划定。
+
+impersonate: 英[ɪmˈpɜːsəneɪt] 美[ɪmˈpɜːrsəneɪt]
+%vt. 扮演；模仿；拟人，人格化
+    impersonate a police officer
+#扮演警官
+    impersonate the pioneer spirit
+#体现先驱精神
+    She's the woman who impersonates the Queen on TV.
+#她是在电视中扮演女王的人。
+
+avid: 英[ˈævɪd] 美[ˈævɪd]
+%adj. 热心的，热衷的；渴望的，渴求的
+    an avid reader
+#热心的读者
+    an avid eye
+#急切的目光
+    the dictator's avid desire for power
+#独裁者搜取权力的迫切愿望
+    an avid moviegoer
+#电影迷
+    have an avid desire for
+#渴望
+    She was an avid proponent of equal rights for immigrants.
+#她是一位主张移民应获得平等权利的热心倡议者。
+
+seminal: 英[ˈsemɪn(ə)l] 美[ˈsemɪn(ə)l]
+%adj. 有创造力的，对未来有影响的；重大的；种子的；精液的；生殖的
+    a seminal article
+#很有见地的文章
+    play a seminal role
+#起到重大作用
+    in the seminal state
+#处于萌芽状态
+    It took her ten years to collect and check all the materials that have gone into this seminal work.
+#她花了十年的时间来收集和核查所有资料，为这项具有开创性的工作做了准备。
+
+decorous: 英[ˈdekərəs] 美[ˈdekərəs]
+%adj. 有礼貌的，高雅的；端正的
+    a decorous performance
+#稳重的表现
+    He explained the problem in his careful and decorous way.
+#他谨慎得体地解释了这个问题。
+
+generation: 英[ˌdʒenəˈreɪʃ(ə)n] 美[ˌdʒenəˈreɪʃ(ə)n]
+%n. 一代（人）；一代人的时间；（产品发展的）代；产生
+    the younger generation
+#年轻一代
+    be handed down from one generation to the next
+#一代传至下一代
+    the older generation
+#老一辈
+    sb.'s descendant in the tenth generation
+#某人的第十代后裔
+    the post-war generation
+#战后的一代人
+    factors in the generation of income
+#产生收益的因素
+    Environmental resources must be preserved for future generations.
+#（人）为了后代必须要保护好环境资源。
+
+affront: 英[əˈfrʌnt] 美[əˈfrʌnt]
+$n. （当众）侮辱，（故意）冒犯；
+%v. 冒犯，侮辱；面对；相遇
+    an affront to one's dignify
+#对某人尊严的冒犯
+    an affronted look
+#受辱的眼神
+    suffer an affront
+#遭到公开侮辱
+    commit an affront to sb.'s authority
+#冒犯某人的权威
+    The publication of the novel is an affront to them.
+#这部小说的出版是对他们的故意侮辱。
+
+folklore: 英[ˈfəʊklɔː(r)] 美[ˈfoʊklɔːr]
+%n. 民间传说，民俗；民俗学
+    Her books are often based on folklore and fairy tales.
+#她的书常取材于民间传说和童话。
+
+banal: 英[bəˈnɑːl] 美[bəˈnɑːl]
+%adj. 平淡无奇的，平庸的，陈腐的
+    a banal lecture
+#平庸的演讲
+    banal food
+#无特色的菜
+    He just sat there making banal remarks all evening.
+#他整晚都坐在那里说些无聊的话。
+
+fortitude: 英[ˈfɔːtɪtjuːd] 美[ˈfɔːrtɪtuːd]
+%n. 刚毅；不屈不挠；勇气
+    show great fortitude
+#表现出极大的坚韧
+    These brave people met their troubles with splendid fortitude of spirit.
+#这些勇敢的人以杰出的坚韧不拔的精神应对重重困难。
+
+resentful: 英[rɪˈzentf(ə)l] 美[rɪˈzentf(ə)l]
+%adj. 气愤的，憎恨的
+    be resentful at the way one is treated
+#对自己受到的待遇愤愤不平
+    resentful remarks
+#怨言气话
+    She was resentful at having been left out of the team.
+#她因被运动队淘汰而感到气愤。
+
+stately: 英[ˈsteɪtli] 美[ˈsteɪtli]
+%adj. 庄严的；堂皇的，宏伟的
+    a slow, stately pace
+#缓慢而庄重的步伐
+    a stately building
+#宏伟的建筑
+    He always walks with a stately bearing.
+#他经常带着威严的神态走路。
+
+peripatetic: 英[ˌperipəˈtetɪk] 美[ˌperipəˈtetɪk]
+$adj. 漫游的；逍遥学派的
+%n. 走来走去的人；逍遥学派的人
+    peripatetic candidates
+#四处游说的候选人
+    a peripatetic scissors grinder
+#流动磨剪刀的人
+    He lived a peripatetic life.
+#他过着漂泊不定的生活。
+
+whimsy: 英[ˈwɪmzi] 美[ˈwɪmzi]
+%n. 怪念头；反复无常
+    a story full of whimsy
+#充满离奇情节的故事
+    I think the play is a reasonably diverting piece of English whimsy but that's all.
+#我认为这出戏可算是有趣的英国式荒诞，仅此而已。
+
+smug: 英[smʌɡ] 美[smʌɡ]
+$adj. 自鸣得意的；自以为是的；整洁的
+%n. 书呆子；自命不凡的家伙
+    get nothing to be smug about
+#没有什么可自鸣得意的
+    a clean, smug town
+#清洁整齐的城镇
+    It's difficult to tell people about my good exam results without sounding smug.
+#要告诉别人我考试的好成绩，同时又不听起来沾沾自喜，真是件难事。
+
+axiom: 英[ˈæksiəm] 美[ˈæksiəm]
+%n. [数] 公理；格言；自明之理
+    a widely held axiom
+#普遍接受的公理
+    the fundamental axioms of diplomacy
+#外交基本原则
+    The victorious team had skillfully demonstrated the old axiom about attack being the best form of defence.
+#胜利的一方有力地证明了古老的格言——进攻是最好的防守方式。
+
+foible: 英[ˈfɔɪbl] 美[ˈfɔɪb(ə)l]
+%n. 弱点；小缺点；癖好
+    We all have our little foibles.
+#我们每个人都有些小缺点。
+
+nibble: 英[ˈnɪb(ə)l] 美[ˈnɪb(ə)l]
+$v. 啃，小口咬；反复轻咬；（对提议或想法）略显兴趣；蚕食；（动物）小口地啃
+%n. 一小口；<非正式>（常为聚会上提供的）点心，小吃（nibbles）；<非正式>对商业机会感兴趣的表示
+    nibble a hole in the sofa
+#在沙发上咬一个洞
+    take a nibble
+#尝一小口
+    nibble at one's supper
+#小口吃晚饭
+    nibble at the new book
+#对新书吹毛求疵
+    A mouse has nibbled through the cables that link our computers together.
+#老鼠嘴断了连接我的计算机的电缆线。
+
+enumerate: 英[ɪˈnjuːməreɪt] 美[ɪˈnuːməreɪt]
+%vt. 列举；枚举；计算
+    enumerate the benefits of
+#列举……的好处
+    There were more birds there than I could enumerate.
+#那里的鸟多得数不胜数。
+
+synoptic: 英[sɪˈnɒptɪk] 美[sɪˈnɑːptɪk]
+%adj. 天气的；概要的；对观福音书的
+    a synoptic presentation of a theory
+#一种理论的概述
+    a synoptic chart
+#天气图
+
+incoherent: 英[ˌɪnkəʊˈhɪərənt] 美[ˌɪnkoʊˈhɪrənt]
+%adj. 语无伦次的；不连贯的；不合逻辑的
+    a man incoherent from sorrow
+#因悲伤而语无伦次的人
+    He was confused and incoherent and I didn't get much sense out of him.
+#他很慌乱，说话语无伦次，我听不懂他在说些什么。
+
+assiduous: 英[əˈsɪdʒuəs] 美[əˈsɪdʒuəs]
+%adj. 刻苦的，勤勉的
+    assiduous research
+#锲而不舍的研究
+    an assiduous student
+#孜孜不倦的学生
+    an assiduous editing
+#一丝不苟的编辑工作
+    The government has been assiduous in the fight against corruption.
+#政府一直不遗余力地同腐败做斗争。
+
+blatant: 英[ˈbleɪt(ə)nt] 美[ˈbleɪt(ə)nt]
+%adj. 喧嚣的；公然的；炫耀的；俗丽的
+    blatant colors
+#刺眼的颜色
+    blatant intrusion into a nation's internal affairs
+#对一国内政的公然干预
+    It was a blatant lie and showed a reckless disregard for the truth.
+#这是一个弥天大谎，公然无视事实真相。
+
+clamber: 英[ˈklæmbə(r)] 美[ˈklæmbər]
+$vi. 攀登，爬上
+$vt. 爬，攀登
+%n. 攀登，爬上
+    clamber over/up the rocks
+#攀岩
+    clamber into the bus
+#挤进公共汽车
+    I was completely out of breath after my clamber up the hillside.
+#我攀登上山坡后完全是上气不接下气了。
+
+duplicity: 英[djuːˈplɪsəti] 美[duːˈplɪsəti]
+%n. 口是心非；表里不一；不诚实
+    They were accused of duplicity in their dealings with both sides.
+#他们被指控在和双方打交道时都有欺骗行为。
+
+utopian: 英[juːˈtəʊpiən] 美[juːˈtoʊpiən]
+$adj. 乌托邦的；空想的；理想化的
+%n. 空想家；乌托邦的居民
+    utopian goals
+#乌托邦式的目标
+    the utopian nature of one's hopes
+#所抱希望的不切实际性
+
+inept: 英[ɪnˈept] 美[ɪˈnept]
+%adj. 笨拙的；不适当的
+    a rather inept comment
+#很不明智的评论
+    an inept comparison
+#不恰当的比较
+    insolent and inept behavior
+#傲慢而愚蠢的行为
+    The election comes amid charges for inept leadership and government mismanagement.
+#在批评领导无能和政府管理不善的指责声中（该国）迎来了大选。
+
+surrogate: 英[ˈsʌrəɡət] 美[ˈsɜːrəɡət]
+$adj. 替代的，代理的
+$n. 代理人，替代者；代孕母亲；（基督教）（签发结婚证书的）主教代理人；遗嘱检验法官
+%v. 取代，替代；指定（某人）为自己的代理人
+    a surrogate woman
+#代孕妇，代理母亲
+    the surrogate money
+#代用货币
+    For some people, reading travel books is a surrogate for actual travel.
+#对某些人来说，读游记可代替真正的旅行。
+
+hackneyed: 英[ˈhæknid] 美[ˈhæknid]
+$adj. 陈腐的；平庸的
+%v. 出租（马匹、马车等）；役使（hackney 的过去式）
+    a hackneyed expression
+#陈词滥调
+    The plot of this film is just a hackneyed boy-meets-girl love story.
+#这部电影的情节只是一个老套的爱情故事。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

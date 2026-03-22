@@ -1,0 +1,553 @@
+<<<<<<< HEAD
+induce:
+    Lack of proper care and love in early childhood can induce bad behavior in young people.
+#幼年时缺少必要的关心和爱会导致青年时期犯错。
+
+fracture:
+    The pipes will fracture if the temperature drops too low.
+#假如温度降得太低，管道会破裂的。
+
+signify:
+    Red often signifies danger.
+#红色通常标志着危险。
+
+objection:
+    The proposal will go ahead despite strong objections from the public.
+#尽管公众强烈反对，这项提案仍将付诸实施。
+
+borough:
+    The city is made up of 8 boroughs.
+#这座城市由8个行政区组成。
+
+bosom:
+    hold the child to one's bosom
+#把婴儿抱在怀里；
+    a bosom friend
+#密友；
+    spend Christmas in the bosom of one's family
+#在家庭温暖的怀抱里度过圣诞节；
+    take sth. to one's bosom
+#将某事深藏心中；
+    The baby sleeps in the mother's bosom.
+#婴儿在母亲的怀抱里睡着了。
+
+botanical:
+    stroll around the botanical garden
+#在植物园散步
+    The topical rain forest contains more than half of the earth's botanical species.
+#热带雨林包含一大半地球的植物种类。
+
+seamy:
+    a seamy scar
+#裂缝似的伤疤
+    a seamy divorce case
+#不体面的离婚案件
+
+fatten:
+    fatten the children up with milk
+#用牛奶把孩子喂胖
+    Pigs fattened on corn.
+#猪靠吃谷物长肥。
+
+encipher:
+    an enciphered telegram
+#密码电报
+
+inclement:
+    an inclement judge
+#严厉的法官
+    Inclement weather is common in winter.
+#恶劣的天气在冬天极为常见。
+
+gloat:
+    gloat about/over the new job
+#对新工作感到心满意足；
+    gloat over others' distress
+#幸灾乐祸地看着别人的困境
+    He couldn't resist a little gloat when the woman who had sacked him lost her own job.
+#当那个解雇他的女人自己也丢了工作时，他禁不住有点幸灾乐祸。
+
+glee:
+    laugh with glee
+#欢快地大笑；
+    in great/high glee
+#欢天喜地
+    When the check arrived, he hugged me in glee.
+#当支票送到时，他欣喜地拥抱我。
+
+guttle:
+    He guttled vast quantities of oysters and champagne at the party.
+#他在聚会时狼吞虎咽地吃了非常多的牡蛎，喝了非常多的香槟。
+
+extemporize:
+    extemporize a shelter for the night
+#临时搭个棚过夜；
+    extemporize an after-dinner speech
+#即席发表餐后演说
+    He can extemporize any of these subjects.
+#针对这些主题中的任何一个他都能即席发言。
+
+disproof:
+    He could not believe even with the disproof before his eyes.
+#甚至反证摆在眼前，他仍不能相信。
+
+aerate:
+    aerate the soil by digging
+#翻土使土通气
+
+frumpy:
+    He always wears really frumpy clothes.
+#他总是穿着完全过时的衣服。
+
+olfactory:
+    the dog's olfactory organs
+#狗的嗅觉器官
+
+noose:
+    the noose of marriage
+#婚姻的束缚
+    He was sentenced to the noose for his crimes.
+#他因累累罪行而被判处绞刑。
+
+ineffable:
+    ineffable joy
+#难以形容的喜悦；
+    ineffable disgust
+#说不出的厌恶；
+    an ineffable name
+#须避讳的名字
+
+cronyism:
+    Many small town mayor and city official practice cronyism.
+#许多小镇的市长和大城市的官员都有任人唯亲的行为。
+
+missive:
+    Your missive, while complete in other regards, skirted the subject of cost. 
+#你的信件虽然在其他方面很周全，但却回避了成本问题。
+cadge:
+    The beggar cadged dimes from passers-by.
+#乞丐向路人讨钱。
+
+landslide:
+    win/lose the election by a landslide
+#在竞选中大获全胜/一败涂地
+    Many houses were destroyed in the landslide that followed the torrential rains.
+#暴雨过后的場方使许多房屋被毁。
+
+hunker:
+    I perform best when I can hunker down and do some undisturbed work.
+#我发现当自己盘腿而坐，并在没有干扰的环境下任务完成的特别好。
+
+runic:
+    runic inscriptions
+#如尼文字的铭文
+
+temporize:
+    I can't permit you to temporize any longer.
+#我不能允许你再拖延时间了。
+
+peachy:
+    Everything looked just peachy.
+#看来一切都好得不能再好了。
+
+tasty:
+    Coarse salt shouldn't be used if you want to make tasty cakes.
+#如果你想做出美味的蛋糕，那么不要用粗盐。
+
+prong:
+    He stabbed himself with the prongs of a fork.
+#他用叉子的尖齿截伤了自己。
+
+caucus:
+    This multi-staged caucus takes several months.
+#这个多级会议常常历时好几个月。
+
+discretionary:
+    The magistrates were given wider discretionary power.
+#地方法官被赋予了更广泛的自由决定权。
+
+testy:
+    His voice turned testy.
+#他的语气变得不耐烦了。
+
+expatriate:
+    They have expatriated themselves and now live in New York.
+#他们放弃了原国籍，现居纽约。
+
+lexicographer:
+    The lexicographer knew that the English lexis was changing.
+#字典编纂者知道英语词汇在不断变化。
+
+depute:
+    She deputed the writing of a first draft to me.
+#她把写初稿的工作交给我。
+
+desist:
+    She never desisted from persuading him to return to his hometown.
+#她从未停止劝说他返回故乡。
+
+viscera:
+    The heart, stomach, liver, intestines and kidney are viscera.
+#心、胃、肝、肠和肾为内脏。
+
+viscid:
+    The oil in this thick and viscid form can kill animals by poisoning them.
+#这种又浓又黏的石油能够使动物中毒致死。
+
+pettish:
+    He was getting more and more pettish and hysterical.
+#他变得越来越任性，越来越歇斯底里。
+
+jounce:
+    The truck jounced along the mountain road.
+#卡车在山路上颠簸着前行。
+
+wrist:
+    She noticed expensive watches on every wrist.
+#她注意到每人手上都戴着昂贵的手表。
+
+inappreciable:
+    Comparing with the failure that you lost yourself, all failure is more inappreciable.
+#所有的失败，与失去自己的失败比起来，更是微不足道。
+
+pestle:
+    She ground the rice to powder with a pestle.
+#她用杵把米碾碎。
+
+debar:
+    People under eighteen are debarred from voting.
+#18岁以下的人无权投票。
+
+privation:
+    Privation of the company of all other human beings is a serious hardship.
+#被迫不能与别人交往是一种极大的苦难。
+
+consortium:
+    It is a consortium of local businessmen.
+#这是个由当地商人组成的财团。
+
+containerize:
+    The goods must be containerized for export.
+#这批货物必须用集装箱装运出口。
+
+supplicate:
+    I can't brook to be supplicated.
+#我不忍别人向我哀求。
+
+platonic:
+    She preferred to keep their relationship platonic.
+#她倒希望他们能保持一种纯精神的恋爱关系。
+
+balderdash:
+    That story is 10 percent fact and 90 percent balderdash.
+#那个说法一成是事实，九成是胡说八道。
+
+tempest:
+    I haven't foreseen the tempest my request would arouse.
+#我没有料到我的请求会掀起这么大一场风波。
+
+mote:
+    A drifting mote of dust coming to rest on a table.
+#空气中飘动的一粒尘埃落到桌上。
+
+gracile:
+    a gracile rosy-fleshed woman
+#婀娜多姿、肤色红润的女子
+
+bigot:
+    He was known to be a loud-mouthed, opinionated bigot.
+#他以一个高谈阔论、固执己见的偏执狂而出名。
+
+nauseate:
+    She is nauseated by the smell of meat cooking.
+#她闻到煮肉的气味就感到恶心。
+
+acquisitive:
+    Like many acquisitive conglomerates, it experienced a rapid ascent and sharp fall.
+#像许多贪婪的企业集团一样，它也经历了大起大落。
+
+purloin:
+    He was accused of purloining others' private letters.
+#他被指控偷了别人的私人信件。
+
+lionize:
+    His first book was so well received that he came to London to be lionized.
+#他的第一本书如此受欢迎以至于他到达伦敦时被奉为名人。
+
+=======
+induce:
+    Lack of proper care and love in early childhood can induce bad behavior in young people.
+#幼年时缺少必要的关心和爱会导致青年时期犯错。
+
+fracture:
+    The pipes will fracture if the temperature drops too low.
+#假如温度降得太低，管道会破裂的。
+
+signify:
+    Red often signifies danger.
+#红色通常标志着危险。
+
+objection:
+    The proposal will go ahead despite strong objections from the public.
+#尽管公众强烈反对，这项提案仍将付诸实施。
+
+borough:
+    The city is made up of 8 boroughs.
+#这座城市由8个行政区组成。
+
+bosom:
+    hold the child to one's bosom
+#把婴儿抱在怀里；
+    a bosom friend
+#密友；
+    spend Christmas in the bosom of one's family
+#在家庭温暖的怀抱里度过圣诞节；
+    take sth. to one's bosom
+#将某事深藏心中；
+    The baby sleeps in the mother's bosom.
+#婴儿在母亲的怀抱里睡着了。
+
+botanical:
+    stroll around the botanical garden
+#在植物园散步
+    The topical rain forest contains more than half of the earth's botanical species.
+#热带雨林包含一大半地球的植物种类。
+
+seamy:
+    a seamy scar
+#裂缝似的伤疤
+    a seamy divorce case
+#不体面的离婚案件
+
+fatten:
+    fatten the children up with milk
+#用牛奶把孩子喂胖
+    Pigs fattened on corn.
+#猪靠吃谷物长肥。
+
+encipher:
+    an enciphered telegram
+#密码电报
+
+inclement:
+    an inclement judge
+#严厉的法官
+    Inclement weather is common in winter.
+#恶劣的天气在冬天极为常见。
+
+gloat:
+    gloat about/over the new job
+#对新工作感到心满意足；
+    gloat over others' distress
+#幸灾乐祸地看着别人的困境
+    He couldn't resist a little gloat when the woman who had sacked him lost her own job.
+#当那个解雇他的女人自己也丢了工作时，他禁不住有点幸灾乐祸。
+
+glee:
+    laugh with glee
+#欢快地大笑；
+    in great/high glee
+#欢天喜地
+    When the check arrived, he hugged me in glee.
+#当支票送到时，他欣喜地拥抱我。
+
+guttle:
+    He guttled vast quantities of oysters and champagne at the party.
+#他在聚会时狼吞虎咽地吃了非常多的牡蛎，喝了非常多的香槟。
+
+extemporize:
+    extemporize a shelter for the night
+#临时搭个棚过夜；
+    extemporize an after-dinner speech
+#即席发表餐后演说
+    He can extemporize any of these subjects.
+#针对这些主题中的任何一个他都能即席发言。
+
+disproof:
+    He could not believe even with the disproof before his eyes.
+#甚至反证摆在眼前，他仍不能相信。
+
+aerate:
+    aerate the soil by digging
+#翻土使土通气
+
+frumpy:
+    He always wears really frumpy clothes.
+#他总是穿着完全过时的衣服。
+
+olfactory:
+    the dog's olfactory organs
+#狗的嗅觉器官
+
+noose:
+    the noose of marriage
+#婚姻的束缚
+    He was sentenced to the noose for his crimes.
+#他因累累罪行而被判处绞刑。
+
+ineffable:
+    ineffable joy
+#难以形容的喜悦；
+    ineffable disgust
+#说不出的厌恶；
+    an ineffable name
+#须避讳的名字
+
+cronyism:
+    Many small town mayor and city official practice cronyism.
+#许多小镇的市长和大城市的官员都有任人唯亲的行为。
+
+missive:
+    Your missive, while complete in other regards, skirted the subject of cost. 
+#你的信件虽然在其他方面很周全，但却回避了成本问题。
+cadge:
+    The beggar cadged dimes from passers-by.
+#乞丐向路人讨钱。
+
+landslide:
+    win/lose the election by a landslide
+#在竞选中大获全胜/一败涂地
+    Many houses were destroyed in the landslide that followed the torrential rains.
+#暴雨过后的場方使许多房屋被毁。
+
+hunker:
+    I perform best when I can hunker down and do some undisturbed work.
+#我发现当自己盘腿而坐，并在没有干扰的环境下任务完成的特别好。
+
+runic:
+    runic inscriptions
+#如尼文字的铭文
+
+temporize:
+    I can't permit you to temporize any longer.
+#我不能允许你再拖延时间了。
+
+peachy:
+    Everything looked just peachy.
+#看来一切都好得不能再好了。
+
+tasty:
+    Coarse salt shouldn't be used if you want to make tasty cakes.
+#如果你想做出美味的蛋糕，那么不要用粗盐。
+
+prong:
+    He stabbed himself with the prongs of a fork.
+#他用叉子的尖齿截伤了自己。
+
+caucus:
+    This multi-staged caucus takes several months.
+#这个多级会议常常历时好几个月。
+
+discretionary:
+    The magistrates were given wider discretionary power.
+#地方法官被赋予了更广泛的自由决定权。
+
+testy:
+    His voice turned testy.
+#他的语气变得不耐烦了。
+
+expatriate:
+    They have expatriated themselves and now live in New York.
+#他们放弃了原国籍，现居纽约。
+
+lexicographer:
+    The lexicographer knew that the English lexis was changing.
+#字典编纂者知道英语词汇在不断变化。
+
+depute:
+    She deputed the writing of a first draft to me.
+#她把写初稿的工作交给我。
+
+desist:
+    She never desisted from persuading him to return to his hometown.
+#她从未停止劝说他返回故乡。
+
+viscera:
+    The heart, stomach, liver, intestines and kidney are viscera.
+#心、胃、肝、肠和肾为内脏。
+
+viscid:
+    The oil in this thick and viscid form can kill animals by poisoning them.
+#这种又浓又黏的石油能够使动物中毒致死。
+
+pettish:
+    He was getting more and more pettish and hysterical.
+#他变得越来越任性，越来越歇斯底里。
+
+jounce:
+    The truck jounced along the mountain road.
+#卡车在山路上颠簸着前行。
+
+wrist:
+    She noticed expensive watches on every wrist.
+#她注意到每人手上都戴着昂贵的手表。
+
+inappreciable:
+    Comparing with the failure that you lost yourself, all failure is more inappreciable.
+#所有的失败，与失去自己的失败比起来，更是微不足道。
+
+pestle:
+    She ground the rice to powder with a pestle.
+#她用杵把米碾碎。
+
+debar:
+    People under eighteen are debarred from voting.
+#18岁以下的人无权投票。
+
+privation:
+    Privation of the company of all other human beings is a serious hardship.
+#被迫不能与别人交往是一种极大的苦难。
+
+consortium:
+    It is a consortium of local businessmen.
+#这是个由当地商人组成的财团。
+
+containerize:
+    The goods must be containerized for export.
+#这批货物必须用集装箱装运出口。
+
+supplicate:
+    I can't brook to be supplicated.
+#我不忍别人向我哀求。
+
+platonic:
+    She preferred to keep their relationship platonic.
+#她倒希望他们能保持一种纯精神的恋爱关系。
+
+balderdash:
+    That story is 10 percent fact and 90 percent balderdash.
+#那个说法一成是事实，九成是胡说八道。
+
+tempest:
+    I haven't foreseen the tempest my request would arouse.
+#我没有料到我的请求会掀起这么大一场风波。
+
+mote:
+    A drifting mote of dust coming to rest on a table.
+#空气中飘动的一粒尘埃落到桌上。
+
+gracile:
+    a gracile rosy-fleshed woman
+#婀娜多姿、肤色红润的女子
+
+bigot:
+    He was known to be a loud-mouthed, opinionated bigot.
+#他以一个高谈阔论、固执己见的偏执狂而出名。
+
+nauseate:
+    She is nauseated by the smell of meat cooking.
+#她闻到煮肉的气味就感到恶心。
+
+acquisitive:
+    Like many acquisitive conglomerates, it experienced a rapid ascent and sharp fall.
+#像许多贪婪的企业集团一样，它也经历了大起大落。
+
+purloin:
+    He was accused of purloining others' private letters.
+#他被指控偷了别人的私人信件。
+
+lionize:
+    His first book was so well received that he came to London to be lionized.
+#他的第一本书如此受欢迎以至于他到达伦敦时被奉为名人。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

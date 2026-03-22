@@ -1,0 +1,803 @@
+<<<<<<< HEAD
+dupe: 英[djuːp] 美[duːp]
+$n. 上当者；易受骗的人
+%vt. 欺骗；愚弄；重复，复制（等于 duplicate）
+    dupe sb. out of money
+#骗某人的钱
+    dupe sb. into signing a contract
+#哄骗某人签合同
+    They soon realized they had been duped.
+#他们很快便意识到自己上当了。
+
+incessant: 英[ɪnˈses(ə)nt] 美[ɪnˈses(ə)nt]
+%adj. （令人不快的事物）不停的，连续的
+    Having endured weeks of incessant bombardment, they surrendered as soon as they had the opportunity.
+#在忍受了几个星期连续不断的炮火攻击之后，他们一有机会便投降了。
+
+venomous: 英[ˈvenəməs] 美[ˈvenəməs]
+%adj. 有毒的；恶毒的；分泌毒液的；怨恨的
+    a venomous poison
+#毒药
+    die from the bite of a venomous snake
+#死于毒蛇咬伤
+    hurl venomous attacks at each other
+#相互进行毒攻击
+    a venomous tongue
+#恶语伤人
+    The prisoner gave the judge a venomous look as she read out the verdict.
+#法官宣读判决书时，犯人对她恶毒地瞪了一眼。
+
+understate: 英[ˌʌndəˈsteɪt] 美[ˌʌndərˈsteɪt]
+%v. 轻描淡写；避重就轻地说；不充分陈述
+    understate a fact
+#不充分地反映事实
+    understate one's age
+#少报岁数
+    understate one's production figures to avoid tax
+#为逃税而少报生产数字
+    understate the seriousness of the crime
+#低估罪行的严重性
+    In an understated speech he made clear his views.
+#他在一个十分低调的发言中表明了自己的观点。
+
+hospitable: 英[hɒˈspɪtəb(ə)l] 美[ˈhɑːspɪtəb(ə)l]
+%adj. 好客的，热情友好的；环境适宜的；乐于接受的
+    hospitable environment
+#宜人的环境
+    a hospitable family
+#好客之家
+    a hospitable climate
+#宜人的气候
+    be most hospitable to fruit trees
+#非常适宜种植果树
+    The villagers were very hospitable to anyone who passed through.
+#村民对经过这里的任何人都很热情。
+
+sap: 英[sæp] 美[sæp]
+$n. （植物的）汁，液；<非正式>傻瓜，容易上当的人；元气，活力；<史>（用以偷袭设防场所的）坑道，地道；大头短棒，棍棒
+%v. 使削弱，使虚弱；<史>挖坑道；用大头短棒击，用棍棒打；（地理）（水或冰川作用）逐渐侵蚀；<古>破坏……的基础，侵蚀……的基础
+    sap one's energy
+#耗尽精力
+    the sap of youth
+#青春的活力
+    sap the leadership of the king
+#削弱国王的统治
+    sap one's health
+#损害健康
+    Constant criticism sapped him of all his confidence.
+#长期的批评夺走了他的全部信心。
+
+nomadic: 英[nəʊˈmædɪk] 美[noʊˈmædɪk]
+%adj. 游牧的；流浪的
+    a nomadic tribe
+#游牧部落
+    a nomadic custom
+#游牧生活的传统
+    a nomadic way of life
+#到处流浪的生活方式
+    The herdsmen there continued the old pastoral and nomadic ways.
+#那里的牧民继续过着古老的游牧生活。
+
+sage: 英[seɪdʒ] 美[seɪdʒ]
+$n. <正式>智者，圣贤；鼠尾草（叶子用于烹饪）；浅灰绿色
+%adj. 睿智的，贤明的
+    a sage magistrate
+#贤明的地方长官
+    ancient sages
+#古代圣贤
+    sage advice
+#明智的忠告
+
+rudimentary: 英[ˌruːdɪˈmentri] 美[ˌruːdɪˈmentri]
+%adj. 基本的，初步的；不成熟的，未充分发展的
+    a rudimentary knowledge of physics
+#物理基本知识
+    the rudimentary system of communications
+#早期的交通系统
+    rudimentary wings
+#发育不完全的翅膀
+    Their road-building equipment is fairly rudimentary.
+#他们的筑路设备非常简陋。
+
+dehydrate: 英[ˌdiːhaɪˈdreɪt] 美[diːˈhaɪdreɪt]
+$vt. 使……脱水；使极其口渴；使丧失力量和兴趣等
+%vi. 脱水；去水
+    The boy's body dehydrated dangerously with the high fever.
+#那男孩的体温很高，严重脱水。
+
+trauma: 英[ˈtrɔːmə] 美[ˈtrɔːmə]
+%n. 痛苦经历，挫折；精神创伤，心理创伤；损伤，外伤；不安，震惊，痛苦
+    heal emotional trauma
+#医治感情上的创伤
+    the distressing trauma of family breakup
+#家庭破裂的精神创痛
+    undergo the trauma of war
+#经受战争的精神创伤
+    Six years of psychotherapy helped him to deal with his childhood trauma.
+#六年的心理治疗帮助他医治童年时遭受的心灵创伤。
+
+swindle: 英[ˈswɪnd(ə)l] 美[ˈswɪnd(ə)l]
+$v. 诈骗，骗取
+$n. 诈骗，欺诈；骗局
+%n. （Swindle）（美、英、澳、加）斯温德尔（人名）
+    swindle money out of sb.
+#诈骗某人钱财
+    a big bank swindle
+#诈骗银行的大案
+    swindle sb. out of his life savings
+#骗走某人一生的积蓄
+    These shoes are a swindle, they have a hole after being worn just a week.
+#这双鞋是骗人的仿制品，只穿了一个星期就有破洞了。
+
+annual: 英[ˈænjuəl] 美[ˈænjuəl]
+$adj. 一年一度的；年度的；（植物）一年生的
+%n. 一年生植物；年刊，年鉴
+    The flower show in the city is an annual event.
+#这个城市的花展是一年一度的大事。
+
+induct: 英[ɪnˈdʌkt] 美[ɪnˈdʌkt]
+%vt. 引导；感应；使……就职；征召入伍
+    be inducted as president of the college
+#正式就任学院院长
+    be inducted into a society
+#被吸纳为协会会员
+    be inducted into the army
+#被征召入伍
+    induct the youngsters into the trade
+#向年轻人传授这一行业的秘诀
+    induct sb. into a seat
+#引领某人人座
+    He was inducted into the office of governor.
+#他正式就任州长之职。
+
+kindle: 英[ˈkɪnd(ə)l] 美[ˈkɪnd(ə)l]
+%v. 点燃，开始燃烧；激起，激发；（感情）激动起来；（兔）产仔；照亮，（使）发亮；着火
+    kindle the fire
+#火着火
+    kindle one's interest
+#激发某人的兴趣
+    Her imagination was kindled by the exciting stories her grandmother told her.
+#她的想象力被奶奶给她讲的精彩故事点燃了。
+
+artifice: 英[ˈɑːtɪfɪs] 美[ˈɑːrtɪfɪs]
+$n. 诡计；欺骗；巧妙的办法
+%n. （Artifice）人名；（葡）阿蒂菲塞
+    The use of mirrors in a room is an artifice to make the room look larger.
+#在房间里装几面镜子是使空间显得更为宽敞的妙计。
+
+swoop: 英[swuːp] 美[swuːp]
+$v. 俯冲；突然袭击；（尤指鸟）猛扑；（非正式）猛地抓起
+%n. 猛扑；突然袭击
+    swoop over the target
+#从目标上空俯冲
+    the swoop and curl of the road
+#道路的起伏弯曲
+    in one swoop
+#一举，一下子
+    A herd of gazelles swooped off with incredible speed.
+#一群小羚羊以惊人的速度飞驰而去。
+
+onslaught: 英[ˈɒnslɔːt] 美[ˈɑːnslɔːt]
+%n. 攻击，猛攻；（常指难以应付的）大批，大量；猛烈抨击
+    the onslaught of sandstorm
+#沙暴的袭击
+    an onslaught on enemy airfields
+#对敌方机场的袭击
+    The politician made a violent onslaught on the rival.
+#那个政客对对手进行了猛烈的押击。
+
+monarch: 英[ˈmɒnək] 美[ˈmɑːnərk]
+%n. 君主，女王；黑脉金斑蝶；王鹟
+    the monarch of the jungle
+#丛林之王
+    a monarch of international shipping
+#国际船运大王
+    The visitor was the monarch in person.
+#来访者乃君主本人。
+
+aroma: 英[əˈrəʊmə] 美[əˈroʊmə]
+%n. 芳香，浓香；（喻）气氛
+    the aroma of coffee
+#咖啡的香味
+    the kitchen aromas
+#厨房菜香
+    a city with the aroma of Paris
+#有巴黎风味的城市
+    An aroma of mystery hung about the place.
+#这个地方笼罩着一种神秘的气氛。
+
+oasis: 英[əʊˈeɪsɪs] 美[oʊˈeɪsɪs]
+%n. （沙漠中的）绿洲；（困苦中）令人快慰的地方（或时刻），乐事；（商标）（插花时将花茎插牢于其中的）插花泥（Oasis）
+    a cultural oasis on the western frontier
+#西部边界的文化绿洲
+    The city is an oasis of peace and sanity amid the chaos of the rest of the country.
+#在那个混乱的国家中，这座城市是一块和平洁净的绿洲。
+
+humid: 英[ˈhjuːmɪd] 美[ˈhjuːmɪd]
+%adj. 潮湿的，湿热的
+    humid air
+#潮湿的空气
+    humid marine climate
+#湿润的海洋性气候
+    We need a lot of rain and warm, humid weather.
+#我们需要大量的雨水和温暖、湿润的天气。
+
+derivation: 英[ˌderɪˈveɪʃ(ə)n] 美[ˌderɪˈveɪʃn]
+%n. 起源，由来；派生，词源；求导，导数
+    by derivation
+#经推论
+    be distinguished by derivation from royal ancestors
+#因出身王族而显赫
+    the derivation of Chinese words
+#汉字的起源
+    The custom is of French derivation.
+#这个风俗起源于法国。
+
+scurry: 英[ˈskʌri] 美[ˈskɜːri]
+$v. 急赶；碎步急跑
+%n. 匆忙；混乱；急跑；短距离赛跑（或赛马）
+    scurry off to the doctor
+#急忙赶去找医生
+    scurrying snow whirls
+#回旋飞舞的雪片
+    a scurry of footsteps in the passage
+#过道里一阵急促的脚步声
+    scurry into the hole
+#急忙钻进洞里
+    Dark clouds were being scurried across a gray sky by the wind.
+#风吹得乌云在灰蒙蒙的天空中疾行。
+
+lust: 英[lʌst] 美[lʌst]
+$n. 性欲；强烈欲望；（神学，被看作是罪过的）感官欲望
+%v. 有强烈的性欲；渴望
+    satisfy one's lust for power
+#满足某人的权力欲
+    lust after possessions
+#贪求财物
+    lust for control of the organization
+#贪求组织的控制权
+    He's driven by the twin lusts for money and success.
+#他受到金钱与成功的双重欲望的驱使。
+
+grovel: 英[ˈɡrɒv(ə)l] 美[ˈɡrɑːv(ə)l]
+%vi. 匍匐；卑躬屈膝；趴
+    grovel at its master's feet
+#趴在主人脚前
+    grovel in sentimentality
+#多愁善感
+    grovel across the floor
+#爬过地板
+    A real man apologizes when he's wrong, but he will grovel before no one.
+#男子汉会认错，但他不会对任何人卑躬屈膝。
+
+drench: 英[drentʃ] 美[drentʃ]
+$vt. 使湿透；给（牲畜）灌药
+%n. 滂沱大雨；浸液
+    be drenched in blood
+#浸在血泊中
+    a garden drenched by rain
+#被雨水浸泡的花园
+    a mind drenched with stories
+#装满故事的头脑
+    a drench of rain
+#瓢泼大雨
+    under the drench of dew
+#被露水打湿
+    Sweat drenched his body.
+#汗水浸透了他的全身。
+
+sticky: 英[ˈstɪki] 美[ˈstɪki]
+$adj. 黏性的，涂有黏性物质的；（皮肤因热而）黏湿的；（天气）湿热的，闷热的；（处境、问题等）难办的，棘手的；（网站）吸引人的，吸引人长时间浏览的；（食物）甜腻的；（价格，利率，薪水）变化缓慢的，对变化反应缓慢的；<英，非正式>持有异议的，抱不合作态度的；持久的；<非正式>感到热得难受的
+%n. 告事贴；置顶留言
+    We've got a very sticky problem to deal with.
+#我们有一个很棘手的问题要处理。
+
+adjunct: 英[ˈædʒʌŋkt] 美[ˈædʒʌŋkt]
+$n. 附属物；附加语，修饰语；帮手，助手；（某些系统语法用语）副词状语
+%adj. 附属的，附加的；（大学教师职位）临时的，副的
+    The war was the first to see railways used as an adjunct to military operations.
+#在这场战争中，铁路被首次用来辅助军事行动。
+
+membrane: 英[ˈmembreɪn] 美[ˈmembreɪn]
+%n. （动植物的）膜；（可起防水、防风等作用的）膜状物
+    This kind of synthetic membrane is fabricated from rubber.
+#这种人工膜是用橡胶制成的。
+
+staunch: 英[stɔːntʃ] 美[stɔːntʃ]
+$adj. 坚定的；忠诚的；坚固的
+$vt. 止住；止血
+%n. （Staunch）人名；（英）斯汤奇
+    a staunch brick wall
+#坚固的砖墙
+    a staunch supporter
+#坚定的支持者
+    He is a staunch friend and ally.
+#他是坚定可靠的朋友和盟友。
+
+distress: 英[dɪˈstres] 美[dɪˈstres]
+$n. 忧虑，悲伤；贫困；危难，险情；（肉体的）剧痛
+%v. 使悲伤，使忧虑；使（家具，皮革）有仿磨损的痕迹
+    The captain ordered to send out a distress signal because the ship was sinking.
+#船长命令发送遇险信号，因为船在下沉。
+
+consonant: 英[ˈkɒnsənənt] 美[ˈkɑːnsənənt]
+$n. 辅音；辅音字母
+%adj. 一致的，相符的；（与）辅音（有关）的；（乐）协和音的，和谐的
+    a consonant word
+#同音词
+    be consonant with one's beliefs
+#与某人的信仰一致
+    This policy is scarcely consonant with the government's declared aims.
+#这项政策与政府宣称的目标几乎没有任何共同之处。
+
+chaste: 英[tʃeɪst] 美[tʃeɪst]
+$adj. 纯洁的；贞洁的；有道德的；朴素的
+%n. （Chaste）人名；（法）沙斯特
+    remain chaste in mind
+#保持思想上的纯洁
+    a chaste conversation
+#高雅的交谈
+    chaste poetry
+#朴实无华的诗歌
+    chaste white snow
+#洁白的雪
+    She lived a chaste life.
+#她过着简朴的生活。
+
+suspect: 英[səˈspekt] 美[səˈspekt]
+$v. 猜想，认为（某事有可能）；怀疑……有罪，认为……有嫌疑；不信任，怀疑……的真实性
+$n. 嫌疑犯，可疑分子；（某坏事物的）可能导致者
+%adj. 不可靠的，不可信的；可疑的，可能有危险的；有问题的，运转不好的
+    His views were suspected by his colleagues.
+#他的看法受到了同事的怀疑。
+
+inflammation: 英[ˌɪnfləˈmeɪʃ(ə)n] 美[ˌɪnfləˈmeɪʃn]
+%n. 发炎，炎症
+    in a state of extreme inflammation
+#激动万分
+    inflammation of nationalism
+#民族主义的狂热
+    an inflammation of the lungs
+#肺炎
+
+scorch: 英[skɔːtʃ] 美[skɔːrtʃ]
+$vt. 烧焦；使枯萎；挖苦
+$vi. 烧焦；枯萎
+%n. 烧焦；焦痕
+    be scorched by the hot summer sun
+#被夏天的似火骄阳晒焦
+    scorch down the road
+#在公路上疾驶
+    The meat was black and scorched on the outside but still raw inside.
+#这肉外面烧得又黑又焦，但里面仍是生的。
+
+assent: 英[əˈsent] 美[əˈsent]
+$n. 赞成；批准
+%v. （尤指官方）赞成，同意
+    assent to one's request
+#同意某人的请求
+    give one's assent to a proposal
+#对某人的建议表示同意
+    with one assent
+#一致同意
+    by common assent
+#经一致同意
+    He lowered his head in assent.
+#他低下头来表示同意。
+
+maze: 英[meɪz] 美[meɪz]
+$n. 迷宫；走迷宫（一种儿童游戏）；错综复杂的事物；纵横交错的小街（或小道等）；迷惑，糊涂
+%v. 使发昏，使迷惑
+    go through a maze of narrow streets
+#穿过弯弯曲曲的小街
+    be caught up in a maze of dreams
+#坠入梦的迷宫
+    a maze of thoughts
+#万千思绪
+    be in a maze
+#不知所措
+    The children completely exhausted themselves in the afternoon getting lost in the maze.
+#孩子们下午在迷宫中玩得疲惫不堪。
+
+=======
+dupe: 英[djuːp] 美[duːp]
+$n. 上当者；易受骗的人
+%vt. 欺骗；愚弄；重复，复制（等于 duplicate）
+    dupe sb. out of money
+#骗某人的钱
+    dupe sb. into signing a contract
+#哄骗某人签合同
+    They soon realized they had been duped.
+#他们很快便意识到自己上当了。
+
+incessant: 英[ɪnˈses(ə)nt] 美[ɪnˈses(ə)nt]
+%adj. （令人不快的事物）不停的，连续的
+    Having endured weeks of incessant bombardment, they surrendered as soon as they had the opportunity.
+#在忍受了几个星期连续不断的炮火攻击之后，他们一有机会便投降了。
+
+venomous: 英[ˈvenəməs] 美[ˈvenəməs]
+%adj. 有毒的；恶毒的；分泌毒液的；怨恨的
+    a venomous poison
+#毒药
+    die from the bite of a venomous snake
+#死于毒蛇咬伤
+    hurl venomous attacks at each other
+#相互进行毒攻击
+    a venomous tongue
+#恶语伤人
+    The prisoner gave the judge a venomous look as she read out the verdict.
+#法官宣读判决书时，犯人对她恶毒地瞪了一眼。
+
+understate: 英[ˌʌndəˈsteɪt] 美[ˌʌndərˈsteɪt]
+%v. 轻描淡写；避重就轻地说；不充分陈述
+    understate a fact
+#不充分地反映事实
+    understate one's age
+#少报岁数
+    understate one's production figures to avoid tax
+#为逃税而少报生产数字
+    understate the seriousness of the crime
+#低估罪行的严重性
+    In an understated speech he made clear his views.
+#他在一个十分低调的发言中表明了自己的观点。
+
+hospitable: 英[hɒˈspɪtəb(ə)l] 美[ˈhɑːspɪtəb(ə)l]
+%adj. 好客的，热情友好的；环境适宜的；乐于接受的
+    hospitable environment
+#宜人的环境
+    a hospitable family
+#好客之家
+    a hospitable climate
+#宜人的气候
+    be most hospitable to fruit trees
+#非常适宜种植果树
+    The villagers were very hospitable to anyone who passed through.
+#村民对经过这里的任何人都很热情。
+
+sap: 英[sæp] 美[sæp]
+$n. （植物的）汁，液；<非正式>傻瓜，容易上当的人；元气，活力；<史>（用以偷袭设防场所的）坑道，地道；大头短棒，棍棒
+%v. 使削弱，使虚弱；<史>挖坑道；用大头短棒击，用棍棒打；（地理）（水或冰川作用）逐渐侵蚀；<古>破坏……的基础，侵蚀……的基础
+    sap one's energy
+#耗尽精力
+    the sap of youth
+#青春的活力
+    sap the leadership of the king
+#削弱国王的统治
+    sap one's health
+#损害健康
+    Constant criticism sapped him of all his confidence.
+#长期的批评夺走了他的全部信心。
+
+nomadic: 英[nəʊˈmædɪk] 美[noʊˈmædɪk]
+%adj. 游牧的；流浪的
+    a nomadic tribe
+#游牧部落
+    a nomadic custom
+#游牧生活的传统
+    a nomadic way of life
+#到处流浪的生活方式
+    The herdsmen there continued the old pastoral and nomadic ways.
+#那里的牧民继续过着古老的游牧生活。
+
+sage: 英[seɪdʒ] 美[seɪdʒ]
+$n. <正式>智者，圣贤；鼠尾草（叶子用于烹饪）；浅灰绿色
+%adj. 睿智的，贤明的
+    a sage magistrate
+#贤明的地方长官
+    ancient sages
+#古代圣贤
+    sage advice
+#明智的忠告
+
+rudimentary: 英[ˌruːdɪˈmentri] 美[ˌruːdɪˈmentri]
+%adj. 基本的，初步的；不成熟的，未充分发展的
+    a rudimentary knowledge of physics
+#物理基本知识
+    the rudimentary system of communications
+#早期的交通系统
+    rudimentary wings
+#发育不完全的翅膀
+    Their road-building equipment is fairly rudimentary.
+#他们的筑路设备非常简陋。
+
+dehydrate: 英[ˌdiːhaɪˈdreɪt] 美[diːˈhaɪdreɪt]
+$vt. 使……脱水；使极其口渴；使丧失力量和兴趣等
+%vi. 脱水；去水
+    The boy's body dehydrated dangerously with the high fever.
+#那男孩的体温很高，严重脱水。
+
+trauma: 英[ˈtrɔːmə] 美[ˈtrɔːmə]
+%n. 痛苦经历，挫折；精神创伤，心理创伤；损伤，外伤；不安，震惊，痛苦
+    heal emotional trauma
+#医治感情上的创伤
+    the distressing trauma of family breakup
+#家庭破裂的精神创痛
+    undergo the trauma of war
+#经受战争的精神创伤
+    Six years of psychotherapy helped him to deal with his childhood trauma.
+#六年的心理治疗帮助他医治童年时遭受的心灵创伤。
+
+swindle: 英[ˈswɪnd(ə)l] 美[ˈswɪnd(ə)l]
+$v. 诈骗，骗取
+$n. 诈骗，欺诈；骗局
+%n. （Swindle）（美、英、澳、加）斯温德尔（人名）
+    swindle money out of sb.
+#诈骗某人钱财
+    a big bank swindle
+#诈骗银行的大案
+    swindle sb. out of his life savings
+#骗走某人一生的积蓄
+    These shoes are a swindle, they have a hole after being worn just a week.
+#这双鞋是骗人的仿制品，只穿了一个星期就有破洞了。
+
+annual: 英[ˈænjuəl] 美[ˈænjuəl]
+$adj. 一年一度的；年度的；（植物）一年生的
+%n. 一年生植物；年刊，年鉴
+    The flower show in the city is an annual event.
+#这个城市的花展是一年一度的大事。
+
+induct: 英[ɪnˈdʌkt] 美[ɪnˈdʌkt]
+%vt. 引导；感应；使……就职；征召入伍
+    be inducted as president of the college
+#正式就任学院院长
+    be inducted into a society
+#被吸纳为协会会员
+    be inducted into the army
+#被征召入伍
+    induct the youngsters into the trade
+#向年轻人传授这一行业的秘诀
+    induct sb. into a seat
+#引领某人人座
+    He was inducted into the office of governor.
+#他正式就任州长之职。
+
+kindle: 英[ˈkɪnd(ə)l] 美[ˈkɪnd(ə)l]
+%v. 点燃，开始燃烧；激起，激发；（感情）激动起来；（兔）产仔；照亮，（使）发亮；着火
+    kindle the fire
+#火着火
+    kindle one's interest
+#激发某人的兴趣
+    Her imagination was kindled by the exciting stories her grandmother told her.
+#她的想象力被奶奶给她讲的精彩故事点燃了。
+
+artifice: 英[ˈɑːtɪfɪs] 美[ˈɑːrtɪfɪs]
+$n. 诡计；欺骗；巧妙的办法
+%n. （Artifice）人名；（葡）阿蒂菲塞
+    The use of mirrors in a room is an artifice to make the room look larger.
+#在房间里装几面镜子是使空间显得更为宽敞的妙计。
+
+swoop: 英[swuːp] 美[swuːp]
+$v. 俯冲；突然袭击；（尤指鸟）猛扑；（非正式）猛地抓起
+%n. 猛扑；突然袭击
+    swoop over the target
+#从目标上空俯冲
+    the swoop and curl of the road
+#道路的起伏弯曲
+    in one swoop
+#一举，一下子
+    A herd of gazelles swooped off with incredible speed.
+#一群小羚羊以惊人的速度飞驰而去。
+
+onslaught: 英[ˈɒnslɔːt] 美[ˈɑːnslɔːt]
+%n. 攻击，猛攻；（常指难以应付的）大批，大量；猛烈抨击
+    the onslaught of sandstorm
+#沙暴的袭击
+    an onslaught on enemy airfields
+#对敌方机场的袭击
+    The politician made a violent onslaught on the rival.
+#那个政客对对手进行了猛烈的押击。
+
+monarch: 英[ˈmɒnək] 美[ˈmɑːnərk]
+%n. 君主，女王；黑脉金斑蝶；王鹟
+    the monarch of the jungle
+#丛林之王
+    a monarch of international shipping
+#国际船运大王
+    The visitor was the monarch in person.
+#来访者乃君主本人。
+
+aroma: 英[əˈrəʊmə] 美[əˈroʊmə]
+%n. 芳香，浓香；（喻）气氛
+    the aroma of coffee
+#咖啡的香味
+    the kitchen aromas
+#厨房菜香
+    a city with the aroma of Paris
+#有巴黎风味的城市
+    An aroma of mystery hung about the place.
+#这个地方笼罩着一种神秘的气氛。
+
+oasis: 英[əʊˈeɪsɪs] 美[oʊˈeɪsɪs]
+%n. （沙漠中的）绿洲；（困苦中）令人快慰的地方（或时刻），乐事；（商标）（插花时将花茎插牢于其中的）插花泥（Oasis）
+    a cultural oasis on the western frontier
+#西部边界的文化绿洲
+    The city is an oasis of peace and sanity amid the chaos of the rest of the country.
+#在那个混乱的国家中，这座城市是一块和平洁净的绿洲。
+
+humid: 英[ˈhjuːmɪd] 美[ˈhjuːmɪd]
+%adj. 潮湿的，湿热的
+    humid air
+#潮湿的空气
+    humid marine climate
+#湿润的海洋性气候
+    We need a lot of rain and warm, humid weather.
+#我们需要大量的雨水和温暖、湿润的天气。
+
+derivation: 英[ˌderɪˈveɪʃ(ə)n] 美[ˌderɪˈveɪʃn]
+%n. 起源，由来；派生，词源；求导，导数
+    by derivation
+#经推论
+    be distinguished by derivation from royal ancestors
+#因出身王族而显赫
+    the derivation of Chinese words
+#汉字的起源
+    The custom is of French derivation.
+#这个风俗起源于法国。
+
+scurry: 英[ˈskʌri] 美[ˈskɜːri]
+$v. 急赶；碎步急跑
+%n. 匆忙；混乱；急跑；短距离赛跑（或赛马）
+    scurry off to the doctor
+#急忙赶去找医生
+    scurrying snow whirls
+#回旋飞舞的雪片
+    a scurry of footsteps in the passage
+#过道里一阵急促的脚步声
+    scurry into the hole
+#急忙钻进洞里
+    Dark clouds were being scurried across a gray sky by the wind.
+#风吹得乌云在灰蒙蒙的天空中疾行。
+
+lust: 英[lʌst] 美[lʌst]
+$n. 性欲；强烈欲望；（神学，被看作是罪过的）感官欲望
+%v. 有强烈的性欲；渴望
+    satisfy one's lust for power
+#满足某人的权力欲
+    lust after possessions
+#贪求财物
+    lust for control of the organization
+#贪求组织的控制权
+    He's driven by the twin lusts for money and success.
+#他受到金钱与成功的双重欲望的驱使。
+
+grovel: 英[ˈɡrɒv(ə)l] 美[ˈɡrɑːv(ə)l]
+%vi. 匍匐；卑躬屈膝；趴
+    grovel at its master's feet
+#趴在主人脚前
+    grovel in sentimentality
+#多愁善感
+    grovel across the floor
+#爬过地板
+    A real man apologizes when he's wrong, but he will grovel before no one.
+#男子汉会认错，但他不会对任何人卑躬屈膝。
+
+drench: 英[drentʃ] 美[drentʃ]
+$vt. 使湿透；给（牲畜）灌药
+%n. 滂沱大雨；浸液
+    be drenched in blood
+#浸在血泊中
+    a garden drenched by rain
+#被雨水浸泡的花园
+    a mind drenched with stories
+#装满故事的头脑
+    a drench of rain
+#瓢泼大雨
+    under the drench of dew
+#被露水打湿
+    Sweat drenched his body.
+#汗水浸透了他的全身。
+
+sticky: 英[ˈstɪki] 美[ˈstɪki]
+$adj. 黏性的，涂有黏性物质的；（皮肤因热而）黏湿的；（天气）湿热的，闷热的；（处境、问题等）难办的，棘手的；（网站）吸引人的，吸引人长时间浏览的；（食物）甜腻的；（价格，利率，薪水）变化缓慢的，对变化反应缓慢的；<英，非正式>持有异议的，抱不合作态度的；持久的；<非正式>感到热得难受的
+%n. 告事贴；置顶留言
+    We've got a very sticky problem to deal with.
+#我们有一个很棘手的问题要处理。
+
+adjunct: 英[ˈædʒʌŋkt] 美[ˈædʒʌŋkt]
+$n. 附属物；附加语，修饰语；帮手，助手；（某些系统语法用语）副词状语
+%adj. 附属的，附加的；（大学教师职位）临时的，副的
+    The war was the first to see railways used as an adjunct to military operations.
+#在这场战争中，铁路被首次用来辅助军事行动。
+
+membrane: 英[ˈmembreɪn] 美[ˈmembreɪn]
+%n. （动植物的）膜；（可起防水、防风等作用的）膜状物
+    This kind of synthetic membrane is fabricated from rubber.
+#这种人工膜是用橡胶制成的。
+
+staunch: 英[stɔːntʃ] 美[stɔːntʃ]
+$adj. 坚定的；忠诚的；坚固的
+$vt. 止住；止血
+%n. （Staunch）人名；（英）斯汤奇
+    a staunch brick wall
+#坚固的砖墙
+    a staunch supporter
+#坚定的支持者
+    He is a staunch friend and ally.
+#他是坚定可靠的朋友和盟友。
+
+distress: 英[dɪˈstres] 美[dɪˈstres]
+$n. 忧虑，悲伤；贫困；危难，险情；（肉体的）剧痛
+%v. 使悲伤，使忧虑；使（家具，皮革）有仿磨损的痕迹
+    The captain ordered to send out a distress signal because the ship was sinking.
+#船长命令发送遇险信号，因为船在下沉。
+
+consonant: 英[ˈkɒnsənənt] 美[ˈkɑːnsənənt]
+$n. 辅音；辅音字母
+%adj. 一致的，相符的；（与）辅音（有关）的；（乐）协和音的，和谐的
+    a consonant word
+#同音词
+    be consonant with one's beliefs
+#与某人的信仰一致
+    This policy is scarcely consonant with the government's declared aims.
+#这项政策与政府宣称的目标几乎没有任何共同之处。
+
+chaste: 英[tʃeɪst] 美[tʃeɪst]
+$adj. 纯洁的；贞洁的；有道德的；朴素的
+%n. （Chaste）人名；（法）沙斯特
+    remain chaste in mind
+#保持思想上的纯洁
+    a chaste conversation
+#高雅的交谈
+    chaste poetry
+#朴实无华的诗歌
+    chaste white snow
+#洁白的雪
+    She lived a chaste life.
+#她过着简朴的生活。
+
+suspect: 英[səˈspekt] 美[səˈspekt]
+$v. 猜想，认为（某事有可能）；怀疑……有罪，认为……有嫌疑；不信任，怀疑……的真实性
+$n. 嫌疑犯，可疑分子；（某坏事物的）可能导致者
+%adj. 不可靠的，不可信的；可疑的，可能有危险的；有问题的，运转不好的
+    His views were suspected by his colleagues.
+#他的看法受到了同事的怀疑。
+
+inflammation: 英[ˌɪnfləˈmeɪʃ(ə)n] 美[ˌɪnfləˈmeɪʃn]
+%n. 发炎，炎症
+    in a state of extreme inflammation
+#激动万分
+    inflammation of nationalism
+#民族主义的狂热
+    an inflammation of the lungs
+#肺炎
+
+scorch: 英[skɔːtʃ] 美[skɔːrtʃ]
+$vt. 烧焦；使枯萎；挖苦
+$vi. 烧焦；枯萎
+%n. 烧焦；焦痕
+    be scorched by the hot summer sun
+#被夏天的似火骄阳晒焦
+    scorch down the road
+#在公路上疾驶
+    The meat was black and scorched on the outside but still raw inside.
+#这肉外面烧得又黑又焦，但里面仍是生的。
+
+assent: 英[əˈsent] 美[əˈsent]
+$n. 赞成；批准
+%v. （尤指官方）赞成，同意
+    assent to one's request
+#同意某人的请求
+    give one's assent to a proposal
+#对某人的建议表示同意
+    with one assent
+#一致同意
+    by common assent
+#经一致同意
+    He lowered his head in assent.
+#他低下头来表示同意。
+
+maze: 英[meɪz] 美[meɪz]
+$n. 迷宫；走迷宫（一种儿童游戏）；错综复杂的事物；纵横交错的小街（或小道等）；迷惑，糊涂
+%v. 使发昏，使迷惑
+    go through a maze of narrow streets
+#穿过弯弯曲曲的小街
+    be caught up in a maze of dreams
+#坠入梦的迷宫
+    a maze of thoughts
+#万千思绪
+    be in a maze
+#不知所措
+    The children completely exhausted themselves in the afternoon getting lost in the maze.
+#孩子们下午在迷宫中玩得疲惫不堪。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

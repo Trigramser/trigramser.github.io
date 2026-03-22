@@ -1,0 +1,467 @@
+<<<<<<< HEAD
+adapt:
+    Some birds are well adapted to life on water.
+#些鸟很能适应水上生活。
+
+dash:
+    She dashed off a note and went out in a hurry.
+#她急急忙忙地写了张字条，就匆匆出去了。
+
+capsule:
+    The doctor told her to swallow two capsules and five pills at one time.
+#医生告诉她一次服下两粒胶囊和五粒药丸。
+
+manipulate:
+    Ours is an independent country and we allow nobody to manipulate our internal affairs.
+#我是主权国家，不允许任何人左右我国的内政。
+
+forge:
+    He was sent to prison for forging money.
+#他因造货币被关进了监狱。
+
+kin:
+    All his kin were present at his mother's funeral.
+#他所有的亲属都参加了他母亲的葬礼。
+
+adjourn:
+    The meeting was adjourned for two days.
+#会议休会两天。
+
+delegate:
+    the Chinese delegate to the UN
+#中国驻联合国代表
+    Delegates have voted in favor of the motion
+#代表们已经投票赞同这项动议了。
+
+stale:
+    Stale food shouldn't be eaten.
+#不可食用不新的食品。
+
+fabric:
+    Unhappiness was woven into the natural fabric of people's lives.
+#苦恼交织在人们的日常生活中，是其自然的组成部分。
+
+embargo:
+    They've put an embargo on the supply of oil to the enemy.
+#他们对敌国实行石油禁运。
+
+buffer:
+    a useful buffer in time of need
+#可解燃眉之急的东西
+    Friends are excellent buffers in time of crisis.
+#朋友是危急时刻的最佳缓冲。
+
+donate:
+    The professor donated a large sum of money to building a bridge in his hometown.
+#这位教授捐了一大笔钱为家乡修建一座桥。
+
+poke:
+    Don't poke your head or hand out of the car window.
+#勿把头或手伸出车窗外。
+
+ambush:
+    He was ambushed by gunmen on his way to work.
+#他在上班的路上遭到了持枪者的伏击。
+
+tactic:
+    I don't like his tactics -- he sets one person against another.
+#我不喜欢他的策略——他让人们钩心斗角。
+
+array:
+    The soldiers were arrayed on the opposite hill.
+#士兵们在对面的小山上摆好阵势。
+
+tenure:
+    He remained popular throughout his tenure of office of president.
+#他在担任总统职务期间一直深得民心。
+
+syndrome:
+    There is a lack of research on risk factors for fatigue and fatigue syndromes.
+#目前缺乏对于造成疲劳和疲劳综合征的风险因素的研究。
+
+perch:
+    A bird perched on the date tree in the front yard.
+#一只鸟栖歇在前院中的一棵枣树上。
+
+evade:
+    If you try to evade paying your taxes, you risk going to prison.
+#如果你试图逃税，你就有坐牢的危险。
+
+salient:
+    The article presented the salient facts of the dispute clearly and concisely.
+#文章清楚而简洁地介绍了争议的主要事实。
+
+intuition:
+    Often there is no clear evidence one way or the other and you just have to base your judgment on intuition.
+#往往没有这样或那样的确凿证据，你只得凭直觉进行判断。
+
+novelty:
+    At first I enjoyed all the parties, but the novelty soon wore off.
+#起初，我喜欢参加所有的社交聚会，但这种新奇感很快就消失了。
+
+cosmopolitan:
+    His travels around the world have made him very cosmopolitan.
+#他周游世界的经历使他见多识广。
+
+parasite:
+    These drugs can't deal effectively with the malaria parasite.
+#这些药物不能有效地对付引起疟疾的寄生虫。
+
+misery:
+    Drought has brought misery and death to the area for the fifth successive year.
+#干旱连着第五年给这个地区带来不幸和死亡。
+
+endorse:
+    The committee's report fully endorses the government's proposals.
+#委员会的报告完全赞同政府的建议。
+
+retrospect:
+    It was, in retrospect, one of the worst mistakes I ever made in my life.
+#回想起来，这是我一生中犯过的最大的错误之一。
+
+psychology:
+    Her daughter studies psychology at Harvard.
+#她女儿在哈佛大学念心理学。
+
+adventurous:
+    I think I'll try the snails for lunch -- I'm feeling adventurous today.
+#我想我午餐要尝试一下吃蜗牛——我今天很想冒冒险。
+
+indebted:
+    International agreements need to be reached about helping the world's most deeply indebted countries.
+#我们需要达成国际协议来帮助世界上负债最多的国家。
+
+censure:
+    His dishonest behavior was under severe censure.
+#他的不诚实行为受到了严厉指责。
+
+specimen:
+    In spring children are organized to collect specimens in parks.
+#春天，孩子们被组织起来在公园里采集标本。
+
+stipulate:
+    We have signed a contract which stimulates when the project must be completed.
+#我们签署了一份合同，上面规定了项目必须在何时完成。
+
+intelligible:
+    The teacher's lecture was so intelligible that the students had no problems doing their assignments.
+#老师的授课非常明白易懂，因而学生们做作业时没有任何问题。
+
+proposition:
+    She made me a proposition concerning the sale of my car.
+#她就我出售汽车的事提了一个建议。
+
+thrifty:
+    They have plenty of money now, but they still tend to be thrifty.
+#他们现在有很多钱，但仍很节俭。
+
+overstate:
+    The impact of the new law has been greatly overstated.
+#新法律产生的影响被极大地夸大了。
+
+irritate:
+    Our faults irritate us most when we see them in others.
+#在别人身上看到自己的缺点，最使我们感到恼火。
+
+contrary:
+    be contrary to
+#违反
+    on the contrary
+#正相反，相反地
+    Liz put forward the contrary point of view at the meeting and a lively discussion followed.
+#莉兹在会上提出了相反的观点，引起了热烈的讨论。
+
+precipitate:
+    Fear of losing her job precipitated her into action.
+#怕丢掉工作的恐惧使她立即采取行动。
+
+applaud:
+    The intoxicated audience applauded every show warmly.
+#如痴如醉的观众对每个节目都报以热烈的掌声。
+
+ridiculous:
+    His ridiculous remark should not be taken as true.
+#不可相信他荒唐的话。
+
+scheme:
+    He suggested several schemes to promote sales.
+#他提出了促销的几种方案。
+
+disdain:
+    The local citizens showed their disdain for the foreign artists.
+#当地公民对外国艺术家表示轻视。
+
+transcribe:
+    A secretary transcribed the witness's statements.
+#秘书记下了证人的证词。
+
+avert:
+    An accident was averted by his quick thinking.
+#由于他思维敏捷，一场事故得以避免。
+
+stationary:
+    As an excellent shooter, Peter practiced aiming at both stationary targets and moving targets.
+#彼得是一名出色的射击选手，他不仅练习打静止靶，而且也练习打活动靶。
+
+apprentice:
+    The boy's parents apprenticed him to a doctor.
+#这个男孩的父母送他去给一名医生当学徒。
+
+barn:
+    They stored the corn and beans in the barn on the river bank.
+#他们把玉米和大豆储存在河边的谷仓里。
+
+brutal:
+    He had been a brutal dictator and had many enemies.
+#他是个残忍的独裁者，树敌很多。
+
+emergency:
+    in an emergency
+#紧急情况时
+    an emergency door/exit
+#紧急出口
+    Ring the bell in an emergency and the security personnel will come straight away.
+#紧急情况时按铃，保安会立即前来。
+
+limp:
+    The old lady stumbled on a stone and began limping back home.
+#老太太在石头上绊了一下，然后开始一痛一拐地回家去。
+
+limp:
+    The bag is limp with nothing in it.
+#那包里什么也没有，软塌塌的。
+
+=======
+adapt:
+    Some birds are well adapted to life on water.
+#些鸟很能适应水上生活。
+
+dash:
+    She dashed off a note and went out in a hurry.
+#她急急忙忙地写了张字条，就匆匆出去了。
+
+capsule:
+    The doctor told her to swallow two capsules and five pills at one time.
+#医生告诉她一次服下两粒胶囊和五粒药丸。
+
+manipulate:
+    Ours is an independent country and we allow nobody to manipulate our internal affairs.
+#我是主权国家，不允许任何人左右我国的内政。
+
+forge:
+    He was sent to prison for forging money.
+#他因造货币被关进了监狱。
+
+kin:
+    All his kin were present at his mother's funeral.
+#他所有的亲属都参加了他母亲的葬礼。
+
+adjourn:
+    The meeting was adjourned for two days.
+#会议休会两天。
+
+delegate:
+    the Chinese delegate to the UN
+#中国驻联合国代表
+    Delegates have voted in favor of the motion
+#代表们已经投票赞同这项动议了。
+
+stale:
+    Stale food shouldn't be eaten.
+#不可食用不新的食品。
+
+fabric:
+    Unhappiness was woven into the natural fabric of people's lives.
+#苦恼交织在人们的日常生活中，是其自然的组成部分。
+
+embargo:
+    They've put an embargo on the supply of oil to the enemy.
+#他们对敌国实行石油禁运。
+
+buffer:
+    a useful buffer in time of need
+#可解燃眉之急的东西
+    Friends are excellent buffers in time of crisis.
+#朋友是危急时刻的最佳缓冲。
+
+donate:
+    The professor donated a large sum of money to building a bridge in his hometown.
+#这位教授捐了一大笔钱为家乡修建一座桥。
+
+poke:
+    Don't poke your head or hand out of the car window.
+#勿把头或手伸出车窗外。
+
+ambush:
+    He was ambushed by gunmen on his way to work.
+#他在上班的路上遭到了持枪者的伏击。
+
+tactic:
+    I don't like his tactics -- he sets one person against another.
+#我不喜欢他的策略——他让人们钩心斗角。
+
+array:
+    The soldiers were arrayed on the opposite hill.
+#士兵们在对面的小山上摆好阵势。
+
+tenure:
+    He remained popular throughout his tenure of office of president.
+#他在担任总统职务期间一直深得民心。
+
+syndrome:
+    There is a lack of research on risk factors for fatigue and fatigue syndromes.
+#目前缺乏对于造成疲劳和疲劳综合征的风险因素的研究。
+
+perch:
+    A bird perched on the date tree in the front yard.
+#一只鸟栖歇在前院中的一棵枣树上。
+
+evade:
+    If you try to evade paying your taxes, you risk going to prison.
+#如果你试图逃税，你就有坐牢的危险。
+
+salient:
+    The article presented the salient facts of the dispute clearly and concisely.
+#文章清楚而简洁地介绍了争议的主要事实。
+
+intuition:
+    Often there is no clear evidence one way or the other and you just have to base your judgment on intuition.
+#往往没有这样或那样的确凿证据，你只得凭直觉进行判断。
+
+novelty:
+    At first I enjoyed all the parties, but the novelty soon wore off.
+#起初，我喜欢参加所有的社交聚会，但这种新奇感很快就消失了。
+
+cosmopolitan:
+    His travels around the world have made him very cosmopolitan.
+#他周游世界的经历使他见多识广。
+
+parasite:
+    These drugs can't deal effectively with the malaria parasite.
+#这些药物不能有效地对付引起疟疾的寄生虫。
+
+misery:
+    Drought has brought misery and death to the area for the fifth successive year.
+#干旱连着第五年给这个地区带来不幸和死亡。
+
+endorse:
+    The committee's report fully endorses the government's proposals.
+#委员会的报告完全赞同政府的建议。
+
+retrospect:
+    It was, in retrospect, one of the worst mistakes I ever made in my life.
+#回想起来，这是我一生中犯过的最大的错误之一。
+
+psychology:
+    Her daughter studies psychology at Harvard.
+#她女儿在哈佛大学念心理学。
+
+adventurous:
+    I think I'll try the snails for lunch -- I'm feeling adventurous today.
+#我想我午餐要尝试一下吃蜗牛——我今天很想冒冒险。
+
+indebted:
+    International agreements need to be reached about helping the world's most deeply indebted countries.
+#我们需要达成国际协议来帮助世界上负债最多的国家。
+
+censure:
+    His dishonest behavior was under severe censure.
+#他的不诚实行为受到了严厉指责。
+
+specimen:
+    In spring children are organized to collect specimens in parks.
+#春天，孩子们被组织起来在公园里采集标本。
+
+stipulate:
+    We have signed a contract which stimulates when the project must be completed.
+#我们签署了一份合同，上面规定了项目必须在何时完成。
+
+intelligible:
+    The teacher's lecture was so intelligible that the students had no problems doing their assignments.
+#老师的授课非常明白易懂，因而学生们做作业时没有任何问题。
+
+proposition:
+    She made me a proposition concerning the sale of my car.
+#她就我出售汽车的事提了一个建议。
+
+thrifty:
+    They have plenty of money now, but they still tend to be thrifty.
+#他们现在有很多钱，但仍很节俭。
+
+overstate:
+    The impact of the new law has been greatly overstated.
+#新法律产生的影响被极大地夸大了。
+
+irritate:
+    Our faults irritate us most when we see them in others.
+#在别人身上看到自己的缺点，最使我们感到恼火。
+
+contrary:
+    be contrary to
+#违反
+    on the contrary
+#正相反，相反地
+    Liz put forward the contrary point of view at the meeting and a lively discussion followed.
+#莉兹在会上提出了相反的观点，引起了热烈的讨论。
+
+precipitate:
+    Fear of losing her job precipitated her into action.
+#怕丢掉工作的恐惧使她立即采取行动。
+
+applaud:
+    The intoxicated audience applauded every show warmly.
+#如痴如醉的观众对每个节目都报以热烈的掌声。
+
+ridiculous:
+    His ridiculous remark should not be taken as true.
+#不可相信他荒唐的话。
+
+scheme:
+    He suggested several schemes to promote sales.
+#他提出了促销的几种方案。
+
+disdain:
+    The local citizens showed their disdain for the foreign artists.
+#当地公民对外国艺术家表示轻视。
+
+transcribe:
+    A secretary transcribed the witness's statements.
+#秘书记下了证人的证词。
+
+avert:
+    An accident was averted by his quick thinking.
+#由于他思维敏捷，一场事故得以避免。
+
+stationary:
+    As an excellent shooter, Peter practiced aiming at both stationary targets and moving targets.
+#彼得是一名出色的射击选手，他不仅练习打静止靶，而且也练习打活动靶。
+
+apprentice:
+    The boy's parents apprenticed him to a doctor.
+#这个男孩的父母送他去给一名医生当学徒。
+
+barn:
+    They stored the corn and beans in the barn on the river bank.
+#他们把玉米和大豆储存在河边的谷仓里。
+
+brutal:
+    He had been a brutal dictator and had many enemies.
+#他是个残忍的独裁者，树敌很多。
+
+emergency:
+    in an emergency
+#紧急情况时
+    an emergency door/exit
+#紧急出口
+    Ring the bell in an emergency and the security personnel will come straight away.
+#紧急情况时按铃，保安会立即前来。
+
+limp:
+    The old lady stumbled on a stone and began limping back home.
+#老太太在石头上绊了一下，然后开始一痛一拐地回家去。
+
+limp:
+    The bag is limp with nothing in it.
+#那包里什么也没有，软塌塌的。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

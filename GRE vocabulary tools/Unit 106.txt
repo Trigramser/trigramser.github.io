@@ -1,0 +1,745 @@
+<<<<<<< HEAD
+deprecate: 英[ˈdeprəkeɪt] 美[ˈdeprəkeɪt]
+%vt. 反对；抨击；轻视；声明不赞成
+    deprecate hasty action
+#反对匆忙行动
+    deprecate changing the rules
+#反对改变规则
+    We deprecate this use of company funds for political purpose.
+#我们反对将公司基金用于政治目的。
+
+unnoteworthy: 英[ʌnˈnəʊtˌwɜːði] 美[ʌnˈnoʊtˌwɜːrði]
+%adj. 不显著的；普通的；不值得注意的
+    an unnoteworthy comedy
+#不怎么好的喜剧
+
+circumspect: 英[ˈsɜːkəmspekt] 美[ˈsɜːrkəmspekt]
+%adj. 小心谨慎的，考虑周到的，慎重的
+    Forty years of twists and turns in politics have taught him to remain circumspect.
+#四十年在政治上的曲折坎坷教会了他处事谨慎小心。
+
+approbation: 英[ˌæprəˈbeɪʃ(ə)n] 美[ˌæprəˈbeɪʃ(ə)n]
+%n. 认可；赞许；批准
+    smile with approbation
+#笑着表示赞同
+    He had worked long and hard on the project, but the committee never gave him so much as a word of approbation.
+#在这个项目上他不辞辛苦，孜孜以求，委员会却连一句赞许的话都没给他。
+
+construction: 英[kənˈstrʌkʃn] 美[kənˈstrʌkʃ(ə)n]
+%n. 建造，建筑；创立，构建；构造，结构；建筑物；语法结构；解释，理解
+    construction industry
+#建筑行业
+    under construction
+#在建造中
+    a construction of wood
+#木结构的建筑
+    It is a building of solid and ingenious construction.
+#那是一幢结构紧实式样精巧的建筑。
+
+earthiness: 英[ˈɜːθinəs] 美[ˈɜːrθinəs]
+%n. 土质，土性；质朴，粗陋
+    I like the earthiness of the novel.
+#我喜欢这部小说的朴实无华。
+
+institutionalized: 英[ˌɪnstɪˈtjuːʃənəlaɪzd] 美[ˌɪnstɪˈtuːʃənəlaɪzd]
+$adj. 约定俗成的，使成惯例的；有组织的；（因长期生活在福利机构）缺乏自理能力的；制度化的
+%v. 将（人）送到收容机构；使成为惯例；制度化（institutionalize 的过去式和过去分词）
+    institutionalized children
+#被送进孤儿院的孩子们
+    We need to avoid long-stay patients in hospital becoming institutionalized.
+#我们需要避免使长期住院的病人受到住院生活所产生的不良影响。
+
+paragon: 英[ˈpærəɡən] 美[ˈpærəɡɑːn]
+%n. 完美典范，尽善尽美的人（或物）；（100克拉以上的）无暇钻石
+    a moral paragon
+#道德的典范
+    The author seems to view the country's system as a paragon of democracy.
+#作者似乎认为这个国家的制度是民主的典范。
+
+infinitesimal: 英[ˌɪnfɪnɪˈtesɪm(ə)l] 美[ˌɪnfɪnɪˈtesɪm(ə)l]
+$adj. 无穷小的；无限小的；极小的
+%n. 无限小；极微量；极小量
+    The amounts of radioactivity were infinitesimal and seemed to present no danger.
+#放射量极小，好像不会产生危险。
+
+unscrupulous: 英[ʌnˈskruːpjələs] 美[ʌnˈskruːpjələs]
+%adj. 无道德原则的，肆无忌惮的
+    an unscrupulous salesman
+#不择手段的推销员
+    unscrupulous business methods
+#不择手段的经营方式
+
+chancy: 英[ˈtʃɑːnsi] 美[ˈtʃænsi]
+%adj. 不确实的；偶然发生的；不安的
+    We may be able to get tickets but it's a bit chancy.
+#我们也许能弄到票，但不太靠得住。
+
+alienation: 英[ˌeɪliəˈneɪʃ(ə)n] 美[ˌeɪliəˈneɪʃ(ə)n]
+%n. 疏离感；失去支持，疏远；（财产或权利的）转让，让渡；（马克思主义理论）异化感；情感性精神错乱；间离效果，陌生化效果
+    alienation from
+#与……疏远
+    The boring and repetitive nature of manufacturing jobs has led to the alienation of many workers.
+#制造业的工作枯燥而又单调，使许多工人产生了一种疏离感。
+
+prestigious: 英[preˈstɪdʒəs] 美[preˈstiːdʒəs]
+%adj. 有威望的，有声望的
+    Her first novel won a prestigious literary prize.
+#她的第一本小说获得了一个极具声望的文学奖。
+
+contrition: 英[kənˈtrɪʃ(ə)n] 美[kənˈtrɪʃ(ə)n]
+%n. 痛悔；悔悟
+    a look of contrition 
+#歉疚的神色
+    show contrition for one's negligence
+#对自己的疏忽表示追悔
+
+repetitive: 英[rɪˈpetətɪv] 美[rɪˈpetətɪv]
+%adj. 重复乏味的；多次重复的
+    a repetitive speech 
+#内容重复的演讲
+    a repetitive job
+#重复的工作
+
+nonthreatening: 英[nɒnˈθretnɪŋ] 美[nɑnˈθrɛtnɪŋ]
+%adj. 非威胁性的；不会引起焦虑的
+    His behavior is nonthreatening.
+#他的行为不构成威胁。
+
+self-doubt: 英[ˌself ˈdaʊt] 美[ˌself ˈdaʊt]
+%n. 自我怀疑；缺少自信
+    be filled with self-doubt
+#充满对自己的怀疑
+    inherit timidity and self-doubt from……
+#从……继承了怯懦和自我怀疑
+
+acquiescent: 英[ˌækwiˈes(ə)nt] 美[ˌækwiˈes(ə)nt]
+%adj. 默认的；默许的；甘心接受的
+    He is acquiescent, if not enthusiastic, about the deal.
+#他对这桩买卖就算不十分热心也至少持默认态度。
+
+touchy: 英[ˈtʌtʃi] 美[ˈtʌtʃi]
+$adj. 过敏的；易生气的；难以取悦的
+%n. （Touchy）人名；（英）塔奇
+    a touchy issue
+#棘手的问题
+    a touchy situation
+#棘手的局势
+    in a touchy mood
+#情绪不好
+    She is touchy about blame.
+#她是个责备不得的人。
+
+chaotic: 英[keɪˈɒtɪk] 美[keɪˈɑːtɪk]
+%adj. 混乱的，无秩序的；（与）……混沌（有关）的
+    a chaotic mess of books and papers
+#乱七八糟的一堆书和文件
+    a chaotic economic policy
+#混乱的经济政策
+    The city traffic was chaotic.
+#城市的交通乱糟糟的。
+
+oligarch: 英[ˈɒlɪɡɑːk] 美[ˈɑːləɡɑːrk]
+%n. 寡头政治执政者
+    I don't think oligarch is preferable to dictatorship.
+#我认为寡头政治并不比独裁好。
+
+agoraphobic: 英[ˌæɡərəˈfəʊbɪk] 美[ˌæɡərəˈfoʊbɪk]
+$adj. 恐旷症的；恐惧陌生环境的
+%n. 恐旷症患者
+    An agoraphobic cannot go into the wildness.
+#恐旷症患者去不了荒野。
+
+trademark: 英[ˈtreɪdmɑːk] 美[ˈtreɪdmɑːrk]
+$n. 商标；标志，特点
+%v. 给……标上商标；认出（某种习惯、品质或生活方式）为某人的典型特征
+    the sharpest trademark
+#最鲜明的特征
+    A trademark is usually registered and protected by law.
+#商标通常是注册备案而受到法律保护的。
+
+evenhanded: 英[ˌiːv(ə)nˈhændɪd] 美[ˌiːv(ə)nˈhændɪd]
+%adj. 公平的；公平无私的
+    an evenhanded policy
+#不偏不倚的政策
+    an evenhanded criticism
+#公正的评议
+    for the sake of being evenhanded
+#为了公正起见
+
+sedate: 英[sɪˈdeɪt] 美[sɪˈdeɪt]
+$adj. 安静的；沉着的
+%vt. 给……服镇静剂
+    a sedate turn of mind
+#思想的沉着安详
+    proceed at a sedate pace
+#以稳健的步伐前进
+    It is a sedate seaside town where a lot of old people live.
+#那是一个住了很多老人的安静的海边小镇。
+
+insubstantial: 英[ˌɪnsəbˈstænʃ(ə)l] 美[ˌɪnsəbˈstænʃ(ə)l]
+%adj. 脆弱的；无实体的；幻想的，非真实的
+    insubstantial argument
+#软弱无力的论点
+    an insubstantial meal
+#填不饱肚子的一顿饭
+    An insubstantial image was floating near the horizon.
+#地平线附近浮现出一种虚幻的景色。
+
+insatiable: 英[ɪnˈseɪʃəb(ə)l] 美[ɪnˈseɪʃəb(ə)l]
+%adj. 无法满足的，贪得无厌的
+    an insatiable hunger for knowledge
+#永不满足求知欲
+    an insatiable desire
+#无法满足的欲望
+    The shop owner was insatiable of/for profits.
+#店主对利润贪得无厌。
+
+deign: 英[deɪn] 美[deɪn]
+$vi. 屈尊
+%vt. 赐予
+    deign no reply
+#不屑回答
+    She would not deign to discuss the matter with him.
+#她不屑和他讨论这件事情。
+
+tendentious: 英[tenˈdenʃəs] 美[tenˈdenʃəs]
+%adj. 有偏见的，有倾向的；宣传性的
+    The article gives a distorted and highly tendentious view of the political situation in the country.
+#那篇文章对该国政治局势持歪曲的、高度偏见的观点。
+
+deprave: 英[dɪˈpreɪv] 美[dɪˈpreɪv]
+%vt. 使堕落；使腐败
+    deprave sb.'s character
+#使某人品德败坏
+    a vicious and depraved man
+#道德败坏的恶人
+    These habits are likely to deprave and corrupt people.
+#这些习惯会使人堕落。
+
+urbanize: 英[ˈɜːbənaɪz] 美[ˈɜːrbənaɪz]
+%v. 使城市化，使都市化；使文雅
+    The country has urbanized much of its natural coastline.
+#这个国家已经将大部分自然海岸线城市化了。
+
+uncharitable: 英[ʌnˈtʃærɪtəb(ə)l] 美[ʌnˈtʃærɪtəb(ə)l]
+%adj. 严厉的；无情的；不宽恕的；无慈悲心的
+    an uncharitable neighbor
+#不仁厚的邻居
+    an uncharitable condemnation
+#无情的斥责
+    It was rather uncharitable of you to comment on her large nose.
+#你评论她的大鼻子真是太不近人情了。
+
+acquiescence: 英[ˌækwiˈes(ə)ns] 美[ˌækwiˈes(ə)ns]
+%n. 默许；默从
+    acquiescence in/to the demand
+#对要求的默认
+    with acquiescence of one's mother
+#经过母亲的默许
+
+regretful: 英[rɪˈɡretfl] 美[rɪˈɡretfl]
+%adj. 后悔的，遗憾的
+    a regretful face
+#懊悔的脸
+    be regretful of what one has done
+#懊悔自己所做的事
+    cast a regretful glance at sb.
+#遗憾地看了某人一眼
+    I feel rather regretful that the affair ended like that.
+#事情弄到那样的结局，我感到很遗憾。
+
+repetitious: 英[ˌrepəˈtɪʃəs] 美[ˌrepəˈtɪʃəs]
+%adj. 重复的；唠唠叨叨的
+    a repetitious speaker
+#啰嗦不止的人
+    dull and repetitious work
+#单调重复的工作
+
+imponderable: 英[ɪmˈpɒndərəbl] 美[ɪmˈpɑːndərəb(ə)l]
+$adj. 无重量的；无法计算的
+%n. 无法衡量的事物
+    an imponderable element in the situation
+#形势中不可估量的因素
+    such imponderables as power and knowledge
+#像权力和知识那样难以精确估量的东西
+    Faith and love are imponderable forces.
+#信仰和爱是无法估量的力量。
+
+roseate: 英[ˈrəʊziət] 美[ˈroʊziət]
+%adj. 玫瑰色的；粉红的；容光焕发的；乐观的
+    the roseate face of a child
+#小孩欢快的面孔
+    a roseate future
+#美好的未来
+    the roseate hues of the evening sky
+#傍晚的天空所呈现的一片粉红色
+
+subterranean: 英[ˌsʌbtəˈreɪniən] 美[ˌsʌbtəˈreɪniən]
+$adj. 地下的；秘密的；隐蔽的
+%n. 地下工作者
+    a winding subterranean passage
+#弯弯曲曲的地道
+    a subterranean river
+#地下河
+    a kind of subterranean anger
+#一种强压抑着的怒火
+
+synthesize: 英[ˈsɪnθəsaɪz] 美[ˈsɪnθəsaɪz]
+%v. （通过化学或生物反应）合成；综合，结合；（用音响合成器）合成（声音）
+    synthesize a drug
+#合成一种药
+    They synthesized their experience into principles and theories.
+#他们把经验综合成为原则和理论。
+
+impecunious: 英[ˌɪmpɪˈkjuːniəs] 美[ˌɪmpɪˈkjuːniəs]
+%adj. 没有钱的；贫穷的
+    an impecunious candidate
+#一文不名的候选人
+
+disproportionate: 英[ˌdɪsprəˈpɔːʃənət] 美[ˌdɪsprəˈpɔːrʃənət]
+%adj. 不成比例的
+    a disproportionate share
+#不成比例的一份
+    spend a disproportionate amount of one's income on rent
+#把不成比例的收入花在房租上
+    The country's great influence in the world is disproportionate to its relatively small size.
+#这个国家在世界上的巨大影响力与其相对较小的国土面积不成比例。
+
+diminution: 英[ˌdɪmɪˈnjuːʃn] 美[ˌdɪmɪˈnuːʃ(ə)n]
+%n. 减少，降低；缩小
+    a diminution of taxes
+#减税
+    a diminution of sb.'s influence
+#某人影响力的下降
+    a diminution in income
+#收入的减少
+
+effete: 英[ɪˈfiːt] 美[ɪˈfiːt]
+%adj. 衰老的；疲惫的；（土地）贫瘠的；（动植物）不育的
+    effete earth
+#无所生长的土地
+    effete civilization
+#衰落的文明
+    an effete boy
+#女孩子气的男孩
+    With nothing to do all day except amuse themselves, the aristocracy had grown effete and lazy.
+#整天除了自娱自乐外无事可做，贵族们变得无精打采、懒洋洋的。
+
+improvident: 英[ɪmˈprɒvɪdənt] 美[ɪmˈprɑːvɪdənt]
+%adj. 浪费的；无远见的；无先见之明的
+    She thought it improvident of me to spend so much money on clothes.
+#她认为我把这么多钱花在衣服上是缺乏远见的。
+
+reclusive: 英[rɪˈkluːsɪv] 美[rɪˈkluːsɪv]
+%adj. 隐居的；隐遁的
+    He lived alone in a small apartment and became increasingly reclusive.
+#他独自住在一间公寓里面，变得日益与世隔绝。
+
+quantifiable: 英[ˈkwɒntɪfaɪəbl; ˌkwɒntɪˈfaɪəbl] 美[ˈkwɑːntɪfaɪəblˌˌkwɑːntɪˈfaɪəbl]
+%adj. 可以计量的
+    The benefits of the new policy are not easily quantifiable.
+#新政策的好处不容易量化。
+
+doctrinaire: 英[ˌdɒktrɪˈneə(r)] 美[ˌdɑːktrɪˈner]
+$adj. 教条主义的；空谈理论的
+%n. 教条主义者；空论家，纯理论家
+    These principles are doctrinaire.
+#这些原则有点教条。
+
+brassy: 英[ˈbrɑːsi] 美[ˈbræsi]
+$adj. 刺耳的；厚脸皮的；似黄铜的
+%n. 铜头高尔夫球棍
+    brassy light
+#黄铜色的光
+    a brassy salesman
+#死皮赖脸的推销员
+    To succeed as a journalist, one might have to appear somewhat brassy and fearless.
+#要想成为一名成功的新闻记者，人可能要有点厚脸皮和大无畏的精神。
+
+waxy: 英[ˈwæksi] 美[ˈwæksi]
+%adj. 蜡制的；像蜡的，质地光滑的，柔软的；蜡色的，苍白的；（非正式）生气的
+    a waxy surface
+#光滑的表面
+    a waxy complexion
+#蜡黄的面色
+    These apples have a waxy skin.
+#这些苹果的表面很光滑。
+
+timeliness: 英[ˈtaɪmlinəs] 美[ˈtaɪmlinəs]
+%n. 及时；时间性；好时机
+    the timeliness of the spring rain
+#春雨的及时
+
+=======
+deprecate: 英[ˈdeprəkeɪt] 美[ˈdeprəkeɪt]
+%vt. 反对；抨击；轻视；声明不赞成
+    deprecate hasty action
+#反对匆忙行动
+    deprecate changing the rules
+#反对改变规则
+    We deprecate this use of company funds for political purpose.
+#我们反对将公司基金用于政治目的。
+
+unnoteworthy: 英[ʌnˈnəʊtˌwɜːði] 美[ʌnˈnoʊtˌwɜːrði]
+%adj. 不显著的；普通的；不值得注意的
+    an unnoteworthy comedy
+#不怎么好的喜剧
+
+circumspect: 英[ˈsɜːkəmspekt] 美[ˈsɜːrkəmspekt]
+%adj. 小心谨慎的，考虑周到的，慎重的
+    Forty years of twists and turns in politics have taught him to remain circumspect.
+#四十年在政治上的曲折坎坷教会了他处事谨慎小心。
+
+approbation: 英[ˌæprəˈbeɪʃ(ə)n] 美[ˌæprəˈbeɪʃ(ə)n]
+%n. 认可；赞许；批准
+    smile with approbation
+#笑着表示赞同
+    He had worked long and hard on the project, but the committee never gave him so much as a word of approbation.
+#在这个项目上他不辞辛苦，孜孜以求，委员会却连一句赞许的话都没给他。
+
+construction: 英[kənˈstrʌkʃn] 美[kənˈstrʌkʃ(ə)n]
+%n. 建造，建筑；创立，构建；构造，结构；建筑物；语法结构；解释，理解
+    construction industry
+#建筑行业
+    under construction
+#在建造中
+    a construction of wood
+#木结构的建筑
+    It is a building of solid and ingenious construction.
+#那是一幢结构紧实式样精巧的建筑。
+
+earthiness: 英[ˈɜːθinəs] 美[ˈɜːrθinəs]
+%n. 土质，土性；质朴，粗陋
+    I like the earthiness of the novel.
+#我喜欢这部小说的朴实无华。
+
+institutionalized: 英[ˌɪnstɪˈtjuːʃənəlaɪzd] 美[ˌɪnstɪˈtuːʃənəlaɪzd]
+$adj. 约定俗成的，使成惯例的；有组织的；（因长期生活在福利机构）缺乏自理能力的；制度化的
+%v. 将（人）送到收容机构；使成为惯例；制度化（institutionalize 的过去式和过去分词）
+    institutionalized children
+#被送进孤儿院的孩子们
+    We need to avoid long-stay patients in hospital becoming institutionalized.
+#我们需要避免使长期住院的病人受到住院生活所产生的不良影响。
+
+paragon: 英[ˈpærəɡən] 美[ˈpærəɡɑːn]
+%n. 完美典范，尽善尽美的人（或物）；（100克拉以上的）无暇钻石
+    a moral paragon
+#道德的典范
+    The author seems to view the country's system as a paragon of democracy.
+#作者似乎认为这个国家的制度是民主的典范。
+
+infinitesimal: 英[ˌɪnfɪnɪˈtesɪm(ə)l] 美[ˌɪnfɪnɪˈtesɪm(ə)l]
+$adj. 无穷小的；无限小的；极小的
+%n. 无限小；极微量；极小量
+    The amounts of radioactivity were infinitesimal and seemed to present no danger.
+#放射量极小，好像不会产生危险。
+
+unscrupulous: 英[ʌnˈskruːpjələs] 美[ʌnˈskruːpjələs]
+%adj. 无道德原则的，肆无忌惮的
+    an unscrupulous salesman
+#不择手段的推销员
+    unscrupulous business methods
+#不择手段的经营方式
+
+chancy: 英[ˈtʃɑːnsi] 美[ˈtʃænsi]
+%adj. 不确实的；偶然发生的；不安的
+    We may be able to get tickets but it's a bit chancy.
+#我们也许能弄到票，但不太靠得住。
+
+alienation: 英[ˌeɪliəˈneɪʃ(ə)n] 美[ˌeɪliəˈneɪʃ(ə)n]
+%n. 疏离感；失去支持，疏远；（财产或权利的）转让，让渡；（马克思主义理论）异化感；情感性精神错乱；间离效果，陌生化效果
+    alienation from
+#与……疏远
+    The boring and repetitive nature of manufacturing jobs has led to the alienation of many workers.
+#制造业的工作枯燥而又单调，使许多工人产生了一种疏离感。
+
+prestigious: 英[preˈstɪdʒəs] 美[preˈstiːdʒəs]
+%adj. 有威望的，有声望的
+    Her first novel won a prestigious literary prize.
+#她的第一本小说获得了一个极具声望的文学奖。
+
+contrition: 英[kənˈtrɪʃ(ə)n] 美[kənˈtrɪʃ(ə)n]
+%n. 痛悔；悔悟
+    a look of contrition 
+#歉疚的神色
+    show contrition for one's negligence
+#对自己的疏忽表示追悔
+
+repetitive: 英[rɪˈpetətɪv] 美[rɪˈpetətɪv]
+%adj. 重复乏味的；多次重复的
+    a repetitive speech 
+#内容重复的演讲
+    a repetitive job
+#重复的工作
+
+nonthreatening: 英[nɒnˈθretnɪŋ] 美[nɑnˈθrɛtnɪŋ]
+%adj. 非威胁性的；不会引起焦虑的
+    His behavior is nonthreatening.
+#他的行为不构成威胁。
+
+self-doubt: 英[ˌself ˈdaʊt] 美[ˌself ˈdaʊt]
+%n. 自我怀疑；缺少自信
+    be filled with self-doubt
+#充满对自己的怀疑
+    inherit timidity and self-doubt from……
+#从……继承了怯懦和自我怀疑
+
+acquiescent: 英[ˌækwiˈes(ə)nt] 美[ˌækwiˈes(ə)nt]
+%adj. 默认的；默许的；甘心接受的
+    He is acquiescent, if not enthusiastic, about the deal.
+#他对这桩买卖就算不十分热心也至少持默认态度。
+
+touchy: 英[ˈtʌtʃi] 美[ˈtʌtʃi]
+$adj. 过敏的；易生气的；难以取悦的
+%n. （Touchy）人名；（英）塔奇
+    a touchy issue
+#棘手的问题
+    a touchy situation
+#棘手的局势
+    in a touchy mood
+#情绪不好
+    She is touchy about blame.
+#她是个责备不得的人。
+
+chaotic: 英[keɪˈɒtɪk] 美[keɪˈɑːtɪk]
+%adj. 混乱的，无秩序的；（与）……混沌（有关）的
+    a chaotic mess of books and papers
+#乱七八糟的一堆书和文件
+    a chaotic economic policy
+#混乱的经济政策
+    The city traffic was chaotic.
+#城市的交通乱糟糟的。
+
+oligarch: 英[ˈɒlɪɡɑːk] 美[ˈɑːləɡɑːrk]
+%n. 寡头政治执政者
+    I don't think oligarch is preferable to dictatorship.
+#我认为寡头政治并不比独裁好。
+
+agoraphobic: 英[ˌæɡərəˈfəʊbɪk] 美[ˌæɡərəˈfoʊbɪk]
+$adj. 恐旷症的；恐惧陌生环境的
+%n. 恐旷症患者
+    An agoraphobic cannot go into the wildness.
+#恐旷症患者去不了荒野。
+
+trademark: 英[ˈtreɪdmɑːk] 美[ˈtreɪdmɑːrk]
+$n. 商标；标志，特点
+%v. 给……标上商标；认出（某种习惯、品质或生活方式）为某人的典型特征
+    the sharpest trademark
+#最鲜明的特征
+    A trademark is usually registered and protected by law.
+#商标通常是注册备案而受到法律保护的。
+
+evenhanded: 英[ˌiːv(ə)nˈhændɪd] 美[ˌiːv(ə)nˈhændɪd]
+%adj. 公平的；公平无私的
+    an evenhanded policy
+#不偏不倚的政策
+    an evenhanded criticism
+#公正的评议
+    for the sake of being evenhanded
+#为了公正起见
+
+sedate: 英[sɪˈdeɪt] 美[sɪˈdeɪt]
+$adj. 安静的；沉着的
+%vt. 给……服镇静剂
+    a sedate turn of mind
+#思想的沉着安详
+    proceed at a sedate pace
+#以稳健的步伐前进
+    It is a sedate seaside town where a lot of old people live.
+#那是一个住了很多老人的安静的海边小镇。
+
+insubstantial: 英[ˌɪnsəbˈstænʃ(ə)l] 美[ˌɪnsəbˈstænʃ(ə)l]
+%adj. 脆弱的；无实体的；幻想的，非真实的
+    insubstantial argument
+#软弱无力的论点
+    an insubstantial meal
+#填不饱肚子的一顿饭
+    An insubstantial image was floating near the horizon.
+#地平线附近浮现出一种虚幻的景色。
+
+insatiable: 英[ɪnˈseɪʃəb(ə)l] 美[ɪnˈseɪʃəb(ə)l]
+%adj. 无法满足的，贪得无厌的
+    an insatiable hunger for knowledge
+#永不满足求知欲
+    an insatiable desire
+#无法满足的欲望
+    The shop owner was insatiable of/for profits.
+#店主对利润贪得无厌。
+
+deign: 英[deɪn] 美[deɪn]
+$vi. 屈尊
+%vt. 赐予
+    deign no reply
+#不屑回答
+    She would not deign to discuss the matter with him.
+#她不屑和他讨论这件事情。
+
+tendentious: 英[tenˈdenʃəs] 美[tenˈdenʃəs]
+%adj. 有偏见的，有倾向的；宣传性的
+    The article gives a distorted and highly tendentious view of the political situation in the country.
+#那篇文章对该国政治局势持歪曲的、高度偏见的观点。
+
+deprave: 英[dɪˈpreɪv] 美[dɪˈpreɪv]
+%vt. 使堕落；使腐败
+    deprave sb.'s character
+#使某人品德败坏
+    a vicious and depraved man
+#道德败坏的恶人
+    These habits are likely to deprave and corrupt people.
+#这些习惯会使人堕落。
+
+urbanize: 英[ˈɜːbənaɪz] 美[ˈɜːrbənaɪz]
+%v. 使城市化，使都市化；使文雅
+    The country has urbanized much of its natural coastline.
+#这个国家已经将大部分自然海岸线城市化了。
+
+uncharitable: 英[ʌnˈtʃærɪtəb(ə)l] 美[ʌnˈtʃærɪtəb(ə)l]
+%adj. 严厉的；无情的；不宽恕的；无慈悲心的
+    an uncharitable neighbor
+#不仁厚的邻居
+    an uncharitable condemnation
+#无情的斥责
+    It was rather uncharitable of you to comment on her large nose.
+#你评论她的大鼻子真是太不近人情了。
+
+acquiescence: 英[ˌækwiˈes(ə)ns] 美[ˌækwiˈes(ə)ns]
+%n. 默许；默从
+    acquiescence in/to the demand
+#对要求的默认
+    with acquiescence of one's mother
+#经过母亲的默许
+
+regretful: 英[rɪˈɡretfl] 美[rɪˈɡretfl]
+%adj. 后悔的，遗憾的
+    a regretful face
+#懊悔的脸
+    be regretful of what one has done
+#懊悔自己所做的事
+    cast a regretful glance at sb.
+#遗憾地看了某人一眼
+    I feel rather regretful that the affair ended like that.
+#事情弄到那样的结局，我感到很遗憾。
+
+repetitious: 英[ˌrepəˈtɪʃəs] 美[ˌrepəˈtɪʃəs]
+%adj. 重复的；唠唠叨叨的
+    a repetitious speaker
+#啰嗦不止的人
+    dull and repetitious work
+#单调重复的工作
+
+imponderable: 英[ɪmˈpɒndərəbl] 美[ɪmˈpɑːndərəb(ə)l]
+$adj. 无重量的；无法计算的
+%n. 无法衡量的事物
+    an imponderable element in the situation
+#形势中不可估量的因素
+    such imponderables as power and knowledge
+#像权力和知识那样难以精确估量的东西
+    Faith and love are imponderable forces.
+#信仰和爱是无法估量的力量。
+
+roseate: 英[ˈrəʊziət] 美[ˈroʊziət]
+%adj. 玫瑰色的；粉红的；容光焕发的；乐观的
+    the roseate face of a child
+#小孩欢快的面孔
+    a roseate future
+#美好的未来
+    the roseate hues of the evening sky
+#傍晚的天空所呈现的一片粉红色
+
+subterranean: 英[ˌsʌbtəˈreɪniən] 美[ˌsʌbtəˈreɪniən]
+$adj. 地下的；秘密的；隐蔽的
+%n. 地下工作者
+    a winding subterranean passage
+#弯弯曲曲的地道
+    a subterranean river
+#地下河
+    a kind of subterranean anger
+#一种强压抑着的怒火
+
+synthesize: 英[ˈsɪnθəsaɪz] 美[ˈsɪnθəsaɪz]
+%v. （通过化学或生物反应）合成；综合，结合；（用音响合成器）合成（声音）
+    synthesize a drug
+#合成一种药
+    They synthesized their experience into principles and theories.
+#他们把经验综合成为原则和理论。
+
+impecunious: 英[ˌɪmpɪˈkjuːniəs] 美[ˌɪmpɪˈkjuːniəs]
+%adj. 没有钱的；贫穷的
+    an impecunious candidate
+#一文不名的候选人
+
+disproportionate: 英[ˌdɪsprəˈpɔːʃənət] 美[ˌdɪsprəˈpɔːrʃənət]
+%adj. 不成比例的
+    a disproportionate share
+#不成比例的一份
+    spend a disproportionate amount of one's income on rent
+#把不成比例的收入花在房租上
+    The country's great influence in the world is disproportionate to its relatively small size.
+#这个国家在世界上的巨大影响力与其相对较小的国土面积不成比例。
+
+diminution: 英[ˌdɪmɪˈnjuːʃn] 美[ˌdɪmɪˈnuːʃ(ə)n]
+%n. 减少，降低；缩小
+    a diminution of taxes
+#减税
+    a diminution of sb.'s influence
+#某人影响力的下降
+    a diminution in income
+#收入的减少
+
+effete: 英[ɪˈfiːt] 美[ɪˈfiːt]
+%adj. 衰老的；疲惫的；（土地）贫瘠的；（动植物）不育的
+    effete earth
+#无所生长的土地
+    effete civilization
+#衰落的文明
+    an effete boy
+#女孩子气的男孩
+    With nothing to do all day except amuse themselves, the aristocracy had grown effete and lazy.
+#整天除了自娱自乐外无事可做，贵族们变得无精打采、懒洋洋的。
+
+improvident: 英[ɪmˈprɒvɪdənt] 美[ɪmˈprɑːvɪdənt]
+%adj. 浪费的；无远见的；无先见之明的
+    She thought it improvident of me to spend so much money on clothes.
+#她认为我把这么多钱花在衣服上是缺乏远见的。
+
+reclusive: 英[rɪˈkluːsɪv] 美[rɪˈkluːsɪv]
+%adj. 隐居的；隐遁的
+    He lived alone in a small apartment and became increasingly reclusive.
+#他独自住在一间公寓里面，变得日益与世隔绝。
+
+quantifiable: 英[ˈkwɒntɪfaɪəbl; ˌkwɒntɪˈfaɪəbl] 美[ˈkwɑːntɪfaɪəblˌˌkwɑːntɪˈfaɪəbl]
+%adj. 可以计量的
+    The benefits of the new policy are not easily quantifiable.
+#新政策的好处不容易量化。
+
+doctrinaire: 英[ˌdɒktrɪˈneə(r)] 美[ˌdɑːktrɪˈner]
+$adj. 教条主义的；空谈理论的
+%n. 教条主义者；空论家，纯理论家
+    These principles are doctrinaire.
+#这些原则有点教条。
+
+brassy: 英[ˈbrɑːsi] 美[ˈbræsi]
+$adj. 刺耳的；厚脸皮的；似黄铜的
+%n. 铜头高尔夫球棍
+    brassy light
+#黄铜色的光
+    a brassy salesman
+#死皮赖脸的推销员
+    To succeed as a journalist, one might have to appear somewhat brassy and fearless.
+#要想成为一名成功的新闻记者，人可能要有点厚脸皮和大无畏的精神。
+
+waxy: 英[ˈwæksi] 美[ˈwæksi]
+%adj. 蜡制的；像蜡的，质地光滑的，柔软的；蜡色的，苍白的；（非正式）生气的
+    a waxy surface
+#光滑的表面
+    a waxy complexion
+#蜡黄的面色
+    These apples have a waxy skin.
+#这些苹果的表面很光滑。
+
+timeliness: 英[ˈtaɪmlinəs] 美[ˈtaɪmlinəs]
+%n. 及时；时间性；好时机
+    the timeliness of the spring rain
+#春雨的及时
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

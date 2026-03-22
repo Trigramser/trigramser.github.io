@@ -1,0 +1,771 @@
+<<<<<<< HEAD
+﻿acedia: 英[əˈsiːdɪə] 美[əˈsiːdiə]
+%n. 绝望；懒惰，倦怠
+    Sadly these kids attend schools where acedia exists among both the students and teachers.
+#可悲的是，在这些孩子念书的学校里，师生都缺乏热情。
+
+nemesis: 英[ˈneməsɪs] 美[ˈneməsɪs]
+$n. <正式>给予惩罚的人；宿敌，死对头；报应，天罚
+%n. （Nemesis）涅墨西斯（复仇女神）
+    invite nemesis
+#招致报应
+    The tax increases proved to be the president's political nemesis at the following election.
+#增加赋税致使总统在下届选举中遭到了政治上的报应。
+
+gerontocracy: 英[ˌdʒerənˈtɒkrəsi] 美[ˌdʒerənˈtɑːkrəsi]
+%n. 老人政治；老人政府
+    A gerontocracy of designers who became world famous two if not three decades ago have left little space for young challengers.
+#20、30年前蜚声海内外、如今已步入暮年的设计师挤压了年轻设计师的挑战空间。
+
+plaudit: 英[ˈplɔːdɪt] 美[ˈplɔːdɪt]
+%n. 喝彩；赞美
+    The novel received plaudits of the critics.
+#这部小说受到了批评家的赞扬。
+
+drawn: 英[drɔːn] 美[drɔːn]
+$adj. （因身体不适、疲倦或忧虑）憔悴的，苍白的
+%v. 画，绘制；拖，拉；拔出；排出（液体）（draw 的过去分词）
+    a drawn match
+#不分胜负的比赛
+    He saw a face drawn with sorrow.
+#他看到一张因悲伤而惟悴的脸。
+
+cosmopolitanism: 英[ˌkɒzməˈpɒlɪtənɪzəm] 美[ˌkɑːzməˈpɑːlɪtənɪzəm]
+%n. 世界主义；世界大同主义；四海一家
+    Cosmopolitanism became difficult to disentangle from its overtones of anti-nationalism.
+#世界主义很难摆脱反爱国主义的色彩。
+
+gumption: 英[ˈɡʌmpʃ(ə)n] 美[ˈɡʌmpʃn]
+%n. 进取心；气概；精力
+    She had the gumption to phone directly to the company manager and persuade him to give her a job.
+#她很有魄力，直接给公司经理打电话并劝说他给她一份工作。
+
+polemical: 英[pəˈlemɪk(ə)l] 美[pəˈlemɪk(ə)l]
+%adj. 好辩的；好争论的；挑起论战的
+    The polemical dispute between the two countries deepens.
+#两国间的论战日趋深化。
+
+jamb: 英[dʒæm] 美[dʒæm]
+%n. [矿业] 矿柱，侧柱；门窗侧壁
+    The jamb is fallen.
+#侧柱倒塌了。
+
+neophyte: 英[ˈniːəfaɪt] 美[ˈniːəfaɪt]
+%n. 新信徒，新入教者；初学者，新手；新受圣职的司铎
+    a neophyte on the political stage
+#在政治舞台上初露头角的人
+
+subpoena: 英[səˈpiːnə] 美[səˈpiːnə]
+$n. 传票
+%v. 传唤（某人）出庭；要求把……呈交法院
+    call sb. on subpoena
+#传唤某人
+    be under a subpoena
+#被传唤
+    subpoena sb. to testify
+#传某人到法庭作证
+
+negligence: 英[ˈneɡlɪdʒəns] 美[ˈneɡlɪdʒəns]
+%n. 疏忽，大意；<法律>玩忽职守
+    He dressed with easy negligence.
+#他穿得随随便便。
+
+statuary: 英[ˈstætʃuəri] 美[ˈstætʃueri]
+$n. 雕像；雕像艺术
+%adj. 雕塑的；雕像用的
+    some magnificent Roman statuary
+#几尊雄伟的罗马雕像
+    statuary art
+#雕塑艺术
+
+summation: 英[sʌˈmeɪʃ(ə)n] 美[səˈmeɪʃ(ə)n]
+%n. 和；[生理] 总和；合计
+    She gave us a final summation of what they had achieved.
+#她最后给我们总结了他们已取得的成就。
+
+scrimp: 英[skrɪmp] 美[skrɪmp]
+$vt. 节省；过度缩减；克扣
+$vi. 精打细算；吝啬
+%adj. 吝啬的；不足的
+    scrimp and save
+#节省钱财
+    the scrimping life of peasants
+#农民的节俭生活
+    scrimp and scrape
+#节俭
+    She spent most of her money on clothes and scrimped on food.
+#她把钱大部分花在了衣着上，在吃的方面十分节俭。
+
+transpose: 英[trænˈspəʊz] 美[trænˈspoʊz]
+$vt. 调换；移项；颠倒顺序
+$vi. 进行变换
+%n. 转置阵
+    transpose the verse into prose
+#把诗改写成散文
+    The director transposes the action from 15th century France to modern America.
+#导演把故事背景从15世纪的法国变为现代美国。
+
+bray: 英[breɪ] 美[breɪ]
+$v. （驴子）嘶叫；捣碎；以刺耳的高声讲话；（在活字或印刷版上）刷油墨
+$n. 驴叫声；喇叭声
+%n. （Bray）（美、英；加、法、澳）布雷（人名）
+    Cannons roared, and trumpets brayed.
+#炮声隆隆，军号嘟嘟。
+
+blandish: 英[ˈblændɪʃ] 美[ˈblændɪʃ]
+%v. 奉承；哄骗
+    She blandished him out of his black mood.
+#她用甜言蜜语消除了他忧郁的情绪。
+
+naysay: 英[ˈneɪseɪ] 美[ˈneɪseɪ]
+$vt. 拒绝；否认
+%n. 拒绝；否认
+    naysay one's suggestions
+#拒绝某人的建议
+
+betoken: 英[bɪˈtəʊkən] 美[bɪˈtoʊkən]
+%vt. 预示；表示
+    Dark clouds usually betoken rain.
+#乌云通常预示着要下雨。
+
+forger: 英[ˈfɔːdʒə(r)] 美[ˈfɔːrdʒər]
+$n. 铁匠；伪造者
+%n. （Forger）人名；（英）福杰
+    The paintings were produced by a clever art forger.
+#这些画是由一个高超的艺术伪造者仿制的。
+
+ancillary: 英[ænˈsɪləri] 美[ˈænsəleri]
+$adj. 辅助的；副的；从属的
+%n. 助手；附件
+    an ancillary undertaking
+#附属事业
+    ancillary equipment
+#辅助设备
+    ancillary evidence
+#附加证据
+
+star-crossed: 英[ˈstɑː krɒst] 美[ˈstɑːr krɔːst]
+%adj. 不幸的；运气不好的；倒霉的
+    a star-crossed day
+#倒霉的日子
+
+ilk: 英[ɪlk] 美[ɪlk]
+$n. 类型，种类；同类
+%adj. 相同的
+    the world of media people and their ilk
+#新闻媒体一类人等
+    Girls of Amy's ilk prefer to go to the movies alone.
+#埃米这类姑娘喜欢独个儿看电影。
+
+rambunctious: 英[ræmˈbʌŋkʃəs] 美[ræmˈbʌŋkʃəs]
+%adj. 难控制的；喧闹的；粗暴的；骚乱的
+    He was too rambunctious to get along with.
+#他太任性，很难相处。
+
+muzzy: 英[ˈmʌzi] 美[ˈmʌzi]
+$adj. 无精神的；头脑混乱的，迷糊的；发呆的；含糊的，不明确的；（人的眼睛或视觉形象）模糊不清的；（声音）模糊的
+%n. （Muzzy）（美）马齐（人名）
+    feel a bit muzzy in the head
+#头脑有点昏沉
+    a muzzy day
+#阴沉的一天
+
+forgo: 英[fɔːˈɡəʊ] 美[fɔːrˈɡoʊ]
+$vi. 放弃；停止；对…断念
+%vt. 放弃；停止；对…断念
+    forgo a holiday
+#放弃假期
+    I'll have to forgo the pleasure of seeing you this week.
+#这周我只好放弃与你相见的乐事。
+
+other-directed: 英[ˈʌðə(r) dəˈrektɪd] 美[ˈʌðər dəˈrektɪd]
+%adj. 受人支配的；缺少自主性的
+    an other-directed man
+#没有主见的人
+
+prevaricate: 英[prɪˈværɪkeɪt] 美[prɪˈværɪkeɪt]
+%vi. 搪塞；支吾其辞，闪烁其辞
+    Jane prevaricated over whether to buy a new house.
+#简在是否买新房子上含糊其词。
+
+rapacious: 英[rəˈpeɪʃəs] 美[rəˈpeɪʃəs]
+%adj. 贪婪的；掠夺的
+    rapacious invaders
+#四处掠夺的入侵者
+    a rapacious businessman
+#贪婪的商人
+    rapacious animals
+#食肉动物
+
+bovine: 英[ˈbəʊvaɪn] 美[ˈboʊvaɪn]
+$adj. 牛的；似牛的；迟钝的
+%n. 牛科动物
+    He was a gentle, rather bovine man.
+#他是一个文雅有耐性的人。
+
+preponderant: 英[prɪˈpɒndərənt] 美[prɪˈpɑːndərənt]
+%adj. <正式>（在重量、力量、影响等上）占优势的
+    Music does not play a very preponderant role in school's teaching.
+#音乐在学校教育中还未起到重要的作用。
+
+mawkish: 英[ˈmɔːkɪʃ] 美[ˈmɔːkɪʃ]
+%adj. 令人作呕的，令人厌恶的；自作多情的；淡而无味的
+    sentimental mawkish verses
+#无病呻吟的诗句
+
+disaffect: 英[ˌdɪsəˈfekt] 美[ˌdɪsəˈfekt]
+%vt. 使疏远；使不满意；使成为敌人
+    The policies of the new government soon disaffected the people.
+#新政府的政策不久就激起了人民的不满。
+    disaffected soldiers
+#心怀不满的士兵们
+
+sequacious: 英[sɪˈkweɪʃəs] 美[sɪˈkweʃəs]
+%adj. 盲从的；合于逻辑的；缺乏独创性的
+    a sequacious argument
+#合乎逻辑的论点
+
+conjoin: 英[kənˈdʒɔɪn] 美[kənˈdʒɔɪn]
+%v. 结合；连结
+    The past and present are conjoined in the author's imagination.
+#过去和现在通过作者的想象重叠在一起。
+
+ratification: 英[ˌrætɪfɪˈkeɪʃ(ə)n] 美[ˌrætɪfɪˈkeɪʃ(ə)n]
+%n. 批准，认可
+    Treaties require ratification by respective countries.
+#条约需经各自的国家批准。
+
+informed: 英[ɪnˈfɔːmd] 美[ɪnˈfɔːrmd]
+$adj. 有知识的，了解情况的；有根据的，可靠的；明智的，有见识的
+%v. 通知，告知；告发，检举（inform on）；了解，熟悉（inform 的过去式和过去分词形式）
+    alert and informed students
+#机灵而有见识的学生
+    informed sources
+#消息灵通人士
+    informed taste
+#高雅的情趣
+    She was so well informed about all things that happened in the town.
+#她对镇上发生的大小事儿全都了解得一清二楚。
+
+verboten: 英[vəˈbəʊt(ə)n] 美[vərˈboʊt(ə)n]
+%adj. 禁止的
+    a verboten film
+#禁止上映的电影
+    What is permissible at one may be verboten at another.
+#一家公司内允许的也许在另一家被禁止。
+
+consonance: 英[ˈkɒnsənəns] 美[ˈkɑːnsənəns]
+%n. 一致，调和；和音
+    consonance of thought and expression
+#思想和表达的一致
+    His actions are in consonance with his beliefs.
+#他的行为和他的信仰是一致的。
+
+superfluity: 英[ˌsuːpəˈfluːəti] 美[ˌsuːpərˈfluːəti]
+%n. 奢侈品；额外；过剩
+    a superfluity of apples
+#太多的苹果
+    Luxuries are superfluities.
+#奢侈品为非必需品。
+
+gyrate: 英[dʒaɪˈreɪt] 美[ˈdʒaɪreɪt]
+$vi. 旋转
+%adj. 旋涡状的
+    gyrating prices
+#波动的价格
+    They are gyrating to the accompaniment of bands playing jazz.
+#他们在爵士乐队的演奏下旋转起舞。
+
+striate: 英[ˈstraɪɪt] 美[ˈstraɪɪt]
+$adj. 有条纹的
+%vt. 加条纹，加条痕
+    The temple perches on the striated cliffs.
+#那座寺庙坐落在布满条纹的峭壁上。
+
+restless: 英[ˈrestləs] 美[ˈrestləs]
+%adj. 坐立不安的，不耐烦的；不满足现状的，求变的；得不到休息的，没有睡眠的
+    restless pacing up and down
+#焦躁地来回步
+    spend a restless night
+#度过一个不眠之夜
+    a restless mind
+#探索不止的头脑
+    The animals grew restless as if in anticipation of an earthquake.
+#各种动物都变得焦躁不安，像是感到了地震即将发生。
+
+naysayer: 英[ˈneɪseɪə(r)] 美[ˈneɪseɪər]
+%n. 否定者；投反对票者
+    Be warned that the majority of people out there will go into naysayer mode automatically.
+#值得注意的是，这类人大多数都会自动的变为反对者。
+
+insolence: 英[ˈɪnsələns] 美[ˈɪnsələns]
+%n. 傲慢；傲慢无礼的行为
+    She was unwilling to put up with his insolence.
+#她不愿忍受他的做慢无礼。
+
+gustatory: 英[ˈɡʌstətəri] 美[ˈɡʌstətɔːri]
+%adj. 味的，味觉的
+    Eating fine food gives gustatory pleasure.
+#美食给人以味觉的享受。
+
+mutate: 英[mjuːˈteɪt] 美[ˈmjuːteɪt]
+$vi. 变化，产生突变
+%vt. 改变，使突变
+    These bacteria have mutated into forms that are resistant to certain drugs.
+#这些细菌已突变成对某些药物有抗药性的形态。
+
+empyreal: 英[ˌempaɪˈriːəl] 美[emˈprɪrɪəl]
+%adj. （古代宇宙论中的）九重天的；苍天的，天上的；崇高的，令人崇敬的
+    empyreal ideas
+#崇高的理想
+    empyreal mountain air
+#纯净的山间空气
+
+blockage: 英[ˈblɒkɪdʒ] 美[ˈblɑːkɪdʒ]
+%n. 造成阻塞的东西，阻塞物；堵塞，阻塞
+    a blockage in the drainpipe
+#排水管堵塞
+
+albeit: 英[ˌɔːlˈbiːɪt] 美[ˌɔːlˈbiːɪt]
+%conj. 虽然，尽管
+    They are still waiting, albeit with growing impatience.
+#他们仍在等着，尽管越来越不耐烦。
+
+atheism: 英[ˈeɪθiɪzəm] 美[ˈeɪθiɪzəm]
+%n. 不信神，无神论
+    He then segued into a discussion of atheism.
+#然后他转入对无神论的论述。
+
+torrential: 英[təˈrenʃ(ə)l] 美[təˈrenʃ(ə)l]
+%adj. （水）奔流的；（雨）倾泻的，如注的；猛烈的
+    a torrential flow of words
+#滔滔不绝的讲话;
+    torrential applause
+#暴风雨般的掌声
+    Before we got home, torrential rain began to pour.
+#我们还没有到家，暴雨就倾盆而下。
+
+skirt: 英[skɜːt] 美[skɜːrt]
+$n. 女裙，半身裙；（连衣裙、外衣等的）下摆（skirts）；（车辆或机器基座的）挡板，裙板；<非正式>（被视为性欲对象的）姑娘，女人尤物；（供食用的）多筋动物肉；<英> 腰窝肉；（马鞍的）垂边
+%v. 环绕……的四周，沿……的边缘走；绕开，回避（话题）
+    skirt an issue
+#回避问题
+    a road skirting round the bay
+#一条沿海湾的路
+    They skirted the willow grove instead of going through it.
+#他们绕过而不是穿过柳树林。
+
+lassitude: 英[ˈlæsɪtjuːd] 美[ˈlæsɪtuːd]
+%n. 疲乏；懒散；厌倦
+    Shareholders are blaming the company's problems on the lassitude of the managing director.
+#股东们把公司的问题归咎于总经理的懈怠。
+
+vandalize: 英[ˈvændəlaɪz] 美[ˈvændəlaɪz]
+%vt. 肆意毁坏；摧残（等于 vandalise）
+    They are the type of men likely to vandalize phone boxes.
+#他们是些可能恶意破坏电话亭的人。
+
+pauper: 英[ˈpɔːpə(r)] 美[ˈpɔːpər]
+$n. 乞丐；穷人；靠救济度日者
+$adj. 贫民的
+%n. （Pauper）人名；（德）保佩尔；（法）波佩
+    Most of the paupers live in the north of the country.
+#大多数贫民住在该国的北部。
+
+patrician: 英[pəˈtrɪʃn] 美[pəˈtrɪʃn]
+$adj. 贵族的；显贵的
+%n. 贵族；有教养的人
+    He was born into a patrician family and privately educated.
+#他出生于一个贵族家庭，接受的是私人教育。
+
+splashy: 英[ˈsplæʃi] 美[ˈsplæʃi]
+%adj. 泥泞的；容易溅开的；遍布斑点的；引人注目的
+    a splashy half-page ad
+#引人注意的半页广告
+
+=======
+﻿acedia: 英[əˈsiːdɪə] 美[əˈsiːdiə]
+%n. 绝望；懒惰，倦怠
+    Sadly these kids attend schools where acedia exists among both the students and teachers.
+#可悲的是，在这些孩子念书的学校里，师生都缺乏热情。
+
+nemesis: 英[ˈneməsɪs] 美[ˈneməsɪs]
+$n. <正式>给予惩罚的人；宿敌，死对头；报应，天罚
+%n. （Nemesis）涅墨西斯（复仇女神）
+    invite nemesis
+#招致报应
+    The tax increases proved to be the president's political nemesis at the following election.
+#增加赋税致使总统在下届选举中遭到了政治上的报应。
+
+gerontocracy: 英[ˌdʒerənˈtɒkrəsi] 美[ˌdʒerənˈtɑːkrəsi]
+%n. 老人政治；老人政府
+    A gerontocracy of designers who became world famous two if not three decades ago have left little space for young challengers.
+#20、30年前蜚声海内外、如今已步入暮年的设计师挤压了年轻设计师的挑战空间。
+
+plaudit: 英[ˈplɔːdɪt] 美[ˈplɔːdɪt]
+%n. 喝彩；赞美
+    The novel received plaudits of the critics.
+#这部小说受到了批评家的赞扬。
+
+drawn: 英[drɔːn] 美[drɔːn]
+$adj. （因身体不适、疲倦或忧虑）憔悴的，苍白的
+%v. 画，绘制；拖，拉；拔出；排出（液体）（draw 的过去分词）
+    a drawn match
+#不分胜负的比赛
+    He saw a face drawn with sorrow.
+#他看到一张因悲伤而惟悴的脸。
+
+cosmopolitanism: 英[ˌkɒzməˈpɒlɪtənɪzəm] 美[ˌkɑːzməˈpɑːlɪtənɪzəm]
+%n. 世界主义；世界大同主义；四海一家
+    Cosmopolitanism became difficult to disentangle from its overtones of anti-nationalism.
+#世界主义很难摆脱反爱国主义的色彩。
+
+gumption: 英[ˈɡʌmpʃ(ə)n] 美[ˈɡʌmpʃn]
+%n. 进取心；气概；精力
+    She had the gumption to phone directly to the company manager and persuade him to give her a job.
+#她很有魄力，直接给公司经理打电话并劝说他给她一份工作。
+
+polemical: 英[pəˈlemɪk(ə)l] 美[pəˈlemɪk(ə)l]
+%adj. 好辩的；好争论的；挑起论战的
+    The polemical dispute between the two countries deepens.
+#两国间的论战日趋深化。
+
+jamb: 英[dʒæm] 美[dʒæm]
+%n. [矿业] 矿柱，侧柱；门窗侧壁
+    The jamb is fallen.
+#侧柱倒塌了。
+
+neophyte: 英[ˈniːəfaɪt] 美[ˈniːəfaɪt]
+%n. 新信徒，新入教者；初学者，新手；新受圣职的司铎
+    a neophyte on the political stage
+#在政治舞台上初露头角的人
+
+subpoena: 英[səˈpiːnə] 美[səˈpiːnə]
+$n. 传票
+%v. 传唤（某人）出庭；要求把……呈交法院
+    call sb. on subpoena
+#传唤某人
+    be under a subpoena
+#被传唤
+    subpoena sb. to testify
+#传某人到法庭作证
+
+negligence: 英[ˈneɡlɪdʒəns] 美[ˈneɡlɪdʒəns]
+%n. 疏忽，大意；<法律>玩忽职守
+    He dressed with easy negligence.
+#他穿得随随便便。
+
+statuary: 英[ˈstætʃuəri] 美[ˈstætʃueri]
+$n. 雕像；雕像艺术
+%adj. 雕塑的；雕像用的
+    some magnificent Roman statuary
+#几尊雄伟的罗马雕像
+    statuary art
+#雕塑艺术
+
+summation: 英[sʌˈmeɪʃ(ə)n] 美[səˈmeɪʃ(ə)n]
+%n. 和；[生理] 总和；合计
+    She gave us a final summation of what they had achieved.
+#她最后给我们总结了他们已取得的成就。
+
+scrimp: 英[skrɪmp] 美[skrɪmp]
+$vt. 节省；过度缩减；克扣
+$vi. 精打细算；吝啬
+%adj. 吝啬的；不足的
+    scrimp and save
+#节省钱财
+    the scrimping life of peasants
+#农民的节俭生活
+    scrimp and scrape
+#节俭
+    She spent most of her money on clothes and scrimped on food.
+#她把钱大部分花在了衣着上，在吃的方面十分节俭。
+
+transpose: 英[trænˈspəʊz] 美[trænˈspoʊz]
+$vt. 调换；移项；颠倒顺序
+$vi. 进行变换
+%n. 转置阵
+    transpose the verse into prose
+#把诗改写成散文
+    The director transposes the action from 15th century France to modern America.
+#导演把故事背景从15世纪的法国变为现代美国。
+
+bray: 英[breɪ] 美[breɪ]
+$v. （驴子）嘶叫；捣碎；以刺耳的高声讲话；（在活字或印刷版上）刷油墨
+$n. 驴叫声；喇叭声
+%n. （Bray）（美、英；加、法、澳）布雷（人名）
+    Cannons roared, and trumpets brayed.
+#炮声隆隆，军号嘟嘟。
+
+blandish: 英[ˈblændɪʃ] 美[ˈblændɪʃ]
+%v. 奉承；哄骗
+    She blandished him out of his black mood.
+#她用甜言蜜语消除了他忧郁的情绪。
+
+naysay: 英[ˈneɪseɪ] 美[ˈneɪseɪ]
+$vt. 拒绝；否认
+%n. 拒绝；否认
+    naysay one's suggestions
+#拒绝某人的建议
+
+betoken: 英[bɪˈtəʊkən] 美[bɪˈtoʊkən]
+%vt. 预示；表示
+    Dark clouds usually betoken rain.
+#乌云通常预示着要下雨。
+
+forger: 英[ˈfɔːdʒə(r)] 美[ˈfɔːrdʒər]
+$n. 铁匠；伪造者
+%n. （Forger）人名；（英）福杰
+    The paintings were produced by a clever art forger.
+#这些画是由一个高超的艺术伪造者仿制的。
+
+ancillary: 英[ænˈsɪləri] 美[ˈænsəleri]
+$adj. 辅助的；副的；从属的
+%n. 助手；附件
+    an ancillary undertaking
+#附属事业
+    ancillary equipment
+#辅助设备
+    ancillary evidence
+#附加证据
+
+star-crossed: 英[ˈstɑː krɒst] 美[ˈstɑːr krɔːst]
+%adj. 不幸的；运气不好的；倒霉的
+    a star-crossed day
+#倒霉的日子
+
+ilk: 英[ɪlk] 美[ɪlk]
+$n. 类型，种类；同类
+%adj. 相同的
+    the world of media people and their ilk
+#新闻媒体一类人等
+    Girls of Amy's ilk prefer to go to the movies alone.
+#埃米这类姑娘喜欢独个儿看电影。
+
+rambunctious: 英[ræmˈbʌŋkʃəs] 美[ræmˈbʌŋkʃəs]
+%adj. 难控制的；喧闹的；粗暴的；骚乱的
+    He was too rambunctious to get along with.
+#他太任性，很难相处。
+
+muzzy: 英[ˈmʌzi] 美[ˈmʌzi]
+$adj. 无精神的；头脑混乱的，迷糊的；发呆的；含糊的，不明确的；（人的眼睛或视觉形象）模糊不清的；（声音）模糊的
+%n. （Muzzy）（美）马齐（人名）
+    feel a bit muzzy in the head
+#头脑有点昏沉
+    a muzzy day
+#阴沉的一天
+
+forgo: 英[fɔːˈɡəʊ] 美[fɔːrˈɡoʊ]
+$vi. 放弃；停止；对…断念
+%vt. 放弃；停止；对…断念
+    forgo a holiday
+#放弃假期
+    I'll have to forgo the pleasure of seeing you this week.
+#这周我只好放弃与你相见的乐事。
+
+other-directed: 英[ˈʌðə(r) dəˈrektɪd] 美[ˈʌðər dəˈrektɪd]
+%adj. 受人支配的；缺少自主性的
+    an other-directed man
+#没有主见的人
+
+prevaricate: 英[prɪˈværɪkeɪt] 美[prɪˈværɪkeɪt]
+%vi. 搪塞；支吾其辞，闪烁其辞
+    Jane prevaricated over whether to buy a new house.
+#简在是否买新房子上含糊其词。
+
+rapacious: 英[rəˈpeɪʃəs] 美[rəˈpeɪʃəs]
+%adj. 贪婪的；掠夺的
+    rapacious invaders
+#四处掠夺的入侵者
+    a rapacious businessman
+#贪婪的商人
+    rapacious animals
+#食肉动物
+
+bovine: 英[ˈbəʊvaɪn] 美[ˈboʊvaɪn]
+$adj. 牛的；似牛的；迟钝的
+%n. 牛科动物
+    He was a gentle, rather bovine man.
+#他是一个文雅有耐性的人。
+
+preponderant: 英[prɪˈpɒndərənt] 美[prɪˈpɑːndərənt]
+%adj. <正式>（在重量、力量、影响等上）占优势的
+    Music does not play a very preponderant role in school's teaching.
+#音乐在学校教育中还未起到重要的作用。
+
+mawkish: 英[ˈmɔːkɪʃ] 美[ˈmɔːkɪʃ]
+%adj. 令人作呕的，令人厌恶的；自作多情的；淡而无味的
+    sentimental mawkish verses
+#无病呻吟的诗句
+
+disaffect: 英[ˌdɪsəˈfekt] 美[ˌdɪsəˈfekt]
+%vt. 使疏远；使不满意；使成为敌人
+    The policies of the new government soon disaffected the people.
+#新政府的政策不久就激起了人民的不满。
+    disaffected soldiers
+#心怀不满的士兵们
+
+sequacious: 英[sɪˈkweɪʃəs] 美[sɪˈkweʃəs]
+%adj. 盲从的；合于逻辑的；缺乏独创性的
+    a sequacious argument
+#合乎逻辑的论点
+
+conjoin: 英[kənˈdʒɔɪn] 美[kənˈdʒɔɪn]
+%v. 结合；连结
+    The past and present are conjoined in the author's imagination.
+#过去和现在通过作者的想象重叠在一起。
+
+ratification: 英[ˌrætɪfɪˈkeɪʃ(ə)n] 美[ˌrætɪfɪˈkeɪʃ(ə)n]
+%n. 批准，认可
+    Treaties require ratification by respective countries.
+#条约需经各自的国家批准。
+
+informed: 英[ɪnˈfɔːmd] 美[ɪnˈfɔːrmd]
+$adj. 有知识的，了解情况的；有根据的，可靠的；明智的，有见识的
+%v. 通知，告知；告发，检举（inform on）；了解，熟悉（inform 的过去式和过去分词形式）
+    alert and informed students
+#机灵而有见识的学生
+    informed sources
+#消息灵通人士
+    informed taste
+#高雅的情趣
+    She was so well informed about all things that happened in the town.
+#她对镇上发生的大小事儿全都了解得一清二楚。
+
+verboten: 英[vəˈbəʊt(ə)n] 美[vərˈboʊt(ə)n]
+%adj. 禁止的
+    a verboten film
+#禁止上映的电影
+    What is permissible at one may be verboten at another.
+#一家公司内允许的也许在另一家被禁止。
+
+consonance: 英[ˈkɒnsənəns] 美[ˈkɑːnsənəns]
+%n. 一致，调和；和音
+    consonance of thought and expression
+#思想和表达的一致
+    His actions are in consonance with his beliefs.
+#他的行为和他的信仰是一致的。
+
+superfluity: 英[ˌsuːpəˈfluːəti] 美[ˌsuːpərˈfluːəti]
+%n. 奢侈品；额外；过剩
+    a superfluity of apples
+#太多的苹果
+    Luxuries are superfluities.
+#奢侈品为非必需品。
+
+gyrate: 英[dʒaɪˈreɪt] 美[ˈdʒaɪreɪt]
+$vi. 旋转
+%adj. 旋涡状的
+    gyrating prices
+#波动的价格
+    They are gyrating to the accompaniment of bands playing jazz.
+#他们在爵士乐队的演奏下旋转起舞。
+
+striate: 英[ˈstraɪɪt] 美[ˈstraɪɪt]
+$adj. 有条纹的
+%vt. 加条纹，加条痕
+    The temple perches on the striated cliffs.
+#那座寺庙坐落在布满条纹的峭壁上。
+
+restless: 英[ˈrestləs] 美[ˈrestləs]
+%adj. 坐立不安的，不耐烦的；不满足现状的，求变的；得不到休息的，没有睡眠的
+    restless pacing up and down
+#焦躁地来回步
+    spend a restless night
+#度过一个不眠之夜
+    a restless mind
+#探索不止的头脑
+    The animals grew restless as if in anticipation of an earthquake.
+#各种动物都变得焦躁不安，像是感到了地震即将发生。
+
+naysayer: 英[ˈneɪseɪə(r)] 美[ˈneɪseɪər]
+%n. 否定者；投反对票者
+    Be warned that the majority of people out there will go into naysayer mode automatically.
+#值得注意的是，这类人大多数都会自动的变为反对者。
+
+insolence: 英[ˈɪnsələns] 美[ˈɪnsələns]
+%n. 傲慢；傲慢无礼的行为
+    She was unwilling to put up with his insolence.
+#她不愿忍受他的做慢无礼。
+
+gustatory: 英[ˈɡʌstətəri] 美[ˈɡʌstətɔːri]
+%adj. 味的，味觉的
+    Eating fine food gives gustatory pleasure.
+#美食给人以味觉的享受。
+
+mutate: 英[mjuːˈteɪt] 美[ˈmjuːteɪt]
+$vi. 变化，产生突变
+%vt. 改变，使突变
+    These bacteria have mutated into forms that are resistant to certain drugs.
+#这些细菌已突变成对某些药物有抗药性的形态。
+
+empyreal: 英[ˌempaɪˈriːəl] 美[emˈprɪrɪəl]
+%adj. （古代宇宙论中的）九重天的；苍天的，天上的；崇高的，令人崇敬的
+    empyreal ideas
+#崇高的理想
+    empyreal mountain air
+#纯净的山间空气
+
+blockage: 英[ˈblɒkɪdʒ] 美[ˈblɑːkɪdʒ]
+%n. 造成阻塞的东西，阻塞物；堵塞，阻塞
+    a blockage in the drainpipe
+#排水管堵塞
+
+albeit: 英[ˌɔːlˈbiːɪt] 美[ˌɔːlˈbiːɪt]
+%conj. 虽然，尽管
+    They are still waiting, albeit with growing impatience.
+#他们仍在等着，尽管越来越不耐烦。
+
+atheism: 英[ˈeɪθiɪzəm] 美[ˈeɪθiɪzəm]
+%n. 不信神，无神论
+    He then segued into a discussion of atheism.
+#然后他转入对无神论的论述。
+
+torrential: 英[təˈrenʃ(ə)l] 美[təˈrenʃ(ə)l]
+%adj. （水）奔流的；（雨）倾泻的，如注的；猛烈的
+    a torrential flow of words
+#滔滔不绝的讲话;
+    torrential applause
+#暴风雨般的掌声
+    Before we got home, torrential rain began to pour.
+#我们还没有到家，暴雨就倾盆而下。
+
+skirt: 英[skɜːt] 美[skɜːrt]
+$n. 女裙，半身裙；（连衣裙、外衣等的）下摆（skirts）；（车辆或机器基座的）挡板，裙板；<非正式>（被视为性欲对象的）姑娘，女人尤物；（供食用的）多筋动物肉；<英> 腰窝肉；（马鞍的）垂边
+%v. 环绕……的四周，沿……的边缘走；绕开，回避（话题）
+    skirt an issue
+#回避问题
+    a road skirting round the bay
+#一条沿海湾的路
+    They skirted the willow grove instead of going through it.
+#他们绕过而不是穿过柳树林。
+
+lassitude: 英[ˈlæsɪtjuːd] 美[ˈlæsɪtuːd]
+%n. 疲乏；懒散；厌倦
+    Shareholders are blaming the company's problems on the lassitude of the managing director.
+#股东们把公司的问题归咎于总经理的懈怠。
+
+vandalize: 英[ˈvændəlaɪz] 美[ˈvændəlaɪz]
+%vt. 肆意毁坏；摧残（等于 vandalise）
+    They are the type of men likely to vandalize phone boxes.
+#他们是些可能恶意破坏电话亭的人。
+
+pauper: 英[ˈpɔːpə(r)] 美[ˈpɔːpər]
+$n. 乞丐；穷人；靠救济度日者
+$adj. 贫民的
+%n. （Pauper）人名；（德）保佩尔；（法）波佩
+    Most of the paupers live in the north of the country.
+#大多数贫民住在该国的北部。
+
+patrician: 英[pəˈtrɪʃn] 美[pəˈtrɪʃn]
+$adj. 贵族的；显贵的
+%n. 贵族；有教养的人
+    He was born into a patrician family and privately educated.
+#他出生于一个贵族家庭，接受的是私人教育。
+
+splashy: 英[ˈsplæʃi] 美[ˈsplæʃi]
+%adj. 泥泞的；容易溅开的；遍布斑点的；引人注目的
+    a splashy half-page ad
+#引人注意的半页广告
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

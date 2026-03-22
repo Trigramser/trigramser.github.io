@@ -1,0 +1,627 @@
+<<<<<<< HEAD
+devotee:
+    a devotee of opera
+#歌剧爱好者
+
+cement:
+    cement a broken plate
+#胶合碎盘子
+    This agreement has cemented our friendship.
+#这项协议巩固了我们的友谊。
+
+somnolent:
+    a somnolent country scene
+#宁静的乡村景色
+    a somnolent cat
+#打瞌睡的猫
+    The tick of the clock had a somnolent effect.
+#钟的滴答声有催眠作用。
+
+bamboozle:
+    They bamboozled her into joining the club.
+#他们哄骗她加入了俱乐部。
+
+surfeit:
+    a surfeit of grievances
+#过度的牢骚
+    The man had a stomachache due to a surfeit of food.
+#那个男人因为暴饮暴食而腹痛。
+
+garner:
+    garner a gold medal
+#获得一枚金质奖牌
+    make a fresh garner each year
+#每年有新的收获
+    a garner of knowledge
+#知识的积累
+    He garnered financial support from business circles.
+#他从商界获得了经济上的支持。
+
+mendicant:
+    a mendicant Buddhist monk
+#化缘和尚
+
+valedictory:
+    valedictory remarks
+#告别辞
+    give a valedictory salute
+#行告别礼
+
+ratiocinate:
+    The ratiocinate program generate automatically a reasonable mining scheduling by searching and matching rules. 
+#推理过程中通过对规则的搜索和匹配，自动生成合理的采掘接替计划。
+
+stagy:
+    stagy diction
+#装腔作势的措辞
+
+resound:
+    resound throughout/all over the world
+#扬名世界
+    resound a woman's virtues
+#传诵一位女士的美德
+    The room resounded with happy laughter.
+#屋子里回荡着欢笑声。
+
+snip:
+    snip cloth
+#把布剪开
+    snip a budget
+#削减预算
+    a snip of a girl
+#一个不起眼的小姑娘
+    He snipped the dead branches from the tree.
+#他剪去树上的枯枝。
+
+pestilent:
+    a pestilent disease
+#致命的疾病
+    a pestilent fellow
+#伤天害理的家伙
+
+itinerary:
+    write an itinerary
+#写旅行日记
+    an itinerary map
+#路线图
+    She has many places yet to visit on her itinerary.
+#她旅程中还有很多地方要游览。
+
+somatic:
+    somatic wounds
+#肉体上的伤
+
+huffish:
+    He turned away, lips pursed like a huffish little child.
+#他转过脸去，像个生气的小孩一样嘛着嘴。
+
+killjoy:
+    Don't be such a killjoy!
+#别做大煞风景的人!
+
+mistral:
+    The mistral from the north blew dust around me.
+#来自北方的寒冷且干燥的强风在我周围吹起尘土。
+
+nucleate:
+    nucleate cells
+#有核细胞
+    New communities are nucleating.
+#新的社区正在形成。
+
+berserk:
+    in berserk fury
+#在暴怒中
+    go berserk
+#发疯，发狂
+
+vivacious:
+    a vivacious girl
+#活泼的小姑娘
+    a vivacious disposition
+#活跃的性格
+
+contumely:
+    This grocer being a bachelor and not a man who looked upon the surface for beauty, had once made honourable offers for the hand of Berry, which Mrs Pipchin had, with contumely and scorn, rejected.
+#这位商人是个单身汉，并不看重外表的漂亮，一次规规矩矩地向贝里求婚，但皮普钦太太却傲慢无礼地刻薄挖苦他，把他的求婚给拒绝了。
+
+neurosis:
+    suffer from some form of neurosis
+#患有某种神经官能症
+    She's obsessively clean-it's almost become a neurosis with her.
+#她有洁癖，这几乎成了她的神经官能症。
+
+egoism:
+    Finding herself world famous by the time she was eighteen only encouraged the actress's egoism.
+#看到自己年仅十八岁就已经世界闻名，这只会增加这位女演员的自负心理。
+
+avocation:
+    Learning foreign languages is just an avocation with me.
+#学习外语对我来说只不过是一种业余爱好。
+
+jeer:
+    jeer at sb. for being a sluggard
+#嘲笑某人是懒汉
+    jeer at the misfortunes of others
+#嘲笑他人的不幸
+    The people at the back of the hall jeered at the speaker.
+#大厅后座的人嘲笑演讲者。
+
+spate:
+    a spate of anger
+#突然迸发的怒火
+    a spate of rumor
+#漫天的谣言
+    a small spate of visitors
+#一小批访客
+    in full spate
+#发洪水
+    Police are investigating a spate of burglars in the downtown area.
+#警方正在调查闹市区的大量盗窃案。
+
+profiteer:
+    a war profiteer
+#发战争财的人
+    These hoarders profiteered enormously.
+#那些囤积者大发不义之财。
+
+dimple:
+    the dimples of a mattess
+#床垫上的浅凹
+    a dimpled girl
+#脸上有酒窝的姑娘
+    dimple the surface of the lake
+#吹皱湖水
+    dimple prettily
+#莞尔一笑
+    Freddie had dimples, curly hair and angelic features.
+#弗雷迪有酒窝、卷发和天使般的容貌。
+
+fruition:
+    come to/reach fruition
+#实现
+    the fruition of years of research
+#多年研究的成果
+    None of his grand plans for a TV series ever came to fruition.
+#他拍一部电视连续剧的宏大计划没有一个实现的。
+
+archetype:
+    the mythological archetypes of good and evil
+#神话中的善恶原型
+    The old engine on display is the archetype of modern locomotives.
+#那个展出的老式发动机是近代机车的原型。
+
+pulpit:
+    a carved stone pulpit
+#石雕布道坛
+    He arrived in the city and began to preach his radical sermons from the pulpit.
+#他到达了这座城市，开始在讲坛上进行他激进的布道。
+
+cynic:
+    I'm too much of a cynic to believe that he'll keep his promise.
+#我太怀疑这世间的一切，因而不相信他会遵守诺言。
+
+complicity:
+    complicity in election abuses
+#选举中的串通舞弊
+    She is suspected of complicity in the robbery.
+#她被怀疑是盗窃案的同谋犯。
+
+fraternal:
+    fraternal affection
+#兄弟情谊
+    fraternal atmosphere
+#友好气氛
+    The president's official visit marked the start of a more fraternal relationship between the two countries.
+#总统的正式访问标志着两国间更亲密的兄弟关系的开始。
+
+malfunction:
+    Shortly before the crash the pilot had reported a malfunction of the aircraft's navigation system.
+#飞行员在飞机失事前报告说导航系统失常。
+
+asterisk:
+    I have asterisked the books that are essential readings for the course.
+#我已在这门课的必读书上加上星标。
+
+vengeful:
+    a vengeful sort of man
+#报复心很强的人
+    She sprayed his name in red paint all over his car in one vengeful act.
+#她采取了一次报复行动，用红漆将他的名字喷满了他的车身。
+
+carp:
+    carp about the young
+#指责青年人这也不是那也不是
+    After years of having to listen to her carping criticism, he finally left her.
+#多年来一直不停地听她吹毛求疵的批评，他终于离开了她。
+
+bogus:
+    bogus bills
+#伪钞
+    She produced some bogus documents to support her claim.
+#她出示了一些伪造的文献来支持她的观点。
+
+foray:
+    go on a foray
+#去进行突袭
+    make a first foray on the enemy
+#对敌人进行第一次突袭
+    the artist's foray into fiction
+#那位艺术家初步尝试撰写小说
+    She made a brief foray into acting before starting a career as a teacher.
+#她在开始从事教师职业前，曾有一段不长的演艺生涯。
+
+deluxe:
+    a deluxe edition
+#豪华版，精装版
+    a deluxe life
+#豪华的生活
+    We've booked a week's holiday in a deluxe hotel in London.
+#我们已经预订伦敦的一家豪华旅店来休假一周。
+
+nip:
+    nip flowers from the branch
+#从树杈上摘花
+    nip a conspiracy in its infancy
+#把阴谋扼杀在萌芽之中
+    a nip of cheese
+#一小角奶酪
+    go out for a nip of fresh air
+#出去吸口新鲜空气
+    nip in the bud
+#消灭于萌芽状态
+    a nip of gin
+#一口杜松子酒
+    I gave my thumb quite a nip when the pliers slipped.
+#钳子打滑时，我的大拇指被狠狠夹了
+
+blemish:
+    a blemish on one's record
+#个人历史上的污点
+    The make-up will conceal freckles, scars and other minor skin blemishes.
+#化妆品可以掩盖雀斑、伤疤和其他皮肤瑕疵。
+
+badge:
+    wear badges with one's names on
+#戴着标有名字的胸章
+    a badge of success
+#成功的标志
+    a police badge
+#警徽
+    The old general wore a coat covered in badges.
+#这位老将军穿了一件挂满徽章的外套。
+
+ecstatic:
+    be in ecstatics over the new-born baby
+#为新生婴儿欣喜若狂
+    He was ecstatic at having seen his parents for the first time in twenty years.
+#他20年来第一次看到父母不禁欣喜若狂。
+
+redemptive:
+    a redemptive religion
+#救世宗教
+    This is essentially a story about the redemptive power of love.
+#这个故事主要是关于仁爱的拯救力量。
+
+grisly:
+    a grisly account of the earthquake
+#令人毛骨然的关于地震的描述
+
+crafty:
+    He was crafty in the way he got us to agree by showing how much money we might lose by saying no.
+#他很狡猾，告诉我们如果拒绝的话将会损失多少钱，以此使我们答应了他。
+
+=======
+devotee:
+    a devotee of opera
+#歌剧爱好者
+
+cement:
+    cement a broken plate
+#胶合碎盘子
+    This agreement has cemented our friendship.
+#这项协议巩固了我们的友谊。
+
+somnolent:
+    a somnolent country scene
+#宁静的乡村景色
+    a somnolent cat
+#打瞌睡的猫
+    The tick of the clock had a somnolent effect.
+#钟的滴答声有催眠作用。
+
+bamboozle:
+    They bamboozled her into joining the club.
+#他们哄骗她加入了俱乐部。
+
+surfeit:
+    a surfeit of grievances
+#过度的牢骚
+    The man had a stomachache due to a surfeit of food.
+#那个男人因为暴饮暴食而腹痛。
+
+garner:
+    garner a gold medal
+#获得一枚金质奖牌
+    make a fresh garner each year
+#每年有新的收获
+    a garner of knowledge
+#知识的积累
+    He garnered financial support from business circles.
+#他从商界获得了经济上的支持。
+
+mendicant:
+    a mendicant Buddhist monk
+#化缘和尚
+
+valedictory:
+    valedictory remarks
+#告别辞
+    give a valedictory salute
+#行告别礼
+
+ratiocinate:
+    The ratiocinate program generate automatically a reasonable mining scheduling by searching and matching rules. 
+#推理过程中通过对规则的搜索和匹配，自动生成合理的采掘接替计划。
+
+stagy:
+    stagy diction
+#装腔作势的措辞
+
+resound:
+    resound throughout/all over the world
+#扬名世界
+    resound a woman's virtues
+#传诵一位女士的美德
+    The room resounded with happy laughter.
+#屋子里回荡着欢笑声。
+
+snip:
+    snip cloth
+#把布剪开
+    snip a budget
+#削减预算
+    a snip of a girl
+#一个不起眼的小姑娘
+    He snipped the dead branches from the tree.
+#他剪去树上的枯枝。
+
+pestilent:
+    a pestilent disease
+#致命的疾病
+    a pestilent fellow
+#伤天害理的家伙
+
+itinerary:
+    write an itinerary
+#写旅行日记
+    an itinerary map
+#路线图
+    She has many places yet to visit on her itinerary.
+#她旅程中还有很多地方要游览。
+
+somatic:
+    somatic wounds
+#肉体上的伤
+
+huffish:
+    He turned away, lips pursed like a huffish little child.
+#他转过脸去，像个生气的小孩一样嘛着嘴。
+
+killjoy:
+    Don't be such a killjoy!
+#别做大煞风景的人!
+
+mistral:
+    The mistral from the north blew dust around me.
+#来自北方的寒冷且干燥的强风在我周围吹起尘土。
+
+nucleate:
+    nucleate cells
+#有核细胞
+    New communities are nucleating.
+#新的社区正在形成。
+
+berserk:
+    in berserk fury
+#在暴怒中
+    go berserk
+#发疯，发狂
+
+vivacious:
+    a vivacious girl
+#活泼的小姑娘
+    a vivacious disposition
+#活跃的性格
+
+contumely:
+    This grocer being a bachelor and not a man who looked upon the surface for beauty, had once made honourable offers for the hand of Berry, which Mrs Pipchin had, with contumely and scorn, rejected.
+#这位商人是个单身汉，并不看重外表的漂亮，一次规规矩矩地向贝里求婚，但皮普钦太太却傲慢无礼地刻薄挖苦他，把他的求婚给拒绝了。
+
+neurosis:
+    suffer from some form of neurosis
+#患有某种神经官能症
+    She's obsessively clean-it's almost become a neurosis with her.
+#她有洁癖，这几乎成了她的神经官能症。
+
+egoism:
+    Finding herself world famous by the time she was eighteen only encouraged the actress's egoism.
+#看到自己年仅十八岁就已经世界闻名，这只会增加这位女演员的自负心理。
+
+avocation:
+    Learning foreign languages is just an avocation with me.
+#学习外语对我来说只不过是一种业余爱好。
+
+jeer:
+    jeer at sb. for being a sluggard
+#嘲笑某人是懒汉
+    jeer at the misfortunes of others
+#嘲笑他人的不幸
+    The people at the back of the hall jeered at the speaker.
+#大厅后座的人嘲笑演讲者。
+
+spate:
+    a spate of anger
+#突然迸发的怒火
+    a spate of rumor
+#漫天的谣言
+    a small spate of visitors
+#一小批访客
+    in full spate
+#发洪水
+    Police are investigating a spate of burglars in the downtown area.
+#警方正在调查闹市区的大量盗窃案。
+
+profiteer:
+    a war profiteer
+#发战争财的人
+    These hoarders profiteered enormously.
+#那些囤积者大发不义之财。
+
+dimple:
+    the dimples of a mattess
+#床垫上的浅凹
+    a dimpled girl
+#脸上有酒窝的姑娘
+    dimple the surface of the lake
+#吹皱湖水
+    dimple prettily
+#莞尔一笑
+    Freddie had dimples, curly hair and angelic features.
+#弗雷迪有酒窝、卷发和天使般的容貌。
+
+fruition:
+    come to/reach fruition
+#实现
+    the fruition of years of research
+#多年研究的成果
+    None of his grand plans for a TV series ever came to fruition.
+#他拍一部电视连续剧的宏大计划没有一个实现的。
+
+archetype:
+    the mythological archetypes of good and evil
+#神话中的善恶原型
+    The old engine on display is the archetype of modern locomotives.
+#那个展出的老式发动机是近代机车的原型。
+
+pulpit:
+    a carved stone pulpit
+#石雕布道坛
+    He arrived in the city and began to preach his radical sermons from the pulpit.
+#他到达了这座城市，开始在讲坛上进行他激进的布道。
+
+cynic:
+    I'm too much of a cynic to believe that he'll keep his promise.
+#我太怀疑这世间的一切，因而不相信他会遵守诺言。
+
+complicity:
+    complicity in election abuses
+#选举中的串通舞弊
+    She is suspected of complicity in the robbery.
+#她被怀疑是盗窃案的同谋犯。
+
+fraternal:
+    fraternal affection
+#兄弟情谊
+    fraternal atmosphere
+#友好气氛
+    The president's official visit marked the start of a more fraternal relationship between the two countries.
+#总统的正式访问标志着两国间更亲密的兄弟关系的开始。
+
+malfunction:
+    Shortly before the crash the pilot had reported a malfunction of the aircraft's navigation system.
+#飞行员在飞机失事前报告说导航系统失常。
+
+asterisk:
+    I have asterisked the books that are essential readings for the course.
+#我已在这门课的必读书上加上星标。
+
+vengeful:
+    a vengeful sort of man
+#报复心很强的人
+    She sprayed his name in red paint all over his car in one vengeful act.
+#她采取了一次报复行动，用红漆将他的名字喷满了他的车身。
+
+carp:
+    carp about the young
+#指责青年人这也不是那也不是
+    After years of having to listen to her carping criticism, he finally left her.
+#多年来一直不停地听她吹毛求疵的批评，他终于离开了她。
+
+bogus:
+    bogus bills
+#伪钞
+    She produced some bogus documents to support her claim.
+#她出示了一些伪造的文献来支持她的观点。
+
+foray:
+    go on a foray
+#去进行突袭
+    make a first foray on the enemy
+#对敌人进行第一次突袭
+    the artist's foray into fiction
+#那位艺术家初步尝试撰写小说
+    She made a brief foray into acting before starting a career as a teacher.
+#她在开始从事教师职业前，曾有一段不长的演艺生涯。
+
+deluxe:
+    a deluxe edition
+#豪华版，精装版
+    a deluxe life
+#豪华的生活
+    We've booked a week's holiday in a deluxe hotel in London.
+#我们已经预订伦敦的一家豪华旅店来休假一周。
+
+nip:
+    nip flowers from the branch
+#从树杈上摘花
+    nip a conspiracy in its infancy
+#把阴谋扼杀在萌芽之中
+    a nip of cheese
+#一小角奶酪
+    go out for a nip of fresh air
+#出去吸口新鲜空气
+    nip in the bud
+#消灭于萌芽状态
+    a nip of gin
+#一口杜松子酒
+    I gave my thumb quite a nip when the pliers slipped.
+#钳子打滑时，我的大拇指被狠狠夹了
+
+blemish:
+    a blemish on one's record
+#个人历史上的污点
+    The make-up will conceal freckles, scars and other minor skin blemishes.
+#化妆品可以掩盖雀斑、伤疤和其他皮肤瑕疵。
+
+badge:
+    wear badges with one's names on
+#戴着标有名字的胸章
+    a badge of success
+#成功的标志
+    a police badge
+#警徽
+    The old general wore a coat covered in badges.
+#这位老将军穿了一件挂满徽章的外套。
+
+ecstatic:
+    be in ecstatics over the new-born baby
+#为新生婴儿欣喜若狂
+    He was ecstatic at having seen his parents for the first time in twenty years.
+#他20年来第一次看到父母不禁欣喜若狂。
+
+redemptive:
+    a redemptive religion
+#救世宗教
+    This is essentially a story about the redemptive power of love.
+#这个故事主要是关于仁爱的拯救力量。
+
+grisly:
+    a grisly account of the earthquake
+#令人毛骨然的关于地震的描述
+
+crafty:
+    He was crafty in the way he got us to agree by showing how much money we might lose by saying no.
+#他很狡猾，告诉我们如果拒绝的话将会损失多少钱，以此使我们答应了他。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

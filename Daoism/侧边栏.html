@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sticky Sidebar Inside Parent</title>
+  <style>
+    /* 基本样式 */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    .content {
+      height: 200vh; /* 模拟其他内容的高度 */
+      background: #f4f4f4;
+      padding: 20px;
+    }
+
+    .target-section {
+      position: relative; /* 设为相对定位，限定子元素范围 */
+      background: #ddd;
+      height: 800px; /* 模拟目标区域高度 */
+      margin: 50px 0;
+      padding: 20px;
+      overflow: hidden; /* 禁止子元素溢出 */
+    }
+
+    .sidebar {
+      position: absolute; /* 绝对定位，活动范围受限于父容器 */
+      top: 20px;
+      right: 0px;
+      width: 300px;
+      height: 300px; /* 侧边栏高度 */
+      background: #ffcc00;
+      padding: 20px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .sidebar.fixed {
+      position: absolute;
+      top: calc(100% - 320px); /* 限制在父容器底部 */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="content">
+      <h1>Page Content</h1>
+      <p>Scroll down to the target section to see the sidebar behavior!</p>
+    </div>
+
+    <div class="target-section" id="targetSection">
+      <h2>Target Section</h2>
+      <p>This is the section where the sidebar will be visible and bounded.</p>
+      <div class="sidebar" id="sidebar">
+        <h3>Sidebar</h3>
+        <p>This sidebar cannot leave the parent section!</p>
+      </div>
+    </div>
+
+    <div class="content">
+      <h1>More Content</h1>
+      <p>Scroll away from the target section to see the sidebar stop.</p>
+    </div>
+  </div>
+
+  <script>
+    // 获取目标区域和侧边栏
+    const targetSection = document.getElementById('targetSection');
+    const sidebar = document.getElementById('sidebar');
+
+    // 监听滚动事件
+    window.addEventListener('scroll', () => {
+      // 获取目标区域的位置
+      const sectionRect = targetSection.getBoundingClientRect();
+      const sidebarHeight = sidebar.offsetHeight;
+
+      // 当目标区域进入视口
+      if (sectionRect.top <= 20 && sectionRect.bottom >= sidebarHeight + 20) {
+        // 侧边栏保持固定在顶部
+        sidebar.style.top = `${window.scrollY - targetSection.offsetTop + 20}px`;
+      } else if (sectionRect.bottom < sidebarHeight + 20) {
+        // 滚动超出目标区域底部
+        sidebar.style.top = `${targetSection.offsetHeight - sidebarHeight}px`;
+      } else {
+        // 回到目标区域顶部
+        sidebar.style.top = `20px`;
+      }
+    });
+  </script>
+</body>
+</html>

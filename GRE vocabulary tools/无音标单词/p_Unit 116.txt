@@ -1,0 +1,643 @@
+<<<<<<< HEAD
+repress:
+    repress a sneeze
+#强忍着不打喷嚏
+    repress one's anger
+#掩饰愤怒
+    repress a revolt
+#镇压暴乱
+    I could not repress a shiver whenever I thought about what had happened to her.
+#每次想到她的遭遇，我总是情不自禁地打个寒战。
+
+improvise:
+    improvise a poem
+#即兴写一首诗
+    improvise a music
+#即兴写曲子
+    an improvised bed made up on the coach
+#在长沙发上临时安排的床铺
+    the ability to improvise well in case anything goes wrong
+#万出岔子能设法应付的能力
+    The cook hastily improvised a supper.
+#厨师匆匆忙忙临时做了顿晚饭。
+
+rebellious:
+    rebellious troops; a rebellious boy
+#忤逆的男孩
+    a rebellious horse
+#桀鸷不驯的马
+    a rebellious disease
+#难治的病
+    It is hard to control these rebellious teenagers.
+#这些叛逆少年很难管教。
+
+mundane:
+    nothing but a mundane businessman
+#不过是个俗气的商人
+    a mundane life
+#平凡的生活
+    The thinker usually stands apart from the mundane world.
+#思想家通常与世俗格格不入。
+
+constituent:
+    Sugar is the main constituent of candy.
+#糖是糖果的主要成分。
+
+tyrannical:
+    a tyrannical ruler
+#专制统治者
+    a tyrannical father
+#专横的父亲
+    The conductor tends to be tyrannical at concert rehearsals.
+#那位指挥在音乐会彩排时往往变得很专横。
+
+ferment:
+    be in ferment
+#在骚动中
+    in a state of ferment
+#处于动乱之中
+    ferment prejudiced crowds to riot
+#煽动抱有偏见的人群起来闹事
+    the great period of creative ferment in literature
+#文学创作蓬勃发展的伟大时期
+    When wine is fermented, it gives off bubbles of gas.
+#酒发酵时会冒出气泡。
+
+chubby:
+    a chubby baby
+#胖乎乎的婴儿
+    a chubby face
+#圆胖的脸蛋儿
+    He has a chubby baby face.
+#他长着一张圆胖的娃娃脸。
+
+shrivel:
+    skin shriveled by age
+#因年老而起皱的皮肤
+    look shriveled and ill
+#看上去萎缩且有病容
+    Leaves shriveled up in the hot sun.
+#树叶在烈日下枯萎了。
+
+sparse:
+    sparse white hair
+#稀疏的白发
+    a sparse crop in the field
+#地上稀稀拉拉的庄稼
+    sparse air
+#稀薄的空气
+    Our information on the events is still rather sparse.
+#我们对这件事所知道的情况仍是很少。
+
+contradictory:
+    The evidence given in the trial was contradictory.
+#审判中给出的证据相互矛盾。
+
+genial:
+    a genial old man
+#和蔼可亲的老人
+    a genial mood
+#欢快的心情
+    the genial climate in the south
+#南方的宜人气候
+    He greeted us with a genial smile.
+#他亲切地微笑着迎接我们。
+
+negate:
+    The burst of terrorist activity could completely negate our efforts to expand tourism here.
+#恐怖活动的突然爆发会使我们在这儿扩展旅游业的努力完全白费。
+
+convex:
+    I wouldn't say your stomach was big -- it's just slightly convex.
+#我不会说你的肚子很大——它只是有点凸出罢了。
+
+caterpillar:
+    Many caterpillars are considered pests in agriculture.
+#在农业上很多毛毛虫被视为害虫。
+
+complacence:
+    be shaken of one's complacence
+#从自满中清醒过来
+    The state of the economy is increasingly desperate, and I can see no justification for the government's complacence.
+#经济形式每况愈下，我看不出政府有什么理由沾沾自喜。
+
+disprove:
+    disprove a charge
+#推翻一项指控
+    He could not disprove the major contention of his opponents.
+#他驳不倒反对者的主要论点。
+
+equitable:
+    an equitable price
+#公平的价格
+    an equitable distribution of available resources
+#公平分配可用的资源
+    This is an equitable solution to the dispute.
+#这是解决争端的公正办法。
+
+ironic:
+    an ironic smile
+#冷笑
+    ironic remarks
+#冷言冷语
+    a very ironic man
+#专爱讲反话的人
+    It is ironic that although many items are now cheaper to make, fewer people can afford to buy them.
+#虽然很多物品的制作成本降低了，但能买得起的人却更少了，真是一种讽刺。
+
+glossy:
+    glossy paper
+#光面纸
+    a glossy advertisement
+#浮夸的广告
+    The cat has glossy black fur.
+#这只猫长有光洁的黑毛。
+
+detest:
+    Jean detested being photographed.
+#琼讨厌拍照。
+
+motif:
+    a carpet of flower and bird motifs
+#饰有花鸟图案的地毯
+    a room furnished with a French motif
+#按法国格调陈设的房间
+    The lively and attractive child is the motif through the book.
+#这个讨人喜欢的活泼孩子是全书的主线人物。
+
+asymmetric(al):
+    Britain's trade with Japan is asymmetric because Britain imports far more than it exports.
+#英国同日本的贸易是不均衡的，因为英国的进口量大大超过其出口量。
+
+indolent:
+    an indolent cat
+#懒猫
+    the indolent heat of the afternoon
+#午后令人困倦的炎热
+    an indolent sigh
+#困倦的叹息
+    He is old and fat and indolent.
+#他年老体胖，而且懒懒散散。
+
+erode:
+    Wind and rain have eroded the statue into shapeless lumps of stone.
+#风雨将雕像腐蚀成了不规则的石块。
+
+floral:
+    floral wallpaper
+#花纹墙纸
+    a floral display
+#花展
+    She chose a nice material with a floral pattern for the curtains.
+#她挑选了一块带有花卉图案的好料子做窗帘。
+
+informative:
+    This is an interesting and highly informative. book.
+#这是一本极有趣且使人增长知识的书。
+
+dilate:
+    dilate on/upon
+#详述
+    dilate blood vessels
+#扩张血管
+    dilate the chest in exercise
+#做扩胸体操
+    The balloon dilated with air.
+#气球充气膨胀。
+
+individual:
+    individual economy
+#个体经济
+    Every individual has certain rights which must never be taken away.
+#每个人都有一些不可剥夺的权利。
+
+edifice:
+    build one's literary edifice
+#建立起文学的伟业
+    All these helped to crack the edifice of confidence and trust.
+#这一切促使信心和信任的大厦崩塌。
+
+basement:
+    They built a workshop in the basement.
+#他们在地下室里建了一个操作间。
+
+causal:
+    the causal agent of a disease
+#病因
+    causal relationships
+#因果关系
+    He denied that there was any causal connection between unemployment and crime.
+#他不认为失业和犯罪之间有任何因果关系。
+
+infirm:
+    an infirm body
+#虚弱的身体
+    be infirm of purpose
+#意志不坚定
+    Clearly the argument is infirm.
+#这个论点显然是站不住脚的。
+
+replenish:
+    replenish a petrol-tank with gasoline
+#给油箱装满汽油
+    replenish the cupboard with food
+#给食品橱备足食物
+    replenish the losses
+#补偿损失
+    be replenished with nutrients
+#补充营养
+    He replenished himself here for several days.
+#他在这里休养数天。
+
+sterile:
+    a sterile seed
+#不育种子
+    sterile soil
+#贫瘠的土壤
+    a sterile sheet
+#消过毒的床单
+    a sterile discussion
+#毫无结果的讨论
+    Because of exposure to dangerous radiation, the woman became sterile.
+#由于接触到了危险的辐射，那个女人失去了生育能力。
+
+decipher:
+    decipher the writing
+#辨认字迹
+    decipher military signals
+#破译军事信号
+    They were part of a team whose job was to decipher the code.
+#他们是一个密码破译小组的工作人员。
+
+impenetrable:
+    an impenetrable jungle
+#无法通过的丛林
+    an impenetrable shield
+#刺不穿的盾牌
+    an impenetrable barrier
+#不可逾越的障碍
+    impenetrable darkness
+#漆黑一团
+    an impenetrable mystery
+#难解之谜
+    a mind impenetrable to new ideas
+#不接受新思想的头脑
+    The man is impenetrable to reason.
+#那人不可理喻。
+
+encroach:
+    encroach on the territory of a neighboring country
+#侵占邻国的领土
+    encroach upon one's property
+#侵占某人的财产
+    encroach upon one's time
+#占用某人的时间
+    In desert areas shifting sand used to encroach on the cultivated land.
+#在沙漠地区，流沙常侵蚀耕地。
+
+disinterested:
+    disinterested advice
+#无私的忠告
+    a disinterested observer
+#无偏见的观察员
+    He sat in the corner looking completely disinterested.
+#他坐在角落里，一副不关心的样子。
+
+extol:
+    extol sb.'s merits
+#颂扬某人的功绩
+    extol sb. as a hero
+#称赞某人是英雄
+    extol sb. to the skies
+#把某人捧上天
+    be extolled as a genius
+#被誉为天オ
+    They extolled him for his heroic exploits.
+#他们赞美他的英雄业绩。
+
+certitude:
+    The old lady told me with certitude that there was a coffee shop on the corner.
+#那位老太太十分确定地告诉我街角上有一家咖啡馆。
+
+=======
+repress:
+    repress a sneeze
+#强忍着不打喷嚏
+    repress one's anger
+#掩饰愤怒
+    repress a revolt
+#镇压暴乱
+    I could not repress a shiver whenever I thought about what had happened to her.
+#每次想到她的遭遇，我总是情不自禁地打个寒战。
+
+improvise:
+    improvise a poem
+#即兴写一首诗
+    improvise a music
+#即兴写曲子
+    an improvised bed made up on the coach
+#在长沙发上临时安排的床铺
+    the ability to improvise well in case anything goes wrong
+#万出岔子能设法应付的能力
+    The cook hastily improvised a supper.
+#厨师匆匆忙忙临时做了顿晚饭。
+
+rebellious:
+    rebellious troops; a rebellious boy
+#忤逆的男孩
+    a rebellious horse
+#桀鸷不驯的马
+    a rebellious disease
+#难治的病
+    It is hard to control these rebellious teenagers.
+#这些叛逆少年很难管教。
+
+mundane:
+    nothing but a mundane businessman
+#不过是个俗气的商人
+    a mundane life
+#平凡的生活
+    The thinker usually stands apart from the mundane world.
+#思想家通常与世俗格格不入。
+
+constituent:
+    Sugar is the main constituent of candy.
+#糖是糖果的主要成分。
+
+tyrannical:
+    a tyrannical ruler
+#专制统治者
+    a tyrannical father
+#专横的父亲
+    The conductor tends to be tyrannical at concert rehearsals.
+#那位指挥在音乐会彩排时往往变得很专横。
+
+ferment:
+    be in ferment
+#在骚动中
+    in a state of ferment
+#处于动乱之中
+    ferment prejudiced crowds to riot
+#煽动抱有偏见的人群起来闹事
+    the great period of creative ferment in literature
+#文学创作蓬勃发展的伟大时期
+    When wine is fermented, it gives off bubbles of gas.
+#酒发酵时会冒出气泡。
+
+chubby:
+    a chubby baby
+#胖乎乎的婴儿
+    a chubby face
+#圆胖的脸蛋儿
+    He has a chubby baby face.
+#他长着一张圆胖的娃娃脸。
+
+shrivel:
+    skin shriveled by age
+#因年老而起皱的皮肤
+    look shriveled and ill
+#看上去萎缩且有病容
+    Leaves shriveled up in the hot sun.
+#树叶在烈日下枯萎了。
+
+sparse:
+    sparse white hair
+#稀疏的白发
+    a sparse crop in the field
+#地上稀稀拉拉的庄稼
+    sparse air
+#稀薄的空气
+    Our information on the events is still rather sparse.
+#我们对这件事所知道的情况仍是很少。
+
+contradictory:
+    The evidence given in the trial was contradictory.
+#审判中给出的证据相互矛盾。
+
+genial:
+    a genial old man
+#和蔼可亲的老人
+    a genial mood
+#欢快的心情
+    the genial climate in the south
+#南方的宜人气候
+    He greeted us with a genial smile.
+#他亲切地微笑着迎接我们。
+
+negate:
+    The burst of terrorist activity could completely negate our efforts to expand tourism here.
+#恐怖活动的突然爆发会使我们在这儿扩展旅游业的努力完全白费。
+
+convex:
+    I wouldn't say your stomach was big -- it's just slightly convex.
+#我不会说你的肚子很大——它只是有点凸出罢了。
+
+caterpillar:
+    Many caterpillars are considered pests in agriculture.
+#在农业上很多毛毛虫被视为害虫。
+
+complacence:
+    be shaken of one's complacence
+#从自满中清醒过来
+    The state of the economy is increasingly desperate, and I can see no justification for the government's complacence.
+#经济形式每况愈下，我看不出政府有什么理由沾沾自喜。
+
+disprove:
+    disprove a charge
+#推翻一项指控
+    He could not disprove the major contention of his opponents.
+#他驳不倒反对者的主要论点。
+
+equitable:
+    an equitable price
+#公平的价格
+    an equitable distribution of available resources
+#公平分配可用的资源
+    This is an equitable solution to the dispute.
+#这是解决争端的公正办法。
+
+ironic:
+    an ironic smile
+#冷笑
+    ironic remarks
+#冷言冷语
+    a very ironic man
+#专爱讲反话的人
+    It is ironic that although many items are now cheaper to make, fewer people can afford to buy them.
+#虽然很多物品的制作成本降低了，但能买得起的人却更少了，真是一种讽刺。
+
+glossy:
+    glossy paper
+#光面纸
+    a glossy advertisement
+#浮夸的广告
+    The cat has glossy black fur.
+#这只猫长有光洁的黑毛。
+
+detest:
+    Jean detested being photographed.
+#琼讨厌拍照。
+
+motif:
+    a carpet of flower and bird motifs
+#饰有花鸟图案的地毯
+    a room furnished with a French motif
+#按法国格调陈设的房间
+    The lively and attractive child is the motif through the book.
+#这个讨人喜欢的活泼孩子是全书的主线人物。
+
+asymmetric(al):
+    Britain's trade with Japan is asymmetric because Britain imports far more than it exports.
+#英国同日本的贸易是不均衡的，因为英国的进口量大大超过其出口量。
+
+indolent:
+    an indolent cat
+#懒猫
+    the indolent heat of the afternoon
+#午后令人困倦的炎热
+    an indolent sigh
+#困倦的叹息
+    He is old and fat and indolent.
+#他年老体胖，而且懒懒散散。
+
+erode:
+    Wind and rain have eroded the statue into shapeless lumps of stone.
+#风雨将雕像腐蚀成了不规则的石块。
+
+floral:
+    floral wallpaper
+#花纹墙纸
+    a floral display
+#花展
+    She chose a nice material with a floral pattern for the curtains.
+#她挑选了一块带有花卉图案的好料子做窗帘。
+
+informative:
+    This is an interesting and highly informative. book.
+#这是一本极有趣且使人增长知识的书。
+
+dilate:
+    dilate on/upon
+#详述
+    dilate blood vessels
+#扩张血管
+    dilate the chest in exercise
+#做扩胸体操
+    The balloon dilated with air.
+#气球充气膨胀。
+
+individual:
+    individual economy
+#个体经济
+    Every individual has certain rights which must never be taken away.
+#每个人都有一些不可剥夺的权利。
+
+edifice:
+    build one's literary edifice
+#建立起文学的伟业
+    All these helped to crack the edifice of confidence and trust.
+#这一切促使信心和信任的大厦崩塌。
+
+basement:
+    They built a workshop in the basement.
+#他们在地下室里建了一个操作间。
+
+causal:
+    the causal agent of a disease
+#病因
+    causal relationships
+#因果关系
+    He denied that there was any causal connection between unemployment and crime.
+#他不认为失业和犯罪之间有任何因果关系。
+
+infirm:
+    an infirm body
+#虚弱的身体
+    be infirm of purpose
+#意志不坚定
+    Clearly the argument is infirm.
+#这个论点显然是站不住脚的。
+
+replenish:
+    replenish a petrol-tank with gasoline
+#给油箱装满汽油
+    replenish the cupboard with food
+#给食品橱备足食物
+    replenish the losses
+#补偿损失
+    be replenished with nutrients
+#补充营养
+    He replenished himself here for several days.
+#他在这里休养数天。
+
+sterile:
+    a sterile seed
+#不育种子
+    sterile soil
+#贫瘠的土壤
+    a sterile sheet
+#消过毒的床单
+    a sterile discussion
+#毫无结果的讨论
+    Because of exposure to dangerous radiation, the woman became sterile.
+#由于接触到了危险的辐射，那个女人失去了生育能力。
+
+decipher:
+    decipher the writing
+#辨认字迹
+    decipher military signals
+#破译军事信号
+    They were part of a team whose job was to decipher the code.
+#他们是一个密码破译小组的工作人员。
+
+impenetrable:
+    an impenetrable jungle
+#无法通过的丛林
+    an impenetrable shield
+#刺不穿的盾牌
+    an impenetrable barrier
+#不可逾越的障碍
+    impenetrable darkness
+#漆黑一团
+    an impenetrable mystery
+#难解之谜
+    a mind impenetrable to new ideas
+#不接受新思想的头脑
+    The man is impenetrable to reason.
+#那人不可理喻。
+
+encroach:
+    encroach on the territory of a neighboring country
+#侵占邻国的领土
+    encroach upon one's property
+#侵占某人的财产
+    encroach upon one's time
+#占用某人的时间
+    In desert areas shifting sand used to encroach on the cultivated land.
+#在沙漠地区，流沙常侵蚀耕地。
+
+disinterested:
+    disinterested advice
+#无私的忠告
+    a disinterested observer
+#无偏见的观察员
+    He sat in the corner looking completely disinterested.
+#他坐在角落里，一副不关心的样子。
+
+extol:
+    extol sb.'s merits
+#颂扬某人的功绩
+    extol sb. as a hero
+#称赞某人是英雄
+    extol sb. to the skies
+#把某人捧上天
+    be extolled as a genius
+#被誉为天オ
+    They extolled him for his heroic exploits.
+#他们赞美他的英雄业绩。
+
+certitude:
+    The old lady told me with certitude that there was a coffee shop on the corner.
+#那位老太太十分确定地告诉我街角上有一家咖啡馆。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

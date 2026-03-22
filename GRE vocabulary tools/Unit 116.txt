@@ -1,0 +1,751 @@
+<<<<<<< HEAD
+repress: 英[rɪˈpres] 美[rɪˈpres]
+%v. 压抑（痛苦的情感、回忆等）；抑制，克制（行为）；（尤指用武力）镇压，压制；实施镇压；使（基因）转录受阻遏
+    repress a sneeze
+#强忍着不打喷嚏
+    repress one's anger
+#掩饰愤怒
+    repress a revolt
+#镇压暴乱
+    I could not repress a shiver whenever I thought about what had happened to her.
+#每次想到她的遭遇，我总是情不自禁地打个寒战。
+
+improvise: 英[ˈɪmprəvaɪz] 美[ˈɪmprəvaɪz]
+%v. 即兴表演，即兴创作；临时做，临时凑成
+    improvise a poem
+#即兴写一首诗
+    improvise a music
+#即兴写曲子
+    an improvised bed made up on the coach
+#在长沙发上临时安排的床铺
+    the ability to improvise well in case anything goes wrong
+#万出岔子能设法应付的能力
+    The cook hastily improvised a supper.
+#厨师匆匆忙忙临时做了顿晚饭。
+
+rebellious: 英[rɪˈbeljəs] 美[rɪˈbeljəs]
+%adj. 叛乱的，造反的；（对权威或常规）反抗的，反叛的；（东西）难处理的，难对付的
+    rebellious troops
+#叛军
+    a rebellious boy
+#忤逆的男孩
+    a rebellious horse
+#桀鸷不驯的马
+    a rebellious disease
+#难治的病
+    It is hard to control these rebellious teenagers.
+#这些叛逆少年很难管教。
+
+mundane: 英[mʌnˈdeɪn] 美[mʌnˈdeɪn]
+$adj. 单调的，平凡的，平淡的；世俗的，尘世的
+%n. 平凡的事物（the mundane）
+    nothing but a mundane businessman
+#不过是个俗气的商人
+    a mundane life
+#平凡的生活
+    The thinker usually stands apart from the mundane world.
+#思想家通常与世俗格格不入。
+
+constituent: 英[kənˈstɪtʃuənt] 美[kənˈstɪtʃuənt]
+$n. 选民；成分，构成要素；委托人
+%adj. 组成的，构成的；选举的，有任命（或选举）权的；立宪的，有宪法制定（或修改）权的
+    Sugar is the main constituent of candy.
+#糖是糖果的主要成分。
+
+tyrannical: 英[tɪˈrænɪk(ə)l] 美[təˈrænɪk(ə)l]
+%adj. 残暴的；暴君的；专横的
+    a tyrannical ruler
+#专制统治者
+    a tyrannical father
+#专横的父亲
+    The conductor tends to be tyrannical at concert rehearsals.
+#那位指挥在音乐会彩排时往往变得很专横。
+
+ferment: 英[fəˈment] 美[fərˈment]
+$v. （使）发酵；挑起，激起（麻烦，动乱）
+%n. 动荡，骚乱；<古>酵素，酶；发酵
+    be in ferment
+#在骚动中
+    in a state of ferment
+#处于动乱之中
+    ferment prejudiced crowds to riot
+#煽动抱有偏见的人群起来闹事
+    the great period of creative ferment in literature
+#文学创作蓬勃发展的伟大时期
+    When wine is fermented, it gives off bubbles of gas.
+#酒发酵时会冒出气泡。
+
+chubby: 英[ˈtʃʌbi] 美[ˈtʃʌbi]
+%adj. 圆胖的，丰满的
+    a chubby baby
+#胖乎乎的婴儿
+    a chubby face
+#圆胖的脸蛋儿
+    He has a chubby baby face.
+#他长着一张圆胖的娃娃脸。
+
+shrivel: 英[ˈʃrɪv(ə)l] 美[ˈʃrɪv(ə)l]
+$vi. 枯萎；皱缩
+%vt. 使枯萎；使皱缩；使束手无策
+    skin shriveled by age
+#因年老而起皱的皮肤
+    look shriveled and ill
+#看上去萎缩且有病容
+    Leaves shriveled up in the hot sun.
+#树叶在烈日下枯萎了。
+
+sparse: 英[spɑːs] 美[spɑːrs]
+%adj. 稀少的，稀疏的；简朴的
+    sparse white hair
+#稀疏的白发
+    a sparse crop in the field
+#地上稀稀拉拉的庄稼
+    sparse air
+#稀薄的空气
+    Our information on the events is still rather sparse.
+#我们对这件事所知道的情况仍是很少。
+
+contradictory: 英[ˌkɒntrəˈdɪktəri] 美[ˌkɑːntrəˈdɪktəri]
+$adj. 相互矛盾的，对立的；好反驳的，爱争辩的
+%n. 矛盾命题
+    The evidence given in the trial was contradictory.
+#审判中给出的证据相互矛盾。
+
+genial: 英[ˈdʒiːniəl] 美[ˈdʒiːniəl]
+%adj. 亲切的，友好的；和蔼的；适宜的
+    a genial old man
+#和蔼可亲的老人
+    a genial mood
+#欢快的心情
+    the genial climate in the south
+#南方的宜人气候
+    He greeted us with a genial smile.
+#他亲切地微笑着迎接我们。
+
+negate: 英[nɪˈɡeɪt] 美[nɪˈɡeɪt]
+%v. 否认，否定；使无效，取消；使（单词或短语）变否定
+    The burst of terrorist activity could completely negate our efforts to expand tourism here.
+#恐怖活动的突然爆发会使我们在这儿扩展旅游业的努力完全白费。
+
+convex: 英[ˈkɒnveks] 美[ˈkɑːnveks]
+$adj. 凸面的，凸出的；凸多边形的
+%n. 凸面，凸出部分
+    I wouldn't say your stomach was big -- it's just slightly convex.
+#我不会说你的肚子很大——它只是有点凸出罢了。
+
+caterpillar: 英[ˈkætəpɪlə(r)] 美[ˈkætərpɪlər]
+%n. 毛虫,蠋（蝴蝶或蛾的幼虫）；（重型车辆的）履带；履带式车辆
+    Many caterpillars are considered pests in agriculture.
+#在农业上很多毛毛虫被视为害虫。
+
+complacence: 英[kəmˈpleɪs(ə)ns] 美[kəmˈpleɪs(ə)ns]
+%n. 满足，自满；沾沾自喜
+    be shaken of one's complacence
+#从自满中清醒过来
+    The state of the economy is increasingly desperate, and I can see no justification for the government's complacence.
+#经济形式每况愈下，我看不出政府有什么理由沾沾自喜。
+
+disprove: 英[ˌdɪsˈpruːv] 美[ˌdɪsˈpruːv]
+%vt. 反驳，证明……是虚假的
+    disprove a charge
+#推翻一项指控
+    He could not disprove the major contention of his opponents.
+#他驳不倒反对者的主要论点。
+
+equitable: 英[ˈekwɪtəb(ə)l] 美[ˈekwɪtəb(ə)l]
+%adj. 公平合理的，公正的；衡平法上有效的
+    an equitable price
+#公平的价格
+    an equitable distribution of available resources
+#公平分配可用的资源
+    This is an equitable solution to the dispute.
+#这是解决争端的公正办法。
+
+ironic: 英[aɪˈrɒnɪk] 美[aɪˈrɑːnɪk]
+%adj. 反语的，讽刺的；（因出乎意料而）奇怪的，好笑的
+    an ironic smile
+#冷笑
+    ironic remarks
+#冷言冷语
+    a very ironic man
+#专爱讲反话的人
+    It is ironic that although many items are now cheaper to make, fewer people can afford to buy them.
+#虽然很多物品的制作成本降低了，但能买得起的人却更少了，真是一种讽刺。
+
+glossy: 英[ˈɡlɒsi] 美[ˈɡlɑːsi]
+%adj. 光滑的；有光泽的
+    glossy paper
+#光面纸
+    a glossy advertisement
+#浮夸的广告
+    The cat has glossy black fur.
+#这只猫长有光洁的黑毛。
+
+detest: 英[dɪˈtest] 美[dɪˈtest]
+%v. 憎恨，厌恶
+    Jean detested being photographed.
+#琼讨厌拍照。
+
+motif: 英[məʊˈtiːf] 美[moʊˈtiːf]
+%n. 主题；主旨；图形；意念；基序，模体
+    a carpet of flower and bird motifs
+#饰有花鸟图案的地毯
+    a room furnished with a French motif
+#按法国格调陈设的房间
+    The lively and attractive child is the motif through the book.
+#这个讨人喜欢的活泼孩子是全书的主线人物。
+
+asymmetric(al): 英[ˌeɪsɪˈmetrɪk] 美[ˌeɪsɪˈmetrɪk]
+%adj. 不对称的；不对等的
+    Britain's trade with Japan is asymmetric because Britain imports far more than it exports.
+#英国同日本的贸易是不均衡的，因为英国的进口量大大超过其出口量。
+
+indolent: 英[ˈɪndələnt] 美[ˈɪndələnt]
+%adj. 懒惰的；无痛的
+    an indolent cat
+#懒猫
+    the indolent heat of the afternoon
+#午后令人困倦的炎热
+    an indolent sigh
+#困倦的叹息
+    He is old and fat and indolent.
+#他年老体胖，而且懒懒散散。
+
+erode: 英[ɪˈrəʊd] 美[ɪˈroʊd]
+%v. 侵蚀，腐蚀；削弱，降低
+    Wind and rain have eroded the statue into shapeless lumps of stone.
+#风雨将雕像腐蚀成了不规则的石块。
+
+floral: 英[ˈflɔːrəl] 美[ˈflɔːrəl]
+%adj. 花的；植物的，植物群的；花似的
+    floral wallpaper
+#花纹墙纸
+    a floral display
+#花展
+    She chose a nice material with a floral pattern for the curtains.
+#她挑选了一块带有花卉图案的好料子做窗帘。
+
+informative: 英[ɪnˈfɔːmətɪv] 美[ɪnˈfɔːrmətɪv]
+%adj. 提供有用信息的，增长见闻的
+    This is an interesting and highly informative book.
+#这是一本极有趣且使人增长知识的书。
+
+dilate: 英[daɪˈleɪt] 美[daɪˈleɪt]
+$vi. 扩大；膨胀；详述
+%vt. 使扩大；使膨胀
+    dilate on/upon
+#详述
+    dilate blood vessels
+#扩张血管
+    dilate the chest in exercise
+#做扩胸体操
+    The balloon dilated with air.
+#气球充气膨胀。
+
+individual: 英[ˌɪndɪˈvɪdʒuəl] 美[ˌɪndɪˈvɪdʒuəl]
+$adj. 单独的，个别的；个人的；独特的，与众不同的
+%n. 个人，个体；与众不同的人，有个性的人；某种类型的人
+    individual economy
+#个体经济
+    Every individual has certain rights which must never be taken away.
+#每个人都有一些不可剥夺的权利。
+
+edifice: 英[ˈedɪfɪs] 美[ˈedɪfɪs]
+%n. 大厦；大建筑物
+    build one's literary edifice
+#建立起文学的伟业
+    All these helped to crack the edifice of confidence and trust.
+#这一切促使信心和信任的大厦崩塌。
+
+basement: 英[ˈbeɪsmənt] 美[ˈbeɪsmənt]
+%n. 地下室，地库
+    They built a workshop in the basement.
+#他们在地下室里建了一个操作间。
+
+causal: 英[ˈkɔːz(ə)l] 美[ˈkɔːz(ə)l]
+$adj. 因果关系的，构成原因的；（连接词）表示原因的；由某种原因引起的
+%n. 表示原因的连词
+    the causal agent of a disease
+#病因
+    causal relationships
+#因果关系
+    He denied that there was any causal connection between unemployment and crime.
+#他不认为失业和犯罪之间有任何因果关系。
+
+infirm: 英[ɪnˈfɜːm] 美[ɪnˈfɜːrm]
+$adj. （尤因年迈而）体弱多病的；<古>（人，判断力）软弱的，犹豫不决的
+%n. 病弱者，体弱者（the infirm）
+    an infirm body
+#虚弱的身体
+    be infirm of purpose
+#意志不坚定
+    Clearly the argument is infirm.
+#这个论点显然是站不住脚的。
+
+replenish: 英[rɪˈplenɪʃ] 美[rɪˈplenɪʃ]
+%v. 补充，重新装满；补足（原有的量）
+    replenish a petrol-tank with gasoline
+#给油箱装满汽油
+    replenish the cupboard with food
+#给食品橱备足食物
+    replenish the losses
+#补偿损失
+    be replenished with nutrients
+#补充营养
+    He replenished himself here for several days.
+#他在这里休养数天。
+
+sterile: 英[ˈsteraɪl] 美[ˈsterəl]
+%adj. 无生殖能力的，不育的；无菌的，消过毒的；（争论或讨论）毫无新意的，无结果的；（建筑、房间等）呆板的，乏味的；（土地）贫瘠的，不长作物的
+    a sterile seed
+#不育种子
+    sterile soil
+#贫瘠的土壤
+    a sterile sheet
+#消过毒的床单
+    a sterile discussion
+#毫无结果的讨论
+    Because of exposure to dangerous radiation, the woman became sterile.
+#由于接触到了危险的辐射，那个女人失去了生育能力。
+
+decipher: 英[dɪˈsaɪfə(r)] 美[dɪˈsaɪfər]
+%v. 破译，辨认（难认、难解的东西）；理解（神秘或难懂的事物）
+    decipher the writing
+#辨认字迹
+    decipher military signals
+#破译军事信号
+    They were part of a team whose job was to decipher the code.
+#他们是一个密码破译小组的工作人员。
+
+impenetrable: 英[ɪmˈpenɪtrəb(ə)l] 美[ɪmˈpenɪtrəb(ə)l]
+%adj. 不可进入的，无法透视的；不可理解的，令人费解的；顽固的；（物理）（物质）不可入性的
+    an impenetrable jungle
+#无法通过的丛林
+    an impenetrable shield
+#刺不穿的盾牌
+    an impenetrable barrier
+#不可逾越的障碍
+    impenetrable darkness
+#漆黑一团
+    an impenetrable mystery
+#难解之谜
+    a mind impenetrable to new ideas
+#不接受新思想的头脑
+    The man is impenetrable to reason.
+#那人不可理喻。
+
+encroach: 英[ɪnˈkrəʊtʃ] 美[ɪnˈkroʊtʃ]
+%v. 逐步侵占（侵犯），蚕食；侵占（土地）
+    encroach on the territory of a neighboring country
+#侵占邻国的领土
+    encroach upon one's property
+#侵占某人的财产
+    encroach upon one's time
+#占用某人的时间
+    In desert areas shifting sand used to encroach on the cultivated land.
+#在沙漠地区，流沙常侵蚀耕地。
+
+disinterested: 英[dɪsˈɪntrəstɪd] 美[dɪsˈɪntrəstɪd]
+$adj. 无私的；公正的；冷漠的；廉洁的
+%v. 使不再有利害关系；使无兴趣（disinterest 的过去分词）
+    disinterested advice
+#无私的忠告
+    a disinterested observer
+#无偏见的观察员
+    He sat in the corner looking completely disinterested.
+#他坐在角落里，一副不关心的样子。
+
+extol: 英[ɪkˈstəʊl] 美[ɪkˈstoʊl]
+%vt. 颂扬；赞美；赞颂
+    extol sb.'s merits
+#颂扬某人的功绩
+    extol sb. as a hero
+#称赞某人是英雄
+    extol sb. to the skies
+#把某人捧上天
+    be extolled as a genius
+#被誉为天オ
+    They extolled him for his heroic exploits.
+#他们赞美他的英雄业绩。
+
+certitude: 英[ˈsɜːtɪtjuːd] 美[ˈsɜːrtɪtuːd]
+%n. 确信；确实
+    The old lady told me with certitude that there was a coffee shop on the corner.
+#那位老太太十分确定地告诉我街角上有一家咖啡馆。
+
+=======
+repress: 英[rɪˈpres] 美[rɪˈpres]
+%v. 压抑（痛苦的情感、回忆等）；抑制，克制（行为）；（尤指用武力）镇压，压制；实施镇压；使（基因）转录受阻遏
+    repress a sneeze
+#强忍着不打喷嚏
+    repress one's anger
+#掩饰愤怒
+    repress a revolt
+#镇压暴乱
+    I could not repress a shiver whenever I thought about what had happened to her.
+#每次想到她的遭遇，我总是情不自禁地打个寒战。
+
+improvise: 英[ˈɪmprəvaɪz] 美[ˈɪmprəvaɪz]
+%v. 即兴表演，即兴创作；临时做，临时凑成
+    improvise a poem
+#即兴写一首诗
+    improvise a music
+#即兴写曲子
+    an improvised bed made up on the coach
+#在长沙发上临时安排的床铺
+    the ability to improvise well in case anything goes wrong
+#万出岔子能设法应付的能力
+    The cook hastily improvised a supper.
+#厨师匆匆忙忙临时做了顿晚饭。
+
+rebellious: 英[rɪˈbeljəs] 美[rɪˈbeljəs]
+%adj. 叛乱的，造反的；（对权威或常规）反抗的，反叛的；（东西）难处理的，难对付的
+    rebellious troops
+#叛军
+    a rebellious boy
+#忤逆的男孩
+    a rebellious horse
+#桀鸷不驯的马
+    a rebellious disease
+#难治的病
+    It is hard to control these rebellious teenagers.
+#这些叛逆少年很难管教。
+
+mundane: 英[mʌnˈdeɪn] 美[mʌnˈdeɪn]
+$adj. 单调的，平凡的，平淡的；世俗的，尘世的
+%n. 平凡的事物（the mundane）
+    nothing but a mundane businessman
+#不过是个俗气的商人
+    a mundane life
+#平凡的生活
+    The thinker usually stands apart from the mundane world.
+#思想家通常与世俗格格不入。
+
+constituent: 英[kənˈstɪtʃuənt] 美[kənˈstɪtʃuənt]
+$n. 选民；成分，构成要素；委托人
+%adj. 组成的，构成的；选举的，有任命（或选举）权的；立宪的，有宪法制定（或修改）权的
+    Sugar is the main constituent of candy.
+#糖是糖果的主要成分。
+
+tyrannical: 英[tɪˈrænɪk(ə)l] 美[təˈrænɪk(ə)l]
+%adj. 残暴的；暴君的；专横的
+    a tyrannical ruler
+#专制统治者
+    a tyrannical father
+#专横的父亲
+    The conductor tends to be tyrannical at concert rehearsals.
+#那位指挥在音乐会彩排时往往变得很专横。
+
+ferment: 英[fəˈment] 美[fərˈment]
+$v. （使）发酵；挑起，激起（麻烦，动乱）
+%n. 动荡，骚乱；<古>酵素，酶；发酵
+    be in ferment
+#在骚动中
+    in a state of ferment
+#处于动乱之中
+    ferment prejudiced crowds to riot
+#煽动抱有偏见的人群起来闹事
+    the great period of creative ferment in literature
+#文学创作蓬勃发展的伟大时期
+    When wine is fermented, it gives off bubbles of gas.
+#酒发酵时会冒出气泡。
+
+chubby: 英[ˈtʃʌbi] 美[ˈtʃʌbi]
+%adj. 圆胖的，丰满的
+    a chubby baby
+#胖乎乎的婴儿
+    a chubby face
+#圆胖的脸蛋儿
+    He has a chubby baby face.
+#他长着一张圆胖的娃娃脸。
+
+shrivel: 英[ˈʃrɪv(ə)l] 美[ˈʃrɪv(ə)l]
+$vi. 枯萎；皱缩
+%vt. 使枯萎；使皱缩；使束手无策
+    skin shriveled by age
+#因年老而起皱的皮肤
+    look shriveled and ill
+#看上去萎缩且有病容
+    Leaves shriveled up in the hot sun.
+#树叶在烈日下枯萎了。
+
+sparse: 英[spɑːs] 美[spɑːrs]
+%adj. 稀少的，稀疏的；简朴的
+    sparse white hair
+#稀疏的白发
+    a sparse crop in the field
+#地上稀稀拉拉的庄稼
+    sparse air
+#稀薄的空气
+    Our information on the events is still rather sparse.
+#我们对这件事所知道的情况仍是很少。
+
+contradictory: 英[ˌkɒntrəˈdɪktəri] 美[ˌkɑːntrəˈdɪktəri]
+$adj. 相互矛盾的，对立的；好反驳的，爱争辩的
+%n. 矛盾命题
+    The evidence given in the trial was contradictory.
+#审判中给出的证据相互矛盾。
+
+genial: 英[ˈdʒiːniəl] 美[ˈdʒiːniəl]
+%adj. 亲切的，友好的；和蔼的；适宜的
+    a genial old man
+#和蔼可亲的老人
+    a genial mood
+#欢快的心情
+    the genial climate in the south
+#南方的宜人气候
+    He greeted us with a genial smile.
+#他亲切地微笑着迎接我们。
+
+negate: 英[nɪˈɡeɪt] 美[nɪˈɡeɪt]
+%v. 否认，否定；使无效，取消；使（单词或短语）变否定
+    The burst of terrorist activity could completely negate our efforts to expand tourism here.
+#恐怖活动的突然爆发会使我们在这儿扩展旅游业的努力完全白费。
+
+convex: 英[ˈkɒnveks] 美[ˈkɑːnveks]
+$adj. 凸面的，凸出的；凸多边形的
+%n. 凸面，凸出部分
+    I wouldn't say your stomach was big -- it's just slightly convex.
+#我不会说你的肚子很大——它只是有点凸出罢了。
+
+caterpillar: 英[ˈkætəpɪlə(r)] 美[ˈkætərpɪlər]
+%n. 毛虫,蠋（蝴蝶或蛾的幼虫）；（重型车辆的）履带；履带式车辆
+    Many caterpillars are considered pests in agriculture.
+#在农业上很多毛毛虫被视为害虫。
+
+complacence: 英[kəmˈpleɪs(ə)ns] 美[kəmˈpleɪs(ə)ns]
+%n. 满足，自满；沾沾自喜
+    be shaken of one's complacence
+#从自满中清醒过来
+    The state of the economy is increasingly desperate, and I can see no justification for the government's complacence.
+#经济形式每况愈下，我看不出政府有什么理由沾沾自喜。
+
+disprove: 英[ˌdɪsˈpruːv] 美[ˌdɪsˈpruːv]
+%vt. 反驳，证明……是虚假的
+    disprove a charge
+#推翻一项指控
+    He could not disprove the major contention of his opponents.
+#他驳不倒反对者的主要论点。
+
+equitable: 英[ˈekwɪtəb(ə)l] 美[ˈekwɪtəb(ə)l]
+%adj. 公平合理的，公正的；衡平法上有效的
+    an equitable price
+#公平的价格
+    an equitable distribution of available resources
+#公平分配可用的资源
+    This is an equitable solution to the dispute.
+#这是解决争端的公正办法。
+
+ironic: 英[aɪˈrɒnɪk] 美[aɪˈrɑːnɪk]
+%adj. 反语的，讽刺的；（因出乎意料而）奇怪的，好笑的
+    an ironic smile
+#冷笑
+    ironic remarks
+#冷言冷语
+    a very ironic man
+#专爱讲反话的人
+    It is ironic that although many items are now cheaper to make, fewer people can afford to buy them.
+#虽然很多物品的制作成本降低了，但能买得起的人却更少了，真是一种讽刺。
+
+glossy: 英[ˈɡlɒsi] 美[ˈɡlɑːsi]
+%adj. 光滑的；有光泽的
+    glossy paper
+#光面纸
+    a glossy advertisement
+#浮夸的广告
+    The cat has glossy black fur.
+#这只猫长有光洁的黑毛。
+
+detest: 英[dɪˈtest] 美[dɪˈtest]
+%v. 憎恨，厌恶
+    Jean detested being photographed.
+#琼讨厌拍照。
+
+motif: 英[məʊˈtiːf] 美[moʊˈtiːf]
+%n. 主题；主旨；图形；意念；基序，模体
+    a carpet of flower and bird motifs
+#饰有花鸟图案的地毯
+    a room furnished with a French motif
+#按法国格调陈设的房间
+    The lively and attractive child is the motif through the book.
+#这个讨人喜欢的活泼孩子是全书的主线人物。
+
+asymmetric(al): 英[ˌeɪsɪˈmetrɪk] 美[ˌeɪsɪˈmetrɪk]
+%adj. 不对称的；不对等的
+    Britain's trade with Japan is asymmetric because Britain imports far more than it exports.
+#英国同日本的贸易是不均衡的，因为英国的进口量大大超过其出口量。
+
+indolent: 英[ˈɪndələnt] 美[ˈɪndələnt]
+%adj. 懒惰的；无痛的
+    an indolent cat
+#懒猫
+    the indolent heat of the afternoon
+#午后令人困倦的炎热
+    an indolent sigh
+#困倦的叹息
+    He is old and fat and indolent.
+#他年老体胖，而且懒懒散散。
+
+erode: 英[ɪˈrəʊd] 美[ɪˈroʊd]
+%v. 侵蚀，腐蚀；削弱，降低
+    Wind and rain have eroded the statue into shapeless lumps of stone.
+#风雨将雕像腐蚀成了不规则的石块。
+
+floral: 英[ˈflɔːrəl] 美[ˈflɔːrəl]
+%adj. 花的；植物的，植物群的；花似的
+    floral wallpaper
+#花纹墙纸
+    a floral display
+#花展
+    She chose a nice material with a floral pattern for the curtains.
+#她挑选了一块带有花卉图案的好料子做窗帘。
+
+informative: 英[ɪnˈfɔːmətɪv] 美[ɪnˈfɔːrmətɪv]
+%adj. 提供有用信息的，增长见闻的
+    This is an interesting and highly informative book.
+#这是一本极有趣且使人增长知识的书。
+
+dilate: 英[daɪˈleɪt] 美[daɪˈleɪt]
+$vi. 扩大；膨胀；详述
+%vt. 使扩大；使膨胀
+    dilate on/upon
+#详述
+    dilate blood vessels
+#扩张血管
+    dilate the chest in exercise
+#做扩胸体操
+    The balloon dilated with air.
+#气球充气膨胀。
+
+individual: 英[ˌɪndɪˈvɪdʒuəl] 美[ˌɪndɪˈvɪdʒuəl]
+$adj. 单独的，个别的；个人的；独特的，与众不同的
+%n. 个人，个体；与众不同的人，有个性的人；某种类型的人
+    individual economy
+#个体经济
+    Every individual has certain rights which must never be taken away.
+#每个人都有一些不可剥夺的权利。
+
+edifice: 英[ˈedɪfɪs] 美[ˈedɪfɪs]
+%n. 大厦；大建筑物
+    build one's literary edifice
+#建立起文学的伟业
+    All these helped to crack the edifice of confidence and trust.
+#这一切促使信心和信任的大厦崩塌。
+
+basement: 英[ˈbeɪsmənt] 美[ˈbeɪsmənt]
+%n. 地下室，地库
+    They built a workshop in the basement.
+#他们在地下室里建了一个操作间。
+
+causal: 英[ˈkɔːz(ə)l] 美[ˈkɔːz(ə)l]
+$adj. 因果关系的，构成原因的；（连接词）表示原因的；由某种原因引起的
+%n. 表示原因的连词
+    the causal agent of a disease
+#病因
+    causal relationships
+#因果关系
+    He denied that there was any causal connection between unemployment and crime.
+#他不认为失业和犯罪之间有任何因果关系。
+
+infirm: 英[ɪnˈfɜːm] 美[ɪnˈfɜːrm]
+$adj. （尤因年迈而）体弱多病的；<古>（人，判断力）软弱的，犹豫不决的
+%n. 病弱者，体弱者（the infirm）
+    an infirm body
+#虚弱的身体
+    be infirm of purpose
+#意志不坚定
+    Clearly the argument is infirm.
+#这个论点显然是站不住脚的。
+
+replenish: 英[rɪˈplenɪʃ] 美[rɪˈplenɪʃ]
+%v. 补充，重新装满；补足（原有的量）
+    replenish a petrol-tank with gasoline
+#给油箱装满汽油
+    replenish the cupboard with food
+#给食品橱备足食物
+    replenish the losses
+#补偿损失
+    be replenished with nutrients
+#补充营养
+    He replenished himself here for several days.
+#他在这里休养数天。
+
+sterile: 英[ˈsteraɪl] 美[ˈsterəl]
+%adj. 无生殖能力的，不育的；无菌的，消过毒的；（争论或讨论）毫无新意的，无结果的；（建筑、房间等）呆板的，乏味的；（土地）贫瘠的，不长作物的
+    a sterile seed
+#不育种子
+    sterile soil
+#贫瘠的土壤
+    a sterile sheet
+#消过毒的床单
+    a sterile discussion
+#毫无结果的讨论
+    Because of exposure to dangerous radiation, the woman became sterile.
+#由于接触到了危险的辐射，那个女人失去了生育能力。
+
+decipher: 英[dɪˈsaɪfə(r)] 美[dɪˈsaɪfər]
+%v. 破译，辨认（难认、难解的东西）；理解（神秘或难懂的事物）
+    decipher the writing
+#辨认字迹
+    decipher military signals
+#破译军事信号
+    They were part of a team whose job was to decipher the code.
+#他们是一个密码破译小组的工作人员。
+
+impenetrable: 英[ɪmˈpenɪtrəb(ə)l] 美[ɪmˈpenɪtrəb(ə)l]
+%adj. 不可进入的，无法透视的；不可理解的，令人费解的；顽固的；（物理）（物质）不可入性的
+    an impenetrable jungle
+#无法通过的丛林
+    an impenetrable shield
+#刺不穿的盾牌
+    an impenetrable barrier
+#不可逾越的障碍
+    impenetrable darkness
+#漆黑一团
+    an impenetrable mystery
+#难解之谜
+    a mind impenetrable to new ideas
+#不接受新思想的头脑
+    The man is impenetrable to reason.
+#那人不可理喻。
+
+encroach: 英[ɪnˈkrəʊtʃ] 美[ɪnˈkroʊtʃ]
+%v. 逐步侵占（侵犯），蚕食；侵占（土地）
+    encroach on the territory of a neighboring country
+#侵占邻国的领土
+    encroach upon one's property
+#侵占某人的财产
+    encroach upon one's time
+#占用某人的时间
+    In desert areas shifting sand used to encroach on the cultivated land.
+#在沙漠地区，流沙常侵蚀耕地。
+
+disinterested: 英[dɪsˈɪntrəstɪd] 美[dɪsˈɪntrəstɪd]
+$adj. 无私的；公正的；冷漠的；廉洁的
+%v. 使不再有利害关系；使无兴趣（disinterest 的过去分词）
+    disinterested advice
+#无私的忠告
+    a disinterested observer
+#无偏见的观察员
+    He sat in the corner looking completely disinterested.
+#他坐在角落里，一副不关心的样子。
+
+extol: 英[ɪkˈstəʊl] 美[ɪkˈstoʊl]
+%vt. 颂扬；赞美；赞颂
+    extol sb.'s merits
+#颂扬某人的功绩
+    extol sb. as a hero
+#称赞某人是英雄
+    extol sb. to the skies
+#把某人捧上天
+    be extolled as a genius
+#被誉为天オ
+    They extolled him for his heroic exploits.
+#他们赞美他的英雄业绩。
+
+certitude: 英[ˈsɜːtɪtjuːd] 美[ˈsɜːrtɪtuːd]
+%n. 确信；确实
+    The old lady told me with certitude that there was a coffee shop on the corner.
+#那位老太太十分确定地告诉我街角上有一家咖啡馆。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

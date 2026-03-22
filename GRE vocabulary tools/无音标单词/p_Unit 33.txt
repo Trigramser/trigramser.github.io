@@ -1,0 +1,485 @@
+<<<<<<< HEAD
+exhume:
+    His remains have been exhumed from a cemetery in the suburbs.
+#他的遗骸已经从郊区的一个公墓里被挖了出来。
+
+excogitate:
+    excogitate an argument against going there
+#想出反对去那里的理由
+
+chastise:
+    She chastised the government for cutting the education budget.
+#她评击政府削减教育经费。
+
+epitomize:
+    His problems epitomize the problems of the entire neighborhood.
+#他的问题是全体街坊问题的缩影。
+
+adulate:
+    He respected science without adulating it.
+#他尊重科学而不迷信科学。
+
+goof:
+    He won the first round because I goofed.
+#由于我一时疏忽，他第一个回合赢了。
+
+slosh:
+    The water sloshed into a mass of water reeds.
+#水汩汩地流进一丛芦苇。
+
+flammable:
+    This solvent is highly flammable, so don't use it near a naked flame.
+#这种溶剂极其易燃，切勿在明火附近使用。
+
+scad:
+    He's caught a scad of fish.
+#他捕到了大量的鱼。
+
+pullulate:
+    The lagoon was pullulated with tropical fish.
+#那个咸水湖聚满了热带鱼。
+
+brat:
+    She's a spoilt brat, never happy with what she has.
+#她是个被宠坏了的孩子，对她所拥有的东西从不满意。
+
+prude:
+    a girl who's prude with the boys
+#对小伙子故意本正经的姑娘
+
+measured:
+    His tone was very measured.
+#他的语气很有分寸。
+
+desideratum:
+    His only desideratum was health.
+#他唯一希望的就是身体健康。
+
+antecedence:
+    Creative thinking is the antecedence of design.
+#创新性设计，必须有创新性思维。
+
+inexpedient:
+    To rely on such a measure is inexpedient.
+#依靠这种措施是失策的。
+
+apostate:
+    an apostate from Christianity to Buddhism
+#放弃基督教而改信佛教
+
+strangulate:
+    His voice is a strangulated growl.
+#他的声音有种闷闷的吼声。
+
+medicate:
+    He was one of many to medicate their stress and worries away with pharmaceuticals.
+#跟许多人一样，他靠药物来调节压力，赶走焦虑。
+
+innuendo:
+    The newspaper innuendos about his private life eventually made him resign.
+#报纸上关于他私生活的含沙射影的话最终迫使他辞职。
+
+delinquent:
+    delinquent taxes
+#逾期未付的税款
+
+puerile:
+    He laughed with immense scorn of such a puerile opinion.
+#对于如此愚蠢的见解他极其轻蔑地嗤之以鼻。
+
+commencement:
+    Please put out cigarettes before the commencement of the flight.
+#请在飞机起飞前熄灭香烟。
+
+subjugate:
+    Imperialism has not been able to subjugate China.
+#帝国主义不能征服中国。
+
+snitch:
+    You little snitch! I'll never tell you anything again!
+#你这家伙就爱告密！以后我什么话都不跟你说了！
+
+wax:
+    It's in the nature of romantic love that it waxes and wanes.
+#悲欢离合是浪漫爱情的本质。
+
+complaisant:
+    The host's complaisant manner made everyone feel welcome.
+#主人的殷勤有礼使每个人都感到自己是受欢迎的。
+
+retouch:
+    He said the photographs had been retouched.
+#他说这些照片已经修饰过。
+
+accolade:
+    The actor deserves every accolade.
+#那位演员理应领受各种各样的荣誉。
+
+parlous:
+    The parlous state of China's health-care system has also given a powerful boost to religion.
+#危险的中国医疗体系也加速宗教力量的发展。
+
+underbid:
+    The manufacturers appear to have underbid the contracts by a wider margin than usual.
+#厂家对合同投的标似乎较一般低得太多。
+
+inculpate:
+    The fact that he ran away seemed to inculpate the boy.
+#他之所以逃跑似乎是因为与那个男孩有牵连。
+
+berate:
+    His mother berated him for making a mess.
+#他因捣乱而被母亲训斥。
+
+unprovoked:
+    make an unprovoked attack
+#无故发动进攻
+
+minutia:
+    Many of his early works are concerned with the minutiae of rural life.
+#他早期的许多作品关注的是农村生活的平凡琐事。
+
+debility:
+    Long illness caused debility in her.
+#长期患病使她很虚弱。
+
+poisonous:
+    All parts of the tree are poisonous, including the berries.
+#这种树的各个部位都有毒，包括其浆果。
+
+recusant:
+    The recusant electors cooperated in electing a new senate.
+#叛逆的选民的在选举新议员的问题上进行了配合。
+
+lampoon:
+    The comedian often lampoons the leading figures of the day.
+#这位喜剧演员经常嘲讽当今的名人。
+
+ministerial:
+    The scandal cut short his dazzling ministerial career.
+#这件丑闻断送了他当部长的灿烂前程。
+
+wastrel:
+    He turned to be a bit of a wastrel who drank and gambled away the family fortune.
+#他变得有些像一个喝酒赌博、挥霍家产的败家子。
+
+panorama:
+    A vast panorama of the valley lies before us.
+#山谷宽阔的全景展现在我们的眼前。
+
+feral:
+    a feral look
+#一副凶相
+ponderable:
+    Not all the advantages of a good education are ponderable.
+#良好教育的好处并非都是可以估量的。
+
+disport:
+    A butterfly disported itself among the flowers.
+#只蝴蝶在花丛中翩翩嬉戏。
+
+execrate:
+    He execrated all those who opposed him.
+#他痛骂所有反对他的人。
+
+outshine:
+    He outshone his colleagues in every skill.
+#他在各种技能上比他的同事更为出色。
+
+stigmatize:
+    His prison record stigmatized his parents.
+#他坐过牢，这让他的父母遭受侮辱。
+
+spree:
+    We are going on a spree tonight.
+#今晚我们将要痛痛快快玩一番。
+
+reprieve:
+    The condemned has been reprieved for three weeks.
+#罪犯的刑罚缓期3周执行。
+
+quaff:
+    He quaffed himself to drowsiness.
+#他喝酒喝得昏昏欲睡。
+
+destitution:
+    be reduced to destitution
+#陷于贫困
+    a family in destitution
+#赤贫的家庭
+
+potation:
+    abstain from potation
+#戒酒
+
+sere:
+    Leaves become sere in the hot and dry weather.
+#在炎热干燥的天气，树叶会枯萎。
+
+dour:
+    His expression was dour.
+#他的表情阴郁。
+
+posit:
+    His glance stayed posited at the target.
+#他的目光盯住目标不动。
+
+droll:
+    a droll face
+#古怪有趣的脸
+
+coeval:
+    The manuscript is coeval with that one.
+#这份手稿与那份是同时代的。
+
+wizened:
+    a wizened tree
+#枯树
+
+nethermost:
+    the nethermost layer
+#最下面的一层
+
+=======
+exhume:
+    His remains have been exhumed from a cemetery in the suburbs.
+#他的遗骸已经从郊区的一个公墓里被挖了出来。
+
+excogitate:
+    excogitate an argument against going there
+#想出反对去那里的理由
+
+chastise:
+    She chastised the government for cutting the education budget.
+#她评击政府削减教育经费。
+
+epitomize:
+    His problems epitomize the problems of the entire neighborhood.
+#他的问题是全体街坊问题的缩影。
+
+adulate:
+    He respected science without adulating it.
+#他尊重科学而不迷信科学。
+
+goof:
+    He won the first round because I goofed.
+#由于我一时疏忽，他第一个回合赢了。
+
+slosh:
+    The water sloshed into a mass of water reeds.
+#水汩汩地流进一丛芦苇。
+
+flammable:
+    This solvent is highly flammable, so don't use it near a naked flame.
+#这种溶剂极其易燃，切勿在明火附近使用。
+
+scad:
+    He's caught a scad of fish.
+#他捕到了大量的鱼。
+
+pullulate:
+    The lagoon was pullulated with tropical fish.
+#那个咸水湖聚满了热带鱼。
+
+brat:
+    She's a spoilt brat, never happy with what she has.
+#她是个被宠坏了的孩子，对她所拥有的东西从不满意。
+
+prude:
+    a girl who's prude with the boys
+#对小伙子故意本正经的姑娘
+
+measured:
+    His tone was very measured.
+#他的语气很有分寸。
+
+desideratum:
+    His only desideratum was health.
+#他唯一希望的就是身体健康。
+
+antecedence:
+    Creative thinking is the antecedence of design.
+#创新性设计，必须有创新性思维。
+
+inexpedient:
+    To rely on such a measure is inexpedient.
+#依靠这种措施是失策的。
+
+apostate:
+    an apostate from Christianity to Buddhism
+#放弃基督教而改信佛教
+
+strangulate:
+    His voice is a strangulated growl.
+#他的声音有种闷闷的吼声。
+
+medicate:
+    He was one of many to medicate their stress and worries away with pharmaceuticals.
+#跟许多人一样，他靠药物来调节压力，赶走焦虑。
+
+innuendo:
+    The newspaper innuendos about his private life eventually made him resign.
+#报纸上关于他私生活的含沙射影的话最终迫使他辞职。
+
+delinquent:
+    delinquent taxes
+#逾期未付的税款
+
+puerile:
+    He laughed with immense scorn of such a puerile opinion.
+#对于如此愚蠢的见解他极其轻蔑地嗤之以鼻。
+
+commencement:
+    Please put out cigarettes before the commencement of the flight.
+#请在飞机起飞前熄灭香烟。
+
+subjugate:
+    Imperialism has not been able to subjugate China.
+#帝国主义不能征服中国。
+
+snitch:
+    You little snitch! I'll never tell you anything again!
+#你这家伙就爱告密！以后我什么话都不跟你说了！
+
+wax:
+    It's in the nature of romantic love that it waxes and wanes.
+#悲欢离合是浪漫爱情的本质。
+
+complaisant:
+    The host's complaisant manner made everyone feel welcome.
+#主人的殷勤有礼使每个人都感到自己是受欢迎的。
+
+retouch:
+    He said the photographs had been retouched.
+#他说这些照片已经修饰过。
+
+accolade:
+    The actor deserves every accolade.
+#那位演员理应领受各种各样的荣誉。
+
+parlous:
+    The parlous state of China's health-care system has also given a powerful boost to religion.
+#危险的中国医疗体系也加速宗教力量的发展。
+
+underbid:
+    The manufacturers appear to have underbid the contracts by a wider margin than usual.
+#厂家对合同投的标似乎较一般低得太多。
+
+inculpate:
+    The fact that he ran away seemed to inculpate the boy.
+#他之所以逃跑似乎是因为与那个男孩有牵连。
+
+berate:
+    His mother berated him for making a mess.
+#他因捣乱而被母亲训斥。
+
+unprovoked:
+    make an unprovoked attack
+#无故发动进攻
+
+minutia:
+    Many of his early works are concerned with the minutiae of rural life.
+#他早期的许多作品关注的是农村生活的平凡琐事。
+
+debility:
+    Long illness caused debility in her.
+#长期患病使她很虚弱。
+
+poisonous:
+    All parts of the tree are poisonous, including the berries.
+#这种树的各个部位都有毒，包括其浆果。
+
+recusant:
+    The recusant electors cooperated in electing a new senate.
+#叛逆的选民的在选举新议员的问题上进行了配合。
+
+lampoon:
+    The comedian often lampoons the leading figures of the day.
+#这位喜剧演员经常嘲讽当今的名人。
+
+ministerial:
+    The scandal cut short his dazzling ministerial career.
+#这件丑闻断送了他当部长的灿烂前程。
+
+wastrel:
+    He turned to be a bit of a wastrel who drank and gambled away the family fortune.
+#他变得有些像一个喝酒赌博、挥霍家产的败家子。
+
+panorama:
+    A vast panorama of the valley lies before us.
+#山谷宽阔的全景展现在我们的眼前。
+
+feral:
+    a feral look
+#一副凶相
+ponderable:
+    Not all the advantages of a good education are ponderable.
+#良好教育的好处并非都是可以估量的。
+
+disport:
+    A butterfly disported itself among the flowers.
+#只蝴蝶在花丛中翩翩嬉戏。
+
+execrate:
+    He execrated all those who opposed him.
+#他痛骂所有反对他的人。
+
+outshine:
+    He outshone his colleagues in every skill.
+#他在各种技能上比他的同事更为出色。
+
+stigmatize:
+    His prison record stigmatized his parents.
+#他坐过牢，这让他的父母遭受侮辱。
+
+spree:
+    We are going on a spree tonight.
+#今晚我们将要痛痛快快玩一番。
+
+reprieve:
+    The condemned has been reprieved for three weeks.
+#罪犯的刑罚缓期3周执行。
+
+quaff:
+    He quaffed himself to drowsiness.
+#他喝酒喝得昏昏欲睡。
+
+destitution:
+    be reduced to destitution
+#陷于贫困
+    a family in destitution
+#赤贫的家庭
+
+potation:
+    abstain from potation
+#戒酒
+
+sere:
+    Leaves become sere in the hot and dry weather.
+#在炎热干燥的天气，树叶会枯萎。
+
+dour:
+    His expression was dour.
+#他的表情阴郁。
+
+posit:
+    His glance stayed posited at the target.
+#他的目光盯住目标不动。
+
+droll:
+    a droll face
+#古怪有趣的脸
+
+coeval:
+    The manuscript is coeval with that one.
+#这份手稿与那份是同时代的。
+
+wizened:
+    a wizened tree
+#枯树
+
+nethermost:
+    the nethermost layer
+#最下面的一层
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

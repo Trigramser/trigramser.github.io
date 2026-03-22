@@ -1,0 +1,727 @@
+<<<<<<< HEAD
+divergent: 英[daɪˈvɜːdʒənt] 美[daɪˈvɜːrdʒənt]
+%adj. 不同的，分歧的；（数）（级数）发散的；（心理）（思维）发散的，求异的
+    divergent branches
+#岔枝
+    the divergent interests of capital and labor
+#劳资双方的不同利益
+    They hold widely divergent opinions on controversial issues like abortion.
+#对于像堕胎这样的争议性问题，他们的意见分歧很大。
+
+incisive: 英[ɪnˈsaɪsɪv] 美[ɪnˈsaɪsɪv]
+%adj. 深刻的；敏锐的；锋利的
+    incisive edge
+#锋利的刀口
+    an incisive mind
+#敏锐的头脑
+    an incisive remark
+#讥讽的话
+    an incisive criticism
+#辛辣的批评
+    Sometimes a few incisive comments from an outsider can give you a whole new perspective on what you've done.
+#有时局外人的几句深刻的评论会使你对自己所做的事有个全新的看法。
+
+elude: 英[ɪˈluːd] 美[ɪˈluːd]
+%v. （尤指机智地，巧妙地）避开，逃避；使达不到，使不能实现；使不记得，使不理解；对（法律，要求，处罚）不服从
+    elude one's responsibilities
+#逃避责任
+    elude law
+#逃避法网
+    elude observation
+#掩人耳目
+    I know who you mean but her name eludes me.
+#我知道你说的是谁，但我想不起她的名字。
+
+drab: 英[dræb] 美[dræb]
+$adj. 单调的；土褐色的
+$n. 浅褐色；无生气；邋遢；小额
+$vt. 使无生气
+$vi. 嫖妓
+%n. （Drab）人名；（匈）德劳布；（法）德拉布
+    a drab life
+#单调的生活
+    drab clothes
+#黄褐色的衣服
+    She walked through the city center with its drab, grey buildings and felt depressed.
+#她步行穿过市中心，看到单调乏味的灰色建筑，有些沮丧。
+
+sully: 英[ˈsʌli] 美[ˈsʌli]
+$vt. 玷污；使丢脸
+$n. 污点，损伤
+%n. （Sully）人名；（英）萨利；（法）苏利
+    sully the air
+#污染空气
+    without the least sully in one's virtue
+#某人操行上的清白无瑕
+    He said that his reputation had been unfairly sullied by allegations, half-truths and innuendos.
+#说他的名誉已被流言蜚语、半真半假的报道和含沙射影玷污了。
+
+conflate: 英[kənˈfleɪt] 美[kənˈfleɪt]
+%vt. 合并；异文合并
+    a conflated vista
+#色彩纷呈的景色
+    In his confusion he had conflated the two events and could no longer tell which was which.
+#他糊涂地把两件事混在一起，再也分不清哪件是哪件。
+
+caste: 英[kɑːst] 美[kæst]
+$n. （印度社会中的）种姓；（具有严格等级差别的）社会地位；（排他的）社会团体
+%n. （Caste）人名；（英、法）卡斯特
+    lose caste
+#失去社会地位
+    a caste system
+#等级制度
+
+unconscious: 英[ʌnˈkɒnʃəs] 美[ʌnˈkɑːnʃəs]
+$adj. （尤指因头部受伤）昏迷的，不省人事的；（想法或感情）无意识的，潜意识的；没意识到某事物；（行为）下意识的，无意中做出的
+%n. 无意识（不察觉的心理活动）（the unconscious）
+    unconscious of the danger
+#未意识到有危险
+    knock sb. unconscious
+#把某人打昏过去
+    an unconscious impulse
+#无意识的冲动
+    an unconscious neglect
+#无意的疏忽
+    That holiday had touched an unconscious desire in me to be free again, and soon afterwards I gave up my job in the big city.
+#那个假日触动了我想要再次获得自由的潜意识中的渴望，不久我就放弃了在大城市里的工作
+
+verdant: 英[ˈvɜːd(ə)nt] 美[ˈvɜːrd(ə)nt]
+$adj. 青翠的；翠绿的；没有经验的；不老练的
+%n. （Verdant）人名；（法）韦尔当
+    verdant lawns
+#青翠的草坪
+    a verdant youth
+#阅历不深的青年
+    Much of the region's verdant countryside has been destroyed by the hurricane.
+#那个地区许多绿油油的乡间地区被飓风破坏了。
+
+circumstantial: 英[ˌsɜːkəmˈstænʃ(ə)l] 美[ˌsɜːrkəmˈstænʃ(ə)l]
+%adj. 依照情况的；详细的，详尽的；偶然的
+    a circumstantial story
+#详尽的描述
+    Minor details are circumstantial compared with the main fact.
+#细节与主要事实相比处于次要地位。
+
+overshadow: 英[ˌəʊvəˈʃædəʊ] 美[ˌoʊvərˈʃædoʊ]
+%v. 使黯然失色，使相形见绌；使扫兴，使蒙上阴影；遮盖，遮蔽
+    be overshadowed by one's achievement
+#因某人的成就而黯然失色
+    a valley overshadowed by mountains
+#笼罩着群山阴影的山谷
+    be overshadowed by the tragedy
+#被悲剧蒙上一层阴影
+    Overshadowing all these problems was the shortage of fund.
+#资金的短缺使所有这些问题显得无足轻重。
+
+self-assured: 英[ˌself əˈʃʊəd] 美[ˌself əˈʃʊrd]
+%adj. 有自信的
+    He was self-assured and bound to succeed.
+#他极有自信，必获得成功。
+
+irreconcilable: 英[ɪˌrekənˈsaɪləbl; ɪˈrekənsaɪləbl] 美[ɪˌrekənˈsaɪləb(ə)l]
+%adj. 矛盾的；不能和解的；不能协调的
+    an irreconcilable enemy
+#不能和解的敌人
+    irreconcilable statements
+#互相对立的声明
+    Over the years irreconcilable differences of opinion have developed between the sisters.
+#若干年来姐妹间形成了不可调和的意见分歧。
+
+headstrong: 英[ˈhedstrɒŋ] 美[ˈhedstrɔːŋ]
+%adj. 任性的；顽固的；刚愎的
+    a headstrong horse
+#烈马
+    headstrong actions
+#任性的行为
+    He was a headstrong child, always getting into trouble.
+#他是个任性的孩子，时常惹麻烦。
+
+snug: 英[snʌɡ] 美[snʌɡ]
+$adj. 舒适的；温暖的；紧身的；隐藏的
+$vt. 使变得温暖舒适；隐藏
+$vi. 偎依；舒适地蜷伏
+%n. 舒适温暖的地方；雅室
+    a snug little room with the fire blazing
+#一间生着炉火的舒适的小房间
+    a snug little dinner with old friends
+#同故人相聚情谊融融的小酌
+    a snug jacket
+#紧身夹克
+    a snug harbor
+#避风港
+    (as) snug as a bug in a rug
+#非常舒适的，极其安逸的
+    I curled up in bed, all snug and warm, listening to the wind in the trees outside.
+#我蜷缩在床上，温暖而舒适，听着窗外风吹树木之声。
+
+untold: 英[ˌʌnˈtəʊld] 美[ˌʌnˈtoʊld]
+%adj. 数不清的；未说过的；未透露的；无限的
+    an untold secret
+#不曾泄露的秘密
+    untold stars in the sky
+#天上无数的星星
+    untold wealth
+#巨富
+    untold joy
+#不可名状的快乐
+    The explosion ripped through the church and did untold damage to several neighboring buildings.
+#爆炸炸穿了教堂，也严重损害了邻近的几座建筑物。
+
+intransigent: 英[ɪnˈtrænzɪdʒənt] 美[ɪnˈtrænzɪdʒənt]
+$adj. 不妥协的；不让步的
+%n. 不妥协的人
+    the intransigent parties to the dispute
+#争执中不妥协的各方
+    an intransigent attitude
+#不妥协的态度
+    The negotiations had little chance of success while the management maintained such an intransigent position.
+#资方坚持如此不妥协的立场，谈判成功的可能性极小。
+
+grandiose: 英[ˈɡrændiəʊs] 美[ˈɡrændioʊs]
+%adj. 宏伟的；堂皇的；浮夸的；宏大的
+    grandiose ambitions
+#宏伟的抱负
+    grandiose style
+#华丽的风格
+    a grandiose new building
+#宏伟的新建筑
+    He has some grandiose plans for making money.
+#他有一些宏伟的赚钱计划。
+
+scrupulous: 英[ˈskruːpjələs] 美[ˈskruːpjələs]
+%adj. 细致的，一丝不苟的；正直的，有道德原则的
+    man of scrupulous honesty
+#严谨正直的人
+    work with scrupulous care
+#一丝不苟地工作
+    The nurse told him to be scrupulous about keeping the wound clean.
+#护士告诉他要十分仔细地保持伤口洁净。
+
+indiscriminate: 英[ˌɪndɪˈskrɪmɪnət] 美[ˌɪndɪˈskrɪmɪnət]
+%adj. 任意的；无差别的；不分皂白的
+    an indiscriminate reader
+#什么书都读的人
+    in an indiscriminate pile
+#胡乱的一堆
+    indiscriminate use of medicinal drugs
+#滥用药
+    The report concludes that the indiscriminate use of some fertilizers in the area would cause long-term problems.
+#报告断定在该地区滥用某些化肥会产生长期的问题。
+
+antiquity: 英[ænˈtɪkwəti] 美[ænˈtɪkwəti]
+%n. 古代（尤指古希腊和古罗马时期）；年代久远；文物，古物；古代，古时（尤指古埃及、古希腊、古罗马时期）
+    in remote antiquity
+#在遥远的古代
+    a city of great antiquity
+#一常非常古老的城市
+    records left by antiquity
+#古人留下的文献
+    Under the law, all antiquities discovered with in the country belong to the government.
+#按照法律，在国内发现的一切文物均归政府所有。
+
+ignominy: 英[ˈɪɡnəmɪni] 美[ˈɪɡnəmɪni]
+%n. 耻辱；不体面；丑行
+    be fired in ignominy
+#被很不光彩地开除
+    ignominy of abandoning one's friends
+#抛弃朋友的卑劣行径
+    He experienced the ignominy of total defeat in the last election.
+#他在上次大选中经受了彻底失败的耻辱。
+
+coerce: 英[kəʊˈɜːs] 美[koʊˈɜːrs]
+%v. 强制，迫使；通过胁迫获得
+    coerce uniformity
+#强求一致
+    The judge found that the six defendants had been coerced into making a confession.
+#法官发现六名被告人曾被胁迫承认罪行。
+
+ballad: 英[ˈbæləd] 美[ˈbæləd]
+%n. 歌谣，民谣；叙事歌谣；流行抒情歌曲
+    Many of the old ballads are sung to new words.
+#许多古老的民歌的曲调配上了新的歌词。
+
+intersect: 英[ˌɪntəˈsekt] 美[ˌɪntərˈsekt]
+%v. 相交，交叉；横穿，横断；（与……）有交叉特征，（与……）相关联
+    a garden intersected by gravel paths
+#由碎石小路纵横分隔的花园
+    The transport system is very efficient and the bus routes intersect conveniently with the railway network.
+#运输系统效率很高，公共汽车线路很方便地与铁路网相交叉。
+
+instigate: 英[ˈɪnstɪɡeɪt] 美[ˈɪnstɪɡeɪt]
+%v. 使（正式）开始，使发生；唆使，煽动（instigate sb. to/to do sth.）
+    The revolt is believed to have been instigated by a disappointed ex-government official.
+#这场叛乱被认为是由一名心怀不满的前政府官员唆使的。
+
+repulse: 英[rɪˈpʌls] 美[rɪˈpʌls]
+$vt. 拒绝；驱逐；憎恶
+%n. 拒绝；击退
+    repulse the enemy attack
+#击退人的进攻
+    repulse a suggestion
+#拒绝一项建议
+    The tourists were repulsed by the filthy conditions.
+#游客们对航脏的环境产生了反感。
+
+unintelligible: 英[ˌʌnɪnˈtelɪdʒəb(ə)l] 美[ˌʌnɪnˈtelɪdʒəb(ə)l]
+%adj. 莫名其妙的；无法了解的
+    The script was unintelligible.
+#这笔迹实在看不懂。
+
+censorious: 英[senˈsɔːriəs] 美[senˈsɔːriəs]
+%adj. 挑剔的；受批判的（名词 censoriousness, 副词 censoriously）
+    censorious criticism
+#吹毛求疵的批评
+    be censorious of sb.
+#对某人挑剔
+
+deluge: 英[ˈdeljuːdʒ] 美[ˈdeljuːdʒ]
+$n. 暴雨，洪水；涌现的事物，蜂拥而至的事物；（《圣经》中的）大洪水（the Deluge）
+%v. 使涌来，使充满；泛滥，淹没
+    get caught in a deluge
+#碰上一场暴雨
+    a deluge of letters
+#大量来的信件
+    a deluge of words
+#滔滔不绝的话
+    be deluged with questions
+#对问题应接不暇
+    We've been deluged with replies to our advertisement.
+#对我们广告的答复雪片般地飞来。
+
+prod: 英[prɒd] 美[prɑːd]
+$v. 刺，戳；刺激，督促
+%n. 戳，捅；刺戳的工具；刺激，提醒；（贬称）新教徒
+    prod sb. in the back
+#捅某人的背
+    prod the audience into thinking about the status quo
+#促使观众思索现状
+    prod sb. out of a prolonged mood of depression
+#激励某人从长期的沮丧情绪中解脱出来
+    feel a prod of indignation
+#感到一阵愤慨
+    She prodded at the fish with her fork a few times, but she didn't eat a mouthful.
+#她用叉子戳了几次鱼，但一口也没吃。
+
+fanciful: 英[ˈfænsɪf(ə)l] 美[ˈfænsɪf(ə)l]
+%adj. 想象的；稀奇的
+    a fanciful girl
+#爱空想的女孩
+    fanciful decorations
+#花里胡哨的装饰
+    He had some fanciful notion about building a flying boat.
+#他幻想着建造一艘会飞的船。
+
+carnage: 英[ˈkɑːnɪdʒ] 美[ˈkɑːrnɪdʒ]
+%n. （尤指战争中的）大屠杀，残杀；艰难的局势
+    a scene of carnage
+#大屠杀的场面
+
+pungent: 英[ˈpʌndʒənt] 美[ˈpʌndʒənt]
+%adj. 辛辣的；刺激性的；刺鼻的；苦痛的；尖刻的
+    a cutting, pungent style
+#一针见血、辛辣讽刺的风格
+    a pungent smell
+#刺鼻的气味
+    pungent remarks
+#尖刻的话
+    pungent sympathy
+#强烈的同情心
+    He's the author of a pungent political comedy.
+#他是部辛辣的政治讽刺喜剧的作者
+
+brevity: 英[ˈbrevəti] 美[ˈbrevəti]
+%n. 简洁，简短；短暂，短促
+    an anguished reflection on the brevity of life
+#表达了因生命短暂而感到的痛苦之情
+    Her later essays were written with an admirable brevity.
+#她后期的散文写得清晰简洁，令人叹服。
+
+phenomenal: 英[fəˈnɒmɪn(ə)l] 美[fəˈnɑːmɪn(ə)l]
+%adj. 非凡的，杰出的；感觉得到的，可感知的；现象的
+    a phenomenal achievement
+#杰出成就
+    a pianist of phenomenal talent
+#有杰出才能的钢琴家
+    phenomenal science
+#现象科学
+    His rise to fame was quite phenomenal -- in less than two years he was a household name.
+#他的成名是个奇迹——不到两年他的名字就已家喻户晓。
+
+supersede: 英[ˌsuːpəˈsiːd] 美[ˌsuːpərˈsiːd]
+%vt. 替代，取代
+    supersede sb. as chairman
+#接替某人出任主席
+    As truth prevails over error, goodness tends to supersede badness.
+#正如真理终将战胜谬误，善也终将战胜恶。
+
+vindicate: 英[ˈvɪndɪkeɪt] 美[ˈvɪndɪkeɪt]
+%vt. 维护；证明……无辜；证明……正确
+    vindicate the glory of one's name
+#维护自己的名誉
+    She said she welcomed the trial as a chance to vindicate herself.
+#她说欢迎审判，那是证明她无辜的机会。
+
+=======
+divergent: 英[daɪˈvɜːdʒənt] 美[daɪˈvɜːrdʒənt]
+%adj. 不同的，分歧的；（数）（级数）发散的；（心理）（思维）发散的，求异的
+    divergent branches
+#岔枝
+    the divergent interests of capital and labor
+#劳资双方的不同利益
+    They hold widely divergent opinions on controversial issues like abortion.
+#对于像堕胎这样的争议性问题，他们的意见分歧很大。
+
+incisive: 英[ɪnˈsaɪsɪv] 美[ɪnˈsaɪsɪv]
+%adj. 深刻的；敏锐的；锋利的
+    incisive edge
+#锋利的刀口
+    an incisive mind
+#敏锐的头脑
+    an incisive remark
+#讥讽的话
+    an incisive criticism
+#辛辣的批评
+    Sometimes a few incisive comments from an outsider can give you a whole new perspective on what you've done.
+#有时局外人的几句深刻的评论会使你对自己所做的事有个全新的看法。
+
+elude: 英[ɪˈluːd] 美[ɪˈluːd]
+%v. （尤指机智地，巧妙地）避开，逃避；使达不到，使不能实现；使不记得，使不理解；对（法律，要求，处罚）不服从
+    elude one's responsibilities
+#逃避责任
+    elude law
+#逃避法网
+    elude observation
+#掩人耳目
+    I know who you mean but her name eludes me.
+#我知道你说的是谁，但我想不起她的名字。
+
+drab: 英[dræb] 美[dræb]
+$adj. 单调的；土褐色的
+$n. 浅褐色；无生气；邋遢；小额
+$vt. 使无生气
+$vi. 嫖妓
+%n. （Drab）人名；（匈）德劳布；（法）德拉布
+    a drab life
+#单调的生活
+    drab clothes
+#黄褐色的衣服
+    She walked through the city center with its drab, grey buildings and felt depressed.
+#她步行穿过市中心，看到单调乏味的灰色建筑，有些沮丧。
+
+sully: 英[ˈsʌli] 美[ˈsʌli]
+$vt. 玷污；使丢脸
+$n. 污点，损伤
+%n. （Sully）人名；（英）萨利；（法）苏利
+    sully the air
+#污染空气
+    without the least sully in one's virtue
+#某人操行上的清白无瑕
+    He said that his reputation had been unfairly sullied by allegations, half-truths and innuendos.
+#说他的名誉已被流言蜚语、半真半假的报道和含沙射影玷污了。
+
+conflate: 英[kənˈfleɪt] 美[kənˈfleɪt]
+%vt. 合并；异文合并
+    a conflated vista
+#色彩纷呈的景色
+    In his confusion he had conflated the two events and could no longer tell which was which.
+#他糊涂地把两件事混在一起，再也分不清哪件是哪件。
+
+caste: 英[kɑːst] 美[kæst]
+$n. （印度社会中的）种姓；（具有严格等级差别的）社会地位；（排他的）社会团体
+%n. （Caste）人名；（英、法）卡斯特
+    lose caste
+#失去社会地位
+    a caste system
+#等级制度
+
+unconscious: 英[ʌnˈkɒnʃəs] 美[ʌnˈkɑːnʃəs]
+$adj. （尤指因头部受伤）昏迷的，不省人事的；（想法或感情）无意识的，潜意识的；没意识到某事物；（行为）下意识的，无意中做出的
+%n. 无意识（不察觉的心理活动）（the unconscious）
+    unconscious of the danger
+#未意识到有危险
+    knock sb. unconscious
+#把某人打昏过去
+    an unconscious impulse
+#无意识的冲动
+    an unconscious neglect
+#无意的疏忽
+    That holiday had touched an unconscious desire in me to be free again, and soon afterwards I gave up my job in the big city.
+#那个假日触动了我想要再次获得自由的潜意识中的渴望，不久我就放弃了在大城市里的工作
+
+verdant: 英[ˈvɜːd(ə)nt] 美[ˈvɜːrd(ə)nt]
+$adj. 青翠的；翠绿的；没有经验的；不老练的
+%n. （Verdant）人名；（法）韦尔当
+    verdant lawns
+#青翠的草坪
+    a verdant youth
+#阅历不深的青年
+    Much of the region's verdant countryside has been destroyed by the hurricane.
+#那个地区许多绿油油的乡间地区被飓风破坏了。
+
+circumstantial: 英[ˌsɜːkəmˈstænʃ(ə)l] 美[ˌsɜːrkəmˈstænʃ(ə)l]
+%adj. 依照情况的；详细的，详尽的；偶然的
+    a circumstantial story
+#详尽的描述
+    Minor details are circumstantial compared with the main fact.
+#细节与主要事实相比处于次要地位。
+
+overshadow: 英[ˌəʊvəˈʃædəʊ] 美[ˌoʊvərˈʃædoʊ]
+%v. 使黯然失色，使相形见绌；使扫兴，使蒙上阴影；遮盖，遮蔽
+    be overshadowed by one's achievement
+#因某人的成就而黯然失色
+    a valley overshadowed by mountains
+#笼罩着群山阴影的山谷
+    be overshadowed by the tragedy
+#被悲剧蒙上一层阴影
+    Overshadowing all these problems was the shortage of fund.
+#资金的短缺使所有这些问题显得无足轻重。
+
+self-assured: 英[ˌself əˈʃʊəd] 美[ˌself əˈʃʊrd]
+%adj. 有自信的
+    He was self-assured and bound to succeed.
+#他极有自信，必获得成功。
+
+irreconcilable: 英[ɪˌrekənˈsaɪləbl; ɪˈrekənsaɪləbl] 美[ɪˌrekənˈsaɪləb(ə)l]
+%adj. 矛盾的；不能和解的；不能协调的
+    an irreconcilable enemy
+#不能和解的敌人
+    irreconcilable statements
+#互相对立的声明
+    Over the years irreconcilable differences of opinion have developed between the sisters.
+#若干年来姐妹间形成了不可调和的意见分歧。
+
+headstrong: 英[ˈhedstrɒŋ] 美[ˈhedstrɔːŋ]
+%adj. 任性的；顽固的；刚愎的
+    a headstrong horse
+#烈马
+    headstrong actions
+#任性的行为
+    He was a headstrong child, always getting into trouble.
+#他是个任性的孩子，时常惹麻烦。
+
+snug: 英[snʌɡ] 美[snʌɡ]
+$adj. 舒适的；温暖的；紧身的；隐藏的
+$vt. 使变得温暖舒适；隐藏
+$vi. 偎依；舒适地蜷伏
+%n. 舒适温暖的地方；雅室
+    a snug little room with the fire blazing
+#一间生着炉火的舒适的小房间
+    a snug little dinner with old friends
+#同故人相聚情谊融融的小酌
+    a snug jacket
+#紧身夹克
+    a snug harbor
+#避风港
+    (as) snug as a bug in a rug
+#非常舒适的，极其安逸的
+    I curled up in bed, all snug and warm, listening to the wind in the trees outside.
+#我蜷缩在床上，温暖而舒适，听着窗外风吹树木之声。
+
+untold: 英[ˌʌnˈtəʊld] 美[ˌʌnˈtoʊld]
+%adj. 数不清的；未说过的；未透露的；无限的
+    an untold secret
+#不曾泄露的秘密
+    untold stars in the sky
+#天上无数的星星
+    untold wealth
+#巨富
+    untold joy
+#不可名状的快乐
+    The explosion ripped through the church and did untold damage to several neighboring buildings.
+#爆炸炸穿了教堂，也严重损害了邻近的几座建筑物。
+
+intransigent: 英[ɪnˈtrænzɪdʒənt] 美[ɪnˈtrænzɪdʒənt]
+$adj. 不妥协的；不让步的
+%n. 不妥协的人
+    the intransigent parties to the dispute
+#争执中不妥协的各方
+    an intransigent attitude
+#不妥协的态度
+    The negotiations had little chance of success while the management maintained such an intransigent position.
+#资方坚持如此不妥协的立场，谈判成功的可能性极小。
+
+grandiose: 英[ˈɡrændiəʊs] 美[ˈɡrændioʊs]
+%adj. 宏伟的；堂皇的；浮夸的；宏大的
+    grandiose ambitions
+#宏伟的抱负
+    grandiose style
+#华丽的风格
+    a grandiose new building
+#宏伟的新建筑
+    He has some grandiose plans for making money.
+#他有一些宏伟的赚钱计划。
+
+scrupulous: 英[ˈskruːpjələs] 美[ˈskruːpjələs]
+%adj. 细致的，一丝不苟的；正直的，有道德原则的
+    man of scrupulous honesty
+#严谨正直的人
+    work with scrupulous care
+#一丝不苟地工作
+    The nurse told him to be scrupulous about keeping the wound clean.
+#护士告诉他要十分仔细地保持伤口洁净。
+
+indiscriminate: 英[ˌɪndɪˈskrɪmɪnət] 美[ˌɪndɪˈskrɪmɪnət]
+%adj. 任意的；无差别的；不分皂白的
+    an indiscriminate reader
+#什么书都读的人
+    in an indiscriminate pile
+#胡乱的一堆
+    indiscriminate use of medicinal drugs
+#滥用药
+    The report concludes that the indiscriminate use of some fertilizers in the area would cause long-term problems.
+#报告断定在该地区滥用某些化肥会产生长期的问题。
+
+antiquity: 英[ænˈtɪkwəti] 美[ænˈtɪkwəti]
+%n. 古代（尤指古希腊和古罗马时期）；年代久远；文物，古物；古代，古时（尤指古埃及、古希腊、古罗马时期）
+    in remote antiquity
+#在遥远的古代
+    a city of great antiquity
+#一常非常古老的城市
+    records left by antiquity
+#古人留下的文献
+    Under the law, all antiquities discovered with in the country belong to the government.
+#按照法律，在国内发现的一切文物均归政府所有。
+
+ignominy: 英[ˈɪɡnəmɪni] 美[ˈɪɡnəmɪni]
+%n. 耻辱；不体面；丑行
+    be fired in ignominy
+#被很不光彩地开除
+    ignominy of abandoning one's friends
+#抛弃朋友的卑劣行径
+    He experienced the ignominy of total defeat in the last election.
+#他在上次大选中经受了彻底失败的耻辱。
+
+coerce: 英[kəʊˈɜːs] 美[koʊˈɜːrs]
+%v. 强制，迫使；通过胁迫获得
+    coerce uniformity
+#强求一致
+    The judge found that the six defendants had been coerced into making a confession.
+#法官发现六名被告人曾被胁迫承认罪行。
+
+ballad: 英[ˈbæləd] 美[ˈbæləd]
+%n. 歌谣，民谣；叙事歌谣；流行抒情歌曲
+    Many of the old ballads are sung to new words.
+#许多古老的民歌的曲调配上了新的歌词。
+
+intersect: 英[ˌɪntəˈsekt] 美[ˌɪntərˈsekt]
+%v. 相交，交叉；横穿，横断；（与……）有交叉特征，（与……）相关联
+    a garden intersected by gravel paths
+#由碎石小路纵横分隔的花园
+    The transport system is very efficient and the bus routes intersect conveniently with the railway network.
+#运输系统效率很高，公共汽车线路很方便地与铁路网相交叉。
+
+instigate: 英[ˈɪnstɪɡeɪt] 美[ˈɪnstɪɡeɪt]
+%v. 使（正式）开始，使发生；唆使，煽动（instigate sb. to/to do sth.）
+    The revolt is believed to have been instigated by a disappointed ex-government official.
+#这场叛乱被认为是由一名心怀不满的前政府官员唆使的。
+
+repulse: 英[rɪˈpʌls] 美[rɪˈpʌls]
+$vt. 拒绝；驱逐；憎恶
+%n. 拒绝；击退
+    repulse the enemy attack
+#击退人的进攻
+    repulse a suggestion
+#拒绝一项建议
+    The tourists were repulsed by the filthy conditions.
+#游客们对航脏的环境产生了反感。
+
+unintelligible: 英[ˌʌnɪnˈtelɪdʒəb(ə)l] 美[ˌʌnɪnˈtelɪdʒəb(ə)l]
+%adj. 莫名其妙的；无法了解的
+    The script was unintelligible.
+#这笔迹实在看不懂。
+
+censorious: 英[senˈsɔːriəs] 美[senˈsɔːriəs]
+%adj. 挑剔的；受批判的（名词 censoriousness, 副词 censoriously）
+    censorious criticism
+#吹毛求疵的批评
+    be censorious of sb.
+#对某人挑剔
+
+deluge: 英[ˈdeljuːdʒ] 美[ˈdeljuːdʒ]
+$n. 暴雨，洪水；涌现的事物，蜂拥而至的事物；（《圣经》中的）大洪水（the Deluge）
+%v. 使涌来，使充满；泛滥，淹没
+    get caught in a deluge
+#碰上一场暴雨
+    a deluge of letters
+#大量来的信件
+    a deluge of words
+#滔滔不绝的话
+    be deluged with questions
+#对问题应接不暇
+    We've been deluged with replies to our advertisement.
+#对我们广告的答复雪片般地飞来。
+
+prod: 英[prɒd] 美[prɑːd]
+$v. 刺，戳；刺激，督促
+%n. 戳，捅；刺戳的工具；刺激，提醒；（贬称）新教徒
+    prod sb. in the back
+#捅某人的背
+    prod the audience into thinking about the status quo
+#促使观众思索现状
+    prod sb. out of a prolonged mood of depression
+#激励某人从长期的沮丧情绪中解脱出来
+    feel a prod of indignation
+#感到一阵愤慨
+    She prodded at the fish with her fork a few times, but she didn't eat a mouthful.
+#她用叉子戳了几次鱼，但一口也没吃。
+
+fanciful: 英[ˈfænsɪf(ə)l] 美[ˈfænsɪf(ə)l]
+%adj. 想象的；稀奇的
+    a fanciful girl
+#爱空想的女孩
+    fanciful decorations
+#花里胡哨的装饰
+    He had some fanciful notion about building a flying boat.
+#他幻想着建造一艘会飞的船。
+
+carnage: 英[ˈkɑːnɪdʒ] 美[ˈkɑːrnɪdʒ]
+%n. （尤指战争中的）大屠杀，残杀；艰难的局势
+    a scene of carnage
+#大屠杀的场面
+
+pungent: 英[ˈpʌndʒənt] 美[ˈpʌndʒənt]
+%adj. 辛辣的；刺激性的；刺鼻的；苦痛的；尖刻的
+    a cutting, pungent style
+#一针见血、辛辣讽刺的风格
+    a pungent smell
+#刺鼻的气味
+    pungent remarks
+#尖刻的话
+    pungent sympathy
+#强烈的同情心
+    He's the author of a pungent political comedy.
+#他是部辛辣的政治讽刺喜剧的作者
+
+brevity: 英[ˈbrevəti] 美[ˈbrevəti]
+%n. 简洁，简短；短暂，短促
+    an anguished reflection on the brevity of life
+#表达了因生命短暂而感到的痛苦之情
+    Her later essays were written with an admirable brevity.
+#她后期的散文写得清晰简洁，令人叹服。
+
+phenomenal: 英[fəˈnɒmɪn(ə)l] 美[fəˈnɑːmɪn(ə)l]
+%adj. 非凡的，杰出的；感觉得到的，可感知的；现象的
+    a phenomenal achievement
+#杰出成就
+    a pianist of phenomenal talent
+#有杰出才能的钢琴家
+    phenomenal science
+#现象科学
+    His rise to fame was quite phenomenal -- in less than two years he was a household name.
+#他的成名是个奇迹——不到两年他的名字就已家喻户晓。
+
+supersede: 英[ˌsuːpəˈsiːd] 美[ˌsuːpərˈsiːd]
+%vt. 替代，取代
+    supersede sb. as chairman
+#接替某人出任主席
+    As truth prevails over error, goodness tends to supersede badness.
+#正如真理终将战胜谬误，善也终将战胜恶。
+
+vindicate: 英[ˈvɪndɪkeɪt] 美[ˈvɪndɪkeɪt]
+%vt. 维护；证明……无辜；证明……正确
+    vindicate the glory of one's name
+#维护自己的名誉
+    She said she welcomed the trial as a chance to vindicate herself.
+#她说欢迎审判，那是证明她无辜的机会。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

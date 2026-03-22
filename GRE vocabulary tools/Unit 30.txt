@@ -1,0 +1,623 @@
+<<<<<<< HEAD
+marvel: 英[ˈmɑːv(ə)l] 美[ˈmɑːrv(ə)l]
+$n. 令人惊异的人（或事），奇迹
+%v. 感到惊奇，大为赞叹
+    She marveled over the improvement in our work.
+#她对我们工作中的改进感到很惊奇。
+
+glitter: 英[ˈɡlɪtə(r)] 美[ˈɡlɪtər]
+$v. 闪光，闪烁；（某种强烈的感情）闪现，流露
+%n. 闪耀；（某种感情的）闪现，流露；奢华，华丽；（装饰用的）闪亮小物件
+    The sea glittered in the sun.
+#大海在阳光下闪闪发光。
+
+shield: 英[ʃiːld] 美[ʃiːld]
+$n. 盾（牌）；防护物，保护人；盾形纹（徽）章；<美>警徽；盾形奖牌；（颁发盾形奖牌的）比赛；背甲，头胸甲，龟甲板；（地质）地盾
+%v. 保护，保卫；遮挡；给……加防护罩；防止（或减少）辐射；（体育运动中）护住（球）；防御，起保护作用
+    The ozone layer shields the earth from the sun's ultraviolet rays.
+#臭氧层保护地球不受太阳紫外线的辐射。
+
+loosen: 英[ˈluːs(ə)n] 美[ˈluːs(ə)n]
+%v. （使）变松，（使）松开；放宽（限制、法律等）；使（关系）弱化，疏远；使（肠道）在排泄前畅通
+    It was hot in the room and the men began to loosen their ties.
+#房间里很热，男士们开始松开领带。
+
+plead: 英[pliːd] 美[pliːd]
+%v. 恳求，乞求；极力主张，极力为……辩护；（在法庭）申辩，认罪；（向法庭）陈述案情；以……为理由，提出……作借口
+    A middle-aged woman climbed onto the tank to plead with the soldiers not to shoot.
+#一名中年妇女爬上坦克，恳求士兵们不要开火。
+
+prey: 英[preɪ] 美[preɪ]
+$n. 猎物，捕获物；受害者，受骗者；<古>掠夺品
+%v. 捕食；欺凌，坑害（尤指弱者）；不断困扰，折磨
+    Small children are prey to all sorts of fears.
+#幼儿易受到各种惊吓。
+
+refute: 英[rɪˈfjuːt] 美[rɪˈfjuːt]
+%v. <正式> 驳斥，批驳；<正式> 否认，辩驳
+    The lawyer used the new evidence to refute the charges and clear the defendant.
+#律师用新的证据驳倒指控，为被告洗清罪名。
+
+tame: 英[teɪm] 美[teɪm]
+$adj. 驯服的，不怕人的；平淡无奇的，枯燥乏味的；听使唤的，温顺的；<美> （植物）经栽培的；（土地）经开垦的
+%v. 驯化，驯服；制服，控制；开垦，开辟；使变得平淡
+    The birds in the park are quite tame and will take food from your hand.
+#公园里的鸟很温顺，会吃你亲手喂给它们的食物。
+
+combat: 英[ˈkɒmbæt] 美[ˈkɑːmbæt]
+$n. 战斗，搏斗；争论，反对
+$v. 与……作斗争；防止，减轻
+%adj. 战斗的；为……斗争的
+    The film explores the combat between good and evil.
+#这部电影探讨了善恶之间的斗争问题。
+
+construct: 英[kənˈstrʌkt] 美[kənˈstrʌkt]
+$v. 建造，修建；组成，创立，构思；绘制，作图
+%n. 构想，观念；建筑物，创造物；结构体
+    The wall was constructed of concrete.
+#这堵墙用混凝土筑成。
+
+alter: 英[ˈɔːltə(r)] 美[ˈɔːltər]
+%v. 改变，改动；（使）变化；改（服装）；改建（某建筑）；<美>阉割
+    It is still the same book. Only the cover has been altered.
+#这仍是同一本书，只是封面改了。
+
+ample: 英[ˈæmpl] 美[ˈæmp(ə)l]
+%adj. 充足的，充裕的；丰满的；宽敞的，巨大的
+    You'll have ample opportunity to ask questions after the talk.
+#等演讲完了，你们会有充分的机会提问。
+
+plenary: 英[ˈpliːnəri] 美[ˈpliːnəri]
+$adj. 充分的；全体出席的
+%n. 全体会议
+    The issue is expected to be discussed at the plenary session of the UN Security Council.
+#这一问题将在联合国安理会全体会议上讨论。
+
+empirical: 英[ɪmˈpɪrɪk(ə)l] 美[ɪmˈpɪrɪk(ə)l]
+%adj. 经验主义的，以经验为依据的
+    We now have empirical evidence that the moon is covered with dust.
+#现在我们有经验性证据证明月球上布满了尘埃。
+
+heave: 英[hiːv] 美[hiːv]
+$v. 用力举起，使劲拖；（用力）扔，抛；起伏；发出（叹息）；恶心，呕吐；人头攒动，挤满（人）；用绳将（船）拉动（或往高处拖动）
+%n. （用力）举，拉；（用力）扔；（剧烈的）起伏；（地质）平错，隆起
+    His chest heaved as he breathed deeply after the race.
+#赛跑之后，他深深地喘着气，胸口起伏着。
+
+sour: 英[ˈsaʊə(r)] 美[ˈsaʊər]
+$adj. 酸的，酸味的；（牛奶等）馊（味）的，酸臭的；不友善的，脾气坏的；（关系、计划等变得）坏的，令人不快的；（土壤）缺少石灰质的，酸性过重的；（石油，天然气）含硫量较高的
+$v. （使）（关系、情况）变糟，变坏；（使）变酸，（使）酸腐；使喜悦减少
+%n. 有酸味的酒精饮料；酸味；苦事
+    She was a sour old lady who never had a good word for anybody.
+#她是个坏牌气的老太太，对任何人都很反感。
+
+civilian: 英[səˈvɪliən] 美[səˈvɪliən]
+$n. 平民，百姓（区别于军、警）
+%adj. 平民的，民用的
+    When soldiers are on leave, they tend to wear civilian clothes rather than their military uniforms.
+#士兵休假时往往穿便服而不是穿军装。
+
+ballot: 英[ˈbælət] 美[ˈbælət]
+$n. （无记名）投票选举，投票表决；选票；投票总数（the ballot）
+%v. 要求（某人）投票；（为……）投票；抽签决定
+    They held a ballot to choose a new leader.
+#他们投票选举一个新领导人。
+
+junction: 英[ˈdʒʌŋkʃ(ə)n] 美[ˈdʒʌŋkʃ(ə)n]
+%n. （公路或铁路的）交叉口，岔道口；汇合处，交叉点；（电子）接口；连接，结合；（高速公路的）出入口；（铁路的）枢纽站，联轨站
+    It is a railway junction where lines from all over the country meet.
+#这是全国铁路线交汇的枢纽站。
+
+mast: 英[mɑːst] 美[mæst]
+$n. 桅杆；柱；橡树果实
+$vt. 在……上装桅杆
+%n. （Mast）人名；（德、英、法、西、芬）马斯特
+    During the storm, the crew of the ship clung to the mast to stop themselves from being washed.
+#暴中，船员紧抓着船桅，以防被冲走
+
+orthodox: 英[ˈɔːθədɒks] 美[ˈɔːrθədɑːks]
+$adj. （观念、方法或行为）传统的，正统的；（人）正统派的，循规蹈矩的；东正教的，正教的（Orthodox）；（物）普通的，正常的
+%n. 正统的人，正统的事物
+    The orthodox Chinese medicine uses medicinal herbs, acupuncture treatment, Chinese massage, etc. to treat patients.
+#正统的中医用草药、针灸疗法推拿等来医治病人。
+
+jolt: 英[dʒəʊlt] 美[dʒoʊlt]
+$v. （使）震动，（使）颠簸；使受到震惊（而采取行动），使觉醒；使突然活跃（或有效）
+%n. 颠簸，摇晃；震惊，惊讶；一点，少量（提神的东西）；（能源的）猛增
+    As the plane touched the ground, there is a massive jolt and we were thrown forward.
+#飞机着陆时剧烈颠簸，我们猛地向前一冲。
+
+cartoon: 英[kɑːˈtuːn] 美[kɑːrˈtuːn]
+$n. 漫画，讽刺画；动画片，卡通片；草图，底图
+%v. 给……画漫画；画漫画
+    Traditional folk tales have often been made into cartoons.
+#传统民间故事经常被制成卡通片。
+
+rehearse: 英[rɪˈhɜːs] 美[rɪˈhɜːrs]
+%v. 排练，排演；监督（表演者或团体）排演；默诵，默默地练习；<正式>详述，重复
+    The actors were rehearsing the play until two o'clock in the morning.
+#演员们一直在排练这出戏，直到凌晨两点钟。
+
+forgery: 英[ˈfɔːdʒəri] 美[ˈfɔːrdʒəri]
+%n. 伪造，伪造罪；伪造品，赝品
+    He later found that the painting was a forgery.
+#他后来发现那幅画是个赝品。
+
+ardent: 英[ˈɑːd(ə)nt] 美[ˈɑːrd(ə)nt]
+%adj. 热心的，热切的；（爱情）热烈的，炽热的
+    He's an ardent supporter of the local football team.
+#他是本地足球队的热情支持者。
+
+flutter: 英[ˈflʌtə(r)] 美[ˈflʌtər]
+$v. 飘动，颤动；振（翼），拍打（翅膀）；翩翩飞舞；（心脏等）砰砰乱跳；急赶，奔走；（心脏等）怦怦乱跳
+%n. 飘动，颤动；<英，非正式> 小赌注；激动，不安；（心脏因激动或紧张而）快速跳动；（录音中的）颤振
+    The blue butterflies fluttered among the blossoms.
+#蓝色的蝴蝶在花间飞舞。
+
+aerial: 英[ˈeəriəl] 美[ˈeriəl]
+$n. 天线；（滑雪等运动的）空中腾越
+%adj. 航空的，从飞机上的；空中的，地表以上的；由飞机实施的；（植物的某部分）气生的；在空中翱翔的；（在）大气（中）的
+    The massive aerial bombing lasted for several days.
+#大规模的空中轰炸持续了数天。
+
+charity: 英[ˈtʃærəti] 美[ˈtʃærəti]
+%n. 慈善组织，慈善机构；慈善事业；仁慈，宽厚；赈济，施舍
+    She makes regular donations to charity.
+#她进行定期的慈善捐款。
+
+peel: 英[piːl] 美[piːl]
+$v. 除去，剥去（水果、蔬菜等的）皮；去掉，剥掉，揭掉；剥落，脱落，脱皮；（水果，蔬菜）有可被除掉的皮；（槌球）把（另一球员的球）传过拱门
+%n. （水果、蔬菜的）皮，外皮；去角质；（16世纪时建在英格兰和苏格兰交界各郡的）堡塔，堡寨
+    She picked up the thrown banana peel in case she should get fined for littering it.
+#她把扔掉的香蕉皮捡了起来以免因乱丢垃圾被罚款。
+
+boom: 英[buːm] 美[buːm]
+$n. 繁荣；流行，风靡；隆隆声；吊杆；帆桁；水栅
+%v. 迅速发展，繁荣；轰鸣，轰响；用低沉的声音说
+    The horn boomed out to warn the passing ships of the dangerous rocks.
+#号角发出鸣鸣声，提醒过往船只注意危险的礁石。
+
+slice: 英[slaɪs] 美[slaɪs]
+$n. （切下的食物）薄片，片；（蛋糕等的）小块 ；水果切块；部分，份；<非正式>例子；（体育运动中的）斜切球，削球，侧旋球；（切片用的）薄刀，（铲食物用的）铲子
+%v. 把……切成薄片；切，割，划；轻易快速穿过（空气或水等）；削（球），斜切打；（无意中）打出弧线球；减少（时间、钱等）
+    A large slice of the family's income is used to pay loans, by which they got their present cars.
+#这家的大部分收入用于偿还贷款，也就是靠这些贷款才有现在的几辆汽车。
+
+rustle: 英[ˈrʌs(ə)l] 美[ˈrʌs(ə)l]
+$v. （使）沙沙作响；偷窃（牲口）；<美，非正式>急速行进，赶紧
+%n. 沙沙声
+    Her long silk skirt rustled as she walked.
+#她走动时，她的丝绸长裙就寒窣作响。
+
+cult: 英[kʌlt] 美[kʌlt]
+$n. 异教，异教组织；狂热崇拜，迷信；（特定群体的）偶像，时尚；崇拜者，信徒；宗教信仰，宗教习俗
+%adj. 受崇拜的，热门的
+    Her novels attracted an enthusiastic cult.
+#她的小说引发了一阵狂热追捧。
+
+oath: 英[əʊθ] 美[oʊθ]
+%n. 誓言，誓约；（在法庭上的）誓词；诅咒，咒骂
+    The new staff members took an oath of office.
+#新上任的工作人员进行了就职宣誓。
+
+blade: 英[bleɪd] 美[bleɪd]
+$n. 刀片，刀刃；（草，小麦等的）叶片；（船或飞机螺旋桨的）桨叶；（溜冰鞋的）冰刀；<旧>花花公子，时髦男士；<文>剑；肩胛骨，肩胛；舌身
+%v. <美，非正式>滑旱冰
+    The blade needs sharpening.
+#这个刀片需要磨下。
+
+alleviate: 英[əˈliːvieɪt] 美[əˈliːvieɪt]
+%v. 减轻，缓和
+    This money should alleviate our financial problems.
+#这笔钱应该能缓和我们的财政问题。
+
+forum: 英[ˈfɔːrəm] 美[ˈfɔːrəm]
+%n. 讨论会；（因特网上的）论坛，讨论区；法院，法庭；（古罗马）公共集会场所
+    The letter page of the newspaper is a forum for public argument.
+#该报的读者来信栏是公众辩论的论坛。
+
+kangaroo: 英[ˌkæŋɡəˈruː] 美[ˌkæŋɡəˈruː]
+%n. 袋鼠
+    Female kangaroos carry their young in a pouch on their stomachs.
+#母袋鼠把幼仔放在腹部的育儿袋里。
+
+marshal: 英[ˈmɑːʃ(ə)l] 美[ˈmɑːrʃ(ə)l]
+$n. （英国）陆军元帅，空军元帅；司仪，典礼官；（尤指体育赛事的）总指挥；（美国法院的）执行官；一些美国城市的）警察局长，消防局长；（英国）巡回法官随员
+%v. 结集，安排；控制，组织；整理（思路、想法等）；（车辆）编组；引导（飞机在机场地面移动）；合并（盾徽）；成形，有序
+    The book fails to marshal facts into a coherent argument.
+#这本书没能将事实整理成连贯的论据。
+
+relic: 英[ˈrelɪk] 美[ˈrelɪk]
+%n. 遗物，遗迹，遗风；圣物，圣骨；（事物存在或发生的）证据，痕记；残留物，废墟（relics）
+    During the dig, the archeological team found some relics from the Stone Age.
+#在发掘中，考古队发现了石器时代的一些遗物。
+
+ignorant: 英[ˈɪɡnərənt] 美[ˈɪɡnərənt]
+%adj. 无知的，（对某事物）不了解的；<非正式>无礼的，粗鲁的；暴躁的，易怒的
+    Many teenagers are surprisingly ignorant about current politics.
+#许多青少年对时事政治表现出惊人的无知。
+
+overflow: 英[ˌəʊvəˈfləʊ] 美[ˌoʊvərˈfloʊ]
+$v. 漫出，泛滥 ；充满，挤满；装满，完全盖住；扩展出界，过度延伸；洋溢着（情感）
+%n. 溢出，溢出的液体；容纳不下的人（或物）；溢流管（=overflow pipe）；（计算机）数据过载
+    The bathtub is overflowing. To stop the water, someone has to change the water tap.
+#浴缸里的水在往外溢，要止住水就得找人换水龙头。
+
+glisten: 英[ˈɡlɪs(ə)n] 美[ˈɡlɪs(ə)n]
+$vi. 闪光，闪亮
+%n. 闪光，闪耀
+    The road glistened wet after the rain.
+#雨后的道路润泽闪亮。
+
+advent: 英[ˈædvent] 美[ˈædvent]
+%n. 出现，到来，问世；基督降临节（Advent）；基督降临，基督复临（Advent）
+    People are much better informed since the advent of television.
+#自从出现了电视，人们的消息灵通多了。
+
+versatile: 英[ˈvɜːsətaɪl] 美[ˈvɜːrsət(ə)l]
+%adj. 多才多艺的，有多种技能的；多用途的，多功能的
+    It is a versatile garment that can be worn in all seasons.
+#这是一种多功能衣服，任何季节都能穿
+
+mechanism: 英[ˈmekənɪzəm] 美[ˈmekənɪzəm]
+%n. 机械装置，机件；途径，方法；（生物体内的）机制，构造；机械论；（产生自然现象等的）物理过程
+    An automobile engine is a complex mechanism.
+#汽车发动机是复杂的机械装置。
+
+stun: 英[stʌn] 美[stʌn]
+$v. 使震惊，使惊讶；使昏迷，（尤指）打昏；给（某人）以深刻印象，使深深感动
+%n. 昏迷；打昏；惊倒
+    The man's sudden appearance at the party 10 years after running away from home stunned everybody.
+#那人离家出走十年之后突然出现在聚会上，这使每个人都大为震惊。
+
+suspicion: 英[səˈspɪʃ(ə)n] 美[səˈspɪʃ(ə)n]
+$n. 不好的预感，猜想；（对某人有罪、不诚实等的）怀疑；不信任，猜疑；少量，一点
+%v. <方> 怀疑
+    The behavior of the stranger aroused our suspicion.
+#这名陌生人的行为引起了我们的怀疑。
+
+overthrow: 英[ˌəʊvəˈθrəʊ] 美[ˌoʊvərˈθroʊ]
+$v. 推翻，打倒；背弃，摒弃（规则、观念或社会制度）；投（球）过猛，投球超过（接手或目标）
+%n. 推翻，打倒；投球过远，投球过猛；（因对方投球过远而得的）分；（拱门、门廊上方的）铁艺装饰板
+    Their purpose was to overthrow that government.
+#他们的目的就是推翻该政府。
+
+omelet(te): 英[ˈɒmlət] 美[ˈɑːmlət]
+%n. 煎蛋卷；炒鸡蛋；鸡蛋烧
+    I'd like a mushroom omelette for lunch.
+#我午饭想吃蘑菇煎蛋饼。
+
+fuss: 英[fʌs] 美[fʌs]
+$n. 大惊小怪，紧张不安；（为小事）大发牢骚；反对，抗议；繁琐的手续，麻烦
+%v. 大惊小怪，瞎忙活；过分体贴（fuss over）；使烦恼，烦扰
+    You shouldn't make all that fuss about so simple a matter.
+#这么简单的事，你不该那么大惊小怪。
+
+vile: 英[vaɪl] 美[vaɪl]
+$adj. 卑鄙的；邪恶的；低廉的；肮脏的
+%n. （Vile）人名；（英）瓦伊尔；（芬）维莱
+    We had a terrible holiday -- the hotel was vile, the food was vile and the weather was vile.
+#我们的假期糟透了——旅馆不舒服，食物不好吃，天气不如人意。
+
+impoverish: 英[ɪmˈpɒvərɪʃ] 美[ɪmˈpɑːvərɪʃ]
+%v. 使贫困，使赤贫；使（力量、活力或肥力）枯竭
+    Lack of fertilizer impoverished the soil.
+#缺少化肥使土壤贫瘠。
+
+incur: 英[ɪnˈkɜː(r)] 美[ɪnˈkɜːr]
+%v. 带来（成本、花费等）；招致，遭受
+    The play has incurred the anger of both audiences and critics.
+#这出戏同时使观众和批评家气愤。
+
+=======
+marvel: 英[ˈmɑːv(ə)l] 美[ˈmɑːrv(ə)l]
+$n. 令人惊异的人（或事），奇迹
+%v. 感到惊奇，大为赞叹
+    She marveled over the improvement in our work.
+#她对我们工作中的改进感到很惊奇。
+
+glitter: 英[ˈɡlɪtə(r)] 美[ˈɡlɪtər]
+$v. 闪光，闪烁；（某种强烈的感情）闪现，流露
+%n. 闪耀；（某种感情的）闪现，流露；奢华，华丽；（装饰用的）闪亮小物件
+    The sea glittered in the sun.
+#大海在阳光下闪闪发光。
+
+shield: 英[ʃiːld] 美[ʃiːld]
+$n. 盾（牌）；防护物，保护人；盾形纹（徽）章；<美>警徽；盾形奖牌；（颁发盾形奖牌的）比赛；背甲，头胸甲，龟甲板；（地质）地盾
+%v. 保护，保卫；遮挡；给……加防护罩；防止（或减少）辐射；（体育运动中）护住（球）；防御，起保护作用
+    The ozone layer shields the earth from the sun's ultraviolet rays.
+#臭氧层保护地球不受太阳紫外线的辐射。
+
+loosen: 英[ˈluːs(ə)n] 美[ˈluːs(ə)n]
+%v. （使）变松，（使）松开；放宽（限制、法律等）；使（关系）弱化，疏远；使（肠道）在排泄前畅通
+    It was hot in the room and the men began to loosen their ties.
+#房间里很热，男士们开始松开领带。
+
+plead: 英[pliːd] 美[pliːd]
+%v. 恳求，乞求；极力主张，极力为……辩护；（在法庭）申辩，认罪；（向法庭）陈述案情；以……为理由，提出……作借口
+    A middle-aged woman climbed onto the tank to plead with the soldiers not to shoot.
+#一名中年妇女爬上坦克，恳求士兵们不要开火。
+
+prey: 英[preɪ] 美[preɪ]
+$n. 猎物，捕获物；受害者，受骗者；<古>掠夺品
+%v. 捕食；欺凌，坑害（尤指弱者）；不断困扰，折磨
+    Small children are prey to all sorts of fears.
+#幼儿易受到各种惊吓。
+
+refute: 英[rɪˈfjuːt] 美[rɪˈfjuːt]
+%v. <正式> 驳斥，批驳；<正式> 否认，辩驳
+    The lawyer used the new evidence to refute the charges and clear the defendant.
+#律师用新的证据驳倒指控，为被告洗清罪名。
+
+tame: 英[teɪm] 美[teɪm]
+$adj. 驯服的，不怕人的；平淡无奇的，枯燥乏味的；听使唤的，温顺的；<美> （植物）经栽培的；（土地）经开垦的
+%v. 驯化，驯服；制服，控制；开垦，开辟；使变得平淡
+    The birds in the park are quite tame and will take food from your hand.
+#公园里的鸟很温顺，会吃你亲手喂给它们的食物。
+
+combat: 英[ˈkɒmbæt] 美[ˈkɑːmbæt]
+$n. 战斗，搏斗；争论，反对
+$v. 与……作斗争；防止，减轻
+%adj. 战斗的；为……斗争的
+    The film explores the combat between good and evil.
+#这部电影探讨了善恶之间的斗争问题。
+
+construct: 英[kənˈstrʌkt] 美[kənˈstrʌkt]
+$v. 建造，修建；组成，创立，构思；绘制，作图
+%n. 构想，观念；建筑物，创造物；结构体
+    The wall was constructed of concrete.
+#这堵墙用混凝土筑成。
+
+alter: 英[ˈɔːltə(r)] 美[ˈɔːltər]
+%v. 改变，改动；（使）变化；改（服装）；改建（某建筑）；<美>阉割
+    It is still the same book. Only the cover has been altered.
+#这仍是同一本书，只是封面改了。
+
+ample: 英[ˈæmpl] 美[ˈæmp(ə)l]
+%adj. 充足的，充裕的；丰满的；宽敞的，巨大的
+    You'll have ample opportunity to ask questions after the talk.
+#等演讲完了，你们会有充分的机会提问。
+
+plenary: 英[ˈpliːnəri] 美[ˈpliːnəri]
+$adj. 充分的；全体出席的
+%n. 全体会议
+    The issue is expected to be discussed at the plenary session of the UN Security Council.
+#这一问题将在联合国安理会全体会议上讨论。
+
+empirical: 英[ɪmˈpɪrɪk(ə)l] 美[ɪmˈpɪrɪk(ə)l]
+%adj. 经验主义的，以经验为依据的
+    We now have empirical evidence that the moon is covered with dust.
+#现在我们有经验性证据证明月球上布满了尘埃。
+
+heave: 英[hiːv] 美[hiːv]
+$v. 用力举起，使劲拖；（用力）扔，抛；起伏；发出（叹息）；恶心，呕吐；人头攒动，挤满（人）；用绳将（船）拉动（或往高处拖动）
+%n. （用力）举，拉；（用力）扔；（剧烈的）起伏；（地质）平错，隆起
+    His chest heaved as he breathed deeply after the race.
+#赛跑之后，他深深地喘着气，胸口起伏着。
+
+sour: 英[ˈsaʊə(r)] 美[ˈsaʊər]
+$adj. 酸的，酸味的；（牛奶等）馊（味）的，酸臭的；不友善的，脾气坏的；（关系、计划等变得）坏的，令人不快的；（土壤）缺少石灰质的，酸性过重的；（石油，天然气）含硫量较高的
+$v. （使）（关系、情况）变糟，变坏；（使）变酸，（使）酸腐；使喜悦减少
+%n. 有酸味的酒精饮料；酸味；苦事
+    She was a sour old lady who never had a good word for anybody.
+#她是个坏牌气的老太太，对任何人都很反感。
+
+civilian: 英[səˈvɪliən] 美[səˈvɪliən]
+$n. 平民，百姓（区别于军、警）
+%adj. 平民的，民用的
+    When soldiers are on leave, they tend to wear civilian clothes rather than their military uniforms.
+#士兵休假时往往穿便服而不是穿军装。
+
+ballot: 英[ˈbælət] 美[ˈbælət]
+$n. （无记名）投票选举，投票表决；选票；投票总数（the ballot）
+%v. 要求（某人）投票；（为……）投票；抽签决定
+    They held a ballot to choose a new leader.
+#他们投票选举一个新领导人。
+
+junction: 英[ˈdʒʌŋkʃ(ə)n] 美[ˈdʒʌŋkʃ(ə)n]
+%n. （公路或铁路的）交叉口，岔道口；汇合处，交叉点；（电子）接口；连接，结合；（高速公路的）出入口；（铁路的）枢纽站，联轨站
+    It is a railway junction where lines from all over the country meet.
+#这是全国铁路线交汇的枢纽站。
+
+mast: 英[mɑːst] 美[mæst]
+$n. 桅杆；柱；橡树果实
+$vt. 在……上装桅杆
+%n. （Mast）人名；（德、英、法、西、芬）马斯特
+    During the storm, the crew of the ship clung to the mast to stop themselves from being washed.
+#暴中，船员紧抓着船桅，以防被冲走
+
+orthodox: 英[ˈɔːθədɒks] 美[ˈɔːrθədɑːks]
+$adj. （观念、方法或行为）传统的，正统的；（人）正统派的，循规蹈矩的；东正教的，正教的（Orthodox）；（物）普通的，正常的
+%n. 正统的人，正统的事物
+    The orthodox Chinese medicine uses medicinal herbs, acupuncture treatment, Chinese massage, etc. to treat patients.
+#正统的中医用草药、针灸疗法推拿等来医治病人。
+
+jolt: 英[dʒəʊlt] 美[dʒoʊlt]
+$v. （使）震动，（使）颠簸；使受到震惊（而采取行动），使觉醒；使突然活跃（或有效）
+%n. 颠簸，摇晃；震惊，惊讶；一点，少量（提神的东西）；（能源的）猛增
+    As the plane touched the ground, there is a massive jolt and we were thrown forward.
+#飞机着陆时剧烈颠簸，我们猛地向前一冲。
+
+cartoon: 英[kɑːˈtuːn] 美[kɑːrˈtuːn]
+$n. 漫画，讽刺画；动画片，卡通片；草图，底图
+%v. 给……画漫画；画漫画
+    Traditional folk tales have often been made into cartoons.
+#传统民间故事经常被制成卡通片。
+
+rehearse: 英[rɪˈhɜːs] 美[rɪˈhɜːrs]
+%v. 排练，排演；监督（表演者或团体）排演；默诵，默默地练习；<正式>详述，重复
+    The actors were rehearsing the play until two o'clock in the morning.
+#演员们一直在排练这出戏，直到凌晨两点钟。
+
+forgery: 英[ˈfɔːdʒəri] 美[ˈfɔːrdʒəri]
+%n. 伪造，伪造罪；伪造品，赝品
+    He later found that the painting was a forgery.
+#他后来发现那幅画是个赝品。
+
+ardent: 英[ˈɑːd(ə)nt] 美[ˈɑːrd(ə)nt]
+%adj. 热心的，热切的；（爱情）热烈的，炽热的
+    He's an ardent supporter of the local football team.
+#他是本地足球队的热情支持者。
+
+flutter: 英[ˈflʌtə(r)] 美[ˈflʌtər]
+$v. 飘动，颤动；振（翼），拍打（翅膀）；翩翩飞舞；（心脏等）砰砰乱跳；急赶，奔走；（心脏等）怦怦乱跳
+%n. 飘动，颤动；<英，非正式> 小赌注；激动，不安；（心脏因激动或紧张而）快速跳动；（录音中的）颤振
+    The blue butterflies fluttered among the blossoms.
+#蓝色的蝴蝶在花间飞舞。
+
+aerial: 英[ˈeəriəl] 美[ˈeriəl]
+$n. 天线；（滑雪等运动的）空中腾越
+%adj. 航空的，从飞机上的；空中的，地表以上的；由飞机实施的；（植物的某部分）气生的；在空中翱翔的；（在）大气（中）的
+    The massive aerial bombing lasted for several days.
+#大规模的空中轰炸持续了数天。
+
+charity: 英[ˈtʃærəti] 美[ˈtʃærəti]
+%n. 慈善组织，慈善机构；慈善事业；仁慈，宽厚；赈济，施舍
+    She makes regular donations to charity.
+#她进行定期的慈善捐款。
+
+peel: 英[piːl] 美[piːl]
+$v. 除去，剥去（水果、蔬菜等的）皮；去掉，剥掉，揭掉；剥落，脱落，脱皮；（水果，蔬菜）有可被除掉的皮；（槌球）把（另一球员的球）传过拱门
+%n. （水果、蔬菜的）皮，外皮；去角质；（16世纪时建在英格兰和苏格兰交界各郡的）堡塔，堡寨
+    She picked up the thrown banana peel in case she should get fined for littering it.
+#她把扔掉的香蕉皮捡了起来以免因乱丢垃圾被罚款。
+
+boom: 英[buːm] 美[buːm]
+$n. 繁荣；流行，风靡；隆隆声；吊杆；帆桁；水栅
+%v. 迅速发展，繁荣；轰鸣，轰响；用低沉的声音说
+    The horn boomed out to warn the passing ships of the dangerous rocks.
+#号角发出鸣鸣声，提醒过往船只注意危险的礁石。
+
+slice: 英[slaɪs] 美[slaɪs]
+$n. （切下的食物）薄片，片；（蛋糕等的）小块 ；水果切块；部分，份；<非正式>例子；（体育运动中的）斜切球，削球，侧旋球；（切片用的）薄刀，（铲食物用的）铲子
+%v. 把……切成薄片；切，割，划；轻易快速穿过（空气或水等）；削（球），斜切打；（无意中）打出弧线球；减少（时间、钱等）
+    A large slice of the family's income is used to pay loans, by which they got their present cars.
+#这家的大部分收入用于偿还贷款，也就是靠这些贷款才有现在的几辆汽车。
+
+rustle: 英[ˈrʌs(ə)l] 美[ˈrʌs(ə)l]
+$v. （使）沙沙作响；偷窃（牲口）；<美，非正式>急速行进，赶紧
+%n. 沙沙声
+    Her long silk skirt rustled as she walked.
+#她走动时，她的丝绸长裙就寒窣作响。
+
+cult: 英[kʌlt] 美[kʌlt]
+$n. 异教，异教组织；狂热崇拜，迷信；（特定群体的）偶像，时尚；崇拜者，信徒；宗教信仰，宗教习俗
+%adj. 受崇拜的，热门的
+    Her novels attracted an enthusiastic cult.
+#她的小说引发了一阵狂热追捧。
+
+oath: 英[əʊθ] 美[oʊθ]
+%n. 誓言，誓约；（在法庭上的）誓词；诅咒，咒骂
+    The new staff members took an oath of office.
+#新上任的工作人员进行了就职宣誓。
+
+blade: 英[bleɪd] 美[bleɪd]
+$n. 刀片，刀刃；（草，小麦等的）叶片；（船或飞机螺旋桨的）桨叶；（溜冰鞋的）冰刀；<旧>花花公子，时髦男士；<文>剑；肩胛骨，肩胛；舌身
+%v. <美，非正式>滑旱冰
+    The blade needs sharpening.
+#这个刀片需要磨下。
+
+alleviate: 英[əˈliːvieɪt] 美[əˈliːvieɪt]
+%v. 减轻，缓和
+    This money should alleviate our financial problems.
+#这笔钱应该能缓和我们的财政问题。
+
+forum: 英[ˈfɔːrəm] 美[ˈfɔːrəm]
+%n. 讨论会；（因特网上的）论坛，讨论区；法院，法庭；（古罗马）公共集会场所
+    The letter page of the newspaper is a forum for public argument.
+#该报的读者来信栏是公众辩论的论坛。
+
+kangaroo: 英[ˌkæŋɡəˈruː] 美[ˌkæŋɡəˈruː]
+%n. 袋鼠
+    Female kangaroos carry their young in a pouch on their stomachs.
+#母袋鼠把幼仔放在腹部的育儿袋里。
+
+marshal: 英[ˈmɑːʃ(ə)l] 美[ˈmɑːrʃ(ə)l]
+$n. （英国）陆军元帅，空军元帅；司仪，典礼官；（尤指体育赛事的）总指挥；（美国法院的）执行官；一些美国城市的）警察局长，消防局长；（英国）巡回法官随员
+%v. 结集，安排；控制，组织；整理（思路、想法等）；（车辆）编组；引导（飞机在机场地面移动）；合并（盾徽）；成形，有序
+    The book fails to marshal facts into a coherent argument.
+#这本书没能将事实整理成连贯的论据。
+
+relic: 英[ˈrelɪk] 美[ˈrelɪk]
+%n. 遗物，遗迹，遗风；圣物，圣骨；（事物存在或发生的）证据，痕记；残留物，废墟（relics）
+    During the dig, the archeological team found some relics from the Stone Age.
+#在发掘中，考古队发现了石器时代的一些遗物。
+
+ignorant: 英[ˈɪɡnərənt] 美[ˈɪɡnərənt]
+%adj. 无知的，（对某事物）不了解的；<非正式>无礼的，粗鲁的；暴躁的，易怒的
+    Many teenagers are surprisingly ignorant about current politics.
+#许多青少年对时事政治表现出惊人的无知。
+
+overflow: 英[ˌəʊvəˈfləʊ] 美[ˌoʊvərˈfloʊ]
+$v. 漫出，泛滥 ；充满，挤满；装满，完全盖住；扩展出界，过度延伸；洋溢着（情感）
+%n. 溢出，溢出的液体；容纳不下的人（或物）；溢流管（=overflow pipe）；（计算机）数据过载
+    The bathtub is overflowing. To stop the water, someone has to change the water tap.
+#浴缸里的水在往外溢，要止住水就得找人换水龙头。
+
+glisten: 英[ˈɡlɪs(ə)n] 美[ˈɡlɪs(ə)n]
+$vi. 闪光，闪亮
+%n. 闪光，闪耀
+    The road glistened wet after the rain.
+#雨后的道路润泽闪亮。
+
+advent: 英[ˈædvent] 美[ˈædvent]
+%n. 出现，到来，问世；基督降临节（Advent）；基督降临，基督复临（Advent）
+    People are much better informed since the advent of television.
+#自从出现了电视，人们的消息灵通多了。
+
+versatile: 英[ˈvɜːsətaɪl] 美[ˈvɜːrsət(ə)l]
+%adj. 多才多艺的，有多种技能的；多用途的，多功能的
+    It is a versatile garment that can be worn in all seasons.
+#这是一种多功能衣服，任何季节都能穿
+
+mechanism: 英[ˈmekənɪzəm] 美[ˈmekənɪzəm]
+%n. 机械装置，机件；途径，方法；（生物体内的）机制，构造；机械论；（产生自然现象等的）物理过程
+    An automobile engine is a complex mechanism.
+#汽车发动机是复杂的机械装置。
+
+stun: 英[stʌn] 美[stʌn]
+$v. 使震惊，使惊讶；使昏迷，（尤指）打昏；给（某人）以深刻印象，使深深感动
+%n. 昏迷；打昏；惊倒
+    The man's sudden appearance at the party 10 years after running away from home stunned everybody.
+#那人离家出走十年之后突然出现在聚会上，这使每个人都大为震惊。
+
+suspicion: 英[səˈspɪʃ(ə)n] 美[səˈspɪʃ(ə)n]
+$n. 不好的预感，猜想；（对某人有罪、不诚实等的）怀疑；不信任，猜疑；少量，一点
+%v. <方> 怀疑
+    The behavior of the stranger aroused our suspicion.
+#这名陌生人的行为引起了我们的怀疑。
+
+overthrow: 英[ˌəʊvəˈθrəʊ] 美[ˌoʊvərˈθroʊ]
+$v. 推翻，打倒；背弃，摒弃（规则、观念或社会制度）；投（球）过猛，投球超过（接手或目标）
+%n. 推翻，打倒；投球过远，投球过猛；（因对方投球过远而得的）分；（拱门、门廊上方的）铁艺装饰板
+    Their purpose was to overthrow that government.
+#他们的目的就是推翻该政府。
+
+omelet(te): 英[ˈɒmlət] 美[ˈɑːmlət]
+%n. 煎蛋卷；炒鸡蛋；鸡蛋烧
+    I'd like a mushroom omelette for lunch.
+#我午饭想吃蘑菇煎蛋饼。
+
+fuss: 英[fʌs] 美[fʌs]
+$n. 大惊小怪，紧张不安；（为小事）大发牢骚；反对，抗议；繁琐的手续，麻烦
+%v. 大惊小怪，瞎忙活；过分体贴（fuss over）；使烦恼，烦扰
+    You shouldn't make all that fuss about so simple a matter.
+#这么简单的事，你不该那么大惊小怪。
+
+vile: 英[vaɪl] 美[vaɪl]
+$adj. 卑鄙的；邪恶的；低廉的；肮脏的
+%n. （Vile）人名；（英）瓦伊尔；（芬）维莱
+    We had a terrible holiday -- the hotel was vile, the food was vile and the weather was vile.
+#我们的假期糟透了——旅馆不舒服，食物不好吃，天气不如人意。
+
+impoverish: 英[ɪmˈpɒvərɪʃ] 美[ɪmˈpɑːvərɪʃ]
+%v. 使贫困，使赤贫；使（力量、活力或肥力）枯竭
+    Lack of fertilizer impoverished the soil.
+#缺少化肥使土壤贫瘠。
+
+incur: 英[ɪnˈkɜː(r)] 美[ɪnˈkɜːr]
+%v. 带来（成本、花费等）；招致，遭受
+    The play has incurred the anger of both audiences and critics.
+#这出戏同时使观众和批评家气愤。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

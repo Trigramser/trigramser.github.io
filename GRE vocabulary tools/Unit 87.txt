@@ -1,0 +1,825 @@
+<<<<<<< HEAD
+folksy: 英[ˈfəʊksi] 美[ˈfoʊksi]
+%adj. 有民间风味的；和气的；无拘束的
+    affect a folksy style
+#装作一副友好的样子
+    a folksy chat
+#随便的闲谈
+    a folksy long skirt
+#有民间特色的长裙
+    The film evokes a folksy America of apple pies and friendly neighbors.
+#电影表现了富有民俗风味的美国，有苹果馅饼，有友好的邻居。
+
+mirth: 英[mɜːθ] 美[mɜːrθ]
+%n. 欢笑；欢乐；高兴
+    a sudden outburst of mirth
+#突然爆发的一阵欢笑
+    His jokes caused great mirth among his companions.
+#他说的笑话引得同伴们哈哈大笑。
+
+exult: 英[ɪɡˈzʌlt] 美[ɪɡˈzʌlt]
+%vi. 狂喜，欢欣鼓舞；非常高兴
+    exult over winning first prize
+#为取得第一名而欢欣鼓舞
+    exult over a defeated rival
+#因击败对手而得意非凡
+    They exulted in/over/at their victory.
+#他们为胜利而欢欣鼓舞。
+
+relapse: 英[rɪˈlæps; ˈriːlæps] 美[rɪˈlæps]
+$v. （病）复发，重新恶化；返回，退回原状，故态复萌
+%n. 旧病复发，恶化；故态复萌，回复原状
+    relapse into moody silence
+#又陷人郁郁寡欢的沉默之中
+    relapse into old bad habits
+#又染上旧有的恶习
+    relapse into a life of crime
+#又干起犯罪勾当
+    suffer a relapse of heart ailment
+#心脏病复发
+    She was looking quite healthy on Friday, but she suffered a relapse over the weekend.
+#她星期五看上去很健康，但周末却旧病复发。
+
+ruffle: 英[ˈrʌf(ə)l] 美[ˈrʌf(ə)l]
+$v. （用手指）将头发弄乱；（鸟发怒或炫耀）竖起羽毛；（使）起伏不平；（使某人）变得不平静；给……打褶裥；自大
+%n. 皱褶饰边；生气；混乱；连续轻擂的鼓声；起伏
+    ruffle up the bed
+#弄皱床铺
+    ruffle the surface of the lake
+#（风）吹皱湖面
+    ruffle (up) its feather in alarm
+#（鸟）惊得竖起羽毛
+    ruffle the pages of the notebook
+#急速翻动笔记本
+    His intrusion ruffled her placid mind.
+#他的闯人扰乱了她平静的心境。
+
+leniency: 英[ˈliːniənsi] 美[ˈliːniənsi]
+%n. 仁慈，宽大；宽大（或温和）的行为
+    The defending lawyer asked for leniency on the grounds of her elderly parents.
+#辩护律师要求在考虑她年迈的父母的基础上给予宽大处理。
+
+explicable: 英[ɪkˈsplɪkəb(ə)l] 美[ɪkˈsplɪkəb(ə)l]
+%adj. 可解释的，可说明的
+    Under the circumstances, what he said was quite explicable.
+#在这种情况下，他的话是可以理解的。
+
+showy: 英[ˈʃəʊi] 美[ˈʃoʊi]
+%adj. 显眼的，艳丽的；昂贵但俗气的
+    a showy bracelet and earrings
+#珠光宝气的手镯和耳环
+    like to do vulgar and showy things
+#喜欢做粗俗的出风头的事
+    Her dress was too showy for such a formal occasion.
+#在如此正式的场合，她的服饰过于俗艳了。
+
+strew: 英[struː] 美[struː]
+%vt. 散播；撒满
+    strew seeds in the garden
+#在园子里播种
+    a path strewn with sand
+#洒满沙子的小路
+    strewn with difficulties
+#布满了困难
+    strew rumors
+#散布谣言
+    The local residents complained that the park was strewn with litter after the concert.
+#当地居民抱怨音乐会后的公园里到处散落着垃圾。
+
+collate: 英[kəˈleɪt] 美[kəˈleɪt]
+%vt. 核对，校对；校勘
+    She collated the new edition with an earlier edition.
+#她对着旧版本校对新版本
+
+quirk: 英[kwɜːk] 美[kwɜːrk]
+$n. 怪癖， 怪异的性格（或行为）；（偶然发生的）怪事，奇事；急转，急弯；（建筑）狭凹槽，深槽；<美>借口
+%v. （人的嘴巴或眉毛）突然翘起，扭曲
+    a quirk in the road
+#路上的急转弯
+    a quirk of fate
+#命运的捉弄
+    by a quirk of history
+#出于历史的偶然性
+    by some strange quirk
+#说来奇怪
+    You have to get used to others' quirks and foibles.
+#你得习惯别人的怪癖及缺点。
+
+impregnable: 英[ɪmˈpreɡnəb(ə)l] 美[ɪmˈpreɡnəb(ə)l]
+%adj. （要塞）坚固的，无法攻取的；不受影响的，难以改变的；可受孕的，可生育的
+    an impregnable bulwark
+#坚不可摧的堡垒
+    an impregnable belief
+#坚定不移的信念
+    impregnable self-confidence
+#不可动摇的自信
+    an impregnable argument
+#驳不倒的论点
+    Three championship titles in one year has put this top-class golfer in an impregnable position.
+#一年中的三个冠军头衔使这个顶级高尔夫选手立于不败之地。
+
+begrudge: 英[bɪˈɡrʌdʒ] 美[bɪˈɡrʌdʒ]
+%vt. 羡慕，嫉妒；吝惜，舍不得给
+    They begrudge paying so much money for a second-rate service.
+#花这么多钱，却得到二流的服务，他们十分不快。
+
+full-blown: 英[ˌfʊl ˈbləʊn] 美[ˌfʊl ˈbloʊn]
+%adj. 成熟的；（花）盛开的；（帆等）张满的
+    full-blown roses
+#盛开的玫瑰
+    a full-blown national fad
+#全国盛行的风尚
+    a full-blown investigation
+#全面细致的调查
+
+truant: 英[ˈtruːənt] 美[ˈtruːənt]
+$n. 旷课者，逃学者；逃避责任者
+$adj. 旷课的，逃学的；懒惰的，闲散的
+%v. 旷课，逃学；偷懒，逃避责任
+    play truant
+#逃学
+    play truant from work
+#逃避工作
+    You'll fail all your exams if you carry on truanting.
+#如果你继续旷课，你所有的考试都将通不过。
+
+granule: 英[ˈɡrænjuːl] 美[ˈɡrænjuːl]
+%n. 颗粒
+    a granule of sugar
+#一小粒糖
+    instant coffee granules
+#速溶咖啡小颗粒
+
+sliver: 英[ˈslɪvə(r)] 美[ˈslɪvər]
+$n. 裂片，碎片；少量，一点；梳条，纱条
+%v. （使）成为碎片；使（纺织纤维）成条子（或梳条）
+    a sliver of cake
+#一小块蛋糕
+    a sliver of the new moon
+#一弯新月
+    a sliver of soap
+#一片肥皂
+    sliver the glass
+#把玻璃砸碎
+    She found a sliver of glass where she dropped the bowl the night before.
+#她在前一晚将碗跌落的地方找到一块玻璃碎片。
+
+manure: 英[məˈnjʊə(r)] 美[məˈnʊr]
+$n. 肥料，粪肥
+%v. 给……施肥
+    organic and inorganic manure
+#有机肥和无机肥
+    Primroses need to be grown in rich damp soil with plenty of manure.
+#迎春花需要种植在富有肥料的湿土壤中。
+
+suckle: 英[ˈsʌk(ə)l] 美[ˈsʌk(ə)l]
+$vt. 给……哺乳；吮吸；养育
+%vi. 吃奶
+    suckle a baby
+#给婴儿喂奶
+    be suckled on the English poetry
+#受英国诗歌的哺育
+    She watched the cow suckling her calves.
+#她看着母牛给小牛喂奶。
+
+cajole: 英[kəˈdʒəʊl] 美[kəˈdʒoʊl]
+%vt. 以甜言蜜语哄骗；勾引
+    cajole sb. out of sth.
+#骗得某人的某物
+    He could neither be cajoled nor terrified from his avowal of truth.
+#他发誓说出真相，既不受诱惑，也不怕恐吓。
+
+coy: 英[kɔɪ] 美[kɔɪ]
+$adj. 腼腆的；忸怩作态的；怕羞的
+$vi. 忸怩作态
+$vt. 爱抚
+%n. （Coy）人名；（法）库瓦；（英、德、西）科伊
+    a coy maiden
+#娇羞的少女
+    reply in a coy, boyish voice
+#用一种忸怩稚嫩的声音回答
+    He called for a change of leadership but remained coy about his own intentions.
+#他要求改换领导人，但对自己的企图却含糊其词。
+
+stuffy: 英[ˈstʌfi] 美[ˈstʌfi]
+%adj. （房间或建筑物）闷的，通风不顺畅的；古板的，保守的；（鼻子）不通的，堵塞的
+    a stuffy room
+#闷热的房间
+    a stuffy press conference
+#沉闷乏味的记者招待会
+    a stuffy attic
+#空气浑浊的阁楼
+    I felt oppressed by the stuffy atmosphere in that household.
+#那个家庭的沉闷气氛使我感到室息。
+
+aversion: 英[əˈvɜːʃ(ə)n] 美[əˈvɜːrʒn]
+%n. 厌恶，憎恶；讨厌的人（或东西）
+    have an aversion to/for the war
+#对战争感到厌恶
+    take an aversion to sb.
+#开始讨厌某人
+    an aversion from goodness
+#弃善从恶
+    I felt an instant aversion to her father.
+#我立即对她的父亲产生反感。
+
+villainous: 英[ˈvɪlənəs] 美[ˈvɪlənəs]
+%adj. 罪恶的；恶棍的；恶毒的；坏透的
+    the villainous foe
+#凶恶的敌人
+    a villainous act
+#恶行
+    villainous weather
+#恶劣的天气
+    a villainous storm
+#凶猛的风暴
+    She was deceived by the villainous man.
+#她被那个恶如蛇竭的男人欺骗了。
+
+detonation: 英[ˌdetəˈneɪʃn] 美[ˌdetəˈneɪʃ(ə)n]
+%n. 爆炸；爆炸声；引爆，爆发；（内燃机的）爆燃，爆鸣
+    The bomb was prepared so that detonation was delayed 10 hours.
+#炸弹的设置使引爆延迟了10个小时。
+
+inveterate: 英[ɪnˈvetərət] 美[ɪnˈvetərət]
+%adj. 根深的；积习的；成癖的
+    one's inveterate wishes
+#夙愿
+    an inveterate smoker
+#烟瘾很大的人
+    an inveterate conservative
+#顽固不化的保守派
+    feel inveterate against sb.
+#对某人怀有很深的偏见
+    In international politics, inveterate enemies can become allies almost overnight
+#在国际政治中，宿敌几乎可以在一夜之间化为盟友。
+
+wry: 英[raɪ] 美[raɪ]
+$adj. 歪斜的，扭歪的；歪曲的；用反语表达幽默的；揶揄的
+$vt. 扭曲；扭歪
+%vi. 扭曲；扭歪
+    a wry shadow
+#歪斜的影子
+    a wry view
+#错误的观点
+    a wry joke
+#笑话
+    He was a kindly man with a wry sense of humor.
+#他是个和蔼的人，并带有一种冷嘲似的幽默感。
+
+parry: 英[ˈpæri] 美[ˈpæri]
+$v. 挡开；回避
+$n. 挡开；搪塞
+%n. （Parry）（威尔士）帕里（人名）
+    parry an embarrassing question
+#对一个令人难堪的问题避而不答
+    Predicably the president parried inquiries about the arms scandal.
+#可以预知，总统避而不答有关武器丑闻的种种询问。
+
+rind: 英[raɪnd] 美[raɪnd]
+$n. 壳；外皮
+$vt. 剥壳；削皮
+%n. （Rind）人名；（英、德、巴基）林德；（法）兰
+    watermelon rind
+#西瓜皮
+    rind of cheese
+#干酪外皮
+    The atmosphere is the earth's invisible rind.
+#大气是地球的无形表层。
+
+logistics: 英[ləˈdʒɪstɪks] 美[ləˈdʒɪstɪks]
+%n. 后勤，组织工作；物流
+    The resulting improvements in airline operating logistics might even bring airfares down.
+#航空公司后勤管理所带来的改进甚至有可能导致机票价格下降。
+
+astrology: 英[əˈstrɒlədʒi] 美[əˈstrɑːlədʒi]
+%n. 占星术；占星学；星座
+    This discovery seems to validate the claims of popular astrology.
+#这个发现似乎能印证流行占星术的一些说法。
+
+unaffected: 英[ˌʌnəˈfektɪd] 美[ˌʌnəˈfektɪd]
+%adj. 不受影响的；自然的；真挚的；不矫揉造作的
+    unaffected manners
+#率真的态度
+    For someone who has spent thirty years in show business she remains remarkably unaffected.
+#作为在娱乐业摸爬滚打30年的人，她保持着惊人的纯真。
+
+remission: 英[rɪˈmɪʃ(ə)n] 美[rɪˈmɪʃ(ə)n]
+%n. 缓解；宽恕；豁免
+    the remission of sins
+#赦罪
+    the remission of a fever
+#热度的减退
+    work for hours without remission
+#停歇连续工作几个小时
+    There are remissions and other concessions for prisoners' good conduct.
+#对因犯可以因其表现良好施以赦免和其他宽待。
+
+evict: 英[ɪˈvɪkt] 美[ɪˈvɪkt]
+%v. 驱逐，逐出
+    be evicted from the house for not paying the tent
+#因不付房租而被赶出屋子
+    He was evicted from the pub for drunken and violent behavior.
+#他因喝醉了酒且行为粗暴而被逐出酒吧。
+
+tumult: 英[ˈtjuːmʌlt] 美[ˈtuːmʌlt]
+%n. 骚动；骚乱；吵闹；激动
+    a time of tumult
+#动荡不安的时代
+    an immense mass tumult
+#大规模群众骚动
+    set one's mind in a tumult
+#使某人心烦意乱
+    From every direction people were running and shouting and falling over each other in a tumult of confusion.
+#在一片混乱中，人们到处乱跑，大喊大叫，互相撞倒。
+
+enfeeble: 英[ɪnˈfiːb(ə)l] 美[ɪnˈfiːb(ə)l]
+%vt. 使衰弱；使无力
+    Critics have argued that cuts in spending have enfeebled the country's defences.
+#批评家们认为减少开支削弱了国防力量。
+
+sanity: 英[ˈsænəti] 美[ˈsænəti]
+%n. 精神健全，精神正常；明智，通情达理
+    retain/keep/preserve one's sanity
+#保持清醒
+    He's been behaving so strangely that they began to doubt his sanity.
+#他举止乘戾，他们开始怀疑他精神是否健全。
+
+moribund: 英[ˈmɒrɪbʌnd] 美[ˈmɔːrɪbʌnd]
+$adj. 垂死的；停滞不前的
+%n. 垂死的人
+    a moribund patient
+#生命垂危的病人
+    moribund industries
+#凋敝的各行各业
+    The city center is usually moribund in the evening, so they encourage more cafes and bars to open there.
+#市中心人夜后常常没有人气，所以他们鼓励更多的咖啡店和酒吧在那里开业。
+
+howler: 英[ˈhaʊlə(r)] 美[ˈhaʊlər]
+%n. 大声叫喊者；嚎叫的人或动物；滑稽可笑的错误
+    I made an awful howler the first time I operated the machine.
+#我第一次操作那台机器时就犯了一个可怕的愚蠢错误。
+
+monsoon: 英[ˌmɒnˈsuːn] 美[ˌmɑːnˈsuːn]
+%n. 季风；（印度等地的）雨季；季候风
+    The failure of the monsoon would destroy harvests on which they rely.
+#雨季的雨量不足会破坏他们所依靠的收成。
+
+callow: 英[ˈkæləʊ] 美[ˈkæloʊ]
+$adj. 年轻而无经验的；羽毛未丰的；不成熟的
+%n. （Callow）（美、英、加、澳）卡洛（人名）
+    a callow young man
+#乳臭未干的小伙子
+    callow optimism
+#天真幼稚的乐观主义
+    Mark was just a callow boy of sixteen when he arrived in London.
+#马克到达伦敦时，只是个没经验的16岁少年。
+
+frolic: 英[ˈfrɒlɪk] 美[ˈfrɑːlɪk]
+$v. 嬉戏；调情
+$n. 嬉戏，嬉闹；调情
+%adj. 欢乐的，嬉戏的
+    have a frolic on the lawn
+#在草地上嬉戏
+    frolic in the garden
+#在花园里快乐地嬉戏
+    We walked down to the sea where a group of suntanned children were frolicking on the beach.
+#我们走到海边，那里一群晒得黑黑的小孩在海滩上嬉闹。
+
+tarry: 英[ˈtæri] 美[ˈtæri]
+$vi. 等候；逗留；耽搁
+$vt. 等待
+$n. 逗留
+$adj. 涂了焦油的
+%n. （Tarry）人名；（英）塔里
+    tarry long in town
+#在城里停留久
+    tarry at home
+#待在家中
+    tarry one's return
+#等某人归来
+    We can't tarry if we are to be there on time.
+#如果我们要准时到达那里，就不能耽搁了。
+
+croak: 英[krəʊk] 美[kroʊk]
+$vi. 呱呱地叫；发牢骚；死
+$vt. 用嘶哑的声音说；死亡
+%n. 呱呱叫声；低沉沙哑的说话声
+    a weak croak
+#微弱的沙哑声
+    I could hear frogs croaking in the pond.
+#我能听见池塘里青蛙呱呱的叫声。
+
+=======
+folksy: 英[ˈfəʊksi] 美[ˈfoʊksi]
+%adj. 有民间风味的；和气的；无拘束的
+    affect a folksy style
+#装作一副友好的样子
+    a folksy chat
+#随便的闲谈
+    a folksy long skirt
+#有民间特色的长裙
+    The film evokes a folksy America of apple pies and friendly neighbors.
+#电影表现了富有民俗风味的美国，有苹果馅饼，有友好的邻居。
+
+mirth: 英[mɜːθ] 美[mɜːrθ]
+%n. 欢笑；欢乐；高兴
+    a sudden outburst of mirth
+#突然爆发的一阵欢笑
+    His jokes caused great mirth among his companions.
+#他说的笑话引得同伴们哈哈大笑。
+
+exult: 英[ɪɡˈzʌlt] 美[ɪɡˈzʌlt]
+%vi. 狂喜，欢欣鼓舞；非常高兴
+    exult over winning first prize
+#为取得第一名而欢欣鼓舞
+    exult over a defeated rival
+#因击败对手而得意非凡
+    They exulted in/over/at their victory.
+#他们为胜利而欢欣鼓舞。
+
+relapse: 英[rɪˈlæps; ˈriːlæps] 美[rɪˈlæps]
+$v. （病）复发，重新恶化；返回，退回原状，故态复萌
+%n. 旧病复发，恶化；故态复萌，回复原状
+    relapse into moody silence
+#又陷人郁郁寡欢的沉默之中
+    relapse into old bad habits
+#又染上旧有的恶习
+    relapse into a life of crime
+#又干起犯罪勾当
+    suffer a relapse of heart ailment
+#心脏病复发
+    She was looking quite healthy on Friday, but she suffered a relapse over the weekend.
+#她星期五看上去很健康，但周末却旧病复发。
+
+ruffle: 英[ˈrʌf(ə)l] 美[ˈrʌf(ə)l]
+$v. （用手指）将头发弄乱；（鸟发怒或炫耀）竖起羽毛；（使）起伏不平；（使某人）变得不平静；给……打褶裥；自大
+%n. 皱褶饰边；生气；混乱；连续轻擂的鼓声；起伏
+    ruffle up the bed
+#弄皱床铺
+    ruffle the surface of the lake
+#（风）吹皱湖面
+    ruffle (up) its feather in alarm
+#（鸟）惊得竖起羽毛
+    ruffle the pages of the notebook
+#急速翻动笔记本
+    His intrusion ruffled her placid mind.
+#他的闯人扰乱了她平静的心境。
+
+leniency: 英[ˈliːniənsi] 美[ˈliːniənsi]
+%n. 仁慈，宽大；宽大（或温和）的行为
+    The defending lawyer asked for leniency on the grounds of her elderly parents.
+#辩护律师要求在考虑她年迈的父母的基础上给予宽大处理。
+
+explicable: 英[ɪkˈsplɪkəb(ə)l] 美[ɪkˈsplɪkəb(ə)l]
+%adj. 可解释的，可说明的
+    Under the circumstances, what he said was quite explicable.
+#在这种情况下，他的话是可以理解的。
+
+showy: 英[ˈʃəʊi] 美[ˈʃoʊi]
+%adj. 显眼的，艳丽的；昂贵但俗气的
+    a showy bracelet and earrings
+#珠光宝气的手镯和耳环
+    like to do vulgar and showy things
+#喜欢做粗俗的出风头的事
+    Her dress was too showy for such a formal occasion.
+#在如此正式的场合，她的服饰过于俗艳了。
+
+strew: 英[struː] 美[struː]
+%vt. 散播；撒满
+    strew seeds in the garden
+#在园子里播种
+    a path strewn with sand
+#洒满沙子的小路
+    strewn with difficulties
+#布满了困难
+    strew rumors
+#散布谣言
+    The local residents complained that the park was strewn with litter after the concert.
+#当地居民抱怨音乐会后的公园里到处散落着垃圾。
+
+collate: 英[kəˈleɪt] 美[kəˈleɪt]
+%vt. 核对，校对；校勘
+    She collated the new edition with an earlier edition.
+#她对着旧版本校对新版本
+
+quirk: 英[kwɜːk] 美[kwɜːrk]
+$n. 怪癖， 怪异的性格（或行为）；（偶然发生的）怪事，奇事；急转，急弯；（建筑）狭凹槽，深槽；<美>借口
+%v. （人的嘴巴或眉毛）突然翘起，扭曲
+    a quirk in the road
+#路上的急转弯
+    a quirk of fate
+#命运的捉弄
+    by a quirk of history
+#出于历史的偶然性
+    by some strange quirk
+#说来奇怪
+    You have to get used to others' quirks and foibles.
+#你得习惯别人的怪癖及缺点。
+
+impregnable: 英[ɪmˈpreɡnəb(ə)l] 美[ɪmˈpreɡnəb(ə)l]
+%adj. （要塞）坚固的，无法攻取的；不受影响的，难以改变的；可受孕的，可生育的
+    an impregnable bulwark
+#坚不可摧的堡垒
+    an impregnable belief
+#坚定不移的信念
+    impregnable self-confidence
+#不可动摇的自信
+    an impregnable argument
+#驳不倒的论点
+    Three championship titles in one year has put this top-class golfer in an impregnable position.
+#一年中的三个冠军头衔使这个顶级高尔夫选手立于不败之地。
+
+begrudge: 英[bɪˈɡrʌdʒ] 美[bɪˈɡrʌdʒ]
+%vt. 羡慕，嫉妒；吝惜，舍不得给
+    They begrudge paying so much money for a second-rate service.
+#花这么多钱，却得到二流的服务，他们十分不快。
+
+full-blown: 英[ˌfʊl ˈbləʊn] 美[ˌfʊl ˈbloʊn]
+%adj. 成熟的；（花）盛开的；（帆等）张满的
+    full-blown roses
+#盛开的玫瑰
+    a full-blown national fad
+#全国盛行的风尚
+    a full-blown investigation
+#全面细致的调查
+
+truant: 英[ˈtruːənt] 美[ˈtruːənt]
+$n. 旷课者，逃学者；逃避责任者
+$adj. 旷课的，逃学的；懒惰的，闲散的
+%v. 旷课，逃学；偷懒，逃避责任
+    play truant
+#逃学
+    play truant from work
+#逃避工作
+    You'll fail all your exams if you carry on truanting.
+#如果你继续旷课，你所有的考试都将通不过。
+
+granule: 英[ˈɡrænjuːl] 美[ˈɡrænjuːl]
+%n. 颗粒
+    a granule of sugar
+#一小粒糖
+    instant coffee granules
+#速溶咖啡小颗粒
+
+sliver: 英[ˈslɪvə(r)] 美[ˈslɪvər]
+$n. 裂片，碎片；少量，一点；梳条，纱条
+%v. （使）成为碎片；使（纺织纤维）成条子（或梳条）
+    a sliver of cake
+#一小块蛋糕
+    a sliver of the new moon
+#一弯新月
+    a sliver of soap
+#一片肥皂
+    sliver the glass
+#把玻璃砸碎
+    She found a sliver of glass where she dropped the bowl the night before.
+#她在前一晚将碗跌落的地方找到一块玻璃碎片。
+
+manure: 英[məˈnjʊə(r)] 美[məˈnʊr]
+$n. 肥料，粪肥
+%v. 给……施肥
+    organic and inorganic manure
+#有机肥和无机肥
+    Primroses need to be grown in rich damp soil with plenty of manure.
+#迎春花需要种植在富有肥料的湿土壤中。
+
+suckle: 英[ˈsʌk(ə)l] 美[ˈsʌk(ə)l]
+$vt. 给……哺乳；吮吸；养育
+%vi. 吃奶
+    suckle a baby
+#给婴儿喂奶
+    be suckled on the English poetry
+#受英国诗歌的哺育
+    She watched the cow suckling her calves.
+#她看着母牛给小牛喂奶。
+
+cajole: 英[kəˈdʒəʊl] 美[kəˈdʒoʊl]
+%vt. 以甜言蜜语哄骗；勾引
+    cajole sb. out of sth.
+#骗得某人的某物
+    He could neither be cajoled nor terrified from his avowal of truth.
+#他发誓说出真相，既不受诱惑，也不怕恐吓。
+
+coy: 英[kɔɪ] 美[kɔɪ]
+$adj. 腼腆的；忸怩作态的；怕羞的
+$vi. 忸怩作态
+$vt. 爱抚
+%n. （Coy）人名；（法）库瓦；（英、德、西）科伊
+    a coy maiden
+#娇羞的少女
+    reply in a coy, boyish voice
+#用一种忸怩稚嫩的声音回答
+    He called for a change of leadership but remained coy about his own intentions.
+#他要求改换领导人，但对自己的企图却含糊其词。
+
+stuffy: 英[ˈstʌfi] 美[ˈstʌfi]
+%adj. （房间或建筑物）闷的，通风不顺畅的；古板的，保守的；（鼻子）不通的，堵塞的
+    a stuffy room
+#闷热的房间
+    a stuffy press conference
+#沉闷乏味的记者招待会
+    a stuffy attic
+#空气浑浊的阁楼
+    I felt oppressed by the stuffy atmosphere in that household.
+#那个家庭的沉闷气氛使我感到室息。
+
+aversion: 英[əˈvɜːʃ(ə)n] 美[əˈvɜːrʒn]
+%n. 厌恶，憎恶；讨厌的人（或东西）
+    have an aversion to/for the war
+#对战争感到厌恶
+    take an aversion to sb.
+#开始讨厌某人
+    an aversion from goodness
+#弃善从恶
+    I felt an instant aversion to her father.
+#我立即对她的父亲产生反感。
+
+villainous: 英[ˈvɪlənəs] 美[ˈvɪlənəs]
+%adj. 罪恶的；恶棍的；恶毒的；坏透的
+    the villainous foe
+#凶恶的敌人
+    a villainous act
+#恶行
+    villainous weather
+#恶劣的天气
+    a villainous storm
+#凶猛的风暴
+    She was deceived by the villainous man.
+#她被那个恶如蛇竭的男人欺骗了。
+
+detonation: 英[ˌdetəˈneɪʃn] 美[ˌdetəˈneɪʃ(ə)n]
+%n. 爆炸；爆炸声；引爆，爆发；（内燃机的）爆燃，爆鸣
+    The bomb was prepared so that detonation was delayed 10 hours.
+#炸弹的设置使引爆延迟了10个小时。
+
+inveterate: 英[ɪnˈvetərət] 美[ɪnˈvetərət]
+%adj. 根深的；积习的；成癖的
+    one's inveterate wishes
+#夙愿
+    an inveterate smoker
+#烟瘾很大的人
+    an inveterate conservative
+#顽固不化的保守派
+    feel inveterate against sb.
+#对某人怀有很深的偏见
+    In international politics, inveterate enemies can become allies almost overnight
+#在国际政治中，宿敌几乎可以在一夜之间化为盟友。
+
+wry: 英[raɪ] 美[raɪ]
+$adj. 歪斜的，扭歪的；歪曲的；用反语表达幽默的；揶揄的
+$vt. 扭曲；扭歪
+%vi. 扭曲；扭歪
+    a wry shadow
+#歪斜的影子
+    a wry view
+#错误的观点
+    a wry joke
+#笑话
+    He was a kindly man with a wry sense of humor.
+#他是个和蔼的人，并带有一种冷嘲似的幽默感。
+
+parry: 英[ˈpæri] 美[ˈpæri]
+$v. 挡开；回避
+$n. 挡开；搪塞
+%n. （Parry）（威尔士）帕里（人名）
+    parry an embarrassing question
+#对一个令人难堪的问题避而不答
+    Predicably the president parried inquiries about the arms scandal.
+#可以预知，总统避而不答有关武器丑闻的种种询问。
+
+rind: 英[raɪnd] 美[raɪnd]
+$n. 壳；外皮
+$vt. 剥壳；削皮
+%n. （Rind）人名；（英、德、巴基）林德；（法）兰
+    watermelon rind
+#西瓜皮
+    rind of cheese
+#干酪外皮
+    The atmosphere is the earth's invisible rind.
+#大气是地球的无形表层。
+
+logistics: 英[ləˈdʒɪstɪks] 美[ləˈdʒɪstɪks]
+%n. 后勤，组织工作；物流
+    The resulting improvements in airline operating logistics might even bring airfares down.
+#航空公司后勤管理所带来的改进甚至有可能导致机票价格下降。
+
+astrology: 英[əˈstrɒlədʒi] 美[əˈstrɑːlədʒi]
+%n. 占星术；占星学；星座
+    This discovery seems to validate the claims of popular astrology.
+#这个发现似乎能印证流行占星术的一些说法。
+
+unaffected: 英[ˌʌnəˈfektɪd] 美[ˌʌnəˈfektɪd]
+%adj. 不受影响的；自然的；真挚的；不矫揉造作的
+    unaffected manners
+#率真的态度
+    For someone who has spent thirty years in show business she remains remarkably unaffected.
+#作为在娱乐业摸爬滚打30年的人，她保持着惊人的纯真。
+
+remission: 英[rɪˈmɪʃ(ə)n] 美[rɪˈmɪʃ(ə)n]
+%n. 缓解；宽恕；豁免
+    the remission of sins
+#赦罪
+    the remission of a fever
+#热度的减退
+    work for hours without remission
+#停歇连续工作几个小时
+    There are remissions and other concessions for prisoners' good conduct.
+#对因犯可以因其表现良好施以赦免和其他宽待。
+
+evict: 英[ɪˈvɪkt] 美[ɪˈvɪkt]
+%v. 驱逐，逐出
+    be evicted from the house for not paying the tent
+#因不付房租而被赶出屋子
+    He was evicted from the pub for drunken and violent behavior.
+#他因喝醉了酒且行为粗暴而被逐出酒吧。
+
+tumult: 英[ˈtjuːmʌlt] 美[ˈtuːmʌlt]
+%n. 骚动；骚乱；吵闹；激动
+    a time of tumult
+#动荡不安的时代
+    an immense mass tumult
+#大规模群众骚动
+    set one's mind in a tumult
+#使某人心烦意乱
+    From every direction people were running and shouting and falling over each other in a tumult of confusion.
+#在一片混乱中，人们到处乱跑，大喊大叫，互相撞倒。
+
+enfeeble: 英[ɪnˈfiːb(ə)l] 美[ɪnˈfiːb(ə)l]
+%vt. 使衰弱；使无力
+    Critics have argued that cuts in spending have enfeebled the country's defences.
+#批评家们认为减少开支削弱了国防力量。
+
+sanity: 英[ˈsænəti] 美[ˈsænəti]
+%n. 精神健全，精神正常；明智，通情达理
+    retain/keep/preserve one's sanity
+#保持清醒
+    He's been behaving so strangely that they began to doubt his sanity.
+#他举止乘戾，他们开始怀疑他精神是否健全。
+
+moribund: 英[ˈmɒrɪbʌnd] 美[ˈmɔːrɪbʌnd]
+$adj. 垂死的；停滞不前的
+%n. 垂死的人
+    a moribund patient
+#生命垂危的病人
+    moribund industries
+#凋敝的各行各业
+    The city center is usually moribund in the evening, so they encourage more cafes and bars to open there.
+#市中心人夜后常常没有人气，所以他们鼓励更多的咖啡店和酒吧在那里开业。
+
+howler: 英[ˈhaʊlə(r)] 美[ˈhaʊlər]
+%n. 大声叫喊者；嚎叫的人或动物；滑稽可笑的错误
+    I made an awful howler the first time I operated the machine.
+#我第一次操作那台机器时就犯了一个可怕的愚蠢错误。
+
+monsoon: 英[ˌmɒnˈsuːn] 美[ˌmɑːnˈsuːn]
+%n. 季风；（印度等地的）雨季；季候风
+    The failure of the monsoon would destroy harvests on which they rely.
+#雨季的雨量不足会破坏他们所依靠的收成。
+
+callow: 英[ˈkæləʊ] 美[ˈkæloʊ]
+$adj. 年轻而无经验的；羽毛未丰的；不成熟的
+%n. （Callow）（美、英、加、澳）卡洛（人名）
+    a callow young man
+#乳臭未干的小伙子
+    callow optimism
+#天真幼稚的乐观主义
+    Mark was just a callow boy of sixteen when he arrived in London.
+#马克到达伦敦时，只是个没经验的16岁少年。
+
+frolic: 英[ˈfrɒlɪk] 美[ˈfrɑːlɪk]
+$v. 嬉戏；调情
+$n. 嬉戏，嬉闹；调情
+%adj. 欢乐的，嬉戏的
+    have a frolic on the lawn
+#在草地上嬉戏
+    frolic in the garden
+#在花园里快乐地嬉戏
+    We walked down to the sea where a group of suntanned children were frolicking on the beach.
+#我们走到海边，那里一群晒得黑黑的小孩在海滩上嬉闹。
+
+tarry: 英[ˈtæri] 美[ˈtæri]
+$vi. 等候；逗留；耽搁
+$vt. 等待
+$n. 逗留
+$adj. 涂了焦油的
+%n. （Tarry）人名；（英）塔里
+    tarry long in town
+#在城里停留久
+    tarry at home
+#待在家中
+    tarry one's return
+#等某人归来
+    We can't tarry if we are to be there on time.
+#如果我们要准时到达那里，就不能耽搁了。
+
+croak: 英[krəʊk] 美[kroʊk]
+$vi. 呱呱地叫；发牢骚；死
+$vt. 用嘶哑的声音说；死亡
+%n. 呱呱叫声；低沉沙哑的说话声
+    a weak croak
+#微弱的沙哑声
+    I could hear frogs croaking in the pond.
+#我能听见池塘里青蛙呱呱的叫声。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

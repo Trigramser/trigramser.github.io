@@ -1,0 +1,673 @@
+<<<<<<< HEAD
+intercept: 英[ˌɪntəˈsept] 美[ˌɪntərˈsept]
+$v. 拦截，阻截；抄截（对方的传球）；截断，中止（光等电磁辐射）；（线，面）截取，截断（部分面积、线、面）
+%n. 拦截，截获；（数）截点，截距
+    I managed to intercept him at the front door, giving Jane time to leave by the back door.
+#我设法在前门截住他，以便简有时间从后门离开。
+
+confer: 英[kənˈfɜː(r)] 美[kənˈfɜːr]
+%v. 授予，赋予；商讨，交换意见
+    The directors are still conferring on the expansion of the company.
+#董事们仍在商议有关公司扩张的问题。
+
+tragedy: 英[ˈtrædʒədi] 美[ˈtrædʒədi]
+%n. 悲惨事件，惨剧；悲剧（作品）；不幸，遗憾；令人非常烦乱（或生气）的情形
+    Hamlet is one of Shakespeare's most known tragedies.
+#《哈姆雷特》是莎士比亚最著名的悲剧之一。
+
+veto: 英[ˈviːtəʊ] 美[ˈviːtoʊ]
+$n. 否决权；拒绝认可，禁止
+%v. 否决，禁止；拒不接受，反对
+    The president's veto kept the bill from becoming a law.
+#由于总统行使了否决权，这项提案未能成为法律。
+
+whistle: 英[ˈwɪs(ə)l] 美[ˈwɪs(ə)l]
+$n. 哨子；口哨声；哨子声；（火车、船或工厂等地的）汽笛，警笛；汽笛声，警笛声；呼啸声；小竖笛；（鸟的）啭鸣声；<英>一套衣服，一手同花色牌
+%v. 吹口哨，用口哨吹奏（曲调）；（向某人）吹口哨（以唤起注意或表示爱憎）；吹哨示意；鸣响；（鸟）啭鸣；迅速移动，呼啸而过；得不到，空指望
+    The referee whistled the end of the game.
+#裁判吹口哨宣布比赛结束。
+
+pedal: 英[ˈped(ə)l] 美[ˈped(ə)l]
+$n. （自行车、汽车或机器的）脚踏板；(钢琴、风琴等的)踏板；（乐）PEDAL NOTE的简称
+$v. 骑自行车前进；踩（自行车等的）踏板；（尤指以某种特别方式）踩动钢琴踏板
+%adj. 踏板的，脚踏的；脚的，关于脚的
+    My legs are aching from pedaling too fast.
+#我的两条腿由于骑自行车蹬得太快而酸痛。
+
+jog: 英[dʒɒɡ] 美[dʒɑːɡ]
+$v. 慢跑；轻推，轻撞；（多指缓慢地）颠簸着行进；（上下）颠动；使颠簸
+%n. 慢跑锻炼；轻推；平稳的慢速
+    I haven't done much exercise all week, so I think I'll go for a jog this morning.
+#我一星期没怎么锻炼，所以今天早上想去慢跑。
+
+humor: 英[ˈhjuːmə(r)] 美[ˈhjuːmər]
+$n. 幽默，诙谐；心情
+%vt. 迎合，迁就；顺应
+    Philip is in a rather bad mood today, you'd better humor him.
+#菲利普今天心情很糟，你最好迁就他。
+
+immortal: 英[ɪˈmɔːt(ə)l] 美[ɪˈmɔːrt(ə)l]
+$adj. 不死的，永存的；不朽的，流芳百世的，永垂千古的
+%n. 神，永生不灭者；永垂不朽的人物；法国科学院院士（Immortal）；<史>古波斯皇家护卫（Immortals）
+    The priest warned him he was endangering his immortal soul.
+#牧师警告他，说他正在危及自己不朽的灵魂。
+
+impact: 英[ˈɪmpækt] 美[ˈɪmpækt]
+$n. 撞击，冲击力；巨大影响，强大作用
+%v. 冲击，撞击；挤入，压紧；（对……）产生影响
+    They say they expect the meeting to have a marked impact on the future of the country.
+#他们说期望这次会议对国家的未来产生显著的影响。
+
+expound: 英[ɪkˈspaʊnd] 美[ɪkˈspaʊnd]
+%v. 详解，阐述；解释（文学作品，教义作品）的意思
+    He expounded for some hours on his theories about the international trade.
+#他用了几个小时阐明了他对国际贸易的看法。
+
+slippery: 英[ˈslɪpəri] 美[ˈslɪpəri]
+%adj. 湿滑的，容易打滑的；<非正式>狡猾的，不可靠的；模棱两可的，模糊的
+    Her mother is worried about her daughter's boyfriend, who has a slippery brother.
+#她妈妈为女儿的男朋友担心，因为他有一个狡猾的兄弟。
+
+tackle: 英[ˈtæk(ə)l] 美[ˈtæk(ə)l]
+$v. 应付，解决（难题或局面）；与……交涉；（足球、曲棍球等比赛中）抢断；（橄榄球等比赛中）擒抱并摔倒（对方球员）；擒获；对付，打（尤指罪犯）；质问，责问；反对，反抗
+%n. （足球等中的）抢断球；（橄榄球或美式足球）擒抱摔倒；（美式足球中的）阻截队员；体育器械，（尤指）渔具；（吊起重物用的）索具，滑轮；<英，俚>男性性器官
+    That problem can be left for him to tackle.
+#那个难题可以留给他解决。
+
+abuse: 英[əˈbjuːs] 美[əˈbjuːs]
+$v. 虐待；滥用，辜负；辱骂；糟蹋（某物）；性侵犯
+%n. 虐待，凌辱；滥用，妄用；辱骂；舞弊，腐败；糟蹋；性侵犯；恶习，陋习
+    Alcohol abuse contributed to his early death.
+#酒精的滥用造成了他的早亡。
+
+feat: 英[fiːt] 美[fiːt]
+$n. 功绩，壮举；武艺，技艺
+%adj. 合适的，灵巧的
+    The construction of this bridge was a brilliant feat of engineering.
+#这座桥的建造是一项了不起的工程壮举。
+
+bait: 英[beɪt] 美[beɪt]
+$n. 用作诱饵的人（或物）；饵，诱饵
+%v. 放诱饵；激怒，故意惹恼；纵犬袭击（动物）
+    The shop used free gifts as a bait to attract customers.
+#商店用赠品作诱饵吸引顾客
+
+hue: 英[hjuː] 美[hjuː]
+%n. 颜色，色调，色度；种类，派别；叫声（hue and cry）
+    The diamond shone with every hue under the sun.
+#钻石在阳光下显得色彩斑斓。
+
+crucial: 英[ˈkruːʃ(ə)l] 美[ˈkruːʃ(ə)l]
+%adj. 至关重要的，决定性的；<非正式>极好的
+    His evidence proved crucial to the legal case.
+#的证据对这一案件至关重要。
+
+reputation: 英[ˌrepjuˈteɪʃ(ə)n] 美[ˌrepjuˈteɪʃ(ə)n]
+%n. 名誉，名声
+    She made a reputation for herself as an expert.
+#为自己赢得了专家的美名。
+
+divine: 英[dɪˈvaɪn] 美[dɪˈvaɪn]
+$adj. 神的，天赐的；绝妙的，极令人愉快的
+$v. （凭直觉）猜测，推测；占卜，预测；（通过探矿术）发现（水源）
+%n. <旧>牧师，神学家；天意，上帝（the Divine）
+    She spoke in such a confused way that it was almost impossible to divine what she wanted to tell me.
+#她说话含含糊糊，我基本不能推测她到底想告诉我什么。
+
+elevate: 英[ˈelɪveɪt] 美[ˈelɪveɪt]
+%v. 提拔，提升；抬起，提起；提高，增加；使情绪高昂，使兴高采烈
+    Reading good books can elevate your mind.
+#读好书可以提升你的思想境界。
+
+rumble: 英[ˈrʌmb(ə)l] 美[ˈrʌmb(ə)l]
+$v. 发出隆隆声；轰鸣着缓慢行进；（肚子因饥饿而）咕噜作响；低沉地说；（争论）有节制地持续，低调地持续（rumble on）；<英，非正式>看穿（违法活动或进行违法活动者）；<美，非正式>打群架
+%n. 持续而低沉的声音，隆隆声；<美，非正式>打群架
+    We could hear the rumble of distant thunder.
+#我们能够听到远处的隆隆雷声。
+
+wield: 英[wiːld] 美[wiːld]
+%v. 挥，操，使用（武器、工具等）；运用（权力），施加（影响）
+    You should wield greater power in determining.
+#在做决定时，你应该行使更大的权力。
+
+fake: 英[feɪk] 美[feɪk]
+$adj. 伪造的，冒充的；（动作或感情）虚假的，做作的
+$n. 假货，贋品；骗子，冒充者；假动作；（绳索、水龙带等的）一圈（=flake）
+%v. 伪造，冒充；假装，佯装；（尤指体育运动中）做假动作；不懂装懂，不会装会；盘卷（=flake）
+    He admitted to faking famous paintings and selling them around the world.
+#他承认自己伪造名画在世界各地出售。
+
+cutlery: 英[ˈkʌtləri] 美[ˈkʌtləri]
+%n. 餐具（刀、叉和匙）；刀具
+    She bought a set of cutlery.
+#她买了一套餐具。
+
+jurisdiction: 英[ˌdʒʊərɪsˈdɪkʃn] 美[ˌdʒʊrɪsˈdɪkʃ(ə)n]
+%n. 司法权，审判权；管辖权；管辖区域，管辖范围
+    The court has no jurisdiction over cases of this kind.
+#这个法庭无权审理这类案件。
+
+toss: 英[tɒs] 美[tɔːs]
+$v. （轻轻地或随意地）扔，抛，掷；向后甩（头发或身体部位）；（使）摇摆，挥动，颠簸；（在液体中）搅拌（食物），拌匀；（为……）掷硬币决定，掷币猜边儿；<英>把（煎饼）颠起翻面；<美，非正式>除掉，抛弃；（马）摔下（骑手）；<美，非正式>搜（某地）
+%n. 掷硬币决定；（轻轻的或随意的）扔，抛，掷；向上甩头，猛仰头；（尤指比赛或游戏中）投掷；<英>根本不在乎
+    He tossed and turned all night, fearing that his son would get involved in the case.
+#他整夜翻来覆去睡不着，担心儿子会卷入这个案子中。
+
+tear: 英[teə(r)] 美[ter]
+$v. 撕碎，撕裂；撕破，划破；撕掉，扯掉；拉伤，撕裂（肌肉或韧带）；狂奔，疾驰；（眼睛）流眼泪；深受……之苦的，饱经……摧残的；（尤指选择或做决定）使折磨，使无法抉择
+%n. 泪水；哭泣（tears）；裂口，破洞
+    A couple of pages were tore out of the book.
+#本书有几页被人撕掉了。
+
+erupt: 英[ɪˈrʌpt] 美[ɪˈrʌpt]
+%v. 喷发；爆发，突然发生；（感情）迸发；（斑疹等）突然冒出；长牙
+    The volcano in the island erupted in 1908 after two hundred years of silence.
+#这个岛上的火山沉寂了200年后在1908年爆发了。
+
+dignity: 英[ˈdɪɡnəti] 美[ˈdɪɡnəti]
+%n. 尊严，自尊；庄严，端庄，庄重；尊贵，高贵，高尚；高位，显职
+    The whole dignity of man lies in his character.
+#人的所有尊严体现在他的品格上。
+
+salmon: 英[ˈsæmən] 美[ˈsæmən]
+$n. 鲑鱼，三文鱼，大麻哈鱼；鲑鱼肉，三文鱼肉；鲑肉粉红色，浅橙色；类似鲑的鱼，尤指澳鲑，石首鱼
+%adj. 浅橙色的
+    He caught two large salmon in the river.
+#他在河里捕到两条大鲑鱼。
+
+drip: 英[drɪp] 美[drɪp]
+$v. 滴下，滴出；含有，充满
+%n. 水滴，滴液；滴水声，滴落；（医用）滴注器；笨蛋，懦夫，平庸乏味者
+    The only sound was the drip of melting snow.
+#唯一的响声就是积雪融化的滴水声。
+
+agreeable: 英[əˈɡriːəb(ə)l] 美[əˈɡriːəb(ə)l]
+%adj. 愉悦的，讨人喜欢的；欣然同意的；可接受的
+    The helpful flight attendants made our flight very agreeable.
+#乐于助人的航班乘务员使我们的飞行非常愉快。
+
+habitat: 英[ˈhæbɪtæt] 美[ˈhæbɪtæt]
+%n. （动植物的）生活环境，栖息地
+    The polar bear's habitat is the icy waters of the Arctic.
+#北极熊的栖息地是冰冷的北极海域。
+
+illustrate: 英[ˈɪləstreɪt] 美[ˈɪləstreɪt]
+%v. 加插图于；说明，阐明；证明，证实
+    Nothing illustrate his courage and wisdom more clearly than his action at the critical moment.
+#没有什么比他在危急关头的行为更能说明他的勇敢和智慧了。
+
+creep: 英[kriːp] 美[kriːp]
+$v. 爬行，匍匐；蹑手蹑脚地移动；不知不觉地到来，渐渐出现；蔓生，蔓延；谄媚奉承，巴结；（由于恐惧、厌恶等）起鸡皮疙瘩
+%n. 讨厌的人，献媚者；（树篱或墙壁上供动物通过的）墙洞；给幼畜断奶时吃的固体食物；爬行，缓慢行进；<非正式>毛骨悚然的感觉，战栗
+    A lonely feeling crept over me.
+#一种孤独感悄悄地爬上我的心头。
+
+horizontal: 英[ˌhɒrɪˈzɒnt(ə)l] 美[ˌhɔːrɪˈzɑːnt(ə)l]
+$adj. 水平的；（公司）同一层次的；统一的，一致的；地平线的，在地平线上的
+%n. 水平位置；水平线，水平面
+    She drew a horizontal line across the bottom of the page.
+#她在此页的底部画了一条水平线，
+
+brag: 英[bræɡ] 美[bræɡ]
+$v. 吹牛，自夸
+$n. 大话，夸耀之词；勃莱格牌戏（简化的扑克牌戏）
+%adj. <美，非正式>卓越的，一流的
+    He bragged that he had never been beaten.
+#他吹嘘说他从未被打败过。
+
+skim: 英[skɪm] 美[skɪm]
+$v. （从液体表面）撇去（浮物）；掠过，擦过（表面）；<英>用（扁石）打水漂；略读，浏览；略微讨论（或处理）（skim over）；<非正式>（尤指一段时间内）挪用（小数额钱）；盗用（信用卡电子信息）
+$n. 液面上的表层物；浏览；脱脂品（尤指脱脂奶）
+%adj. 脱脂的；撇去浮沫的
+    The birds skimmed over/across the tops of the waves, then dipped beneath them to catch fish.
+#鸟儿掠过浪尖，接着扎入水中捉鱼。
+
+smuggle: 英[ˈsmʌɡ(ə)l] 美[ˈsmʌɡ(ə)l]
+%v. 走私，偷运；偷偷携带，夹带
+    They were caught on the spot smuggling cultural relics abroad.
+#他们在偷运文物出国时当场被捕。
+
+pester: 英[ˈpestə(r)] 美[ˈpestər]
+$vt. 纠缠，烦扰；使烦恼
+%n. （Pester）人名；（德）佩斯特
+    Her children are always pestering her to buy them sweets.
+#她的孩子总是缠着她给他们买糖吃。
+
+consensus: 英[kənˈsensəs] 美[kənˈsensəs]
+%n. 一致看法，共识
+    The project was vetoed by the consensus of expert opinions.
+#专家们一致否决了该项工程。
+
+unilateral: 英[ˌjuːnɪˈlætrəl] 美[ˌjuːnəˈlætərəl]
+%adj. 单方的，单边的；单侧的，单面的；（父母）单系的；舌边音
+    The rebels declared a unilateral ceasefire from the beginning of the year.
+#反叛者宣布单方面从年初开始停火。
+
+startle: 英[ˈstɑːt(ə)l] 美[ˈstɑːrt(ə)l]
+$v. 使吓一跳，使惊奇
+%n. 惊愕，惊恐
+    I was concentrating on my book when a phone bell startled me up.
+#我正在专心看书，突然电话铃响了，吓了我一大跳。
+
+inherit: 英[ɪnˈherɪt] 美[ɪnˈherɪt]
+%v. 继承（遗产）；经遗传获得（品质、身体特征等）；接手，承担；接收（前所有者的事物）；<古>（尤作圣经翻译和典故用语）得到
+    She inherited all her mother's beauty.
+#她继承了她母亲的全部美貌。
+
+motto: 英[ˈmɒtəʊ] 美[ˈmɑːtoʊ]
+%n. 座右铭，格言，警句；格言主题
+    His family motto is "God helps those who help themselves."
+#他家族的座右铭是 “自助者天助”。
+
+havoc: 英[ˈhævək] 美[ˈhævək]
+$n. 灾难，混乱
+%v. 严重破坏；<旧>严重破坏
+    A scene of havoc met their eyes when they opened the door.
+#他们打开门时，混乱的景象映人他们的眼帘。
+
+rotate: 英[rəʊˈteɪt] 美[ˈroʊteɪt]
+$v. （使）旋转，（使）转动；（人员）轮换，轮值；轮种，轮作；定期调换地点（或位置）
+%adj. （植） 辐状的
+    The satellite slowly rotates as it circles the earth.
+#卫星绕地球缓慢地旋转。
+
+moan: 英[məʊn] 美[moʊn]
+$v. 呻吟，呜咽；<非正式>抱怨，发牢骚；（风）发出萧萧声； <文>悲叹，哀悼
+%n. <文>（尤指风的）呼啸声，萧萧声；呻吟声，呜咽声；<非正式>不满，牢骚
+    Following the moans, we discovered an old man lying under a tree, his legs bleeding.
+#顺着呻吟声，我们发现一个老人躺在树下，他的腿在流血。
+
+obedient: 英[əˈbiːdiənt] 美[əˈbiːdiənt]
+%adj. 服从的，顺从的
+    We sat down at the table, obedient to the host's words.
+#我们遵从主人的话在桌子旁坐了下来。
+
+coup: 英[kuː] 美[kuː]
+$n. 政变；成功之举，妙计；突然的一击，漂亮的一击；主球径自入袋；（北美印第安人中）触碰敌人（以示勇气），抢先触碰敌人的物品（以示占有）
+%v. 使……颠倒，使……倾斜
+    Getting the contract was quite a coup.
+#把合同争取到手是难得的成就。
+
+stiff: 英[stɪf] 美[stɪf]
+$adj. （肌肉或关节）酸痛的，僵硬的；不易弯曲的，硬的；艰难的，严厉的；无礼的，生硬的；（酒）烈性的；稠的，难搅拌的；难移动的，不顺滑的；昂贵的；（风）强劲的，猛烈的；过于正式的
+$n. <俚>死尸；<美，非正式>……的人；<非正式>无趣的人，令人讨厌的人；<英>（体育俱乐部的）后备队，候补队 (the stiffs)
+$v. <美，非正式>诈骗，不还钱，（尤指）不给小费；<非正式>（新产品、电影、节目等）不畅销，彻底失败；<美，非正式>冷落，怠慢；<非正式>杀害某人
+%adv. 非常，彻底地
+    The athlete was given a stiff punishment for cheating.
+#这名运动员因作弊而受到了严厉处罚。
+
+remainder: 英[rɪˈmeɪndə(r)] 美[rɪˈmeɪndər]
+$n. 剩余部分，其余；廉价出售的书，滞销图书；差数，余数；<法律>有待继承产权，指定继承产权
+$v. 削价出售（剩书）
+%adj. <罕>剩余的，残余的
+    It rained the first day but the remainder of the trip was lovely.
+#旅行的第一天下雨，但后来几天天气很好。
+
+fumble: 英[ˈfʌmb(ə)l] 美[ˈfʌmb(ə)l]
+$v. 笨手笨脚地做，胡乱摸找；笨嘴拙舌地说，支支吾吾地说；接球失误，漏球，掉球
+%n. 笨拙的手部动作，乱摸；失球，漏接球；笨拙的处理；<非正式>（为达到性快乐而进行的）抚弄
+    She fumbled about in her handbag, looking for her key.
+#她在手提包里摸着找钥匙。
+
+clench: 英[klentʃ] 美[klentʃ]
+$v. 攥紧（拳头等），咬紧（牙齿等）；紧握，紧咬
+%n. （身体部位的）紧缩，紧绷
+    Sam clenched the toy car tightly in his hands, and wouldn't give it to his brother.
+#萨姆把玩具车紧紧抓在手里，不肯给他的兄弟。
+
+gravel: 英[ˈɡræv(ə)l] 美[ˈɡræv(ə)l]
+$n. 碎石，砂砾；（用于铺路及用作三合土的）砂砾；砂砾层；（医）尿砂
+%v. 用砂砾铺（地）；<美，非正式>使气恼，搅扰；<古>使困惑
+    A gravel path ran through the forest.
+#一条砂砾小路穿过森林
+
+weird: 英[wɪəd] 美[wɪrd]
+$adj. 奇怪的，不寻常的；怪异的，超自然的
+$n. 命运；预言者
+%v. <美，非正式>使心生疑惑，使感到疏远
+    It's a weird old house full of cracks.
+#这是一个神秘而古怪的老宅，到处都是裂缝。
+
+confiscate: 英[ˈkɒnfɪskeɪt] 美[ˈkɑːnfɪskeɪt]
+$v. 没收，查抄（某人的财产）；充公，罚没（某物，尤指土地）
+%adj. 被没收的
+    Her passport was confiscated by the police in attempt to prevent her from the country.
+#警察设收了她的护照以阻止她出境。
+
+=======
+intercept: 英[ˌɪntəˈsept] 美[ˌɪntərˈsept]
+$v. 拦截，阻截；抄截（对方的传球）；截断，中止（光等电磁辐射）；（线，面）截取，截断（部分面积、线、面）
+%n. 拦截，截获；（数）截点，截距
+    I managed to intercept him at the front door, giving Jane time to leave by the back door.
+#我设法在前门截住他，以便简有时间从后门离开。
+
+confer: 英[kənˈfɜː(r)] 美[kənˈfɜːr]
+%v. 授予，赋予；商讨，交换意见
+    The directors are still conferring on the expansion of the company.
+#董事们仍在商议有关公司扩张的问题。
+
+tragedy: 英[ˈtrædʒədi] 美[ˈtrædʒədi]
+%n. 悲惨事件，惨剧；悲剧（作品）；不幸，遗憾；令人非常烦乱（或生气）的情形
+    Hamlet is one of Shakespeare's most known tragedies.
+#《哈姆雷特》是莎士比亚最著名的悲剧之一。
+
+veto: 英[ˈviːtəʊ] 美[ˈviːtoʊ]
+$n. 否决权；拒绝认可，禁止
+%v. 否决，禁止；拒不接受，反对
+    The president's veto kept the bill from becoming a law.
+#由于总统行使了否决权，这项提案未能成为法律。
+
+whistle: 英[ˈwɪs(ə)l] 美[ˈwɪs(ə)l]
+$n. 哨子；口哨声；哨子声；（火车、船或工厂等地的）汽笛，警笛；汽笛声，警笛声；呼啸声；小竖笛；（鸟的）啭鸣声；<英>一套衣服，一手同花色牌
+%v. 吹口哨，用口哨吹奏（曲调）；（向某人）吹口哨（以唤起注意或表示爱憎）；吹哨示意；鸣响；（鸟）啭鸣；迅速移动，呼啸而过；得不到，空指望
+    The referee whistled the end of the game.
+#裁判吹口哨宣布比赛结束。
+
+pedal: 英[ˈped(ə)l] 美[ˈped(ə)l]
+$n. （自行车、汽车或机器的）脚踏板；(钢琴、风琴等的)踏板；（乐）PEDAL NOTE的简称
+$v. 骑自行车前进；踩（自行车等的）踏板；（尤指以某种特别方式）踩动钢琴踏板
+%adj. 踏板的，脚踏的；脚的，关于脚的
+    My legs are aching from pedaling too fast.
+#我的两条腿由于骑自行车蹬得太快而酸痛。
+
+jog: 英[dʒɒɡ] 美[dʒɑːɡ]
+$v. 慢跑；轻推，轻撞；（多指缓慢地）颠簸着行进；（上下）颠动；使颠簸
+%n. 慢跑锻炼；轻推；平稳的慢速
+    I haven't done much exercise all week, so I think I'll go for a jog this morning.
+#我一星期没怎么锻炼，所以今天早上想去慢跑。
+
+humor: 英[ˈhjuːmə(r)] 美[ˈhjuːmər]
+$n. 幽默，诙谐；心情
+%vt. 迎合，迁就；顺应
+    Philip is in a rather bad mood today, you'd better humor him.
+#菲利普今天心情很糟，你最好迁就他。
+
+immortal: 英[ɪˈmɔːt(ə)l] 美[ɪˈmɔːrt(ə)l]
+$adj. 不死的，永存的；不朽的，流芳百世的，永垂千古的
+%n. 神，永生不灭者；永垂不朽的人物；法国科学院院士（Immortal）；<史>古波斯皇家护卫（Immortals）
+    The priest warned him he was endangering his immortal soul.
+#牧师警告他，说他正在危及自己不朽的灵魂。
+
+impact: 英[ˈɪmpækt] 美[ˈɪmpækt]
+$n. 撞击，冲击力；巨大影响，强大作用
+%v. 冲击，撞击；挤入，压紧；（对……）产生影响
+    They say they expect the meeting to have a marked impact on the future of the country.
+#他们说期望这次会议对国家的未来产生显著的影响。
+
+expound: 英[ɪkˈspaʊnd] 美[ɪkˈspaʊnd]
+%v. 详解，阐述；解释（文学作品，教义作品）的意思
+    He expounded for some hours on his theories about the international trade.
+#他用了几个小时阐明了他对国际贸易的看法。
+
+slippery: 英[ˈslɪpəri] 美[ˈslɪpəri]
+%adj. 湿滑的，容易打滑的；<非正式>狡猾的，不可靠的；模棱两可的，模糊的
+    Her mother is worried about her daughter's boyfriend, who has a slippery brother.
+#她妈妈为女儿的男朋友担心，因为他有一个狡猾的兄弟。
+
+tackle: 英[ˈtæk(ə)l] 美[ˈtæk(ə)l]
+$v. 应付，解决（难题或局面）；与……交涉；（足球、曲棍球等比赛中）抢断；（橄榄球等比赛中）擒抱并摔倒（对方球员）；擒获；对付，打（尤指罪犯）；质问，责问；反对，反抗
+%n. （足球等中的）抢断球；（橄榄球或美式足球）擒抱摔倒；（美式足球中的）阻截队员；体育器械，（尤指）渔具；（吊起重物用的）索具，滑轮；<英，俚>男性性器官
+    That problem can be left for him to tackle.
+#那个难题可以留给他解决。
+
+abuse: 英[əˈbjuːs] 美[əˈbjuːs]
+$v. 虐待；滥用，辜负；辱骂；糟蹋（某物）；性侵犯
+%n. 虐待，凌辱；滥用，妄用；辱骂；舞弊，腐败；糟蹋；性侵犯；恶习，陋习
+    Alcohol abuse contributed to his early death.
+#酒精的滥用造成了他的早亡。
+
+feat: 英[fiːt] 美[fiːt]
+$n. 功绩，壮举；武艺，技艺
+%adj. 合适的，灵巧的
+    The construction of this bridge was a brilliant feat of engineering.
+#这座桥的建造是一项了不起的工程壮举。
+
+bait: 英[beɪt] 美[beɪt]
+$n. 用作诱饵的人（或物）；饵，诱饵
+%v. 放诱饵；激怒，故意惹恼；纵犬袭击（动物）
+    The shop used free gifts as a bait to attract customers.
+#商店用赠品作诱饵吸引顾客
+
+hue: 英[hjuː] 美[hjuː]
+%n. 颜色，色调，色度；种类，派别；叫声（hue and cry）
+    The diamond shone with every hue under the sun.
+#钻石在阳光下显得色彩斑斓。
+
+crucial: 英[ˈkruːʃ(ə)l] 美[ˈkruːʃ(ə)l]
+%adj. 至关重要的，决定性的；<非正式>极好的
+    His evidence proved crucial to the legal case.
+#的证据对这一案件至关重要。
+
+reputation: 英[ˌrepjuˈteɪʃ(ə)n] 美[ˌrepjuˈteɪʃ(ə)n]
+%n. 名誉，名声
+    She made a reputation for herself as an expert.
+#为自己赢得了专家的美名。
+
+divine: 英[dɪˈvaɪn] 美[dɪˈvaɪn]
+$adj. 神的，天赐的；绝妙的，极令人愉快的
+$v. （凭直觉）猜测，推测；占卜，预测；（通过探矿术）发现（水源）
+%n. <旧>牧师，神学家；天意，上帝（the Divine）
+    She spoke in such a confused way that it was almost impossible to divine what she wanted to tell me.
+#她说话含含糊糊，我基本不能推测她到底想告诉我什么。
+
+elevate: 英[ˈelɪveɪt] 美[ˈelɪveɪt]
+%v. 提拔，提升；抬起，提起；提高，增加；使情绪高昂，使兴高采烈
+    Reading good books can elevate your mind.
+#读好书可以提升你的思想境界。
+
+rumble: 英[ˈrʌmb(ə)l] 美[ˈrʌmb(ə)l]
+$v. 发出隆隆声；轰鸣着缓慢行进；（肚子因饥饿而）咕噜作响；低沉地说；（争论）有节制地持续，低调地持续（rumble on）；<英，非正式>看穿（违法活动或进行违法活动者）；<美，非正式>打群架
+%n. 持续而低沉的声音，隆隆声；<美，非正式>打群架
+    We could hear the rumble of distant thunder.
+#我们能够听到远处的隆隆雷声。
+
+wield: 英[wiːld] 美[wiːld]
+%v. 挥，操，使用（武器、工具等）；运用（权力），施加（影响）
+    You should wield greater power in determining.
+#在做决定时，你应该行使更大的权力。
+
+fake: 英[feɪk] 美[feɪk]
+$adj. 伪造的，冒充的；（动作或感情）虚假的，做作的
+$n. 假货，贋品；骗子，冒充者；假动作；（绳索、水龙带等的）一圈（=flake）
+%v. 伪造，冒充；假装，佯装；（尤指体育运动中）做假动作；不懂装懂，不会装会；盘卷（=flake）
+    He admitted to faking famous paintings and selling them around the world.
+#他承认自己伪造名画在世界各地出售。
+
+cutlery: 英[ˈkʌtləri] 美[ˈkʌtləri]
+%n. 餐具（刀、叉和匙）；刀具
+    She bought a set of cutlery.
+#她买了一套餐具。
+
+jurisdiction: 英[ˌdʒʊərɪsˈdɪkʃn] 美[ˌdʒʊrɪsˈdɪkʃ(ə)n]
+%n. 司法权，审判权；管辖权；管辖区域，管辖范围
+    The court has no jurisdiction over cases of this kind.
+#这个法庭无权审理这类案件。
+
+toss: 英[tɒs] 美[tɔːs]
+$v. （轻轻地或随意地）扔，抛，掷；向后甩（头发或身体部位）；（使）摇摆，挥动，颠簸；（在液体中）搅拌（食物），拌匀；（为……）掷硬币决定，掷币猜边儿；<英>把（煎饼）颠起翻面；<美，非正式>除掉，抛弃；（马）摔下（骑手）；<美，非正式>搜（某地）
+%n. 掷硬币决定；（轻轻的或随意的）扔，抛，掷；向上甩头，猛仰头；（尤指比赛或游戏中）投掷；<英>根本不在乎
+    He tossed and turned all night, fearing that his son would get involved in the case.
+#他整夜翻来覆去睡不着，担心儿子会卷入这个案子中。
+
+tear: 英[teə(r)] 美[ter]
+$v. 撕碎，撕裂；撕破，划破；撕掉，扯掉；拉伤，撕裂（肌肉或韧带）；狂奔，疾驰；（眼睛）流眼泪；深受……之苦的，饱经……摧残的；（尤指选择或做决定）使折磨，使无法抉择
+%n. 泪水；哭泣（tears）；裂口，破洞
+    A couple of pages were tore out of the book.
+#本书有几页被人撕掉了。
+
+erupt: 英[ɪˈrʌpt] 美[ɪˈrʌpt]
+%v. 喷发；爆发，突然发生；（感情）迸发；（斑疹等）突然冒出；长牙
+    The volcano in the island erupted in 1908 after two hundred years of silence.
+#这个岛上的火山沉寂了200年后在1908年爆发了。
+
+dignity: 英[ˈdɪɡnəti] 美[ˈdɪɡnəti]
+%n. 尊严，自尊；庄严，端庄，庄重；尊贵，高贵，高尚；高位，显职
+    The whole dignity of man lies in his character.
+#人的所有尊严体现在他的品格上。
+
+salmon: 英[ˈsæmən] 美[ˈsæmən]
+$n. 鲑鱼，三文鱼，大麻哈鱼；鲑鱼肉，三文鱼肉；鲑肉粉红色，浅橙色；类似鲑的鱼，尤指澳鲑，石首鱼
+%adj. 浅橙色的
+    He caught two large salmon in the river.
+#他在河里捕到两条大鲑鱼。
+
+drip: 英[drɪp] 美[drɪp]
+$v. 滴下，滴出；含有，充满
+%n. 水滴，滴液；滴水声，滴落；（医用）滴注器；笨蛋，懦夫，平庸乏味者
+    The only sound was the drip of melting snow.
+#唯一的响声就是积雪融化的滴水声。
+
+agreeable: 英[əˈɡriːəb(ə)l] 美[əˈɡriːəb(ə)l]
+%adj. 愉悦的，讨人喜欢的；欣然同意的；可接受的
+    The helpful flight attendants made our flight very agreeable.
+#乐于助人的航班乘务员使我们的飞行非常愉快。
+
+habitat: 英[ˈhæbɪtæt] 美[ˈhæbɪtæt]
+%n. （动植物的）生活环境，栖息地
+    The polar bear's habitat is the icy waters of the Arctic.
+#北极熊的栖息地是冰冷的北极海域。
+
+illustrate: 英[ˈɪləstreɪt] 美[ˈɪləstreɪt]
+%v. 加插图于；说明，阐明；证明，证实
+    Nothing illustrate his courage and wisdom more clearly than his action at the critical moment.
+#没有什么比他在危急关头的行为更能说明他的勇敢和智慧了。
+
+creep: 英[kriːp] 美[kriːp]
+$v. 爬行，匍匐；蹑手蹑脚地移动；不知不觉地到来，渐渐出现；蔓生，蔓延；谄媚奉承，巴结；（由于恐惧、厌恶等）起鸡皮疙瘩
+%n. 讨厌的人，献媚者；（树篱或墙壁上供动物通过的）墙洞；给幼畜断奶时吃的固体食物；爬行，缓慢行进；<非正式>毛骨悚然的感觉，战栗
+    A lonely feeling crept over me.
+#一种孤独感悄悄地爬上我的心头。
+
+horizontal: 英[ˌhɒrɪˈzɒnt(ə)l] 美[ˌhɔːrɪˈzɑːnt(ə)l]
+$adj. 水平的；（公司）同一层次的；统一的，一致的；地平线的，在地平线上的
+%n. 水平位置；水平线，水平面
+    She drew a horizontal line across the bottom of the page.
+#她在此页的底部画了一条水平线，
+
+brag: 英[bræɡ] 美[bræɡ]
+$v. 吹牛，自夸
+$n. 大话，夸耀之词；勃莱格牌戏（简化的扑克牌戏）
+%adj. <美，非正式>卓越的，一流的
+    He bragged that he had never been beaten.
+#他吹嘘说他从未被打败过。
+
+skim: 英[skɪm] 美[skɪm]
+$v. （从液体表面）撇去（浮物）；掠过，擦过（表面）；<英>用（扁石）打水漂；略读，浏览；略微讨论（或处理）（skim over）；<非正式>（尤指一段时间内）挪用（小数额钱）；盗用（信用卡电子信息）
+$n. 液面上的表层物；浏览；脱脂品（尤指脱脂奶）
+%adj. 脱脂的；撇去浮沫的
+    The birds skimmed over/across the tops of the waves, then dipped beneath them to catch fish.
+#鸟儿掠过浪尖，接着扎入水中捉鱼。
+
+smuggle: 英[ˈsmʌɡ(ə)l] 美[ˈsmʌɡ(ə)l]
+%v. 走私，偷运；偷偷携带，夹带
+    They were caught on the spot smuggling cultural relics abroad.
+#他们在偷运文物出国时当场被捕。
+
+pester: 英[ˈpestə(r)] 美[ˈpestər]
+$vt. 纠缠，烦扰；使烦恼
+%n. （Pester）人名；（德）佩斯特
+    Her children are always pestering her to buy them sweets.
+#她的孩子总是缠着她给他们买糖吃。
+
+consensus: 英[kənˈsensəs] 美[kənˈsensəs]
+%n. 一致看法，共识
+    The project was vetoed by the consensus of expert opinions.
+#专家们一致否决了该项工程。
+
+unilateral: 英[ˌjuːnɪˈlætrəl] 美[ˌjuːnəˈlætərəl]
+%adj. 单方的，单边的；单侧的，单面的；（父母）单系的；舌边音
+    The rebels declared a unilateral ceasefire from the beginning of the year.
+#反叛者宣布单方面从年初开始停火。
+
+startle: 英[ˈstɑːt(ə)l] 美[ˈstɑːrt(ə)l]
+$v. 使吓一跳，使惊奇
+%n. 惊愕，惊恐
+    I was concentrating on my book when a phone bell startled me up.
+#我正在专心看书，突然电话铃响了，吓了我一大跳。
+
+inherit: 英[ɪnˈherɪt] 美[ɪnˈherɪt]
+%v. 继承（遗产）；经遗传获得（品质、身体特征等）；接手，承担；接收（前所有者的事物）；<古>（尤作圣经翻译和典故用语）得到
+    She inherited all her mother's beauty.
+#她继承了她母亲的全部美貌。
+
+motto: 英[ˈmɒtəʊ] 美[ˈmɑːtoʊ]
+%n. 座右铭，格言，警句；格言主题
+    His family motto is "God helps those who help themselves."
+#他家族的座右铭是 “自助者天助”。
+
+havoc: 英[ˈhævək] 美[ˈhævək]
+$n. 灾难，混乱
+%v. 严重破坏；<旧>严重破坏
+    A scene of havoc met their eyes when they opened the door.
+#他们打开门时，混乱的景象映人他们的眼帘。
+
+rotate: 英[rəʊˈteɪt] 美[ˈroʊteɪt]
+$v. （使）旋转，（使）转动；（人员）轮换，轮值；轮种，轮作；定期调换地点（或位置）
+%adj. （植） 辐状的
+    The satellite slowly rotates as it circles the earth.
+#卫星绕地球缓慢地旋转。
+
+moan: 英[məʊn] 美[moʊn]
+$v. 呻吟，呜咽；<非正式>抱怨，发牢骚；（风）发出萧萧声； <文>悲叹，哀悼
+%n. <文>（尤指风的）呼啸声，萧萧声；呻吟声，呜咽声；<非正式>不满，牢骚
+    Following the moans, we discovered an old man lying under a tree, his legs bleeding.
+#顺着呻吟声，我们发现一个老人躺在树下，他的腿在流血。
+
+obedient: 英[əˈbiːdiənt] 美[əˈbiːdiənt]
+%adj. 服从的，顺从的
+    We sat down at the table, obedient to the host's words.
+#我们遵从主人的话在桌子旁坐了下来。
+
+coup: 英[kuː] 美[kuː]
+$n. 政变；成功之举，妙计；突然的一击，漂亮的一击；主球径自入袋；（北美印第安人中）触碰敌人（以示勇气），抢先触碰敌人的物品（以示占有）
+%v. 使……颠倒，使……倾斜
+    Getting the contract was quite a coup.
+#把合同争取到手是难得的成就。
+
+stiff: 英[stɪf] 美[stɪf]
+$adj. （肌肉或关节）酸痛的，僵硬的；不易弯曲的，硬的；艰难的，严厉的；无礼的，生硬的；（酒）烈性的；稠的，难搅拌的；难移动的，不顺滑的；昂贵的；（风）强劲的，猛烈的；过于正式的
+$n. <俚>死尸；<美，非正式>……的人；<非正式>无趣的人，令人讨厌的人；<英>（体育俱乐部的）后备队，候补队 (the stiffs)
+$v. <美，非正式>诈骗，不还钱，（尤指）不给小费；<非正式>（新产品、电影、节目等）不畅销，彻底失败；<美，非正式>冷落，怠慢；<非正式>杀害某人
+%adv. 非常，彻底地
+    The athlete was given a stiff punishment for cheating.
+#这名运动员因作弊而受到了严厉处罚。
+
+remainder: 英[rɪˈmeɪndə(r)] 美[rɪˈmeɪndər]
+$n. 剩余部分，其余；廉价出售的书，滞销图书；差数，余数；<法律>有待继承产权，指定继承产权
+$v. 削价出售（剩书）
+%adj. <罕>剩余的，残余的
+    It rained the first day but the remainder of the trip was lovely.
+#旅行的第一天下雨，但后来几天天气很好。
+
+fumble: 英[ˈfʌmb(ə)l] 美[ˈfʌmb(ə)l]
+$v. 笨手笨脚地做，胡乱摸找；笨嘴拙舌地说，支支吾吾地说；接球失误，漏球，掉球
+%n. 笨拙的手部动作，乱摸；失球，漏接球；笨拙的处理；<非正式>（为达到性快乐而进行的）抚弄
+    She fumbled about in her handbag, looking for her key.
+#她在手提包里摸着找钥匙。
+
+clench: 英[klentʃ] 美[klentʃ]
+$v. 攥紧（拳头等），咬紧（牙齿等）；紧握，紧咬
+%n. （身体部位的）紧缩，紧绷
+    Sam clenched the toy car tightly in his hands, and wouldn't give it to his brother.
+#萨姆把玩具车紧紧抓在手里，不肯给他的兄弟。
+
+gravel: 英[ˈɡræv(ə)l] 美[ˈɡræv(ə)l]
+$n. 碎石，砂砾；（用于铺路及用作三合土的）砂砾；砂砾层；（医）尿砂
+%v. 用砂砾铺（地）；<美，非正式>使气恼，搅扰；<古>使困惑
+    A gravel path ran through the forest.
+#一条砂砾小路穿过森林
+
+weird: 英[wɪəd] 美[wɪrd]
+$adj. 奇怪的，不寻常的；怪异的，超自然的
+$n. 命运；预言者
+%v. <美，非正式>使心生疑惑，使感到疏远
+    It's a weird old house full of cracks.
+#这是一个神秘而古怪的老宅，到处都是裂缝。
+
+confiscate: 英[ˈkɒnfɪskeɪt] 美[ˈkɑːnfɪskeɪt]
+$v. 没收，查抄（某人的财产）；充公，罚没（某物，尤指土地）
+%adj. 被没收的
+    Her passport was confiscated by the police in attempt to prevent her from the country.
+#警察设收了她的护照以阻止她出境。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

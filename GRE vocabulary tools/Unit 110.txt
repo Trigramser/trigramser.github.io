@@ -1,0 +1,755 @@
+<<<<<<< HEAD
+down: 英[daʊn] 美[daʊn]
+$adv. 在下方，在低处；由高到低，向下；（坐、躺、放）下；（因破坏性力量倒、垮、塌）下；写在纸上；在南部，向南方；传下去地；（在列表或序列中）处于较低位置，处于次要地位；在较低的位置（或程度、水平、速度等）；减到更小，变得更弱；失利，落后；不能动弹地，不能移动地；朝向……的方向；完全地，彻底地；作为首期款（或定金）；在肚子里；<英>离开学校（或大学）；甚至包含（最细微或最不重要部分）地；只剩下（某人或某物）；打倒；<英>离开首都（或重要城市）；在楼下，住楼下；到，去，在（当地的商店、酒馆等地方）； 已完成数量（或进度）；失去（钱数）；（航海）顺水或顺风；（命令人或动物）坐下（或躺下、趴下）；（登记）在名单上；（电脑系统）（尤指暂时）处于故障状态；<美>（橄榄球）（球或持球队员）成死球；（纵横填字游戏）由上至下地
+$adj. 在低处的，在下方的；向下的；便宜的，低廉的；降低的，低于正常水平的；不活跃的，萧条的；比分落后于对手的；不运转的，出故障的；悲伤的，低落的；已完成的，完结了的；完全掌握的；正式签署（或记录）的；了解的，赞成的 ；（某人数）出局的；<美>（橄榄球）成死球的；患……病的；<非正式>对……不满的； 记在纸上的；在地上的；赶时髦的；（火车）从大的始发站出发的；（物理）（夸克）下的
+$n. 羽绒；绒毛，软毛，汗毛；（美式足球）十码进攻；失败，挫折；<非正式>不快乐，沮丧
+$prep. 向下，朝下；沿着，顺；在……的那一端； 贯穿……时间，遍及……时期；在……的下游，向……的下游
+%v. 使掉落；<非正式>一口气吃下，一口气喝下；<非正式>（尤指在比赛中）打败，击败，战胜；<美>（橄榄球）使成死球
+    a down jacket
+#羽绒衫
+    The highest quality quilts and pillows are made of down.
+#最高级的被子和枕头都是由羽绒制成的。
+
+fleeting: 英[ˈfliːtɪŋ] 美[ˈfliːtɪŋ]
+$adj. 短暂的，飞逝的
+%v. <文>疾驰，飞逝；使（时间）飞快地过去；转瞬即逝（fleet 的过去式和过去分词）
+    a fleeting smile
+#一闪即逝的笑容
+    a fleeting thought
+#闪现的念头
+    We caught a fleeting glimpse of the prince as he drove past.
+#王子驾车经过时我们只是匆匆警了一眼。
+
+apposite: 英[ˈæpəzɪt] 美[ˈæpəzɪt]
+%adj. 适当的；贴切的
+    an apposite image
+#恰如其分的意象
+    suggestions apposite to the case
+#切合实情的建议
+    His use of epigrams is very apposite.
+#他的警句用得恰到好处。
+
+serrate: 英[ˈserɪt] 美[səˈret]
+$adj. （尤指生物）锯齿状的
+$vt. 使……有锯齿；使……成锯齿状
+%n. （Serrate）（西）塞拉特（人名）
+    I bought a knife with a serrate edge for cutting bread.
+#我买了一把切面包的有锯齿的刀。
+
+dilapidated: 英[dɪˈlæpɪdeɪtɪd] 美[dɪˈlæpɪdeɪtɪd]
+$adj. 荒废的，破旧的，要塌似的；受破坏的
+%v. 使荒废（dilapidate 的过去式和过去分词）
+    a dilapidated house
+#倾塌的房屋
+    a dilapidated car
+#破旧的汽车
+    a dilapidated alley
+#陋巷
+    The room had no furniture in it apart from a dilapidated old bed.
+#房间里除了一张破床外，没有别的家具。
+
+narcotic: 英[nɑːˈkɒtɪk] 美[nɑːrˈkɑːtɪk]
+$n. 致幻毒品；麻醉药，镇静剂；起麻醉作用的事物
+%adj. 致幻的；麻醉的，有麻醉作用的；麻醉剂引起的；催眠的；（有关）毒品的
+    a narcotic speech
+#使人昏昏欲睡的演讲
+    a narcotic clinic
+#戒毒诊所
+    The repetition of the same sound produces a narcotic effect.
+#同一种声音的重复具有催眠作用。
+
+emphatic: 英[ɪmˈfætɪk] 美[ɪmˈfætɪk]
+%adj. 强调的，坚决的；明显的；带重音的，重读的
+    an emphatic tone
+#强调的语气
+    the quick emphatic rain of summer
+#夏天急促的骤雨
+    an emphatic personality
+#坚强的个性
+    an emphatic success
+#引人目的成功
+    The minister has issued an emphatic rejection of the accusation.
+#部长针对指责发表了言辞坚定的否认声明。
+
+notoriety: 英[ˌnəʊtəˈraɪəti] 美[ˌnoʊtəˈraɪəti]
+%n. 臭名昭著，声名狼藉
+    The organization has come into public notoriety through the misbehavior of its employees.
+#这个组织由于它的雇员行为不检已在公众中声名狼藉。
+
+imbue: 英[ɪmˈbjuː] 美[ɪmˈbjuː]
+%vt. 灌输；使感染；使渗透
+    a skirt imbued with blood
+#渗透血污的裙子
+    Her work is imbued with the evolutionary spirit.
+#她的作品充满进化精神。
+
+impassioned: 英[ɪmˈpæʃ(ə)nd] 美[ɪmˈpæʃnd]
+$adj. 充满激情的；感激的
+%v. 使充满激情（impassion 的过去式和过去分词）
+    make an impassioned speech
+#做慷慨激昂的演讲
+    an impassioned debate
+#激烈的辩论
+    an impassioned support
+#热烈的支持
+    The relatives of the dead have made an impassioned plea to have the bodies flown back to the country.
+#死者的亲属激烈地恳求将遗体空运回国。
+
+recluse: 英[rɪˈkluːs] 美[ˈrekluːs]
+$n. 隐士；隐居者
+%adj. 隐居的
+    a recluse monk/nun
+#隐居的僧人/修女
+    a barren and recluse region
+#荒凉偏僻的地区
+    She has led the life of a recluse since she retired.
+#她自退休后就过着深居简出的生活。
+
+decry: 英[dɪˈkraɪ] 美[dɪˈkraɪ]
+%vt. 责难，谴责；诽谤
+    She decried the appalling state of the film industry.
+#她强烈批评了电影业的低劣状况。
+
+reparable: 英[ˈrepərəb(ə)l] 美[ˈrepərəb(ə)l]
+%adj. 可修理的，可补救的，可挽回的
+    a reparable loss
+#可补偿的损失
+    a reparable injury
+#可治愈的伤
+    The old watch was not reparable.
+#那块旧表修不好了。
+
+decelerate: 英[ˌdiːˈseləreɪt] 美[ˌdiːˈseləreɪt]
+$vi. 减速，降低速度
+%vt. 使减速
+    decelerate wage and price demands
+#减缓对工资和物价的要求
+    The driver decelerated at the sight of the police car.
+#驾驶员一看到警车就减速了。
+
+inappropriate: 英[ˌɪnəˈprəʊpriət] 美[ˌɪnəˈproʊpriət]
+%adj. 不恰当的，不合适的
+    His casual behavior was wholly inappropriate for such a formal occasion.
+#他随便的举止完全不适合这样一个正式的场合。
+
+exhilarate: 英[ɪɡˈzɪləreɪt] 美[ɪɡˈzɪləreɪt]
+%vt. 使高兴，使振奋；使愉快
+    exhilarate sb. to look forward to the future
+#鼓励某人朝前看
+    The sea breeze exhilarated him.
+#海上的微风使他精神振奋。
+
+ultrasonic: 英[ˌʌltrəˈsɒnɪk] 美[ˌʌltrəˈsɑːnɪk]
+$adj. [声] 超声的；超音速的
+%n. 超声波
+    the ultrasonic testing of metal
+#金属的超声波检测
+    Bats use ultrasonic waves to locate flying insects at night.
+#蝙蝠在晚上利用超声波确定飞行昆虫的位置。
+
+overpowering: 英[ˌəʊvəˈpaʊərɪŋ] 美[ˌoʊvərˈpaʊərɪŋ]
+%adj. 压倒性的；无法抵抗的
+    the overpowering smell of garlic
+#刺鼻的大蒜味
+    overpowering feelings of guilt
+#强烈的负罪感
+    an overpowering personality
+#强悍的个性
+    Firefighters were driven back by the overpowering heat of flames.
+#消防队员被火焰的强烈热浪逼退。
+
+equivocal: 英[ɪˈkwɪvək(ə)l] 美[ɪˈkwɪvək(ə)l]
+%adj. 模棱两可的；可疑的
+    equivocal words
+#歧义词
+    an equivocal outcome
+#未定的结果
+    equivocal conduct
+#可疑的行为
+    His words to the press were deliberately equivocal.
+#他对新闻界说的话故意说得模棱两可。
+
+drone: 英[drəʊn] 美[droʊn]
+$n. 嗡嗡叫，嗡嗡响；雄蜂，公蜂；（遥控的）无人驾驶飞机（或导弹）；<非正式>单调乏味的讲话；（不劳动，依赖他人为生的）寄生虫；伴音（如风笛等发出的持续音），伴音管（或弦等）；干单调工作的人
+%v. 嗡嗡叫，嗡嗡响；（人）絮絮叨叨地说，喋喋不休地说；混日子
+    the constant drone of flies
+#苍蝇不断的嗡嗡声
+    a boring old drone
+#令人讨厌的啰嗦老人
+    The drone of his voice made me feel sleepy.
+#他那低沉单调的嗓音使我昏昏欲睡。
+
+divisive: 英[dɪˈvaɪsɪv] 美[dɪˈvaɪsɪv]
+%adj. 有争议的，造成分裂的
+    a divisive issue
+#招致不和的事件
+    a divisive trade restriction
+#招致不和的贸易限制
+    The government tried to stamp out all divisive elements.
+#政府试图镇压一切分裂分子。
+
+slimy: 英[ˈslaɪmi] 美[ˈslaɪmi]
+%adj. 黏滑的；泥泞的；谄媚的，虚伪的
+    a slimy pond
+#满是黏泥的池塘
+    a slimy politician
+#卑鄙的政客
+    a slimy salesman
+#巴结讨好的推销员
+    I can't stand the slimy feel of seaweed underneath my feet.
+#我无法忍受脚下海藻黏糊糊的感觉。
+
+inoffensive: 英[ˌɪnəˈfensɪv] 美[ˌɪnəˈfensɪv]
+%adj. 不触犯人的；无害的；没恶意的
+    an inoffensive animal
+#不伤人的动物
+    an inoffensive odor
+#不难闻的气味
+    a quiet inoffensive old man
+#安详随和的老人
+    It wasn't decorated as I would have done it but most of the house was inoffensive enough.
+#这房子不是按照我所希望的那样装饰的，但大部分地方并不令人讨厌。
+
+inexorable: 英[ɪnˈeksərəb(ə)l] 美[ɪnˈeksərəb(ə)l]
+%adj. <正式>不可阻止的，难以阻挡的；（人）不为恳求所动的，无动于衷的
+    an inexorable fate
+#不可改变的命运
+    an inexorable trend
+#不可阻挡的趋势
+    inexorable bureaucrats
+#无动于衷的官僚
+    an inexorable opponent
+#无情的对手
+    Ageing can be thought of as a gradual, inexorable slide from summer into autumn and into winter.
+#衰老的过程是不可阻挡的，可以看作从夏天到秋天再到冬天的缓慢衰退。
+
+banter: 英[ˈbæntə(r)] 美[ˈbæntər]
+%n. 无恶意的玩笑
+    exchange banter
+#相互谈笑着
+    banter between husband and wife
+#夫妇之间的戏谑
+    He considered himself a master of witty banter.
+#他自认为是个开玩笑的好手。
+
+unpalatable: 英[ʌnˈpælətəb(ə)l] 美[ʌnˈpælətəb(ə)l]
+%adj. 味道差的，难吃的；讨人厌的，使人不快的
+    unpalatable breakfast
+#难吃的早餐
+    unpalatable advice
+#逆耳的忠言
+    But facts must be faced, unpalatable as they are, and there simply isn't enough work for that number of staff.
+#虽然不中听，但是必须面对事实，现在是人浮于事。
+
+nebulous: 英[ˈnebjələs] 美[ˈnebjələs]
+%adj. 朦胧的；星云的，星云状的
+    nebulous memory
+#模糊的记忆
+    in a nebulous way
+#含糊不清地
+    He has a nebulous idea about what he might like to do in the future but nothing firm.
+#他对将来做什么有些模糊的想法，但没有任何肯定的计划。
+
+hale: 英[heɪl] 美[heɪl]
+$adj. （尤指老人）硬朗的，健壮的
+%v. <古>用力拖（或拉）
+    hale and hearty
+#健壮的
+    She found her grandfather hale and hearty, walking five miles each day before breakfast.
+#她发现祖父很健壮，每天早饭前步行5英里。
+
+renounce: 英[rɪˈnaʊns] 美[rɪˈnaʊns]
+%v. 声明放弃，抛弃；<法律>（尤指继承人或受托人）放弃（权利或地位）；拒绝承认，拒绝遵守；宣布与……断绝关系，宣布摒弃
+    renounce one's citizenship
+#声明放弃国籍
+    renounce one's claim to an inheritance
+#声明放弃对一笔遗产的继承权
+    renounce smoking and drinking
+#戒烟戒酒
+    renounce one's wicked son
+#与孽子脱离关系
+    Her ex-husband renounced his claim to the family house.
+#她的前夫声明放弃房屋的所有权。
+
+reimburse: 英[ˌriːɪmˈbɜːs] 美[ˌriːɪmˈbɜːrs]
+%v. <正式>偿还，付还（钱款）
+    The insurance company reimbursed her for her loss of the fire.
+#保险公司赔偿了她的火灾损失。
+
+populous: 英[ˈpɒpjələs] 美[ˈpɑːpjələs]
+%adj. 人口稠密的
+    populous with tourists
+#挤满了旅游者
+    The most populous areas of the city are now in the suburbs.
+#这个城市现在人口最稠密的地方在郊区。
+
+impertinent: 英[ɪmˈpɜːtɪnənt] 美[ɪmˈpɜːrt(ə)nənt]
+%adj. 不恰当的；无礼的；粗鲁的；不相干的
+    a spoilt impertinent child
+#宠坏了的、没礼貌的孩子
+    be impertinent to one's superiors
+#对上司无礼
+    I hope he didn't think me impertinent when I asked him about his private life.
+#我希望当我询问他的私人生活时，他不认为我是不礼貌的。
+
+whimsical: 英[ˈwɪmzɪk(ə)l] 美[ˈwɪmzɪk(ə)l]
+%adj. 古怪的；异想天开的；反复无常的
+    a whimsical artist
+#满脑子奇想的艺术家
+    a whimsical notion
+#离奇的想法
+    in whimsical moments
+#心血来潮的时刻
+    whimsical moods
+#反复无常的情绪
+    Despite his kindly, sometimes whimsical air, he was a shrewd observer of people.
+#尽管他有着和善、时而古怪的神态，但他对人的观察很敏锐。
+
+cognizant: 英[ˈkɒɡnɪzənt] 美[ˈkɑːɡnɪzənt]
+%adj. 知道的，意识到的，了解的；审理的
+    be fully cognizant of the difficulty
+#充分认识到困难
+    Regrettably, the lawyer said he was not cognizant of the facts.
+#令人遗憾的是，律师说他并不知道这些事实。
+
+dissect: 英[dɪˈsekt] 美[dɪˈsekt]
+%v. 解剖（人或动物的尸体）；剖析，详细评论（某事物）；把（田地）分成小块
+    dissect a poem
+#详细分析一首诗
+    a dissecting table
+#解剖台
+    In biology classes at school we used to dissect rats.
+#过去在学校生物课上，我们经常解剖老鼠。
+
+irascible: 英[ɪˈræsəb(ə)l] 美[ɪˈræsəb(ə)l]
+%adj. 易怒的
+    an irascible old man
+#性情暴躁的老头儿
+    an irascible reply
+#怒气冲冲的回答
+    He's becoming more and more irascible as he grows old.
+#随着年龄的增长，他的性情变得越来越暴躁。
+
+reticent: 英[ˈretɪs(ə)nt] 美[ˈretɪs(ə)nt]
+%adj. 沉默的；有保留的；谨慎的
+    a reticent woman
+#缄默的女人
+    be reticent on money matters
+#对钱财方面的事保持淡然
+    She is very reticent about her past.
+#她非常不愿意说起自己的过去。
+
+venerate: 英[ˈvenəreɪt] 美[ˈvenəreɪt]
+%vt. 崇敬，尊敬
+    Robert Burns is perhaps Scotland's most venerated poet.
+#罗伯特，彭斯可能是苏格兰最受崇敬的诗人。
+
+ethos: 英[ˈiːθɒs] 美[ˈiːθɑːs]
+%n. （某团体的）精神特质，道德意识
+    the ethos of democracy
+#民主的思潮
+    the prevailing social ethos
+#流行的社会风气
+
+flounder: 英[ˈflaʊndə(r)] 美[ˈflaʊndər]
+$v. 不知所措，支吾；困难重重；（在水、泥等中）挣扎，折腾；心乱如麻
+$n. 鲆，鲽，比目鱼（同flatfish）；挣扎
+%n. （Flounder）（美、英、以）弗伦德（人名）
+    flounder in ever graver economic difficulties
+#在越来越严重的经济困难中挣扎
+    flounder through a song
+#错误百出地唱完一首歌
+    He floundered in the deep water, trying desperately to reach the bank.
+#他在深水中挣扎着，拼命想游到岸边。
+
+capricious: 英[kəˈprɪʃəs] 美[kəˈprɪʃəs]
+%adj. （态度或行为）反复无常的，任性的；变幻莫测的，多变的；不合逻辑的，不合情理的
+    a cruel and capricious tyrant
+#残忍而变化无常的暴君
+    capricious weather
+#变幻莫测的天气
+    a capricious market
+#涨跌无常的市场
+    a capricious old man
+#任性的老人
+    She writes songs about capricious love and wounded hearts.
+#她写那些关于变幻无常的爱以及受伤心灵的歌曲。
+
+=======
+down: 英[daʊn] 美[daʊn]
+$adv. 在下方，在低处；由高到低，向下；（坐、躺、放）下；（因破坏性力量倒、垮、塌）下；写在纸上；在南部，向南方；传下去地；（在列表或序列中）处于较低位置，处于次要地位；在较低的位置（或程度、水平、速度等）；减到更小，变得更弱；失利，落后；不能动弹地，不能移动地；朝向……的方向；完全地，彻底地；作为首期款（或定金）；在肚子里；<英>离开学校（或大学）；甚至包含（最细微或最不重要部分）地；只剩下（某人或某物）；打倒；<英>离开首都（或重要城市）；在楼下，住楼下；到，去，在（当地的商店、酒馆等地方）； 已完成数量（或进度）；失去（钱数）；（航海）顺水或顺风；（命令人或动物）坐下（或躺下、趴下）；（登记）在名单上；（电脑系统）（尤指暂时）处于故障状态；<美>（橄榄球）（球或持球队员）成死球；（纵横填字游戏）由上至下地
+$adj. 在低处的，在下方的；向下的；便宜的，低廉的；降低的，低于正常水平的；不活跃的，萧条的；比分落后于对手的；不运转的，出故障的；悲伤的，低落的；已完成的，完结了的；完全掌握的；正式签署（或记录）的；了解的，赞成的 ；（某人数）出局的；<美>（橄榄球）成死球的；患……病的；<非正式>对……不满的； 记在纸上的；在地上的；赶时髦的；（火车）从大的始发站出发的；（物理）（夸克）下的
+$n. 羽绒；绒毛，软毛，汗毛；（美式足球）十码进攻；失败，挫折；<非正式>不快乐，沮丧
+$prep. 向下，朝下；沿着，顺；在……的那一端； 贯穿……时间，遍及……时期；在……的下游，向……的下游
+%v. 使掉落；<非正式>一口气吃下，一口气喝下；<非正式>（尤指在比赛中）打败，击败，战胜；<美>（橄榄球）使成死球
+    a down jacket
+#羽绒衫
+    The highest quality quilts and pillows are made of down.
+#最高级的被子和枕头都是由羽绒制成的。
+
+fleeting: 英[ˈfliːtɪŋ] 美[ˈfliːtɪŋ]
+$adj. 短暂的，飞逝的
+%v. <文>疾驰，飞逝；使（时间）飞快地过去；转瞬即逝（fleet 的过去式和过去分词）
+    a fleeting smile
+#一闪即逝的笑容
+    a fleeting thought
+#闪现的念头
+    We caught a fleeting glimpse of the prince as he drove past.
+#王子驾车经过时我们只是匆匆警了一眼。
+
+apposite: 英[ˈæpəzɪt] 美[ˈæpəzɪt]
+%adj. 适当的；贴切的
+    an apposite image
+#恰如其分的意象
+    suggestions apposite to the case
+#切合实情的建议
+    His use of epigrams is very apposite.
+#他的警句用得恰到好处。
+
+serrate: 英[ˈserɪt] 美[səˈret]
+$adj. （尤指生物）锯齿状的
+$vt. 使……有锯齿；使……成锯齿状
+%n. （Serrate）（西）塞拉特（人名）
+    I bought a knife with a serrate edge for cutting bread.
+#我买了一把切面包的有锯齿的刀。
+
+dilapidated: 英[dɪˈlæpɪdeɪtɪd] 美[dɪˈlæpɪdeɪtɪd]
+$adj. 荒废的，破旧的，要塌似的；受破坏的
+%v. 使荒废（dilapidate 的过去式和过去分词）
+    a dilapidated house
+#倾塌的房屋
+    a dilapidated car
+#破旧的汽车
+    a dilapidated alley
+#陋巷
+    The room had no furniture in it apart from a dilapidated old bed.
+#房间里除了一张破床外，没有别的家具。
+
+narcotic: 英[nɑːˈkɒtɪk] 美[nɑːrˈkɑːtɪk]
+$n. 致幻毒品；麻醉药，镇静剂；起麻醉作用的事物
+%adj. 致幻的；麻醉的，有麻醉作用的；麻醉剂引起的；催眠的；（有关）毒品的
+    a narcotic speech
+#使人昏昏欲睡的演讲
+    a narcotic clinic
+#戒毒诊所
+    The repetition of the same sound produces a narcotic effect.
+#同一种声音的重复具有催眠作用。
+
+emphatic: 英[ɪmˈfætɪk] 美[ɪmˈfætɪk]
+%adj. 强调的，坚决的；明显的；带重音的，重读的
+    an emphatic tone
+#强调的语气
+    the quick emphatic rain of summer
+#夏天急促的骤雨
+    an emphatic personality
+#坚强的个性
+    an emphatic success
+#引人目的成功
+    The minister has issued an emphatic rejection of the accusation.
+#部长针对指责发表了言辞坚定的否认声明。
+
+notoriety: 英[ˌnəʊtəˈraɪəti] 美[ˌnoʊtəˈraɪəti]
+%n. 臭名昭著，声名狼藉
+    The organization has come into public notoriety through the misbehavior of its employees.
+#这个组织由于它的雇员行为不检已在公众中声名狼藉。
+
+imbue: 英[ɪmˈbjuː] 美[ɪmˈbjuː]
+%vt. 灌输；使感染；使渗透
+    a skirt imbued with blood
+#渗透血污的裙子
+    Her work is imbued with the evolutionary spirit.
+#她的作品充满进化精神。
+
+impassioned: 英[ɪmˈpæʃ(ə)nd] 美[ɪmˈpæʃnd]
+$adj. 充满激情的；感激的
+%v. 使充满激情（impassion 的过去式和过去分词）
+    make an impassioned speech
+#做慷慨激昂的演讲
+    an impassioned debate
+#激烈的辩论
+    an impassioned support
+#热烈的支持
+    The relatives of the dead have made an impassioned plea to have the bodies flown back to the country.
+#死者的亲属激烈地恳求将遗体空运回国。
+
+recluse: 英[rɪˈkluːs] 美[ˈrekluːs]
+$n. 隐士；隐居者
+%adj. 隐居的
+    a recluse monk/nun
+#隐居的僧人/修女
+    a barren and recluse region
+#荒凉偏僻的地区
+    She has led the life of a recluse since she retired.
+#她自退休后就过着深居简出的生活。
+
+decry: 英[dɪˈkraɪ] 美[dɪˈkraɪ]
+%vt. 责难，谴责；诽谤
+    She decried the appalling state of the film industry.
+#她强烈批评了电影业的低劣状况。
+
+reparable: 英[ˈrepərəb(ə)l] 美[ˈrepərəb(ə)l]
+%adj. 可修理的，可补救的，可挽回的
+    a reparable loss
+#可补偿的损失
+    a reparable injury
+#可治愈的伤
+    The old watch was not reparable.
+#那块旧表修不好了。
+
+decelerate: 英[ˌdiːˈseləreɪt] 美[ˌdiːˈseləreɪt]
+$vi. 减速，降低速度
+%vt. 使减速
+    decelerate wage and price demands
+#减缓对工资和物价的要求
+    The driver decelerated at the sight of the police car.
+#驾驶员一看到警车就减速了。
+
+inappropriate: 英[ˌɪnəˈprəʊpriət] 美[ˌɪnəˈproʊpriət]
+%adj. 不恰当的，不合适的
+    His casual behavior was wholly inappropriate for such a formal occasion.
+#他随便的举止完全不适合这样一个正式的场合。
+
+exhilarate: 英[ɪɡˈzɪləreɪt] 美[ɪɡˈzɪləreɪt]
+%vt. 使高兴，使振奋；使愉快
+    exhilarate sb. to look forward to the future
+#鼓励某人朝前看
+    The sea breeze exhilarated him.
+#海上的微风使他精神振奋。
+
+ultrasonic: 英[ˌʌltrəˈsɒnɪk] 美[ˌʌltrəˈsɑːnɪk]
+$adj. [声] 超声的；超音速的
+%n. 超声波
+    the ultrasonic testing of metal
+#金属的超声波检测
+    Bats use ultrasonic waves to locate flying insects at night.
+#蝙蝠在晚上利用超声波确定飞行昆虫的位置。
+
+overpowering: 英[ˌəʊvəˈpaʊərɪŋ] 美[ˌoʊvərˈpaʊərɪŋ]
+%adj. 压倒性的；无法抵抗的
+    the overpowering smell of garlic
+#刺鼻的大蒜味
+    overpowering feelings of guilt
+#强烈的负罪感
+    an overpowering personality
+#强悍的个性
+    Firefighters were driven back by the overpowering heat of flames.
+#消防队员被火焰的强烈热浪逼退。
+
+equivocal: 英[ɪˈkwɪvək(ə)l] 美[ɪˈkwɪvək(ə)l]
+%adj. 模棱两可的；可疑的
+    equivocal words
+#歧义词
+    an equivocal outcome
+#未定的结果
+    equivocal conduct
+#可疑的行为
+    His words to the press were deliberately equivocal.
+#他对新闻界说的话故意说得模棱两可。
+
+drone: 英[drəʊn] 美[droʊn]
+$n. 嗡嗡叫，嗡嗡响；雄蜂，公蜂；（遥控的）无人驾驶飞机（或导弹）；<非正式>单调乏味的讲话；（不劳动，依赖他人为生的）寄生虫；伴音（如风笛等发出的持续音），伴音管（或弦等）；干单调工作的人
+%v. 嗡嗡叫，嗡嗡响；（人）絮絮叨叨地说，喋喋不休地说；混日子
+    the constant drone of flies
+#苍蝇不断的嗡嗡声
+    a boring old drone
+#令人讨厌的啰嗦老人
+    The drone of his voice made me feel sleepy.
+#他那低沉单调的嗓音使我昏昏欲睡。
+
+divisive: 英[dɪˈvaɪsɪv] 美[dɪˈvaɪsɪv]
+%adj. 有争议的，造成分裂的
+    a divisive issue
+#招致不和的事件
+    a divisive trade restriction
+#招致不和的贸易限制
+    The government tried to stamp out all divisive elements.
+#政府试图镇压一切分裂分子。
+
+slimy: 英[ˈslaɪmi] 美[ˈslaɪmi]
+%adj. 黏滑的；泥泞的；谄媚的，虚伪的
+    a slimy pond
+#满是黏泥的池塘
+    a slimy politician
+#卑鄙的政客
+    a slimy salesman
+#巴结讨好的推销员
+    I can't stand the slimy feel of seaweed underneath my feet.
+#我无法忍受脚下海藻黏糊糊的感觉。
+
+inoffensive: 英[ˌɪnəˈfensɪv] 美[ˌɪnəˈfensɪv]
+%adj. 不触犯人的；无害的；没恶意的
+    an inoffensive animal
+#不伤人的动物
+    an inoffensive odor
+#不难闻的气味
+    a quiet inoffensive old man
+#安详随和的老人
+    It wasn't decorated as I would have done it but most of the house was inoffensive enough.
+#这房子不是按照我所希望的那样装饰的，但大部分地方并不令人讨厌。
+
+inexorable: 英[ɪnˈeksərəb(ə)l] 美[ɪnˈeksərəb(ə)l]
+%adj. <正式>不可阻止的，难以阻挡的；（人）不为恳求所动的，无动于衷的
+    an inexorable fate
+#不可改变的命运
+    an inexorable trend
+#不可阻挡的趋势
+    inexorable bureaucrats
+#无动于衷的官僚
+    an inexorable opponent
+#无情的对手
+    Ageing can be thought of as a gradual, inexorable slide from summer into autumn and into winter.
+#衰老的过程是不可阻挡的，可以看作从夏天到秋天再到冬天的缓慢衰退。
+
+banter: 英[ˈbæntə(r)] 美[ˈbæntər]
+%n. 无恶意的玩笑
+    exchange banter
+#相互谈笑着
+    banter between husband and wife
+#夫妇之间的戏谑
+    He considered himself a master of witty banter.
+#他自认为是个开玩笑的好手。
+
+unpalatable: 英[ʌnˈpælətəb(ə)l] 美[ʌnˈpælətəb(ə)l]
+%adj. 味道差的，难吃的；讨人厌的，使人不快的
+    unpalatable breakfast
+#难吃的早餐
+    unpalatable advice
+#逆耳的忠言
+    But facts must be faced, unpalatable as they are, and there simply isn't enough work for that number of staff.
+#虽然不中听，但是必须面对事实，现在是人浮于事。
+
+nebulous: 英[ˈnebjələs] 美[ˈnebjələs]
+%adj. 朦胧的；星云的，星云状的
+    nebulous memory
+#模糊的记忆
+    in a nebulous way
+#含糊不清地
+    He has a nebulous idea about what he might like to do in the future but nothing firm.
+#他对将来做什么有些模糊的想法，但没有任何肯定的计划。
+
+hale: 英[heɪl] 美[heɪl]
+$adj. （尤指老人）硬朗的，健壮的
+%v. <古>用力拖（或拉）
+    hale and hearty
+#健壮的
+    She found her grandfather hale and hearty, walking five miles each day before breakfast.
+#她发现祖父很健壮，每天早饭前步行5英里。
+
+renounce: 英[rɪˈnaʊns] 美[rɪˈnaʊns]
+%v. 声明放弃，抛弃；<法律>（尤指继承人或受托人）放弃（权利或地位）；拒绝承认，拒绝遵守；宣布与……断绝关系，宣布摒弃
+    renounce one's citizenship
+#声明放弃国籍
+    renounce one's claim to an inheritance
+#声明放弃对一笔遗产的继承权
+    renounce smoking and drinking
+#戒烟戒酒
+    renounce one's wicked son
+#与孽子脱离关系
+    Her ex-husband renounced his claim to the family house.
+#她的前夫声明放弃房屋的所有权。
+
+reimburse: 英[ˌriːɪmˈbɜːs] 美[ˌriːɪmˈbɜːrs]
+%v. <正式>偿还，付还（钱款）
+    The insurance company reimbursed her for her loss of the fire.
+#保险公司赔偿了她的火灾损失。
+
+populous: 英[ˈpɒpjələs] 美[ˈpɑːpjələs]
+%adj. 人口稠密的
+    populous with tourists
+#挤满了旅游者
+    The most populous areas of the city are now in the suburbs.
+#这个城市现在人口最稠密的地方在郊区。
+
+impertinent: 英[ɪmˈpɜːtɪnənt] 美[ɪmˈpɜːrt(ə)nənt]
+%adj. 不恰当的；无礼的；粗鲁的；不相干的
+    a spoilt impertinent child
+#宠坏了的、没礼貌的孩子
+    be impertinent to one's superiors
+#对上司无礼
+    I hope he didn't think me impertinent when I asked him about his private life.
+#我希望当我询问他的私人生活时，他不认为我是不礼貌的。
+
+whimsical: 英[ˈwɪmzɪk(ə)l] 美[ˈwɪmzɪk(ə)l]
+%adj. 古怪的；异想天开的；反复无常的
+    a whimsical artist
+#满脑子奇想的艺术家
+    a whimsical notion
+#离奇的想法
+    in whimsical moments
+#心血来潮的时刻
+    whimsical moods
+#反复无常的情绪
+    Despite his kindly, sometimes whimsical air, he was a shrewd observer of people.
+#尽管他有着和善、时而古怪的神态，但他对人的观察很敏锐。
+
+cognizant: 英[ˈkɒɡnɪzənt] 美[ˈkɑːɡnɪzənt]
+%adj. 知道的，意识到的，了解的；审理的
+    be fully cognizant of the difficulty
+#充分认识到困难
+    Regrettably, the lawyer said he was not cognizant of the facts.
+#令人遗憾的是，律师说他并不知道这些事实。
+
+dissect: 英[dɪˈsekt] 美[dɪˈsekt]
+%v. 解剖（人或动物的尸体）；剖析，详细评论（某事物）；把（田地）分成小块
+    dissect a poem
+#详细分析一首诗
+    a dissecting table
+#解剖台
+    In biology classes at school we used to dissect rats.
+#过去在学校生物课上，我们经常解剖老鼠。
+
+irascible: 英[ɪˈræsəb(ə)l] 美[ɪˈræsəb(ə)l]
+%adj. 易怒的
+    an irascible old man
+#性情暴躁的老头儿
+    an irascible reply
+#怒气冲冲的回答
+    He's becoming more and more irascible as he grows old.
+#随着年龄的增长，他的性情变得越来越暴躁。
+
+reticent: 英[ˈretɪs(ə)nt] 美[ˈretɪs(ə)nt]
+%adj. 沉默的；有保留的；谨慎的
+    a reticent woman
+#缄默的女人
+    be reticent on money matters
+#对钱财方面的事保持淡然
+    She is very reticent about her past.
+#她非常不愿意说起自己的过去。
+
+venerate: 英[ˈvenəreɪt] 美[ˈvenəreɪt]
+%vt. 崇敬，尊敬
+    Robert Burns is perhaps Scotland's most venerated poet.
+#罗伯特，彭斯可能是苏格兰最受崇敬的诗人。
+
+ethos: 英[ˈiːθɒs] 美[ˈiːθɑːs]
+%n. （某团体的）精神特质，道德意识
+    the ethos of democracy
+#民主的思潮
+    the prevailing social ethos
+#流行的社会风气
+
+flounder: 英[ˈflaʊndə(r)] 美[ˈflaʊndər]
+$v. 不知所措，支吾；困难重重；（在水、泥等中）挣扎，折腾；心乱如麻
+$n. 鲆，鲽，比目鱼（同flatfish）；挣扎
+%n. （Flounder）（美、英、以）弗伦德（人名）
+    flounder in ever graver economic difficulties
+#在越来越严重的经济困难中挣扎
+    flounder through a song
+#错误百出地唱完一首歌
+    He floundered in the deep water, trying desperately to reach the bank.
+#他在深水中挣扎着，拼命想游到岸边。
+
+capricious: 英[kəˈprɪʃəs] 美[kəˈprɪʃəs]
+%adj. （态度或行为）反复无常的，任性的；变幻莫测的，多变的；不合逻辑的，不合情理的
+    a cruel and capricious tyrant
+#残忍而变化无常的暴君
+    capricious weather
+#变幻莫测的天气
+    a capricious market
+#涨跌无常的市场
+    a capricious old man
+#任性的老人
+    She writes songs about capricious love and wounded hearts.
+#她写那些关于变幻无常的爱以及受伤心灵的歌曲。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

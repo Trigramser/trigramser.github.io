@@ -1,0 +1,675 @@
+<<<<<<< HEAD
+presuppose:
+    All this presupposes that he'll get the job he wants.
+#所有这一切都要以他找到他想做的工作为先决条件。
+
+derelict:
+    a derelict building
+#被弃置的建筑
+    stand/lie derelict
+#被弃置，闲置
+    a derelict ship
+#弃船
+    derelict behavior
+#不负责任的行为
+    There are plans to redevelop the large amounts of derelict land near the railway station.
+#有计划重新开发火车站附近的大片荒地。
+
+immature:
+    immature dates
+#未成熟的枣子
+    a thin immature soil
+#贫瘠的土地
+    While the animals are still immature, they do not breed.
+#动物发育未全时不会生育。
+
+dutiful:
+    a dutiful citizen
+#尽本分的公民
+    a dutiful daughter
+#孝女
+
+boon:
+    a boon companion
+#亲密的好朋友
+    The software will prove a boon to Internet users.
+#这种新软件将会对互联网用户大有益处。
+
+mural:
+    a mural painter
+#壁画画家
+    a mural tablet
+#装在墙上的匾
+    One of walls enclosing the park is decorated with a huge mural showing film stars.
+#公园的一堵围墙上装饰着电影明星的巨幅壁画。
+
+sumptuous:
+    a sumptuous banquet
+#盛宴
+    a sumptuous education
+#费用昂贵的教育
+    a sumptuous woman
+#衣着华丽的女人
+    The guests turned up dressed in sumptuous evening gowns.
+#客人们身着华丽的晚礼服出现了。
+
+deviant:
+    be deviant from the human norm
+#偏离常人之道
+    Deviant behavior is one of the features of certain types of mental disease.
+#反常举动是某些精神疾病的特征之一。
+
+complacency:
+    Short-term sufficiency lulled them into complacency about the long-term threat.
+#暂时的充足使他们盲目自满，看不到远期的威胁。
+
+mortality:
+    infant mortality
+#婴儿死亡率
+    reduce mortality
+#减少死亡率
+    mortality table
+#寿命表
+    A sense of mortality overcame her.
+#自己终有一死的恐惧压垮了她。
+
+sobriety:
+    force oneself into sobriety
+#强行使自己戒酒
+    I'd just drunk my third cup of coffee and was well on the way to sobriety.
+#我刚喝了第三杯咖啡，已经相当清醒了。
+
+sultry:
+    a sultry July afternoon
+#闷热的七月的下午
+    the sultry sun
+#烈日
+    sultry deserts
+#灼热的沙漠
+    an expensively sultry scent
+#一种撩拨着春心的名贵香水
+    She's the sultry blonde in that new chocolate commercial.
+#她就是新巧克力广告中那个性感的金发女郎。
+
+respite:
+    work without (a) respite
+#不停歇地工作
+    a day's respite
+#一天的宽限
+    take a brief respite from one's work
+#停工休息一下
+    have a respite from pain
+#使痛苦暂时缓解一下
+    respite a murderer
+#暂缓处决杀人犯
+    Although neither side was satisfied with the treaty, both sides recognized that some respite from two years of conflict was necessary.
+#虽然双方对该条约都不满意，但都承认两年的冲突需要暂停一下了。
+
+invigorate:
+    keep sb. invigorated
+#使某人有生气
+    invigorate the economy
+#使经济活跃
+    The walk in the fresh air invigorated us.
+#在新鲜的空气中散步使我们精力充沛。
+
+shamble:
+    With a shambling gait she came into the room looking older than the last time I had seen her.
+#跚着走进房间，看上去比我上次见到她时老多了。
+
+sheen:
+    the sheen of silk
+#丝绸的光泽
+    hair with a little sheen of grey
+#略带灰白的头发
+    the moon's brilliant sheen on the water
+#水面上明灿灿的月光
+    The hair conditioner gives hair a beautiful soft sheen.
+#这种护发素能使头发美丽、柔顺、富有光泽。
+
+scribble:
+    scribble a postcard to a friend
+#匆匆写一张明信片给朋友
+    scribbles on the wall
+#墙上的涂鸦
+    a scribbled letter
+#字迹潦草的信
+    The child can't write yet, but he loves to scribble with a pencil.
+#这孩子还不会写字，但他喜欢拿着铅笔乱涂。
+
+fissure:
+    a fissure in a rock
+#岩石上的裂缝
+
+coronation:
+    the coronation of Her Majesty Queen Elizabeth
+#伊丽莎白女王的加冕典礼
+
+goggle:
+    goggle-eyed
+#瞪大眼睛的
+    goggling tourists
+#充满好奇的旅游者
+    He goggled at her as if she'd said something very strange.
+#他瞪大眼睛看着她，好像她说了什么奇怪的事情。
+
+lark:
+    be up with the lark
+#早起
+    be fond of having a lark
+#喜欢嬉戏作乐
+
+strident:
+    strident voice
+#刺耳的噪声
+    strident colors
+#刺目的颜色
+    He recently expressed his opposition to changing the law in a strident newspaper article.
+#他最近在报纸上发表了一篇措辞激烈的文章，以表明他对修改法律的强烈反对。
+
+sidestep:
+    sidestep a blow
+#躲过一击
+    sidestep responsibility
+#逃避责任
+    The speaker sidestepped the question by saying that it would take him long to answer it.
+#演说者说他得用很长时间来回答这个问题，借此回避了它。
+
+gape:
+    a gaping hole
+#大洞
+    give a gape
+#打哈欠
+    She gaped in astonishment at the scene.
+#她对眼前景象惊讶得目瞪口呆。
+
+thrash:
+    thrash the wheat
+#打麦脱粒
+    thrash the visiting team
+#大败客队
+    thrash windward
+#（船）顶风破浪前行
+    thrash through the bush
+#奋力穿过灌木丛
+    She slept badly, thrashing about from side to side in bed.
+#她睡得不好，整夜辗转反侧。
+
+pagan:
+    pagan gods
+#异教神灵
+    The Easter egg has both pagan and Christian origins.
+#复活节彩蛋既有异教的又有基督教的起源。
+
+redress:
+    redress an error
+#矫正错误
+    redress a mishandled case
+#平反昭雪
+    redress the wrong done to sb.
+#洗雪某人承受之冤
+    redress social abuses
+#革除社会弊端
+    redress the harm
+#补偿伤害
+    seek redress for grievances
+#寻求昭雪冤屈
+    a villain without redress
+#不可挽救的恶棍
+    The new president promised to redress corruption in the government.
+#新总统承诺革除政府内部的腐败。
+
+deface:
+    the defaced banknotes
+#被涂得一塌糊涂的钞票
+    deface a bond
+#注销债券
+    He was fined twenty dollars for defacing library books.
+#他因在图书馆的书上涂写而被罚20美元。
+
+whiff:
+    get/catch a whiff of perfume
+#闻到一股香水味
+    a whiff of sea breeze
+#一阵海风
+    take a whiff or two
+#吸上一两口
+    a whiff of suspicion
+#些许怀疑
+    He leaned towards me and I caught a whiff of garlic in his breath.
+#他屈身向我靠来，我闻到了他呼吸中的一股大蒜气味。
+
+invidious:
+    invidious criticism
+#引人反感的批评
+    an invidious honor
+#招人嫉妒的荣誉
+    Such a difficult choice placed her in an invidious position.
+#如此为难的选择使她处于招致不满的境地。
+
+pawn:
+    pawn a watch
+#典当一块手表
+    pawn one's word
+#口头担保
+    be in/at pawn
+#在典当中
+    pawn sb./sth. off
+#摆脱不想要的人/物
+    Of all items pawned, jewelry is the most common.
+#在所有抵押品中，珠宝是最普通的。
+
+hector:
+    a hectoring tone of voice
+#威吓的口吻
+    Audiences do not want to be hectored by the aggressive, unsympathetic speaker.
+#观众不想被咄咄逼人、无同情心的演讲者威逼。
+
+gladiator:
+    an intellectual gladiator
+#智斗者
+
+squall:
+    squall in terror
+#因惊恐而尖叫
+    be caught in a squall
+#被困在飑中
+    economic squalls
+#经济动荡
+    I could hear next door's baby squalling in the middle of the night.
+#我能听见隔壁的婴儿在半夜啼哭。
+
+gravitate:
+    gravitate the sun
+#绕太阳运动
+    gravitate to the outer suburbs
+#向远郊迁居
+    I can feel myself gravitating towards the food table.
+#我可以感受到自己无意中渐渐靠向放食物的桌子。
+
+epigram:
+    have a genius for epigrams
+#有妙语连珠的才能
+    One of Oscar Wilde's most frequently quoted epigrams is "I can resist everything except temptation."
+#奥斯卡·王尔德被引用得最多的警句之一是“我什么都能抗拒，除了诱惑之外。”
+
+threadbare:
+    wear a threadbare coat
+#穿着破旧的外套
+    a threadbare beggar
+#衣衫槛楼的乞丐
+    a threadbare existence
+#贫穷的生活
+    a threadbare argument
+#老掉牙的论点
+    The song was a tissue of threadbare cliches.
+#那首歌整个就是一套陈词滥调。
+
+unison:
+    in unison
+#和谐地，一致地
+    sing in unison
+#齐声唱
+    The international community must act in unison if we are to find a lasting resolution to this problem.
+#如果我们要找到这个问题的永久解决方案，国际社会必须行动一致。
+
+fulsome:
+    fulsome flattery
+#令人作呕的奉承
+    fulsome compliments
+#溢美之词
+    fulsome fervor
+#过分的热情
+    in fulsome detail
+#详尽地
+    a fulsome voice
+#圆润的嗓音
+    We weren't convinced by the salesman's fulsome words about the car.
+#推销员对这部车的大肆吹嘘并没有使我们信服。
+
+masquerade:
+    strip off sb.'s masquerade
+#剥去某人的伪装
+    under an assumed masquerade
+#以假名冒充
+    In this business there are a lot of unqualified people masquerading as experts.
+#在这一行，许多不合格的人都假冒专家。
+
+=======
+presuppose:
+    All this presupposes that he'll get the job he wants.
+#所有这一切都要以他找到他想做的工作为先决条件。
+
+derelict:
+    a derelict building
+#被弃置的建筑
+    stand/lie derelict
+#被弃置，闲置
+    a derelict ship
+#弃船
+    derelict behavior
+#不负责任的行为
+    There are plans to redevelop the large amounts of derelict land near the railway station.
+#有计划重新开发火车站附近的大片荒地。
+
+immature:
+    immature dates
+#未成熟的枣子
+    a thin immature soil
+#贫瘠的土地
+    While the animals are still immature, they do not breed.
+#动物发育未全时不会生育。
+
+dutiful:
+    a dutiful citizen
+#尽本分的公民
+    a dutiful daughter
+#孝女
+
+boon:
+    a boon companion
+#亲密的好朋友
+    The software will prove a boon to Internet users.
+#这种新软件将会对互联网用户大有益处。
+
+mural:
+    a mural painter
+#壁画画家
+    a mural tablet
+#装在墙上的匾
+    One of walls enclosing the park is decorated with a huge mural showing film stars.
+#公园的一堵围墙上装饰着电影明星的巨幅壁画。
+
+sumptuous:
+    a sumptuous banquet
+#盛宴
+    a sumptuous education
+#费用昂贵的教育
+    a sumptuous woman
+#衣着华丽的女人
+    The guests turned up dressed in sumptuous evening gowns.
+#客人们身着华丽的晚礼服出现了。
+
+deviant:
+    be deviant from the human norm
+#偏离常人之道
+    Deviant behavior is one of the features of certain types of mental disease.
+#反常举动是某些精神疾病的特征之一。
+
+complacency:
+    Short-term sufficiency lulled them into complacency about the long-term threat.
+#暂时的充足使他们盲目自满，看不到远期的威胁。
+
+mortality:
+    infant mortality
+#婴儿死亡率
+    reduce mortality
+#减少死亡率
+    mortality table
+#寿命表
+    A sense of mortality overcame her.
+#自己终有一死的恐惧压垮了她。
+
+sobriety:
+    force oneself into sobriety
+#强行使自己戒酒
+    I'd just drunk my third cup of coffee and was well on the way to sobriety.
+#我刚喝了第三杯咖啡，已经相当清醒了。
+
+sultry:
+    a sultry July afternoon
+#闷热的七月的下午
+    the sultry sun
+#烈日
+    sultry deserts
+#灼热的沙漠
+    an expensively sultry scent
+#一种撩拨着春心的名贵香水
+    She's the sultry blonde in that new chocolate commercial.
+#她就是新巧克力广告中那个性感的金发女郎。
+
+respite:
+    work without (a) respite
+#不停歇地工作
+    a day's respite
+#一天的宽限
+    take a brief respite from one's work
+#停工休息一下
+    have a respite from pain
+#使痛苦暂时缓解一下
+    respite a murderer
+#暂缓处决杀人犯
+    Although neither side was satisfied with the treaty, both sides recognized that some respite from two years of conflict was necessary.
+#虽然双方对该条约都不满意，但都承认两年的冲突需要暂停一下了。
+
+invigorate:
+    keep sb. invigorated
+#使某人有生气
+    invigorate the economy
+#使经济活跃
+    The walk in the fresh air invigorated us.
+#在新鲜的空气中散步使我们精力充沛。
+
+shamble:
+    With a shambling gait she came into the room looking older than the last time I had seen her.
+#跚着走进房间，看上去比我上次见到她时老多了。
+
+sheen:
+    the sheen of silk
+#丝绸的光泽
+    hair with a little sheen of grey
+#略带灰白的头发
+    the moon's brilliant sheen on the water
+#水面上明灿灿的月光
+    The hair conditioner gives hair a beautiful soft sheen.
+#这种护发素能使头发美丽、柔顺、富有光泽。
+
+scribble:
+    scribble a postcard to a friend
+#匆匆写一张明信片给朋友
+    scribbles on the wall
+#墙上的涂鸦
+    a scribbled letter
+#字迹潦草的信
+    The child can't write yet, but he loves to scribble with a pencil.
+#这孩子还不会写字，但他喜欢拿着铅笔乱涂。
+
+fissure:
+    a fissure in a rock
+#岩石上的裂缝
+
+coronation:
+    the coronation of Her Majesty Queen Elizabeth
+#伊丽莎白女王的加冕典礼
+
+goggle:
+    goggle-eyed
+#瞪大眼睛的
+    goggling tourists
+#充满好奇的旅游者
+    He goggled at her as if she'd said something very strange.
+#他瞪大眼睛看着她，好像她说了什么奇怪的事情。
+
+lark:
+    be up with the lark
+#早起
+    be fond of having a lark
+#喜欢嬉戏作乐
+
+strident:
+    strident voice
+#刺耳的噪声
+    strident colors
+#刺目的颜色
+    He recently expressed his opposition to changing the law in a strident newspaper article.
+#他最近在报纸上发表了一篇措辞激烈的文章，以表明他对修改法律的强烈反对。
+
+sidestep:
+    sidestep a blow
+#躲过一击
+    sidestep responsibility
+#逃避责任
+    The speaker sidestepped the question by saying that it would take him long to answer it.
+#演说者说他得用很长时间来回答这个问题，借此回避了它。
+
+gape:
+    a gaping hole
+#大洞
+    give a gape
+#打哈欠
+    She gaped in astonishment at the scene.
+#她对眼前景象惊讶得目瞪口呆。
+
+thrash:
+    thrash the wheat
+#打麦脱粒
+    thrash the visiting team
+#大败客队
+    thrash windward
+#（船）顶风破浪前行
+    thrash through the bush
+#奋力穿过灌木丛
+    She slept badly, thrashing about from side to side in bed.
+#她睡得不好，整夜辗转反侧。
+
+pagan:
+    pagan gods
+#异教神灵
+    The Easter egg has both pagan and Christian origins.
+#复活节彩蛋既有异教的又有基督教的起源。
+
+redress:
+    redress an error
+#矫正错误
+    redress a mishandled case
+#平反昭雪
+    redress the wrong done to sb.
+#洗雪某人承受之冤
+    redress social abuses
+#革除社会弊端
+    redress the harm
+#补偿伤害
+    seek redress for grievances
+#寻求昭雪冤屈
+    a villain without redress
+#不可挽救的恶棍
+    The new president promised to redress corruption in the government.
+#新总统承诺革除政府内部的腐败。
+
+deface:
+    the defaced banknotes
+#被涂得一塌糊涂的钞票
+    deface a bond
+#注销债券
+    He was fined twenty dollars for defacing library books.
+#他因在图书馆的书上涂写而被罚20美元。
+
+whiff:
+    get/catch a whiff of perfume
+#闻到一股香水味
+    a whiff of sea breeze
+#一阵海风
+    take a whiff or two
+#吸上一两口
+    a whiff of suspicion
+#些许怀疑
+    He leaned towards me and I caught a whiff of garlic in his breath.
+#他屈身向我靠来，我闻到了他呼吸中的一股大蒜气味。
+
+invidious:
+    invidious criticism
+#引人反感的批评
+    an invidious honor
+#招人嫉妒的荣誉
+    Such a difficult choice placed her in an invidious position.
+#如此为难的选择使她处于招致不满的境地。
+
+pawn:
+    pawn a watch
+#典当一块手表
+    pawn one's word
+#口头担保
+    be in/at pawn
+#在典当中
+    pawn sb./sth. off
+#摆脱不想要的人/物
+    Of all items pawned, jewelry is the most common.
+#在所有抵押品中，珠宝是最普通的。
+
+hector:
+    a hectoring tone of voice
+#威吓的口吻
+    Audiences do not want to be hectored by the aggressive, unsympathetic speaker.
+#观众不想被咄咄逼人、无同情心的演讲者威逼。
+
+gladiator:
+    an intellectual gladiator
+#智斗者
+
+squall:
+    squall in terror
+#因惊恐而尖叫
+    be caught in a squall
+#被困在飑中
+    economic squalls
+#经济动荡
+    I could hear next door's baby squalling in the middle of the night.
+#我能听见隔壁的婴儿在半夜啼哭。
+
+gravitate:
+    gravitate the sun
+#绕太阳运动
+    gravitate to the outer suburbs
+#向远郊迁居
+    I can feel myself gravitating towards the food table.
+#我可以感受到自己无意中渐渐靠向放食物的桌子。
+
+epigram:
+    have a genius for epigrams
+#有妙语连珠的才能
+    One of Oscar Wilde's most frequently quoted epigrams is "I can resist everything except temptation."
+#奥斯卡·王尔德被引用得最多的警句之一是“我什么都能抗拒，除了诱惑之外。”
+
+threadbare:
+    wear a threadbare coat
+#穿着破旧的外套
+    a threadbare beggar
+#衣衫槛楼的乞丐
+    a threadbare existence
+#贫穷的生活
+    a threadbare argument
+#老掉牙的论点
+    The song was a tissue of threadbare cliches.
+#那首歌整个就是一套陈词滥调。
+
+unison:
+    in unison
+#和谐地，一致地
+    sing in unison
+#齐声唱
+    The international community must act in unison if we are to find a lasting resolution to this problem.
+#如果我们要找到这个问题的永久解决方案，国际社会必须行动一致。
+
+fulsome:
+    fulsome flattery
+#令人作呕的奉承
+    fulsome compliments
+#溢美之词
+    fulsome fervor
+#过分的热情
+    in fulsome detail
+#详尽地
+    a fulsome voice
+#圆润的嗓音
+    We weren't convinced by the salesman's fulsome words about the car.
+#推销员对这部车的大肆吹嘘并没有使我们信服。
+
+masquerade:
+    strip off sb.'s masquerade
+#剥去某人的伪装
+    under an assumed masquerade
+#以假名冒充
+    In this business there are a lot of unqualified people masquerading as experts.
+#在这一行，许多不合格的人都假冒专家。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

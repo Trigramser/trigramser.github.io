@@ -1,0 +1,624 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEC listening</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            height: 100vh;
+        }
+
+        #player-container {
+            flex: 2; /* 播放器区域宽度 */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        #audio {
+            width: 100%; /* 播放器控件占满容器宽度 */
+            max-width: 800px; /* 最大宽度 */
+            margin-top: 20px;
+        }
+
+        #playlist-container {
+            flex: 1;
+            width: 400px;
+            background: #fff;
+            border-left: 2px solid #ccc;
+            overflow-y: auto;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            text-align: center;
+            padding: 10px;
+            background: #f7f7f7;
+            margin: 0;
+        }
+
+        #playlist {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+
+        .accordion-section {
+            border-bottom: 1px solid #ddd;
+        }
+
+        .accordion-header {
+            padding: 15px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: white;
+            transition: background-color 0.3s ease;
+        }
+
+        .accordion-header:hover {
+            background-color: #0056b3;
+        }
+
+        .accordion-content {
+            display: none;
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-top: 1px solid #ddd;
+        }
+
+        .accordion-content ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .accordion-content li {
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        .accordion-content li:hover {
+            background: #f4f4f4;
+        }
+
+        .accordion-content li.active {
+            background: #007bff;
+            color: white;
+        }
+
+        .controls, .slider-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+/*         
+        #playlist li {
+            padding: 15px;
+            border-bottom: 1px solid #ddd;
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        #playlist li:hover {
+            background: #f4f4f4;
+        }
+
+        #playlist li.active {
+            background: #007bff;
+            color: white;
+        } */
+
+        .controls {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .slider-container {
+            margin-top: 20px;
+            text-align: center;
+            width: 100%;
+        }
+
+        .slider-container label {
+            font-size: 16px;
+            margin-right: 10px;
+        }
+
+        .slider-container input[type="range"] {
+            width: 100%; /* 滑块宽度 */
+            max-width: 800px; /* 设置最大宽度 */
+            margin: 10px auto; /* 垂直间距 */
+        }
+
+        button {
+            padding: 10px 15px;
+            margin: 5px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background-color: #007bff;
+            color: #fff;
+            font-size: 14px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="player-container">
+        <h1>Audio Play</h1>
+        <audio id="audio" controls></audio>
+        <div class="slider-container">
+            <label for="speed">Speed: <span id="speed-value">1.0</span>x</label>
+            <input type="range" id="speed" min="0.1" max="2" step="0.1" value="1">
+        </div>
+        <div class="controls">
+            <button onclick="playPrevious()">⏮️Previous</button>
+            <button onclick="playNext()">⏭️Next</button>
+        </div>
+        <div class="controls">
+            <button onclick="rewindAudio()">⏪ 快退 3 秒</button>
+            <button onclick="forwardAudio()">⏩ 快进 3 秒</button>
+        </div>
+    </div>
+
+    <div id="playlist-container">
+        <h2>Playlist</h2>
+        <div id="playlist">
+            <div class="accordion-section">
+                <div class="accordion-header">NCE1</div>
+                <div class="accordion-content">
+                    <ul>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/001－Excuse me.mp3">001－Excuse me</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/003－Sorry sir.mp3">003－Sorry sir</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/005－Nice to meet you.mp3">005－Nice to meet you</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/007－Are you a teacher.mp3">007－Are you a teacher</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/009－How are you today.mp3">009－How are you today</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/011－Is this your shirt.mp3">011－Is this your shirt</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/013－A new dress.mp3">013－A new dress</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/015－Your passport, please.mp3">015－Your passport, please</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/017－How do you do.mp3">017－How do you do</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/019－Tired and thirsty.mp3">019－Tired and thirsty</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/021－Which book.mp3">021－Which book</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/023－Which glasses.mp3">023－Which glasses</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/025－Mrs. Smith’s kitchen.mp3">025－Mrs. Smith’s kitchen</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/027－Mrs. Smith’s living room.mp3">027－Mrs. Smith’s living room</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/029－Come in, Amy.mp3">029－Come in, Amy</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/031－Where’s Sally.mp3">031－Where’s Sally</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/033－A fine day.mp3">033－A fine day</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/035－Our village.mp3">035－Our village</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/037－Making a bookcase.mp3">037－Making a bookcase</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/039－Don’t drop it.mp3">039－Don’t drop it</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/041－Penn’s bag.mp3">041－Penn’s bag</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/043－Hurry up.mp3">043－Hurry up</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/045－The boss’s letter.mp3">045－The boss’s letter</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/047－A cup of coffee.mp3">047－A cup of coffee</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/049－At the butcher’s.mp3">049－At the butcher’s</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/051－A pleasant climate.mp3">051－A pleasant climate</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/053－An interesting climate.mp3">053－An interesting climate</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/055－The Sawyer family.mp3">055－The Sawyer family</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/057－An unusual day.mp3">057－An unusual day</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/059－Is that all.mp3">059－Is that all</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/061－A bad cold.mp3">061－A bad cold</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/063－Thank you, doctor.mp3">063－Thank you, doctor</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/065－Not a baby.mp3">065－Not a baby</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/067－The weekend.mp3">067－The weekend</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/069－The car race.mp3">069－The car race</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/071－He’s awful.mp3">071－He’s awful</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/073－The way to King Street.mp3">073－The way to King Street</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/075－Uncomfortable shoes.mp3">075－Uncomfortable shoes</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/077－Terrible toothache.mp3">077－Terrible toothache</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/079－Carol’s shopping list.mp3">079－Carol’s shopping list</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/081－Roast beef and potatoes.mp3">081－Roast beef and potatoes</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/083－Going on holiday.mp3">083－Going on holiday</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/085－Paris in the spring.mp3">085－Paris in the spring</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/087－A car crash.mp3">087－A car crash</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/089－For sale.mp3">089－For sale</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/091－Poor Ian.mp3">091－Poor Ian</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/093－Our new neighbour.mp3">093－Our new neighbour</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/095－Tickets, please.mp3">095－Tickets, please</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/097－A small blue case.mp3">097－A small blue case</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/099－Ow.mp3">099－Ow</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/101－A card from Jimmy.mp3">101－A card from Jimmy</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/103－The French test.mp3">103－The French test</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/105－Full of mistakes.mp3">105－Full of mistakes</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/107－It’s too small.mp3">107－It’s too small</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/109－A good idea.mp3">109－A good idea</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/111－The most expensive model.mp3">111－The most expensive model</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/113－Small change.mp3">113－Small change</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/115－Knock, knock.mp3">115－Knock, knock</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/117－Tommy’s breakfast.mp3">117－Tommy’s breakfast</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/119－A true story.mp3">119－A true story</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/121－The man in a hat.mp3">121－The man in a hat</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/123－A trip to Australia.mp3">123－A trip to Australia</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/125－Tea for two.mp3">125－Tea for two</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/127－A famous actress.mp3">127－A famous actress</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/129－Seventy miles an hour.mp3">129－Seventy miles an hour</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/131－Don’t be so sure.mp3">131－Don’t be so sure</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/133－Sensational news.mp3">133－Sensational news</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/135－The latest report.mp3">135－The latest report</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/137－A pleasant dream.mp3">137－A pleasant dream</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/139－Is that you, John.mp3">139－Is that you, John</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/141－Sally’s first train ride.mp3">141－Sally’s first train ride</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE1/143－A walk through the woods.mp3">143－A walk through the woods</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="accordion-section">
+                <div class="accordion-header">NCE2</div>
+                <div class="accordion-content">
+                    <ul>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/01－A Private Conversation.mp3">01－A Private Conversation</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/02－Breakfast or Lunch.mp3">02－Breakfast or Lunch</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/03－Please Send Me a Card.mp3">03－Please Send Me a Card</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/04－An Exciting Trip.mp3">04－An Exciting Trip</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/05－No Wrong Numbers.mp3">05－No Wrong Numbers</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/06－Percy Buttons.mp3">06－Percy Buttons</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/07－Too Late.mp3">07－Too Late</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/08－The Best and the Worst.mp3">08－The Best and the Worst</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/09－A Cold Welcome.mp3">09－A Cold Welcome</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/10－Not for Jazz.mp3">10－Not for Jazz</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/11－One Good Turn Deserves Another.mp3">11－One Good Turn Deserves Another</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/12－Goodbye and Good Luck.mp3">12－Goodbye and Good Luck</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/13－The Greenwood Boys.mp3">13－The Greenwood Boys</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/14－Do You Speak English.mp3">14－Do You Speak English</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/15－Good News.mp3">15－Good News</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/16－A Polite Request.mp3">16－A Polite Request</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/17－Always Young.mp3">17－Always Young</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/18－He Often does This.mp3">18－He Often does This</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/19－Sold Out.mp3">19－Sold Out</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/20－One Man in a Boat.mp3">20－One Man in a Boat</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/21－Mad or Not.mp3">21－Mad or Not</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/22－A Glass Envelope.mp3">22－A Glass Envelope</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/23－A New House.mp3">23－A New House</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/24－It Could be Worse.mp3">24－It Could be Worse</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/"></li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/25－Do the English Speak English.mp3">25－Do the English Speak English</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/26－The Best Art Critics.mp3">26－The Best Art Critics</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/27－A Wet Night.mp3">27－A Wet Night</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/28－No Parking.mp3">28－No Parking</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/29－Taxi.mp3">29－Taxi</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/30－Football or Polo.mp3">30－Football or Polo</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/31－Success Story.mp3">31－Success Story</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/32－Shopping Made Easy.mp3">32－Shopping Made Easy</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/33－Out of the Darkness.mp3">33－Out of the Darkness</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/34－Quick Work.mp3">34－Quick Work</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/35－Stop Thief.mp3">35－Stop Thief</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/36－Across the Channel.mp3">36－Across the Channel</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/37－The Olympic Games.mp3">37－The Olympic Games</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/38－Everything Except the Weather.mp3">38－Everything Except the Weather</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/39－Am I All Right.mp3">39－Am I All Right</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/40－Food and Talk.mp3">40－Food and Talk</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/41－Do You Call That a Hat.mp3">41－Do You Call That a Hat</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/42－Not Very Musical.mp3">42－Not Very Musical</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/43－Over the South Pole.mp3">43－Over the South Pole</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/44－Through the Forest.mp3">44－Through the Forest</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/45－A Clear Conscience.mp3">45－A Clear Conscience</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/46－Expensive and Uncomfortable.mp3">46－Expensive and Uncomfortable</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/47－A Thirsty Ghost.mp3">47－A Thirsty Ghost</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/48－Did You Want to Tell Me Something.mp3">48－Did You Want to Tell Me Something</li>
+                        <li data-src=""></li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/49－The End of a Dream.mp3">49－The End of a Dream</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/50－Taken for a Ride.mp3">50－Taken for a Ride</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/51－Reward for Virtue.mp3">51－Reward for Virtue</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/52－A Pretty Carpet.mp3">52－A Pretty Carpet</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/53－Hot Snake.mp3">53－Hot Snake</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/54－Sticky Fingers.mp3">54－Sticky Fingers</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/55－Not a Gold Mine.mp3">55－Not a Gold Mine</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/56－Faster Than Sound.mp3">56－Faster Than Sound</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/57－Can I Help You, Madam.mp3">57－Can I Help You, Madam</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/58－A Blessing in Disguise.mp3">58－A Blessing in Disguise</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/59－In or Out.mp3">59－In or Out</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/60－The Future.mp3">60－The Future</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/61－Trouble with the Hubble.mp3">61－Trouble with the Hubble</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/62－After the Fire.mp3">62－After the Fire</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/63－She Was Not Amused.mp3">63－She Was Not Amused</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/64－The Channel Tunnel.mp3">64－The Channel Tunnel</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/65－Jumbo Versus the Police.mp3">65－Jumbo Versus the Police</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/66－Sweet as Honey.mp3">66－Sweet as Honey</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/67－Volcanoes.mp3">67－Volcanoes</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/68－Persistent.mp3">68－Persistent</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/69－But not Murder.mp3">69－But not Murder</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/70－Red for Danger.mp3">70－Red for Danger</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/71－A Famous Clock.mp3">71－A Famous Clock</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/72－A Car Called Bluebird.mp3">72－A Car Called Bluebird</li>
+                        <li data-src=""></li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/73－The Record-Holder.mp3">73－The Record-Holder</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/74－Out of the Limelight.mp3">74－Out of the Limelight</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/75－SOS.mp3">75－SOS</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/76－April Fools' Day.mp3">76－April Fools' Day</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/77－A Successful Operation.mp3">77－A Successful Operation</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/78－The Last One.mp3">78－The Last One</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/79－By Air.mp3">79－By Air</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/80－The Crystal Palace.mp3">80－The Crystal Palace</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/81－Escape.mp3">81－Escape</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/82－Monster or Fish.mp3">82－Monster or Fish</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/83－After the Elections.mp3">83－After the Elections</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/84－On Strike.mp3">84－On Strike</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/85－Never Too Old To Learn.mp3">85－Never Too Old To Learn</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/86－Out of Control.mp3">86－Out of Control</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/87－A Perfect Alibi.mp3">87－A Perfect Alibi</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/88－Trapped in a Mine.mp3">88－Trapped in a Mine</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/89－A Slip of the Tongue.mp3">89－A Slip of the Tongue</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/90－What's for Supper.mp3">90－What's for Supper</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/91－Three Men in a Basket.mp3">91－Three Men in a Basket</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/92－Asking for Trouble.mp3">92－Asking for Trouble</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/93－A Noble Gift.mp3">93－A Noble Gift</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/94－Future Champions.mp3">94－Future Champions</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/95－A Fantasy.mp3">95－A Fantasy</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE2/96－The Dead Return.mp3">96－The Dead Return</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="accordion-section">
+                <div class="accordion-header">NCE3</div>
+                <div class="accordion-content">
+                    <ul>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/01－A Puma at Large.mp3">01－A Puma at Large</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/02－Thirteen Equals One.mp3">02－Thirteen Equals One</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/03－An Unknown Goddess.mp3">03－An Unknown Goddess</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/04－The Double Life of Alfred Bloggs.mp3">04－The Double Life of Alfred Bloggs</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/05－The Facts.mp3">05－The Facts</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/06－Smash-and-Grab.mp3">06－Smash-and-Grab</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/07－Mutilated Ladies.mp3">07－Mutilated Ladies</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/08－A Famous Monastery.mp3">08－A Famous Monastery</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/09－Flying Cats.mp3">09－Flying Cats</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/10－The Loss of the Titanic.mp3">10－The Loss of the Titanic</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/11－Not Guilty.mp3">11－Not Guilty</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/12－Life on a Desert Island.mp3">12－Life on a Desert Island</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/13－It's Only Me.mp3">13－It's Only Me</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/14－A Noble Gangster.mp3">14－A Noble Gangster</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/15－Fifty Pence Worth of Trouble.mp3">15－Fifty Pence Worth of Trouble</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/16－Mary Had a Little Lamb.mp3">16－Mary Had a Little Lamb</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/17－The Longest Suspension Bridge in the World.mp3">17－The Longest Suspension Bridge in the World</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/18－Electric Currents in Modern Art.mp3">18－Electric Currents in Modern Art</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/19－A Very Dear Cat.mp3">19－A Very Dear Cat</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/20－Pioneer Pilots.mp3">20－Pioneer Pilots</li>
+                        <li data-src=""></li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/21－Daniel Mendoza.mp3">21－Daniel Mendoza</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/22－By Heart.mp3">22－By Heart</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/23－One Man's Meat is Another Man's Poison.mp3">23－One Man's Meat is Another Man's Poison</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/24－A Skeleton in the Cupboard.mp3">24－A Skeleton in the Cupboard</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/25－The Cutty Sark.mp3">25－The Cutty Sark</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/26－Wanted a Large Biscuit Tin.mp3">26－Wanted a Large Biscuit Tin</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/27－Nothing to Sell and Nothing to Buy.mp3">27－Nothing to Sell and Nothing to Buy</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/28－Five Pounds Too Dear.mp3">28－Five Pounds Too Dear</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/29－Funny or Not.mp3">29－Funny or Not</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/30－The Death of a Ghost.mp3">30－The Death of a Ghost</li>
+                        <li data-src=""></li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/31－A Lovable Eccentric.mp3">31－A Lovable Eccentric</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/32－A Lost Ship.mp3">32－A Lost Ship</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/33－A Day to Remember.mp3">33－A Day to Remember</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/34－A Happy Discovery.mp3">34－A Happy Discovery</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/35－Justice was Done.mp3">35－Justice was Done</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/36－A Chance in a Million.mp3">36－A Chance in a Million</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/37－The Westhaven Express.mp3">37－The Westhaven Express</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/38－The First Calendar.mp3">38－The First Calendar</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/39－Nothing to Worry About.mp3">39－Nothing to Worry About</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/40－Who's Who.mp3">40－Who's Who</li>
+                        <li data-src=""></li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/41－Illusions of Pastoral Peace.mp3">41－Illusions of Pastoral Peace</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/42－Modern Cavemen.mp3">42－Modern Cavemen</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/43－Fully Insured.mp3">43－Fully Insured</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/44－Speed and Comfort.mp3">44－Speed and Comfort</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/45－The Power of the Press.mp3">45－The Power of the Press</li>
+                        <li data-src=""></li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/46－Do It Yourself.mp3">46－Do It Yourself</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/47－Too High a Price.mp3">47－Too High a Price</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/48－The Silent Village.mp3">48－The Silent Village</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/49－The Ideal Servant.mp3">49－The Ideal Servant</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/50－New Year Resolutions.mp3">50－New Year Resolutions</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/.mp3"></li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/51－Predicting the Future.mp3">51－Predicting the Future</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/52－Mud is Mud.mp3">52－Mud is Mud</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/53－In the Public Interest.mp3">53－In the Public Interest</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/54－Instinct or Cleverness.mp3">54－Instinct or Cleverness</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/55－From the Earth Greetings.mp3">55－From the Earth Greetings</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/.mp3"></li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/56－Our Neighbour, the River.mp3">56－Our Neighbour, the River</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/57－Back in the Old Country.mp3">57－Back in the Old Country</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/58－A Spot of Bother.mp3">58－A Spot of Bother</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/59－Collecting.mp3">59－Collecting</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE3/60－Too Early and Too Late.mp3">60－Too Early and Too Late</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="accordion-section">
+                <div class="accordion-header">NCE4</div>
+                <div class="accordion-content">
+                    <ul>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/01－Finding fossil man.mp3">01－Finding fossil man</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/02－Spare that spider.mp3">02－Spare that spider</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/03－Matterhorn man.mp3">03－Matterhorn man</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/04－Seeing hands.mp3">04－Seeing hands</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/05－Youth.mp3">05－Youth</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/06－The sporting spirit.mp3">06－The sporting spirit</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/07－Bats.mp3">07－Bats</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/08－Trading standards.mp3">08－Trading standards</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/09－Royal espionage.mp3">09－Royal espionage</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/10－Silicon valley.mp3">10－Silicon valley</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/11－How to grow old.mp3">11－How to grow old</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/12－Banks and their customers.mp3">12－Banks and their customers</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/13－The search for oil.mp3">13－The search for oil</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/14－The Butterfly Effect.mp3">14－The Butterfly Effect</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/15－Secrecy in industry.mp3">15－Secrecy in industry</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/16－The modern city.mp3">16－The modern city</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/17－A man-made disease.mp3">17－A man-made disease</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/18－Porpoises.mp3">18－Porpoises</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/19－The stuff of dreams.mp3">19－The stuff of dreams</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/20－Snake poison.mp3">20－Snake poison</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/21－William S. Hart and the early 'Western' film.mp3">21－William S. Hart and the early 'Western' film</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/22－Knowledge and progress.mp3">22－Knowledge and progress</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/23－Bird flight.mp3">23－Bird flight</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/24－Beauty.mp3">24－Beauty</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/25－Non-auditory effects of noise.mp3">25－Non-auditory effects of noise</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/26－The past life of the earth.mp3">26－The past life of the earth</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/27－The 'Vasa'.mp3">27－The 'Vasa'</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/28－Patients and doctors.mp3">28－Patients and doctors</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/29－The hovercraft.mp3">29－The hovercraft</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/30－Exploring the sea-floor.mp3">30－Exploring the sea-floor</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/31－The sculptor speaks.mp3">31－The sculptor speaks</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/32－Galileo reborn.mp3">32－Galileo reborn</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/33－Education.mp3">33－Education</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/34－Adolescence.mp3">34－Adolescence</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/35－Space odyssey.mp3">35－Space odyssey</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/36－The cost of government.mp3">36－The cost of government</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/37－The process of ageing.mp3">37－The process of ageing</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/38－Water and the traveller.mp3">38－Water and the traveller</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/39－What every writer wants.mp3">39－What every writer wants</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/40－Waves.mp3">40－Waves</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/41－Training elephants.mp3">41－Training elephants</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/42－Recording an earthquake.mp3">42－Recording an earthquake</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/43－Are there strangers in space.mp3">43－Are there strangers in space</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/44－Patterns of culture.mp3">44－Patterns of culture</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/45－Of men and galaxies.mp3">45－Of men and galaxies</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/46－Hobbies.mp3">46－Hobbies</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/47－The great escape.mp3">47－The great escape</li>
+                        <li data-src="https://raw.githubusercontent.com/Trigramser/resources/main/NCE/NCE4/48－Planning a share portfolio.mp3">48－Planning a share portfolio</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        // 获取音频元素
+        const audio = document.getElementById('audio');
+        const playlist = document.getElementById('playlist');
+        const tracks = playlist.querySelectorAll('li');
+        const speedSlider = document.getElementById('speed');
+        const speedValue = document.getElementById('speed-value');
+        let currentTrackIndex = 0;
+
+        const accordionHeaders = document.querySelectorAll('.accordion-header');
+
+        // 切换 Accordion 显示状态
+        accordionHeaders.forEach(header => {
+            header.addEventListener('click', () => {
+                const content = header.nextElementSibling;
+                const isOpen = content.style.display === 'block';
+
+                // 折叠所有内容
+                document.querySelectorAll('.accordion-content').forEach(content => {
+                    content.style.display = 'none';
+                });
+
+                // 如果当前未展开，则展开
+                if (!isOpen) content.style.display = 'block';
+            });
+        });
+
+        // 初始化播放列表
+        function loadTrack(index) {
+            tracks.forEach(track => track.classList.remove('active'));
+            const selectedTrack = tracks[index];
+            selectedTrack.classList.add('active');
+            const currentSpeed = parseFloat(speedSlider.value); // 获取当前播放速度
+            audio.src = selectedTrack.getAttribute('data-src');
+            audio.playbackRate = currentSpeed; // 应用当前速度
+            // audio.volume = 1; // 设置音量为100%
+            audio.play(); // 打开页面后自动播放
+        }
+
+        // 绑定点击事件
+        tracks.forEach((track, index) => {
+            track.addEventListener('click', () => {
+                currentTrackIndex = index;
+                loadTrack(currentTrackIndex);
+            });
+        });
+
+        // 播放上一首
+        function playPrevious() {
+            currentTrackIndex = (currentTrackIndex - 1 + tracks.length) % tracks.length;
+            loadTrack(currentTrackIndex);
+        }
+
+        // 播放下一首
+        function playNext() {
+            currentTrackIndex = (currentTrackIndex + 1) % tracks.length;
+            loadTrack(currentTrackIndex);
+        }
+
+
+        // 快退功能
+        function rewindAudio() {
+            audio.currentTime = Math.max(0, audio.currentTime - 3); // 最小值不低于 0 秒
+        }
+
+        // 快进功能
+        function forwardAudio() {
+            audio.currentTime = Math.min(audio.duration, audio.currentTime + 3); // 最大值不超过音频长度
+        }
+
+        // 更新播放速度
+        speedSlider.addEventListener('input', () => {
+            const speed = parseFloat(speedSlider.value);
+            audio.playbackRate = speed;
+            speedValue.textContent = speed.toFixed(1); // 显示 1 位小数
+        });
+
+
+        // 监听滑块的键盘事件，阻止左右键默认行为
+        speedSlider.addEventListener('keydown', (event) => {
+            if (event.code === 'ArrowLeft' || event.code === 'ArrowRight') {
+                event.preventDefault();  // 阻止滑块默认的左右键行为
+            }
+        });
+
+        // 监听空格键，播放或暂停音频
+        window.addEventListener('keydown', (event) => {
+            if (event.code === 'Space' || event.keyCode === 32) {
+                event.preventDefault();  // 阻止滚动等默认行为
+                event.stopPropagation(); // 阻止事件冒泡
+
+                if (audio.paused) {
+                    audio.play();
+                } else {
+                    audio.pause();
+                }
+            }
+
+            // 处理左右键快进/快退
+            if (event.code === 'ArrowRight') {
+                    audio.currentTime += 3; // 快进 5 秒
+                } else if (event.code === 'ArrowLeft') {
+                    audio.currentTime = Math.max(0, audio.currentTime - 5); // 快退 5 秒
+            }
+        }, true);
+
+        // 击后空格键失效的问题
+        audio.addEventListener('focus', () => {
+            setTimeout(() => {
+                audio.blur();  // 移除焦点，确保空格键有效
+            }, 100);
+        });
+
+
+        // 默认加载第一首
+        // loadTrack(currentTrackIndex);
+    </script>
+
+</body>
+</html>
+

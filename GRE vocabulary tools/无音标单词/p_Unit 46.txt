@@ -1,0 +1,607 @@
+<<<<<<< HEAD
+mentor:
+    The old writer was his mentor and friend.
+#那位老作家是他的导师和朋友。
+
+knotty:
+    a knotty rope
+#有节的绳索
+    a knotty problem
+#棘手的问题
+
+inspired:
+    inspired prophets
+#受神灵启示的先知们
+    an inspired moment
+#在灵感支配下的一刹那
+    an inspired performance
+#精彩的演出
+    the inspired air
+#吸入的空气
+
+familiarity:
+    familiarity with English history
+#通晓英国史
+    treat sb. with familiarity
+#亲昵地对待某人
+
+patriotism:
+    A wave of patriotism seems to have swept the country.
+#一股爱国主义浪潮似乎席卷了这个国家。
+
+abstentious:
+    an abstentious meal
+#节俭的一餐
+    He has had a very abstentious life since he became a Christian.
+#成为基督徒后，他就过着种很有节制的生活。
+
+rectitude:
+    spirit of rectitude
+#正直无私的精神
+    rectitude of judgment
+#判断的正确
+    She was convinced of the rectitude of her decision.
+#她相信自己的决定是正确的。
+
+sibyl:
+    At the beginning of the war, the king asked the sibyl which side she thought would win.
+#战争开始时，国王向女预言家询问哪一方将赢。
+
+zephyr:
+    The fresh, clear air, moved agreeably by a zephyr breeze, held a scent of jasmine.
+#和风吹动的清新空气传来莱莉花香。
+
+spurt:
+    a spurt of flame
+#一股火焰
+    a spurt in unemployment
+#失业的激增
+    Rain came down in sudden torrential spurts.
+#雨突然瓢泼而下。
+
+preposterous:
+    a preposterous situation
+#反常的情况
+    a preposterous idea
+#荒谬的想法
+
+etymology:
+    At university she developed an interest in etymology.
+#在大学里，她对词源学产生了兴趣。
+
+piquant:
+    piquant pickles
+#辣味泡菜
+    a piquant piece of news
+#一则振奋人心的消息
+    a piquant wit
+#妙趣横生的巧语
+
+backset:
+    The backset has really disheartened him.
+#这个挫折确实使他垂头丧气。
+
+typhoon:
+    A 1, 8000 ton vessel went down during a typhoon in the sea.
+#在一场台风中，一艘18000吨的轮船在海中沉没了。
+
+ungrudging:
+    ungrudging efforts
+#无怨言的埋头努力
+    ungrudging admiration
+#由衷的钦佩
+
+double-cross:
+    Now you have seen how they will double-cross you.
+#现在你看到了他们将如何欺骗你。
+
+multiplicity:
+    the multiplicity of nature
+#大自然的多样性
+    a multiplicity of duties
+#繁多的职责
+
+behoove:
+    a quality that behooves a scholar
+#学者应具有的品质
+    It behooves us to know as much as possible about the matter.
+#我们理应尽多地了解关于这个问题的情况。
+
+informer:
+    An informer told the police that the shop was selling the stolen jewelry.
+#一告密者向警方告发家商店在销售失窃的珠宝。
+
+footle:
+    He is footling around the city.
+#他在城中闲逛
+
+restorative:
+    The government has promised 500 million restorative dollars.
+#政府已允诺拨款500万美元用于恢复工作。
+
+striated:
+    a violently striated look
+#一副满横肉的相貌
+
+sustained:
+    a period of sustained economic growth
+#经济持续增长期
+    The enemy mounted a sustained attack on the castle.
+#敌人对城堡发起了持续的攻击。
+
+pluralism:
+    After years of state control, the country is now moving towards religious pluralism.
+#政府控制多年以后，该国正在走向宗教多元化。
+
+welsh:
+    welsh on one's debts
+#赖债
+    welsh on one's promise
+#食言
+
+invective:
+    a speech filled with invective
+#充满猛烈抨击的演说
+    He sometimes let loose great invective against the things he hates.
+#他有时对自己所痛恨的事物破口大骂。
+
+jovial:
+    a jovial evening
+#愉快的夜晚
+    speak in a jovial mood
+#以愉快的心情说
+
+libelous:
+    a libelous article
+#有诽谤文字的文章
+    a libelous tongue
+#好造谣诽谤的嘴
+
+advert:
+    She adverted to a topic mentioned earlier by another speaker.
+#她评论了先前另一个演讲人提到过的问题。
+
+inveigh:
+    inveigh against military dictatorship
+#猛烈押击军事独裁
+
+lithe:
+    a lithe vine
+#柔软的藤
+
+forbidding:
+    a forbidding task
+#讨厌的工作
+    a forbidding coast
+#险峻的海岸
+    forbidding clouds
+#令人生畏的云
+    The headmaster seems stern and forbidding.
+#校长看起来很严厉，令人望而生畏。
+
+bleary:
+    a bleary view
+#朦陇的景色
+    Her eyes were bleary with fatigue.
+#她累得视线都模糊了。
+
+spiel:
+    make a spiel
+#夸夸其谈
+    He's always spieling about the "values of poetry".
+#他总是夸夸其谈地讲“诗的价值”。
+
+iota:
+    She hadn't an iota of proof.
+#她一点证据也没有。
+
+insouciant:
+    a gay insouciant person
+#快活逍遥的人
+
+stolid:
+    He was a rather stolid, serious type.
+#他是那种本正经不太喜形于色的人。
+
+piddling:
+    a piddling salary
+#微薄的薪金
+
+bonny:
+    a bonny baby
+#健康漂亮的婴儿
+
+incision:
+    the surgeon's skilful incision of the tissues
+#外科医生对机体组织的熟练切开
+
+garble:
+    garble a quotation.
+#篡改引文
+    a garble report of a speech
+#对一次讲话的歪曲报道
+
+jocund:
+    a jocund companion
+#一个乐呵呵的伴儿
+
+sorcery:
+    Even today some people still believe in sorcery.
+#即使在今天，有些人仍然相信巫术。
+
+antic:
+    The clown amused the audience by his childish antics.
+#小丑用幼稚的滑稽动作使观众们发笑。
+
+crescendo:
+    The gale reached its crescendo in the evening.
+#傍晚时大风风力达到最强。
+
+pillage:
+    rape and pillage
+#奸淫掠夺
+    Waves of invaders pillaged towns along the coast without anyone being able to stop them.
+#一批批人侵者掠夺沿岸的城镇，无人能阻挡他们。
+
+unprepossessing:
+    an unprepossessing place
+#不起眼的地方
+    She was externally very unprepossessing.
+#她的外表很不吸引人。
+
+peaky:
+    a peaky face
+#尖脸
+
+acarpous:
+    an acarpous tree
+#不结果的树
+
+adherent:
+    an adherent substance
+#黏性物质
+    This idea is gaining adherents.
+#这种观念正在赢得支持者。
+
+gustation:
+    Appreciating both the landscapes and delicacies, you can start the dual enjoyment of vision and gustation here.
+#赏自然美景，品山水佳肴，视觉和味觉的双重盛宴从这里开始。
+
+secretive:
+    a secretive air
+#讳莫如深的样子
+    She's very secretive about money matters.
+#她对钱财之事一向守口如瓶。
+
+narcissist:
+    What a narcissist he must be -- all these mirrors everywhere.
+#他一定是个十足的自恋狂——这里到处都是镜子。
+
+lissome:
+    a lissome dancing girl
+#轻快而优雅的舞女
+
+excitability:
+    Speech production increased the excitability of hand motor cortex. 
+#言语产生可增加手运动皮层的兴奋性。
+
+parch:
+    The hot sun parched the bare earth below.
+#火辣辣的太阳灼烤着光秃秃的大地。
+
+goldbrick:
+    The painting proved to be a goldbrick.
+#这幅油画被证明是个质品。
+
+bombast:
+    There was no bombast or conceit in his speech.
+#他的演讲并没有夸大其词和自吹自擂。
+
+glower:
+    The defendant glowered defiantly at the judge as she sentenced him to life imprisonment.
+#当被告被判终身监禁时，他不服地怒视着法官。
+
+=======
+mentor:
+    The old writer was his mentor and friend.
+#那位老作家是他的导师和朋友。
+
+knotty:
+    a knotty rope
+#有节的绳索
+    a knotty problem
+#棘手的问题
+
+inspired:
+    inspired prophets
+#受神灵启示的先知们
+    an inspired moment
+#在灵感支配下的一刹那
+    an inspired performance
+#精彩的演出
+    the inspired air
+#吸入的空气
+
+familiarity:
+    familiarity with English history
+#通晓英国史
+    treat sb. with familiarity
+#亲昵地对待某人
+
+patriotism:
+    A wave of patriotism seems to have swept the country.
+#一股爱国主义浪潮似乎席卷了这个国家。
+
+abstentious:
+    an abstentious meal
+#节俭的一餐
+    He has had a very abstentious life since he became a Christian.
+#成为基督徒后，他就过着种很有节制的生活。
+
+rectitude:
+    spirit of rectitude
+#正直无私的精神
+    rectitude of judgment
+#判断的正确
+    She was convinced of the rectitude of her decision.
+#她相信自己的决定是正确的。
+
+sibyl:
+    At the beginning of the war, the king asked the sibyl which side she thought would win.
+#战争开始时，国王向女预言家询问哪一方将赢。
+
+zephyr:
+    The fresh, clear air, moved agreeably by a zephyr breeze, held a scent of jasmine.
+#和风吹动的清新空气传来莱莉花香。
+
+spurt:
+    a spurt of flame
+#一股火焰
+    a spurt in unemployment
+#失业的激增
+    Rain came down in sudden torrential spurts.
+#雨突然瓢泼而下。
+
+preposterous:
+    a preposterous situation
+#反常的情况
+    a preposterous idea
+#荒谬的想法
+
+etymology:
+    At university she developed an interest in etymology.
+#在大学里，她对词源学产生了兴趣。
+
+piquant:
+    piquant pickles
+#辣味泡菜
+    a piquant piece of news
+#一则振奋人心的消息
+    a piquant wit
+#妙趣横生的巧语
+
+backset:
+    The backset has really disheartened him.
+#这个挫折确实使他垂头丧气。
+
+typhoon:
+    A 1, 8000 ton vessel went down during a typhoon in the sea.
+#在一场台风中，一艘18000吨的轮船在海中沉没了。
+
+ungrudging:
+    ungrudging efforts
+#无怨言的埋头努力
+    ungrudging admiration
+#由衷的钦佩
+
+double-cross:
+    Now you have seen how they will double-cross you.
+#现在你看到了他们将如何欺骗你。
+
+multiplicity:
+    the multiplicity of nature
+#大自然的多样性
+    a multiplicity of duties
+#繁多的职责
+
+behoove:
+    a quality that behooves a scholar
+#学者应具有的品质
+    It behooves us to know as much as possible about the matter.
+#我们理应尽多地了解关于这个问题的情况。
+
+informer:
+    An informer told the police that the shop was selling the stolen jewelry.
+#一告密者向警方告发家商店在销售失窃的珠宝。
+
+footle:
+    He is footling around the city.
+#他在城中闲逛
+
+restorative:
+    The government has promised 500 million restorative dollars.
+#政府已允诺拨款500万美元用于恢复工作。
+
+striated:
+    a violently striated look
+#一副满横肉的相貌
+
+sustained:
+    a period of sustained economic growth
+#经济持续增长期
+    The enemy mounted a sustained attack on the castle.
+#敌人对城堡发起了持续的攻击。
+
+pluralism:
+    After years of state control, the country is now moving towards religious pluralism.
+#政府控制多年以后，该国正在走向宗教多元化。
+
+welsh:
+    welsh on one's debts
+#赖债
+    welsh on one's promise
+#食言
+
+invective:
+    a speech filled with invective
+#充满猛烈抨击的演说
+    He sometimes let loose great invective against the things he hates.
+#他有时对自己所痛恨的事物破口大骂。
+
+jovial:
+    a jovial evening
+#愉快的夜晚
+    speak in a jovial mood
+#以愉快的心情说
+
+libelous:
+    a libelous article
+#有诽谤文字的文章
+    a libelous tongue
+#好造谣诽谤的嘴
+
+advert:
+    She adverted to a topic mentioned earlier by another speaker.
+#她评论了先前另一个演讲人提到过的问题。
+
+inveigh:
+    inveigh against military dictatorship
+#猛烈押击军事独裁
+
+lithe:
+    a lithe vine
+#柔软的藤
+
+forbidding:
+    a forbidding task
+#讨厌的工作
+    a forbidding coast
+#险峻的海岸
+    forbidding clouds
+#令人生畏的云
+    The headmaster seems stern and forbidding.
+#校长看起来很严厉，令人望而生畏。
+
+bleary:
+    a bleary view
+#朦陇的景色
+    Her eyes were bleary with fatigue.
+#她累得视线都模糊了。
+
+spiel:
+    make a spiel
+#夸夸其谈
+    He's always spieling about the "values of poetry".
+#他总是夸夸其谈地讲“诗的价值”。
+
+iota:
+    She hadn't an iota of proof.
+#她一点证据也没有。
+
+insouciant:
+    a gay insouciant person
+#快活逍遥的人
+
+stolid:
+    He was a rather stolid, serious type.
+#他是那种本正经不太喜形于色的人。
+
+piddling:
+    a piddling salary
+#微薄的薪金
+
+bonny:
+    a bonny baby
+#健康漂亮的婴儿
+
+incision:
+    the surgeon's skilful incision of the tissues
+#外科医生对机体组织的熟练切开
+
+garble:
+    garble a quotation.
+#篡改引文
+    a garble report of a speech
+#对一次讲话的歪曲报道
+
+jocund:
+    a jocund companion
+#一个乐呵呵的伴儿
+
+sorcery:
+    Even today some people still believe in sorcery.
+#即使在今天，有些人仍然相信巫术。
+
+antic:
+    The clown amused the audience by his childish antics.
+#小丑用幼稚的滑稽动作使观众们发笑。
+
+crescendo:
+    The gale reached its crescendo in the evening.
+#傍晚时大风风力达到最强。
+
+pillage:
+    rape and pillage
+#奸淫掠夺
+    Waves of invaders pillaged towns along the coast without anyone being able to stop them.
+#一批批人侵者掠夺沿岸的城镇，无人能阻挡他们。
+
+unprepossessing:
+    an unprepossessing place
+#不起眼的地方
+    She was externally very unprepossessing.
+#她的外表很不吸引人。
+
+peaky:
+    a peaky face
+#尖脸
+
+acarpous:
+    an acarpous tree
+#不结果的树
+
+adherent:
+    an adherent substance
+#黏性物质
+    This idea is gaining adherents.
+#这种观念正在赢得支持者。
+
+gustation:
+    Appreciating both the landscapes and delicacies, you can start the dual enjoyment of vision and gustation here.
+#赏自然美景，品山水佳肴，视觉和味觉的双重盛宴从这里开始。
+
+secretive:
+    a secretive air
+#讳莫如深的样子
+    She's very secretive about money matters.
+#她对钱财之事一向守口如瓶。
+
+narcissist:
+    What a narcissist he must be -- all these mirrors everywhere.
+#他一定是个十足的自恋狂——这里到处都是镜子。
+
+lissome:
+    a lissome dancing girl
+#轻快而优雅的舞女
+
+excitability:
+    Speech production increased the excitability of hand motor cortex. 
+#言语产生可增加手运动皮层的兴奋性。
+
+parch:
+    The hot sun parched the bare earth below.
+#火辣辣的太阳灼烤着光秃秃的大地。
+
+goldbrick:
+    The painting proved to be a goldbrick.
+#这幅油画被证明是个质品。
+
+bombast:
+    There was no bombast or conceit in his speech.
+#他的演讲并没有夸大其词和自吹自擂。
+
+glower:
+    The defendant glowered defiantly at the judge as she sentenced him to life imprisonment.
+#当被告被判终身监禁时，他不服地怒视着法官。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

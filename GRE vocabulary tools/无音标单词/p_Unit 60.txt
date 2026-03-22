@@ -1,0 +1,641 @@
+<<<<<<< HEAD
+hieroglyph:
+    The hieroglyphs are carved into the walls of the temple.
+#寺庙的墙上刻着象形文字。
+
+reciprocity:
+    The two countries have signed a new agreement based on reciprocity in trade.
+#两国签署了贸易互惠的新协议。
+
+grandiloquent:
+    a grandiloquent style of architecture
+#夸张的建筑风格
+    a grandiloquent summer estate
+#豪华的避暑山庄
+    His speech was full of grandiloquent language, but it contained no new ideas.
+#他的演讲充满了浮华的语言，但却没有新的见解。
+
+nonradioactive:
+    nonradioactive labeling
+#非放射性标记
+
+modifier:
+    According to the circumstances, the weather modifiers may use salt, dry ice or plain dirt.
+#改造天气的人们可根据情况分别使用盐、干冰和普通的尘埃。
+
+paleolithic:
+    a paleolithic man
+#旧石器时代的人
+
+recoil:
+    recoil in horror from a snake
+#看见蛇吓得往后退
+    the recoil of a spring
+#弹簧的弹回
+    An evil deed may recoil on the head of the doer.
+#恶行可能会报应在作恶者自己身上。
+
+digressive:
+    digressive remarks
+#离题的言论
+    a digressive essay
+#漫谈式散文
+
+murderous:
+    a murderous dictator
+#杀人不眨眼的独裁者
+    a murderous act
+#蓄意谋杀
+    a murderous weapon
+#凶器
+    a murderous summer
+#酷热的夏天
+    a murderous mountain path
+#险峻的山峰
+    His eyes have a murderous glint.
+#他面露杀机。
+
+odious:
+    an odious little man
+#可恶的小人
+    The judge described the crime as odious.
+#法官称这一罪行令人发指。
+
+tricky:
+    a tricky dealer
+#狡猾的商販
+    a tricky problem
+#棘手的问题
+    I'm in a bit of a tricky situation -- whatever I do I'll offend someone.
+#我真的处在一个微妙的局势中——不管我做什么都会冒犯人。
+
+astute:
+    an astute investor
+#精明的投资者
+    play the most astute mind of politics
+#玩弄最狡猾的权术
+    Had he been more astute he might have stayed in power longer.
+#要是城府更深些的话，他掌权的时间也许会更长些了。
+
+divulge:
+    The secret has been divulged to none.
+#这一机密没有向任何人泄露过。
+
+repudiation:
+    the repudiation of the evidence
+#对证据的否定
+    They were surprised by his sudden repudiation of all his former beliefs.
+#他们对他完全据弃从前所有的信仰感到惊奇。
+
+onerous:
+    an onerous burden
+#沉重的负担
+    an onerous contract
+#负有义务的契约
+    The task of finding a peaceful solution is almost too onerous to bear.
+#找到和平的解决方法的任务太沉重，几乎让人难以担负。
+
+primordial:
+    primordial gas and dust
+#原始气体和尘埃
+    ancient, primordial rainforest
+#古老的原始雨林
+    Primordial human joys
+#人的基本乐趣
+    As she sensed danger, she was overcome with primordial feelings of panic and terror.
+#当她感到危险时，她被害怕和恐慌这些原始本能意识压倒了。
+
+voluptuous:
+    voluptuous pleasures
+#感官之乐
+    a voluptuous life
+#骄奢的生活
+    It was a voluptuous richly decorated masterpiece of the 17th century art.
+#那是一个赏心悦目、装饰豪华的17世纪艺术杰作。
+
+intemperance:
+    intemperance in eating
+#饮食无节制
+    Intemperance caused him to become an alcoholic.
+#酌酒使他成了酒徒。
+
+inert:
+    an inert object
+#无生命的物体
+    an inert drug
+#无效的药物
+    He sat, dumbly inert, phone against his mouth for the better part of twenty minutes.
+#20分钟里，他大多时间嘴对着电话，一声不吭地呆坐着。
+
+untutored:
+    be untutored in local history
+#对当地历史不了解
+    untutored shrewdness
+#天生的机灵
+    To my untutored eye that just looks like a load of random brush strokes and yet it's a very valuable painting.
+#在我无知的眼里，那看上去只是一堆随意的涂抹，但却是很有价值的画作。
+
+ductile:
+    ductile metal
+#韧性金属
+    the ductile minds of youth
+#青年人可塑的思想
+    Wax is ductile when it is warm.
+#蜡在受热时是可塑的。
+
+crestfallen:
+    He went away crestfallen.
+#他垂头丧气地走了。
+
+affordable:
+    The store sells nice clothes and they're quite affordable.
+#那家商店出售的衣服很好，而且非常便宜。
+
+opportune:
+    come at the most opportune moment
+#来得正是时候
+    an opportune offer of assistance
+#及时提供帮助
+    an opportune change of plans
+#计划的及时更改
+    This would seem to be an opportune moment for reviving our development plan.
+#看起来这是一个恢复我们的发展计划的大好时机。
+
+dental:
+    The medicine can help reduce dental decay.
+#这药有助于减少蛙牙。
+
+essentially:
+    Essentially, I need to know how many people will be needed and how long.
+#我基本上要知道需要多少人、多长时间。
+
+porous:
+    porous brick walls
+#多孔砖墙
+    porous soil
+#渗水土壤
+    The clay pot is porous.
+#这土罐渗水。
+
+incongruous:
+    incongruous colors
+#不协调的颜色
+    conduct incongruous with principles
+#与信奉的原则不一致的行为
+    His gestures seemed incongruous to what he was.
+#他的姿势似乎跟他的职业身份格格不入。
+
+misogyny:
+    The club's refusal to allow women to become members is sheer misogyny.
+#那个俱乐部不允许女人成为会员是纯粹的厌女观。
+
+immutability:
+    The president stressed once more the immutability of the country's borders.
+#总统再次强调了国家的边界不可改变。
+
+stratagem:
+    He was a master of stratagem.
+#他是个谋略大师。
+
+brownish:
+    She's got strange brownish-blue eyes.
+#她有一双奇特的棕蓝色眼睛。
+
+coercion:
+    the coercion of public opinion
+#舆论的压力
+    She said that she had signed the contract under coercion.
+#她说她被迫签订了合同。
+
+tribal:
+    a tribal leader
+#部落首领
+    a tribal war
+#部落战争
+
+unbridled:
+    unbridled passion
+#无限的激情
+    unbridled ambition
+#无限的野心
+    We need to campaign against the unbridled use of the motor car.
+#我们需要发起一场运动反对无控制地使用汽车。
+
+economize:
+    economize on electricity
+#节约用电
+    You could economize on food by not eating in restaurants.
+#你可以在吃饭上面省钱，别去餐馆吃。
+
+informality:
+    Although she is at the top of the medical profession, she has an informality of approach that is very appealing.
+#虽然她在医学界的地位很高，但她有一种很吸引人的随和态度。
+
+thoughtful:
+    be thoughtful of one's safety
+#注意安全
+    be thoughtful of danger
+#留意危险
+    a thoughtful writer
+#有创见的作者
+    It was very thoughtful of you to make all the necessary arrangements for us.
+#你想得真周到，为我们做了一切必要的安排。
+
+exoneration:
+    the exoneration of responsibility
+#免除责任
+resonant:
+    a resonant voice
+#洪亮的声音
+    a resonant detector
+#共振探测器
+    The air was resonant with the shouts of children.
+#空气中回响着儿童的叫喊声。
+
+sophomoric:
+    a sophomoric scheme
+#幼稚的计划
+
+reverential:
+    He opened the ancient book with reverential care.
+#他虔诚地打开那本古书。
+
+unreserved:
+    in unreserved agreement
+#无保留的同意
+    an unreserved seat
+#未被预订的座位
+    The scheme was accepted, though it certainly didn't meet with unreserved approval.
+#计划被接受了，虽然肯定没有得到完全认可。
+
+captious:
+    a captious woman
+#吹毛求疵的女人
+    a captious question
+#糊弄人的问题
+
+negotiable:
+    negotiable securities
+#流通证券
+    a difficult but negotiable path
+#一条难走但可通行的小路
+    negotiable ideas
+#可被接受的思想
+    Everything is negotiable on this stage -- I'm ruling nothing out.
+#在这个阶段任何事情都是可协商的——我不排除各种可能性。
+
+understated:
+    give a brief and understated account of what has happened
+#对所发生的做简单且低调的解释
+    handle a crisis with understated calm
+#镇静而不动色地处理危机
+    an understated two-storey house
+#朴素的二层楼房
+
+resuscitate:
+    resuscitate a man who has almost drowned
+#把一个几乎溺死的人救活
+    withered plants resuscitated by rain
+#因雨水滋润而复苏的植物
+
+agility:
+    This job requires considerable mental agility.
+#这份工作需要思维非常敏捷。
+
+retentive:
+    She has a very retentive memory.
+#她有很强的记忆力。
+
+infamous:
+    an infamous criminal
+#臭名昭著得罪犯
+    an infamous traitor
+#臭名昭著的叛徒
+    Bill is infamous for practical jokes.
+#比尔因其作剧而臭名昭著。
+
+fickleness:
+    the fickleness of the weather
+#天气的变化无常
+
+=======
+hieroglyph:
+    The hieroglyphs are carved into the walls of the temple.
+#寺庙的墙上刻着象形文字。
+
+reciprocity:
+    The two countries have signed a new agreement based on reciprocity in trade.
+#两国签署了贸易互惠的新协议。
+
+grandiloquent:
+    a grandiloquent style of architecture
+#夸张的建筑风格
+    a grandiloquent summer estate
+#豪华的避暑山庄
+    His speech was full of grandiloquent language, but it contained no new ideas.
+#他的演讲充满了浮华的语言，但却没有新的见解。
+
+nonradioactive:
+    nonradioactive labeling
+#非放射性标记
+
+modifier:
+    According to the circumstances, the weather modifiers may use salt, dry ice or plain dirt.
+#改造天气的人们可根据情况分别使用盐、干冰和普通的尘埃。
+
+paleolithic:
+    a paleolithic man
+#旧石器时代的人
+
+recoil:
+    recoil in horror from a snake
+#看见蛇吓得往后退
+    the recoil of a spring
+#弹簧的弹回
+    An evil deed may recoil on the head of the doer.
+#恶行可能会报应在作恶者自己身上。
+
+digressive:
+    digressive remarks
+#离题的言论
+    a digressive essay
+#漫谈式散文
+
+murderous:
+    a murderous dictator
+#杀人不眨眼的独裁者
+    a murderous act
+#蓄意谋杀
+    a murderous weapon
+#凶器
+    a murderous summer
+#酷热的夏天
+    a murderous mountain path
+#险峻的山峰
+    His eyes have a murderous glint.
+#他面露杀机。
+
+odious:
+    an odious little man
+#可恶的小人
+    The judge described the crime as odious.
+#法官称这一罪行令人发指。
+
+tricky:
+    a tricky dealer
+#狡猾的商販
+    a tricky problem
+#棘手的问题
+    I'm in a bit of a tricky situation -- whatever I do I'll offend someone.
+#我真的处在一个微妙的局势中——不管我做什么都会冒犯人。
+
+astute:
+    an astute investor
+#精明的投资者
+    play the most astute mind of politics
+#玩弄最狡猾的权术
+    Had he been more astute he might have stayed in power longer.
+#要是城府更深些的话，他掌权的时间也许会更长些了。
+
+divulge:
+    The secret has been divulged to none.
+#这一机密没有向任何人泄露过。
+
+repudiation:
+    the repudiation of the evidence
+#对证据的否定
+    They were surprised by his sudden repudiation of all his former beliefs.
+#他们对他完全据弃从前所有的信仰感到惊奇。
+
+onerous:
+    an onerous burden
+#沉重的负担
+    an onerous contract
+#负有义务的契约
+    The task of finding a peaceful solution is almost too onerous to bear.
+#找到和平的解决方法的任务太沉重，几乎让人难以担负。
+
+primordial:
+    primordial gas and dust
+#原始气体和尘埃
+    ancient, primordial rainforest
+#古老的原始雨林
+    Primordial human joys
+#人的基本乐趣
+    As she sensed danger, she was overcome with primordial feelings of panic and terror.
+#当她感到危险时，她被害怕和恐慌这些原始本能意识压倒了。
+
+voluptuous:
+    voluptuous pleasures
+#感官之乐
+    a voluptuous life
+#骄奢的生活
+    It was a voluptuous richly decorated masterpiece of the 17th century art.
+#那是一个赏心悦目、装饰豪华的17世纪艺术杰作。
+
+intemperance:
+    intemperance in eating
+#饮食无节制
+    Intemperance caused him to become an alcoholic.
+#酌酒使他成了酒徒。
+
+inert:
+    an inert object
+#无生命的物体
+    an inert drug
+#无效的药物
+    He sat, dumbly inert, phone against his mouth for the better part of twenty minutes.
+#20分钟里，他大多时间嘴对着电话，一声不吭地呆坐着。
+
+untutored:
+    be untutored in local history
+#对当地历史不了解
+    untutored shrewdness
+#天生的机灵
+    To my untutored eye that just looks like a load of random brush strokes and yet it's a very valuable painting.
+#在我无知的眼里，那看上去只是一堆随意的涂抹，但却是很有价值的画作。
+
+ductile:
+    ductile metal
+#韧性金属
+    the ductile minds of youth
+#青年人可塑的思想
+    Wax is ductile when it is warm.
+#蜡在受热时是可塑的。
+
+crestfallen:
+    He went away crestfallen.
+#他垂头丧气地走了。
+
+affordable:
+    The store sells nice clothes and they're quite affordable.
+#那家商店出售的衣服很好，而且非常便宜。
+
+opportune:
+    come at the most opportune moment
+#来得正是时候
+    an opportune offer of assistance
+#及时提供帮助
+    an opportune change of plans
+#计划的及时更改
+    This would seem to be an opportune moment for reviving our development plan.
+#看起来这是一个恢复我们的发展计划的大好时机。
+
+dental:
+    The medicine can help reduce dental decay.
+#这药有助于减少蛙牙。
+
+essentially:
+    Essentially, I need to know how many people will be needed and how long.
+#我基本上要知道需要多少人、多长时间。
+
+porous:
+    porous brick walls
+#多孔砖墙
+    porous soil
+#渗水土壤
+    The clay pot is porous.
+#这土罐渗水。
+
+incongruous:
+    incongruous colors
+#不协调的颜色
+    conduct incongruous with principles
+#与信奉的原则不一致的行为
+    His gestures seemed incongruous to what he was.
+#他的姿势似乎跟他的职业身份格格不入。
+
+misogyny:
+    The club's refusal to allow women to become members is sheer misogyny.
+#那个俱乐部不允许女人成为会员是纯粹的厌女观。
+
+immutability:
+    The president stressed once more the immutability of the country's borders.
+#总统再次强调了国家的边界不可改变。
+
+stratagem:
+    He was a master of stratagem.
+#他是个谋略大师。
+
+brownish:
+    She's got strange brownish-blue eyes.
+#她有一双奇特的棕蓝色眼睛。
+
+coercion:
+    the coercion of public opinion
+#舆论的压力
+    She said that she had signed the contract under coercion.
+#她说她被迫签订了合同。
+
+tribal:
+    a tribal leader
+#部落首领
+    a tribal war
+#部落战争
+
+unbridled:
+    unbridled passion
+#无限的激情
+    unbridled ambition
+#无限的野心
+    We need to campaign against the unbridled use of the motor car.
+#我们需要发起一场运动反对无控制地使用汽车。
+
+economize:
+    economize on electricity
+#节约用电
+    You could economize on food by not eating in restaurants.
+#你可以在吃饭上面省钱，别去餐馆吃。
+
+informality:
+    Although she is at the top of the medical profession, she has an informality of approach that is very appealing.
+#虽然她在医学界的地位很高，但她有一种很吸引人的随和态度。
+
+thoughtful:
+    be thoughtful of one's safety
+#注意安全
+    be thoughtful of danger
+#留意危险
+    a thoughtful writer
+#有创见的作者
+    It was very thoughtful of you to make all the necessary arrangements for us.
+#你想得真周到，为我们做了一切必要的安排。
+
+exoneration:
+    the exoneration of responsibility
+#免除责任
+resonant:
+    a resonant voice
+#洪亮的声音
+    a resonant detector
+#共振探测器
+    The air was resonant with the shouts of children.
+#空气中回响着儿童的叫喊声。
+
+sophomoric:
+    a sophomoric scheme
+#幼稚的计划
+
+reverential:
+    He opened the ancient book with reverential care.
+#他虔诚地打开那本古书。
+
+unreserved:
+    in unreserved agreement
+#无保留的同意
+    an unreserved seat
+#未被预订的座位
+    The scheme was accepted, though it certainly didn't meet with unreserved approval.
+#计划被接受了，虽然肯定没有得到完全认可。
+
+captious:
+    a captious woman
+#吹毛求疵的女人
+    a captious question
+#糊弄人的问题
+
+negotiable:
+    negotiable securities
+#流通证券
+    a difficult but negotiable path
+#一条难走但可通行的小路
+    negotiable ideas
+#可被接受的思想
+    Everything is negotiable on this stage -- I'm ruling nothing out.
+#在这个阶段任何事情都是可协商的——我不排除各种可能性。
+
+understated:
+    give a brief and understated account of what has happened
+#对所发生的做简单且低调的解释
+    handle a crisis with understated calm
+#镇静而不动色地处理危机
+    an understated two-storey house
+#朴素的二层楼房
+
+resuscitate:
+    resuscitate a man who has almost drowned
+#把一个几乎溺死的人救活
+    withered plants resuscitated by rain
+#因雨水滋润而复苏的植物
+
+agility:
+    This job requires considerable mental agility.
+#这份工作需要思维非常敏捷。
+
+retentive:
+    She has a very retentive memory.
+#她有很强的记忆力。
+
+infamous:
+    an infamous criminal
+#臭名昭著得罪犯
+    an infamous traitor
+#臭名昭著的叛徒
+    Bill is infamous for practical jokes.
+#比尔因其作剧而臭名昭著。
+
+fickleness:
+    the fickleness of the weather
+#天气的变化无常
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

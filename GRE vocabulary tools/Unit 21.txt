@@ -1,0 +1,621 @@
+<<<<<<< HEAD
+optimum: 英[ˈɒptɪməm] 美[ˈɑːptɪməm]
+$adj. 最优的，最适宜的
+%n. 最佳条件，最佳水平
+    Scientists are trying to learn about the optimum conditions for the growth of a child.
+#科学家正在研究儿童成长的最佳条件。
+
+transmit: 英[trænzˈmɪt] 美[trænzˈmɪt]
+%v. 播送，传输，发射；传递，传达（思想、情感）；传播，传染（病毒、疾病等）；传导（声、电等），透（光等）
+    Water transmits sound faster than air.
+#声音在水中传播的速度比在空气中要快。
+
+pregnant: 英[ˈpreɡnənt] 美[ˈpreɡnənt]
+%adj. 怀孕的，妊娠的；意味深长的，意义重大的
+    Pregnant women shouldn't do heavy physical labor.
+#怀孕妇女不能做重体力劳动。
+
+rebuke: 英[rɪˈbjuːk] 美[rɪˈbjuːk]
+$v. <正式>斥责，指责
+%n. 指责，叱责，训斥
+    He received a stern rebuke from the manager for arriving at work an hour late.
+#他因上班迟到一个小时而遭到经理的严厉训斥。
+
+gloom: 英[ɡluːm] 美[ɡluːm]
+$n. 忧郁，绝望；昏暗，幽暗
+%v. 外观昏暗；显得萧条（或消沉）
+    In the gloom of the thick forest, she nearly lost her way.
+#在茂密阴暗的森林里，她几乎迷了路。
+
+insurgent: 英[ɪnˈsɜːdʒənt] 美[ɪnˈsɜːrdʒənt]
+$adj. 叛乱的；起义的
+%n. 叛乱者；起义者
+    All approaches to the capital are now under the control of the insurgents.
+#所有通往首都的道路都被叛乱分子控制了。
+
+warrant: 英[ˈwɒrənt] 美[ˈwɔːrənt]
+$n. （法院授予警方采取行动的）令状，授权令；（思考、决定或做某事的）正当理由，依据；（接受款项、服务等的）凭单，许可证；（财政）认股权证；准尉委任书
+%v. 使有必要，使正当；需要，值得；允诺，保证
+    The manufacturer warrants that all parts are new.
+#生产商保证所有部件都是新的。
+
+interpretation: 英[ɪnˌtɜːprəˈteɪʃ(ə)n] 美[ɪnˌtɜːrprəˈteɪʃ(ə)n]
+%n. 解释，理解；表演，演奏，艺术处理；口译
+    The dispute is based on two widely different interpretations of the law.
+#争议是基于对法律的两种大不相同的解释。
+
+juvenile: 英[ˈdʒuːvənaɪl] 美[ˈdʒuːvən(ə)l]
+$adj. 青少年的，未成年的；少年犯的；幼稚的，孩子气的；（鸟或动物）幼年的
+%n. 青少年，未成年人；扮演青少年角色的演员；幼鸟，幼兽
+    They are physically mature, but their thoughts are very juvenile.
+#他们在体格上已经长大，但他们的思想还很幼稚。
+
+routine: 英[ruːˈtiːn] 美[ruːˈtiːn]
+$n. 常规，惯例；生活乏味，无聊；（演出中的）一套动作，一系列笑话（等）；（为达到特定目的的）老一套，俗套；（计算机）例行程序
+$adj. 常规的，例行的；平常的，毫不特别的；平淡乏味的
+%v. <罕> 按惯例安排
+    My former friend's sudden arrival upset my established routine.
+#我的老朋友突然光临，打乱了我原定的生活惯例。
+
+diminish: 英[dɪˈmɪnɪʃ] 美[dɪˈmɪnɪʃ]
+%v. 减弱，降低，减少；贬低，轻视
+    Chronic indigestion has diminished his strength.
+#长期消化不良削弱了他的体力。
+
+remorse: 英[rɪˈmɔːs] 美[rɪˈmɔːrs]
+%n. 懊悔，自责
+    He felt no remorse for the mistakes he had made.
+#他对所犯错误没有丝毫悔意。
+
+egocentric: 英[ˌiːɡəʊˈsentrɪk] 美[ˌiːɡoʊˈsentrɪk]
+$adj. [心理] 自我中心的；利己主义的
+%n. 利己主义者
+    Babies are entirely egocentric, concerned only with how warm or cold they are or when they will next be fed.
+#婴儿完全以自我为中心，他们只关心冷暖和下次什么时候有吃的。
+
+reiterate: 英[riˈɪtəreɪt] 美[riˈɪtəreɪt]
+%v. <正式>重申，反复说
+    The government reiterated its refusal to compromise with terrorists.
+#政府反复声明，拒绝与恐怖分子妥协。
+
+commentator: 英[ˈkɒmənteɪtə(r)] 美[ˈkɑːmənteɪtər]
+%n. 现场解说员，实况播音员；评论员
+    His elder brother is a football commentator.
+#他哥哥是足球比赛解说员。
+
+saturate: 英[ˈsætʃəreɪt] 美[ˈsætʃəreɪt]
+$v. 使湿透，浸透；使充满，使饱和；充斥（市场），使（市场）供大于求；使（化学溶液）饱和；饱和磁化；饱和充电；饱和轰炸
+$adj. <文>湿透的；饱和的
+%n. 饱和脂肪
+    His shirt was saturated with sweat while playing basketball.
+#打篮球时他的衬衣让汗水湿透了。
+
+brink: 英[brɪŋk] 美[brɪŋk]
+%n. 边缘
+    The famous scientist said he was on the brink of a major discovery.
+#这位著名的科学家说他将会有重大发现。
+
+atrocity: 英[əˈtrɒsəti] 美[əˈtrɑːsəti]
+%n. （常伴有暴力伤害的）恶行，暴行
+    These war criminals are guilty of acts of great atrocity.
+#这些战犯有令人发指的种种暴行。
+
+brilliant: 英[ˈbrɪliənt] 美[ˈbrɪliənt]
+%adj. 巧妙的，使人印象深的；成功的，辉煌的；聪颖的，技艺高超的；明亮的，鲜艳的
+    She seemed to have a brilliant future ahead of her.
+#她似乎有着灿烂的前途。
+
+bacteria: 英[bækˈtɪəriə] 美[bækˈtɪriə]
+%n. 细菌（bacterium的复数）
+    Bacteria in drinking water have spread the disease.
+#饮用水中的细菌传播了疾病。
+
+crimson: 英[ˈkrɪmz(ə)n] 美[ˈkrɪmz(ə)n]
+$adj. 深红色的；（脸）通红的
+$n. 深红色
+$v. （尤指因尴尬）（脸）变红；（使）深红
+%n. （Crimson）（美）克里姆荪（人名）
+    Her face crimsoned when she saw him watching her.
+#她发觉他看着自己时，脸变得绯红。
+
+superfluous: 英[suːˈpɜːfluəs] 美[suːˈpɜːrfluəs]
+%adj. 多余的，过剩的；奢侈的
+    Whenever I go traveling, I always make sure that I don't take any superfluous luggage with me.
+#去旅行时，总是确保不携带多余的行李。
+
+customary: 英[ˈkʌstəməri] 美[ˈkʌstəmeri]
+$adj. 习俗的，习惯的；特有的，典型的；<法律>按习惯法的，依惯例的；与非洲黑人传统（或法律）有关的
+%n. <史>习惯法汇编
+    In most European countries it is customary for guests at hotels to tip the waiter.
+#在大部分欧洲国家，住旅馆的客人习惯给服务员小费。
+
+tangle: 英[ˈtæŋɡ(ə)l] 美[ˈtæŋɡ(ə)l]
+$v. （使）纠结，（使）缠结；<非正式> 和……发生冲突，和……发生纠纷；（思想、局势变得）纷乱，混乱
+%n. （线、毛发等的）缠结的一团，乱团；混乱，纷乱；<非正式>争吵，打架；大型棕色海藻（尤指昆布）
+    When I opened the box all I could see was a tangle of wires.
+#我打开盒子，看到的是一团乱糟糟的电线。
+
+subvert: 英[səbˈvɜːt] 美[səbˈvɜːrt]
+%v. 颠覆，破坏；腐蚀，使道德败坏
+    The rebel army is attempting to subvert the government.
+#反叛军队企图颠覆政府。
+
+bestow: 英[bɪˈstəʊ] 美[bɪˈstoʊ]
+%vt. 赠予，授予（财产、权力或荣誉）；<古>存放，贮藏；使用
+    Several gifts were bestowed on the distinguished guests.
+#有好几样礼物赠给了贵宾。
+
+imminent: 英[ˈɪmɪnənt] 美[ˈɪmɪnənt]
+%adj. 即将发生的，临近的；<古>垂悬的
+    The Prime Minister denied reports that a general election is imminent.
+#总理否认了即将举行大选的报道。
+
+foster: 英[ˈfɒstə(r)] 美[ˈfɑːstər]
+$v. 促进，培养；领养，收养
+%adj. 代养的，寄养的
+    The summit session will help foster friendly relations and cooperation between our two countries.
+#这次峰会将有助于发展我们两国之间的友好关系和合作。
+
+subside: 英[səbˈsaɪd] 美[səbˈsaɪd]
+%v. 趋于平静，平息；（建筑物或土地）沉降，下陷；（水）退；禁不住显露（强烈的情感，尤指大笑）（subside in/into）；（肿）消退；坐下，跪下，躺下；沉淀
+    The homeowners are worried that their houses will subside because of the flood.
+#房主担心他们的房子会因洪水而下沉。
+
+shatter: 英[ˈʃætə(r)] 美[ˈʃætər]
+$v. （使）破碎，碎裂；破坏，摧毁（抽象物）；使极为惊愕难过，给予极大打击
+%n. 碎片；受到极大打击的状态
+    The force of the explosion shattered the windows.
+#爆炸的威力把窗户玻璃都震碎了。
+
+assertive: 英[əˈsɜːtɪv] 美[əˈsɜːrtɪv]
+%adj. 坚定自信的，果断的
+    If you want to succeed in this business, you should be more assertive.
+#如果你想在这一行取得成就，就必须更加果断。
+
+host: 英[həʊst] 美[hoʊst]
+$n. 主人；主持人；主办者，东道主；寄主，宿主；接受移植组织（或器官）的受体；主机；（某种特别生物的）生存地；许多人（或物）；<古>军队；（圣餐仪式中的）圣饼，圣体
+%v. 主办，做……的东道主；做节目主持人；作为主人组织（聚会），做东；（通常收费在与互联网连接的计算机上）存储网站
+    China is playing host to the next international conference. It's the host nation.
+#中国将举办下届国际会议，它是东道国。
+
+spice: 英[spaɪs] 美[spaɪs]
+$n. 香料，调味品；情趣，趣味；赤褐色；<北英格兰>糖果；<罕>少许
+%v. 给……增添趣味；在……中加香料
+    The aroma of meat and spices came from the kitchen.
+#从厨房飘来了肉和调料的芳香。
+
+detection: 英[dɪˈtekʃ(ə)n] 美[dɪˈtekʃ(ə)n]
+%n. 察觉，发现；侦破（案件）
+    Special bomb detection equipment has been installed at the airport.
+#机场安装了专门的炸弹探测装置。
+
+implication: 英[ˌɪmplɪˈkeɪʃn] 美[ˌɪmplɪˈkeɪʃ(ə)n]
+%n. 可能的影响（或作用、结果）；含意，暗指；牵连，涉及
+    Jack pretended to understand the full implication of John's remark.
+#杰克假装完全听懂了约翰话中的含义。
+
+excess: 英[ɪkˈses] 美[ɪkˈses]
+$n. 超过，过量；越轨行为，暴行；无节制，无度；（保险中的）免赔额
+%adj. 过多的，超额的；额外的，附加的
+    It is harmful to drink to excess.
+#过度饮酒是有害的。
+
+utilize: 英[ˈjuːtəlaɪz] 美[ˈjuːtəlaɪz]
+%v. 利用，使用
+    People all dream of utilizing all their abilities in a suitable highly-paid job.
+#人们都憧憬着在适合自己的高薪工作中，充分发挥自己的能力。
+
+subordinate: 英[səˈbɔːdɪnət] 美[səˈbɔːrdɪnət]
+$n. 部属，下级；从属，次要
+$v. 使从属于，使处于次要地位；使隶属，使服从
+%adj. 从属的，下级的；次要的
+    We should learn to subordinate passion to reason.
+#我们应当学会让感情服从理智。
+
+residential: 英[ˌrezɪˈdenʃ(ə)l] 美[ˌrezɪˈdenʃ(ə)l]
+%adj. 住宅区的，居民区的 ；家庭的，住宅的；（为工作、学习或受人照料而）住宿（在某地）的
+    Gradually the surrounding farmland turned residential.
+#渐渐地，附近的农田变成了住宅区。
+
+shun: 英[ʃʌn] 美[ʃʌn]
+%v. （故意）避开，躲开
+    Since the scandal she's been shunned by her neighbors.
+#自从这一丑闻流传开来，她的邻居们都避开她了。
+
+trample: 英[ˈtræmp(ə)l] 美[ˈtræmp(ə)l]
+$v. 踩，践踏；伤害，侵犯；脚步沉重地走
+%n. <文>践踏，踩踏声
+    Several people were trampled underfoot and seriously injured in the rush to get out of the building.
+#冲出大楼的时候，有几个人被人踩在脚下，严重受伤。
+
+intellectual: 英[ˌɪntəˈlektʃuəl] 美[ˌɪntəˈlektʃuəl]
+$adj. 智力的，理智的；才智超群的；需智力的；思想的，思维的
+%n. 知识分子
+    He's quite bright but he's not what you would describe as intellectual.
+#他很伶俐，但不能说智力很高。
+
+arrogant: 英[ˈærəɡənt] 美[ˈærəɡənt]
+%adj. 傲慢的，自大的
+    His arrogant manner and his conceit are simply disgusting.
+#他的傲慢和自大简直令人厌恶。
+
+coax: 英[kəʊks] 美[koʊks]
+$v. 哄，劝诱；连哄带劝地得到；小心地摆弄（机器或装置）
+$n. 同轴电缆
+%adj. 同轴的，共轴的
+    He has some information that I want so I'm going to coax it out of him over a drink.
+#他知道些我想要的情报，所以我准备在喝酒时从他那里套出来。
+
+distribute: 英[dɪˈstrɪbjuːt] 美[dɪˈstrɪbjuːt]
+%v. 分发，分配；配送，分销；散布，使分布；（印刷）拆（版）还字；周延
+    I saw a girl distributing ad leaflets at the street corner.
+#我看见一个女孩在街道拐角处散发广告传单。
+
+forfeit: 英[ˈfɔːfɪt] 美[ˈfɔːrfɪt]
+$v. 丧失，被没收；（尤指为获得他物）主动放弃
+$n. 罚金，没收物
+%adj. 被没收的，丧失的
+    She forfeited her chance of entering the competition by not posting her form in time.
+#她因为没有及时把表格寄去，从而丧失了参赛的机会。
+
+exposition: 英[ˌekspəˈzɪʃ(ə)n] 美[ˌekspəˈzɪʃ(ə)n]
+%n. 解释，阐述；展览会，博览会；（奏鸣曲等的）呈示部；暴露，揭露
+    The paper contained a full exposition of her political beliefs.
+#这篇论文包含了对她的政治信仰的详细说明。
+
+antique: 英[ænˈtiːk] 美[ænˈtiːk]
+$adj. 古老的，古董的；老式的，过时的；（木器表面罩漆工艺）仿古的，古式的；年久的，破旧的
+$n. 古物，古董；古式（尤指古希腊、古罗马的雕刻、建筑等）；西文粗体字体
+%v. 以仿古式样制作；觅购古玩
+    The car was made in 1796, so it was regarded as an antique.
+#这辆车是1796 年造的，所以现在它被认为是古董了。
+
+multiple: 英[ˈmʌltɪp(ə)l] 美[ˈmʌltɪp(ə)l]
+$adj. 多个的，多种的；多人共有的；影响身体许多部位的
+%n. 倍数；<英>连锁商店；（电信）复联，复接
+    Multiple improvements on the machine won customers' high praise.
+#这部机器的多方面改进赢得了用户高度的赞场
+
+demolish: 英[dɪˈmɒlɪʃ] 美[dɪˈmɑːlɪʃ]
+%vt. 拆毁，拆除（建筑物）；（意外）毁坏，破坏；推翻，驳倒（观点或理论）；<非正式>轻易击败，完胜；<非正式>狼吞虎咽地吃，很快吃光；伤害（感情），破坏（计划）
+    It's very sad that those old houses have had to be demolished so that a supermarket can be built.
+#为了建家超市而不得不拆毁那些老房子是非常令人难过的一件事。
+
+drastic: 英[ˈdræstɪk] 美[ˈdræstɪk]
+%adj. 极端的，激烈的
+    Drastic measures should be taken to combat terrorism.
+#要采取严厉的措施打击恐怖主义。
+
+subtract: 英[səbˈtrækt] 美[səbˈtrækt]
+%vt. 减去，删减；减去，扣除
+    You have to subtract 25% tax from the sum you receive.
+#你得从所得款中扣除25%的税款。
+
+definitive: 英[dɪˈfɪnətɪv] 美[dɪˈfɪnətɪv]
+$adj. 最终的，确定的；最好的，最权威的；（邮票）普通标准型的
+%n. 普通邮票；限定词
+    He's written the definitive history of the Tang dynasty.
+#他撰写了权威性的唐代历史。
+
+pretentious: 英[prɪˈtenʃəs] 美[prɪˈtenʃəs]
+%adj. 自命不凡的，做作的；（书、电影等）捏造的，矫饰的
+    The novel deals with grand themes, but it is never heavy or pretentious.
+#这本小说的主题宏大，但它既不沉闷也不矫饰。
+
+ravage: 英[ˈrævɪdʒ] 美[ˈrævɪdʒ]
+$v. 毁坏，破坏，劫掠
+%n. 蹂躏，大破坏
+    Their business plans were ruined by the ravages of inflation.
+#他们的商业计划被通货膨胀给毁了。
+
+=======
+optimum: 英[ˈɒptɪməm] 美[ˈɑːptɪməm]
+$adj. 最优的，最适宜的
+%n. 最佳条件，最佳水平
+    Scientists are trying to learn about the optimum conditions for the growth of a child.
+#科学家正在研究儿童成长的最佳条件。
+
+transmit: 英[trænzˈmɪt] 美[trænzˈmɪt]
+%v. 播送，传输，发射；传递，传达（思想、情感）；传播，传染（病毒、疾病等）；传导（声、电等），透（光等）
+    Water transmits sound faster than air.
+#声音在水中传播的速度比在空气中要快。
+
+pregnant: 英[ˈpreɡnənt] 美[ˈpreɡnənt]
+%adj. 怀孕的，妊娠的；意味深长的，意义重大的
+    Pregnant women shouldn't do heavy physical labor.
+#怀孕妇女不能做重体力劳动。
+
+rebuke: 英[rɪˈbjuːk] 美[rɪˈbjuːk]
+$v. <正式>斥责，指责
+%n. 指责，叱责，训斥
+    He received a stern rebuke from the manager for arriving at work an hour late.
+#他因上班迟到一个小时而遭到经理的严厉训斥。
+
+gloom: 英[ɡluːm] 美[ɡluːm]
+$n. 忧郁，绝望；昏暗，幽暗
+%v. 外观昏暗；显得萧条（或消沉）
+    In the gloom of the thick forest, she nearly lost her way.
+#在茂密阴暗的森林里，她几乎迷了路。
+
+insurgent: 英[ɪnˈsɜːdʒənt] 美[ɪnˈsɜːrdʒənt]
+$adj. 叛乱的；起义的
+%n. 叛乱者；起义者
+    All approaches to the capital are now under the control of the insurgents.
+#所有通往首都的道路都被叛乱分子控制了。
+
+warrant: 英[ˈwɒrənt] 美[ˈwɔːrənt]
+$n. （法院授予警方采取行动的）令状，授权令；（思考、决定或做某事的）正当理由，依据；（接受款项、服务等的）凭单，许可证；（财政）认股权证；准尉委任书
+%v. 使有必要，使正当；需要，值得；允诺，保证
+    The manufacturer warrants that all parts are new.
+#生产商保证所有部件都是新的。
+
+interpretation: 英[ɪnˌtɜːprəˈteɪʃ(ə)n] 美[ɪnˌtɜːrprəˈteɪʃ(ə)n]
+%n. 解释，理解；表演，演奏，艺术处理；口译
+    The dispute is based on two widely different interpretations of the law.
+#争议是基于对法律的两种大不相同的解释。
+
+juvenile: 英[ˈdʒuːvənaɪl] 美[ˈdʒuːvən(ə)l]
+$adj. 青少年的，未成年的；少年犯的；幼稚的，孩子气的；（鸟或动物）幼年的
+%n. 青少年，未成年人；扮演青少年角色的演员；幼鸟，幼兽
+    They are physically mature, but their thoughts are very juvenile.
+#他们在体格上已经长大，但他们的思想还很幼稚。
+
+routine: 英[ruːˈtiːn] 美[ruːˈtiːn]
+$n. 常规，惯例；生活乏味，无聊；（演出中的）一套动作，一系列笑话（等）；（为达到特定目的的）老一套，俗套；（计算机）例行程序
+$adj. 常规的，例行的；平常的，毫不特别的；平淡乏味的
+%v. <罕> 按惯例安排
+    My former friend's sudden arrival upset my established routine.
+#我的老朋友突然光临，打乱了我原定的生活惯例。
+
+diminish: 英[dɪˈmɪnɪʃ] 美[dɪˈmɪnɪʃ]
+%v. 减弱，降低，减少；贬低，轻视
+    Chronic indigestion has diminished his strength.
+#长期消化不良削弱了他的体力。
+
+remorse: 英[rɪˈmɔːs] 美[rɪˈmɔːrs]
+%n. 懊悔，自责
+    He felt no remorse for the mistakes he had made.
+#他对所犯错误没有丝毫悔意。
+
+egocentric: 英[ˌiːɡəʊˈsentrɪk] 美[ˌiːɡoʊˈsentrɪk]
+$adj. [心理] 自我中心的；利己主义的
+%n. 利己主义者
+    Babies are entirely egocentric, concerned only with how warm or cold they are or when they will next be fed.
+#婴儿完全以自我为中心，他们只关心冷暖和下次什么时候有吃的。
+
+reiterate: 英[riˈɪtəreɪt] 美[riˈɪtəreɪt]
+%v. <正式>重申，反复说
+    The government reiterated its refusal to compromise with terrorists.
+#政府反复声明，拒绝与恐怖分子妥协。
+
+commentator: 英[ˈkɒmənteɪtə(r)] 美[ˈkɑːmənteɪtər]
+%n. 现场解说员，实况播音员；评论员
+    His elder brother is a football commentator.
+#他哥哥是足球比赛解说员。
+
+saturate: 英[ˈsætʃəreɪt] 美[ˈsætʃəreɪt]
+$v. 使湿透，浸透；使充满，使饱和；充斥（市场），使（市场）供大于求；使（化学溶液）饱和；饱和磁化；饱和充电；饱和轰炸
+$adj. <文>湿透的；饱和的
+%n. 饱和脂肪
+    His shirt was saturated with sweat while playing basketball.
+#打篮球时他的衬衣让汗水湿透了。
+
+brink: 英[brɪŋk] 美[brɪŋk]
+%n. 边缘
+    The famous scientist said he was on the brink of a major discovery.
+#这位著名的科学家说他将会有重大发现。
+
+atrocity: 英[əˈtrɒsəti] 美[əˈtrɑːsəti]
+%n. （常伴有暴力伤害的）恶行，暴行
+    These war criminals are guilty of acts of great atrocity.
+#这些战犯有令人发指的种种暴行。
+
+brilliant: 英[ˈbrɪliənt] 美[ˈbrɪliənt]
+%adj. 巧妙的，使人印象深的；成功的，辉煌的；聪颖的，技艺高超的；明亮的，鲜艳的
+    She seemed to have a brilliant future ahead of her.
+#她似乎有着灿烂的前途。
+
+bacteria: 英[bækˈtɪəriə] 美[bækˈtɪriə]
+%n. 细菌（bacterium的复数）
+    Bacteria in drinking water have spread the disease.
+#饮用水中的细菌传播了疾病。
+
+crimson: 英[ˈkrɪmz(ə)n] 美[ˈkrɪmz(ə)n]
+$adj. 深红色的；（脸）通红的
+$n. 深红色
+$v. （尤指因尴尬）（脸）变红；（使）深红
+%n. （Crimson）（美）克里姆荪（人名）
+    Her face crimsoned when she saw him watching her.
+#她发觉他看着自己时，脸变得绯红。
+
+superfluous: 英[suːˈpɜːfluəs] 美[suːˈpɜːrfluəs]
+%adj. 多余的，过剩的；奢侈的
+    Whenever I go traveling, I always make sure that I don't take any superfluous luggage with me.
+#去旅行时，总是确保不携带多余的行李。
+
+customary: 英[ˈkʌstəməri] 美[ˈkʌstəmeri]
+$adj. 习俗的，习惯的；特有的，典型的；<法律>按习惯法的，依惯例的；与非洲黑人传统（或法律）有关的
+%n. <史>习惯法汇编
+    In most European countries it is customary for guests at hotels to tip the waiter.
+#在大部分欧洲国家，住旅馆的客人习惯给服务员小费。
+
+tangle: 英[ˈtæŋɡ(ə)l] 美[ˈtæŋɡ(ə)l]
+$v. （使）纠结，（使）缠结；<非正式> 和……发生冲突，和……发生纠纷；（思想、局势变得）纷乱，混乱
+%n. （线、毛发等的）缠结的一团，乱团；混乱，纷乱；<非正式>争吵，打架；大型棕色海藻（尤指昆布）
+    When I opened the box all I could see was a tangle of wires.
+#我打开盒子，看到的是一团乱糟糟的电线。
+
+subvert: 英[səbˈvɜːt] 美[səbˈvɜːrt]
+%v. 颠覆，破坏；腐蚀，使道德败坏
+    The rebel army is attempting to subvert the government.
+#反叛军队企图颠覆政府。
+
+bestow: 英[bɪˈstəʊ] 美[bɪˈstoʊ]
+%vt. 赠予，授予（财产、权力或荣誉）；<古>存放，贮藏；使用
+    Several gifts were bestowed on the distinguished guests.
+#有好几样礼物赠给了贵宾。
+
+imminent: 英[ˈɪmɪnənt] 美[ˈɪmɪnənt]
+%adj. 即将发生的，临近的；<古>垂悬的
+    The Prime Minister denied reports that a general election is imminent.
+#总理否认了即将举行大选的报道。
+
+foster: 英[ˈfɒstə(r)] 美[ˈfɑːstər]
+$v. 促进，培养；领养，收养
+%adj. 代养的，寄养的
+    The summit session will help foster friendly relations and cooperation between our two countries.
+#这次峰会将有助于发展我们两国之间的友好关系和合作。
+
+subside: 英[səbˈsaɪd] 美[səbˈsaɪd]
+%v. 趋于平静，平息；（建筑物或土地）沉降，下陷；（水）退；禁不住显露（强烈的情感，尤指大笑）（subside in/into）；（肿）消退；坐下，跪下，躺下；沉淀
+    The homeowners are worried that their houses will subside because of the flood.
+#房主担心他们的房子会因洪水而下沉。
+
+shatter: 英[ˈʃætə(r)] 美[ˈʃætər]
+$v. （使）破碎，碎裂；破坏，摧毁（抽象物）；使极为惊愕难过，给予极大打击
+%n. 碎片；受到极大打击的状态
+    The force of the explosion shattered the windows.
+#爆炸的威力把窗户玻璃都震碎了。
+
+assertive: 英[əˈsɜːtɪv] 美[əˈsɜːrtɪv]
+%adj. 坚定自信的，果断的
+    If you want to succeed in this business, you should be more assertive.
+#如果你想在这一行取得成就，就必须更加果断。
+
+host: 英[həʊst] 美[hoʊst]
+$n. 主人；主持人；主办者，东道主；寄主，宿主；接受移植组织（或器官）的受体；主机；（某种特别生物的）生存地；许多人（或物）；<古>军队；（圣餐仪式中的）圣饼，圣体
+%v. 主办，做……的东道主；做节目主持人；作为主人组织（聚会），做东；（通常收费在与互联网连接的计算机上）存储网站
+    China is playing host to the next international conference. It's the host nation.
+#中国将举办下届国际会议，它是东道国。
+
+spice: 英[spaɪs] 美[spaɪs]
+$n. 香料，调味品；情趣，趣味；赤褐色；<北英格兰>糖果；<罕>少许
+%v. 给……增添趣味；在……中加香料
+    The aroma of meat and spices came from the kitchen.
+#从厨房飘来了肉和调料的芳香。
+
+detection: 英[dɪˈtekʃ(ə)n] 美[dɪˈtekʃ(ə)n]
+%n. 察觉，发现；侦破（案件）
+    Special bomb detection equipment has been installed at the airport.
+#机场安装了专门的炸弹探测装置。
+
+implication: 英[ˌɪmplɪˈkeɪʃn] 美[ˌɪmplɪˈkeɪʃ(ə)n]
+%n. 可能的影响（或作用、结果）；含意，暗指；牵连，涉及
+    Jack pretended to understand the full implication of John's remark.
+#杰克假装完全听懂了约翰话中的含义。
+
+excess: 英[ɪkˈses] 美[ɪkˈses]
+$n. 超过，过量；越轨行为，暴行；无节制，无度；（保险中的）免赔额
+%adj. 过多的，超额的；额外的，附加的
+    It is harmful to drink to excess.
+#过度饮酒是有害的。
+
+utilize: 英[ˈjuːtəlaɪz] 美[ˈjuːtəlaɪz]
+%v. 利用，使用
+    People all dream of utilizing all their abilities in a suitable highly-paid job.
+#人们都憧憬着在适合自己的高薪工作中，充分发挥自己的能力。
+
+subordinate: 英[səˈbɔːdɪnət] 美[səˈbɔːrdɪnət]
+$n. 部属，下级；从属，次要
+$v. 使从属于，使处于次要地位；使隶属，使服从
+%adj. 从属的，下级的；次要的
+    We should learn to subordinate passion to reason.
+#我们应当学会让感情服从理智。
+
+residential: 英[ˌrezɪˈdenʃ(ə)l] 美[ˌrezɪˈdenʃ(ə)l]
+%adj. 住宅区的，居民区的 ；家庭的，住宅的；（为工作、学习或受人照料而）住宿（在某地）的
+    Gradually the surrounding farmland turned residential.
+#渐渐地，附近的农田变成了住宅区。
+
+shun: 英[ʃʌn] 美[ʃʌn]
+%v. （故意）避开，躲开
+    Since the scandal she's been shunned by her neighbors.
+#自从这一丑闻流传开来，她的邻居们都避开她了。
+
+trample: 英[ˈtræmp(ə)l] 美[ˈtræmp(ə)l]
+$v. 踩，践踏；伤害，侵犯；脚步沉重地走
+%n. <文>践踏，踩踏声
+    Several people were trampled underfoot and seriously injured in the rush to get out of the building.
+#冲出大楼的时候，有几个人被人踩在脚下，严重受伤。
+
+intellectual: 英[ˌɪntəˈlektʃuəl] 美[ˌɪntəˈlektʃuəl]
+$adj. 智力的，理智的；才智超群的；需智力的；思想的，思维的
+%n. 知识分子
+    He's quite bright but he's not what you would describe as intellectual.
+#他很伶俐，但不能说智力很高。
+
+arrogant: 英[ˈærəɡənt] 美[ˈærəɡənt]
+%adj. 傲慢的，自大的
+    His arrogant manner and his conceit are simply disgusting.
+#他的傲慢和自大简直令人厌恶。
+
+coax: 英[kəʊks] 美[koʊks]
+$v. 哄，劝诱；连哄带劝地得到；小心地摆弄（机器或装置）
+$n. 同轴电缆
+%adj. 同轴的，共轴的
+    He has some information that I want so I'm going to coax it out of him over a drink.
+#他知道些我想要的情报，所以我准备在喝酒时从他那里套出来。
+
+distribute: 英[dɪˈstrɪbjuːt] 美[dɪˈstrɪbjuːt]
+%v. 分发，分配；配送，分销；散布，使分布；（印刷）拆（版）还字；周延
+    I saw a girl distributing ad leaflets at the street corner.
+#我看见一个女孩在街道拐角处散发广告传单。
+
+forfeit: 英[ˈfɔːfɪt] 美[ˈfɔːrfɪt]
+$v. 丧失，被没收；（尤指为获得他物）主动放弃
+$n. 罚金，没收物
+%adj. 被没收的，丧失的
+    She forfeited her chance of entering the competition by not posting her form in time.
+#她因为没有及时把表格寄去，从而丧失了参赛的机会。
+
+exposition: 英[ˌekspəˈzɪʃ(ə)n] 美[ˌekspəˈzɪʃ(ə)n]
+%n. 解释，阐述；展览会，博览会；（奏鸣曲等的）呈示部；暴露，揭露
+    The paper contained a full exposition of her political beliefs.
+#这篇论文包含了对她的政治信仰的详细说明。
+
+antique: 英[ænˈtiːk] 美[ænˈtiːk]
+$adj. 古老的，古董的；老式的，过时的；（木器表面罩漆工艺）仿古的，古式的；年久的，破旧的
+$n. 古物，古董；古式（尤指古希腊、古罗马的雕刻、建筑等）；西文粗体字体
+%v. 以仿古式样制作；觅购古玩
+    The car was made in 1796, so it was regarded as an antique.
+#这辆车是1796 年造的，所以现在它被认为是古董了。
+
+multiple: 英[ˈmʌltɪp(ə)l] 美[ˈmʌltɪp(ə)l]
+$adj. 多个的，多种的；多人共有的；影响身体许多部位的
+%n. 倍数；<英>连锁商店；（电信）复联，复接
+    Multiple improvements on the machine won customers' high praise.
+#这部机器的多方面改进赢得了用户高度的赞场
+
+demolish: 英[dɪˈmɒlɪʃ] 美[dɪˈmɑːlɪʃ]
+%vt. 拆毁，拆除（建筑物）；（意外）毁坏，破坏；推翻，驳倒（观点或理论）；<非正式>轻易击败，完胜；<非正式>狼吞虎咽地吃，很快吃光；伤害（感情），破坏（计划）
+    It's very sad that those old houses have had to be demolished so that a supermarket can be built.
+#为了建家超市而不得不拆毁那些老房子是非常令人难过的一件事。
+
+drastic: 英[ˈdræstɪk] 美[ˈdræstɪk]
+%adj. 极端的，激烈的
+    Drastic measures should be taken to combat terrorism.
+#要采取严厉的措施打击恐怖主义。
+
+subtract: 英[səbˈtrækt] 美[səbˈtrækt]
+%vt. 减去，删减；减去，扣除
+    You have to subtract 25% tax from the sum you receive.
+#你得从所得款中扣除25%的税款。
+
+definitive: 英[dɪˈfɪnətɪv] 美[dɪˈfɪnətɪv]
+$adj. 最终的，确定的；最好的，最权威的；（邮票）普通标准型的
+%n. 普通邮票；限定词
+    He's written the definitive history of the Tang dynasty.
+#他撰写了权威性的唐代历史。
+
+pretentious: 英[prɪˈtenʃəs] 美[prɪˈtenʃəs]
+%adj. 自命不凡的，做作的；（书、电影等）捏造的，矫饰的
+    The novel deals with grand themes, but it is never heavy or pretentious.
+#这本小说的主题宏大，但它既不沉闷也不矫饰。
+
+ravage: 英[ˈrævɪdʒ] 美[ˈrævɪdʒ]
+$v. 毁坏，破坏，劫掠
+%n. 蹂躏，大破坏
+    Their business plans were ruined by the ravages of inflation.
+#他们的商业计划被通货膨胀给毁了。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

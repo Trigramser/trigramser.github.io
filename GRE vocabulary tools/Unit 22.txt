@@ -1,0 +1,637 @@
+<<<<<<< HEAD
+dual: 英[ˈdjuːəl] 美[ˈduːəl]
+$adj. 双的，双重的；双数的；（飞机）双重控制的，复式操纵的；（定理、表达式等）对偶的
+$n. 双数词；对偶定理（或表达式等）
+%v. <英>把（道路）改为复式车行道
+    The room has a dual purpose, serving as both a study and a dining room.
+#这间屋子是两用的，既作书房又作餐厅。
+
+portray: 英[pɔːˈtreɪ] 美[pɔːrˈtreɪ]
+%v. 描绘，描写；（在艺术或文学作品中）描述，刻画；（在电影、戏剧等中）扮演
+    The picture portrays a beautiful young woman and her pet dog.
+#这幅画描绘了一个美貌少妇和她的爱犬。
+
+inevitable: 英[ɪnˈevɪtəb(ə)l] 美[ɪnˈevɪtəb(ə)l]
+$adj. 必然发生的，不可避免的；总会发生的，惯常的
+%n. 必然发生的事，不可避免的事
+    Most quarrels are inevitable at the time, and incredible afterwards.
+#大多数吵架当时是不可避免的，事后也是令人难以置信的。
+
+characteristic: 英[ˌkærəktəˈrɪstɪk] 美[ˌkærəktəˈrɪstɪk]
+$n. 特征，特点，特色
+%adj. 独特的，典型的
+    It is characteristic of wisdom not to do desperate things.
+#明智的特点是不做孤注一掷的事。
+
+crooked: 英[ˈkrʊkɪd] 美[ˈkrʊkɪd]
+$adj. 弯曲的，不直的；歪的；不诚实的，狡诈的；<澳新，非正式>生气的
+%v. （手指或手臂）弯曲；诈骗，偷窃；弯曲，成钩形（crook 的过去式和过去分词）
+    You have to drive slowly on these crooked country roads.
+#在这些弯弯曲曲的乡间小路上你得慢慢开车。
+
+creed: 英[kriːd] 美[kriːd]
+%n. 教条，宗教信仰；信念，信条；（基督教）信经（the Creed）
+    People of every color and creed came to the ceremony.
+#各种肤色和教派的人都来参加了仪式。
+
+durable: 英[ˈdjʊərəb(ə)l] 美[ˈdʊrəb(ə)l]
+$adj. 持久的，耐用的；<非正式>（人）有耐力的，坚韧不拔的
+%n. 耐用品
+    The resolution calls for a just and durable peace settlement in the area.
+#决议要求在该地区公正、持久地解决和平问题。
+
+affection: 英[əˈfekʃn] 美[əˈfekʃ(ə)n]
+%n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响
+    I've had the deepest affection and respect for him ever since I've known him.
+#自从我认识他以来，就对他产生了深厚的感情和敬意。
+
+ambitious: 英[æmˈbɪʃəs] 美[æmˈbɪʃəs]
+%adj. 有抱负的，野心勃勃的；费劲的，艰巨的；热望的
+    Since he is ambitious to get through college in three years, he works hard.
+#他有雄心在三年内读完大学，因此学习很努力。
+
+pitfall: 英[ˈpɪtfɔːl] 美[ˈpɪtfɔːl]
+%n. 隐患；陷阱
+    English spelling presents many pitfalls for foreign students.
+#英语拼写对外国学生而言有很多意想不到的困难。
+
+omit: 英[əˈmɪt] 美[əˈmɪt]
+%v. 省去，遗漏；不做，未能做
+    In writing a news report, the unnecessary details in the first paragraph should be omitted, so as to give people an overall view of the report.
+#在写新闻报道时，第一段要去掉一切不必要的细节，以便给人们有关报道的总体印象。
+
+migrate: 英[maɪˈɡreɪt] 美[ˈmaɪɡreɪt]
+%v. （候鸟或动物）迁徙；（尤指为找工作）移居，迁移；转移（从一个部位移到另一部位）；把（程序，硬件）从一系统转移到另一系统；改用操作系统
+    The couple migrated to Japan for better jobs.
+#这对夫妇迁居日本以谋求更好的工作。
+
+speculative: 英[ˈspekjələtɪv] 美[ˈspekjələtɪv]
+%adj. 推测的，猜测的，推断的；投机性的，风险性的；好奇的，揣摩的；倾向于推测的，爱思辨的
+    Our forecast of demand for next year can only be speculative.
+#我们对明年需求的预计只是估测性的。
+
+elapse: 英[ɪˈlæps] 美[ɪˈlæps]
+$v. 消逝
+%n. 时间的流逝
+    Five years have elapsed since he left college.
+#他大学毕业已经5年了。
+
+allegiance: 英[əˈliːdʒəns] 美[əˈliːdʒəns]
+%n. （对政党、宗教、统治者的）忠诚，效忠，拥戴
+    The students here pledge allegiance to the flag at the beginning of the school day.
+#这里的学生每天上课前都会向国旗宣誓。
+
+profile: 英[ˈprəʊfaɪl] 美[ˈproʊfaɪl]
+$n. （人头部的）侧面（像），侧影；（某物的）外形，轮廓；（人、团体或组织的）简介，概况；（人或组织的）形象，姿态；纵断面，剖面；（地球表面纵断面的）轮廓（如河流走向）；（舞台的）平面布景；（以数量形式记录事物特点的）曲线图，数据图表；（记载个人心理或行为特点、喜好等的）档案
+%v. 概述，扼要介绍；给……画侧面像，显出……侧面轮廓；显出……的轮廓（be profiled）；（尤指用模板）铣出轮廓，使……成形
+    the actor is photographed in profile.
+#这个演员被从侧面拍了一张照片。
+
+withstand: 英[wɪðˈstænd] 美[wɪðˈstænd]
+%v. 顶住，抵住；经受住，承受住（攻击、批评等）；反抗
+    The city withstood the bombing.
+#那座城市经受住了狂轰滥炸。
+
+toxic: 英[ˈtɒksɪk] 美[ˈtɑːksɪk]
+$adj. 有毒的，引起中毒的；令人极不愉快的，极其有害的，恶毒的；中毒的，中毒性的；（财政）（债务）有毒的，风险高的；（证券）有毒的
+%n. 有毒物质，毒药（toxics）
+    The factory has been sending out toxic waste.
+#这家工厂一直在排放有毒的废料。
+
+predatory: 英[ˈpredət(ə)ri] 美[ˈpredətɔːri]
+%adj. （动物）捕食性的，食肉的；掠夺性的，弱肉强食的
+    The eagle is a predatory bird which kills its prey with its claws.
+#鹰是一种食肉鸟类，它用爪子杀死猎物。
+
+prerequisite: 英[ˌpriːˈrekwəzɪt] 美[ˌpriːˈrekwəzɪt]
+$n. 先决条件，前提；预备课程
+%adj. 先决的，必备的
+    Public support is a prerequisite for the success of this project.
+#公众支持是这个计划成功的前提条件。
+
+domain : 英[dəˈmeɪn] 美[doʊˈmeɪn]
+%n. 领域，范围；领土，势力范围；（因特网上的）域；（函数的）定义域；地产
+    She treated the business as her private domain.
+#她把公司看成她的私人领域。
+
+solicit: 英[səˈlɪsɪt] 美[səˈlɪsɪt]
+%v. 请求，索求，征求（意见）；<美>兜售，推销；拉（客），卖淫
+    It is illegal for public officials to solicit gifts or money in exchange for favors.
+#公职人员以权谋利的行为是违法的。
+
+coarse: 英[kɔːs] 美[kɔːrs]
+%adj. 粗糙的，粗织的；粗的，大颗粒的；粗鲁的，粗俗的；（人的容貌）难看的，不雅的；（食物，饮料）粗劣的；<英>与钓淡水鱼有关的
+    The comedian's coarse imitation of the politician made us laugh.
+#喜剧演员对那个政客的拙劣模仿使我们捧腹大笑。
+
+criticize: 英[ˈkrɪtɪsaɪz] 美[ˈkrɪtɪsaɪz]
+%v. 批评，指责；评论
+    The government is being widely criticized for its failure to limit air pollution.
+#该政府因未能控制空气污染而广受指责。
+
+tacit: 英[ˈtæsɪt] 美[ˈtæsɪt]
+%adj. 心照不宣的，不言而喻的，默示的
+    The deal had the tacit approval of the president.
+#这项交易得到了总统的默许。
+
+banish : 英[ˈbænɪʃ] 美[ˈbænɪʃ]
+%v. 驱逐，赶走；将……驱逐出境，流放；清除，消除；打消……的念头，驱除（想法）
+    She was banished from her country for political reasons.
+#她因政治原因而被逐出国。
+
+segment: 英[ˈseɡmənt] 美[ˈseɡmənt]
+$n. 部分，片段；（市场）细分的部分；（水果或花自然形成的）瓣，（昆虫的）节； 球缺，弓形；（直线或弧线上两点间的）段；（特定广播或电视节目的）时间段；某一时段单独播放的节目；音段
+%v. 分割，划分；（细胞）分裂
+    The boy segmented the bamboo pole into two parts.
+#男孩将竹竿截成两段。
+
+contention: 英[kənˈtenʃ(ə)n] 美[kənˈtenʃ(ə)n]
+%n. 看法，观点；争论，争吵；争夺，竞争
+    We are in trouble; this is not the time for contention.
+#我们处境很困难，现在不是争论的时候。
+
+aptitude: 英[ˈæptɪtjuːd] 美[ˈæptɪtuːd]
+%n. 天资，天赋；自然的倾向，习性；适宜
+    He has a remarkable aptitude for inventing new things.
+#他具有发明新东西的天赋。
+
+revoke: 英[rɪˈvəʊk] 美[rɪˈvoʊk]
+$v. 撤回，撤销；（桥牌、惠斯特等牌戏中）有牌不跟
+%n. 有牌不跟
+    The authorities have revoked their original decision to allow development of this rural area.
+#局已撤销了允许开发这片农村地区的最初决定。
+
+prosecute: 英[ˈprɒsɪkjuːt] 美[ˈprɑːsɪkjuːt]
+%v. 起诉，控告，检举；（律师在法庭上）指控，公诉；<正式>继续（尤指战争）；<古>继续从事（某职业），追求
+    Most of the civil servants involved in the affair have been prosecuted and dismissed.
+#大多数牵涉到这个事件的公务员被起诉并撤职。
+
+breach: 英[briːtʃ] 美[briːtʃ]
+$n. 违反，破坏；（关系）中断，终止；缺口
+%v. 违反，破坏；在……上打开缺口
+    His refusal to work on Sunday was a breach of contract.
+#他拒绝在星期天工作是违反合同的。
+
+redeem: 英[rɪˈdiːm] 美[rɪˈdiːm]
+%v. 补救，掩饰……之不足；挽回（声誉），弥补（过错）（redeem oneself）；（尤指基督教中）解救，为……赎罪；偿还（欠款）；兑换（优惠券、彩票等）；赎回（股票、债券等）；履行，遵守（诺言）
+    She's trying to redeem her reputation by working extra hard.
+#她试图通过更加勤奋工作来挽回声誉。
+
+spiritual: 英[ˈspɪrɪtʃuəl] 美[ˈspɪrɪtʃuəl]
+$adj. 精神的，心灵的；宗教的；（人）高尚的，不为物欲所动的
+%n. （原为美国黑人所唱的）圣歌，灵歌
+    Traditional ways of life provided economic security and spiritual fulfilment.
+#传统生活方式提供了经济保障，满足了精神需求。
+
+depict: 英[dɪˈpɪkt] 美[dɪˈpɪkt]
+%v. 描述，描绘
+    The picture depicts the rural scenery in North China.
+#这幅画描绘了华北地区的田园风光。
+
+deploy: 英[dɪˈplɔɪ] 美[dɪˈplɔɪ]
+%v. 部署，调度；利用
+    My job doesn't really allow me to deploy my talents.
+#我的工作并非真正允许我发挥才能。
+
+exploit: 英[ɪkˈsplɔɪt] 美[ɪkˈsplɔɪt]
+$v. 剥削，压榨；利用（……为自己谋利）；运用，发挥；开发，开拓
+%n. 英勇事迹，壮举；大胆的表演，不凡的身手
+    The man exploited his opponent's youth and inexperience for political purposes.
+#那个人利用对手的年轻和缺乏经验来达到政治目的。
+
+revert: 英[rɪˈvɜːt] 美[rɪˈvɜːrt]
+$v. 回复，恢复（到原来状态、情况或做法）（revert to）；（财产、权力、金钱等）归还；皈依（伊斯兰教）；返祖遗传
+%n. 皈依伊斯兰教者
+    After the early settlers left, the area soon reverted to desert.
+#早期的移民离开后，这个地区又很快重新变成一片沙漠。
+
+hamper: 英[ˈhæmpə(r)] 美[ˈhæmpər]
+$v. 阻碍，妨碍
+%n. （尤指装食物用的）带盖大篮子；（装有各种食品的）礼物篮；<美>脏衣篓；障碍船具
+    Fierce storms have been hampering rescue efforts and there is now little chance of finding more survivors.
+#猛烈的暴风雨一直在阻碍救援工作，现在找到更多生还者的希望渺茫。
+
+annex: 英[ˈæneks] 美[ˈæneks]
+$v. 强占，并吞，兼并；附加（尤指对文件补充）
+%n. 附属建筑；（文件的）附录，附件
+    They annexed a clause to the contract.
+#他们在合同上附加了一项条款。
+
+protest: 英[ˈprəʊtest] 美[ˈproʊtest]
+$n. 抗议，反对；抗议活动；声明，断言；<法律>（多指来自公证人的）拒付证书
+%v. （公开）反对，抗议；坚决表示，严正申明；<法律> 声明拒付（账单），拒付
+    People there protested against the building of an airport near their village.
+#当地人抗议在他们村庄附近修建飞机场。
+
+elementary: 英[ˌelɪˈmentri] 美[ˌelɪˈmentri]
+%adj. 简单的，基本的；基础的，初级的；小学的；单一元素的，非化合物的
+    Elementary services have been provided for the refugees.
+#（这）为难民提供了一些基本的服务。
+
+arid: 英[ˈærɪd] 美[ˈærɪd]
+%adj. （土地或气候）干燥的，干旱的；枯燥的，乏味的；不成功的，无结果的
+    The desert is so arid that nothing can grow there.
+#沙漠里极其干旱，什么东西也无法生存。
+
+counterpart: 英[ˈkaʊntəpɑːt] 美[ˈkaʊntərpɑːrt]
+%n. 对应的人（或事物）；（法律文件的）副本
+    The foreign minister is the counterpart of the secretary of state.
+#外交部部长相当于国务卿。
+
+transient: 英[ˈtrænziənt] 美[ˈtrænʃ(ə)nt]
+$adj. 转瞬即逝的，短暂的；暂住的，（工作）临时的
+%n. 暂住者，流动人口；（电流、电压、频率的）瞬变
+    The city has a large transient population.
+#这座城市有大量的暂住人员。
+
+restore: 英[rɪˈstɔː(r)] 美[rɪˈstɔːr]
+%v. 恢复（某种情况或感受）；使复原，使复位；修复，整修；重新采用，恢复使用；归还
+    He was restored to his former post.
+#他恢复了原职。
+
+pesticide: 英[ˈpestɪsaɪd] 美[ˈpestəsaɪd]
+%n. 杀虫剂，农药
+    The pesticides that farmers spray on their crops kill pests but they can also damage people's health.
+#农民在作物上喷洒的农药可以杀死害虫，但也会损害人体健康。
+
+vital: 英[ˈvaɪt(ə)l] 美[ˈvaɪt(ə)l]
+$adj. 至关重要的，必不可少的；生机勃勃的，充满活力的；生命的，维持生命所必需的
+%n. 身体的重要内脏，维持生命的重要器官（vitals）
+    The heart and the brain are vital human organs.
+#心脏和大脑是人的重要器官。
+
+invade: 英[ɪnˈveɪd] 美[ɪnˈveɪd]
+%v. 武力入侵，侵略；大量涌入，蜂拥而入；侵扰，干扰；扩散，渗入
+    Famous people often find their privacy invaded by the press.
+#名人常常发现个人隐私受到新闻界侵犯。
+
+courteous: 英[ˈkɜːtiəs] 美[ˈkɜːrtiəs]
+%adj. 有礼貌的，谦恭的
+    Although she often disagreed with me, she was always courteous.
+#尽管她常常和我意见不一致，但她总是谦恭有礼。
+
+dull: 英[dʌl] 美[dʌl]
+$adj. 枯燥无聊的；无精打采的；不明亮的；（声音）不清晰的；阴沉的；不明显的，隐隐的；钝的；迟钝的，愚笨的；萧条的
+%v. 减轻，缓解；使迟钝；（使）变模糊，变暗淡；（使刀或刀片等）变钝；（兴趣、痛苦等）减少
+    The first day of our holiday was dull.
+#在我们假期的第一天，天阴沉沉的。
+
+validate: 英[ˈvælɪdeɪt] 美[ˈvælɪdeɪt]
+%v. 批准，确认……有效；证实，确认；使生效，使具有法律效力；证明有……价值，认可
+    In order to validate the agreement, both parties signed off.
+#为使协议生效，双方在上面签了字。
+
+revise: 英[rɪˈvaɪz] 美[rɪˈvaɪz]
+$v. 改变，修正；修改，修订（书刊、估算等）；<英>温习，复习
+%n. 修订，校订；（印刷）改样
+    The manager had the article revised three times by his secretary before he took it for the conference.
+#经理让秘书把文章修改三次后才带着它去开会。
+
+fraught: 英[frɔːt] 美[frɔːt]
+$adj. 充满（糟糕或令人讨厌的事物）；造成忧虑（或紧张）的，受忧虑（或压力）影响的；<旧>充满的
+$n. 货物
+%v. 装载
+    The expedition through the jungle was fraught with difficulties and danger.
+#穿越森林的探险充满着艰辛与危险。
+
+tangible: 英[ˈtændʒəb(ə)l] 美[ˈtændʒəb(ə)l]
+$adj. 明确的，真实的；可触摸的，可感知的
+%n. 可触知的东西
+    The policy has not yet brought any tangible benefits.
+#这项政策没有带来任何实质性的好处。
+
+recommendation: 英[ˌrekəmenˈdeɪʃn] 美[ˌrekəmenˈdeɪʃ(ə)n]
+%n. 正式建议，提议；推荐，介绍；<美>推荐信
+    She was given the job on her teacher's recommendation.
+#她经老师推荐得到了这份工作。
+
+resort: 英[rɪˈzɔːt] 美[rɪˈzɔːrt]
+$n. 旅游胜地，度假胜地；求助的方法，采用的手段；采用，诉诸，求助
+%v. 诉诸，求助于；<正式>常去，（成群结队地）去
+    The aggressive army resorted to different tactics with heavy loss of lives but still they could not enter the city.
+#侵略军采取各种策略，伤亡惨重，可就是攻不进城。
+
+monopolize: 英[məˈnɒpəlaɪz] 美[məˈnɑːpəlaɪz]
+%v. （组织，集团）垄断，对……实行专卖；占用（某人大量时间或注意力）；独占，霸占；滔滔不绝地对……说话
+    The company eventually monopolized the entire cigarette industry.
+#这家公司最后垄断了整个香烟行业。
+
+=======
+dual: 英[ˈdjuːəl] 美[ˈduːəl]
+$adj. 双的，双重的；双数的；（飞机）双重控制的，复式操纵的；（定理、表达式等）对偶的
+$n. 双数词；对偶定理（或表达式等）
+%v. <英>把（道路）改为复式车行道
+    The room has a dual purpose, serving as both a study and a dining room.
+#这间屋子是两用的，既作书房又作餐厅。
+
+portray: 英[pɔːˈtreɪ] 美[pɔːrˈtreɪ]
+%v. 描绘，描写；（在艺术或文学作品中）描述，刻画；（在电影、戏剧等中）扮演
+    The picture portrays a beautiful young woman and her pet dog.
+#这幅画描绘了一个美貌少妇和她的爱犬。
+
+inevitable: 英[ɪnˈevɪtəb(ə)l] 美[ɪnˈevɪtəb(ə)l]
+$adj. 必然发生的，不可避免的；总会发生的，惯常的
+%n. 必然发生的事，不可避免的事
+    Most quarrels are inevitable at the time, and incredible afterwards.
+#大多数吵架当时是不可避免的，事后也是令人难以置信的。
+
+characteristic: 英[ˌkærəktəˈrɪstɪk] 美[ˌkærəktəˈrɪstɪk]
+$n. 特征，特点，特色
+%adj. 独特的，典型的
+    It is characteristic of wisdom not to do desperate things.
+#明智的特点是不做孤注一掷的事。
+
+crooked: 英[ˈkrʊkɪd] 美[ˈkrʊkɪd]
+$adj. 弯曲的，不直的；歪的；不诚实的，狡诈的；<澳新，非正式>生气的
+%v. （手指或手臂）弯曲；诈骗，偷窃；弯曲，成钩形（crook 的过去式和过去分词）
+    You have to drive slowly on these crooked country roads.
+#在这些弯弯曲曲的乡间小路上你得慢慢开车。
+
+creed: 英[kriːd] 美[kriːd]
+%n. 教条，宗教信仰；信念，信条；（基督教）信经（the Creed）
+    People of every color and creed came to the ceremony.
+#各种肤色和教派的人都来参加了仪式。
+
+durable: 英[ˈdjʊərəb(ə)l] 美[ˈdʊrəb(ə)l]
+$adj. 持久的，耐用的；<非正式>（人）有耐力的，坚韧不拔的
+%n. 耐用品
+    The resolution calls for a just and durable peace settlement in the area.
+#决议要求在该地区公正、持久地解决和平问题。
+
+affection: 英[əˈfekʃn] 美[əˈfekʃ(ə)n]
+%n. 喜爱，关爱；爱恋，爱慕之情；精神状况，感情；疾患，病；影响
+    I've had the deepest affection and respect for him ever since I've known him.
+#自从我认识他以来，就对他产生了深厚的感情和敬意。
+
+ambitious: 英[æmˈbɪʃəs] 美[æmˈbɪʃəs]
+%adj. 有抱负的，野心勃勃的；费劲的，艰巨的；热望的
+    Since he is ambitious to get through college in three years, he works hard.
+#他有雄心在三年内读完大学，因此学习很努力。
+
+pitfall: 英[ˈpɪtfɔːl] 美[ˈpɪtfɔːl]
+%n. 隐患；陷阱
+    English spelling presents many pitfalls for foreign students.
+#英语拼写对外国学生而言有很多意想不到的困难。
+
+omit: 英[əˈmɪt] 美[əˈmɪt]
+%v. 省去，遗漏；不做，未能做
+    In writing a news report, the unnecessary details in the first paragraph should be omitted, so as to give people an overall view of the report.
+#在写新闻报道时，第一段要去掉一切不必要的细节，以便给人们有关报道的总体印象。
+
+migrate: 英[maɪˈɡreɪt] 美[ˈmaɪɡreɪt]
+%v. （候鸟或动物）迁徙；（尤指为找工作）移居，迁移；转移（从一个部位移到另一部位）；把（程序，硬件）从一系统转移到另一系统；改用操作系统
+    The couple migrated to Japan for better jobs.
+#这对夫妇迁居日本以谋求更好的工作。
+
+speculative: 英[ˈspekjələtɪv] 美[ˈspekjələtɪv]
+%adj. 推测的，猜测的，推断的；投机性的，风险性的；好奇的，揣摩的；倾向于推测的，爱思辨的
+    Our forecast of demand for next year can only be speculative.
+#我们对明年需求的预计只是估测性的。
+
+elapse: 英[ɪˈlæps] 美[ɪˈlæps]
+$v. 消逝
+%n. 时间的流逝
+    Five years have elapsed since he left college.
+#他大学毕业已经5年了。
+
+allegiance: 英[əˈliːdʒəns] 美[əˈliːdʒəns]
+%n. （对政党、宗教、统治者的）忠诚，效忠，拥戴
+    The students here pledge allegiance to the flag at the beginning of the school day.
+#这里的学生每天上课前都会向国旗宣誓。
+
+profile: 英[ˈprəʊfaɪl] 美[ˈproʊfaɪl]
+$n. （人头部的）侧面（像），侧影；（某物的）外形，轮廓；（人、团体或组织的）简介，概况；（人或组织的）形象，姿态；纵断面，剖面；（地球表面纵断面的）轮廓（如河流走向）；（舞台的）平面布景；（以数量形式记录事物特点的）曲线图，数据图表；（记载个人心理或行为特点、喜好等的）档案
+%v. 概述，扼要介绍；给……画侧面像，显出……侧面轮廓；显出……的轮廓（be profiled）；（尤指用模板）铣出轮廓，使……成形
+    the actor is photographed in profile.
+#这个演员被从侧面拍了一张照片。
+
+withstand: 英[wɪðˈstænd] 美[wɪðˈstænd]
+%v. 顶住，抵住；经受住，承受住（攻击、批评等）；反抗
+    The city withstood the bombing.
+#那座城市经受住了狂轰滥炸。
+
+toxic: 英[ˈtɒksɪk] 美[ˈtɑːksɪk]
+$adj. 有毒的，引起中毒的；令人极不愉快的，极其有害的，恶毒的；中毒的，中毒性的；（财政）（债务）有毒的，风险高的；（证券）有毒的
+%n. 有毒物质，毒药（toxics）
+    The factory has been sending out toxic waste.
+#这家工厂一直在排放有毒的废料。
+
+predatory: 英[ˈpredət(ə)ri] 美[ˈpredətɔːri]
+%adj. （动物）捕食性的，食肉的；掠夺性的，弱肉强食的
+    The eagle is a predatory bird which kills its prey with its claws.
+#鹰是一种食肉鸟类，它用爪子杀死猎物。
+
+prerequisite: 英[ˌpriːˈrekwəzɪt] 美[ˌpriːˈrekwəzɪt]
+$n. 先决条件，前提；预备课程
+%adj. 先决的，必备的
+    Public support is a prerequisite for the success of this project.
+#公众支持是这个计划成功的前提条件。
+
+domain : 英[dəˈmeɪn] 美[doʊˈmeɪn]
+%n. 领域，范围；领土，势力范围；（因特网上的）域；（函数的）定义域；地产
+    She treated the business as her private domain.
+#她把公司看成她的私人领域。
+
+solicit: 英[səˈlɪsɪt] 美[səˈlɪsɪt]
+%v. 请求，索求，征求（意见）；<美>兜售，推销；拉（客），卖淫
+    It is illegal for public officials to solicit gifts or money in exchange for favors.
+#公职人员以权谋利的行为是违法的。
+
+coarse: 英[kɔːs] 美[kɔːrs]
+%adj. 粗糙的，粗织的；粗的，大颗粒的；粗鲁的，粗俗的；（人的容貌）难看的，不雅的；（食物，饮料）粗劣的；<英>与钓淡水鱼有关的
+    The comedian's coarse imitation of the politician made us laugh.
+#喜剧演员对那个政客的拙劣模仿使我们捧腹大笑。
+
+criticize: 英[ˈkrɪtɪsaɪz] 美[ˈkrɪtɪsaɪz]
+%v. 批评，指责；评论
+    The government is being widely criticized for its failure to limit air pollution.
+#该政府因未能控制空气污染而广受指责。
+
+tacit: 英[ˈtæsɪt] 美[ˈtæsɪt]
+%adj. 心照不宣的，不言而喻的，默示的
+    The deal had the tacit approval of the president.
+#这项交易得到了总统的默许。
+
+banish : 英[ˈbænɪʃ] 美[ˈbænɪʃ]
+%v. 驱逐，赶走；将……驱逐出境，流放；清除，消除；打消……的念头，驱除（想法）
+    She was banished from her country for political reasons.
+#她因政治原因而被逐出国。
+
+segment: 英[ˈseɡmənt] 美[ˈseɡmənt]
+$n. 部分，片段；（市场）细分的部分；（水果或花自然形成的）瓣，（昆虫的）节； 球缺，弓形；（直线或弧线上两点间的）段；（特定广播或电视节目的）时间段；某一时段单独播放的节目；音段
+%v. 分割，划分；（细胞）分裂
+    The boy segmented the bamboo pole into two parts.
+#男孩将竹竿截成两段。
+
+contention: 英[kənˈtenʃ(ə)n] 美[kənˈtenʃ(ə)n]
+%n. 看法，观点；争论，争吵；争夺，竞争
+    We are in trouble; this is not the time for contention.
+#我们处境很困难，现在不是争论的时候。
+
+aptitude: 英[ˈæptɪtjuːd] 美[ˈæptɪtuːd]
+%n. 天资，天赋；自然的倾向，习性；适宜
+    He has a remarkable aptitude for inventing new things.
+#他具有发明新东西的天赋。
+
+revoke: 英[rɪˈvəʊk] 美[rɪˈvoʊk]
+$v. 撤回，撤销；（桥牌、惠斯特等牌戏中）有牌不跟
+%n. 有牌不跟
+    The authorities have revoked their original decision to allow development of this rural area.
+#局已撤销了允许开发这片农村地区的最初决定。
+
+prosecute: 英[ˈprɒsɪkjuːt] 美[ˈprɑːsɪkjuːt]
+%v. 起诉，控告，检举；（律师在法庭上）指控，公诉；<正式>继续（尤指战争）；<古>继续从事（某职业），追求
+    Most of the civil servants involved in the affair have been prosecuted and dismissed.
+#大多数牵涉到这个事件的公务员被起诉并撤职。
+
+breach: 英[briːtʃ] 美[briːtʃ]
+$n. 违反，破坏；（关系）中断，终止；缺口
+%v. 违反，破坏；在……上打开缺口
+    His refusal to work on Sunday was a breach of contract.
+#他拒绝在星期天工作是违反合同的。
+
+redeem: 英[rɪˈdiːm] 美[rɪˈdiːm]
+%v. 补救，掩饰……之不足；挽回（声誉），弥补（过错）（redeem oneself）；（尤指基督教中）解救，为……赎罪；偿还（欠款）；兑换（优惠券、彩票等）；赎回（股票、债券等）；履行，遵守（诺言）
+    She's trying to redeem her reputation by working extra hard.
+#她试图通过更加勤奋工作来挽回声誉。
+
+spiritual: 英[ˈspɪrɪtʃuəl] 美[ˈspɪrɪtʃuəl]
+$adj. 精神的，心灵的；宗教的；（人）高尚的，不为物欲所动的
+%n. （原为美国黑人所唱的）圣歌，灵歌
+    Traditional ways of life provided economic security and spiritual fulfilment.
+#传统生活方式提供了经济保障，满足了精神需求。
+
+depict: 英[dɪˈpɪkt] 美[dɪˈpɪkt]
+%v. 描述，描绘
+    The picture depicts the rural scenery in North China.
+#这幅画描绘了华北地区的田园风光。
+
+deploy: 英[dɪˈplɔɪ] 美[dɪˈplɔɪ]
+%v. 部署，调度；利用
+    My job doesn't really allow me to deploy my talents.
+#我的工作并非真正允许我发挥才能。
+
+exploit: 英[ɪkˈsplɔɪt] 美[ɪkˈsplɔɪt]
+$v. 剥削，压榨；利用（……为自己谋利）；运用，发挥；开发，开拓
+%n. 英勇事迹，壮举；大胆的表演，不凡的身手
+    The man exploited his opponent's youth and inexperience for political purposes.
+#那个人利用对手的年轻和缺乏经验来达到政治目的。
+
+revert: 英[rɪˈvɜːt] 美[rɪˈvɜːrt]
+$v. 回复，恢复（到原来状态、情况或做法）（revert to）；（财产、权力、金钱等）归还；皈依（伊斯兰教）；返祖遗传
+%n. 皈依伊斯兰教者
+    After the early settlers left, the area soon reverted to desert.
+#早期的移民离开后，这个地区又很快重新变成一片沙漠。
+
+hamper: 英[ˈhæmpə(r)] 美[ˈhæmpər]
+$v. 阻碍，妨碍
+%n. （尤指装食物用的）带盖大篮子；（装有各种食品的）礼物篮；<美>脏衣篓；障碍船具
+    Fierce storms have been hampering rescue efforts and there is now little chance of finding more survivors.
+#猛烈的暴风雨一直在阻碍救援工作，现在找到更多生还者的希望渺茫。
+
+annex: 英[ˈæneks] 美[ˈæneks]
+$v. 强占，并吞，兼并；附加（尤指对文件补充）
+%n. 附属建筑；（文件的）附录，附件
+    They annexed a clause to the contract.
+#他们在合同上附加了一项条款。
+
+protest: 英[ˈprəʊtest] 美[ˈproʊtest]
+$n. 抗议，反对；抗议活动；声明，断言；<法律>（多指来自公证人的）拒付证书
+%v. （公开）反对，抗议；坚决表示，严正申明；<法律> 声明拒付（账单），拒付
+    People there protested against the building of an airport near their village.
+#当地人抗议在他们村庄附近修建飞机场。
+
+elementary: 英[ˌelɪˈmentri] 美[ˌelɪˈmentri]
+%adj. 简单的，基本的；基础的，初级的；小学的；单一元素的，非化合物的
+    Elementary services have been provided for the refugees.
+#（这）为难民提供了一些基本的服务。
+
+arid: 英[ˈærɪd] 美[ˈærɪd]
+%adj. （土地或气候）干燥的，干旱的；枯燥的，乏味的；不成功的，无结果的
+    The desert is so arid that nothing can grow there.
+#沙漠里极其干旱，什么东西也无法生存。
+
+counterpart: 英[ˈkaʊntəpɑːt] 美[ˈkaʊntərpɑːrt]
+%n. 对应的人（或事物）；（法律文件的）副本
+    The foreign minister is the counterpart of the secretary of state.
+#外交部部长相当于国务卿。
+
+transient: 英[ˈtrænziənt] 美[ˈtrænʃ(ə)nt]
+$adj. 转瞬即逝的，短暂的；暂住的，（工作）临时的
+%n. 暂住者，流动人口；（电流、电压、频率的）瞬变
+    The city has a large transient population.
+#这座城市有大量的暂住人员。
+
+restore: 英[rɪˈstɔː(r)] 美[rɪˈstɔːr]
+%v. 恢复（某种情况或感受）；使复原，使复位；修复，整修；重新采用，恢复使用；归还
+    He was restored to his former post.
+#他恢复了原职。
+
+pesticide: 英[ˈpestɪsaɪd] 美[ˈpestəsaɪd]
+%n. 杀虫剂，农药
+    The pesticides that farmers spray on their crops kill pests but they can also damage people's health.
+#农民在作物上喷洒的农药可以杀死害虫，但也会损害人体健康。
+
+vital: 英[ˈvaɪt(ə)l] 美[ˈvaɪt(ə)l]
+$adj. 至关重要的，必不可少的；生机勃勃的，充满活力的；生命的，维持生命所必需的
+%n. 身体的重要内脏，维持生命的重要器官（vitals）
+    The heart and the brain are vital human organs.
+#心脏和大脑是人的重要器官。
+
+invade: 英[ɪnˈveɪd] 美[ɪnˈveɪd]
+%v. 武力入侵，侵略；大量涌入，蜂拥而入；侵扰，干扰；扩散，渗入
+    Famous people often find their privacy invaded by the press.
+#名人常常发现个人隐私受到新闻界侵犯。
+
+courteous: 英[ˈkɜːtiəs] 美[ˈkɜːrtiəs]
+%adj. 有礼貌的，谦恭的
+    Although she often disagreed with me, she was always courteous.
+#尽管她常常和我意见不一致，但她总是谦恭有礼。
+
+dull: 英[dʌl] 美[dʌl]
+$adj. 枯燥无聊的；无精打采的；不明亮的；（声音）不清晰的；阴沉的；不明显的，隐隐的；钝的；迟钝的，愚笨的；萧条的
+%v. 减轻，缓解；使迟钝；（使）变模糊，变暗淡；（使刀或刀片等）变钝；（兴趣、痛苦等）减少
+    The first day of our holiday was dull.
+#在我们假期的第一天，天阴沉沉的。
+
+validate: 英[ˈvælɪdeɪt] 美[ˈvælɪdeɪt]
+%v. 批准，确认……有效；证实，确认；使生效，使具有法律效力；证明有……价值，认可
+    In order to validate the agreement, both parties signed off.
+#为使协议生效，双方在上面签了字。
+
+revise: 英[rɪˈvaɪz] 美[rɪˈvaɪz]
+$v. 改变，修正；修改，修订（书刊、估算等）；<英>温习，复习
+%n. 修订，校订；（印刷）改样
+    The manager had the article revised three times by his secretary before he took it for the conference.
+#经理让秘书把文章修改三次后才带着它去开会。
+
+fraught: 英[frɔːt] 美[frɔːt]
+$adj. 充满（糟糕或令人讨厌的事物）；造成忧虑（或紧张）的，受忧虑（或压力）影响的；<旧>充满的
+$n. 货物
+%v. 装载
+    The expedition through the jungle was fraught with difficulties and danger.
+#穿越森林的探险充满着艰辛与危险。
+
+tangible: 英[ˈtændʒəb(ə)l] 美[ˈtændʒəb(ə)l]
+$adj. 明确的，真实的；可触摸的，可感知的
+%n. 可触知的东西
+    The policy has not yet brought any tangible benefits.
+#这项政策没有带来任何实质性的好处。
+
+recommendation: 英[ˌrekəmenˈdeɪʃn] 美[ˌrekəmenˈdeɪʃ(ə)n]
+%n. 正式建议，提议；推荐，介绍；<美>推荐信
+    She was given the job on her teacher's recommendation.
+#她经老师推荐得到了这份工作。
+
+resort: 英[rɪˈzɔːt] 美[rɪˈzɔːrt]
+$n. 旅游胜地，度假胜地；求助的方法，采用的手段；采用，诉诸，求助
+%v. 诉诸，求助于；<正式>常去，（成群结队地）去
+    The aggressive army resorted to different tactics with heavy loss of lives but still they could not enter the city.
+#侵略军采取各种策略，伤亡惨重，可就是攻不进城。
+
+monopolize: 英[məˈnɒpəlaɪz] 美[məˈnɑːpəlaɪz]
+%v. （组织，集团）垄断，对……实行专卖；占用（某人大量时间或注意力）；独占，霸占；滔滔不绝地对……说话
+    The company eventually monopolized the entire cigarette industry.
+#这家公司最后垄断了整个香烟行业。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

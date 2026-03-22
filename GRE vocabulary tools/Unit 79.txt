@@ -1,0 +1,803 @@
+<<<<<<< HEAD
+vex: 英[veks] 美[veks]
+$vt. 使烦恼；使困惑；使恼怒
+%vi. 烦恼
+    be vexed by the children
+#被孩子们弄得心烦意乱
+    be vexed at one's failure
+#因失败而苦恼
+    vex over trifles
+#为小事而烦恼
+    be vexed with rheumatism
+#罹风湿痛之苦
+    a coast vexed by waves.
+#波涛汹涌的海岸
+    I was vexed by the things that people were always telling me that I must do.
+#人们总是告诉我必须做这样做那样，我都给烦死了。
+
+contemptible: 英[kənˈtemptəbl] 美[kənˈtemptəbl]
+%adj. 可鄙的，卑劣的
+    a contemptible liar
+#无耻的说谎者
+    For a person in a position of such responsibility, her behavior was contemptible.
+#作为一个负有如此重大责任的人，她的行为十分可鄙。
+
+palatable: 英[ˈpælətəb(ə)l] 美[ˈpælətəb(ə)l]
+%adj. 美味的，可口的；愉快的
+    palatable lunch
+#美味的午餐
+    palatable to the audience
+#适应听众的口味
+    The meal was barely palatable -- in fact I thought it was disgusting.
+#这顿饭根本谈不上可口——事实上，我觉得它叫人恶心。
+
+insipid: 英[ɪnˈsɪpɪd] 美[ɪnˈsɪpɪd]
+%adj. 无味的，清淡的；无趣的，无活力的
+    a pale insipid wine
+#淡而无味的葡萄酒
+    insipid conversation
+#枯燥无味的谈话
+    insipid music
+#毫无特色的音乐
+
+cursory: 英[ˈkɜːsəri] 美[ˈkɜːrsəri]
+%adj. 粗略的，草率的，匆忙的
+    a cursory glance
+#草草一瞥
+    a cursory check
+#粗略的检查
+
+repudiate: 英[rɪˈpjuːdieɪt] 美[rɪˈpjuːdieɪt]
+%vt. 拒绝；否定；批判；与……断绝关系；拒付
+    repudiate the charge
+#驳斥指控
+    repudiate one's authority
+#拒不服从某人的权威
+    repudiate a will
+#否定遗嘱
+    repudiate a wicked son
+#声明与劣子脱离关系
+    repudiate an old friend
+#与老朋友断交
+    They agreed it was not in their interest to repudiate the treaty.
+#他们一致同意，拒绝接受条约不符合他们的利益。
+
+zealot: 英[ˈzelət] 美[ˈzelət]
+%n. 狂热者；犹太教狂热信徒
+    a feminist zealot
+#狂热的女主义者
+    a right wing zealot
+#狂热右翼分子
+
+scruple: 英[ˈskruːp(ə)l] 美[ˈskruːp(ə)l]
+$n. 微量；顾虑；踌躇
+$vi. 有顾忌；踌躇
+%vt. 对……有顾虑
+    a man of/with no scruples
+#无所顾忌的人
+    without scruples
+#毫无顾忌
+    make no scruple to do/of doing sth.
+#肆无忌惮地做某事
+    He did not scruple to tell lies when it served his interests.
+#只要对自己有利，他会毫无顾忌地撒谎。
+
+sanitary: 英[ˈsænət(ə)ri] 美[ˈsænəteri]
+%adj. 公共卫生的，公共保健的；干净的，卫生的；（用品）月经期间使用的
+    improve the sanitary condition
+#改进卫生条件
+    sanitary facilities
+#卫生设备
+    sanitary towel
+#卫生巾
+    It's not sanitary to let flies come near food.
+#让苍蝇接近食物是不卫生的。
+
+witty: 英[ˈwɪti] 美[ˈwɪti]
+%adj. 风趣的，诙谐的，机智的
+    have a witty tongue
+#谈吐诙谐
+    She is well-known for being one of the wittiest people on television.
+#她以作为电视上最风趣的人之一而闻名
+
+regenerate: 英[rɪˈdʒenəreɪt] 美[rɪˈdʒenəreɪt]
+$vt. 使再生；革新
+$vi. 再生；革新
+%adj. 再生的；革新的
+    regenerate the old cities
+#重建旧城
+    a regenerate society
+#革新的社会
+    Many kinds of plants can regenerate roots from an end of a cut stem.
+#许多植物会从切下的茎端再生根。
+
+allegory: 英[ˈæləɡəri] 美[ˈæləɡɔːri]
+%n. 寓言
+    talk in allegories
+#讽喻地说话
+    The play may be seen as an allegory about the nature of man.
+#这出戏可被看作一个关于人性的寓言故事。
+
+admonish: 英[ədˈmɒnɪʃ] 美[ædˈmɑːnɪʃ]
+%vt. 告诫；劝告
+    admonish sb. of the impending danger
+#就即将发生的危险警告某人
+    admonish sb. of his obligations
+#提醒某人应尽的义务
+    admonish sb. against smoking
+#力劝某人戒烟
+    The guide admonished the mountain climbers to follow him carefully.
+#导游告诫登山者小心翼翼地跟着他前行。
+
+gratify: 英[ˈɡrætɪfaɪ] 美[ˈɡrætɪfaɪ]
+%vt. 使高兴，使满意；满足（愿望、需要等）
+    gratify the eye
+#悦目
+    gratify one's hunger with a huge meal
+#大吃一顿解饿
+    gratify one's need
+#满足某人的需要
+    We were gratified at/by the response to our appeal.
+#我们对于给予我们上诉的回复表示满意。
+
+fickle: 英[ˈfɪk(ə)l] 美[ˈfɪk(ə)l]
+%adj. 浮躁的；易变的；变幻无常的
+    a fickle woman
+#感情变化无常的女人
+    The relations between the two countries are still fickle.
+#两国间的关系依然是变化不定
+
+combustible: 英[kəmˈbʌstəbl] 美[kəmˈbʌstəb(ə)l]
+$adj. 易燃的；易激动的；燃烧性的
+%n. 可燃物；易燃物
+    Wood and coal are both combustible substances.
+#木头和煤都是易燃物品。
+
+bumper: 英[ˈbʌmpə(r)] 美[ˈbʌmpər]
+$n. （车辆）保险杠；<古>大满杯敬酒；（为跳栏或障碍赛作准备的）新马平地赛；<旧>（板球）反弹球；广告时段；<非正式>烟头
+$adj. 丰收的，丰盛的；巨大的，大号的
+%v. 满杯祝酒；干杯；装满
+    fill sb. a bumper
+#给某人斟一满杯
+    a bumper audience
+#特别多的观众
+    Farmers have reported a bumper crop this year.
+#据报道，今年农民庄稼大丰收。
+
+energize: 英[ˈenədʒaɪz] 美[ˈenərdʒaɪz]
+$vt. 激励；使活跃；供给……能量
+%vi. 活动；用力
+    I felt very energized after my holiday.
+#假期过后我感到精力很充沛。
+
+transmute: 英[trænzˈmjuːt] 美[trænzˈmjuːt]
+$vt. 使变形；使变质
+%vi. 变形；变质
+    transmute water power into electric power
+#把水力变成电力
+    transmute materials into finished products
+#把原料变成成品
+    A shaft of sunlight had suddenly transmuted the room into a bright and welcoming place.
+#一束阳光使这个房间陡然变成了一个明亮舒适的地方。
+
+patronage: 英[ˈpætrənɪdʒ] 美[ˈpeɪtrənɪdʒ]
+%n. 赞助，资助；（对餐馆、酒店或其他生意的）惠顾，光顾；职位授予权，恩惠给予权；庇护，扶植；恩赐态度；（古罗马）庇护人的权力和职责，庇护人的地位
+    public patronage of art
+#公众对艺术的赞助
+    receive lavish patronage
+#得到慷慨的赞助
+    with under the patronage of sb.
+#在某人的资助下
+    give one's patronage to a shop
+#经常光顾一家商店
+    The concert was made possible by the kind patronage of the company.
+#这家公司的好心赞助使音乐会开成了。
+
+therapeutic: 英[ˌθerəˈpjuːtɪk] 美[ˌθerəˈpjuːtɪk]
+$adj. 治疗的，有疗效的；使人镇静的，使人放松的；治疗学的
+%n. 疗法，治疗药物；治疗学（therapeutics）
+    the therapeutic effects of high fibre diet
+#高纤维饮食的保健效果
+    I find gardening very therapeutic.
+#我发现园艺是很有益健康的。
+
+palpable: 英[ˈpælpəb(ə)l] 美[ˈpælpəb(ə)l]
+%adj. 明显的；可感知的；易觉察的
+    a palpable effect
+#明显的效果
+    a palpable tension
+#明显的紧张关系
+    a palpable error
+#明显的错误
+    Her relief and happiness was palpable.
+#她的欣慰和快乐全写在脸上。
+
+stasis: 英[ˈsteɪsɪs] 美[ˈsteɪsɪs]
+$n. 静止状态（或时期）；郁积；内乱
+%n. （Stasis）（美）斯塔西斯（人名）
+    She was bored -- her life was in stasis.
+#她感到厌倦——她的生活是一潭死水。
+
+incarnate: 英[ɪnˈkɑːnət] 美[ɪnˈkɑːrnət]
+$adj. 人体化的，化身的；拟人化的；极典型的；以极端形式体现的
+%v. 体现，化身为，使具体化；使人格化，拟人化；（人）体现（某种品质）
+    a devil incarnate
+#魔鬼的化身
+    evil incarnate
+#邪恶的化身
+    stupidity incarnate
+#愚蠢的典型
+    In the man the spirit of the times is incarnated.
+#这人身上体现着时代精神。
+
+ingenuous: 英[ɪnˈdʒenjuəs] 美[ɪnˈdʒenjuəs]
+%adj. 天真的；坦白的；正直的；朴实的
+    an ingenuous country girl
+#率直的乡村姑娘
+    an ingenuous smile
+#天真地微笑
+    give ingenuous answers
+#老老实实地回答
+    Sally was so obviously sincere and ingenuous that everyone liked her.
+#萨莉是那样真诚坦率，大家都喜欢她。
+
+pristine: 英[ˈprɪstiːn] 美[ˈprɪstiːn]
+%adj. 整洁的，崭新的；未受损害的，处于原始状态的；正派的，正直的
+    a pristine wildness
+#蛮荒
+    have a pristine view of the canyon
+#见到那峡谷的本来面目
+    pristine products
+#刚制造出来的产品
+    a pristine dawn in spring
+#春天清新的黎明
+    pristine innocence
+#天真无邪
+    They moved into a pristine new office which had brand new furniture and polished floors.
+#他们搬进了崭新的办公室，里面有全新的家具和抛了光的地板。
+
+consign: 英[kənˈsaɪn] 美[kənˈsaɪn]
+%v. 交付，运送；（为摆脱而）把……置于；把……置于(令人不快的境地)；把……交付给，把……委托给；托售；委托…代售，寄售
+    be consigned to prison
+#被投人监狱
+    consign the love letters to the flames
+#把情书付之一炬
+    consign a child to sb.'s care
+#把孩子托给某人照顾
+    consign money in a bank
+#把钱存人银行
+    be consigned to oblivion
+#湮没无闻
+    After the financial disaster, she was consigned to poverty.
+#财政危机之后，她陷入了贫困
+
+nutritious: 英[njuˈtrɪʃəs] 美[nuˈtrɪʃəs]
+%adj. 有营养的，营养丰富的
+    Oranges and apples are especially nutritious.
+#橘子和苹果格外有营养。
+
+astronomic(al): 英[ˌæstrəˈnɒmɪk] 美[ˌæstrəˈnɑːmɪk]
+%adj. 天文学的；星学的
+    an astronomical price
+#贵得离谱的价格
+    an astronomical problem
+#难以克服的问题
+    rise to astronomical heights
+#（股票等）暴涨
+    The damage caused by the hurricane is astronomical.
+#飓风造成了不可估量的损失
+
+repellent: 英[rɪˈpelənt] 美[rɪˈpelənt]
+$adj. 令人讨厌的；防……的；排斥的，驱走的
+%n. 驱虫剂；防水剂（或布）；排斥力
+    repellent behavior
+#令人反感的行为
+    a repellent appearance
+#令人反感的模样
+    a water-repellent raincoat
+#防水雨衣
+    an insect repellent
+#驱虫剂
+    I find any cruelty to children utterly repellent.
+#我认为对儿童的任何残忍行为都是十分可恶的。
+
+argumentative: 英[ˌɑːɡjuˈmentətɪv] 美[ˌɑːrɡjuˈmentətɪv]
+%adj. 好争辩的，好争吵的；系统化推理的，按部就班地论证的；争辩的，辩论的
+    an argumentative question
+#引起争论的问题
+    an argumentative style of writing
+#论证式的笔法
+
+extant: 英[ekˈstænt] 美[ɪkˈstænt]
+%adj. 现存的；显著的
+    extant manuscripts
+#未佚失的手稿
+    the most charming extant writer
+#最令人喜爱的在世作家
+    There are only five extant copies of the book.
+#该书现存只有5本。
+
+conjecture: 英[kənˈdʒektʃə(r)] 美[kənˈdʒektʃər]
+$n. 臆测，猜测；猜测，推测的结果
+%v. <正式>猜测，推测；（校勘时的）揣摩
+    make no reasonable conjecture
+#做出没有情理的推测
+    take conjecture on one's eventual fate
+#对某人最后的命运做推测
+    There's been a lot of conjecture in the papers recently about the royal marriage.
+#近期的报纸对这桩皇室婚姻大加推测。
+
+engender: 英[ɪnˈdʒendə(r)] 美[ɪnˈdʒendər]
+%v. 产生，引起（某种感觉或情况）
+    engender strife
+#引起争吵
+    engender a feeling of mutual respect
+#产生一种互相尊重的感情
+    His latest book has engendered a lot of controversy.
+#他最近的一本书引起很多争议。
+
+querulous: 英[ˈkwerələs] 美[ˈkwerələs]
+%adj. 易怒的，暴躁的；爱发牢骚的，抱怨的；爱挑剔的
+    a querulous remark
+#牢骚话
+    He became increasingly dissatisfied and querulous in his old age.
+#到了晚年，他愈加不满，牢骚不断。
+
+obscurity: 英[əbˈskjʊərəti] 美[əbˈskjʊrəti]
+%n. 无名，默默无闻；费解，晦涩；<文>昏暗，黑暗
+    fade into obscurity
+#渐归湮没
+    hide in the obscurity of the thick bushes
+#躲藏在灌木丛的阴暗中
+    The obscurity of the paragraph makes several interpretations possible.
+#这段文字极为晦涩，可能有多种解释。
+
+attest: 英[əˈtest] 美[əˈtest]
+%v. <正式>证明，表明；<正式>（尤指在法庭上）证实；<史，英>宣誓服兵役
+    attest the truth of a statement
+#证明陈述的真实性
+    attest to one's ability
+#证明某人的能力
+    attest one's support for
+#表明对……的支持
+    The will needs to be attested by three witnesses.
+#遗嘱需由三名证人证明。
+
+weightless: 英[ˈweɪtləs] 美[ˈweɪtləs]
+%adj. 失重的；无重量的
+    a weightless opportunist
+#随风倒的机会主义分子
+    There is a lot of fun in carrying out experiments in the weightless conditions which are experienced aboard space stations.
+#在太空站的失重环境下做实验饶有趣味。
+
+bask: 英[bɑːsk] 美[bæsk]
+$vi. 晒太阳；取暖；愉快或舒适；沉浸，沐浴（在赞美、关注等中）
+$vt. 使……晒太阳；使暖和而舒适
+%n. （Bask）人名；（芬）巴斯克
+    bask in the sun
+#晒太阳
+    bask by the fir
+#烤火
+    bask in one's importance
+#因显赫的地位而洋洋得意
+    bask oneself on the sunny beach
+#在洒满阳光的海滩上舒适地取暖
+    He had done the right thing, and for a while he basked in his mother's approval.
+#那件事他做得很好，一时沉浸在母亲的赞扬声中。
+
+phonetic: 英[fəˈnetɪk] 美[fəˈnetɪk]
+%adj. 音标的；语音的，语音学的；（拼写系统）表音的，与发音近似的
+    Pronunciations are shown in this dictionary using the International Phonetic Alphabet, which is a standard system.
+#这本词典的读音由国际音标（一个标准体系）标出。
+
+composure: 英[kəmˈpəʊʒə(r)] 美[kəmˈpoʊʒər]
+%n. 镇静；沉着
+    keep composure
+#保持镇静
+    lose one's composure
+#失去克制
+    You may feel nervous but don't lose your composure in front of her.
+#你也许会觉得紧张，但是别在她面前沉不住气。
+
+=======
+vex: 英[veks] 美[veks]
+$vt. 使烦恼；使困惑；使恼怒
+%vi. 烦恼
+    be vexed by the children
+#被孩子们弄得心烦意乱
+    be vexed at one's failure
+#因失败而苦恼
+    vex over trifles
+#为小事而烦恼
+    be vexed with rheumatism
+#罹风湿痛之苦
+    a coast vexed by waves.
+#波涛汹涌的海岸
+    I was vexed by the things that people were always telling me that I must do.
+#人们总是告诉我必须做这样做那样，我都给烦死了。
+
+contemptible: 英[kənˈtemptəbl] 美[kənˈtemptəbl]
+%adj. 可鄙的，卑劣的
+    a contemptible liar
+#无耻的说谎者
+    For a person in a position of such responsibility, her behavior was contemptible.
+#作为一个负有如此重大责任的人，她的行为十分可鄙。
+
+palatable: 英[ˈpælətəb(ə)l] 美[ˈpælətəb(ə)l]
+%adj. 美味的，可口的；愉快的
+    palatable lunch
+#美味的午餐
+    palatable to the audience
+#适应听众的口味
+    The meal was barely palatable -- in fact I thought it was disgusting.
+#这顿饭根本谈不上可口——事实上，我觉得它叫人恶心。
+
+insipid: 英[ɪnˈsɪpɪd] 美[ɪnˈsɪpɪd]
+%adj. 无味的，清淡的；无趣的，无活力的
+    a pale insipid wine
+#淡而无味的葡萄酒
+    insipid conversation
+#枯燥无味的谈话
+    insipid music
+#毫无特色的音乐
+
+cursory: 英[ˈkɜːsəri] 美[ˈkɜːrsəri]
+%adj. 粗略的，草率的，匆忙的
+    a cursory glance
+#草草一瞥
+    a cursory check
+#粗略的检查
+
+repudiate: 英[rɪˈpjuːdieɪt] 美[rɪˈpjuːdieɪt]
+%vt. 拒绝；否定；批判；与……断绝关系；拒付
+    repudiate the charge
+#驳斥指控
+    repudiate one's authority
+#拒不服从某人的权威
+    repudiate a will
+#否定遗嘱
+    repudiate a wicked son
+#声明与劣子脱离关系
+    repudiate an old friend
+#与老朋友断交
+    They agreed it was not in their interest to repudiate the treaty.
+#他们一致同意，拒绝接受条约不符合他们的利益。
+
+zealot: 英[ˈzelət] 美[ˈzelət]
+%n. 狂热者；犹太教狂热信徒
+    a feminist zealot
+#狂热的女主义者
+    a right wing zealot
+#狂热右翼分子
+
+scruple: 英[ˈskruːp(ə)l] 美[ˈskruːp(ə)l]
+$n. 微量；顾虑；踌躇
+$vi. 有顾忌；踌躇
+%vt. 对……有顾虑
+    a man of/with no scruples
+#无所顾忌的人
+    without scruples
+#毫无顾忌
+    make no scruple to do/of doing sth.
+#肆无忌惮地做某事
+    He did not scruple to tell lies when it served his interests.
+#只要对自己有利，他会毫无顾忌地撒谎。
+
+sanitary: 英[ˈsænət(ə)ri] 美[ˈsænəteri]
+%adj. 公共卫生的，公共保健的；干净的，卫生的；（用品）月经期间使用的
+    improve the sanitary condition
+#改进卫生条件
+    sanitary facilities
+#卫生设备
+    sanitary towel
+#卫生巾
+    It's not sanitary to let flies come near food.
+#让苍蝇接近食物是不卫生的。
+
+witty: 英[ˈwɪti] 美[ˈwɪti]
+%adj. 风趣的，诙谐的，机智的
+    have a witty tongue
+#谈吐诙谐
+    She is well-known for being one of the wittiest people on television.
+#她以作为电视上最风趣的人之一而闻名
+
+regenerate: 英[rɪˈdʒenəreɪt] 美[rɪˈdʒenəreɪt]
+$vt. 使再生；革新
+$vi. 再生；革新
+%adj. 再生的；革新的
+    regenerate the old cities
+#重建旧城
+    a regenerate society
+#革新的社会
+    Many kinds of plants can regenerate roots from an end of a cut stem.
+#许多植物会从切下的茎端再生根。
+
+allegory: 英[ˈæləɡəri] 美[ˈæləɡɔːri]
+%n. 寓言
+    talk in allegories
+#讽喻地说话
+    The play may be seen as an allegory about the nature of man.
+#这出戏可被看作一个关于人性的寓言故事。
+
+admonish: 英[ədˈmɒnɪʃ] 美[ædˈmɑːnɪʃ]
+%vt. 告诫；劝告
+    admonish sb. of the impending danger
+#就即将发生的危险警告某人
+    admonish sb. of his obligations
+#提醒某人应尽的义务
+    admonish sb. against smoking
+#力劝某人戒烟
+    The guide admonished the mountain climbers to follow him carefully.
+#导游告诫登山者小心翼翼地跟着他前行。
+
+gratify: 英[ˈɡrætɪfaɪ] 美[ˈɡrætɪfaɪ]
+%vt. 使高兴，使满意；满足（愿望、需要等）
+    gratify the eye
+#悦目
+    gratify one's hunger with a huge meal
+#大吃一顿解饿
+    gratify one's need
+#满足某人的需要
+    We were gratified at/by the response to our appeal.
+#我们对于给予我们上诉的回复表示满意。
+
+fickle: 英[ˈfɪk(ə)l] 美[ˈfɪk(ə)l]
+%adj. 浮躁的；易变的；变幻无常的
+    a fickle woman
+#感情变化无常的女人
+    The relations between the two countries are still fickle.
+#两国间的关系依然是变化不定
+
+combustible: 英[kəmˈbʌstəbl] 美[kəmˈbʌstəb(ə)l]
+$adj. 易燃的；易激动的；燃烧性的
+%n. 可燃物；易燃物
+    Wood and coal are both combustible substances.
+#木头和煤都是易燃物品。
+
+bumper: 英[ˈbʌmpə(r)] 美[ˈbʌmpər]
+$n. （车辆）保险杠；<古>大满杯敬酒；（为跳栏或障碍赛作准备的）新马平地赛；<旧>（板球）反弹球；广告时段；<非正式>烟头
+$adj. 丰收的，丰盛的；巨大的，大号的
+%v. 满杯祝酒；干杯；装满
+    fill sb. a bumper
+#给某人斟一满杯
+    a bumper audience
+#特别多的观众
+    Farmers have reported a bumper crop this year.
+#据报道，今年农民庄稼大丰收。
+
+energize: 英[ˈenədʒaɪz] 美[ˈenərdʒaɪz]
+$vt. 激励；使活跃；供给……能量
+%vi. 活动；用力
+    I felt very energized after my holiday.
+#假期过后我感到精力很充沛。
+
+transmute: 英[trænzˈmjuːt] 美[trænzˈmjuːt]
+$vt. 使变形；使变质
+%vi. 变形；变质
+    transmute water power into electric power
+#把水力变成电力
+    transmute materials into finished products
+#把原料变成成品
+    A shaft of sunlight had suddenly transmuted the room into a bright and welcoming place.
+#一束阳光使这个房间陡然变成了一个明亮舒适的地方。
+
+patronage: 英[ˈpætrənɪdʒ] 美[ˈpeɪtrənɪdʒ]
+%n. 赞助，资助；（对餐馆、酒店或其他生意的）惠顾，光顾；职位授予权，恩惠给予权；庇护，扶植；恩赐态度；（古罗马）庇护人的权力和职责，庇护人的地位
+    public patronage of art
+#公众对艺术的赞助
+    receive lavish patronage
+#得到慷慨的赞助
+    with under the patronage of sb.
+#在某人的资助下
+    give one's patronage to a shop
+#经常光顾一家商店
+    The concert was made possible by the kind patronage of the company.
+#这家公司的好心赞助使音乐会开成了。
+
+therapeutic: 英[ˌθerəˈpjuːtɪk] 美[ˌθerəˈpjuːtɪk]
+$adj. 治疗的，有疗效的；使人镇静的，使人放松的；治疗学的
+%n. 疗法，治疗药物；治疗学（therapeutics）
+    the therapeutic effects of high fibre diet
+#高纤维饮食的保健效果
+    I find gardening very therapeutic.
+#我发现园艺是很有益健康的。
+
+palpable: 英[ˈpælpəb(ə)l] 美[ˈpælpəb(ə)l]
+%adj. 明显的；可感知的；易觉察的
+    a palpable effect
+#明显的效果
+    a palpable tension
+#明显的紧张关系
+    a palpable error
+#明显的错误
+    Her relief and happiness was palpable.
+#她的欣慰和快乐全写在脸上。
+
+stasis: 英[ˈsteɪsɪs] 美[ˈsteɪsɪs]
+$n. 静止状态（或时期）；郁积；内乱
+%n. （Stasis）（美）斯塔西斯（人名）
+    She was bored -- her life was in stasis.
+#她感到厌倦——她的生活是一潭死水。
+
+incarnate: 英[ɪnˈkɑːnət] 美[ɪnˈkɑːrnət]
+$adj. 人体化的，化身的；拟人化的；极典型的；以极端形式体现的
+%v. 体现，化身为，使具体化；使人格化，拟人化；（人）体现（某种品质）
+    a devil incarnate
+#魔鬼的化身
+    evil incarnate
+#邪恶的化身
+    stupidity incarnate
+#愚蠢的典型
+    In the man the spirit of the times is incarnated.
+#这人身上体现着时代精神。
+
+ingenuous: 英[ɪnˈdʒenjuəs] 美[ɪnˈdʒenjuəs]
+%adj. 天真的；坦白的；正直的；朴实的
+    an ingenuous country girl
+#率直的乡村姑娘
+    an ingenuous smile
+#天真地微笑
+    give ingenuous answers
+#老老实实地回答
+    Sally was so obviously sincere and ingenuous that everyone liked her.
+#萨莉是那样真诚坦率，大家都喜欢她。
+
+pristine: 英[ˈprɪstiːn] 美[ˈprɪstiːn]
+%adj. 整洁的，崭新的；未受损害的，处于原始状态的；正派的，正直的
+    a pristine wildness
+#蛮荒
+    have a pristine view of the canyon
+#见到那峡谷的本来面目
+    pristine products
+#刚制造出来的产品
+    a pristine dawn in spring
+#春天清新的黎明
+    pristine innocence
+#天真无邪
+    They moved into a pristine new office which had brand new furniture and polished floors.
+#他们搬进了崭新的办公室，里面有全新的家具和抛了光的地板。
+
+consign: 英[kənˈsaɪn] 美[kənˈsaɪn]
+%v. 交付，运送；（为摆脱而）把……置于；把……置于(令人不快的境地)；把……交付给，把……委托给；托售；委托…代售，寄售
+    be consigned to prison
+#被投人监狱
+    consign the love letters to the flames
+#把情书付之一炬
+    consign a child to sb.'s care
+#把孩子托给某人照顾
+    consign money in a bank
+#把钱存人银行
+    be consigned to oblivion
+#湮没无闻
+    After the financial disaster, she was consigned to poverty.
+#财政危机之后，她陷入了贫困
+
+nutritious: 英[njuˈtrɪʃəs] 美[nuˈtrɪʃəs]
+%adj. 有营养的，营养丰富的
+    Oranges and apples are especially nutritious.
+#橘子和苹果格外有营养。
+
+astronomic(al): 英[ˌæstrəˈnɒmɪk] 美[ˌæstrəˈnɑːmɪk]
+%adj. 天文学的；星学的
+    an astronomical price
+#贵得离谱的价格
+    an astronomical problem
+#难以克服的问题
+    rise to astronomical heights
+#（股票等）暴涨
+    The damage caused by the hurricane is astronomical.
+#飓风造成了不可估量的损失
+
+repellent: 英[rɪˈpelənt] 美[rɪˈpelənt]
+$adj. 令人讨厌的；防……的；排斥的，驱走的
+%n. 驱虫剂；防水剂（或布）；排斥力
+    repellent behavior
+#令人反感的行为
+    a repellent appearance
+#令人反感的模样
+    a water-repellent raincoat
+#防水雨衣
+    an insect repellent
+#驱虫剂
+    I find any cruelty to children utterly repellent.
+#我认为对儿童的任何残忍行为都是十分可恶的。
+
+argumentative: 英[ˌɑːɡjuˈmentətɪv] 美[ˌɑːrɡjuˈmentətɪv]
+%adj. 好争辩的，好争吵的；系统化推理的，按部就班地论证的；争辩的，辩论的
+    an argumentative question
+#引起争论的问题
+    an argumentative style of writing
+#论证式的笔法
+
+extant: 英[ekˈstænt] 美[ɪkˈstænt]
+%adj. 现存的；显著的
+    extant manuscripts
+#未佚失的手稿
+    the most charming extant writer
+#最令人喜爱的在世作家
+    There are only five extant copies of the book.
+#该书现存只有5本。
+
+conjecture: 英[kənˈdʒektʃə(r)] 美[kənˈdʒektʃər]
+$n. 臆测，猜测；猜测，推测的结果
+%v. <正式>猜测，推测；（校勘时的）揣摩
+    make no reasonable conjecture
+#做出没有情理的推测
+    take conjecture on one's eventual fate
+#对某人最后的命运做推测
+    There's been a lot of conjecture in the papers recently about the royal marriage.
+#近期的报纸对这桩皇室婚姻大加推测。
+
+engender: 英[ɪnˈdʒendə(r)] 美[ɪnˈdʒendər]
+%v. 产生，引起（某种感觉或情况）
+    engender strife
+#引起争吵
+    engender a feeling of mutual respect
+#产生一种互相尊重的感情
+    His latest book has engendered a lot of controversy.
+#他最近的一本书引起很多争议。
+
+querulous: 英[ˈkwerələs] 美[ˈkwerələs]
+%adj. 易怒的，暴躁的；爱发牢骚的，抱怨的；爱挑剔的
+    a querulous remark
+#牢骚话
+    He became increasingly dissatisfied and querulous in his old age.
+#到了晚年，他愈加不满，牢骚不断。
+
+obscurity: 英[əbˈskjʊərəti] 美[əbˈskjʊrəti]
+%n. 无名，默默无闻；费解，晦涩；<文>昏暗，黑暗
+    fade into obscurity
+#渐归湮没
+    hide in the obscurity of the thick bushes
+#躲藏在灌木丛的阴暗中
+    The obscurity of the paragraph makes several interpretations possible.
+#这段文字极为晦涩，可能有多种解释。
+
+attest: 英[əˈtest] 美[əˈtest]
+%v. <正式>证明，表明；<正式>（尤指在法庭上）证实；<史，英>宣誓服兵役
+    attest the truth of a statement
+#证明陈述的真实性
+    attest to one's ability
+#证明某人的能力
+    attest one's support for
+#表明对……的支持
+    The will needs to be attested by three witnesses.
+#遗嘱需由三名证人证明。
+
+weightless: 英[ˈweɪtləs] 美[ˈweɪtləs]
+%adj. 失重的；无重量的
+    a weightless opportunist
+#随风倒的机会主义分子
+    There is a lot of fun in carrying out experiments in the weightless conditions which are experienced aboard space stations.
+#在太空站的失重环境下做实验饶有趣味。
+
+bask: 英[bɑːsk] 美[bæsk]
+$vi. 晒太阳；取暖；愉快或舒适；沉浸，沐浴（在赞美、关注等中）
+$vt. 使……晒太阳；使暖和而舒适
+%n. （Bask）人名；（芬）巴斯克
+    bask in the sun
+#晒太阳
+    bask by the fir
+#烤火
+    bask in one's importance
+#因显赫的地位而洋洋得意
+    bask oneself on the sunny beach
+#在洒满阳光的海滩上舒适地取暖
+    He had done the right thing, and for a while he basked in his mother's approval.
+#那件事他做得很好，一时沉浸在母亲的赞扬声中。
+
+phonetic: 英[fəˈnetɪk] 美[fəˈnetɪk]
+%adj. 音标的；语音的，语音学的；（拼写系统）表音的，与发音近似的
+    Pronunciations are shown in this dictionary using the International Phonetic Alphabet, which is a standard system.
+#这本词典的读音由国际音标（一个标准体系）标出。
+
+composure: 英[kəmˈpəʊʒə(r)] 美[kəmˈpoʊʒər]
+%n. 镇静；沉着
+    keep composure
+#保持镇静
+    lose one's composure
+#失去克制
+    You may feel nervous but don't lose your composure in front of her.
+#你也许会觉得紧张，但是别在她面前沉不住气。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

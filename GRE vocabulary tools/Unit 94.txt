@@ -1,0 +1,757 @@
+<<<<<<< HEAD
+idyllic: 英[ɪˈdɪlɪk] 美[aɪˈdɪlɪk]
+%adj. 田园诗般的; 平和美丽的; 完美无瑕的
+    in those idyllic days
+#在那些静的日子里
+    an idyllic scene like a painting
+#画一般的田园风光
+    He leads an idyllic existence.
+#他过着诗情画意的生活。
+
+sinuous: 英[ˈsɪnjuəs] 美[ˈsɪnjuəs]
+%adj. 蜿蜒的；弯曲的；迂回的
+    a sinuous road among the mountains
+#蜿蜓的山路
+    a sinuous question
+#绕着弯子的问题
+    a sinuous system of canals
+#纵横交错的运河网
+    He walked along the sinuous course of the river.
+#他沿着弯弯曲曲的河道散步。
+
+hoard: 英[hɔːd] 美[hɔːrd]
+$n. 贮存，秘藏；（窖藏硬币或贵重器物的）古代宝窟；情报（库）
+%v. 贮藏，囤积
+    a huge hoard of goods
+#很多贮藏的物品
+    hoard up nuts for winter
+#贮藏坚果准备过冬
+    Because people expected prices to rise rapidly, they started to hoard goods.
+#由于人们预计价格会迅速上升，他们开始贮藏商品。
+
+impending: 英[ɪmˈpendɪŋ] 美[ɪmˈpendɪŋ]
+$adj. 即将发生的，逼近的；悬挂的
+%v. 迫近；（坏事）隐现；悬而未决（impend 的现在分词）
+    impending doom
+#大难临头
+    an impending economic crisis
+#日益逼近的经济危机
+    People out at sea had been warned of the impending storms.
+#在海上的人曾被警告即将有风暴。
+
+antecedent: 英[ˌæntɪˈsiːd(ə)nt] 美[ˌæntɪˈsiːd(ə)nt]
+$n. 先例，前身；祖先，社会与家庭背景（antecedents）；先行词，前述词；（逻辑）前件
+%adj. 先时的，先前的；（语法）先行的
+    inquire into sb.'s antecedents
+#细查某人的经历
+    a person of doubtful/shady antecedents
+#背景可疑的人
+    a person of unknown antecedents
+#来历不明的人
+    The cave men lived in a period of history antecedent to written records.
+#穴居人生活在有文字记录之前的一个历史时期。
+
+injurious: 英[ɪnˈdʒʊəriəs] 美[ɪnˈdʒʊriəs]
+%adj. 有害的，致伤的；中伤的，诽谤的
+    injurious words
+#诽谤的话
+    injurious to crops
+#对庄稼有害
+    Overeating is injurious to health.
+#吃得过多对健康有害。
+
+placid: 英[ˈplæsɪd] 美[ˈplæsɪd]
+%adj. 平静的；温和的；沉着的
+    a placid world
+#平静的世界
+    a placid temper
+#平和的性情
+    The light wind caused ripples to the placid surface of the lake.
+#微风在平静的湖面上吹起了涟漪。
+
+congenial: 英[kənˈdʒiːniəl] 美[kənˈdʒiːniəl]
+%adj. 意气相投的；性格相似的；适意的；一致的
+    a group of congenial buildings
+#协调的建筑群
+    congenial atmosphere
+#令人愉快的气氛
+    congenial work
+#合意的工作
+    congenial companions
+#意气相投的伙伴
+    The lake is congenial to writing poetry.
+#湖畔宜写诗。
+
+tarnish: 英[ˈtɑːnɪʃ] 美[ˈtɑːrnɪʃ]
+$v. 使失去光泽，使变暗淡；玷污
+%n. （金属表面的）暗锈；颜色晦暗，无光泽；污点
+    tarnished rings
+#失去光泽的戒指
+    tarnish one's fame
+#败坏某人的名誉
+    tarnish one's image
+#损害某人的形象
+    Silver, copper and brass need to be polished frequently to prevent them from tarnishing.
+#银器、铜器和黄铜器需要经常指擦才不会失去光泽。
+
+innate: 英[ɪˈneɪt] 美[ɪˈneɪt]
+%adj. 先天的，固有的；（信仰）根深蒂固的
+    an innate talent for music
+#一种天赋的音乐才华
+    an innate defect in the hypothesis
+#这一假设中固有的不足之处
+    Looking back over the many years, his most impressive quality, for me, was his innate goodness.
+#回首这么多年来，他给我印象最深的品质是他天生的善良。
+
+accede: 英[əkˈsiːd] 美[əkˈsiːd]
+%vi. 加入；同意；就任
+    accede to a request
+#答应请求
+    accede to a treaty
+#加入一个条约
+    accede to the presidency
+#就任总统
+    She acceded under pressure.
+#她在压力下同意了。
+
+complementary: 英[ˌkɒmplɪˈment(ə)ri] 美[ˌkɑːmplɪˈment(ə)ri]
+%adj. 相互补充的，相辅相成的；互补色的；（基因序列、核苷酸等）互补的；（与）补充医学（有关）的；余角的，互为余角的
+    complementary products
+#互补产品
+    complementary service
+#辅助服务
+    complementary colors
+#互补色
+    My family and my job both play an important part in my life, fulfilling separate but complementary needs.
+#我的家庭和工作都是我生活中重要的组成部分，它们相互补充，满足我不同的需要。
+
+sporadic: 英[spəˈrædɪk] 美[spəˈrædɪk]
+%adj. 偶尔发生的，零星的；（疾病）偶发的，非流行性的
+    sound of sporadic gunfire
+#零星的枪炮声
+    a sporadic disease
+#偶发疾病
+    sporadic outbursts of violence
+#暴力行为的偶尔暴发
+    There were reports of sporadic fighting in the street.
+#有报道说，街上有零星战斗。
+
+trilogy: 英[ˈtrɪlədʒi] 美[ˈtrɪlədʒi]
+%n. 三部曲；三部剧
+    It is the second part in a trilogy.
+#这是三部曲中的第二部。
+
+tedium: 英[ˈtiːdiəm] 美[ˈtiːdiəm]
+%n. 沉闷；单调乏味；厌烦
+    the hours of tedium
+#沉闷的几小时
+    He had to wait in a room for four hours without so much as a magazine to relieve the tedium.
+#他不得不在房间里等4个小时，连一本排遣寂寞的杂志都没有。
+
+ablaze: 英[əˈbleɪz] 美[əˈbleɪz]
+$adj. 着火的，猛火燃烧；闪耀的，光亮的；激昂的，愤怒的
+%adv. 着火；闪耀
+    be ablaze with lights
+#灯火辉煌
+    a lady ablaze with jewels
+#珠光宝的贵妇人
+    a face ablaze with excitement
+#激动得满脸通红
+    The forest was set ablaze by lightning.
+#森林因雷击起火。
+
+frivolous: 英[ˈfrɪvələs] 美[ˈfrɪvələs]
+%adj. 愚蠢轻浮的，不严肃的；无聊的，不重要的
+    a frivolous young man
+#轻浮少年
+    a frivolous attitude toward one's studies
+#对学业草率敷衍的态度
+    a frivolous detail
+#无足轻重的细节
+    have a frivolous nature
+#生来就不是一本正经的人
+    He was warned not to give frivolous replies to the lawyer's questions.
+#他被警告不要轻浮地回答律师的问题。
+
+navigate: 英[ˈnævɪɡeɪt] 美[ˈnævɪɡeɪt]
+%v. 导航，引路；航行于，横渡；穿过，穿越；驾驶，操纵；浏览；（有效地）处理；(鱼、动物或昆虫)找到正确的行动方向；绕过
+    Radio signals are used for navigating both ships and aircraft.
+#无线电信号用于船舶和飞机的导航。
+
+indecipherable: 英[ˌɪndɪˈsaɪfrəb(ə)l] 美[ˌɪndɪˈsaɪfrəb(ə)l]
+%adj. 无法解释的；破译不出的；难辨认的
+    an indecipherable signature
+#无法辨认的签名
+    the indecipherable coded message
+#无法破译的密码信息
+    Her inner life seemed to us indecipherable.
+#在我们看来，她的精神生活似乎难以理解。
+
+irreverent: 英[ɪˈrevərənt] 美[ɪˈrevərənt]
+%adj. 不敬的，无礼的
+    an irreverent act
+#无礼的行为
+    She has an irreverent attitude towards marriage.
+#她对婚姻持无所谓的态度。
+
+comprehensible: 英[ˌkɒmprɪˈhensəb(ə)l] 美[ˌkɑːmprɪˈhensəb(ə)l]
+%adj. 可理解的
+    This news item is comprehensible only to a few insiders.
+#这条消息只有少数内部的人才能看得懂。
+
+vertebrate: 英[ˈvɜːtɪbrət] 美[ˈvɜːrtɪbrət]
+$n. 脊椎动物
+%adj. 脊椎动物（有关）的；有脊椎的
+    the first vertebrate inhabitants of the land
+#陆地上最早的脊椎动物
+    a vertebrate piece of composition
+#一部结构严谨的作品
+
+substantiate: 英[səbˈstænʃieɪt] 美[səbˈstænʃieɪt]
+%vt. 证实；使实体化
+    substantiate a rumor
+#证明一则传闻
+    substantiate a document
+#证明文件的真实性
+    substantiate a friendship
+#加强友谊
+    The hypothesis was substantiated by a later archeological excavation.
+#这一假设被后来的一次考古发掘证实了。
+
+intrepid: 英[ɪnˈtrepɪd] 美[ɪnˈtrepɪd]
+%adj. 无畏的；勇敢的；勇猛的
+    an intrepid fighter
+#无畏的战士
+    an intrepid attitude
+#坚忍不拔的态度
+    gain a reputation as a daring intrepid journalist
+#赢得勇敢无畏的记者的美名
+
+unparalleled: 英[ʌnˈpærəleld] 美[ʌnˈpærəleld]
+%adj. 无与伦比的，无双的；前所未有的，从未经历过的，独特的
+    They enjoyed success on a scale unparalleled by previous pop groups.
+#他们取得了以前任何流行乐队都无可比拟的巨大成功。
+
+solder: 英[ˈsəʊldə(r)] 美[ˈsɑːdər]
+$n. 焊料；接合物
+%v. 焊接；使联接在一起
+    solder a leaky pot
+#焊补一把漏壶
+    solder the broken wires together
+#把断电线接在一起
+    a friendship soldered by common interests
+#被共同利害关系联结在一起的友谊
+    The joint solders easily.
+#接头处容易焊合。
+
+nostalgic: 英[nɒˈstældʒɪk] 美[nɑːˈstældʒɪk]
+$adj. 思乡的；引人怀旧的
+%n. 怀旧的人
+    a nostalgic film
+#怀旧影片
+    nostalgic for the past
+#怀旧
+    I have a nostalgic longing for the town where I spent my childhood.
+#我对那座小城有一种怀旧的向往，在那里我度过了童年时代。
+
+rugged: 英[ˈrʌɡɪd] 美[ˈrʌɡɪd]
+%adj. （地面，地形）高低不平的，崎岖的；（男人的外貌）粗犷而英俊的；强健而坚毅的；（机器或其他制造品）坚固耐用的；艰难的，严峻的
+    a rugged track through the mountains
+#崎岖不平的山间小路
+    a rugged coast
+#多岩石的海岸
+    a rugged face
+#布满皱纹的脸
+    a rugged bark
+#粗糙的树皮
+    rugged manners
+#粗鲁的态度
+    a rugged life
+#艰难的生活
+    Jeeps are rugged vehicles, designed for rough conditions.
+#吉普车是坚固耐用的车辆，是为在恶劣环境下行驶而设计的。
+
+critique: 英[krɪˈtiːk] 美[krɪˈtiːk]
+$n. 评论文章，评论；批判
+%v. 对……发表评论，评判
+    critique a new novel
+#给一部新小说写书评
+    a film critique
+#影评
+    The newspaper often carries critiques of new books, films and plays.
+#这家报纸常常刊登对新书、新电影及新戏的评论文章。
+
+forestall: 英[fɔːˈstɔːl] 美[fɔːrˈstɔːl]
+%vt. 先发制人，预先阻止；垄断，屯积；领先；占先一步
+    We forestalled any attempt to steal the jewels by having them moved to a safer place.
+#我们赶在有人想要偷盗珠宝之前把珠宝转移到了安全的地方。
+
+tenuous: 英[ˈtenjuəs] 美[ˈtenjuəs]
+%adj. 纤细的；稀薄的；贫乏的
+    a tenuous thread
+#细线
+    a tenuous hope
+#一线希望
+    a tenuous gas
+#稀薄的气体
+    a tenuous distinction
+#细微的区别
+    preserve a tenuous contact with sb.
+#同某人保持若即若离的关系
+    He gave a rather tenuous account of his past life.
+#他对自己的过去说得相当含糊。
+
+delineate: 英[dɪˈlɪnieɪt] 美[dɪˈlɪnieɪt]
+%v. （详细地）描述，解释；标明，标示（边界）
+    delineate a plan
+#描述计划
+    The main characters are clearly delineated in the first chapter of the book.
+#第一章清楚地勾勒了本书主要人物的形象。
+
+preoccupation: 英[priˌɒkjuˈpeɪʃn] 美[priˌɑːkjuˈpeɪʃn]
+%n. 使人全神贯注的事物，使人入神的事物；全神贯注，入神
+    preoccupation with one's career
+#对于自己事业的专心致志
+    an excessive preoccupation with one's health
+#过分关注自己的健康
+    He's got so many preoccupations at the moment that he ignores his family completely.
+#他眼下要做的急事太多，以至于把家庭都抛在脑后了。
+
+cumbersome: 英[ˈkʌmbəsəm] 美[ˈkʌmbərsəm]
+%adj. 笨重的；繁琐的，复杂的；（话语或措词）冗长的
+    a cumbersome overcoat
+#笨重的大衣
+    a cumbersome style of writing 
+#冗长拖沓的写作风格
+    a cumbersome salary system
+#烦琐的工资制度
+    It's rather cumbersome having to carry all these cases around.
+#带着全部这些盒子走动是件相当麻烦的事。
+
+fictitious: 英[fɪkˈtɪʃəs] 美[fɪkˈtɪʃəs]
+%adj. 捏造的，骗人的；（为写书、戏剧或电影）虚构的，杜撰的
+    a fictitious character
+#虚构的人物
+    a fictitious hero
+#小说中的英雄
+    write under a fictitious name
+#用假名写
+    Her account of the incident was totally fictitious.
+#她对那个事件的叙述完全是虚构的。
+
+aloof: 英[əˈluːf] 美[əˈluːf]
+$adj. 冷漠的，疏远的；远离的，不受影响的
+%adv. 冷漠地，疏远地
+    stand aloof from all the others
+#孤零零地远离他人站着
+    an aloof house
+#孤屋
+    an aloof character
+#孤僻的人
+    Although many of his friends were politicians, he kept aloof from politics.
+#虽然他的许多朋友是从政者，但他却一直远离政治。
+
+braid: 英[breɪd] 美[breɪd]
+$n. （装饰家具和军装的）彩色穗带；<美>发辫，辫子
+$v. 把……编成绳子（或穗带）；把（头发）编成辫子；（用饰带等）镶边，镶缀；（河或小溪）迂回流动，交叉往来
+%n. （Braid）（美）布雷德（人名）
+    wear one's hair in a long braid
+#留着一条长辫子
+    a uniform trimmed with gold braid
+#镶着金边的制服
+    braid a rug
+#编织地毯
+    braid fact with fiction
+#把事实和虚构混在一起
+    The skirt had two rows of red braid round the hem.
+#这条裙子的下摆处有两条红色镶边。
+
+premise: 英[ˈpremɪs] 美[ˈpremɪs]
+$n. 前提，假设；（企业或机构使用的）房屋及土地（premises）；上述各项
+%v. 以……为基础，以……为前提；预先提出，事先提到；<古>声明，说明
+    on the premise of
+#在……前提下
+    on the premises
+#在房屋内，在场所内
+    The research project is based on the premise stated earlier.
+#这项研究计划基于早先提出的假设。
+
+=======
+idyllic: 英[ɪˈdɪlɪk] 美[aɪˈdɪlɪk]
+%adj. 田园诗般的; 平和美丽的; 完美无瑕的
+    in those idyllic days
+#在那些静的日子里
+    an idyllic scene like a painting
+#画一般的田园风光
+    He leads an idyllic existence.
+#他过着诗情画意的生活。
+
+sinuous: 英[ˈsɪnjuəs] 美[ˈsɪnjuəs]
+%adj. 蜿蜒的；弯曲的；迂回的
+    a sinuous road among the mountains
+#蜿蜓的山路
+    a sinuous question
+#绕着弯子的问题
+    a sinuous system of canals
+#纵横交错的运河网
+    He walked along the sinuous course of the river.
+#他沿着弯弯曲曲的河道散步。
+
+hoard: 英[hɔːd] 美[hɔːrd]
+$n. 贮存，秘藏；（窖藏硬币或贵重器物的）古代宝窟；情报（库）
+%v. 贮藏，囤积
+    a huge hoard of goods
+#很多贮藏的物品
+    hoard up nuts for winter
+#贮藏坚果准备过冬
+    Because people expected prices to rise rapidly, they started to hoard goods.
+#由于人们预计价格会迅速上升，他们开始贮藏商品。
+
+impending: 英[ɪmˈpendɪŋ] 美[ɪmˈpendɪŋ]
+$adj. 即将发生的，逼近的；悬挂的
+%v. 迫近；（坏事）隐现；悬而未决（impend 的现在分词）
+    impending doom
+#大难临头
+    an impending economic crisis
+#日益逼近的经济危机
+    People out at sea had been warned of the impending storms.
+#在海上的人曾被警告即将有风暴。
+
+antecedent: 英[ˌæntɪˈsiːd(ə)nt] 美[ˌæntɪˈsiːd(ə)nt]
+$n. 先例，前身；祖先，社会与家庭背景（antecedents）；先行词，前述词；（逻辑）前件
+%adj. 先时的，先前的；（语法）先行的
+    inquire into sb.'s antecedents
+#细查某人的经历
+    a person of doubtful/shady antecedents
+#背景可疑的人
+    a person of unknown antecedents
+#来历不明的人
+    The cave men lived in a period of history antecedent to written records.
+#穴居人生活在有文字记录之前的一个历史时期。
+
+injurious: 英[ɪnˈdʒʊəriəs] 美[ɪnˈdʒʊriəs]
+%adj. 有害的，致伤的；中伤的，诽谤的
+    injurious words
+#诽谤的话
+    injurious to crops
+#对庄稼有害
+    Overeating is injurious to health.
+#吃得过多对健康有害。
+
+placid: 英[ˈplæsɪd] 美[ˈplæsɪd]
+%adj. 平静的；温和的；沉着的
+    a placid world
+#平静的世界
+    a placid temper
+#平和的性情
+    The light wind caused ripples to the placid surface of the lake.
+#微风在平静的湖面上吹起了涟漪。
+
+congenial: 英[kənˈdʒiːniəl] 美[kənˈdʒiːniəl]
+%adj. 意气相投的；性格相似的；适意的；一致的
+    a group of congenial buildings
+#协调的建筑群
+    congenial atmosphere
+#令人愉快的气氛
+    congenial work
+#合意的工作
+    congenial companions
+#意气相投的伙伴
+    The lake is congenial to writing poetry.
+#湖畔宜写诗。
+
+tarnish: 英[ˈtɑːnɪʃ] 美[ˈtɑːrnɪʃ]
+$v. 使失去光泽，使变暗淡；玷污
+%n. （金属表面的）暗锈；颜色晦暗，无光泽；污点
+    tarnished rings
+#失去光泽的戒指
+    tarnish one's fame
+#败坏某人的名誉
+    tarnish one's image
+#损害某人的形象
+    Silver, copper and brass need to be polished frequently to prevent them from tarnishing.
+#银器、铜器和黄铜器需要经常指擦才不会失去光泽。
+
+innate: 英[ɪˈneɪt] 美[ɪˈneɪt]
+%adj. 先天的，固有的；（信仰）根深蒂固的
+    an innate talent for music
+#一种天赋的音乐才华
+    an innate defect in the hypothesis
+#这一假设中固有的不足之处
+    Looking back over the many years, his most impressive quality, for me, was his innate goodness.
+#回首这么多年来，他给我印象最深的品质是他天生的善良。
+
+accede: 英[əkˈsiːd] 美[əkˈsiːd]
+%vi. 加入；同意；就任
+    accede to a request
+#答应请求
+    accede to a treaty
+#加入一个条约
+    accede to the presidency
+#就任总统
+    She acceded under pressure.
+#她在压力下同意了。
+
+complementary: 英[ˌkɒmplɪˈment(ə)ri] 美[ˌkɑːmplɪˈment(ə)ri]
+%adj. 相互补充的，相辅相成的；互补色的；（基因序列、核苷酸等）互补的；（与）补充医学（有关）的；余角的，互为余角的
+    complementary products
+#互补产品
+    complementary service
+#辅助服务
+    complementary colors
+#互补色
+    My family and my job both play an important part in my life, fulfilling separate but complementary needs.
+#我的家庭和工作都是我生活中重要的组成部分，它们相互补充，满足我不同的需要。
+
+sporadic: 英[spəˈrædɪk] 美[spəˈrædɪk]
+%adj. 偶尔发生的，零星的；（疾病）偶发的，非流行性的
+    sound of sporadic gunfire
+#零星的枪炮声
+    a sporadic disease
+#偶发疾病
+    sporadic outbursts of violence
+#暴力行为的偶尔暴发
+    There were reports of sporadic fighting in the street.
+#有报道说，街上有零星战斗。
+
+trilogy: 英[ˈtrɪlədʒi] 美[ˈtrɪlədʒi]
+%n. 三部曲；三部剧
+    It is the second part in a trilogy.
+#这是三部曲中的第二部。
+
+tedium: 英[ˈtiːdiəm] 美[ˈtiːdiəm]
+%n. 沉闷；单调乏味；厌烦
+    the hours of tedium
+#沉闷的几小时
+    He had to wait in a room for four hours without so much as a magazine to relieve the tedium.
+#他不得不在房间里等4个小时，连一本排遣寂寞的杂志都没有。
+
+ablaze: 英[əˈbleɪz] 美[əˈbleɪz]
+$adj. 着火的，猛火燃烧；闪耀的，光亮的；激昂的，愤怒的
+%adv. 着火；闪耀
+    be ablaze with lights
+#灯火辉煌
+    a lady ablaze with jewels
+#珠光宝的贵妇人
+    a face ablaze with excitement
+#激动得满脸通红
+    The forest was set ablaze by lightning.
+#森林因雷击起火。
+
+frivolous: 英[ˈfrɪvələs] 美[ˈfrɪvələs]
+%adj. 愚蠢轻浮的，不严肃的；无聊的，不重要的
+    a frivolous young man
+#轻浮少年
+    a frivolous attitude toward one's studies
+#对学业草率敷衍的态度
+    a frivolous detail
+#无足轻重的细节
+    have a frivolous nature
+#生来就不是一本正经的人
+    He was warned not to give frivolous replies to the lawyer's questions.
+#他被警告不要轻浮地回答律师的问题。
+
+navigate: 英[ˈnævɪɡeɪt] 美[ˈnævɪɡeɪt]
+%v. 导航，引路；航行于，横渡；穿过，穿越；驾驶，操纵；浏览；（有效地）处理；(鱼、动物或昆虫)找到正确的行动方向；绕过
+    Radio signals are used for navigating both ships and aircraft.
+#无线电信号用于船舶和飞机的导航。
+
+indecipherable: 英[ˌɪndɪˈsaɪfrəb(ə)l] 美[ˌɪndɪˈsaɪfrəb(ə)l]
+%adj. 无法解释的；破译不出的；难辨认的
+    an indecipherable signature
+#无法辨认的签名
+    the indecipherable coded message
+#无法破译的密码信息
+    Her inner life seemed to us indecipherable.
+#在我们看来，她的精神生活似乎难以理解。
+
+irreverent: 英[ɪˈrevərənt] 美[ɪˈrevərənt]
+%adj. 不敬的，无礼的
+    an irreverent act
+#无礼的行为
+    She has an irreverent attitude towards marriage.
+#她对婚姻持无所谓的态度。
+
+comprehensible: 英[ˌkɒmprɪˈhensəb(ə)l] 美[ˌkɑːmprɪˈhensəb(ə)l]
+%adj. 可理解的
+    This news item is comprehensible only to a few insiders.
+#这条消息只有少数内部的人才能看得懂。
+
+vertebrate: 英[ˈvɜːtɪbrət] 美[ˈvɜːrtɪbrət]
+$n. 脊椎动物
+%adj. 脊椎动物（有关）的；有脊椎的
+    the first vertebrate inhabitants of the land
+#陆地上最早的脊椎动物
+    a vertebrate piece of composition
+#一部结构严谨的作品
+
+substantiate: 英[səbˈstænʃieɪt] 美[səbˈstænʃieɪt]
+%vt. 证实；使实体化
+    substantiate a rumor
+#证明一则传闻
+    substantiate a document
+#证明文件的真实性
+    substantiate a friendship
+#加强友谊
+    The hypothesis was substantiated by a later archeological excavation.
+#这一假设被后来的一次考古发掘证实了。
+
+intrepid: 英[ɪnˈtrepɪd] 美[ɪnˈtrepɪd]
+%adj. 无畏的；勇敢的；勇猛的
+    an intrepid fighter
+#无畏的战士
+    an intrepid attitude
+#坚忍不拔的态度
+    gain a reputation as a daring intrepid journalist
+#赢得勇敢无畏的记者的美名
+
+unparalleled: 英[ʌnˈpærəleld] 美[ʌnˈpærəleld]
+%adj. 无与伦比的，无双的；前所未有的，从未经历过的，独特的
+    They enjoyed success on a scale unparalleled by previous pop groups.
+#他们取得了以前任何流行乐队都无可比拟的巨大成功。
+
+solder: 英[ˈsəʊldə(r)] 美[ˈsɑːdər]
+$n. 焊料；接合物
+%v. 焊接；使联接在一起
+    solder a leaky pot
+#焊补一把漏壶
+    solder the broken wires together
+#把断电线接在一起
+    a friendship soldered by common interests
+#被共同利害关系联结在一起的友谊
+    The joint solders easily.
+#接头处容易焊合。
+
+nostalgic: 英[nɒˈstældʒɪk] 美[nɑːˈstældʒɪk]
+$adj. 思乡的；引人怀旧的
+%n. 怀旧的人
+    a nostalgic film
+#怀旧影片
+    nostalgic for the past
+#怀旧
+    I have a nostalgic longing for the town where I spent my childhood.
+#我对那座小城有一种怀旧的向往，在那里我度过了童年时代。
+
+rugged: 英[ˈrʌɡɪd] 美[ˈrʌɡɪd]
+%adj. （地面，地形）高低不平的，崎岖的；（男人的外貌）粗犷而英俊的；强健而坚毅的；（机器或其他制造品）坚固耐用的；艰难的，严峻的
+    a rugged track through the mountains
+#崎岖不平的山间小路
+    a rugged coast
+#多岩石的海岸
+    a rugged face
+#布满皱纹的脸
+    a rugged bark
+#粗糙的树皮
+    rugged manners
+#粗鲁的态度
+    a rugged life
+#艰难的生活
+    Jeeps are rugged vehicles, designed for rough conditions.
+#吉普车是坚固耐用的车辆，是为在恶劣环境下行驶而设计的。
+
+critique: 英[krɪˈtiːk] 美[krɪˈtiːk]
+$n. 评论文章，评论；批判
+%v. 对……发表评论，评判
+    critique a new novel
+#给一部新小说写书评
+    a film critique
+#影评
+    The newspaper often carries critiques of new books, films and plays.
+#这家报纸常常刊登对新书、新电影及新戏的评论文章。
+
+forestall: 英[fɔːˈstɔːl] 美[fɔːrˈstɔːl]
+%vt. 先发制人，预先阻止；垄断，屯积；领先；占先一步
+    We forestalled any attempt to steal the jewels by having them moved to a safer place.
+#我们赶在有人想要偷盗珠宝之前把珠宝转移到了安全的地方。
+
+tenuous: 英[ˈtenjuəs] 美[ˈtenjuəs]
+%adj. 纤细的；稀薄的；贫乏的
+    a tenuous thread
+#细线
+    a tenuous hope
+#一线希望
+    a tenuous gas
+#稀薄的气体
+    a tenuous distinction
+#细微的区别
+    preserve a tenuous contact with sb.
+#同某人保持若即若离的关系
+    He gave a rather tenuous account of his past life.
+#他对自己的过去说得相当含糊。
+
+delineate: 英[dɪˈlɪnieɪt] 美[dɪˈlɪnieɪt]
+%v. （详细地）描述，解释；标明，标示（边界）
+    delineate a plan
+#描述计划
+    The main characters are clearly delineated in the first chapter of the book.
+#第一章清楚地勾勒了本书主要人物的形象。
+
+preoccupation: 英[priˌɒkjuˈpeɪʃn] 美[priˌɑːkjuˈpeɪʃn]
+%n. 使人全神贯注的事物，使人入神的事物；全神贯注，入神
+    preoccupation with one's career
+#对于自己事业的专心致志
+    an excessive preoccupation with one's health
+#过分关注自己的健康
+    He's got so many preoccupations at the moment that he ignores his family completely.
+#他眼下要做的急事太多，以至于把家庭都抛在脑后了。
+
+cumbersome: 英[ˈkʌmbəsəm] 美[ˈkʌmbərsəm]
+%adj. 笨重的；繁琐的，复杂的；（话语或措词）冗长的
+    a cumbersome overcoat
+#笨重的大衣
+    a cumbersome style of writing 
+#冗长拖沓的写作风格
+    a cumbersome salary system
+#烦琐的工资制度
+    It's rather cumbersome having to carry all these cases around.
+#带着全部这些盒子走动是件相当麻烦的事。
+
+fictitious: 英[fɪkˈtɪʃəs] 美[fɪkˈtɪʃəs]
+%adj. 捏造的，骗人的；（为写书、戏剧或电影）虚构的，杜撰的
+    a fictitious character
+#虚构的人物
+    a fictitious hero
+#小说中的英雄
+    write under a fictitious name
+#用假名写
+    Her account of the incident was totally fictitious.
+#她对那个事件的叙述完全是虚构的。
+
+aloof: 英[əˈluːf] 美[əˈluːf]
+$adj. 冷漠的，疏远的；远离的，不受影响的
+%adv. 冷漠地，疏远地
+    stand aloof from all the others
+#孤零零地远离他人站着
+    an aloof house
+#孤屋
+    an aloof character
+#孤僻的人
+    Although many of his friends were politicians, he kept aloof from politics.
+#虽然他的许多朋友是从政者，但他却一直远离政治。
+
+braid: 英[breɪd] 美[breɪd]
+$n. （装饰家具和军装的）彩色穗带；<美>发辫，辫子
+$v. 把……编成绳子（或穗带）；把（头发）编成辫子；（用饰带等）镶边，镶缀；（河或小溪）迂回流动，交叉往来
+%n. （Braid）（美）布雷德（人名）
+    wear one's hair in a long braid
+#留着一条长辫子
+    a uniform trimmed with gold braid
+#镶着金边的制服
+    braid a rug
+#编织地毯
+    braid fact with fiction
+#把事实和虚构混在一起
+    The skirt had two rows of red braid round the hem.
+#这条裙子的下摆处有两条红色镶边。
+
+premise: 英[ˈpremɪs] 美[ˈpremɪs]
+$n. 前提，假设；（企业或机构使用的）房屋及土地（premises）；上述各项
+%v. 以……为基础，以……为前提；预先提出，事先提到；<古>声明，说明
+    on the premise of
+#在……前提下
+    on the premises
+#在房屋内，在场所内
+    The research project is based on the premise stated earlier.
+#这项研究计划基于早先提出的假设。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

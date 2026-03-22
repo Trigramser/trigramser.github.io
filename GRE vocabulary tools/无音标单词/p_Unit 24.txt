@@ -1,0 +1,451 @@
+<<<<<<< HEAD
+integrate:
+    Writers of history books often attempt to integrate the past with the present.
+#史书作者常试图把过去与现在结合在一起。
+
+horrific:
+    The film showed the most horrific scenes.
+#那部影片有极恐怖的场面。
+
+slash:
+    The government spending should be slashed.
+#政府开支应大幅度削减。
+
+tentative:
+    We've made tentative plans for a holiday but haven't decided anything certain yet.
+#我们制订了好几个度假的初步计划，但还没有做出任何决定。
+
+epic:
+    It's an epic film about the Roman Empire.
+#这是关于罗马帝国的一部史诗般的电影。
+
+verify:
+    These figures are surprisingly high and they'll have to be verified.
+#这些数字之高令人惊讶，必须加以核实。
+
+offspring:
+    Tom's sister came round on Saturday with her numerous offspring.
+#汤姆的姐姐星期六带着她的许多孩子来了。
+
+prevalent:
+    It is a point of view that is still prevalent.
+#这种观点依然盛行。
+
+demobilize:
+    At the end of the war, Jack was demobilized and went back to his job as a train driver.
+#战争结束后，杰克复员回去当火车司机了。
+
+definite:
+    There's been a definite improvement in your English since your arrival.
+#你来这里后英语确实有进步。
+
+disciplinary:
+    She was dismissed in accordance with the company's usual disciplinary procedures.
+#依照公司实行的一般纪律程序，她被解雇了。
+
+justify:
+    The fact that he annoyed you does not justify your treating him in that way.
+#他使你生气并不能说明你那样对待他是有理的。
+
+vigorous:
+    He is a vigorous man in his upper 30's.
+#他是个35岁左右的精力旺盛的男子。
+
+foul:
+    Anyone whose dog fouls the footpath will be fined.
+#任何人的狗弄脏了人行道都要被罚款。
+
+amateur:
+    The competition is open to both professionals and amateurs.
+#这场比赛专业人士和业余爱好者均可参加。
+
+autonomous:
+    School governors are legally autonomous.
+#学校主管们在法律上是自主的。
+
+conflict:
+    Your account of the cause of the war conflicts with what I have in the history book in front of me.
+#你对战争起因的说法与我面前这本历史书上写的不一致。
+
+considerable:
+    The fire caused considerable damage to the church.
+#火灾对教堂造成了重大损害。
+
+constitute:
+    People over sixty years old constitute 25 percent of the city's population.
+#60岁以上的老人占这座城市人口的25%。
+
+dogged:
+    His ambition and dogged determination ensured that he rose to the top of this profession.
+#他的雄心和顽强的意志确保了他成为这个行业的顶尖人物。
+
+reclaim:
+    I went to the station to reclaim my suitcase from the left luggage office.
+#我去车站的遗留行李处领回箱子。
+
+dialect:
+    speak in the Suzhou dialect
+#用苏州方言讲话
+
+convince:
+    It took me several hours to convince her of his guilt.
+#我花了几个小时才使她相信他有罪。
+
+harsh:
+    The punishment was rather harsh for such a minor offence.
+#这惩罚对于如此小的过错来说太严酷了。
+
+exaggerate:
+    I've told you a million times not to exaggerate.
+#我告诉过你无数遍切勿夸大其词。
+
+poignant:
+    The photograph awakens poignant memories of past years.
+#这张照片唤起了过去的辛酸回忆。
+
+reconcile:
+    They soon reconciled after the quarrel.
+#争吵后不久他们就言归于好了。
+
+climax:
+    The story came to a climax in the middle.
+#故事在中间部分达到了高潮。
+
+cognitive:
+    A cognitive psychologist studies how people think.
+#认知心理学家研究人的思维方式。
+
+devastate:
+    The fire swept through the theater, devastating the entire building.
+#大火横扫剧院，彻底摧毁了整座建筑。
+
+dramatic:
+    She tends to be very dramatic about everything
+#她做什么事都很夸张做作。
+
+perfume:
+    He held a rose close to his nose, enjoying its perfume.
+#他把一朵玫瑰紧贴鼻子，享受其芬芳。
+
+dynamic:
+    He's young and dynamic and will be great head of the department.
+#他年轻、精力充沛，会成为部门出色的领导人
+
+deficient:
+    I think the book has a very deficient index.
+#我认为这本书的索引残缺严重。
+
+plumb:
+    The book plumbed the complexities of human relationships.
+#这本书探讨的是人际关系的复杂性。
+
+arbitrary:
+    I don't know anything about any of the books, so my choice is quite arbitrary.
+#我对那些书均无了解，因此我的选择是十分随意的。
+
+infant:
+    The nurse came into the room carrying a newborn infant.
+#护士抱着一个刚出生的婴儿走进房间。
+
+aggravate:
+    The lack of rain aggravated the already serious lack of food.
+#降水匮乏加重了原来就严重的粮食短缺问题。
+
+smother:
+    He smothered his anger and continued to work.
+#他抑制住怒火，继续工作。
+
+chip:
+    The ground was covered with wood chips.
+#地上满是木屑。
+
+segregate:
+    Girls and boys were segregated into different dining rooms for meals.
+#吃饭时男孩和女孩被分进了不同的餐厅。
+
+universal:
+    The desire to look attractive is universal.
+#爱美之心人皆有之。
+
+potential:
+    You have the potential to reach the top of your profession.
+#你具有达到事业顶峰的潜力。
+
+cynical:
+    Some young artists today have a cynical outlook.
+#当今的一些年轻艺术家抱着愤世嫉俗的心态。
+
+circulation:
+    It is reported that there are many forged tickets in circulation.
+#据报道，有许多假入场券在流通。
+
+prudent:
+    It would be prudent to read the contract properly before signing it.
+#在签字前好好读一读合同是慎重的。
+
+soothe:
+    I've managed to soothe her a bit, but she's still pretty annoyed.
+#我想方设法使她平静了一点，可她还是很恼怒。
+
+irrational:
+    After the failure she became quite irrational.
+#在失败后变得相当设没有理性。
+
+bland:
+    I find the chicken a little bland.
+#我发现鸡肉有点清淡。
+
+span:
+    An old bridge spans the river just outside the town.
+#一座老桥横跨镇外的河流
+
+prospect:
+    The building has an extensive prospect of the sea.
+#从这幢大楼可以看到很开阔的海景。
+
+intent:
+    I could see that my wife was intent on buying the hat, whether I approved of it or not.
+#我看得出，不论我同意与否，我妻子都一定要买那顶帽子。
+
+hover:
+    From the mountain top he could see some eagles hovering in the valley.
+#从山顶上，他能够看见几只鹰在山谷中盘旋。
+
+defy:
+    It was the only time I dared to defy my mother.
+#那是我唯一次敢违抗妈妈。
+
+perception:
+    This theory can alter your perception of reality.
+#这一理论会改变你对现实的感知。
+
+credible:
+    The police concluded that her story was credible.
+#警方断定她的说法是可信的。
+
+=======
+integrate:
+    Writers of history books often attempt to integrate the past with the present.
+#史书作者常试图把过去与现在结合在一起。
+
+horrific:
+    The film showed the most horrific scenes.
+#那部影片有极恐怖的场面。
+
+slash:
+    The government spending should be slashed.
+#政府开支应大幅度削减。
+
+tentative:
+    We've made tentative plans for a holiday but haven't decided anything certain yet.
+#我们制订了好几个度假的初步计划，但还没有做出任何决定。
+
+epic:
+    It's an epic film about the Roman Empire.
+#这是关于罗马帝国的一部史诗般的电影。
+
+verify:
+    These figures are surprisingly high and they'll have to be verified.
+#这些数字之高令人惊讶，必须加以核实。
+
+offspring:
+    Tom's sister came round on Saturday with her numerous offspring.
+#汤姆的姐姐星期六带着她的许多孩子来了。
+
+prevalent:
+    It is a point of view that is still prevalent.
+#这种观点依然盛行。
+
+demobilize:
+    At the end of the war, Jack was demobilized and went back to his job as a train driver.
+#战争结束后，杰克复员回去当火车司机了。
+
+definite:
+    There's been a definite improvement in your English since your arrival.
+#你来这里后英语确实有进步。
+
+disciplinary:
+    She was dismissed in accordance with the company's usual disciplinary procedures.
+#依照公司实行的一般纪律程序，她被解雇了。
+
+justify:
+    The fact that he annoyed you does not justify your treating him in that way.
+#他使你生气并不能说明你那样对待他是有理的。
+
+vigorous:
+    He is a vigorous man in his upper 30's.
+#他是个35岁左右的精力旺盛的男子。
+
+foul:
+    Anyone whose dog fouls the footpath will be fined.
+#任何人的狗弄脏了人行道都要被罚款。
+
+amateur:
+    The competition is open to both professionals and amateurs.
+#这场比赛专业人士和业余爱好者均可参加。
+
+autonomous:
+    School governors are legally autonomous.
+#学校主管们在法律上是自主的。
+
+conflict:
+    Your account of the cause of the war conflicts with what I have in the history book in front of me.
+#你对战争起因的说法与我面前这本历史书上写的不一致。
+
+considerable:
+    The fire caused considerable damage to the church.
+#火灾对教堂造成了重大损害。
+
+constitute:
+    People over sixty years old constitute 25 percent of the city's population.
+#60岁以上的老人占这座城市人口的25%。
+
+dogged:
+    His ambition and dogged determination ensured that he rose to the top of this profession.
+#他的雄心和顽强的意志确保了他成为这个行业的顶尖人物。
+
+reclaim:
+    I went to the station to reclaim my suitcase from the left luggage office.
+#我去车站的遗留行李处领回箱子。
+
+dialect:
+    speak in the Suzhou dialect
+#用苏州方言讲话
+
+convince:
+    It took me several hours to convince her of his guilt.
+#我花了几个小时才使她相信他有罪。
+
+harsh:
+    The punishment was rather harsh for such a minor offence.
+#这惩罚对于如此小的过错来说太严酷了。
+
+exaggerate:
+    I've told you a million times not to exaggerate.
+#我告诉过你无数遍切勿夸大其词。
+
+poignant:
+    The photograph awakens poignant memories of past years.
+#这张照片唤起了过去的辛酸回忆。
+
+reconcile:
+    They soon reconciled after the quarrel.
+#争吵后不久他们就言归于好了。
+
+climax:
+    The story came to a climax in the middle.
+#故事在中间部分达到了高潮。
+
+cognitive:
+    A cognitive psychologist studies how people think.
+#认知心理学家研究人的思维方式。
+
+devastate:
+    The fire swept through the theater, devastating the entire building.
+#大火横扫剧院，彻底摧毁了整座建筑。
+
+dramatic:
+    She tends to be very dramatic about everything
+#她做什么事都很夸张做作。
+
+perfume:
+    He held a rose close to his nose, enjoying its perfume.
+#他把一朵玫瑰紧贴鼻子，享受其芬芳。
+
+dynamic:
+    He's young and dynamic and will be great head of the department.
+#他年轻、精力充沛，会成为部门出色的领导人
+
+deficient:
+    I think the book has a very deficient index.
+#我认为这本书的索引残缺严重。
+
+plumb:
+    The book plumbed the complexities of human relationships.
+#这本书探讨的是人际关系的复杂性。
+
+arbitrary:
+    I don't know anything about any of the books, so my choice is quite arbitrary.
+#我对那些书均无了解，因此我的选择是十分随意的。
+
+infant:
+    The nurse came into the room carrying a newborn infant.
+#护士抱着一个刚出生的婴儿走进房间。
+
+aggravate:
+    The lack of rain aggravated the already serious lack of food.
+#降水匮乏加重了原来就严重的粮食短缺问题。
+
+smother:
+    He smothered his anger and continued to work.
+#他抑制住怒火，继续工作。
+
+chip:
+    The ground was covered with wood chips.
+#地上满是木屑。
+
+segregate:
+    Girls and boys were segregated into different dining rooms for meals.
+#吃饭时男孩和女孩被分进了不同的餐厅。
+
+universal:
+    The desire to look attractive is universal.
+#爱美之心人皆有之。
+
+potential:
+    You have the potential to reach the top of your profession.
+#你具有达到事业顶峰的潜力。
+
+cynical:
+    Some young artists today have a cynical outlook.
+#当今的一些年轻艺术家抱着愤世嫉俗的心态。
+
+circulation:
+    It is reported that there are many forged tickets in circulation.
+#据报道，有许多假入场券在流通。
+
+prudent:
+    It would be prudent to read the contract properly before signing it.
+#在签字前好好读一读合同是慎重的。
+
+soothe:
+    I've managed to soothe her a bit, but she's still pretty annoyed.
+#我想方设法使她平静了一点，可她还是很恼怒。
+
+irrational:
+    After the failure she became quite irrational.
+#在失败后变得相当设没有理性。
+
+bland:
+    I find the chicken a little bland.
+#我发现鸡肉有点清淡。
+
+span:
+    An old bridge spans the river just outside the town.
+#一座老桥横跨镇外的河流
+
+prospect:
+    The building has an extensive prospect of the sea.
+#从这幢大楼可以看到很开阔的海景。
+
+intent:
+    I could see that my wife was intent on buying the hat, whether I approved of it or not.
+#我看得出，不论我同意与否，我妻子都一定要买那顶帽子。
+
+hover:
+    From the mountain top he could see some eagles hovering in the valley.
+#从山顶上，他能够看见几只鹰在山谷中盘旋。
+
+defy:
+    It was the only time I dared to defy my mother.
+#那是我唯一次敢违抗妈妈。
+
+perception:
+    This theory can alter your perception of reality.
+#这一理论会改变你对现实的感知。
+
+credible:
+    The police concluded that her story was credible.
+#警方断定她的说法是可信的。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

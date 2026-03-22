@@ -1,0 +1,595 @@
+<<<<<<< HEAD
+prank:
+    play pranks on/upon sb.
+#捉弄某人
+    villages pranked with villas
+#别墅点缀着村庄
+    Mary pranked herself up in her best.
+#玛丽把自己打扮得漂漂亮亮的。
+
+hearsay:
+    know from mere hearsay
+#风闻而已
+    spread hearsay about
+#到处散布流言蜚语
+
+redoubtable:
+    He is the most redoubtable admiral in the navy.
+#他是海军中最令人敬畏的上将。
+
+ennui:
+    The endless lecture produced unbearable ennui.
+#无休止的演讲使人感到难以忍受的无聊。
+
+jarring:
+    a jarring note
+#不和谐的调子
+
+foppish:
+    foppish manners
+#矫揉造作的举止
+    a foppish man
+#花花公子
+
+yowl:
+    The neighbor's dog is always yowling.
+#邻居的狗时常号叫不止。
+
+precocious:
+    a precocious child with a mind of his own
+#有独立思考能力的早熟儿童
+    a precocious heat wave
+#来得过早的热浪
+
+denude:
+    denude sb. of a right
+#剥夺某人的权例
+    be denuded of hope
+#失去希望
+    Most trees are denuded of their leaves in winter.
+#大多数树在冬天落叶。
+
+flatulent:
+    a flatulent style
+#浮夸的文体
+    He felt somewhat flatulent after eating a heavy meal.
+#吃了一顿大餐后，他觉得有点胀气。
+
+aver:
+    The man averred that he had nothing to do with the theft.
+#那人断言他与盗窃无关。
+
+convoke:
+    The mayor convoked a committee to discuss the beautification of the city.
+#市长召集了一个委员会讨论城市美化问题。
+
+lethargy:
+    economic lethargy
+#经济不振
+    shake off one's lethargy
+#振作起精神
+
+jingoism:
+    Such patriotism can turn into jingoism and intolerance very quickly.
+#这种爱国主义很快就会变成沙文主义和偏狭。
+
+grouch:
+    You are not going to spoil the party with one of your grouches.
+#你不该发牌气破坏聚会。
+
+verdure:
+    the verdure of childhood
+#朝气蓬勃的童年
+
+goad:
+    goad a cow with a stick
+#用棒赶牛
+    goad the economy
+#刺激经济
+    His ambition goaded him on.
+#他的雄心壮志激励他前行。
+
+retiring:
+    retiring time
+#就寝时间
+    have a retiring nature
+#生性孤僻
+
+vestment:
+    Spring spread the verdant vestment over the land.
+#春天把青翠的衣裳铺在大地上。
+
+sideshow:
+    At the circus, the clowns put on a very clever sideshow.
+#在马戏表演中，小丑们上演了一出非常巧妙的杂耍。
+
+waggish:
+    a waggish disposition
+#爱开玩笑打趣的性格
+    a waggish remark
+#俏皮话
+
+lumen:
+    the lumen of a blood vessel
+#血管腔
+
+duplicitous:
+    a duplicitous character
+#双重性格
+
+cadence:
+    The teacher spoke with a pleasant cadence.
+#老师抑扬顿挫地讲着话，悦耳动听。
+
+interstice:
+    the interstices of a wall
+#墙上的裂缝
+    in the interstices between upheavals
+#动乱的间隙
+
+virility:
+    political virility
+#政治活力
+    masculine virility
+#男子汉气概
+
+ail:
+    She has been ailing for a week.
+#她生病已有一周。
+
+chandelier:
+    an expensive chandelier
+#昂贵的枝形吊灯
+
+credence:
+    give/attach credence to gossip
+#听信流言蜚语
+    Such speculation gained added credence.
+#这种猜测被进一步证实了。
+
+buffoon:
+    He got tired of playing the buffoon in front of the audience.
+#他厌倦了在观众面前扮演小丑。
+
+pulverize:
+    pulverize an opponent
+#彻底打败对手
+    Many houses were pulverized by a tornado.
+#龙卷风摧毁了许多房屋。
+
+embitter:
+    embitter the relations between the two countries
+#使两国关系恶化
+    She was embittered by her many disappointments.
+#她由于多次失望而十分痛苦。
+
+cloudburst:
+    a cloudburst of locusts
+#大量的皇虫
+
+imputation:
+    the imputation of faults to sb.
+#把过错归咎于某人
+    No imputation has ever been made against his good name.
+#从来没有人诋毁过他的好名声。
+
+snappish:
+    a snappish dog
+#爱咬人的狗
+    a snappish reply
+#没好气的回答
+
+omnipresent:
+    the omnipresent spirit of competition in business
+#商业上普遍存在的竞争精神
+
+hortative:
+    hortative words
+#勉励的话
+
+propulsion:
+    jet propulsion
+#喷气推进
+
+mutinous:
+    mutinous conduct
+#忤逆行为
+    mutinous passions
+#失控的感情
+    The mutinous soldiers were thrown into the jail.
+#叛乱的士兵被投入监狱。
+
+vilify:
+    vilify one's character
+#污蔑某人的人格
+    Nothing vilifies and degrades more than pride.
+#骄傲者最易自损自毁。
+
+chicanery:
+    The investigation has revealed chicanery of the group.
+#调查揭露了该组织的欺诈。
+
+palatial:
+    a palatial hotel
+#富丽堂皇的宾馆
+
+disheveled:
+    a disheveled traveler
+#衣冠不整的旅人
+    a disheveled play
+#结构松散的戏
+
+inebriate:
+    be inebriated by success
+#被成功冲昏头脑
+
+wreak:
+    wreak one's anger
+#泄愤
+    wreak vengeance/revenge on/upon sb.
+#对某人施行报复
+    The heavy bombardment wreaked terrible damage.
+#猛烈的轰炸造成了可怕的破坏。
+
+puny:
+    My puny efforts are not worth much.
+#我微不足道的努力没有多大价值。
+
+askew:
+    an askew lamppost
+#歪斜的灯柱
+    There were no shutters at the windows, and some of the doors hung askew.
+#窗户上没有百叶窗，有几扇门也是歪歪斜斜的。
+
+peak:
+    Ever since then he had been peaked, red-eyed and miserable.
+#自那以后，他便显得惟悴，双眼充血，一副愁眉苦脸的样子。
+
+collogue:
+    a collogue between senators
+#参议员之间的密谈
+
+rifle:
+    The thief rifled his pockets of all their contents.
+#这个贼把他口袋里的东西都偷走了。
+
+erect:
+    an erect bearing
+#挺直的体态
+    hair erect from fright
+#由于惊吓而竖直的毛发
+    erect a monument
+#竖立座纪念碑
+    erect an institution
+#建立一个机构
+    He erected himself to full height.
+#他把身子挺直。
+
+vapid:
+    vapid beer
+#走了气的啤酒
+    an uninspired and vapid address
+#枯燥而令人厌烦的讲话
+
+profligate:
+    She is well-known for her profligate spending habits.
+#她以挥霍无度的消费习惯而闻名。
+
+belligerence:
+    I can't stand his belligerence.
+#我无法忍受他好斗的个性。
+
+azure:
+    The once azure skies have been ruined by atmospheric pollution.
+#曾经蔚蓝的天空已经被大气污染破坏了。
+
+laxative:
+    This medicine has laxative effect.
+#这种药有通便作用。
+
+expeditious:
+    an expeditious answer to an enquiry
+#对询问的快速回答
+    expeditious service
+#快速服务
+    The local government was expeditious in replying to my letter.
+#当地政府迅速回复了我的信。
+
+=======
+prank:
+    play pranks on/upon sb.
+#捉弄某人
+    villages pranked with villas
+#别墅点缀着村庄
+    Mary pranked herself up in her best.
+#玛丽把自己打扮得漂漂亮亮的。
+
+hearsay:
+    know from mere hearsay
+#风闻而已
+    spread hearsay about
+#到处散布流言蜚语
+
+redoubtable:
+    He is the most redoubtable admiral in the navy.
+#他是海军中最令人敬畏的上将。
+
+ennui:
+    The endless lecture produced unbearable ennui.
+#无休止的演讲使人感到难以忍受的无聊。
+
+jarring:
+    a jarring note
+#不和谐的调子
+
+foppish:
+    foppish manners
+#矫揉造作的举止
+    a foppish man
+#花花公子
+
+yowl:
+    The neighbor's dog is always yowling.
+#邻居的狗时常号叫不止。
+
+precocious:
+    a precocious child with a mind of his own
+#有独立思考能力的早熟儿童
+    a precocious heat wave
+#来得过早的热浪
+
+denude:
+    denude sb. of a right
+#剥夺某人的权例
+    be denuded of hope
+#失去希望
+    Most trees are denuded of their leaves in winter.
+#大多数树在冬天落叶。
+
+flatulent:
+    a flatulent style
+#浮夸的文体
+    He felt somewhat flatulent after eating a heavy meal.
+#吃了一顿大餐后，他觉得有点胀气。
+
+aver:
+    The man averred that he had nothing to do with the theft.
+#那人断言他与盗窃无关。
+
+convoke:
+    The mayor convoked a committee to discuss the beautification of the city.
+#市长召集了一个委员会讨论城市美化问题。
+
+lethargy:
+    economic lethargy
+#经济不振
+    shake off one's lethargy
+#振作起精神
+
+jingoism:
+    Such patriotism can turn into jingoism and intolerance very quickly.
+#这种爱国主义很快就会变成沙文主义和偏狭。
+
+grouch:
+    You are not going to spoil the party with one of your grouches.
+#你不该发牌气破坏聚会。
+
+verdure:
+    the verdure of childhood
+#朝气蓬勃的童年
+
+goad:
+    goad a cow with a stick
+#用棒赶牛
+    goad the economy
+#刺激经济
+    His ambition goaded him on.
+#他的雄心壮志激励他前行。
+
+retiring:
+    retiring time
+#就寝时间
+    have a retiring nature
+#生性孤僻
+
+vestment:
+    Spring spread the verdant vestment over the land.
+#春天把青翠的衣裳铺在大地上。
+
+sideshow:
+    At the circus, the clowns put on a very clever sideshow.
+#在马戏表演中，小丑们上演了一出非常巧妙的杂耍。
+
+waggish:
+    a waggish disposition
+#爱开玩笑打趣的性格
+    a waggish remark
+#俏皮话
+
+lumen:
+    the lumen of a blood vessel
+#血管腔
+
+duplicitous:
+    a duplicitous character
+#双重性格
+
+cadence:
+    The teacher spoke with a pleasant cadence.
+#老师抑扬顿挫地讲着话，悦耳动听。
+
+interstice:
+    the interstices of a wall
+#墙上的裂缝
+    in the interstices between upheavals
+#动乱的间隙
+
+virility:
+    political virility
+#政治活力
+    masculine virility
+#男子汉气概
+
+ail:
+    She has been ailing for a week.
+#她生病已有一周。
+
+chandelier:
+    an expensive chandelier
+#昂贵的枝形吊灯
+
+credence:
+    give/attach credence to gossip
+#听信流言蜚语
+    Such speculation gained added credence.
+#这种猜测被进一步证实了。
+
+buffoon:
+    He got tired of playing the buffoon in front of the audience.
+#他厌倦了在观众面前扮演小丑。
+
+pulverize:
+    pulverize an opponent
+#彻底打败对手
+    Many houses were pulverized by a tornado.
+#龙卷风摧毁了许多房屋。
+
+embitter:
+    embitter the relations between the two countries
+#使两国关系恶化
+    She was embittered by her many disappointments.
+#她由于多次失望而十分痛苦。
+
+cloudburst:
+    a cloudburst of locusts
+#大量的皇虫
+
+imputation:
+    the imputation of faults to sb.
+#把过错归咎于某人
+    No imputation has ever been made against his good name.
+#从来没有人诋毁过他的好名声。
+
+snappish:
+    a snappish dog
+#爱咬人的狗
+    a snappish reply
+#没好气的回答
+
+omnipresent:
+    the omnipresent spirit of competition in business
+#商业上普遍存在的竞争精神
+
+hortative:
+    hortative words
+#勉励的话
+
+propulsion:
+    jet propulsion
+#喷气推进
+
+mutinous:
+    mutinous conduct
+#忤逆行为
+    mutinous passions
+#失控的感情
+    The mutinous soldiers were thrown into the jail.
+#叛乱的士兵被投入监狱。
+
+vilify:
+    vilify one's character
+#污蔑某人的人格
+    Nothing vilifies and degrades more than pride.
+#骄傲者最易自损自毁。
+
+chicanery:
+    The investigation has revealed chicanery of the group.
+#调查揭露了该组织的欺诈。
+
+palatial:
+    a palatial hotel
+#富丽堂皇的宾馆
+
+disheveled:
+    a disheveled traveler
+#衣冠不整的旅人
+    a disheveled play
+#结构松散的戏
+
+inebriate:
+    be inebriated by success
+#被成功冲昏头脑
+
+wreak:
+    wreak one's anger
+#泄愤
+    wreak vengeance/revenge on/upon sb.
+#对某人施行报复
+    The heavy bombardment wreaked terrible damage.
+#猛烈的轰炸造成了可怕的破坏。
+
+puny:
+    My puny efforts are not worth much.
+#我微不足道的努力没有多大价值。
+
+askew:
+    an askew lamppost
+#歪斜的灯柱
+    There were no shutters at the windows, and some of the doors hung askew.
+#窗户上没有百叶窗，有几扇门也是歪歪斜斜的。
+
+peak:
+    Ever since then he had been peaked, red-eyed and miserable.
+#自那以后，他便显得惟悴，双眼充血，一副愁眉苦脸的样子。
+
+collogue:
+    a collogue between senators
+#参议员之间的密谈
+
+rifle:
+    The thief rifled his pockets of all their contents.
+#这个贼把他口袋里的东西都偷走了。
+
+erect:
+    an erect bearing
+#挺直的体态
+    hair erect from fright
+#由于惊吓而竖直的毛发
+    erect a monument
+#竖立座纪念碑
+    erect an institution
+#建立一个机构
+    He erected himself to full height.
+#他把身子挺直。
+
+vapid:
+    vapid beer
+#走了气的啤酒
+    an uninspired and vapid address
+#枯燥而令人厌烦的讲话
+
+profligate:
+    She is well-known for her profligate spending habits.
+#她以挥霍无度的消费习惯而闻名。
+
+belligerence:
+    I can't stand his belligerence.
+#我无法忍受他好斗的个性。
+
+azure:
+    The once azure skies have been ruined by atmospheric pollution.
+#曾经蔚蓝的天空已经被大气污染破坏了。
+
+laxative:
+    This medicine has laxative effect.
+#这种药有通便作用。
+
+expeditious:
+    an expeditious answer to an enquiry
+#对询问的快速回答
+    expeditious service
+#快速服务
+    The local government was expeditious in replying to my letter.
+#当地政府迅速回复了我的信。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

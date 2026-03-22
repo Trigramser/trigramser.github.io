@@ -1,0 +1,667 @@
+<<<<<<< HEAD
+huffy:
+    You have to be careful with what you say to Anne, she's very huffy.
+#你和安妮说话得小心点，她很容易发火。
+
+snipe:
+    snipe at enemy soldiers
+#伏击敌兵
+    snipe at sb. by way of innuendoes
+#含沙射影地攻击某人
+    He was shot and fatally injured by a snipe on the outskirts of the city.
+#他在城郊受到狙击，身受重伤。
+
+idolize:
+    the child idolized by his parents
+#深受父母爱的孩子
+    The film fans idolize her and will hear no criticism of her.
+#影迷们崇拜她，听不得一点对她的批评。
+
+cub:
+    a tiger cub
+#虎崽
+    a cub bear
+#小熊
+    a cub reporter
+#初出茅庐的新闻记者
+
+destitute:
+    a man destitute of experience
+#毫无经验的人
+    a house destitute of laughter
+#没有欢乐的家庭
+    the destitute
+#赤贫者
+    The floods have left thousands of people in the area destitute.
+#洪水已经使该地区成千上万的人一贫如洗。
+
+gesticulate:
+    gesticulate a greeting
+#用手势致意
+    As he became more excited, he gesticulated more and more wildly.
+#他越激动，就撼狂乱地打着手势。
+
+cyclone:
+    A tropical cyclone brought heavy rain to the country last week.
+#上周一股热带气旋使该国受到暴雨袭击。
+
+savvy:
+    have a plenty of savvy
+#很有头脑
+    political savvy
+#政治识见
+    street savvy
+#一般常识
+    a computer-savvy young man
+#谙熟计算机的年轻人
+    He's been around and savvy to a lot of things.
+#见过世面，懂得许多事情。
+
+annihilate:
+    annihilate the intruders
+#歼灭人侵者
+    annihilate one's ambition
+#使某人的勃勃雄心沦为泡影
+    annihilate the opponent
+#彻底击败对手
+
+stricture:
+    strictures against bribe-taking
+#对受贿行为的抨击
+    relax strictures on emigration
+#放宽对移居国外的限制
+    moral strictures
+#道德上的约束
+    The government remained unmoved by the stricture on its handling of the crisis.
+#对其在处理危机上的遗责，该政府无动于衷。
+
+vintage:
+    a book of pre-war vintage
+#战前出版的书
+    a vintage wine
+#佳酿酒
+    a vintage Hollywood film
+#经典的好菜均电影
+    a vintage Rolls Royce
+#一辆古色古香的劳斯菜斯汽车
+    a vintage BMW
+#一辆老式的宝马车
+    The film dates from the vintage years of the British film industry.
+#这部电影是在英国电影史的鼎盛时期拍摄的。
+
+dangle:
+    dangle in the breeze
+#在风中悬荡
+    dangle after a girl
+#追求一个女孩
+    a loose wire dangling from the wall
+#一根悬荡在墙上的松弛的电线
+    He dangled a puppet in front of the children.
+#他拿着一个木偶在孩子们面前晃动。
+
+quibble:
+    quibble about/over some unimportant things with sb.
+#为一些小事与某人争吵
+    She had no desire to quibble when decisive action was called for.
+#在需要当机立断的时候她不想含糊其词。
+
+rapport:
+    have an excellent rapport with sb.
+#与某人的关系非常融洽
+    be in rapport with sb.
+#与某人融洽相处
+    feel great rapport for birds
+#对鸟儿极有感情
+    After working with Jane for many years, we have developed a close rapport.
+#同简一起工作多年后，我们已经建立了密切的关系。
+
+dictum:
+    the dictum on the case
+#此案的权威定论
+    He has always followed the famous dictum, "Live, and let live."
+#他总是遵循那句著名的格言——自己活，让人活。
+
+remunerate:
+    remunerate sb. for his toil
+#报偿某人的辛劳
+    remunerate sb. for his loss
+#赔偿某人的损失
+    He is poorly remunerated for all the hard work he does.
+#他做的工作很辛苦，但报酬很低。
+
+highbrow:
+    highbrow music
+#高雅音乐
+    highbrow programs
+#高雅的节目
+    The TV company specializes in making arts shows for highbrows.
+#这家电视公司专门为趣味高雅的人制作艺术节目。
+
+hype:
+    hype attendance at the games
+#耍手段吸引人来观看比赛
+    hype people into buying sth.
+#糊弄人们买某物
+    a media hype
+#媒体炒作
+    Other books are being hyped by publishers, but this one really deserves to be read.
+#其他的书都在被出版商大肆炒作，但这一本确实值得一读。
+
+outlandish:
+    an outlandish costume
+#奇装异服
+    outlandish manners
+#怪模怪样
+    an outlandish place
+#穷乡僻壤
+    He expected designers to experiment with even more outlandish ideas.
+#他期望设计师们探索一些更加稀奇古怪的思路。
+
+perk:
+    perk up its ears
+#竖起耳朵
+    perk oneself up daintily
+#打扮得十分秀丽
+    She perked up as soon as I mentioned that Charles was coming to dinner.
+#当我一提到查尔斯要来吃晚饭，她立刻来了精神。
+
+haggard:
+    She was looking a bit haggard as if she hadn't slept for days.
+#她看上去有点惟悴，好像几天没睡觉了。
+
+conscript:
+    He was conscripted into the army at the age of 18.
+#他18岁应征人伍。
+
+swine:
+    Her ex-husband sounds an absolute swine.
+#她的前夫听上去是个彻头彻尾的大混蛋。
+
+razor:
+    razor one's face clean of beard
+#用刀把脸上的胡子刮干净
+    razor a beard
+#剃光胡须
+    According to the advertisement, this new razor will give you an extra smooth shave.
+#根据广告，这种新的刮胡刀能使你的面容格外光洁。
+
+munition:
+    make munitions
+#制造军火
+    munition an army
+#为部队提供军火
+    a munition factory
+#军工厂
+    munitions for a political campaign
+#政治竞选所需的资金
+    The army used precision-guided munitions to blow up enemy targets.
+#军队用精确准的武器炸掉敌方目标。
+
+votary:
+    a votary of peace
+#献身和平事业的人
+    a votary of jazz
+#爵士乐迷
+
+eerie:
+    have an eerie feeling
+#有种奇怪的感觉
+    a dark and eerie old house
+#黑暗瘆人的老屋
+    for some eerie reason
+#出于某种莫名其妙的原因
+    In bed at night she heard the eerie noise of the wind howling through the trees.
+#晚上躺在床上，她听见风呼啸着穿过林间的怪异而可怕的声音。
+
+ointment:
+    The doctor gave him some ointment to stop the cut from being infected.
+#医生给了他一些油膏以防止伤口感染。
+
+trivia:
+    worry about such trivia
+#为这等琐事烦恼
+    He was not interested in the trivia of everyday life.
+#他对日常生活的点滴小事不感兴趣。
+
+verbatim:
+    a verbatim quotation of the article
+#对文字一字不差的引用
+    He had an amazing memory and could recall verbatim quite complete conversations.
+#他有着惊人的记忆力，能一字不差地回忆起非常复杂的谈话内容。
+
+uncouth:
+    a large, uncouth man
+#魁梧而笨拙的粗汉
+    uncouth manners
+#粗野的态度
+    rough and uncouth conditions
+#简陋艰苦的环境
+    an uncouth forest
+#人迹罕至的森林
+    All those people were aggressive and uncouth.
+#所有那些人都是好斗而粗野的。
+
+interloper:
+    The security did not prevent an interloper getting onto the stage at the opening ceremony and making a speech.
+#保安没有阻止一名闯人者登上开幕式的演讲台并发表言论。
+
+infantry:
+    an infantry regiment
+#步兵团
+    an infantry soldier
+#步兵战士
+    The infantry is/are being sent into the battle zone.
+#步兵部队正被派往作战区域。
+
+grimace:
+    a grimace caused by pain
+#痛得扭曲的脸
+    a rude child making grimaces
+#做鬼脸的野孩子
+    The clown grimaced at the audience.
+#小丑向观众做鬼脸。
+
+outset:
+    from the outset
+#从一开始
+    At the outset of the play there is a lot of confused violence.
+#这出戏的开始，有许多混乱的暴力场面。
+
+headlong:
+    in headlong retreat
+#仓皇撤退
+    plunge headlong into water
+#一头扎进水中
+    run headlong across the street
+#横冲直撞穿过大街
+    a headlong decision
+#轻率的决定
+    a headlong dive
+#俯冲跳水
+    In the headlong rush to buy houses, many people got in debt.
+#在一窝蜂的购房热潮中，许多人负了债。
+
+muffle:
+    muffled voice
+#隐约的声音
+    the muffled roar of the traffic
+#隐约的车辆声
+    muffled footsteps
+#压低的脚步声
+    muffle one's human-rights comment
+#对人权问题发表含糊其词的评论
+    muffle one's feelings
+#抑制自己的感情
+    the muffle of distant thunder
+#远处沉闷的雷声
+    His mother made him muffle himself up before he could go out to play in the snow.
+#他的母亲把他裹得严严实实之后才让他到外面雪地里去玩。
+
+foyer:
+    I'll see you downstairs in the foyer in half an hour.
+#半小时后我们在楼下门厅见。
+
+singe:
+    singe the chicken
+#燎去鸡毛
+    the smell of singeing hair
+#头发烧焦的味道
+    leave a slight singe on the dress
+#在连衣裙上留下轻微的焦痕
+    My hair singed when I leaned over a burning candle.
+#当我靠向燃烧的蜡烛时将头发烧焦了。
+
+luscious:
+    luscious cream cakes
+#甜润可口的奶油蛋糕
+    the luscious beauty of tone
+#声调的甜美悦耳
+    a luscious view of a garden
+#悦目的花园景色
+    It was filmed against the backdrop of luscious landscape of woods, streams and meadows.
+#电影是以令人心旷神怡的森林、河流和草地风光为背景拍摄的。
+
+swipe:
+    swipe sb. around the head
+#猛打某人的头部
+    give sb. a swipe round the ear
+#很狠地给某人一记耳光
+    swipe the sweaty forehead
+#擦着汗淋淋的前额
+    She opened the window and swiped at the fly with a rolled-up newspaper to make it go out.
+#她打开窗户用卷起的报纸挥打苍蝇想把它赶出去。
+
+=======
+huffy:
+    You have to be careful with what you say to Anne, she's very huffy.
+#你和安妮说话得小心点，她很容易发火。
+
+snipe:
+    snipe at enemy soldiers
+#伏击敌兵
+    snipe at sb. by way of innuendoes
+#含沙射影地攻击某人
+    He was shot and fatally injured by a snipe on the outskirts of the city.
+#他在城郊受到狙击，身受重伤。
+
+idolize:
+    the child idolized by his parents
+#深受父母爱的孩子
+    The film fans idolize her and will hear no criticism of her.
+#影迷们崇拜她，听不得一点对她的批评。
+
+cub:
+    a tiger cub
+#虎崽
+    a cub bear
+#小熊
+    a cub reporter
+#初出茅庐的新闻记者
+
+destitute:
+    a man destitute of experience
+#毫无经验的人
+    a house destitute of laughter
+#没有欢乐的家庭
+    the destitute
+#赤贫者
+    The floods have left thousands of people in the area destitute.
+#洪水已经使该地区成千上万的人一贫如洗。
+
+gesticulate:
+    gesticulate a greeting
+#用手势致意
+    As he became more excited, he gesticulated more and more wildly.
+#他越激动，就撼狂乱地打着手势。
+
+cyclone:
+    A tropical cyclone brought heavy rain to the country last week.
+#上周一股热带气旋使该国受到暴雨袭击。
+
+savvy:
+    have a plenty of savvy
+#很有头脑
+    political savvy
+#政治识见
+    street savvy
+#一般常识
+    a computer-savvy young man
+#谙熟计算机的年轻人
+    He's been around and savvy to a lot of things.
+#见过世面，懂得许多事情。
+
+annihilate:
+    annihilate the intruders
+#歼灭人侵者
+    annihilate one's ambition
+#使某人的勃勃雄心沦为泡影
+    annihilate the opponent
+#彻底击败对手
+
+stricture:
+    strictures against bribe-taking
+#对受贿行为的抨击
+    relax strictures on emigration
+#放宽对移居国外的限制
+    moral strictures
+#道德上的约束
+    The government remained unmoved by the stricture on its handling of the crisis.
+#对其在处理危机上的遗责，该政府无动于衷。
+
+vintage:
+    a book of pre-war vintage
+#战前出版的书
+    a vintage wine
+#佳酿酒
+    a vintage Hollywood film
+#经典的好菜均电影
+    a vintage Rolls Royce
+#一辆古色古香的劳斯菜斯汽车
+    a vintage BMW
+#一辆老式的宝马车
+    The film dates from the vintage years of the British film industry.
+#这部电影是在英国电影史的鼎盛时期拍摄的。
+
+dangle:
+    dangle in the breeze
+#在风中悬荡
+    dangle after a girl
+#追求一个女孩
+    a loose wire dangling from the wall
+#一根悬荡在墙上的松弛的电线
+    He dangled a puppet in front of the children.
+#他拿着一个木偶在孩子们面前晃动。
+
+quibble:
+    quibble about/over some unimportant things with sb.
+#为一些小事与某人争吵
+    She had no desire to quibble when decisive action was called for.
+#在需要当机立断的时候她不想含糊其词。
+
+rapport:
+    have an excellent rapport with sb.
+#与某人的关系非常融洽
+    be in rapport with sb.
+#与某人融洽相处
+    feel great rapport for birds
+#对鸟儿极有感情
+    After working with Jane for many years, we have developed a close rapport.
+#同简一起工作多年后，我们已经建立了密切的关系。
+
+dictum:
+    the dictum on the case
+#此案的权威定论
+    He has always followed the famous dictum, "Live, and let live."
+#他总是遵循那句著名的格言——自己活，让人活。
+
+remunerate:
+    remunerate sb. for his toil
+#报偿某人的辛劳
+    remunerate sb. for his loss
+#赔偿某人的损失
+    He is poorly remunerated for all the hard work he does.
+#他做的工作很辛苦，但报酬很低。
+
+highbrow:
+    highbrow music
+#高雅音乐
+    highbrow programs
+#高雅的节目
+    The TV company specializes in making arts shows for highbrows.
+#这家电视公司专门为趣味高雅的人制作艺术节目。
+
+hype:
+    hype attendance at the games
+#耍手段吸引人来观看比赛
+    hype people into buying sth.
+#糊弄人们买某物
+    a media hype
+#媒体炒作
+    Other books are being hyped by publishers, but this one really deserves to be read.
+#其他的书都在被出版商大肆炒作，但这一本确实值得一读。
+
+outlandish:
+    an outlandish costume
+#奇装异服
+    outlandish manners
+#怪模怪样
+    an outlandish place
+#穷乡僻壤
+    He expected designers to experiment with even more outlandish ideas.
+#他期望设计师们探索一些更加稀奇古怪的思路。
+
+perk:
+    perk up its ears
+#竖起耳朵
+    perk oneself up daintily
+#打扮得十分秀丽
+    She perked up as soon as I mentioned that Charles was coming to dinner.
+#当我一提到查尔斯要来吃晚饭，她立刻来了精神。
+
+haggard:
+    She was looking a bit haggard as if she hadn't slept for days.
+#她看上去有点惟悴，好像几天没睡觉了。
+
+conscript:
+    He was conscripted into the army at the age of 18.
+#他18岁应征人伍。
+
+swine:
+    Her ex-husband sounds an absolute swine.
+#她的前夫听上去是个彻头彻尾的大混蛋。
+
+razor:
+    razor one's face clean of beard
+#用刀把脸上的胡子刮干净
+    razor a beard
+#剃光胡须
+    According to the advertisement, this new razor will give you an extra smooth shave.
+#根据广告，这种新的刮胡刀能使你的面容格外光洁。
+
+munition:
+    make munitions
+#制造军火
+    munition an army
+#为部队提供军火
+    a munition factory
+#军工厂
+    munitions for a political campaign
+#政治竞选所需的资金
+    The army used precision-guided munitions to blow up enemy targets.
+#军队用精确准的武器炸掉敌方目标。
+
+votary:
+    a votary of peace
+#献身和平事业的人
+    a votary of jazz
+#爵士乐迷
+
+eerie:
+    have an eerie feeling
+#有种奇怪的感觉
+    a dark and eerie old house
+#黑暗瘆人的老屋
+    for some eerie reason
+#出于某种莫名其妙的原因
+    In bed at night she heard the eerie noise of the wind howling through the trees.
+#晚上躺在床上，她听见风呼啸着穿过林间的怪异而可怕的声音。
+
+ointment:
+    The doctor gave him some ointment to stop the cut from being infected.
+#医生给了他一些油膏以防止伤口感染。
+
+trivia:
+    worry about such trivia
+#为这等琐事烦恼
+    He was not interested in the trivia of everyday life.
+#他对日常生活的点滴小事不感兴趣。
+
+verbatim:
+    a verbatim quotation of the article
+#对文字一字不差的引用
+    He had an amazing memory and could recall verbatim quite complete conversations.
+#他有着惊人的记忆力，能一字不差地回忆起非常复杂的谈话内容。
+
+uncouth:
+    a large, uncouth man
+#魁梧而笨拙的粗汉
+    uncouth manners
+#粗野的态度
+    rough and uncouth conditions
+#简陋艰苦的环境
+    an uncouth forest
+#人迹罕至的森林
+    All those people were aggressive and uncouth.
+#所有那些人都是好斗而粗野的。
+
+interloper:
+    The security did not prevent an interloper getting onto the stage at the opening ceremony and making a speech.
+#保安没有阻止一名闯人者登上开幕式的演讲台并发表言论。
+
+infantry:
+    an infantry regiment
+#步兵团
+    an infantry soldier
+#步兵战士
+    The infantry is/are being sent into the battle zone.
+#步兵部队正被派往作战区域。
+
+grimace:
+    a grimace caused by pain
+#痛得扭曲的脸
+    a rude child making grimaces
+#做鬼脸的野孩子
+    The clown grimaced at the audience.
+#小丑向观众做鬼脸。
+
+outset:
+    from the outset
+#从一开始
+    At the outset of the play there is a lot of confused violence.
+#这出戏的开始，有许多混乱的暴力场面。
+
+headlong:
+    in headlong retreat
+#仓皇撤退
+    plunge headlong into water
+#一头扎进水中
+    run headlong across the street
+#横冲直撞穿过大街
+    a headlong decision
+#轻率的决定
+    a headlong dive
+#俯冲跳水
+    In the headlong rush to buy houses, many people got in debt.
+#在一窝蜂的购房热潮中，许多人负了债。
+
+muffle:
+    muffled voice
+#隐约的声音
+    the muffled roar of the traffic
+#隐约的车辆声
+    muffled footsteps
+#压低的脚步声
+    muffle one's human-rights comment
+#对人权问题发表含糊其词的评论
+    muffle one's feelings
+#抑制自己的感情
+    the muffle of distant thunder
+#远处沉闷的雷声
+    His mother made him muffle himself up before he could go out to play in the snow.
+#他的母亲把他裹得严严实实之后才让他到外面雪地里去玩。
+
+foyer:
+    I'll see you downstairs in the foyer in half an hour.
+#半小时后我们在楼下门厅见。
+
+singe:
+    singe the chicken
+#燎去鸡毛
+    the smell of singeing hair
+#头发烧焦的味道
+    leave a slight singe on the dress
+#在连衣裙上留下轻微的焦痕
+    My hair singed when I leaned over a burning candle.
+#当我靠向燃烧的蜡烛时将头发烧焦了。
+
+luscious:
+    luscious cream cakes
+#甜润可口的奶油蛋糕
+    the luscious beauty of tone
+#声调的甜美悦耳
+    a luscious view of a garden
+#悦目的花园景色
+    It was filmed against the backdrop of luscious landscape of woods, streams and meadows.
+#电影是以令人心旷神怡的森林、河流和草地风光为背景拍摄的。
+
+swipe:
+    swipe sb. around the head
+#猛打某人的头部
+    give sb. a swipe round the ear
+#很狠地给某人一记耳光
+    swipe the sweaty forehead
+#擦着汗淋淋的前额
+    She opened the window and swiped at the fly with a rolled-up newspaper to make it go out.
+#她打开窗户用卷起的报纸挥打苍蝇想把它赶出去。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

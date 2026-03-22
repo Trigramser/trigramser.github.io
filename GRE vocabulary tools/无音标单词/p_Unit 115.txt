@@ -1,0 +1,603 @@
+<<<<<<< HEAD
+windfall:
+    the grass littered with windfalls
+#落了一地果子的草地
+    a financial windfall
+#一笔横财
+    I tend to leave the windfalls for the birds to pick up.
+#我习惯于将被风吹落的果子留给鸟儿啄食。
+
+suggestive:
+    suggestive of a past era
+#使人联想起过去的时代
+    The amplified sounds are suggestive of dolphins chatting under the sea.
+#放大后的声音令人联想起海豚在海中的私语。
+
+nag:
+    nag about high grocery prices
+#抱怨食品价格昂贵
+    nag sb. to death
+#唠叨不停使人烦得要命
+    The way she keeps on nagging about the smallest things really gets on my nerves.
+#她总为鸡毛蒜皮的事喋喋不休，真叫我心烦。
+
+coddle:
+    coddled eggs
+#半生不熟的鸡蛋
+    She was feeling ill and just wanted to be looked after and coddled.
+#她觉得身体不舒服，正需要悉心照料。
+
+undulate:
+    a field of wheat undulating in the breeze
+#在微风中起伏的麦田
+    the undulate margin of a leaf
+#叶的波状边缘
+    As we travel south, the countryside begins to undulate as the rolling hills sweep down to the riverbanks.
+#我们一路南行，乡间开始变得起伏不平，绵延的山峦一直延伸到河岸。
+
+cello:
+    play the cello
+#演奏大提琴
+
+plutocrat:
+    The plutocrats who run this company are concerned only with making money for themselves.
+#掌管这家公司的富豪们只想着自己赚钱。
+
+patriarchy:
+    Their society always was and remains to this day a patriarchy.
+#他们的社会过去一直是而且到今天仍然是父权制社会。
+
+patina:
+    the patina of the wealth
+#有钱人的神态
+    the patina of civility
+#礼貌的外衣
+    a patina of frost
+#一层薄霜
+    His tomb was covered with a yellow patina of lichen.
+#他的坟墓覆盖着一层薄薄的黄色地衣。
+
+reversion:
+    When he retired back hometown, the reversion of some customs he was familiar to came on him.
+#他退休回到家乡后，又恢复了一些他所熟悉的习惯。
+
+animation:
+    the animation of the eyes
+#炯炯有神的目光
+    give animation to
+#给……增添生气
+    During a fascinating lecture, the professor spoke with animation about his latest discoveries.
+#在一次引人入胜的讲课上，这位教授充满激情地介绍了他的最新发现。
+
+jealousy:
+    a rush of jealousy
+#一肚子酸劲儿
+    out of jealousy
+#出于妒忌
+    Her talent in the kitchen has inspired jealousy in her colleagues.
+#她做菜的天分让她的同事们羡慕不已。
+
+obstruction:
+    be charged with obstruction of the police
+#被控妨碍警察执行公务
+    an obstruction in the road
+#道路上的障碍
+    advance with the maximum of obstruction against the wind
+#顶着大风艰难地前进
+    Ignorance is an obstruction to progress.
+#无知阻碍进步。
+
+solidify:
+    solidify the foundation
+#使基础牢固
+    solidify support for the new program
+#使大家一致支持新计划
+
+leakage:
+    oil leakage
+#石油泄漏
+    keep one's secret safe from further risk of leakage
+#让自己的秘密免遭进一步泄露的危险
+    The president was shocked that any leakage of the report should have taken place.
+#总统对发生了报告泄露事件感到震惊。
+
+oblique:
+    make several oblique references to
+#几次间接提到
+    an oblique angle
+#斜角
+    make oblique remarks about sb.'s honesty
+#对某人的诚实做转抹角的评论
+    In through the window came the last few oblique rays of evening sunshine.
+#最后几缕夕阳的余晖透过窗子斜射进来。
+
+deceit:
+    practise deceit against/on customers
+#欺诈消费者
+
+orbital:
+    orbital flight
+#轨道飞行
+    orbital arch
+#眼眶上缘
+
+exodus:
+    a mass exodus from the stifling city heat to the beaches
+#离开闷热的城市去海滨的大批人群
+    an exodus from a political party
+#退出一个政党的大批人
+    Every fine weekend there is a general exodus of cars from the city to the country.
+#每个晴朗的周末，都有大批汽车离开城市去郊外。
+
+aristocratic:
+    an aristocratic government
+#贵族统治的政府
+    an aristocratic demeanor
+#贵族式的态度
+    He envied the aristocratic lifestyle.
+#他美慕贵族的生活方式。
+
+repute:
+    be held in good repute
+#享有好名声
+    a writer of little repute
+#名不见经传的作家
+    a pianist of international repute
+#享誉世界的钢琴家
+    in bad/evil repute
+#声名狼藉
+    be ill/well reputed in one's hometown
+#在家乡声誉不佳/很好
+    He is reputed (as) the best doctor in town.
+#他被公认是城里最好的医生。
+
+astound:
+    He used to astound his friends with feats of physical endurance.
+#他惊人的耐力过去常常让朋友们大为吃惊。
+
+industrious:
+    an industrious student
+#勤勉的学生
+    an industrious housewife
+#勤劳的主妇
+    You need to be patient, self-reliant, industrious and strong.
+#你需要耐心、自立、勤奋，并有强健的体魄。
+
+reconnaissance:
+    a reconnaissance satellite
+#侦察卫星
+    fly a reconnaissance mission
+#执行飞行侦查任务
+    Two soldiers were sent on reconnaissance to determine the number of the enemy in the area.
+#两名士兵被派去侦查，以查明该地区的敌军人数。
+
+envision:
+    envision a bright future
+#展望光明的前途
+    envisioned peace
+#想象中的和平
+
+plump:
+    a baby with plump arms and legs
+#小手小脚胖乎乎的婴儿
+    a sense of plump well-being
+#不愁吃穿的满足感
+    These tomatoes are plump and juicy.
+#这些西红柿个大汁多。
+
+plump:
+    plump out of the room
+#蓦地冲出房间
+    fall plump into the well
+#扑通一声掉进井里
+    answer with a plump “No"
+#干干脆脆回答个“不”字
+    He plumped down on the bed and fell asleep.
+#他扑通倒在床上，沉沉睡去。
+
+spear:
+    spear salmon
+#用鱼叉叉鲑鱼
+    The headlight is a white sword spearing into a misty night.
+#汽车的前灯像白色的利剑刺破雾夜。
+
+ration:
+    issue ration coupons
+#发放配给票证
+    provide full rations for the soldiers
+#向士兵提供充分的给养
+    ration out the work
+#把工作分给众人承担
+    on rations
+#靠定量生活，吃配给粮
+    put sb. on rations
+#对某人实现配给
+    The meat ration was down to one pound per person per week.
+#肉类配给量减少到每周每人一磅。
+
+remain:
+    remain in power/force
+#继续执政/生效
+    the remains of the meal
+#剩饭剩菜
+    the remains of an aircraft
+#飞机残骸
+    pay one's last respects to the remains of sb.
+#向某人的遗体告别
+    fossil remains of prehistoric animals
+#史前动物的化石
+    The pollution of water in this area still remains to be solved.
+#这个地区的水污染尚待解决。
+
+pollen:
+    Bees carry pollen from flower to flower.
+#蜜蜂给花朵传授花粉。
+
+sensory:
+    a sensory organ
+#感觉器官
+    a sensory nerve
+#感觉神经
+    People have become more interested in sensory science.
+#人们对感官科学越来越感兴趣了。
+
+epitome:
+    Her parents regard flying fist-class as the epitome of extravagance, even though they can afford it.
+#她的父母把坐头等舱看作奢侈的典型，尽管他们担负得起。
+
+tributary:
+    a tributary stream
+#支流
+    a tributary state
+#属国
+    I planned a series of walks along a lesser tributary of the Yangtze River.
+#我计划沿着长江的一条较小的支流进行一系列散步。
+
+frugal:
+    Judging by their frugal lifestyle, you would never guess they were very rich.
+#从他们的节俭的生活方式来看，你绝不会猜想到他们非常富有。
+
+proofread:
+    She proofreads medicine books for a small publishing company.
+#她为一家小型出版公司校对医书。
+
+artisan:
+    Artisans used to be the dominant producers of goods.
+#工匠曾经是物品生产的主力军。
+
+vital:
+    be vital to
+#对……极为重要
+    a dictionary of vital words
+#一本必备单词词典
+    a vital error
+#致命的错误
+    The heart and the brain are vital human organs.
+#心脏和大脑是人的重要器官。
+
+viable:
+    a viable alternative
+#可行的选择
+    a viable proposition
+#可行的主张
+    a viable animal
+#可存活的动物
+    a viable candidate
+#有希望当选的候选人
+    viable economy
+#独立经济
+    Many are doubtful that this technology will ever be commercially viable.
+#许多人怀疑这项技术在商业上是否行得通。
+
+incapacitate:
+    The player's injury incapacitated him for playing football.
+#这名球员的伤使他不能再踢足球了。
+
+concentric:
+    a concentric circle
+#同心圆
+    be concentric with
+#与……同中心
+
+=======
+windfall:
+    the grass littered with windfalls
+#落了一地果子的草地
+    a financial windfall
+#一笔横财
+    I tend to leave the windfalls for the birds to pick up.
+#我习惯于将被风吹落的果子留给鸟儿啄食。
+
+suggestive:
+    suggestive of a past era
+#使人联想起过去的时代
+    The amplified sounds are suggestive of dolphins chatting under the sea.
+#放大后的声音令人联想起海豚在海中的私语。
+
+nag:
+    nag about high grocery prices
+#抱怨食品价格昂贵
+    nag sb. to death
+#唠叨不停使人烦得要命
+    The way she keeps on nagging about the smallest things really gets on my nerves.
+#她总为鸡毛蒜皮的事喋喋不休，真叫我心烦。
+
+coddle:
+    coddled eggs
+#半生不熟的鸡蛋
+    She was feeling ill and just wanted to be looked after and coddled.
+#她觉得身体不舒服，正需要悉心照料。
+
+undulate:
+    a field of wheat undulating in the breeze
+#在微风中起伏的麦田
+    the undulate margin of a leaf
+#叶的波状边缘
+    As we travel south, the countryside begins to undulate as the rolling hills sweep down to the riverbanks.
+#我们一路南行，乡间开始变得起伏不平，绵延的山峦一直延伸到河岸。
+
+cello:
+    play the cello
+#演奏大提琴
+
+plutocrat:
+    The plutocrats who run this company are concerned only with making money for themselves.
+#掌管这家公司的富豪们只想着自己赚钱。
+
+patriarchy:
+    Their society always was and remains to this day a patriarchy.
+#他们的社会过去一直是而且到今天仍然是父权制社会。
+
+patina:
+    the patina of the wealth
+#有钱人的神态
+    the patina of civility
+#礼貌的外衣
+    a patina of frost
+#一层薄霜
+    His tomb was covered with a yellow patina of lichen.
+#他的坟墓覆盖着一层薄薄的黄色地衣。
+
+reversion:
+    When he retired back hometown, the reversion of some customs he was familiar to came on him.
+#他退休回到家乡后，又恢复了一些他所熟悉的习惯。
+
+animation:
+    the animation of the eyes
+#炯炯有神的目光
+    give animation to
+#给……增添生气
+    During a fascinating lecture, the professor spoke with animation about his latest discoveries.
+#在一次引人入胜的讲课上，这位教授充满激情地介绍了他的最新发现。
+
+jealousy:
+    a rush of jealousy
+#一肚子酸劲儿
+    out of jealousy
+#出于妒忌
+    Her talent in the kitchen has inspired jealousy in her colleagues.
+#她做菜的天分让她的同事们羡慕不已。
+
+obstruction:
+    be charged with obstruction of the police
+#被控妨碍警察执行公务
+    an obstruction in the road
+#道路上的障碍
+    advance with the maximum of obstruction against the wind
+#顶着大风艰难地前进
+    Ignorance is an obstruction to progress.
+#无知阻碍进步。
+
+solidify:
+    solidify the foundation
+#使基础牢固
+    solidify support for the new program
+#使大家一致支持新计划
+
+leakage:
+    oil leakage
+#石油泄漏
+    keep one's secret safe from further risk of leakage
+#让自己的秘密免遭进一步泄露的危险
+    The president was shocked that any leakage of the report should have taken place.
+#总统对发生了报告泄露事件感到震惊。
+
+oblique:
+    make several oblique references to
+#几次间接提到
+    an oblique angle
+#斜角
+    make oblique remarks about sb.'s honesty
+#对某人的诚实做转抹角的评论
+    In through the window came the last few oblique rays of evening sunshine.
+#最后几缕夕阳的余晖透过窗子斜射进来。
+
+deceit:
+    practise deceit against/on customers
+#欺诈消费者
+
+orbital:
+    orbital flight
+#轨道飞行
+    orbital arch
+#眼眶上缘
+
+exodus:
+    a mass exodus from the stifling city heat to the beaches
+#离开闷热的城市去海滨的大批人群
+    an exodus from a political party
+#退出一个政党的大批人
+    Every fine weekend there is a general exodus of cars from the city to the country.
+#每个晴朗的周末，都有大批汽车离开城市去郊外。
+
+aristocratic:
+    an aristocratic government
+#贵族统治的政府
+    an aristocratic demeanor
+#贵族式的态度
+    He envied the aristocratic lifestyle.
+#他美慕贵族的生活方式。
+
+repute:
+    be held in good repute
+#享有好名声
+    a writer of little repute
+#名不见经传的作家
+    a pianist of international repute
+#享誉世界的钢琴家
+    in bad/evil repute
+#声名狼藉
+    be ill/well reputed in one's hometown
+#在家乡声誉不佳/很好
+    He is reputed (as) the best doctor in town.
+#他被公认是城里最好的医生。
+
+astound:
+    He used to astound his friends with feats of physical endurance.
+#他惊人的耐力过去常常让朋友们大为吃惊。
+
+industrious:
+    an industrious student
+#勤勉的学生
+    an industrious housewife
+#勤劳的主妇
+    You need to be patient, self-reliant, industrious and strong.
+#你需要耐心、自立、勤奋，并有强健的体魄。
+
+reconnaissance:
+    a reconnaissance satellite
+#侦察卫星
+    fly a reconnaissance mission
+#执行飞行侦查任务
+    Two soldiers were sent on reconnaissance to determine the number of the enemy in the area.
+#两名士兵被派去侦查，以查明该地区的敌军人数。
+
+envision:
+    envision a bright future
+#展望光明的前途
+    envisioned peace
+#想象中的和平
+
+plump:
+    a baby with plump arms and legs
+#小手小脚胖乎乎的婴儿
+    a sense of plump well-being
+#不愁吃穿的满足感
+    These tomatoes are plump and juicy.
+#这些西红柿个大汁多。
+
+plump:
+    plump out of the room
+#蓦地冲出房间
+    fall plump into the well
+#扑通一声掉进井里
+    answer with a plump “No"
+#干干脆脆回答个“不”字
+    He plumped down on the bed and fell asleep.
+#他扑通倒在床上，沉沉睡去。
+
+spear:
+    spear salmon
+#用鱼叉叉鲑鱼
+    The headlight is a white sword spearing into a misty night.
+#汽车的前灯像白色的利剑刺破雾夜。
+
+ration:
+    issue ration coupons
+#发放配给票证
+    provide full rations for the soldiers
+#向士兵提供充分的给养
+    ration out the work
+#把工作分给众人承担
+    on rations
+#靠定量生活，吃配给粮
+    put sb. on rations
+#对某人实现配给
+    The meat ration was down to one pound per person per week.
+#肉类配给量减少到每周每人一磅。
+
+remain:
+    remain in power/force
+#继续执政/生效
+    the remains of the meal
+#剩饭剩菜
+    the remains of an aircraft
+#飞机残骸
+    pay one's last respects to the remains of sb.
+#向某人的遗体告别
+    fossil remains of prehistoric animals
+#史前动物的化石
+    The pollution of water in this area still remains to be solved.
+#这个地区的水污染尚待解决。
+
+pollen:
+    Bees carry pollen from flower to flower.
+#蜜蜂给花朵传授花粉。
+
+sensory:
+    a sensory organ
+#感觉器官
+    a sensory nerve
+#感觉神经
+    People have become more interested in sensory science.
+#人们对感官科学越来越感兴趣了。
+
+epitome:
+    Her parents regard flying fist-class as the epitome of extravagance, even though they can afford it.
+#她的父母把坐头等舱看作奢侈的典型，尽管他们担负得起。
+
+tributary:
+    a tributary stream
+#支流
+    a tributary state
+#属国
+    I planned a series of walks along a lesser tributary of the Yangtze River.
+#我计划沿着长江的一条较小的支流进行一系列散步。
+
+frugal:
+    Judging by their frugal lifestyle, you would never guess they were very rich.
+#从他们的节俭的生活方式来看，你绝不会猜想到他们非常富有。
+
+proofread:
+    She proofreads medicine books for a small publishing company.
+#她为一家小型出版公司校对医书。
+
+artisan:
+    Artisans used to be the dominant producers of goods.
+#工匠曾经是物品生产的主力军。
+
+vital:
+    be vital to
+#对……极为重要
+    a dictionary of vital words
+#一本必备单词词典
+    a vital error
+#致命的错误
+    The heart and the brain are vital human organs.
+#心脏和大脑是人的重要器官。
+
+viable:
+    a viable alternative
+#可行的选择
+    a viable proposition
+#可行的主张
+    a viable animal
+#可存活的动物
+    a viable candidate
+#有希望当选的候选人
+    viable economy
+#独立经济
+    Many are doubtful that this technology will ever be commercially viable.
+#许多人怀疑这项技术在商业上是否行得通。
+
+incapacitate:
+    The player's injury incapacitated him for playing football.
+#这名球员的伤使他不能再踢足球了。
+
+concentric:
+    a concentric circle
+#同心圆
+    be concentric with
+#与……同中心
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

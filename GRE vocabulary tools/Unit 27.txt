@@ -1,0 +1,633 @@
+<<<<<<< HEAD
+partition: 英[pɑːˈtɪʃ(ə)n] 美[pɑːrˈtɪʃ(ə)n]
+$n. 隔墙，隔板；（国家的）分裂，分治；（化学）分离层；（计算机）存储分区；（数学）分割
+%v. 分割，分裂（国家）；（用隔板、隔扇等）隔开，分隔
+    She partitioned the large room into a lounge and a dining-room.
+#她把那个大房间分隔成起居室和餐厅。
+
+slant: 英[slɑːnt] 美[slænt]
+$v. （使）倾斜，（使）歪斜；有偏向性地陈述，带偏向性地报道
+$n. 倾斜，歪斜；（有倾向性的）观点，态度
+%adj. 斜的
+    That picture needs to be slanted slightly to the left.
+#那幅画需要稍微向左倾斜。
+
+coward: 英[ˈkaʊəd] 美[ˈkaʊərd]
+$n. 胆小鬼，懦夫
+%adj. <文>胆小的，怯懦的；（动物形象）夹着尾巴的
+    She accused her husband of being a coward.
+#她指责自己的丈夫是个胆小鬼。
+
+stray: 英[streɪ] 美[streɪ]
+$v. 走失，迷路；走神，离题；（眼睛，手）悠闲 （或漫不经心）地移动；入歧途，犯错误；有外遇，在别处拈花惹草；<文>游荡，徘徊
+$adj. （动物）走失的，流浪的；离散的，零落的；（物理量）杂散的
+%n. 走失（流浪）的动物；离群者，走散者；天电干扰
+    The pigs strayed into his vegetable garden and made a mess there.
+#那些猪闯进他的菜园子，弄得那里一团糟。
+
+prosperous: 英[ˈprɒspərəs] 美[ˈprɑːspərəs]
+%adj. 繁荣的，富足的
+    We are experiencing a prosperous period of economic growth.
+#我们正经历着一段经济繁荣发展的时期。
+
+proclaim: 英[prəˈkleɪm] 美[prəˈkleɪm]
+%v. （正式）宣告，（公开）声明；强调，声称；（标志或通知）宣传，告知；清楚表明，显示
+    All the countries have proclaimed their loyalty to the alliance.
+#所有的国家都宣布了对联盟的忠诚。
+
+inhale: 英[ɪnˈheɪl] 美[ɪnˈheɪl]
+%vt. 吸入，吸气；<美，非正式>狼吞虎咽，大吃大嚼
+    She flung open the window and inhaled deeply.
+#她打开窗户，深深吸了口气。
+
+buck: 英[bʌk] 美[bʌk]
+$n. <非正式>（美）元；雄性动物；<非正式>小伙子；<古>纨绔子弟，花花公子；责任，过失
+$v. 反对，抵制；鼓舞，使振作；弓背跃起；猛烈颠簸
+%adj. 龅牙的
+    buck against bad luck
+#与厄运做斗争
+
+intoxicate: 英[ɪnˈtɒksɪkeɪt] 美[ɪnˈtɑːksɪkeɪt]
+$v. （酒或毒品）（使）麻醉；（使）中毒；（使）兴奋
+%adj. 喝醉的；陶醉的
+    He was fined for driving while intoxicated.
+#他因醉酒开车被罚款。
+
+tyranny: 英[ˈtɪrəni] 美[ˈtɪrəni]
+%n. 暴虐，专横；暴君统治，暴君统治的国家；严酷的事物；（对人们生活和行为方式的）控制，左右； （不中意或令人不快的）必需品；（尤指古希腊）僭主统治，僭王统治
+    It was a war against tyranny.
+#那是一场反对苛政的战争。
+
+recipe: 英[ˈresəpi] 美[ˈresəpi]
+%n. 烹饪法，食谱；诀窍，秘诀；原因；<古>处方
+    She is always looking for new recipes for different jobs.
+#她总在寻求做种种事情的新门道。
+
+ethic: 英[ˈeθɪk] 美[ˈeθɪk]
+$n. 行为准则，道德规范，伦理标准；信仰
+%adj. （与）道德规范（有关）的，（与）伦理（有关）的（=ethical）
+    The modern ethic of some people seems to be irrational.
+#现代一些人的伦理观似乎是荒谬的。
+
+unsettle: 英[ʌnˈset(ə)l] 美[ʌnˈset(ə)l]
+$vt. 使动摇；使不安定；使心神不宁
+%vi. 不安；动荡不定
+    There are fears that the airline's decision to cut air fares will unsettle the market.
+#人们担心航空公司减价的决定会使市场波动不定。
+
+congregate : 英[ˈkɒŋɡrɪɡeɪt] 美[ˈkɑːŋɡrɪɡeɪt]
+$v. 集合，聚集
+%adj. 集合在一起的
+    The crowds congregated around the entrance to the theater, hoping to catch a glimpse of the stars of the show.
+#人群聚集在戏院出口处，希望一睹出演这个节目的明星们。
+
+ignite: 英[ɪɡˈnaɪt] 美[ɪɡˈnaɪt]
+%v. 点燃，燃烧；引发，激起
+    The fuel spontaneously ignites because of the high temperature and pressure.
+#燃料因高温和高压而自燃。
+
+menace: 英[ˈmenəs] 美[ˈmenəs]
+$n. 威胁，危险的人或物；烦人的人（或事物），引起麻烦的人（或事物）；危险气氛，威胁；<英，法律>（以）威胁（或恐吓）的手段（索要钱财）
+%v. <正式>威胁，威吓
+    Nuclear weapons are a menace to world peace and the whole mankind.
+#核武器是对世界和平和全人类的威胁。
+
+recruit: 英[rɪˈkruːt] 美[rɪˈkruːt]
+$v. 招聘，招收（新成员）；招募（新兵）；说服，动员；（通过招募）组成，组建；<旧> 恢复（数量、力气等）
+%n. 新兵；新成员
+    The recruits are being drilled on a school playground.
+#新兵正在一所学校的操场上接受训练。
+
+dictator: 英[dɪkˈteɪtə(r)] 美[ˈdɪkteɪtər]
+%n. 独裁者；专横的人
+    The country is ruled by a ruthless dictator.
+#那个国家被一个残酷的独裁者统治着。
+
+pretext: 英[ˈpriːtekst] 美[ˈpriːtekst]
+%n. 借口，托词
+    The border dispute was used as a pretext for military intervention.
+#边界纠纷是军事入侵的借口。
+
+stunt: 英[stʌnt] 美[stʌnt]
+$n. （尤指电影中的）特技表演；噱头，作秀；逞英雄，做愚蠢（有点危险）的事
+%v. 阻碍……的成长（发育），妨碍发展；表演绝技
+    In the film he had to drive a car into the sea, and do other hair-raising stunts.
+#他在这部电影中得把车子开进海里，并表演其他一些惊人的特技。
+
+dominant: 英[ˈdɒmɪnənt] 美[ˈdɑːmɪnənt]
+$adj. 占支配地位的，占优势的；（基因）显性的
+%n. 显性（性状），显性基因
+    The castle was built in a dominant position on a hill.
+#城堡筑在小山上，可以俯视四周。
+
+paralyse(paralyze): 英[ˈpærəlaɪz] 美[ˈpærəlaɪz]
+%v. 使瘫痪，使麻痹；（尤指由于恐慌或害怕）使丧失思维（或活动）能力；使不能正常运作，使陷入瘫痪
+    He was paralyzed when he was being robbed by a gang.
+#一伙人抢劫的时候他吓得动弹不得。
+
+sway: 英[sweɪ] 美[sweɪ]
+$v. 摇摆，摇晃，摆动；影响（某人），使改变看法；<文> 统治，管理；（使）摇摆，摇动
+%n. 统治，势力，支配，控制，影响；摇摆，摆动；统治，影响
+    She swayed her head from side to side with worry.
+#她忧心忡忡地不时摇着头。
+
+disguise: 英[dɪsˈɡaɪz] 美[dɪsˈɡaɪz]
+$v. 假扮，伪装；掩饰，隐瞒
+%n. 伪装物，伪装
+    The detective disguised himself as a tea trader.
+#那名侦探把自己装扮成茶叶商。
+
+prop: 英[prɒp] 美[prɑːp]
+$n. 支柱，支撑物；（戏剧或电影中的）道具；<旧，非正式> 道具管理员（props）；支持者，后盾；<非正式> 螺旋桨，推进器；（英式橄榄球运动的）前排边锋；（本身没有具体意义但能使句法完整的）结构词；（马快跑时的）骤停
+%v. 支撑，倚靠；<澳>（尤指马等挺直前腿）骤停；用……撑住（某物）
+    She propped her bike against the fence.
+#她把自行车靠在篱笆上。
+
+dispose: 英[dɪˈspəʊz] 美[dɪˈspoʊz]
+%v. 处理，放置，安排；使易于，使倾向于；丢掉；
+    Deep in debt, the family was forced to dispose of most of its possessions.
+#这家人债台高筑，被迫变卖掉了大部分家产。
+
+patriot: 英[ˈpætriət] 美[ˈpeɪtriət]
+%n. 爱国者
+    Many patriots were killed by the invaders.
+#许多爱国人士被人侵者杀害了。
+
+cluster: 英[ˈklʌstə(r)] 美[ˈklʌstər]
+$n. 组，簇；星团；一连串同类事件；（聚集在同一地方的）一群人；（计算机磁盘上的）丛集，群集；辅音群，辅音连缀；基
+%v. 群聚，聚集；（数据点）具近似数值
+    I found a cluster of mushrooms at the bottom of the field.
+#我在田野的尽头发现了一丛蘑菇。
+
+unanimous: 英[juˈnænɪməs] 美[juˈnænɪməs]
+%adj. （投票、决定、协议等）全体同意的，无异议的；（所有人）一致同意的，意见一致的
+    He was elected by a unanimous vote.
+#他全票当选。
+
+browse: 英[braʊz] 美[braʊz]
+$v. 随意翻阅；（动物）吃草；（在商店里）随便看看；浏览信息
+%n. 随意的看，浏览；（动物吃的）植物
+    While he was out I had a good browse through the books on his shelf.
+#他出去时，我把他书架上的书好好浏览了一遍。
+
+naive: 英[naɪˈiːv] 美[naɪˈiːv]
+%adj. 天真的，幼稚的；（艺术风格）朴素的，原始的；缺乏阅历的，轻信他人的
+    She is a naive little girl, and she can't cheat you.
+#她是个天真的小女孩，不会骗你的。
+
+massacre: 英[ˈmæsəkə(r)] 美[ˈmæsəkər]
+$n. 屠杀，残杀；<非正式>（运动或比赛中的）惨败
+%v. （大规模地）屠杀，杀戮；<非正式>（比赛或竞争等中）使惨败，彻底击败；<非正式>笨拙地演奏（演唱）
+    The victims of the massacre were mainly the very young and the very old.
+#大屠杀的受害者主要是幼童和老人。
+
+artificial: 英[ˌɑːtɪˈfɪʃ(ə)l] 美[ˌɑːrtɪˈfɪʃ(ə)l]
+%adj. 人造的，人工的；人为的；不真挚的，矫揉造作的
+    The drink contains no artificial colors.
+#这饮料不含任何人造色素。
+
+impetus: 英[ˈɪmpɪtəs] 美[ˈɪmpɪtəs]
+%n. 动力，促进；动量，冲力
+    The government's new policy gave fresh impetus to commerce and trade.
+#政府的新政策给商业和贸易提供了新的动力。
+
+concession: 英[kənˈseʃ(ə)n] 美[kənˈseʃ(ə)n]
+%n. 让步，妥协；特许权；<英>优惠价，减价；商铺；小摊卖的东西；认输
+    The firm's promise to increase our pay was a concession to our demands.
+#公司答应提高我们的工资是对我们所提要求的让步。
+
+compile: 英[kəmˈpaɪl] 美[kəmˈpaɪl]
+%v. 汇编，编纂；编译（电脑程式）；收集，搜集（信息，资料）；累积（得分）
+    It took him 15 years to compile the English-Chinese dictionary.
+#编纂这部英汉词典用了他l5年时间。
+
+presentation: 英[ˌprez(ə)nˈteɪʃ(ə)n] 美[ˌpriːz(ə)nˈteɪʃ(ə)n]
+%n. （颁奖等）仪式，典礼；授予，颁发；（在仪式上接受的）奖项，赠予物；展示会，介绍会，发布会；陈述，报告，说明；（事物的）呈现方式；（证件等的）出示；（证物的）提交，提供；（戏剧的）演出；（胎儿的）先露位置，产位；（尤指在帝王前）正式引见，引……朝见；<史>（圣职等的）推荐
+    The scholarship is an annual presentation to college students with good behavior and excellent academic achievements.
+#奖学金每年一度颁发给品学兼优的大学生。
+
+patch: 英[pætʃ] 美[pætʃ]
+$n. 补丁，补片；（保护受伤眼睛的）眼罩；<美>（衣服上的）徽章，标识；药膏，胶布；（与周围部分不同的）斑，小块；小片，碎片；（尤指园艺用的）一小块地；熟悉的地方，家乡；<非正式> 属地，管辖地；一段时间；<史>（尤指17、18世纪妇女装饰用的）饰颜片，美人斑；（软件的）补丁程序；（电气或电话的）临时连接（线）；（电子乐器，尤指合成乐器中的）预设配置（或声音）数据文件，配音
+%vt. 修补，缝补；使出现斑块；临时连接，临时接入（通信系统）；（计算机）（用补丁对程序进行）修正，打补丁；解决；拼凑，匆匆制成
+    He patched the small hole and pumped in air so that the bike tyre could be used again.
+#他补上了那个小洞，充了气，自行车轮胎又能用了。
+
+voucher: 英[ˈvaʊtʃə(r)] 美[ˈvaʊtʃər]
+$n. 代金券，票券；收据，凭单；证人，保证人，证明者
+%v. 证实……的可靠性
+    The voucher is valid between July and December and entitles you to 10% off all overseas flights.
+#礼券在7月到12月之间有效，你所有的海外飞行享受10%的优惠。
+
+subsistence: 英[səbˈsɪstəns] 美[səbˈsɪstəns]
+$n. 勉强生存，维持生计；赖以活命的食物（或钱）；<法律>有效
+%adj. 自给自足的，仅够自用的
+    The money is intended to provide basic subsistence and should not be paid to someone who receives other income.
+#这些钱是为提供最低生活用的，不能发给有其他收入的人。
+
+tinge: 英[tɪndʒ] 美[tɪndʒ]
+$n. 淡色；些许味道；风味
+%vt. 微染；使带气息
+    The Grand Canyon is often tinged pink and purple by the early morning sun.
+#清晨的太阳常常把大峡谷染成粉红色和淡紫色
+
+implant: 英[ɪmˈplɑːnt] 美[ɪmˈplænt]
+$v. （尤指医学）植入，移植；灌输（观点或态度）；（受精卵或胚胎）着床；把……嵌入，埋置
+%n. （植入人体中的）移植物，植入物
+    She has had a liver implanted.
+#她接受了肝移植手术。
+
+mash: 英[mæʃ] 美[mæʃ]
+$n. 饲料；糊状物；麦芽浆
+$vt. 捣碎；调情
+%n. （Mash）人名；（英）马什
+    Mash the potatoes and then mix them in the butter, onions and garlic.
+#捣碎土豆，然后拌人黄油、洋葱和大蒜。
+
+rack: 英[ræk] 美[ræk]
+$n. 架子，支架；（固定台球球位的）三角框；一局台球比赛；（旧时的）拉肢刑具（the rack）；（机器的）齿条，齿轨；（羊、猪等带前肋的）颈脊肉；一对鹿角；<美，非正式>床；毁灭，毁坏；（吉他等乐器的）数字音响效果装置；伸长快步（指马侧蹄几乎同时依次抬起、四蹄偶尔同时离地的步态）
+%v. 折磨，使痛苦；<史>对……施以肢刑；把……放在架子里（或架子上）；<美>（台球比赛开局前）将球摆成三角形；用齿条及小齿轮传动；（从酒桶渣滓中）抽取（葡萄酒，啤酒等）；<澳，非正式>走开，离去（rack off）；（马）伸长快步跑，轻快小跑；<古>不合理地提高（租金）；<古>（云）随风飘动
+    He was racked with guilt.
+#他因负罪而不安。
+
+cue: 英[kjuː] 美[kjuː]
+$n. 暗示，提示；（戏剧或电影中的）尾白，提示；（台球等的）球杆；线索；选听（或选看）键
+%v. 提示，暗示；用球杆击球
+    They started washing up, so that was our cue to leave the party.
+#他们开始洗刷碗碟，这就暗示我们该离开晚会了。
+
+asset: 英[ˈæset] 美[ˈæset]
+%n. 有利条件，有价值的人或物；资产，财产
+    He estimated her assets at about five million dollars.
+#他估计她的财产大约有500万美元。
+
+affiliate: 英[əˈfɪlieɪt] 美[əˈfɪlieɪt]
+$v. 使隶属，使紧密联系；<正式>加入；（组织）接纳……为成员
+%n. 附属机构，分支机构
+    The medicine company is affiliated to a large joint venture.
+#这家医药公司隶属于一家大型合资企业。
+
+integrity: 英[ɪnˈteɡrəti] 美[ɪnˈteɡrəti]
+%n. 正直，诚实；完整，完全；职业操守；（电子数据的）集成度
+    There is no doubt that the president was a man of the highest integrity.
+#毫无疑问董事长是个光明磊落的人。
+
+resident: 英[ˈrezɪdənt] 美[ˈrezɪdənt]
+$n. 居民，住户；（旅馆的）住宿者；<美>住院医生；<美> 寄宿制学校学生；<史>（英国政府派驻半独立国家的） 特派代表；驻外特工；留鸟，无迁徙习性的蝴蝶（或其他动物）
+%adj. （在某地）居住的，居留的；常驻的；属于（某个群体）的；（鸟、蝴蝶等）非迁徙性的；（计算机程序、文件等在存储器中）驻留的
+    Local residents see the same old lady there at the same time of the day.
+#每天在同样的时间，当地居民都能在那里看到同一位老太太。
+abrupt: 英[əˈbrʌpt] 美[əˈbrʌpt]
+%adj. 突然的，意外的；粗鲁的，唐突的，（言语）生硬的；险峻的，陡峭的；（讲话或写作风格）不流畅的，不连贯的
+    The train came to an abrupt stop, making many passengers fall off the seats.
+#火车突然停住了，使许多旅客从座位上摔了下来。
+
+hush: 英[hʌʃ] 美[hʌʃ]
+$v. （使）安静下来，（使）停止说话；（用于告诉别人保持安静）嘘；用水清洗矿石
+%n. 寂静，鸦雀无声；（人造的）喷水
+    The crowd hushed as the judge walked in.
+#法官走进来时，人群安静了下来。
+
+pang: 英[pæŋ] 美[pæŋ]
+$n. （肉体上）剧痛；苦闷；（精神上）一阵极度的痛苦
+$vt. 使剧痛；折磨
+%n. （Pang）人名；（德、瑞典）庞
+    She left her children with a pang of regret.
+#她离开自己的孩子时感到一阵痛苦的愧疚。
+
+chant: 英[tʃɑːnt] 美[tʃænt]
+$v. 反复唱，反复呼喊；唱圣歌，诵经文
+%n. 反复喊的话，反复唱的调子；圣歌，颂歌
+    There was a group of demonstrators chanting slogans in the square.
+#广场上有一群示威者在呼喊口号。
+
+swell: 英[swel] 美[swel]
+$v. （身体部位）肿胀，膨胀， 使（某物）膨胀，使肿胀；（使）鼓起，（使）隆起；（使）增长，增加，扩大；（声音）逐渐增强，变响亮；（情绪）高涨，充满；波涛汹涌
+$n. 海浪的涌动，涌浪；（音量的）增强；感情的高涨；（规模或数量的）增长，增加；（尤指身体部位）凸起的形状，鼓出处，隆起处；<旧> 重要人士，时髦人物；（管风琴、簧风琴的）音量调节器
+$adj. <美，旧> 第一流的，极好的；<美，非正式，古> 漂亮的，时髦的
+%adv. <美，非正式，旧> 极好地，非常顺利地
+    The company swelled in the past three years and I was worried that it might get inefficient.
+#在过去三年里，公司快速膨胀，我担心效率会降低。
+
+hike: 英[haɪk] 美[haɪk]
+$n. 徒步旅行，远足；（价格、花费等的）大幅度提高，猛增
+%v. 远足，徒步旅行；突然增加，突然提高；拉起，提起（尤指衣物）；后传（发球）给四分卫
+    People go on hikes for pleasure and for exercise.
+#人们为了乐趣和运动而进行徒步旅行。
+
+=======
+partition: 英[pɑːˈtɪʃ(ə)n] 美[pɑːrˈtɪʃ(ə)n]
+$n. 隔墙，隔板；（国家的）分裂，分治；（化学）分离层；（计算机）存储分区；（数学）分割
+%v. 分割，分裂（国家）；（用隔板、隔扇等）隔开，分隔
+    She partitioned the large room into a lounge and a dining-room.
+#她把那个大房间分隔成起居室和餐厅。
+
+slant: 英[slɑːnt] 美[slænt]
+$v. （使）倾斜，（使）歪斜；有偏向性地陈述，带偏向性地报道
+$n. 倾斜，歪斜；（有倾向性的）观点，态度
+%adj. 斜的
+    That picture needs to be slanted slightly to the left.
+#那幅画需要稍微向左倾斜。
+
+coward: 英[ˈkaʊəd] 美[ˈkaʊərd]
+$n. 胆小鬼，懦夫
+%adj. <文>胆小的，怯懦的；（动物形象）夹着尾巴的
+    She accused her husband of being a coward.
+#她指责自己的丈夫是个胆小鬼。
+
+stray: 英[streɪ] 美[streɪ]
+$v. 走失，迷路；走神，离题；（眼睛，手）悠闲 （或漫不经心）地移动；入歧途，犯错误；有外遇，在别处拈花惹草；<文>游荡，徘徊
+$adj. （动物）走失的，流浪的；离散的，零落的；（物理量）杂散的
+%n. 走失（流浪）的动物；离群者，走散者；天电干扰
+    The pigs strayed into his vegetable garden and made a mess there.
+#那些猪闯进他的菜园子，弄得那里一团糟。
+
+prosperous: 英[ˈprɒspərəs] 美[ˈprɑːspərəs]
+%adj. 繁荣的，富足的
+    We are experiencing a prosperous period of economic growth.
+#我们正经历着一段经济繁荣发展的时期。
+
+proclaim: 英[prəˈkleɪm] 美[prəˈkleɪm]
+%v. （正式）宣告，（公开）声明；强调，声称；（标志或通知）宣传，告知；清楚表明，显示
+    All the countries have proclaimed their loyalty to the alliance.
+#所有的国家都宣布了对联盟的忠诚。
+
+inhale: 英[ɪnˈheɪl] 美[ɪnˈheɪl]
+%vt. 吸入，吸气；<美，非正式>狼吞虎咽，大吃大嚼
+    She flung open the window and inhaled deeply.
+#她打开窗户，深深吸了口气。
+
+buck: 英[bʌk] 美[bʌk]
+$n. <非正式>（美）元；雄性动物；<非正式>小伙子；<古>纨绔子弟，花花公子；责任，过失
+$v. 反对，抵制；鼓舞，使振作；弓背跃起；猛烈颠簸
+%adj. 龅牙的
+    buck against bad luck
+#与厄运做斗争
+
+intoxicate: 英[ɪnˈtɒksɪkeɪt] 美[ɪnˈtɑːksɪkeɪt]
+$v. （酒或毒品）（使）麻醉；（使）中毒；（使）兴奋
+%adj. 喝醉的；陶醉的
+    He was fined for driving while intoxicated.
+#他因醉酒开车被罚款。
+
+tyranny: 英[ˈtɪrəni] 美[ˈtɪrəni]
+%n. 暴虐，专横；暴君统治，暴君统治的国家；严酷的事物；（对人们生活和行为方式的）控制，左右； （不中意或令人不快的）必需品；（尤指古希腊）僭主统治，僭王统治
+    It was a war against tyranny.
+#那是一场反对苛政的战争。
+
+recipe: 英[ˈresəpi] 美[ˈresəpi]
+%n. 烹饪法，食谱；诀窍，秘诀；原因；<古>处方
+    She is always looking for new recipes for different jobs.
+#她总在寻求做种种事情的新门道。
+
+ethic: 英[ˈeθɪk] 美[ˈeθɪk]
+$n. 行为准则，道德规范，伦理标准；信仰
+%adj. （与）道德规范（有关）的，（与）伦理（有关）的（=ethical）
+    The modern ethic of some people seems to be irrational.
+#现代一些人的伦理观似乎是荒谬的。
+
+unsettle: 英[ʌnˈset(ə)l] 美[ʌnˈset(ə)l]
+$vt. 使动摇；使不安定；使心神不宁
+%vi. 不安；动荡不定
+    There are fears that the airline's decision to cut air fares will unsettle the market.
+#人们担心航空公司减价的决定会使市场波动不定。
+
+congregate : 英[ˈkɒŋɡrɪɡeɪt] 美[ˈkɑːŋɡrɪɡeɪt]
+$v. 集合，聚集
+%adj. 集合在一起的
+    The crowds congregated around the entrance to the theater, hoping to catch a glimpse of the stars of the show.
+#人群聚集在戏院出口处，希望一睹出演这个节目的明星们。
+
+ignite: 英[ɪɡˈnaɪt] 美[ɪɡˈnaɪt]
+%v. 点燃，燃烧；引发，激起
+    The fuel spontaneously ignites because of the high temperature and pressure.
+#燃料因高温和高压而自燃。
+
+menace: 英[ˈmenəs] 美[ˈmenəs]
+$n. 威胁，危险的人或物；烦人的人（或事物），引起麻烦的人（或事物）；危险气氛，威胁；<英，法律>（以）威胁（或恐吓）的手段（索要钱财）
+%v. <正式>威胁，威吓
+    Nuclear weapons are a menace to world peace and the whole mankind.
+#核武器是对世界和平和全人类的威胁。
+
+recruit: 英[rɪˈkruːt] 美[rɪˈkruːt]
+$v. 招聘，招收（新成员）；招募（新兵）；说服，动员；（通过招募）组成，组建；<旧> 恢复（数量、力气等）
+%n. 新兵；新成员
+    The recruits are being drilled on a school playground.
+#新兵正在一所学校的操场上接受训练。
+
+dictator: 英[dɪkˈteɪtə(r)] 美[ˈdɪkteɪtər]
+%n. 独裁者；专横的人
+    The country is ruled by a ruthless dictator.
+#那个国家被一个残酷的独裁者统治着。
+
+pretext: 英[ˈpriːtekst] 美[ˈpriːtekst]
+%n. 借口，托词
+    The border dispute was used as a pretext for military intervention.
+#边界纠纷是军事入侵的借口。
+
+stunt: 英[stʌnt] 美[stʌnt]
+$n. （尤指电影中的）特技表演；噱头，作秀；逞英雄，做愚蠢（有点危险）的事
+%v. 阻碍……的成长（发育），妨碍发展；表演绝技
+    In the film he had to drive a car into the sea, and do other hair-raising stunts.
+#他在这部电影中得把车子开进海里，并表演其他一些惊人的特技。
+
+dominant: 英[ˈdɒmɪnənt] 美[ˈdɑːmɪnənt]
+$adj. 占支配地位的，占优势的；（基因）显性的
+%n. 显性（性状），显性基因
+    The castle was built in a dominant position on a hill.
+#城堡筑在小山上，可以俯视四周。
+
+paralyse(paralyze): 英[ˈpærəlaɪz] 美[ˈpærəlaɪz]
+%v. 使瘫痪，使麻痹；（尤指由于恐慌或害怕）使丧失思维（或活动）能力；使不能正常运作，使陷入瘫痪
+    He was paralyzed when he was being robbed by a gang.
+#一伙人抢劫的时候他吓得动弹不得。
+
+sway: 英[sweɪ] 美[sweɪ]
+$v. 摇摆，摇晃，摆动；影响（某人），使改变看法；<文> 统治，管理；（使）摇摆，摇动
+%n. 统治，势力，支配，控制，影响；摇摆，摆动；统治，影响
+    She swayed her head from side to side with worry.
+#她忧心忡忡地不时摇着头。
+
+disguise: 英[dɪsˈɡaɪz] 美[dɪsˈɡaɪz]
+$v. 假扮，伪装；掩饰，隐瞒
+%n. 伪装物，伪装
+    The detective disguised himself as a tea trader.
+#那名侦探把自己装扮成茶叶商。
+
+prop: 英[prɒp] 美[prɑːp]
+$n. 支柱，支撑物；（戏剧或电影中的）道具；<旧，非正式> 道具管理员（props）；支持者，后盾；<非正式> 螺旋桨，推进器；（英式橄榄球运动的）前排边锋；（本身没有具体意义但能使句法完整的）结构词；（马快跑时的）骤停
+%v. 支撑，倚靠；<澳>（尤指马等挺直前腿）骤停；用……撑住（某物）
+    She propped her bike against the fence.
+#她把自行车靠在篱笆上。
+
+dispose: 英[dɪˈspəʊz] 美[dɪˈspoʊz]
+%v. 处理，放置，安排；使易于，使倾向于；丢掉；
+    Deep in debt, the family was forced to dispose of most of its possessions.
+#这家人债台高筑，被迫变卖掉了大部分家产。
+
+patriot: 英[ˈpætriət] 美[ˈpeɪtriət]
+%n. 爱国者
+    Many patriots were killed by the invaders.
+#许多爱国人士被人侵者杀害了。
+
+cluster: 英[ˈklʌstə(r)] 美[ˈklʌstər]
+$n. 组，簇；星团；一连串同类事件；（聚集在同一地方的）一群人；（计算机磁盘上的）丛集，群集；辅音群，辅音连缀；基
+%v. 群聚，聚集；（数据点）具近似数值
+    I found a cluster of mushrooms at the bottom of the field.
+#我在田野的尽头发现了一丛蘑菇。
+
+unanimous: 英[juˈnænɪməs] 美[juˈnænɪməs]
+%adj. （投票、决定、协议等）全体同意的，无异议的；（所有人）一致同意的，意见一致的
+    He was elected by a unanimous vote.
+#他全票当选。
+
+browse: 英[braʊz] 美[braʊz]
+$v. 随意翻阅；（动物）吃草；（在商店里）随便看看；浏览信息
+%n. 随意的看，浏览；（动物吃的）植物
+    While he was out I had a good browse through the books on his shelf.
+#他出去时，我把他书架上的书好好浏览了一遍。
+
+naive: 英[naɪˈiːv] 美[naɪˈiːv]
+%adj. 天真的，幼稚的；（艺术风格）朴素的，原始的；缺乏阅历的，轻信他人的
+    She is a naive little girl, and she can't cheat you.
+#她是个天真的小女孩，不会骗你的。
+
+massacre: 英[ˈmæsəkə(r)] 美[ˈmæsəkər]
+$n. 屠杀，残杀；<非正式>（运动或比赛中的）惨败
+%v. （大规模地）屠杀，杀戮；<非正式>（比赛或竞争等中）使惨败，彻底击败；<非正式>笨拙地演奏（演唱）
+    The victims of the massacre were mainly the very young and the very old.
+#大屠杀的受害者主要是幼童和老人。
+
+artificial: 英[ˌɑːtɪˈfɪʃ(ə)l] 美[ˌɑːrtɪˈfɪʃ(ə)l]
+%adj. 人造的，人工的；人为的；不真挚的，矫揉造作的
+    The drink contains no artificial colors.
+#这饮料不含任何人造色素。
+
+impetus: 英[ˈɪmpɪtəs] 美[ˈɪmpɪtəs]
+%n. 动力，促进；动量，冲力
+    The government's new policy gave fresh impetus to commerce and trade.
+#政府的新政策给商业和贸易提供了新的动力。
+
+concession: 英[kənˈseʃ(ə)n] 美[kənˈseʃ(ə)n]
+%n. 让步，妥协；特许权；<英>优惠价，减价；商铺；小摊卖的东西；认输
+    The firm's promise to increase our pay was a concession to our demands.
+#公司答应提高我们的工资是对我们所提要求的让步。
+
+compile: 英[kəmˈpaɪl] 美[kəmˈpaɪl]
+%v. 汇编，编纂；编译（电脑程式）；收集，搜集（信息，资料）；累积（得分）
+    It took him 15 years to compile the English-Chinese dictionary.
+#编纂这部英汉词典用了他l5年时间。
+
+presentation: 英[ˌprez(ə)nˈteɪʃ(ə)n] 美[ˌpriːz(ə)nˈteɪʃ(ə)n]
+%n. （颁奖等）仪式，典礼；授予，颁发；（在仪式上接受的）奖项，赠予物；展示会，介绍会，发布会；陈述，报告，说明；（事物的）呈现方式；（证件等的）出示；（证物的）提交，提供；（戏剧的）演出；（胎儿的）先露位置，产位；（尤指在帝王前）正式引见，引……朝见；<史>（圣职等的）推荐
+    The scholarship is an annual presentation to college students with good behavior and excellent academic achievements.
+#奖学金每年一度颁发给品学兼优的大学生。
+
+patch: 英[pætʃ] 美[pætʃ]
+$n. 补丁，补片；（保护受伤眼睛的）眼罩；<美>（衣服上的）徽章，标识；药膏，胶布；（与周围部分不同的）斑，小块；小片，碎片；（尤指园艺用的）一小块地；熟悉的地方，家乡；<非正式> 属地，管辖地；一段时间；<史>（尤指17、18世纪妇女装饰用的）饰颜片，美人斑；（软件的）补丁程序；（电气或电话的）临时连接（线）；（电子乐器，尤指合成乐器中的）预设配置（或声音）数据文件，配音
+%vt. 修补，缝补；使出现斑块；临时连接，临时接入（通信系统）；（计算机）（用补丁对程序进行）修正，打补丁；解决；拼凑，匆匆制成
+    He patched the small hole and pumped in air so that the bike tyre could be used again.
+#他补上了那个小洞，充了气，自行车轮胎又能用了。
+
+voucher: 英[ˈvaʊtʃə(r)] 美[ˈvaʊtʃər]
+$n. 代金券，票券；收据，凭单；证人，保证人，证明者
+%v. 证实……的可靠性
+    The voucher is valid between July and December and entitles you to 10% off all overseas flights.
+#礼券在7月到12月之间有效，你所有的海外飞行享受10%的优惠。
+
+subsistence: 英[səbˈsɪstəns] 美[səbˈsɪstəns]
+$n. 勉强生存，维持生计；赖以活命的食物（或钱）；<法律>有效
+%adj. 自给自足的，仅够自用的
+    The money is intended to provide basic subsistence and should not be paid to someone who receives other income.
+#这些钱是为提供最低生活用的，不能发给有其他收入的人。
+
+tinge: 英[tɪndʒ] 美[tɪndʒ]
+$n. 淡色；些许味道；风味
+%vt. 微染；使带气息
+    The Grand Canyon is often tinged pink and purple by the early morning sun.
+#清晨的太阳常常把大峡谷染成粉红色和淡紫色
+
+implant: 英[ɪmˈplɑːnt] 美[ɪmˈplænt]
+$v. （尤指医学）植入，移植；灌输（观点或态度）；（受精卵或胚胎）着床；把……嵌入，埋置
+%n. （植入人体中的）移植物，植入物
+    She has had a liver implanted.
+#她接受了肝移植手术。
+
+mash: 英[mæʃ] 美[mæʃ]
+$n. 饲料；糊状物；麦芽浆
+$vt. 捣碎；调情
+%n. （Mash）人名；（英）马什
+    Mash the potatoes and then mix them in the butter, onions and garlic.
+#捣碎土豆，然后拌人黄油、洋葱和大蒜。
+
+rack: 英[ræk] 美[ræk]
+$n. 架子，支架；（固定台球球位的）三角框；一局台球比赛；（旧时的）拉肢刑具（the rack）；（机器的）齿条，齿轨；（羊、猪等带前肋的）颈脊肉；一对鹿角；<美，非正式>床；毁灭，毁坏；（吉他等乐器的）数字音响效果装置；伸长快步（指马侧蹄几乎同时依次抬起、四蹄偶尔同时离地的步态）
+%v. 折磨，使痛苦；<史>对……施以肢刑；把……放在架子里（或架子上）；<美>（台球比赛开局前）将球摆成三角形；用齿条及小齿轮传动；（从酒桶渣滓中）抽取（葡萄酒，啤酒等）；<澳，非正式>走开，离去（rack off）；（马）伸长快步跑，轻快小跑；<古>不合理地提高（租金）；<古>（云）随风飘动
+    He was racked with guilt.
+#他因负罪而不安。
+
+cue: 英[kjuː] 美[kjuː]
+$n. 暗示，提示；（戏剧或电影中的）尾白，提示；（台球等的）球杆；线索；选听（或选看）键
+%v. 提示，暗示；用球杆击球
+    They started washing up, so that was our cue to leave the party.
+#他们开始洗刷碗碟，这就暗示我们该离开晚会了。
+
+asset: 英[ˈæset] 美[ˈæset]
+%n. 有利条件，有价值的人或物；资产，财产
+    He estimated her assets at about five million dollars.
+#他估计她的财产大约有500万美元。
+
+affiliate: 英[əˈfɪlieɪt] 美[əˈfɪlieɪt]
+$v. 使隶属，使紧密联系；<正式>加入；（组织）接纳……为成员
+%n. 附属机构，分支机构
+    The medicine company is affiliated to a large joint venture.
+#这家医药公司隶属于一家大型合资企业。
+
+integrity: 英[ɪnˈteɡrəti] 美[ɪnˈteɡrəti]
+%n. 正直，诚实；完整，完全；职业操守；（电子数据的）集成度
+    There is no doubt that the president was a man of the highest integrity.
+#毫无疑问董事长是个光明磊落的人。
+
+resident: 英[ˈrezɪdənt] 美[ˈrezɪdənt]
+$n. 居民，住户；（旅馆的）住宿者；<美>住院医生；<美> 寄宿制学校学生；<史>（英国政府派驻半独立国家的） 特派代表；驻外特工；留鸟，无迁徙习性的蝴蝶（或其他动物）
+%adj. （在某地）居住的，居留的；常驻的；属于（某个群体）的；（鸟、蝴蝶等）非迁徙性的；（计算机程序、文件等在存储器中）驻留的
+    Local residents see the same old lady there at the same time of the day.
+#每天在同样的时间，当地居民都能在那里看到同一位老太太。
+abrupt: 英[əˈbrʌpt] 美[əˈbrʌpt]
+%adj. 突然的，意外的；粗鲁的，唐突的，（言语）生硬的；险峻的，陡峭的；（讲话或写作风格）不流畅的，不连贯的
+    The train came to an abrupt stop, making many passengers fall off the seats.
+#火车突然停住了，使许多旅客从座位上摔了下来。
+
+hush: 英[hʌʃ] 美[hʌʃ]
+$v. （使）安静下来，（使）停止说话；（用于告诉别人保持安静）嘘；用水清洗矿石
+%n. 寂静，鸦雀无声；（人造的）喷水
+    The crowd hushed as the judge walked in.
+#法官走进来时，人群安静了下来。
+
+pang: 英[pæŋ] 美[pæŋ]
+$n. （肉体上）剧痛；苦闷；（精神上）一阵极度的痛苦
+$vt. 使剧痛；折磨
+%n. （Pang）人名；（德、瑞典）庞
+    She left her children with a pang of regret.
+#她离开自己的孩子时感到一阵痛苦的愧疚。
+
+chant: 英[tʃɑːnt] 美[tʃænt]
+$v. 反复唱，反复呼喊；唱圣歌，诵经文
+%n. 反复喊的话，反复唱的调子；圣歌，颂歌
+    There was a group of demonstrators chanting slogans in the square.
+#广场上有一群示威者在呼喊口号。
+
+swell: 英[swel] 美[swel]
+$v. （身体部位）肿胀，膨胀， 使（某物）膨胀，使肿胀；（使）鼓起，（使）隆起；（使）增长，增加，扩大；（声音）逐渐增强，变响亮；（情绪）高涨，充满；波涛汹涌
+$n. 海浪的涌动，涌浪；（音量的）增强；感情的高涨；（规模或数量的）增长，增加；（尤指身体部位）凸起的形状，鼓出处，隆起处；<旧> 重要人士，时髦人物；（管风琴、簧风琴的）音量调节器
+$adj. <美，旧> 第一流的，极好的；<美，非正式，古> 漂亮的，时髦的
+%adv. <美，非正式，旧> 极好地，非常顺利地
+    The company swelled in the past three years and I was worried that it might get inefficient.
+#在过去三年里，公司快速膨胀，我担心效率会降低。
+
+hike: 英[haɪk] 美[haɪk]
+$n. 徒步旅行，远足；（价格、花费等的）大幅度提高，猛增
+%v. 远足，徒步旅行；突然增加，突然提高；拉起，提起（尤指衣物）；后传（发球）给四分卫
+    People go on hikes for pleasure and for exercise.
+#人们为了乐趣和运动而进行徒步旅行。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

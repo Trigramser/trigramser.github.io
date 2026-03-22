@@ -1,0 +1,801 @@
+<<<<<<< HEAD
+liken: 英[ˈlaɪkən] 美[ˈlaɪkən]
+%vt. 比拟；把……比作
+    We liken an archaeologist to a detective searching for ancient clues.
+#我们把考古学家比作探索古代线索的侦探。
+
+vista: 英[ˈvɪstə] 美[ˈvɪstə]
+$n. 远景，狭长的街景；展望；回顾
+%n. （Vista）人名；（意）维斯塔；（西）比斯塔
+    a rolling vista of hills
+#群山连绵起伏的景色
+    a shady vista of elms
+#荫凉的榆树林荫道
+    forgotten vistas
+#忘却了的往事
+    the long vista of years ahead
+#对未来漫长岁月的展望
+    As a leader, he opened up exciting vistas of global cooperation.
+#作为领导人，他开启了全球合作的美好远景。
+
+vie: 英[vaɪ] 美[vaɪ]
+$v. 争夺，激烈竞争
+%n. （Vie）（法、美、挪）维（人名）
+    vie with sb. for the first place
+#与某人竞争第一名
+    vie retorts with an opponent in debate
+#在论中与对方唇枪舌剑
+    vie accusation against accusation
+#针锋相对地互相指责
+    Six candidates are currently vying for the Democratic presidential nomination.
+#目前有六名候选人在竞争民主党总统候选人提名。
+
+enchant: 英[ɪnˈtʃɑːnt] 美[ɪnˈtʃænt]
+%v. <正式>使陶醉，使入迷；对……施魔法
+    be enchanted to the point of tears
+#被感动得几乎落泪
+    be enchanted with the music
+#被音乐迷住
+    The audience was clearly enchanted by her performance.
+#观众显然为她的表演陶醉。
+
+schematize: 英[ˈskiːmətaɪz] 美[ˈskiːmətaɪz]
+%v. 使系统化；用图式表达
+    He loves everything that doesn't schematize him. He's free and he's successful.
+#喜欢一切非公式化的东西，追求自由，并获得成功
+
+cession: 英[ˈseʃ(ə)n] 美[ˈseʃ(ə)n]
+%n. （权利的）转让，出让；（领土的）割让
+    The cession of the territory could not be avoided because they lost the war.
+#因为他们输了这场战争，割让领土是无法避免的。
+
+maul: 英[mɔːl] 美[mɔːl]
+$v. 袭击，撕咬；轻易击败（尤用于体育报告中）；猛烈抨击；粗手粗脚地摆弄，粗暴地对待；（比赛）惨败；（英国橄榄）围挤抢球
+$n. 大槌（等于beetle）；（英国橄榄）围挤抢球
+%n. （Maul）（美、德）毛尔（人名）
+    His first film was mauled by the critics.
+#他的首部影片就受到评论家们的抨击。
+
+beacon: 英[ˈbiːkən] 美[ˈbiːkən]
+$n. 灯塔，灯标；（无线电）信标；引路人，指路明灯；（旧时的）烽火；<英>适宜点烽火的山
+%v. 照亮，指引；像灯塔般照耀
+    light a beacon of hope
+#点燃希望之灯
+    the beacon of the young
+#青年的指路明灯
+    a chain of beacons
+#一系列灯塔
+    Honesty shone from him like a beacon.
+#诚实像灯塔一样在他身上闪光。
+
+smudge: 英[smʌdʒ] 美[smʌdʒ]
+$n. 污点，污迹；烟熏火堆；模糊不清的景象（或图像）
+%v. 把……擦模糊；弄脏，涂污；用浓烟熏
+    a smudge of earth
+#一块泥迹
+    clean sb. of every smudge of impropriety
+#洗刷行为不端的种种污点
+    a distant smudge on the horizon
+#地平线上的一个模糊的影子
+    smudge the towel with dirty hands
+#用脏手把毛巾弄脏
+    He was suffering from lack of sleep and had dark smudges under his eyes.
+#他睡眠不足，眼睛下面有黑影。
+
+phantom: 英[ˈfæntəm] 美[ˈfæntəm]
+$n. 幽灵，鬼魂；幻觉，幻象；渺茫；为诈骗而捏造的财务安排（或金融交易）
+%adj. 虚幻的，幻觉的；有名无实的，虚假骗人的；像鬼的，幽灵似的；（尤指罪犯）身份不明的
+    the phantom of a future Utopia
+#未来乌托邦的幻影
+    a phantom of a leader
+#有名无实的领导人
+    the phantoms of past things
+#往事的影子
+    a phantom army
+#一支影子部队
+    a phantom phone call
+#来路不明的电话
+    a phantom regime
+#伪政权
+    phantom prosperity
+#虚假的繁荣
+
+periphrastic: 英[ˌperɪˈfræstɪk] 美[ˌperɪˈfræstɪk]
+%adj. 迂回的；冗长的；委婉的
+    John is making a periphrastic study in a worn-out poetical fashion. 
+#约翰正在对陈腐的诗风做迂回冗长的研究
+
+hilarious: 英[hɪˈleəriəs] 美[hɪˈleriəs]
+%adj. 很可笑的，很滑稽的；<古>欢闹的，兴高采烈的
+    a hilarious party
+#欢闹的聚会
+    a hilarious story
+#逗笑的故事
+    It's hilarious that he tries to flirt with women half his age.
+#他想和比自己年少一半的女子调情，真是可笑之至。
+
+hoarse: 英[hɔːs] 美[hɔːrs]
+%adj. 嘶哑的
+    shout oneself hoarse
+#把嗓子喊哑
+    He smoked so incessantly that he had a hoarse voice and his hands were yellow.
+#他不断地吸烟，致使他声音嘶哑，双手发黄。
+
+extrude: 英[ɪkˈstruːd] 美[ɪkˈstruːd]
+$vt. 挤出，压出；使突出；逐出
+%vi. 突出，喷出
+    extrude toothpaste from the tube
+#从管中挤出牙膏
+    extrude molten rock
+#使熔岩喷出
+    Plastic material is extruded through small holes to form fibers.
+#塑料从小孔中挤压出来形成纤维。
+
+rumple: 英[ˈrʌmp(ə)l] 美[ˈrʌmp(ə)l]
+$vt. 弄皱；弄得乱七八糟
+$vi. 弄皱；变凌乱
+%n. 皱褶；皱纹
+    rumpled hair
+#凌乱的头发
+    iron a few rumples smooth
+#把皱褶烫平
+    You'll rumple your jacket if you don't hang it up properly.
+#如果你不把夹克衫好好挂起来，就会把它弄皱。
+
+whoop: 英[wuːp] 美[wuːp]
+$n. 大叫；哮喘声；呐喊；一点点
+$vt. 高声说；唤起
+%vi. 叫喊；喘息
+    give a whoop of triumph
+#发出一声胜利的欢呼
+    give a whoop of rage
+#怒吼
+    not care a whoop about
+#对……一点也不关心
+    a whooping billow
+#吃哮的巨浪
+    whoop a welcome
+#高呼欢迎
+    Bread was still so scarce that it was received with whoops of joy.
+#面包仍是那样缺乏，以至于人们得到时都高兴得大喊起来。
+
+ravish: 英[ˈrævɪʃ] 美[ˈrævɪʃ]
+$vt. 强夺；强奸；使着迷
+%n. （Ravish）人名；（印）拉维什
+    be ravished by one's beauty
+#为某人的美貌所陶醉
+    the ravishing countryside
+#迷人的乡间
+    He was utterly ravished by the way she smiled.
+#他被她的微笑完全迷住了。
+
+illustrious: 英[ɪˈlʌstriəs] 美[ɪˈlʌstriəs]
+%adj. 著名的，杰出的；辉煌的
+    illustrious heroes of our era
+#当代杰出的英雄人物
+    a long and illustrious career
+#漫长而成就卓越的生涯
+    She comes from an illustrious political family which includes two former Cabinet ministers.
+#她出生于一个有着两名前内阁大臣的著名政治家庭。
+
+impasse: 英[ˈɪmpæs] 美[ˈɪmpæs]
+%n. 僵局；死路
+    reach an impasse
+#陷于僵局
+    break an impasse
+#打破僵局
+    The dispute was at an impasse, as neither side would compromise.
+#由于双方都不愿让步，争论处于僵局。
+
+ennoble: 英[ɪˈnəʊb(ə)l] 美[ɪˈnoʊb(ə)l]
+%vt. 使……成为贵族；使……高贵；授予爵位
+    ennoble the human spirit
+#使人精神升华
+    He has the theory that suffering can ennoble a person's character.
+#他有这么一个理论，即苦难能使人品格高尚。
+
+compunction: 英[kəmˈpʌŋkʃ(ə)n] 美[kəmˈpʌŋkʃ(ə)n]
+%n. 悔恨，后悔；内疚
+    compunctions of conscience
+#良心的谴责
+    feel compunction
+#感到悔恨
+    The student seemed to have no compunctions about cheating.
+#这个学生对作弊的事似乎一点也不感到内疚。
+
+vanquish: 英[ˈvæŋkwɪʃ] 美[ˈvæŋkwɪʃ]
+%vt. 征服；击败；克服；抑制（感情等）
+    the vanquished army
+#被打败的军队
+    vanquish one's fears
+#克服恐惧心理
+    Many of the diseases that have affected society 100 years ago have now been vanquished.
+#许多100年前危害社会的疾病如今已经被消灭了。
+
+woo: 英[wuː] 美[wuː]
+$vt. 追求；招致；向……求爱；恳求
+%vi. 求爱；恳求
+    woo fame and fortune
+#追名逐利
+    woo one's own destruction
+#招致身败名裂
+    woo the voters before an election
+#选前争取选民
+    woo sb. with flowers and expensive presents
+#用鲜花和贵重礼物向某人求婚
+    The airline has been offering discounted tickets to woo passengers away from their competitors.
+#家航空公司一直提供特价机票，以将乘客从竞争对手那里抢过来。
+
+accrue: 英[əˈkruː] 美[əˈkruː]
+%v. （利益、好处等）产生，形成；（钱不断地）积累，增加；准备累算偿付
+    accrue benefits from
+#由……得到好处
+    accrued interest
+#应计利息
+    Great benefits accrue to society as a result of education.
+#教育的结果使社会受益无穷。
+
+jug: 英[dʒʌɡ] 美[dʒʌɡ]
+$n. <英>（有柄有嘴的）壶，罐；<美> （细口带柄的）大罐；一壶，一罐（的量）；<非正式>监狱（the jug）；<俚>（女子的）乳房（jugs）；（登山时凿入山岩中的）攀手（=jug handle）
+%v. （用罐闷）煮，炖（兔肉）；<美，非正式>起诉并监禁；模仿夜莺叫；放入壶中
+    a water jug
+#水壶
+    a jug of wine
+#一壶酒
+    in the jug three times
+#坐过三次牢
+    She put a jug of water on the table.
+#她把一壶水放在桌子上。
+
+august: 英[ɔːˈɡʌst] 美[ɔːˈɡʌst]
+$adj. 威严的，令人敬畏的
+%n. 八月（August）
+    an august-looking judge
+#相貌威严的法官
+    The society's august patron gave a speech at the annual dinner.
+#协会里受人敬重的赞助人在周年庆宴会上致了辞。
+
+frisk: 英[frɪsk] 美[frɪsk]
+$v. 搜（某人的）身；（动物）蹦跳，欢跃，轻摇
+$n. 搜（某人的）身；（动物）蹦跳，欢跃；嬉戏；转移，消遣
+%n. （Frisk）（美、瑞典、丹）弗里斯克（人名）
+    frisk a fan
+#轻快地挥动扇子
+    frisk sb. for a weapon.
+#为查武器对某人搜身
+    frisk sb. of his wallet
+#扒窃某人的钱包
+    The postcard had a lovely picture of lambs frisking in the fields.
+#明信片上有一幅小羊盖在田野里欢跃的可爱图画。
+
+fleece: 英[fliːs] 美[fliːs]
+$n. 羊毛，（一只羊一次剪下的）毛；羊毛状衬里；羊毛状织物上衣（或其他衣服）；（纹章）挂在环形饰物上的羊毛状装饰
+%v. 敲诈，骗取钱财； 给（羊）剪（羊毛）；<文>（用羊毛状物）覆盖
+    fleece a sheep
+#剪羊毛
+    one's fleece of hair
+#某人柔软的头发
+    fleece sb. of his money
+#诈取某人的钱;
+    a sky fleeced with white clouds
+#白云朵朵的天空
+    The restaurant really fleeced us!
+#那家饭店完全把我们给敲诈了!
+
+homely: 英[ˈhəʊmli] 美[ˈhoʊmli]
+%adj. 普通的，朴实无华的；相貌平平的；像家一样舒适的；（女子）热情亲切的，家庭主妇型的
+    homely food
+#家常食物
+    explain the problem in homely terms
+#用浅显的话语解释问题
+    a homely and motherly teacher
+#为人质朴、犹如慈母的老师
+    a homely girl
+#其貌不扬的姑娘
+    We were welcomed by a homely lady who said she was the caretaker.
+#一位朴实的女士迎接了我们并说她是看管人。
+
+disparity: 英[dɪˈspærəti] 美[dɪˈspærəti]
+%n. 明显差异
+    the wide disparity between rich and poor
+#贫富悬殊
+    In the competition there was a huge disparity between the best and the worst performances.
+#比赛中最好和最坏的表演之间相差悬殊。
+
+unassuming: 英[ˌʌnəˈsjuːmɪŋ] 美[ˌʌnəˈsuːmɪŋ]
+%adj. 谦逊的；不装腔作势的；不出风头的
+    an unassuming manner
+#谦逊的态度
+    He was a man of few words, very polite and unassuming.
+#他话不多，很有礼貌，为人谦和。
+
+forfeiture: 英[ˈfɔːfɪtʃə(r)] 美[ˈfɔːrfɪtʃər]
+%n. （财产等的）没收；（权利、名誉等的）丧失
+    He was deep in debt and faced with forfeiture of his property.
+#他负债累累，面临财产被没收的境地。
+
+grumpy: 英[ˈɡrʌmpi] 美[ˈɡrʌmpi]
+$adj. 脾气坏的，爱抱怨的
+%n. 脾气坏的人
+    The shopkeeper was a grumpy and rather unfriendly man.
+#那个店主是个坏牌气的、很不友好的人。
+
+impeach: 英[ɪmˈpiːtʃ] 美[ɪmˈpiːtʃ]
+$vt. 弹劾；归咎；怀疑
+%n. 控告，检举；弹劾；怀疑
+    impeach sb. with/of a crime
+#控告某人犯罪
+    be impeached for treason
+#被控犯有叛国罪
+    impeach one's motives
+#怀疑某人的动机
+    Elected officials can be impeached.
+#民选的官员可能受到弹劾。
+
+dexterity: 英[dekˈsterəti] 美[dekˈsterəti]
+%n. 灵巧；敏捷；机敏
+    dexterity with the pen
+#文思敏捷
+    With all the dexterity of a politician, he answered the journalists' questions to his own advantage.
+#他以一个政客所有的敏捷才思，以对自己有利的方式回答了记者们对他的提问。
+
+foreword: 英[ˈfɔːwɜːd] 美[ˈfɔːrwɜːrd]
+%n. 序；前言
+    The book has a foreword by the president.
+#那本书有总统作的序。
+
+crimp: 英[krɪmp] 美[krɪmp]
+$v. 烫发，使卷曲；使有褶；阻碍……的发展；将金属压弯；用压合法连接（电线等）
+%n. 卷发，波浪形；皱褶；抑制，束缚；压合连接器
+    a face crimped by the weather
+#饱经风霜而布满皱纹的脸
+    crimp production
+#阻碍生产
+    put a crimp in/on
+#阻碍，束缚
+    Her head was covered with crimps.
+#她满头鬈发。
+
+pacify: 英[ˈpæsɪfaɪ] 美[ˈpæsɪfaɪ]
+%vt. 使平静；安慰；平定
+    pacify the quarreling children
+#使争吵的孩子们安静下来
+    pacify a crying baby
+#哄啼哭的婴儿
+    pacify the commotion
+#平息叛乱
+    A UN force has been sent in to try and pacify the area affected by the civil war.
+#联合已派去一支部队设法稳定受内战之苦的地区。
+
+synopsis: 英[sɪˈnɒpsɪs] 美[sɪˈnɑːpsɪs]
+%n. （书、剧本或电影等的）概要，摘要，梗概；提要，概要
+    a synopsis of the week's news
+#一周新闻提要
+    I haven't seen any of the previous episodes, so you'll have to give me a brief synopsis.
+#我没有看过前面几集，所以你得给我介绍一下剧情概要。
+
+airtight: 英[ˈeətaɪt] 美[ˈertaɪt]
+%adj. 密闭的，密封的；无懈可击的
+    airtight evidence
+#无懈可击的铁证
+    an airtight argument
+#天衣无缝的论据
+    Biscuits will stay crisp if you keep them in an airtight tin.
+#如果你把饼干放到一个密封的铁罐里，它们就会保持松脆。
+
+soggy: 英[ˈsɒɡi] 美[ˈsɑːɡi]
+%adj. 浸水的；透湿的；沉闷的
+    the soggy summer
+#潮湿的夏季
+    a soggy cigarette
+#受潮的香烟
+    soggy bread
+#未烤透的面包
+    a soggy conversation
+#沉闷的谈话
+    a soggy story
+#乏味故事
+    I dropped my magazine in the bath and now it's all soggy.
+#我把杂志掉进了浴缸中，现在它全湿透了。
+
+=======
+liken: 英[ˈlaɪkən] 美[ˈlaɪkən]
+%vt. 比拟；把……比作
+    We liken an archaeologist to a detective searching for ancient clues.
+#我们把考古学家比作探索古代线索的侦探。
+
+vista: 英[ˈvɪstə] 美[ˈvɪstə]
+$n. 远景，狭长的街景；展望；回顾
+%n. （Vista）人名；（意）维斯塔；（西）比斯塔
+    a rolling vista of hills
+#群山连绵起伏的景色
+    a shady vista of elms
+#荫凉的榆树林荫道
+    forgotten vistas
+#忘却了的往事
+    the long vista of years ahead
+#对未来漫长岁月的展望
+    As a leader, he opened up exciting vistas of global cooperation.
+#作为领导人，他开启了全球合作的美好远景。
+
+vie: 英[vaɪ] 美[vaɪ]
+$v. 争夺，激烈竞争
+%n. （Vie）（法、美、挪）维（人名）
+    vie with sb. for the first place
+#与某人竞争第一名
+    vie retorts with an opponent in debate
+#在论中与对方唇枪舌剑
+    vie accusation against accusation
+#针锋相对地互相指责
+    Six candidates are currently vying for the Democratic presidential nomination.
+#目前有六名候选人在竞争民主党总统候选人提名。
+
+enchant: 英[ɪnˈtʃɑːnt] 美[ɪnˈtʃænt]
+%v. <正式>使陶醉，使入迷；对……施魔法
+    be enchanted to the point of tears
+#被感动得几乎落泪
+    be enchanted with the music
+#被音乐迷住
+    The audience was clearly enchanted by her performance.
+#观众显然为她的表演陶醉。
+
+schematize: 英[ˈskiːmətaɪz] 美[ˈskiːmətaɪz]
+%v. 使系统化；用图式表达
+    He loves everything that doesn't schematize him. He's free and he's successful.
+#喜欢一切非公式化的东西，追求自由，并获得成功
+
+cession: 英[ˈseʃ(ə)n] 美[ˈseʃ(ə)n]
+%n. （权利的）转让，出让；（领土的）割让
+    The cession of the territory could not be avoided because they lost the war.
+#因为他们输了这场战争，割让领土是无法避免的。
+
+maul: 英[mɔːl] 美[mɔːl]
+$v. 袭击，撕咬；轻易击败（尤用于体育报告中）；猛烈抨击；粗手粗脚地摆弄，粗暴地对待；（比赛）惨败；（英国橄榄）围挤抢球
+$n. 大槌（等于beetle）；（英国橄榄）围挤抢球
+%n. （Maul）（美、德）毛尔（人名）
+    His first film was mauled by the critics.
+#他的首部影片就受到评论家们的抨击。
+
+beacon: 英[ˈbiːkən] 美[ˈbiːkən]
+$n. 灯塔，灯标；（无线电）信标；引路人，指路明灯；（旧时的）烽火；<英>适宜点烽火的山
+%v. 照亮，指引；像灯塔般照耀
+    light a beacon of hope
+#点燃希望之灯
+    the beacon of the young
+#青年的指路明灯
+    a chain of beacons
+#一系列灯塔
+    Honesty shone from him like a beacon.
+#诚实像灯塔一样在他身上闪光。
+
+smudge: 英[smʌdʒ] 美[smʌdʒ]
+$n. 污点，污迹；烟熏火堆；模糊不清的景象（或图像）
+%v. 把……擦模糊；弄脏，涂污；用浓烟熏
+    a smudge of earth
+#一块泥迹
+    clean sb. of every smudge of impropriety
+#洗刷行为不端的种种污点
+    a distant smudge on the horizon
+#地平线上的一个模糊的影子
+    smudge the towel with dirty hands
+#用脏手把毛巾弄脏
+    He was suffering from lack of sleep and had dark smudges under his eyes.
+#他睡眠不足，眼睛下面有黑影。
+
+phantom: 英[ˈfæntəm] 美[ˈfæntəm]
+$n. 幽灵，鬼魂；幻觉，幻象；渺茫；为诈骗而捏造的财务安排（或金融交易）
+%adj. 虚幻的，幻觉的；有名无实的，虚假骗人的；像鬼的，幽灵似的；（尤指罪犯）身份不明的
+    the phantom of a future Utopia
+#未来乌托邦的幻影
+    a phantom of a leader
+#有名无实的领导人
+    the phantoms of past things
+#往事的影子
+    a phantom army
+#一支影子部队
+    a phantom phone call
+#来路不明的电话
+    a phantom regime
+#伪政权
+    phantom prosperity
+#虚假的繁荣
+
+periphrastic: 英[ˌperɪˈfræstɪk] 美[ˌperɪˈfræstɪk]
+%adj. 迂回的；冗长的；委婉的
+    John is making a periphrastic study in a worn-out poetical fashion. 
+#约翰正在对陈腐的诗风做迂回冗长的研究
+
+hilarious: 英[hɪˈleəriəs] 美[hɪˈleriəs]
+%adj. 很可笑的，很滑稽的；<古>欢闹的，兴高采烈的
+    a hilarious party
+#欢闹的聚会
+    a hilarious story
+#逗笑的故事
+    It's hilarious that he tries to flirt with women half his age.
+#他想和比自己年少一半的女子调情，真是可笑之至。
+
+hoarse: 英[hɔːs] 美[hɔːrs]
+%adj. 嘶哑的
+    shout oneself hoarse
+#把嗓子喊哑
+    He smoked so incessantly that he had a hoarse voice and his hands were yellow.
+#他不断地吸烟，致使他声音嘶哑，双手发黄。
+
+extrude: 英[ɪkˈstruːd] 美[ɪkˈstruːd]
+$vt. 挤出，压出；使突出；逐出
+%vi. 突出，喷出
+    extrude toothpaste from the tube
+#从管中挤出牙膏
+    extrude molten rock
+#使熔岩喷出
+    Plastic material is extruded through small holes to form fibers.
+#塑料从小孔中挤压出来形成纤维。
+
+rumple: 英[ˈrʌmp(ə)l] 美[ˈrʌmp(ə)l]
+$vt. 弄皱；弄得乱七八糟
+$vi. 弄皱；变凌乱
+%n. 皱褶；皱纹
+    rumpled hair
+#凌乱的头发
+    iron a few rumples smooth
+#把皱褶烫平
+    You'll rumple your jacket if you don't hang it up properly.
+#如果你不把夹克衫好好挂起来，就会把它弄皱。
+
+whoop: 英[wuːp] 美[wuːp]
+$n. 大叫；哮喘声；呐喊；一点点
+$vt. 高声说；唤起
+%vi. 叫喊；喘息
+    give a whoop of triumph
+#发出一声胜利的欢呼
+    give a whoop of rage
+#怒吼
+    not care a whoop about
+#对……一点也不关心
+    a whooping billow
+#吃哮的巨浪
+    whoop a welcome
+#高呼欢迎
+    Bread was still so scarce that it was received with whoops of joy.
+#面包仍是那样缺乏，以至于人们得到时都高兴得大喊起来。
+
+ravish: 英[ˈrævɪʃ] 美[ˈrævɪʃ]
+$vt. 强夺；强奸；使着迷
+%n. （Ravish）人名；（印）拉维什
+    be ravished by one's beauty
+#为某人的美貌所陶醉
+    the ravishing countryside
+#迷人的乡间
+    He was utterly ravished by the way she smiled.
+#他被她的微笑完全迷住了。
+
+illustrious: 英[ɪˈlʌstriəs] 美[ɪˈlʌstriəs]
+%adj. 著名的，杰出的；辉煌的
+    illustrious heroes of our era
+#当代杰出的英雄人物
+    a long and illustrious career
+#漫长而成就卓越的生涯
+    She comes from an illustrious political family which includes two former Cabinet ministers.
+#她出生于一个有着两名前内阁大臣的著名政治家庭。
+
+impasse: 英[ˈɪmpæs] 美[ˈɪmpæs]
+%n. 僵局；死路
+    reach an impasse
+#陷于僵局
+    break an impasse
+#打破僵局
+    The dispute was at an impasse, as neither side would compromise.
+#由于双方都不愿让步，争论处于僵局。
+
+ennoble: 英[ɪˈnəʊb(ə)l] 美[ɪˈnoʊb(ə)l]
+%vt. 使……成为贵族；使……高贵；授予爵位
+    ennoble the human spirit
+#使人精神升华
+    He has the theory that suffering can ennoble a person's character.
+#他有这么一个理论，即苦难能使人品格高尚。
+
+compunction: 英[kəmˈpʌŋkʃ(ə)n] 美[kəmˈpʌŋkʃ(ə)n]
+%n. 悔恨，后悔；内疚
+    compunctions of conscience
+#良心的谴责
+    feel compunction
+#感到悔恨
+    The student seemed to have no compunctions about cheating.
+#这个学生对作弊的事似乎一点也不感到内疚。
+
+vanquish: 英[ˈvæŋkwɪʃ] 美[ˈvæŋkwɪʃ]
+%vt. 征服；击败；克服；抑制（感情等）
+    the vanquished army
+#被打败的军队
+    vanquish one's fears
+#克服恐惧心理
+    Many of the diseases that have affected society 100 years ago have now been vanquished.
+#许多100年前危害社会的疾病如今已经被消灭了。
+
+woo: 英[wuː] 美[wuː]
+$vt. 追求；招致；向……求爱；恳求
+%vi. 求爱；恳求
+    woo fame and fortune
+#追名逐利
+    woo one's own destruction
+#招致身败名裂
+    woo the voters before an election
+#选前争取选民
+    woo sb. with flowers and expensive presents
+#用鲜花和贵重礼物向某人求婚
+    The airline has been offering discounted tickets to woo passengers away from their competitors.
+#家航空公司一直提供特价机票，以将乘客从竞争对手那里抢过来。
+
+accrue: 英[əˈkruː] 美[əˈkruː]
+%v. （利益、好处等）产生，形成；（钱不断地）积累，增加；准备累算偿付
+    accrue benefits from
+#由……得到好处
+    accrued interest
+#应计利息
+    Great benefits accrue to society as a result of education.
+#教育的结果使社会受益无穷。
+
+jug: 英[dʒʌɡ] 美[dʒʌɡ]
+$n. <英>（有柄有嘴的）壶，罐；<美> （细口带柄的）大罐；一壶，一罐（的量）；<非正式>监狱（the jug）；<俚>（女子的）乳房（jugs）；（登山时凿入山岩中的）攀手（=jug handle）
+%v. （用罐闷）煮，炖（兔肉）；<美，非正式>起诉并监禁；模仿夜莺叫；放入壶中
+    a water jug
+#水壶
+    a jug of wine
+#一壶酒
+    in the jug three times
+#坐过三次牢
+    She put a jug of water on the table.
+#她把一壶水放在桌子上。
+
+august: 英[ɔːˈɡʌst] 美[ɔːˈɡʌst]
+$adj. 威严的，令人敬畏的
+%n. 八月（August）
+    an august-looking judge
+#相貌威严的法官
+    The society's august patron gave a speech at the annual dinner.
+#协会里受人敬重的赞助人在周年庆宴会上致了辞。
+
+frisk: 英[frɪsk] 美[frɪsk]
+$v. 搜（某人的）身；（动物）蹦跳，欢跃，轻摇
+$n. 搜（某人的）身；（动物）蹦跳，欢跃；嬉戏；转移，消遣
+%n. （Frisk）（美、瑞典、丹）弗里斯克（人名）
+    frisk a fan
+#轻快地挥动扇子
+    frisk sb. for a weapon.
+#为查武器对某人搜身
+    frisk sb. of his wallet
+#扒窃某人的钱包
+    The postcard had a lovely picture of lambs frisking in the fields.
+#明信片上有一幅小羊盖在田野里欢跃的可爱图画。
+
+fleece: 英[fliːs] 美[fliːs]
+$n. 羊毛，（一只羊一次剪下的）毛；羊毛状衬里；羊毛状织物上衣（或其他衣服）；（纹章）挂在环形饰物上的羊毛状装饰
+%v. 敲诈，骗取钱财； 给（羊）剪（羊毛）；<文>（用羊毛状物）覆盖
+    fleece a sheep
+#剪羊毛
+    one's fleece of hair
+#某人柔软的头发
+    fleece sb. of his money
+#诈取某人的钱;
+    a sky fleeced with white clouds
+#白云朵朵的天空
+    The restaurant really fleeced us!
+#那家饭店完全把我们给敲诈了!
+
+homely: 英[ˈhəʊmli] 美[ˈhoʊmli]
+%adj. 普通的，朴实无华的；相貌平平的；像家一样舒适的；（女子）热情亲切的，家庭主妇型的
+    homely food
+#家常食物
+    explain the problem in homely terms
+#用浅显的话语解释问题
+    a homely and motherly teacher
+#为人质朴、犹如慈母的老师
+    a homely girl
+#其貌不扬的姑娘
+    We were welcomed by a homely lady who said she was the caretaker.
+#一位朴实的女士迎接了我们并说她是看管人。
+
+disparity: 英[dɪˈspærəti] 美[dɪˈspærəti]
+%n. 明显差异
+    the wide disparity between rich and poor
+#贫富悬殊
+    In the competition there was a huge disparity between the best and the worst performances.
+#比赛中最好和最坏的表演之间相差悬殊。
+
+unassuming: 英[ˌʌnəˈsjuːmɪŋ] 美[ˌʌnəˈsuːmɪŋ]
+%adj. 谦逊的；不装腔作势的；不出风头的
+    an unassuming manner
+#谦逊的态度
+    He was a man of few words, very polite and unassuming.
+#他话不多，很有礼貌，为人谦和。
+
+forfeiture: 英[ˈfɔːfɪtʃə(r)] 美[ˈfɔːrfɪtʃər]
+%n. （财产等的）没收；（权利、名誉等的）丧失
+    He was deep in debt and faced with forfeiture of his property.
+#他负债累累，面临财产被没收的境地。
+
+grumpy: 英[ˈɡrʌmpi] 美[ˈɡrʌmpi]
+$adj. 脾气坏的，爱抱怨的
+%n. 脾气坏的人
+    The shopkeeper was a grumpy and rather unfriendly man.
+#那个店主是个坏牌气的、很不友好的人。
+
+impeach: 英[ɪmˈpiːtʃ] 美[ɪmˈpiːtʃ]
+$vt. 弹劾；归咎；怀疑
+%n. 控告，检举；弹劾；怀疑
+    impeach sb. with/of a crime
+#控告某人犯罪
+    be impeached for treason
+#被控犯有叛国罪
+    impeach one's motives
+#怀疑某人的动机
+    Elected officials can be impeached.
+#民选的官员可能受到弹劾。
+
+dexterity: 英[dekˈsterəti] 美[dekˈsterəti]
+%n. 灵巧；敏捷；机敏
+    dexterity with the pen
+#文思敏捷
+    With all the dexterity of a politician, he answered the journalists' questions to his own advantage.
+#他以一个政客所有的敏捷才思，以对自己有利的方式回答了记者们对他的提问。
+
+foreword: 英[ˈfɔːwɜːd] 美[ˈfɔːrwɜːrd]
+%n. 序；前言
+    The book has a foreword by the president.
+#那本书有总统作的序。
+
+crimp: 英[krɪmp] 美[krɪmp]
+$v. 烫发，使卷曲；使有褶；阻碍……的发展；将金属压弯；用压合法连接（电线等）
+%n. 卷发，波浪形；皱褶；抑制，束缚；压合连接器
+    a face crimped by the weather
+#饱经风霜而布满皱纹的脸
+    crimp production
+#阻碍生产
+    put a crimp in/on
+#阻碍，束缚
+    Her head was covered with crimps.
+#她满头鬈发。
+
+pacify: 英[ˈpæsɪfaɪ] 美[ˈpæsɪfaɪ]
+%vt. 使平静；安慰；平定
+    pacify the quarreling children
+#使争吵的孩子们安静下来
+    pacify a crying baby
+#哄啼哭的婴儿
+    pacify the commotion
+#平息叛乱
+    A UN force has been sent in to try and pacify the area affected by the civil war.
+#联合已派去一支部队设法稳定受内战之苦的地区。
+
+synopsis: 英[sɪˈnɒpsɪs] 美[sɪˈnɑːpsɪs]
+%n. （书、剧本或电影等的）概要，摘要，梗概；提要，概要
+    a synopsis of the week's news
+#一周新闻提要
+    I haven't seen any of the previous episodes, so you'll have to give me a brief synopsis.
+#我没有看过前面几集，所以你得给我介绍一下剧情概要。
+
+airtight: 英[ˈeətaɪt] 美[ˈertaɪt]
+%adj. 密闭的，密封的；无懈可击的
+    airtight evidence
+#无懈可击的铁证
+    an airtight argument
+#天衣无缝的论据
+    Biscuits will stay crisp if you keep them in an airtight tin.
+#如果你把饼干放到一个密封的铁罐里，它们就会保持松脆。
+
+soggy: 英[ˈsɒɡi] 美[ˈsɑːɡi]
+%adj. 浸水的；透湿的；沉闷的
+    the soggy summer
+#潮湿的夏季
+    a soggy cigarette
+#受潮的香烟
+    soggy bread
+#未烤透的面包
+    a soggy conversation
+#沉闷的谈话
+    a soggy story
+#乏味故事
+    I dropped my magazine in the bath and now it's all soggy.
+#我把杂志掉进了浴缸中，现在它全湿透了。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

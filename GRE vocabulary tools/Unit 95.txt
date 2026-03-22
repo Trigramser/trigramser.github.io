@@ -1,0 +1,785 @@
+<<<<<<< HEAD
+obliterate: 英[əˈblɪtəreɪt] 美[əˈblɪtəreɪt]
+%v. 消灭，摧毁；涂抹，遮蔽；(从头脑中) 抹掉；盖销（尤指邮票）
+    obliterate all footprints
+#冲刷掉所有的脚印
+    obliterate the memory of one's former disgrace
+#忘掉往日的羞辱
+    obliterate one's error
+#忘却错误
+    Clouds were darkening, obliterating the sun.
+#乌云低垂，遮住了太阳。
+
+extrapolate: 英[ɪkˈstræpəleɪt] 美[ɪkˈstræpəleɪt]
+$vt. 外推；推断
+%vi. 外推；进行推断
+    extrapolate future energy demands
+#推断未来能源的需求
+    extrapolate sales figures for next year from those of the preceding years
+#从前几年的销售数字推断下一年的销售量
+    Science fiction writers often extrapolate the future from today's trends.
+#科幻小说作家常根据今天的趋势对未来进行推断。
+
+hive: 英[haɪv] 美[haɪv]
+$n. 忙碌的场所，繁忙的地方；蜂房，蜂箱；蜂群；蜂窝状物体
+%v. （蜜蜂）入蜂箱
+    a hive of activity/industry
+#人们忙碌的地方
+    hive away some money
+#存起一些钱
+    There are several hives at the end of our garden.
+#在我们花园的尽头有一些蜂窝。
+
+candid: 英[ˈkændɪd] 美[ˈkændɪd]
+%adj. 坦率的，直言不讳的；抓拍的，偷拍的；公正的
+    to be candid with you
+#说实话
+    a candid criticism
+#直率的批评
+    a candid observer
+#不偏不倚的观察者
+    candid flames
+#白色的火焰
+    The two presidents have had candid talks about the current crisis.
+#两位总统就现在的危机进行了坦率的交流。
+
+glacial: 英[ˈɡleɪʃ(ə)l] 美[ˈɡleɪʃ(ə)l]
+%adj. 冰的；冰冷的；冰河时代的
+    a glacial coast
+#冰川海岸
+    a glacial wind
+#寒风
+    a glacial handshake
+#冷冰冰的握手
+    a distant glacial manner
+#冷漠的态度
+    give a glacial smile
+#冷淡的一笑
+    Two-thirds of the continent was covered in ice during glacial periods.
+#在冰河期，有三分之二的陆地被冰覆盖。
+
+ongoing: 英[ˈɒnɡəʊɪŋ] 美[ˈɑːnɡoʊɪŋ]
+%adj. 持续存在的，仍在进行的，不断发展的
+    No agreement has yet been reached and the negotiations are still ongoing.
+#还没有达成任何协议，谈判仍在进行。
+
+vibrant: 英[ˈvaɪbrənt] 美[ˈvaɪbrənt]
+%adj. 充满活力的，充满生机的，生气勃勃的；鲜艳的，醒目的；洪亮的，强劲的；颤抖的，震动的
+    vibrant strings
+#颤动的琴弦
+    a vibrant voice
+#响亮的嗓音
+    a city vibrant with life
+#生机勃勃的城市
+    a vibrant scene of village life
+#一幕生机然的乡村生活场景
+    He kept his cellphone in vibrant mode.
+#他将手机调为振动模式。
+
+thwart: 英[θwɔːt] 美[θwɔːrt]
+$v. 反对，阻挠，挫败；横过
+$n. （划艇上的）横坐板
+$adv. <古，文>横跨（地）
+$prep. <古，文>横跨（地）
+%adj. 横放的；固执的
+    My holiday plans have been thwarted by the bad weather.
+#我的度假计划因坏天气而受挫。
+
+disparate: 英[ˈdɪspərət] 美[ˈdɪspərət]
+$adj. 迥然不同的，无法比较的；多元的
+%n. 全异的东西，无法相比较的东西
+    Scientists are trying to pull together disparate ideas in astronomy.
+#科学家正试图把天文学界各种迥然不同的观点汇集起来。
+
+squander: 英[ˈskwɒndə(r)] 美[ˈskwɑːndər]
+$v. 浪费，挥霍（金钱、时间等）；失去（机会）；（使）分散
+%n. 浪费
+    squander natural resources
+#浪费自然资源
+    squander one's earnings on drink
+#把挣的钱花在喝酒上
+    He often squandered, but he never gave.
+#他常常大手大脚花钱，但从不施予别人。
+
+jumble: 英[ˈdʒʌmb(ə)l] 美[ˈdʒʌmb(ə)l]
+$n. 混乱；杂乱的一堆东西
+$vi. 混杂；搀杂
+%vt. 使混乱；搞乱
+    jumble memories
+#纷乱的记忆
+    fall into a jumble
+#陷入混乱
+    His toys, books, shoes and clothes were all jumbled up together in the cupboard.
+#他的玩具、书籍、鞋子和衣服都乱堆在橱柜里。
+
+nonverbal: 英[nɒnˈvɜːbəl] 美[ˌnɑːnˈvɜːrbl]
+%adj. 不使用语言的，非言语的；不能说话的
+    a nonverbal child
+#语言表达能力尚差的孩子;
+    nonverbal communication
+#非语言交际
+    Art, like gesture, is a form of nonverbal expression.
+#艺术同手势一样，是一种非语言的表达方式。
+
+revitalise(revitalize): 英[riːˈvaɪtəlaɪz] 美[ˌriːˈvaɪtəlaɪz]
+%vt. 使有新的活力；使新生（等于 revitalize）
+    Chinese investment has revitalized the country's mining industry.
+#中国的投资给这个国家的采矿工业注人了新的活力。
+
+flamboyant: 英[flæmˈbɔɪənt] 美[flæmˈbɔɪənt]
+$adj. 艳丽的；火焰似的；炫耀的
+%n. 凤凰木
+    a flamboyant speech
+#浮夸的演说
+    have a flamboyant taste in clothes
+#爱好奢华的服装
+    a flamboyant orange shirt
+#鲜艳的橙红色衬衫
+    With a flamboyant gesture he threw off the covering to reveal the new statue.
+#他炫耀而自负地揭掉覆盖物，让新的塑像露出来。
+
+fortuitous: 英[fɔːˈtjuːɪtəs] 美[fɔːrˈtuːɪtəs]
+%adj. 偶然的，意外的；幸运的
+    a fortuitous encounter
+#邂逅
+    a fortuitous find
+#偶然的发现
+    Our meeting was quite fortuitous.
+#我们的相会完全是偶然的。
+
+noted: 英[ˈnəʊtɪd] 美[ˈnoʊtɪd]
+$adj. 著名的，有名的
+%v. 注意，留意；指出，特别提到；记录（note 的过去式和过去分词）
+    a noted scholar
+#著名学者
+    a town noted for its pottery
+#以陶器著称的小镇
+    The island is noted as a summer resort.
+#这个岛以避暑胜地著称。
+
+embellish: 英[ɪmˈbelɪʃ] 美[ɪmˈbelɪʃ]
+$vt. 修饰；装饰；润色
+%vi. 装饰起来；加以润色
+    a speech embellished with amusing anecdotes
+#添加一些趣闻轶事的演说
+    She had her bedroom embellished.
+#她把卧室布置起来。
+
+unbridgeable: 英[ʌnˈbrɪdʒəb(ə)l] 美[ʌnˈbrɪdʒəb(ə)l]
+%adj. （分歧、差异）无法弥合的
+    an unbridgeable mountain stream
+#难以架桥的山涧
+    an unbridgeable gap
+#不可弥补的鸿沟
+    They had unbridgeable differences.
+#他们有不可调和的分歧。
+
+infiltrate: 英[ˈɪnfɪltreɪt] 美[ˈɪnfɪltreɪt]
+$v. （尤指为获取秘密情报而）渗透，渗入（组织、场所等）；（肿瘤、细胞等）浸润（组织，器官）；（液体）渗入；（某种特性缓慢地）透入，渗透
+%n. （医学）浸润物
+    infiltrate into the enemy country
+#混入敌国
+    infiltrate into a closely-knit organization
+#打人一个严密的组织中
+    They infiltrated some of the troops into enemy territory.
+#他们派了一些部队渗入敌方领土。
+
+empiricism: 英[ɪmˈpɪrɪsɪzəm] 美[ɪmˈpɪrɪsɪzəm]
+%n. 经验主义；经验论
+    Logical empiricism was not widely embraced in the United States.
+#逻辑经验主义在美国没有被广泛接受。
+
+squirt: 英[skwɜːt] 美[skwɜːrt]
+$v. （使）（液体）喷射，喷涌；（用液体或气体）向……喷射，把……喷湿；高密度传递（信息），快速传递（信息）；（物体）突然不定向地移动
+%n. 喷，喷射；喷射的液体，细的喷流；喷嘴；高速传输的压缩无线电信号；<非正式>小毛孩子，无足轻重的人，妄自尊大的（年轻）人
+    squirt a little oil into a lock
+#往锁里喷一点油
+    a little bit of a squirt
+#有点夜郎自大
+    The elephant squirted him with its trunk.
+#大象用鼻子朝他喷水。
+
+perpendicular: 英[ˌpɜːpənˈdɪkjələ(r)] 美[ˌpɜːrpənˈdɪkjələr]
+$adj. 垂直的，直立的，成直角的；（14、15世纪英格兰教堂）垂直式装饰风格的；（带斜面的物体）陡峭的，陡立的
+%n. 垂线，垂直线，垂直姿态
+    the perpendicular height
+#垂直高度
+    a perpendicular rise in prices
+#价格的直线上升
+    be on/out of the perpendicular
+#垂直/不垂直
+    a perpendicular line
+#垂线
+    He's drunk so much he found it hard to remain perpendicular.
+#他喝得太多，简直站都站不直了。
+
+mischievous: 英[ˈmɪstʃɪvəs] 美[ˈmɪstʃɪvəs]
+%adj. 淘气的，恶作剧的；（行为，事情）有害的，恶意中伤的
+    He has long blond hair and mischievous blue eyes.
+#他有一头长长的金发和一双淘气的蓝眼睛。
+
+recital: 英[rɪˈsaɪt(ə)l] 美[rɪˈsaɪt(ə)l]
+%n. 朗诵，吟诵；独奏会；背诵；独唱会
+    a recital of a poem
+#一首诗的朗诵
+    a recital of one's troubles
+#对自己遇到的麻烦的叙述
+    a piano recital
+#钢琴独奏会
+    a Chopin recital
+#肖邦作品独奏会
+    She gave a colorful recital of a night on the grassland.
+#她绘声绘色地描述了在草原上的一夜。
+
+dormant: 英[ˈdɔːmənt] 美[ˈdɔːrmənt]
+%adj. （动物）冬眠的，（似）在深睡的；（植物或芽）休眠的；（火山）暂时不活动的，静止的；（疾病）潜伏期的；（纹章）（动物）卧睡的
+    be dormant in winter
+#冬季冬眠
+    a dormant volcano
+#休眠火山
+    be dormant for the time being
+#被暂时搁置
+    dormant talent
+#潜在的才能
+    a lion dormant
+#卧狮
+    Seeds remain dormant in the earth during winter.
+#在冬天，种子在泥土中休眠。
+
+balm: 英[bɑːm] 美[bɑːm]
+%n. 香油；镇痛软膏；香峰草，香树膏
+    put some balm on the sunburn
+#在晒斑上涂些油膏
+    the balm of friendship
+#友谊的慰藉
+    the balm of orange blossom
+#香橙花的香味
+    The soothing music was balm for the jangled nerves.
+#轻柔动听的音乐对错乱的神经起着镇定作用。
+
+farce: 英[fɑːs] 美[fɑːrs]
+%n. 荒唐的事情，闹剧；滑稽戏（剧本），闹剧（剧本）
+    change from farce to tragedy
+#从闹剧变成悲剧
+
+assail: 英[əˈseɪl] 美[əˈseɪl]
+%vt. 攻击；质问；着手解决
+    be assailed with insults and abuse
+#遭到侮辱和漫骂
+    be assailed with awkward questions
+#受到尴尬问题的困扰
+    be assailed with repeated blows on the head
+#头上受到反复击打
+    After her disappointing exam results, Chris was assailed by worries about her career.
+#由于考试成绩不理想，克丽丝对自己的前途忧心忡忡。
+
+perspective: 英[pəˈspektɪv] 美[pərˈspektɪv]
+$n. （观察问题的）视角，观点；透视（画）法；（几何）透视关系，投影比例；洞察力，判断力；景观，远景；角度；（声音）立体效果
+%adj. 透视的
+    in perspective
+#用透视法，关系恰当地
+    out of perspective
+#不用透视法，关系失当地
+    get……into perspective
+#关系恰当地对待，摆正……的位置
+    From the top of the building, you can have a perspective of the entire city.
+#从大楼顶部你可以眺望全城。
+
+oblivious: 英[əˈblɪviəs] 美[əˈblɪviəs]
+%adj. 不在意的，未觉察到的；遗忘的，健忘的
+    be oblivious of past slights
+#忘记过去的怠慢
+    oblivious old age
+#健忘的老年
+    be totally oblivious to
+#完全忘记
+    He seemed oblivious to how far they were walking.
+#他似乎不觉得他们已经走得多远了。
+
+forbear: 英[fɔːˈbeə(r)] 美[fɔːrˈber]
+$vt. 忍耐；克制
+$vi. 忍耐；克制
+%n. 祖先
+    forbear from alcohol
+#戒酒
+    forbear (from) laughing
+#忍住不笑
+    forbear with each other
+#相互宽容
+    She could not forbear from commenting on any happening.
+#她对任何事情都禁不住要品头论足一番。
+
+eminence: 英[ˈemɪnəns] 美[ˈemɪnəns]
+%n. （尤指在某领域或职业中）著名，卓越；名人，权威人士；阁下，大人（对天主教红衣主教的尊称）；高地，山丘；隆凸，隆起
+    win/achieve eminence as a painter
+#成为著名画家
+    have/occupy a position of great eminence in the political world
+#在政界身居要职
+    a man of some local eminence
+#在当地小有名气
+    He looked at the distant horizon from an eminence overlooking the sea.
+#他站在一处俯瞰大海的高地，跳望遥远的天际。
+
+participation: 英[pɑːˌtɪsɪˈpeɪʃn] 美[pɑːrˌtɪsɪˈpeɪʃ(ə)n]
+%n. 参加，参与
+    active participation
+#积极参与
+
+collaborate: 英[kəˈlæbəreɪt] 美[kəˈlæbəreɪt]
+%v. 合作，协作；勾结，通敌
+    collaborate in writing a book
+#合作编写一本书
+    collaborate with sb. on the project
+#合作接项目
+    A German company collaborated with a Chinese firm to develop the product.
+#一家德国公司和一家中国企业联合来开发这个产品。
+
+molecular: 英[məˈlekjələ(r)] 美[məˈlekjələr]
+%adj. 分子的，与分子有关的
+    He specializes in molecular biology.
+#他专门从事分子生物学的研究。
+
+infuriate: 英[ɪnˈfjʊərieɪt] 美[ɪnˈfjʊrieɪt]
+$v. 激怒，使大怒
+%adj. 狂怒的
+    His arrogance infuriates me.
+#他的傲慢使我大为恼火。
+
+abolition: 英[ˌæbəˈlɪʃ(ə)n] 美[ˌæbəˈlɪʃ(ə)n]
+%n. （法律、制度、习俗等的）废除，废止；（特指）奴隶制的废除
+    the abolition of unfair taxes
+#废除不合理的税收
+    They campaigned for the abolition of slavery in the late 18th and early 19th century.
+#他们在18世纪末和19世纪初为废除奴隶制而战。
+
+philosophical: 英[ˌfɪləˈsɒfɪk(ə)l] 美[ˌfɪləˈsɑːfɪk(ə)l]
+%adj. 哲学的；达观的，处乱不惊的
+    philosophical writing
+#哲学著作
+    philosophical medication
+#哲学思辨
+    a philosophical society
+#哲学学会
+    a philosophical essay
+#哲学论文
+    a philosophical father
+#豁达的父亲
+    disturb one's philosophical tranquility
+#搅乱某人豁达宁静的心境
+    They always get into lengthy philosophical debates about morality and such like.
+#他们总是进行长时间的关于诸如道德之类的哲学辩论。
+
+antipathy: 英[ænˈtɪpəθi] 美[ænˈtɪpəθi]
+%n. 反感；厌恶；憎恶；不相容
+    show a marked antipathy against
+#对……表现出明显的反感
+    one's antipathy for hypocrisy
+#对虚伪的厌恶
+    Despite the deep antipathies between them, they have managed to negotiate an agreement.
+#尽管他们之间芥蒂很深，双方还是设法谈成了一项协议。
+
+carnivorous: 英[kɑːˈnɪvərəs] 美[kɑːrˈnɪvərəs]
+%adj. 食肉的；肉食性的
+    Lions and tigers are carnivorous.
+#狮子和老虎是吃肉的。
+
+diverge: 英[daɪˈvɜːdʒ] 美[daɪˈvɜːrdʒ]
+%v. 相异，出现分歧；岔开，分开；  分化，偏离；使偏离，使分叉；（数）发散
+    rays that diverge from a central point
+#自中心向外散射的光线
+    We suddenly realized that the course the ship was taking diverged widely from our intended route.
+#我们突然意识到，船航行的路线与我们既定的路线岔开很远。
+
+=======
+obliterate: 英[əˈblɪtəreɪt] 美[əˈblɪtəreɪt]
+%v. 消灭，摧毁；涂抹，遮蔽；(从头脑中) 抹掉；盖销（尤指邮票）
+    obliterate all footprints
+#冲刷掉所有的脚印
+    obliterate the memory of one's former disgrace
+#忘掉往日的羞辱
+    obliterate one's error
+#忘却错误
+    Clouds were darkening, obliterating the sun.
+#乌云低垂，遮住了太阳。
+
+extrapolate: 英[ɪkˈstræpəleɪt] 美[ɪkˈstræpəleɪt]
+$vt. 外推；推断
+%vi. 外推；进行推断
+    extrapolate future energy demands
+#推断未来能源的需求
+    extrapolate sales figures for next year from those of the preceding years
+#从前几年的销售数字推断下一年的销售量
+    Science fiction writers often extrapolate the future from today's trends.
+#科幻小说作家常根据今天的趋势对未来进行推断。
+
+hive: 英[haɪv] 美[haɪv]
+$n. 忙碌的场所，繁忙的地方；蜂房，蜂箱；蜂群；蜂窝状物体
+%v. （蜜蜂）入蜂箱
+    a hive of activity/industry
+#人们忙碌的地方
+    hive away some money
+#存起一些钱
+    There are several hives at the end of our garden.
+#在我们花园的尽头有一些蜂窝。
+
+candid: 英[ˈkændɪd] 美[ˈkændɪd]
+%adj. 坦率的，直言不讳的；抓拍的，偷拍的；公正的
+    to be candid with you
+#说实话
+    a candid criticism
+#直率的批评
+    a candid observer
+#不偏不倚的观察者
+    candid flames
+#白色的火焰
+    The two presidents have had candid talks about the current crisis.
+#两位总统就现在的危机进行了坦率的交流。
+
+glacial: 英[ˈɡleɪʃ(ə)l] 美[ˈɡleɪʃ(ə)l]
+%adj. 冰的；冰冷的；冰河时代的
+    a glacial coast
+#冰川海岸
+    a glacial wind
+#寒风
+    a glacial handshake
+#冷冰冰的握手
+    a distant glacial manner
+#冷漠的态度
+    give a glacial smile
+#冷淡的一笑
+    Two-thirds of the continent was covered in ice during glacial periods.
+#在冰河期，有三分之二的陆地被冰覆盖。
+
+ongoing: 英[ˈɒnɡəʊɪŋ] 美[ˈɑːnɡoʊɪŋ]
+%adj. 持续存在的，仍在进行的，不断发展的
+    No agreement has yet been reached and the negotiations are still ongoing.
+#还没有达成任何协议，谈判仍在进行。
+
+vibrant: 英[ˈvaɪbrənt] 美[ˈvaɪbrənt]
+%adj. 充满活力的，充满生机的，生气勃勃的；鲜艳的，醒目的；洪亮的，强劲的；颤抖的，震动的
+    vibrant strings
+#颤动的琴弦
+    a vibrant voice
+#响亮的嗓音
+    a city vibrant with life
+#生机勃勃的城市
+    a vibrant scene of village life
+#一幕生机然的乡村生活场景
+    He kept his cellphone in vibrant mode.
+#他将手机调为振动模式。
+
+thwart: 英[θwɔːt] 美[θwɔːrt]
+$v. 反对，阻挠，挫败；横过
+$n. （划艇上的）横坐板
+$adv. <古，文>横跨（地）
+$prep. <古，文>横跨（地）
+%adj. 横放的；固执的
+    My holiday plans have been thwarted by the bad weather.
+#我的度假计划因坏天气而受挫。
+
+disparate: 英[ˈdɪspərət] 美[ˈdɪspərət]
+$adj. 迥然不同的，无法比较的；多元的
+%n. 全异的东西，无法相比较的东西
+    Scientists are trying to pull together disparate ideas in astronomy.
+#科学家正试图把天文学界各种迥然不同的观点汇集起来。
+
+squander: 英[ˈskwɒndə(r)] 美[ˈskwɑːndər]
+$v. 浪费，挥霍（金钱、时间等）；失去（机会）；（使）分散
+%n. 浪费
+    squander natural resources
+#浪费自然资源
+    squander one's earnings on drink
+#把挣的钱花在喝酒上
+    He often squandered, but he never gave.
+#他常常大手大脚花钱，但从不施予别人。
+
+jumble: 英[ˈdʒʌmb(ə)l] 美[ˈdʒʌmb(ə)l]
+$n. 混乱；杂乱的一堆东西
+$vi. 混杂；搀杂
+%vt. 使混乱；搞乱
+    jumble memories
+#纷乱的记忆
+    fall into a jumble
+#陷入混乱
+    His toys, books, shoes and clothes were all jumbled up together in the cupboard.
+#他的玩具、书籍、鞋子和衣服都乱堆在橱柜里。
+
+nonverbal: 英[nɒnˈvɜːbəl] 美[ˌnɑːnˈvɜːrbl]
+%adj. 不使用语言的，非言语的；不能说话的
+    a nonverbal child
+#语言表达能力尚差的孩子;
+    nonverbal communication
+#非语言交际
+    Art, like gesture, is a form of nonverbal expression.
+#艺术同手势一样，是一种非语言的表达方式。
+
+revitalise(revitalize): 英[riːˈvaɪtəlaɪz] 美[ˌriːˈvaɪtəlaɪz]
+%vt. 使有新的活力；使新生（等于 revitalize）
+    Chinese investment has revitalized the country's mining industry.
+#中国的投资给这个国家的采矿工业注人了新的活力。
+
+flamboyant: 英[flæmˈbɔɪənt] 美[flæmˈbɔɪənt]
+$adj. 艳丽的；火焰似的；炫耀的
+%n. 凤凰木
+    a flamboyant speech
+#浮夸的演说
+    have a flamboyant taste in clothes
+#爱好奢华的服装
+    a flamboyant orange shirt
+#鲜艳的橙红色衬衫
+    With a flamboyant gesture he threw off the covering to reveal the new statue.
+#他炫耀而自负地揭掉覆盖物，让新的塑像露出来。
+
+fortuitous: 英[fɔːˈtjuːɪtəs] 美[fɔːrˈtuːɪtəs]
+%adj. 偶然的，意外的；幸运的
+    a fortuitous encounter
+#邂逅
+    a fortuitous find
+#偶然的发现
+    Our meeting was quite fortuitous.
+#我们的相会完全是偶然的。
+
+noted: 英[ˈnəʊtɪd] 美[ˈnoʊtɪd]
+$adj. 著名的，有名的
+%v. 注意，留意；指出，特别提到；记录（note 的过去式和过去分词）
+    a noted scholar
+#著名学者
+    a town noted for its pottery
+#以陶器著称的小镇
+    The island is noted as a summer resort.
+#这个岛以避暑胜地著称。
+
+embellish: 英[ɪmˈbelɪʃ] 美[ɪmˈbelɪʃ]
+$vt. 修饰；装饰；润色
+%vi. 装饰起来；加以润色
+    a speech embellished with amusing anecdotes
+#添加一些趣闻轶事的演说
+    She had her bedroom embellished.
+#她把卧室布置起来。
+
+unbridgeable: 英[ʌnˈbrɪdʒəb(ə)l] 美[ʌnˈbrɪdʒəb(ə)l]
+%adj. （分歧、差异）无法弥合的
+    an unbridgeable mountain stream
+#难以架桥的山涧
+    an unbridgeable gap
+#不可弥补的鸿沟
+    They had unbridgeable differences.
+#他们有不可调和的分歧。
+
+infiltrate: 英[ˈɪnfɪltreɪt] 美[ˈɪnfɪltreɪt]
+$v. （尤指为获取秘密情报而）渗透，渗入（组织、场所等）；（肿瘤、细胞等）浸润（组织，器官）；（液体）渗入；（某种特性缓慢地）透入，渗透
+%n. （医学）浸润物
+    infiltrate into the enemy country
+#混入敌国
+    infiltrate into a closely-knit organization
+#打人一个严密的组织中
+    They infiltrated some of the troops into enemy territory.
+#他们派了一些部队渗入敌方领土。
+
+empiricism: 英[ɪmˈpɪrɪsɪzəm] 美[ɪmˈpɪrɪsɪzəm]
+%n. 经验主义；经验论
+    Logical empiricism was not widely embraced in the United States.
+#逻辑经验主义在美国没有被广泛接受。
+
+squirt: 英[skwɜːt] 美[skwɜːrt]
+$v. （使）（液体）喷射，喷涌；（用液体或气体）向……喷射，把……喷湿；高密度传递（信息），快速传递（信息）；（物体）突然不定向地移动
+%n. 喷，喷射；喷射的液体，细的喷流；喷嘴；高速传输的压缩无线电信号；<非正式>小毛孩子，无足轻重的人，妄自尊大的（年轻）人
+    squirt a little oil into a lock
+#往锁里喷一点油
+    a little bit of a squirt
+#有点夜郎自大
+    The elephant squirted him with its trunk.
+#大象用鼻子朝他喷水。
+
+perpendicular: 英[ˌpɜːpənˈdɪkjələ(r)] 美[ˌpɜːrpənˈdɪkjələr]
+$adj. 垂直的，直立的，成直角的；（14、15世纪英格兰教堂）垂直式装饰风格的；（带斜面的物体）陡峭的，陡立的
+%n. 垂线，垂直线，垂直姿态
+    the perpendicular height
+#垂直高度
+    a perpendicular rise in prices
+#价格的直线上升
+    be on/out of the perpendicular
+#垂直/不垂直
+    a perpendicular line
+#垂线
+    He's drunk so much he found it hard to remain perpendicular.
+#他喝得太多，简直站都站不直了。
+
+mischievous: 英[ˈmɪstʃɪvəs] 美[ˈmɪstʃɪvəs]
+%adj. 淘气的，恶作剧的；（行为，事情）有害的，恶意中伤的
+    He has long blond hair and mischievous blue eyes.
+#他有一头长长的金发和一双淘气的蓝眼睛。
+
+recital: 英[rɪˈsaɪt(ə)l] 美[rɪˈsaɪt(ə)l]
+%n. 朗诵，吟诵；独奏会；背诵；独唱会
+    a recital of a poem
+#一首诗的朗诵
+    a recital of one's troubles
+#对自己遇到的麻烦的叙述
+    a piano recital
+#钢琴独奏会
+    a Chopin recital
+#肖邦作品独奏会
+    She gave a colorful recital of a night on the grassland.
+#她绘声绘色地描述了在草原上的一夜。
+
+dormant: 英[ˈdɔːmənt] 美[ˈdɔːrmənt]
+%adj. （动物）冬眠的，（似）在深睡的；（植物或芽）休眠的；（火山）暂时不活动的，静止的；（疾病）潜伏期的；（纹章）（动物）卧睡的
+    be dormant in winter
+#冬季冬眠
+    a dormant volcano
+#休眠火山
+    be dormant for the time being
+#被暂时搁置
+    dormant talent
+#潜在的才能
+    a lion dormant
+#卧狮
+    Seeds remain dormant in the earth during winter.
+#在冬天，种子在泥土中休眠。
+
+balm: 英[bɑːm] 美[bɑːm]
+%n. 香油；镇痛软膏；香峰草，香树膏
+    put some balm on the sunburn
+#在晒斑上涂些油膏
+    the balm of friendship
+#友谊的慰藉
+    the balm of orange blossom
+#香橙花的香味
+    The soothing music was balm for the jangled nerves.
+#轻柔动听的音乐对错乱的神经起着镇定作用。
+
+farce: 英[fɑːs] 美[fɑːrs]
+%n. 荒唐的事情，闹剧；滑稽戏（剧本），闹剧（剧本）
+    change from farce to tragedy
+#从闹剧变成悲剧
+
+assail: 英[əˈseɪl] 美[əˈseɪl]
+%vt. 攻击；质问；着手解决
+    be assailed with insults and abuse
+#遭到侮辱和漫骂
+    be assailed with awkward questions
+#受到尴尬问题的困扰
+    be assailed with repeated blows on the head
+#头上受到反复击打
+    After her disappointing exam results, Chris was assailed by worries about her career.
+#由于考试成绩不理想，克丽丝对自己的前途忧心忡忡。
+
+perspective: 英[pəˈspektɪv] 美[pərˈspektɪv]
+$n. （观察问题的）视角，观点；透视（画）法；（几何）透视关系，投影比例；洞察力，判断力；景观，远景；角度；（声音）立体效果
+%adj. 透视的
+    in perspective
+#用透视法，关系恰当地
+    out of perspective
+#不用透视法，关系失当地
+    get……into perspective
+#关系恰当地对待，摆正……的位置
+    From the top of the building, you can have a perspective of the entire city.
+#从大楼顶部你可以眺望全城。
+
+oblivious: 英[əˈblɪviəs] 美[əˈblɪviəs]
+%adj. 不在意的，未觉察到的；遗忘的，健忘的
+    be oblivious of past slights
+#忘记过去的怠慢
+    oblivious old age
+#健忘的老年
+    be totally oblivious to
+#完全忘记
+    He seemed oblivious to how far they were walking.
+#他似乎不觉得他们已经走得多远了。
+
+forbear: 英[fɔːˈbeə(r)] 美[fɔːrˈber]
+$vt. 忍耐；克制
+$vi. 忍耐；克制
+%n. 祖先
+    forbear from alcohol
+#戒酒
+    forbear (from) laughing
+#忍住不笑
+    forbear with each other
+#相互宽容
+    She could not forbear from commenting on any happening.
+#她对任何事情都禁不住要品头论足一番。
+
+eminence: 英[ˈemɪnəns] 美[ˈemɪnəns]
+%n. （尤指在某领域或职业中）著名，卓越；名人，权威人士；阁下，大人（对天主教红衣主教的尊称）；高地，山丘；隆凸，隆起
+    win/achieve eminence as a painter
+#成为著名画家
+    have/occupy a position of great eminence in the political world
+#在政界身居要职
+    a man of some local eminence
+#在当地小有名气
+    He looked at the distant horizon from an eminence overlooking the sea.
+#他站在一处俯瞰大海的高地，跳望遥远的天际。
+
+participation: 英[pɑːˌtɪsɪˈpeɪʃn] 美[pɑːrˌtɪsɪˈpeɪʃ(ə)n]
+%n. 参加，参与
+    active participation
+#积极参与
+
+collaborate: 英[kəˈlæbəreɪt] 美[kəˈlæbəreɪt]
+%v. 合作，协作；勾结，通敌
+    collaborate in writing a book
+#合作编写一本书
+    collaborate with sb. on the project
+#合作接项目
+    A German company collaborated with a Chinese firm to develop the product.
+#一家德国公司和一家中国企业联合来开发这个产品。
+
+molecular: 英[məˈlekjələ(r)] 美[məˈlekjələr]
+%adj. 分子的，与分子有关的
+    He specializes in molecular biology.
+#他专门从事分子生物学的研究。
+
+infuriate: 英[ɪnˈfjʊərieɪt] 美[ɪnˈfjʊrieɪt]
+$v. 激怒，使大怒
+%adj. 狂怒的
+    His arrogance infuriates me.
+#他的傲慢使我大为恼火。
+
+abolition: 英[ˌæbəˈlɪʃ(ə)n] 美[ˌæbəˈlɪʃ(ə)n]
+%n. （法律、制度、习俗等的）废除，废止；（特指）奴隶制的废除
+    the abolition of unfair taxes
+#废除不合理的税收
+    They campaigned for the abolition of slavery in the late 18th and early 19th century.
+#他们在18世纪末和19世纪初为废除奴隶制而战。
+
+philosophical: 英[ˌfɪləˈsɒfɪk(ə)l] 美[ˌfɪləˈsɑːfɪk(ə)l]
+%adj. 哲学的；达观的，处乱不惊的
+    philosophical writing
+#哲学著作
+    philosophical medication
+#哲学思辨
+    a philosophical society
+#哲学学会
+    a philosophical essay
+#哲学论文
+    a philosophical father
+#豁达的父亲
+    disturb one's philosophical tranquility
+#搅乱某人豁达宁静的心境
+    They always get into lengthy philosophical debates about morality and such like.
+#他们总是进行长时间的关于诸如道德之类的哲学辩论。
+
+antipathy: 英[ænˈtɪpəθi] 美[ænˈtɪpəθi]
+%n. 反感；厌恶；憎恶；不相容
+    show a marked antipathy against
+#对……表现出明显的反感
+    one's antipathy for hypocrisy
+#对虚伪的厌恶
+    Despite the deep antipathies between them, they have managed to negotiate an agreement.
+#尽管他们之间芥蒂很深，双方还是设法谈成了一项协议。
+
+carnivorous: 英[kɑːˈnɪvərəs] 美[kɑːrˈnɪvərəs]
+%adj. 食肉的；肉食性的
+    Lions and tigers are carnivorous.
+#狮子和老虎是吃肉的。
+
+diverge: 英[daɪˈvɜːdʒ] 美[daɪˈvɜːrdʒ]
+%v. 相异，出现分歧；岔开，分开；  分化，偏离；使偏离，使分叉；（数）发散
+    rays that diverge from a central point
+#自中心向外散射的光线
+    We suddenly realized that the course the ship was taking diverged widely from our intended route.
+#我们突然意识到，船航行的路线与我们既定的路线岔开很远。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

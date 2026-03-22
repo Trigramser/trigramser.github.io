@@ -1,0 +1,663 @@
+<<<<<<< HEAD
+obliterate:
+    obliterate all footprints
+#冲刷掉所有的脚印
+    obliterate the memory of one's former disgrace
+#忘掉往日的羞辱
+    obliterate one's error
+#忘却错误
+    Clouds were darkening, obliterating the sun.
+#乌云低垂，遮住了太阳。
+
+extrapolate:
+    extrapolate future energy demands
+#推断未来能源的需求
+    extrapolate sales figures for next year from those of the preceding years
+#从前几年的销售数字推断下一年的销售量
+    Science fiction writers often extrapolate the future from today's trends.
+#科幻小说作家常根据今天的趋势对未来进行推断。
+
+hive:
+    a hive of activity/industry
+#人们忙碌的地方
+    hive away some money
+#存起一些钱
+    There are several hives at the end of our garden.
+#在我们花园的尽头有一些蜂窝。
+
+candid:
+    to be candid with you
+#说实话
+    a candid criticism
+#直率的批评
+    a candid observer
+#不偏不倚的观察者
+    candid flames
+#白色的火焰
+    The two presidents have had candid talks about the current crisis.
+#两位总统就现在的危机进行了坦率的交流。
+
+glacial:
+    a glacial coast
+#冰川海岸
+    a glacial wind
+#寒风
+    a glacial handshake
+#冷冰冰的握手
+    a distant glacial manner
+#冷漠的态度
+    give a glacial smile
+#冷淡的一笑
+    Two-thirds of the continent was covered in ice during glacial periods.
+#在冰河期，有三分之二的陆地被冰覆盖。
+
+ongoing:
+    No agreement has yet been reached and the negotiations are still ongoing.
+#还没有达成任何协议，谈判仍在进行。
+
+vibrant:
+    vibrant strings
+#颤动的琴弦
+    a vibrant voice
+#响亮的嗓音
+    a city vibrant with life
+#生机勃勃的城市
+    a vibrant scene of village life
+#一幕生机然的乡村生活场景
+    He kept his cellphone in vibrant mode.
+#他将手机调为振动模式。
+
+thwart:
+    My holiday plans have been thwarted by the bad weather.
+#我的度假计划因坏天气而受挫。
+
+disparate:
+    Scientists are trying to pull together disparate ideas in astronomy.
+#科学家正试图把天文学界各种迥然不同的观点汇集起来。
+
+squander:
+    squander natural resources
+#浪费自然资源
+    squander one's earnings on drink
+#把挣的钱花在喝酒上
+    He often squandered, but he never gave.
+#他常常大手大脚花钱，但从不施予别人。
+
+jumble:
+    jumble memories
+#纷乱的记忆
+    fall into a jumble
+#陷入混乱
+    His toys, books, shoes and clothes were all jumbled up together in the cupboard.
+#他的玩具、书籍、鞋子和衣服都乱堆在橱柜里。
+
+nonverbal:
+    a nonverbal child
+#语言表达能力尚差的孩子;
+    nonverbal communication
+#非语言交际
+    Art, like gesture, is a form of nonverbal expression.
+#艺术同手势一样，是一种非语言的表达方式。
+
+revitalise(revitalize):
+    Chinese investment has revitalized the country's mining industry.
+#中国的投资给这个国家的采矿工业注人了新的活力。
+
+flamboyant:
+    a flamboyant speech
+#浮夸的演说
+    have a flamboyant taste in clothes
+#爱好奢华的服装
+    a flamboyant orange shirt
+#鲜艳的橙红色衬衫
+    With a flamboyant gesture he threw off the covering to reveal the new statue.
+#他炫耀而自负地揭掉覆盖物，让新的塑像露出来。
+
+fortuitous:
+    a fortuitous encounter
+#邂逅
+    a fortuitous find
+#偶然的发现
+    Our meeting was quite fortuitous.
+#我们的相会完全是偶然的。
+
+noted:
+    a noted scholar
+#著名学者
+    a town noted for its pottery
+#以陶器著称的小镇
+    The island is noted as a summer resort.
+#这个岛以避暑胜地著称。
+
+embellish:
+    a speech embellished with amusing anecdotes
+#添加一些趣闻轶事的演说
+    She had her bedroom embellished.
+#她把卧室布置起来。
+
+unbridgeable:
+    an unbridgeable mountain stream
+#难以架桥的山涧
+    an unbridgeable gap
+#不可弥补的鸿沟
+    They had unbridgeable differences.
+#他们有不可调和的分歧。
+
+infiltrate:
+    infiltrate into the enemy country
+#混入敌国
+    infiltrate into a closely-knit organization
+#打人一个严密的组织中
+    They infiltrated some of the troops into enemy territory.
+#他们派了一些部队渗入敌方领土。
+
+empiricism:
+    Logical empiricism was not widely embraced in the United States.
+#逻辑经验主义在美国没有被广泛接受。
+
+squirt:
+    squirt a little 'oil into a lock
+#往锁里喷一点油
+    a little bit of a squirt
+#有点夜郎自大
+    The elephant squirted him with its trunk.
+#大象用鼻子朝他喷水。
+
+perpendicular:
+    the perpendicular height
+#垂直高度
+    a perpendicular rise in prices
+#价格的直线上升
+    be on/out of the perpendicular
+#垂直/不垂直
+    a perpendicular line
+#垂线
+    He's drunk so much he found it hard to remain perpendicular.
+#他喝得太多，简直站都站不直了。
+
+mischievous:
+    He has long blond hair and mischievous blue eyes.
+#他有一头长长的金发和一双淘气的蓝眼睛。
+
+recital:
+    a recital of a poem
+#一首诗的朗诵
+    a recital of one's troubles
+#对自己遇到的麻烦的叙述
+    a piano recital
+#钢琴独奏会
+    a Chopin recital
+#肖邦作品独奏会
+    She gave a colorful recital of a night on the grassland.
+#她绘声绘色地描述了在草原上的一夜。
+
+dormant:
+    be dormant in winter
+#冬季冬眠
+    a dormant volcano
+#休眠火山
+    be dormant for the time being
+#被暂时搁置
+    dormant talent
+#潜在的才能
+    a lion dormant
+#卧狮
+    Seeds remain dormant in the earth during winter.
+#在冬天，种子在泥土中休眠。
+
+balm:
+    put some balm on the sunburn
+#在晒斑上涂些油膏
+    the balm of friendship
+#友谊的慰藉
+    the balm of orange blossom
+#香橙花的香味
+    The soothing music was balm for the jangled nerves.
+#轻柔动听的音乐对错乱的神经起着镇定作用。
+
+farce:
+    change from farce to tragedy
+#从闹剧变成悲剧
+
+assail:
+    be assailed with insults and abuse
+#遭到侮辱和漫骂
+    be assailed with awkward questions
+#受到尴尬问题的困扰
+    be assailed with repeated blows on the head
+#头上受到反复击打
+    After her disappointing exam results, Chris was assailed by worries about her career.
+#由于考试成绩不理想，克丽丝对自己的前途忧心忡忡。
+
+perspective:
+    in perspective
+#用透视法，关系恰当地
+    out of perspective
+#不用透视法，关系失当地
+    get……into perspective
+#关系恰当地对待，摆正……的位置
+    From the top of the building, you can have a perspective of the entire city.
+#从大楼顶部你可以眺望全城。
+
+oblivious:
+    be oblivious of past slights
+#忘记过去的怠慢
+    oblivious old age
+#健忘的老年
+    be totally oblivious to
+#完全忘记
+    He seemed oblivious to how far they were walking.
+#他似乎不觉得他们已经走得多远了。
+
+forbear:
+    forbear from alcohol
+#戒酒
+    forbear (from) laughing
+#忍住不笑
+    forbear with each other
+#相互宽容
+    She could not forbear from commenting on any happening.
+#她对任何事情都禁不住要品头论足一番。
+
+eminence:
+    win/achieve eminence as a painter
+#成为著名画家
+    have/occupy a position of great eminence in the political world
+#在政界身居要职
+    a man of some local eminence
+#在当地小有名气
+    He looked at the distant horizon from an eminence overlooking the sea.
+#他站在一处俯瞰大海的高地，跳望遥远的天际。
+
+participation:
+    active participation
+#积极参与
+
+collaborate:
+    collaborate in writing a book
+#合作编写一本书
+    collaborate with sb. on the project
+#合作接项目
+    A German company collaborated with a Chinese firm to develop the product.
+#一家德国公司和一家中国企业联合来开发这个产品。
+
+molecular:
+    He specializes in molecular biology.
+#他专门从事分子生物学的研究。
+
+infuriate:
+    His arrogance infuriates me.
+#他的傲慢使我大为恼火。
+
+abolition:
+    the abolition of unfair taxes
+#废除不合理的税收
+    They campaigned for the abolition of slavery in the late 18th and early 19th century.
+#他们在18世纪末和19世纪初为废除奴隶制而战。
+
+philosophical:
+    philosophical writing
+#哲学著作
+    philosophical medication
+#哲学思辨
+    a philosophical society
+#哲学学会
+    a philosophical essay
+#哲学论文
+    a philosophical father
+#豁达的父亲
+    disturb one's philosophical tranquility
+#搅乱某人豁达宁静的心境
+    They always get into lengthy philosophical debates about morality and such like.
+#他们总是进行长时间的关于诸如道德之类的哲学辩论。
+
+antipathy:
+    show a marked antipathy against
+#对……表现出明显的反感
+    one's antipathy for hypocrisy
+#对虚伪的厌恶
+    Despite the deep antipathies between them, they have managed to negotiate an agreement.
+#尽管他们之间芥蒂很深，双方还是设法谈成了一项协议。
+
+carnivorous:
+    Lions and tigers are carnivorous.
+#狮子和老虎是吃肉的。
+
+diverge:
+    rays that diverge from a central point
+#自中心向外散射的光线
+    We suddenly realized that the course the ship was taking diverged widely from our intended route.
+#我们突然意识到，船航行的路线与我们既定的路线岔开很远。
+
+=======
+obliterate:
+    obliterate all footprints
+#冲刷掉所有的脚印
+    obliterate the memory of one's former disgrace
+#忘掉往日的羞辱
+    obliterate one's error
+#忘却错误
+    Clouds were darkening, obliterating the sun.
+#乌云低垂，遮住了太阳。
+
+extrapolate:
+    extrapolate future energy demands
+#推断未来能源的需求
+    extrapolate sales figures for next year from those of the preceding years
+#从前几年的销售数字推断下一年的销售量
+    Science fiction writers often extrapolate the future from today's trends.
+#科幻小说作家常根据今天的趋势对未来进行推断。
+
+hive:
+    a hive of activity/industry
+#人们忙碌的地方
+    hive away some money
+#存起一些钱
+    There are several hives at the end of our garden.
+#在我们花园的尽头有一些蜂窝。
+
+candid:
+    to be candid with you
+#说实话
+    a candid criticism
+#直率的批评
+    a candid observer
+#不偏不倚的观察者
+    candid flames
+#白色的火焰
+    The two presidents have had candid talks about the current crisis.
+#两位总统就现在的危机进行了坦率的交流。
+
+glacial:
+    a glacial coast
+#冰川海岸
+    a glacial wind
+#寒风
+    a glacial handshake
+#冷冰冰的握手
+    a distant glacial manner
+#冷漠的态度
+    give a glacial smile
+#冷淡的一笑
+    Two-thirds of the continent was covered in ice during glacial periods.
+#在冰河期，有三分之二的陆地被冰覆盖。
+
+ongoing:
+    No agreement has yet been reached and the negotiations are still ongoing.
+#还没有达成任何协议，谈判仍在进行。
+
+vibrant:
+    vibrant strings
+#颤动的琴弦
+    a vibrant voice
+#响亮的嗓音
+    a city vibrant with life
+#生机勃勃的城市
+    a vibrant scene of village life
+#一幕生机然的乡村生活场景
+    He kept his cellphone in vibrant mode.
+#他将手机调为振动模式。
+
+thwart:
+    My holiday plans have been thwarted by the bad weather.
+#我的度假计划因坏天气而受挫。
+
+disparate:
+    Scientists are trying to pull together disparate ideas in astronomy.
+#科学家正试图把天文学界各种迥然不同的观点汇集起来。
+
+squander:
+    squander natural resources
+#浪费自然资源
+    squander one's earnings on drink
+#把挣的钱花在喝酒上
+    He often squandered, but he never gave.
+#他常常大手大脚花钱，但从不施予别人。
+
+jumble:
+    jumble memories
+#纷乱的记忆
+    fall into a jumble
+#陷入混乱
+    His toys, books, shoes and clothes were all jumbled up together in the cupboard.
+#他的玩具、书籍、鞋子和衣服都乱堆在橱柜里。
+
+nonverbal:
+    a nonverbal child
+#语言表达能力尚差的孩子;
+    nonverbal communication
+#非语言交际
+    Art, like gesture, is a form of nonverbal expression.
+#艺术同手势一样，是一种非语言的表达方式。
+
+revitalise(revitalize):
+    Chinese investment has revitalized the country's mining industry.
+#中国的投资给这个国家的采矿工业注人了新的活力。
+
+flamboyant:
+    a flamboyant speech
+#浮夸的演说
+    have a flamboyant taste in clothes
+#爱好奢华的服装
+    a flamboyant orange shirt
+#鲜艳的橙红色衬衫
+    With a flamboyant gesture he threw off the covering to reveal the new statue.
+#他炫耀而自负地揭掉覆盖物，让新的塑像露出来。
+
+fortuitous:
+    a fortuitous encounter
+#邂逅
+    a fortuitous find
+#偶然的发现
+    Our meeting was quite fortuitous.
+#我们的相会完全是偶然的。
+
+noted:
+    a noted scholar
+#著名学者
+    a town noted for its pottery
+#以陶器著称的小镇
+    The island is noted as a summer resort.
+#这个岛以避暑胜地著称。
+
+embellish:
+    a speech embellished with amusing anecdotes
+#添加一些趣闻轶事的演说
+    She had her bedroom embellished.
+#她把卧室布置起来。
+
+unbridgeable:
+    an unbridgeable mountain stream
+#难以架桥的山涧
+    an unbridgeable gap
+#不可弥补的鸿沟
+    They had unbridgeable differences.
+#他们有不可调和的分歧。
+
+infiltrate:
+    infiltrate into the enemy country
+#混入敌国
+    infiltrate into a closely-knit organization
+#打人一个严密的组织中
+    They infiltrated some of the troops into enemy territory.
+#他们派了一些部队渗入敌方领土。
+
+empiricism:
+    Logical empiricism was not widely embraced in the United States.
+#逻辑经验主义在美国没有被广泛接受。
+
+squirt:
+    squirt a little 'oil into a lock
+#往锁里喷一点油
+    a little bit of a squirt
+#有点夜郎自大
+    The elephant squirted him with its trunk.
+#大象用鼻子朝他喷水。
+
+perpendicular:
+    the perpendicular height
+#垂直高度
+    a perpendicular rise in prices
+#价格的直线上升
+    be on/out of the perpendicular
+#垂直/不垂直
+    a perpendicular line
+#垂线
+    He's drunk so much he found it hard to remain perpendicular.
+#他喝得太多，简直站都站不直了。
+
+mischievous:
+    He has long blond hair and mischievous blue eyes.
+#他有一头长长的金发和一双淘气的蓝眼睛。
+
+recital:
+    a recital of a poem
+#一首诗的朗诵
+    a recital of one's troubles
+#对自己遇到的麻烦的叙述
+    a piano recital
+#钢琴独奏会
+    a Chopin recital
+#肖邦作品独奏会
+    She gave a colorful recital of a night on the grassland.
+#她绘声绘色地描述了在草原上的一夜。
+
+dormant:
+    be dormant in winter
+#冬季冬眠
+    a dormant volcano
+#休眠火山
+    be dormant for the time being
+#被暂时搁置
+    dormant talent
+#潜在的才能
+    a lion dormant
+#卧狮
+    Seeds remain dormant in the earth during winter.
+#在冬天，种子在泥土中休眠。
+
+balm:
+    put some balm on the sunburn
+#在晒斑上涂些油膏
+    the balm of friendship
+#友谊的慰藉
+    the balm of orange blossom
+#香橙花的香味
+    The soothing music was balm for the jangled nerves.
+#轻柔动听的音乐对错乱的神经起着镇定作用。
+
+farce:
+    change from farce to tragedy
+#从闹剧变成悲剧
+
+assail:
+    be assailed with insults and abuse
+#遭到侮辱和漫骂
+    be assailed with awkward questions
+#受到尴尬问题的困扰
+    be assailed with repeated blows on the head
+#头上受到反复击打
+    After her disappointing exam results, Chris was assailed by worries about her career.
+#由于考试成绩不理想，克丽丝对自己的前途忧心忡忡。
+
+perspective:
+    in perspective
+#用透视法，关系恰当地
+    out of perspective
+#不用透视法，关系失当地
+    get……into perspective
+#关系恰当地对待，摆正……的位置
+    From the top of the building, you can have a perspective of the entire city.
+#从大楼顶部你可以眺望全城。
+
+oblivious:
+    be oblivious of past slights
+#忘记过去的怠慢
+    oblivious old age
+#健忘的老年
+    be totally oblivious to
+#完全忘记
+    He seemed oblivious to how far they were walking.
+#他似乎不觉得他们已经走得多远了。
+
+forbear:
+    forbear from alcohol
+#戒酒
+    forbear (from) laughing
+#忍住不笑
+    forbear with each other
+#相互宽容
+    She could not forbear from commenting on any happening.
+#她对任何事情都禁不住要品头论足一番。
+
+eminence:
+    win/achieve eminence as a painter
+#成为著名画家
+    have/occupy a position of great eminence in the political world
+#在政界身居要职
+    a man of some local eminence
+#在当地小有名气
+    He looked at the distant horizon from an eminence overlooking the sea.
+#他站在一处俯瞰大海的高地，跳望遥远的天际。
+
+participation:
+    active participation
+#积极参与
+
+collaborate:
+    collaborate in writing a book
+#合作编写一本书
+    collaborate with sb. on the project
+#合作接项目
+    A German company collaborated with a Chinese firm to develop the product.
+#一家德国公司和一家中国企业联合来开发这个产品。
+
+molecular:
+    He specializes in molecular biology.
+#他专门从事分子生物学的研究。
+
+infuriate:
+    His arrogance infuriates me.
+#他的傲慢使我大为恼火。
+
+abolition:
+    the abolition of unfair taxes
+#废除不合理的税收
+    They campaigned for the abolition of slavery in the late 18th and early 19th century.
+#他们在18世纪末和19世纪初为废除奴隶制而战。
+
+philosophical:
+    philosophical writing
+#哲学著作
+    philosophical medication
+#哲学思辨
+    a philosophical society
+#哲学学会
+    a philosophical essay
+#哲学论文
+    a philosophical father
+#豁达的父亲
+    disturb one's philosophical tranquility
+#搅乱某人豁达宁静的心境
+    They always get into lengthy philosophical debates about morality and such like.
+#他们总是进行长时间的关于诸如道德之类的哲学辩论。
+
+antipathy:
+    show a marked antipathy against
+#对……表现出明显的反感
+    one's antipathy for hypocrisy
+#对虚伪的厌恶
+    Despite the deep antipathies between them, they have managed to negotiate an agreement.
+#尽管他们之间芥蒂很深，双方还是设法谈成了一项协议。
+
+carnivorous:
+    Lions and tigers are carnivorous.
+#狮子和老虎是吃肉的。
+
+diverge:
+    rays that diverge from a central point
+#自中心向外散射的光线
+    We suddenly realized that the course the ship was taking diverged widely from our intended route.
+#我们突然意识到，船航行的路线与我们既定的路线岔开很远。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

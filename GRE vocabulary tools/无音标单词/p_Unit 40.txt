@@ -1,0 +1,655 @@
+<<<<<<< HEAD
+pushy:
+    His teachers said that many of his problems stemmed from being the child of pushy parents.
+#他的老师们说他的许多问题出自他那急于求成的父母。
+
+nullify:
+    nullify a will
+#使遗嘱无效
+    nullify one's efforts
+#使某人徒劳无功
+    The country's death penalty was nullified in 2010.
+#这个国家于2010年废除了死刑。
+
+unbidden:
+    an unbidden guest
+#不速之客
+    The tears came unbidden to his eyes.
+#眼泪不由自主地涌上他的双眼。
+
+repartee:
+    quick repartee
+#敏捷的应答
+    be good at repartee
+#善于机敏地应答
+    He is a storehouse of repartee.
+#他一肚子全是对答如流的巧辩。
+
+presage:
+    the presage of a storm
+#风暴的前兆
+    the presage of the spring
+#春天的预兆
+    The change could presage serious problems.
+#这一变化可能预示着会发生严重问题。
+
+guzzle:
+    guzzle gasoline
+#大量耗油
+    guzzle away the family income
+#挥霍掉家庭收入
+    spend a weekend guzzling 
+#以狂饮度周末
+    I'm not surprised you feel sick after guzzling three ice creams.
+#我并不惊奇你狂吃三块冰激凌后感到不适。
+
+emaciation:
+    She was very thin, almost to the point of emaciation. 
+#她很瘦，几乎到了憔悴的地步。
+
+chameleon:
+    a chameleon little man
+#反复无常的小人
+
+lackluster:
+    The number-one tennis player gave a disappointingly lackluster performance.
+#这名头号网球运动员的表现毫无生气，令人失望。
+
+gangling:
+    From a gangling boy he had grown into an elegant young man.
+#他从一个笨手笨脚的瘦高男孩成长为一名举止优雅的青年。
+
+wispy:
+    wispy gray hair
+#一缕缕白发
+    have a few wispy memories of one's childhood
+#依稀记得几童年的往事
+    She looked wispy in this dress.
+#穿上这件连衣裙她显得娇小纤弱。
+
+inveigle:
+    inveigle sb. home
+#诱骗某人回家
+    inveigle a promise
+#骗取允诺
+    inveigle sb. into a place
+#诱骗某人去某地
+    Eventually a nurse inveigled him into taking some of the medicine.
+#最终一名护士哄他吃了些药。
+
+aspersion:
+    cast aspersions on/upon sb.
+#诽谤某人
+
+scamper:
+    take the dog for a scamper
+#带狗去遛弯
+    A gray squirrel is scampering from limb to limb.
+#一只灰色的松鼠在树枝上面跳来跳去。
+
+trapeze:
+    He hung from the trapeze by one leg.
+#他用一条腿勾在高空秋千上倒悬着。
+
+offish:
+    an offish attitude
+#冷漠的态度
+
+tamp:
+    a floor of tamped earth
+#夯实的地面
+    He tamped down the soil around the post.
+#他把柱子四周的土夯实。
+
+vindication:
+    speak in vindication of one's behavior
+#为自己的行为辩护
+    He used his ignorance as a vindication of his crimes.
+#他以无知开脱自己的罪行。
+
+unregenerate:
+    an unregenerate sinner
+#不会改的罪人
+    an unregenerate way of life
+#放荡的生活方式
+
+ken:
+    in/within one's ken
+#在视野之内，在知识范围之内
+    beyond/out of/outside one's ken
+#在视野之外，在知识范围之外
+    Abstract words are beyond the ken of young children.
+#抽象的词语非幼童所能理解。
+
+hearken:
+    Hearken to the waves.
+#听那涛声。
+
+voracity:
+    His voracity ruined him.
+#他的贪婪害了他。
+
+swarthy:
+    swarthy complexion
+#黝黑的肤色
+    The sailor was swarthy from the sun of the tropics.
+#那个水手被热带的阳光晒得黑不溜秋的。
+
+earthshaking:
+    an earthshaking event
+#石破天惊的大事件
+    be of earthshaking importance
+#极其重要
+
+snide:
+    a snide remark
+#恶意的话
+    a snide trick
+#奸计
+    a snide bill
+#假单据
+    a snide job
+#低贱的工作
+    He was taken in by a snide merchant.
+#他上了奸商的当。
+
+verbiage:
+    flowery verbiage
+#华丽的辞藻
+    The speaker lost himself in verbiage.
+#讲话人废话连篇，忘乎所以。
+
+ingress:
+    the ingress of summer tourists
+#夏季游客的涌入
+    the ingress viza
+#入境签证
+    All citizens have free ingress to the public library.
+#所有公民均有进人公共图书馆的自由。
+
+lope:
+    at a slow lope
+#以舒缓的步子
+    The lion loped across the grass.
+#那头狮子缓步走过草地。
+
+enjoin:
+    enjoin silence on a class
+#要班上保持安静
+    be enjoined by conscience from telling a lie
+#受良心约束不说谎
+    The judge enjoined both companies from engaging in such practices in the future. 
+#法官责令两家公司以后不许再做出类似的行为。
+
+filibuster:
+    The Republican senators mounted a filibuster against the issue.
+#共和党的参议员们对这个议题掀起了一股阻挠的浪潮。
+
+prescience:
+    foresee dangers with prescience
+#未h先知地预见到危险
+    Some animals have an instinctive prescience of earthquakes.
+#有些动物有预知地震的本能。
+
+miserly:
+    It's very miserly of her to refuse to give any money to the church.
+#她很小气，不愿给教堂捐一分钱。
+
+garnish:
+    a fireplace garnished with cooking utensils
+#配备有炊具的壁炉
+    It is a speech with a garnish of humor.
+#这是个穿插着一些幽默的演讲。
+
+gargantuan:
+    a gargantuan tanker
+#巨大的油轮
+    Many countries have gargantuan debts.
+#许多国家负有巨额债务。
+
+tauten:
+    The ropes were tautened.
+#绳子都拉紧了。
+
+embryonic:
+    an embryonic plan
+#酝酿中的计划
+    the embryonic stage
+#初始阶段
+    The plan, as yet, only exists in embryonic form.
+#这个计划迄今还只是在酝酿之中。
+
+distrait:
+    He answered my question in a distrait manner.
+#他心不在焉地回答我的问题。
+
+iconoclast:
+    Kant was a great iconoclast.
+#康德是个伟大的打破旧传统的勇士。
+
+flay:
+    In prehistoric times, people used flint to flay the animals they killed.
+#在史前时期，人们常用燧石将他们打死的动物剥皮。
+
+retch:
+    The sight of blood makes him retch.
+#看到血使他呕吐。
+
+occlude:
+    The tree occludes the light.
+#那棵树挡住了光线。
+
+traipse:
+    traipse along the boulevard
+#沿着林荫大道溜达
+    She spent the day traipsing round the shops, but found nothing suitable to buy.
+#她花了一天的时间逛商店，但是没发现什么合适的东西可买。
+
+squeamish:
+    She's squeamish about spiders.
+#她看见蜘蛛就害怕。
+
+camouflage:
+    the camouflage of a chameleon
+#变色龙的保护色
+    patrols in camouflage
+#穿迷彩服的巡逻队
+    camouflage in the bushes
+#在灌木丛里伪装起来
+    The hunters were camouflaged with branches so that they blended with the trees.
+#猎人们用树枝伪装起来，因而与树木浑然一体。
+
+unsettling:
+    unsettling news
+#令人不安的消息
+    It has become a potentially unsettling element in East-West relations.
+#这已经成为东西方关系中一个潜在的不稳定因素。
+
+overhaul:
+    overhaul a faulty machine
+#拆修出了故障的机器
+    undergo a thorough overhaul
+#经彻底检修
+    a major overhaul of the foreign policy
+#外交政策的重大修订
+    overhaul advanced countries
+#赶上先进国家
+    The travel book with pictures has been completely overhauled.
+#那本有插图的旅游指南已经全面修订。
+
+prognosis:
+    All intelligence sources support this prognosis.
+#一切情报来源都证实了这个预测。
+
+extrovert:
+    He was possessed of an extrovert personality.
+#他是个外向的人。
+
+rendering:
+    exquisite renderings of ancient Chinese verse
+#中国古诗的优美译文
+    renderings of buildings
+#房屋透视图
+    Her rendering of the song was delightful.
+#她对这首歌的艺术表现很令人欣喜。
+
+procrastinate:
+    She procrastinated her return on various pretexts.
+#她以种种借口拖延归程。
+
+cozen:
+    He cozened her out of her money.
+#他诈骗了她的钱财。
+
+consequential:
+    consequential deportment
+#傲慢的态度
+    Our use of harmful chemicals and the consequential damage to the environment is a very serious matter.
+#我们使用有害化学物品，并因此损害了环境，这是非常严重的事情。
+
+sequestrate:
+    sequestrate oneself from the world
+#使自己与世隔绝
+    The police continued to uncover and sequestrate arms and ammunition.
+#警方继续查找并没收武器和弹药。
+
+chipper:
+    You seem mighty chipper this morning.
+#你今天早晨看上去开心极了。
+
+drub:
+    drub the opponent
+#大胜对手
+    drub a novel
+#严厉批评一部小说
+    The man was drubbed for stealing the bike.
+#那人因偷自行车被痛打了一顿。
+
+=======
+pushy:
+    His teachers said that many of his problems stemmed from being the child of pushy parents.
+#他的老师们说他的许多问题出自他那急于求成的父母。
+
+nullify:
+    nullify a will
+#使遗嘱无效
+    nullify one's efforts
+#使某人徒劳无功
+    The country's death penalty was nullified in 2010.
+#这个国家于2010年废除了死刑。
+
+unbidden:
+    an unbidden guest
+#不速之客
+    The tears came unbidden to his eyes.
+#眼泪不由自主地涌上他的双眼。
+
+repartee:
+    quick repartee
+#敏捷的应答
+    be good at repartee
+#善于机敏地应答
+    He is a storehouse of repartee.
+#他一肚子全是对答如流的巧辩。
+
+presage:
+    the presage of a storm
+#风暴的前兆
+    the presage of the spring
+#春天的预兆
+    The change could presage serious problems.
+#这一变化可能预示着会发生严重问题。
+
+guzzle:
+    guzzle gasoline
+#大量耗油
+    guzzle away the family income
+#挥霍掉家庭收入
+    spend a weekend guzzling 
+#以狂饮度周末
+    I'm not surprised you feel sick after guzzling three ice creams.
+#我并不惊奇你狂吃三块冰激凌后感到不适。
+
+emaciation:
+    She was very thin, almost to the point of emaciation. 
+#她很瘦，几乎到了憔悴的地步。
+
+chameleon:
+    a chameleon little man
+#反复无常的小人
+
+lackluster:
+    The number-one tennis player gave a disappointingly lackluster performance.
+#这名头号网球运动员的表现毫无生气，令人失望。
+
+gangling:
+    From a gangling boy he had grown into an elegant young man.
+#他从一个笨手笨脚的瘦高男孩成长为一名举止优雅的青年。
+
+wispy:
+    wispy gray hair
+#一缕缕白发
+    have a few wispy memories of one's childhood
+#依稀记得几童年的往事
+    She looked wispy in this dress.
+#穿上这件连衣裙她显得娇小纤弱。
+
+inveigle:
+    inveigle sb. home
+#诱骗某人回家
+    inveigle a promise
+#骗取允诺
+    inveigle sb. into a place
+#诱骗某人去某地
+    Eventually a nurse inveigled him into taking some of the medicine.
+#最终一名护士哄他吃了些药。
+
+aspersion:
+    cast aspersions on/upon sb.
+#诽谤某人
+
+scamper:
+    take the dog for a scamper
+#带狗去遛弯
+    A gray squirrel is scampering from limb to limb.
+#一只灰色的松鼠在树枝上面跳来跳去。
+
+trapeze:
+    He hung from the trapeze by one leg.
+#他用一条腿勾在高空秋千上倒悬着。
+
+offish:
+    an offish attitude
+#冷漠的态度
+
+tamp:
+    a floor of tamped earth
+#夯实的地面
+    He tamped down the soil around the post.
+#他把柱子四周的土夯实。
+
+vindication:
+    speak in vindication of one's behavior
+#为自己的行为辩护
+    He used his ignorance as a vindication of his crimes.
+#他以无知开脱自己的罪行。
+
+unregenerate:
+    an unregenerate sinner
+#不会改的罪人
+    an unregenerate way of life
+#放荡的生活方式
+
+ken:
+    in/within one's ken
+#在视野之内，在知识范围之内
+    beyond/out of/outside one's ken
+#在视野之外，在知识范围之外
+    Abstract words are beyond the ken of young children.
+#抽象的词语非幼童所能理解。
+
+hearken:
+    Hearken to the waves.
+#听那涛声。
+
+voracity:
+    His voracity ruined him.
+#他的贪婪害了他。
+
+swarthy:
+    swarthy complexion
+#黝黑的肤色
+    The sailor was swarthy from the sun of the tropics.
+#那个水手被热带的阳光晒得黑不溜秋的。
+
+earthshaking:
+    an earthshaking event
+#石破天惊的大事件
+    be of earthshaking importance
+#极其重要
+
+snide:
+    a snide remark
+#恶意的话
+    a snide trick
+#奸计
+    a snide bill
+#假单据
+    a snide job
+#低贱的工作
+    He was taken in by a snide merchant.
+#他上了奸商的当。
+
+verbiage:
+    flowery verbiage
+#华丽的辞藻
+    The speaker lost himself in verbiage.
+#讲话人废话连篇，忘乎所以。
+
+ingress:
+    the ingress of summer tourists
+#夏季游客的涌入
+    the ingress viza
+#入境签证
+    All citizens have free ingress to the public library.
+#所有公民均有进人公共图书馆的自由。
+
+lope:
+    at a slow lope
+#以舒缓的步子
+    The lion loped across the grass.
+#那头狮子缓步走过草地。
+
+enjoin:
+    enjoin silence on a class
+#要班上保持安静
+    be enjoined by conscience from telling a lie
+#受良心约束不说谎
+    The judge enjoined both companies from engaging in such practices in the future. 
+#法官责令两家公司以后不许再做出类似的行为。
+
+filibuster:
+    The Republican senators mounted a filibuster against the issue.
+#共和党的参议员们对这个议题掀起了一股阻挠的浪潮。
+
+prescience:
+    foresee dangers with prescience
+#未h先知地预见到危险
+    Some animals have an instinctive prescience of earthquakes.
+#有些动物有预知地震的本能。
+
+miserly:
+    It's very miserly of her to refuse to give any money to the church.
+#她很小气，不愿给教堂捐一分钱。
+
+garnish:
+    a fireplace garnished with cooking utensils
+#配备有炊具的壁炉
+    It is a speech with a garnish of humor.
+#这是个穿插着一些幽默的演讲。
+
+gargantuan:
+    a gargantuan tanker
+#巨大的油轮
+    Many countries have gargantuan debts.
+#许多国家负有巨额债务。
+
+tauten:
+    The ropes were tautened.
+#绳子都拉紧了。
+
+embryonic:
+    an embryonic plan
+#酝酿中的计划
+    the embryonic stage
+#初始阶段
+    The plan, as yet, only exists in embryonic form.
+#这个计划迄今还只是在酝酿之中。
+
+distrait:
+    He answered my question in a distrait manner.
+#他心不在焉地回答我的问题。
+
+iconoclast:
+    Kant was a great iconoclast.
+#康德是个伟大的打破旧传统的勇士。
+
+flay:
+    In prehistoric times, people used flint to flay the animals they killed.
+#在史前时期，人们常用燧石将他们打死的动物剥皮。
+
+retch:
+    The sight of blood makes him retch.
+#看到血使他呕吐。
+
+occlude:
+    The tree occludes the light.
+#那棵树挡住了光线。
+
+traipse:
+    traipse along the boulevard
+#沿着林荫大道溜达
+    She spent the day traipsing round the shops, but found nothing suitable to buy.
+#她花了一天的时间逛商店，但是没发现什么合适的东西可买。
+
+squeamish:
+    She's squeamish about spiders.
+#她看见蜘蛛就害怕。
+
+camouflage:
+    the camouflage of a chameleon
+#变色龙的保护色
+    patrols in camouflage
+#穿迷彩服的巡逻队
+    camouflage in the bushes
+#在灌木丛里伪装起来
+    The hunters were camouflaged with branches so that they blended with the trees.
+#猎人们用树枝伪装起来，因而与树木浑然一体。
+
+unsettling:
+    unsettling news
+#令人不安的消息
+    It has become a potentially unsettling element in East-West relations.
+#这已经成为东西方关系中一个潜在的不稳定因素。
+
+overhaul:
+    overhaul a faulty machine
+#拆修出了故障的机器
+    undergo a thorough overhaul
+#经彻底检修
+    a major overhaul of the foreign policy
+#外交政策的重大修订
+    overhaul advanced countries
+#赶上先进国家
+    The travel book with pictures has been completely overhauled.
+#那本有插图的旅游指南已经全面修订。
+
+prognosis:
+    All intelligence sources support this prognosis.
+#一切情报来源都证实了这个预测。
+
+extrovert:
+    He was possessed of an extrovert personality.
+#他是个外向的人。
+
+rendering:
+    exquisite renderings of ancient Chinese verse
+#中国古诗的优美译文
+    renderings of buildings
+#房屋透视图
+    Her rendering of the song was delightful.
+#她对这首歌的艺术表现很令人欣喜。
+
+procrastinate:
+    She procrastinated her return on various pretexts.
+#她以种种借口拖延归程。
+
+cozen:
+    He cozened her out of her money.
+#他诈骗了她的钱财。
+
+consequential:
+    consequential deportment
+#傲慢的态度
+    Our use of harmful chemicals and the consequential damage to the environment is a very serious matter.
+#我们使用有害化学物品，并因此损害了环境，这是非常严重的事情。
+
+sequestrate:
+    sequestrate oneself from the world
+#使自己与世隔绝
+    The police continued to uncover and sequestrate arms and ammunition.
+#警方继续查找并没收武器和弹药。
+
+chipper:
+    You seem mighty chipper this morning.
+#你今天早晨看上去开心极了。
+
+drub:
+    drub the opponent
+#大胜对手
+    drub a novel
+#严厉批评一部小说
+    The man was drubbed for stealing the bike.
+#那人因偷自行车被痛打了一顿。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

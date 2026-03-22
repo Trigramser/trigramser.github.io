@@ -1,0 +1,893 @@
+<<<<<<< HEAD
+evergreen: 英[ˈevəɡriːn] 美[ˈevərɡriːn]
+$adj. 常绿的；经久不衰的
+%n. 常绿植物；经久不衰的人（或事物）
+    evergreen leaves/foliage
+#常绿的树叶
+    evergreen plants
+#常绿植物
+    evergreen remembrance of the old days
+#对往昔永不消逝的记忆
+    I like these evergreen tunes.
+#我喜欢这些经久不衰的曲调。
+
+demotic: 英[dɪˈmɒtɪk] 美[dɪˈmɑːtɪk]
+%adj. 通俗的，民众的
+    demotic customs
+#民俗
+    demotic speech
+#通俗言语
+
+resilient: 英[rɪˈzɪliənt] 美[rɪˈzɪliənt]
+%adj. （人或动物）对困境有承受力的，有复原力的；（物质或物体）有弹性的，有回弹力的
+    a resilient body
+#弹性体
+    resilient steel
+#弹性钢
+    be of a resilient temper
+#具有适应性强的脾性
+    Rubbers are more resilient than wood.
+#橡胶比木头弹性好。
+
+circumlocution: 英[ˌsɜːkəmləˈkjuːʃn] 美[ˌsɜːrkəmləˈkjuːʃ(ə)n]
+%n. 婉转曲折的说法，累赘的陈述；遁辞
+    speak in circumlocution
+#拐弯抹角地说话
+
+sparing: 英[ˈspeərɪŋ] 美[ˈsperɪŋ]
+$v. 把……让给；借给；抽出时间；节俭；（使）不受伤害；（使）免遭；不遗余力；不吝惜（时间、金钱）（spare 的现在分词）
+%adj. 适度的；节俭的；缺乏的
+    a sparing use of electricity
+#节约用电
+    be sparing of one's energy
+#爱惜精力
+    The book is sparing of information.
+#这本书内容贫乏。
+
+intimation: 英[ˌɪntɪˈmeɪʃ(ə)n] 美[ˌɪntɪˈmeɪʃ(ə)n]
+%n. 暗示；告知；讽示
+    feel some intimation of danger
+#感觉到危险的暗示
+    an official intimation of tax assessment
+#税务评估的正式通知
+    Late autumn contains intimations of a harsh winter to come.
+#深秋预示着严冬即将来临。
+
+remunerative: 英[rɪˈmjuːnərətɪv] 美[rɪˈmjuːnərətɪv]
+%adj. 有利可图的；有报酬的；合算的
+    remunerative justice
+#多劳多得的公平待遇
+    a remunerative salary
+#高薪
+    a remunerative deal
+#有利可图的买卖
+    He is prepared to accept any remunerative chore, however demeaning.
+#他准备接受任何有报酬的杂务，无论这种杂务多么有失身份。
+
+wavy: 英[ˈweɪvi] 美[ˈweɪvi]
+%adj. （头发）鬈曲的；波纹状的，波浪形的；（纹章）波形的，波状的
+    a wavy sea
+#波涛汹涌的大海
+    wavy hair
+#飘逸的头发
+    a wavy flame
+#摇曳的火焰
+    wavy lines
+#波浪线条
+    Ahead was the wavy terrain.
+#前面是起伏不平的地形。
+
+fluffy: 英[ˈflʌfi] 美[ˈflʌfi]
+%adj. 绒毛般的，覆有绒毛的；（食物等）松软的，透气的；轻软状的；<非正式>空洞的，不严肃的
+    a fluffy kitten
+#毛茸茸的小猫
+    fluffy hair
+#蓬松的头发
+    a fluffy omelette
+#松软的蛋饼
+    a fluffy policy
+#空洞的政策
+
+profligacy: 英[ˈprɒflɪɡəsi] 美[ˈprɑːflɪɡəsi]
+%n. 肆意挥霍；放荡；浪费
+    He has a profound dislike of profligacy.
+#他对挥霍浪费深恶痛绝。
+
+instinctive: 英[ɪnˈstɪŋktɪv] 美[ɪnˈstɪŋktɪv]
+%adj. 本能的，直觉的；天生的
+    an instinctive movement
+#本能的动作
+    have an instinctive taste for drawing
+#性喜绘画
+    an instinctive sense of danger
+#对危险的直觉感
+    She has an instinctive dislike of extreme political opinions.
+#她本能地不喜欢极端的政治观点。
+
+adulation: 英[ˌædjuˈleɪʃ(ə)n] 美[ˌædʒəˈleɪʃ(ə)n]
+%n. 奉承；谄媚
+    bask in the adulation of the crowd
+#沉醉于众人的奉承
+    He bowed his knees in slavish adulation to her.
+#他奴性地向她屈膝奉承。
+
+hardheaded: 英[ˌhɑːdˈhedɪd] 美[ˌhɑːrdˈhedɪd]
+%adj. 脚踏实地的；冷静的；无懈可击的；顽固的
+    hardheaded common sense
+#讲究实际的常识
+    hardheaded businessmen
+#精明的商人
+    He is very hardheaded in analyzing the present economic situation.
+#他在分析目前的经济形势时非常冷静。
+
+utilitarian: 英[ˌjuːtɪlɪˈteəriən] 美[ˌjuːtɪlɪˈteriən]
+$adj. 功利主义的，实利主义的；功利的，实用的
+%n. 功利主义者
+    a clean utilitarian flat
+#一套干净实用的公寓
+    an utilitarian concept of education
+#功利主义的教育观念
+    for utilitarian purposes
+#为了功利主义的目的
+    utilitarian furniture
+#实用的家具
+    A good coat is more utilitarian than a fur one.
+#一件好大衣比毛皮大衣更实用。
+
+allusion: 英[əˈluːʒ(ə)n] 美[əˈluːʒ(ə)n]
+%n. 暗指，影射，典故
+    make no personal allusions in speaking
+#说话中不影射任何人
+    make a hidden allusion to sth.
+#暗指某事
+    Her writings sparkle with classical allusions.
+#她的文章因为用典故而生色。
+
+vestigial: 英[veˈstɪdʒiəl] 美[veˈstɪdʒiəl]
+%adj. 退化的；残余的；发育不全的
+    vestigial rays of the declining sun
+#落日的余晖
+    retain some vestigial power
+#保留一些残余的权力
+    vestigial traces of conscience
+#些许残余的良知
+    Some snakes have vestigial legs.
+#有些蛇有退化的腿。
+
+harmonic: 英[hɑːˈmɒnɪk] 美[hɑːrˈmɑːnɪk]
+$adj. 和声的；（与）声音和谐悦耳（有关）的；（有关）调和级数（或数列）的；谐波的，谐的；数律分析法的
+%n. 泛音；和声；谐波；数律分析法
+    harmonic intervals
+#和声音程
+    a harmonic relationship
+#融洽的关系
+    a harmonic meeting
+#气氛和谐的会议
+
+defiant: 英[dɪˈfaɪənt] 美[dɪˈfaɪənt]
+%adj. 违抗的，反叛的，蔑视的
+    a defiant attitude
+#反抗的态度
+    be defiant of public opinion
+#藐视公众與论
+    in a defiant tone
+#以一种蔑视的口气
+    She had a defiant message for the sneers and critics.
+#她让讽刺批评者感受到了她的蔑视。
+
+ingratiating: 英[ɪnˈɡreɪʃieɪtɪŋ] 美[ɪnˈɡreɪʃieɪtɪŋ]
+%adj. 逢迎的，讨好的；迷人的，吸引人的
+    an ingratiating attitude
+#阿谀奉承的态度
+    He said this with an ingratiating smile.
+#他说这番话时面带奉承的微笑。
+
+undirected: 英[ˌʌndɪˈrektɪd] 美[ˌʌndɪˈrektɪd]
+%adj. 无目标的，未受指导的；无收件人姓名的
+    an undirected child
+#缺乏指导的孩子
+    undirected zeal
+#盲目的热情
+    It is an undirected letter.
+#这是一封无姓名和地址的信。
+
+stash: 英[stæʃ] 美[stæʃ]
+$n. 藏匿处；藏匿物
+$vt. 存放；贮藏
+%vi. 存放；藏起来
+    stash away some money
+#存一些钱
+    He had all his valuables stashed away in the loft.
+#他把所有贵重物品都藏在阁楼上。
+
+deciduous: 英[dɪˈsɪdʒuəs] 美[dɪˈsɪdʒuəs]
+%adj. 落叶性的，脱落性的；非永久性的
+    a deciduous tree
+#落叶树
+    deciduous leaves
+#落叶
+    deciduous antlers of deer
+#脱落的鹿角
+    a child's deciduous teeth
+#孩子的乳齿
+    There shouldn't be much that is deciduous in dictionaries.
+#词典中不应该有很多时过境迁的内容。
+
+murky: 英[ˈmɜːki] 美[ˈmɜːrki]
+%adj. （液体）浑浊的；（尤指因浓雾而）昏暗的，阴暗的；（行为）不光彩的，不可告人的；复杂的，难以理解的
+    a murky night
+#黑夜
+    a murky sky
+#烟雾弥漫的天空
+    a disease whose causality is murky
+#起因不明的疾病
+    murky goings-on
+#种种可疑的活动
+    a murky definition
+#模糊不清的定义
+    The large lamplit room was murky with wood smoke.
+#木柴燃烧旨出的烟把灯火通明的大房间弄得烟雾弥漫。
+
+glamorous: 英[ˈɡlæmərəs] 美[ˈɡlæmərəs]
+%adj. 迷人的，富有魅力的
+    a glamorous lady assistant
+#美丽动人的女助手
+    This profession isn't as glamorous as some people think.
+#这一行业并不像某些人认为的那样富有吸引力。
+
+disabuse: 英[ˌdɪsəˈbjuːz] 美[ˌdɪsəˈbjuːz]
+%vt. 使省悟；解迷惑；释疑；矫正
+    I must disabuse you of that idea.
+#我必须使你打消那种想法。
+
+deferential: 英[ˌdefəˈrenʃ(ə)l] 美[ˌdefəˈrenʃ(ə)l]
+%adj. 恭敬的；惯于顺从的
+    listen with deferential attention
+#恭敬地聆听
+    He was surrounded by deferential students.
+#他被毕恭毕敬的学生围着。
+
+denigrate: 英[ˈdenɪɡreɪt] 美[ˈdenɪɡreɪt]
+%vt. 诋毁；使变黑；玷污
+    denigrate one's rivals
+#诋毁对手
+    denigrate one's success
+#贬低某人的成就
+    Rain clouds denigrate the sky.
+#雨云遮暗了天空。
+
+tractable: 英[ˈtræktəb(ə)l] 美[ˈtræktəb(ə)l]
+%adj. 易于管教的；易驾驭的；易处理的；驯良的
+    a tractable horse
+#驯良的马
+    a tractable child
+#听话的孩子
+    a tractable metal
+#可锻金属
+    It is a less tractable problem.
+#这是个不易处理的问题。
+
+reminiscent: 英[ˌremɪˈnɪs(ə)nt] 美[ˌremɪˈnɪs(ə)nt]
+%adj. 使人联想的；怀旧的，缅怀往事的；与……相像的
+    a reminiscent old man
+#怀旧的老人
+    scenes reminiscent of one's childhood
+#引起童年回忆的景象
+    a taste reminiscent of chicken
+#像鸡肉那样的味道
+    a reminiscent smile
+#怀旧的微笑
+    There was a sweetish smell, vaguely reminiscent of coffee.
+#有一股甜丝丝的味道，使人隐约觉得像咖啡。
+
+illusory: 英[ɪˈluːsəri] 美[ɪˈluːsəri]
+%adj. 虚假的，幻觉的
+    bask in illusory and temporary security
+#陶醉在虚假而短暂的安全感中
+    illusory hopes
+#不切实际的希望
+    It is only an illusory victory.
+#这只是个虚假的胜利。
+
+construe: 英[kənˈstruː] 美[kənˈstruː]
+$vt. 分析；解释；翻译
+%vi. 作文法性的分析
+    construe a sentence literally
+#按字面意思解释一个句子
+    be wrongly construed
+#被曲解
+    He construed her silence as meaning that she agreed.
+#他把她的沉默理解为表示赞同。
+
+undisturbed: 英[ˌʌndɪˈstɜːbd] 美[ˌʌndɪˈstɜːrbd]
+%adj. 安静的；镇定的；未被扰乱的；泰然自若的
+    lie undisturbed
+#未被搬动过
+    The village is changing but it is still undisturbed.
+#这个村庄在发生变化，但依旧未受到干扰。
+
+clinical: 英[ˈklɪnɪk(ə)l] 美[ˈklɪnɪk(ə)l]
+%adj. 诊所的，医务室的；临床的，临床诊断的；冷静的，无感情的；简陋的，无装饰的；精确的，娴熟的
+    a clinical center
+#诊疗中心
+    a clinical lecture
+#临床授课
+    a clinical attitude to life
+#对生活的冷淡态度
+    clinical medicine
+#临床医学
+    He had a clinical attitude towards his divorce.
+#他对离婚抱着冷淡的态度。
+
+regimental: 英[ˌredʒɪˈment(ə)l] 美[ˌredʒɪˈment(ə)l]
+$adj. （军队中）团的；严格控制的，有组织的
+%n. 军服（regimentals）
+    a regimental commander
+#团长
+    regimental management
+#兵营式管理
+    be in full regimentals
+#穿着军装
+
+advocacy: 英[ˈædvəkəsi] 美[ˈædvəkəsi]
+%n. 拥护，提倡；辩护，辩护术；游说（团体或组织）；律师职业（或工作）
+    zealous advocacy
+#热烈鼓吹
+    the advocacy of a case
+#对一桩案子的辩护
+    She is renowned for her advocacy of human rights.
+#她以拥护人权而闻名。
+
+upstart: 英[ˈʌpstɑːt] 美[ˈʌpstɑːrt]
+$n. 暴发户；自命不凡的人；傲慢自负的人
+$adj. 暴富的；自命不凡的
+$vt. 使……突然跳起；使……崛起
+%vi. 突然跳起；崛起
+    an upstart family
+#暴发户
+    sb.'s upstart ambition
+#某人的狂妄野心
+    She was beaten to the top job by an upstart who joined the firm barely a year ago.
+#一位刚来公司才一年的新贵抢在她之前坐上了公司的高位。
+
+toady: 英[ˈtəʊdi] 美[ˈtoʊdi]
+$n. 马屁精，谄媚者
+%v. 拍马屁，谄媚
+    John's promotion is the result of toadying to the boss.
+#约翰是靠拍老板的马屁才得以提升的。
+
+drollery: 英[ˈdrəʊləri] 美[ˈdroʊləri]
+%n. 笑话；诙谐；喜剧作品
+    a story that amuses by its drollery
+#以富于奇趣的幽默逗乐别人的故事
+    sb.'s talent for drollery
+#某人开玩笑的才能
+
+stint: 英[stɪnt] 美[stɪnt]
+$n. 节约；定额，定量；从事某项工作的时间；有限供给，有限的努力；滨鹬；一段时间
+%v. 节省；限制；节约，吝啬；限量给；紧缩，节省
+    stint oneself of food
+#限制自己的食量
+    lavish money without stint
+#花钱大手大脚
+    do a stint of work every Sunday
+#每个星期天都做一点工作
+    He stinted himself to get his son educated.
+#他省吃俭用，以供儿子读书。
+
+transcription: 英[trænˈskrɪpʃ(ə)n] 美[trænˈskrɪpʃ(ə)n]
+%n. 抄写，打印；抄本，文字记录；音标，标音；乐曲改编；（生化）转录
+    musical transcription
+#乐曲改编
+
+ambiguity: 英[ˌæmbɪˈɡjuːəti; ˌæmbɪˈɡjuːɪti] 美[ˌæmbɪˈɡjuːəti; ˌæmbɪˈɡjuːɪti]
+%n. 模棱两可，不明确；含混不清的语句；一语多义；暧昧，难以理解的感情（或想法）
+    speak with ambiguity
+#含糊其词
+    a statement of prepared ambiguity
+#故意含糊其词的声明
+    Her reply was full of ambiguities.
+#她的答复太含糊其词了。
+
+perspicuous: 英[pəˈspɪkjʊəs] 美[pərˈspɪkjuəs]
+%adj. 明了的；清晰明白的；易懂的
+    be perspicuous in meaning
+#意思清楚
+    a long but perspicuous speech
+#很长却明白易懂的讲话
+    a perspicuous argument
+#条理分明的论据
+
+proprietary: 英[prəˈpraɪət(ə)ri] 美[prəˈpraɪəteri]
+$adj. 所有的，所有权的；专卖的，专利的；所有者的；私有的，私密的
+%n. 所有权；所有人
+    proprietary right
+#所有权
+    proprietary classes
+#有产阶级
+    a proprietary clinic
+#私营诊所
+    Jane has a rather proprietary manner with her boyfriend.
+#简对她的男朋友摆出一副主人模样。
+
+seclusion: 英[sɪˈkluːʒ(ə)n] 美[sɪˈkluːʒ(ə)n]
+%n. 隐居；与世隔绝的地方
+    the seclusion of prisoners in cells
+#囚犯被隔绝于单人牢房
+    live in seclusion
+#退隐
+    He lives in almost total seclusion these days.
+#他现在过着几乎与世隔绝的生活。
+
+intrusive: 英[ɪnˈtruːsɪv] 美[ɪnˈtruːsɪv]
+%adj. 侵入的；打扰的
+    a loud and intrusive man
+#吵吵嚷嚷好闹事的人
+    intrusive cares
+#扰人的烦心事
+    an intrusive arm of the sea
+#内凹的海湾
+    an intrusive neighbor
+#打扰他人的邻居
+
+uncompromising: 英[ʌnˈkɒmprəmaɪzɪŋ] 美[ʌnˈkɑːmprəmaɪzɪŋ]
+%adj. 不妥协的，不让步的；坚定的
+    an uncompromising attitude
+#不妥协的态度
+    an uncompromising belief
+#坚定的信仰
+
+trite: 英[traɪt] 美[traɪt]
+%adj. 陈腐的；平庸的；老一套的
+    a trite idea
+#陈腐的观念
+    All the messages in these cards sound really trite.
+#这些明信片上所有的话听起来都是老一套。
+
+=======
+evergreen: 英[ˈevəɡriːn] 美[ˈevərɡriːn]
+$adj. 常绿的；经久不衰的
+%n. 常绿植物；经久不衰的人（或事物）
+    evergreen leaves/foliage
+#常绿的树叶
+    evergreen plants
+#常绿植物
+    evergreen remembrance of the old days
+#对往昔永不消逝的记忆
+    I like these evergreen tunes.
+#我喜欢这些经久不衰的曲调。
+
+demotic: 英[dɪˈmɒtɪk] 美[dɪˈmɑːtɪk]
+%adj. 通俗的，民众的
+    demotic customs
+#民俗
+    demotic speech
+#通俗言语
+
+resilient: 英[rɪˈzɪliənt] 美[rɪˈzɪliənt]
+%adj. （人或动物）对困境有承受力的，有复原力的；（物质或物体）有弹性的，有回弹力的
+    a resilient body
+#弹性体
+    resilient steel
+#弹性钢
+    be of a resilient temper
+#具有适应性强的脾性
+    Rubbers are more resilient than wood.
+#橡胶比木头弹性好。
+
+circumlocution: 英[ˌsɜːkəmləˈkjuːʃn] 美[ˌsɜːrkəmləˈkjuːʃ(ə)n]
+%n. 婉转曲折的说法，累赘的陈述；遁辞
+    speak in circumlocution
+#拐弯抹角地说话
+
+sparing: 英[ˈspeərɪŋ] 美[ˈsperɪŋ]
+$v. 把……让给；借给；抽出时间；节俭；（使）不受伤害；（使）免遭；不遗余力；不吝惜（时间、金钱）（spare 的现在分词）
+%adj. 适度的；节俭的；缺乏的
+    a sparing use of electricity
+#节约用电
+    be sparing of one's energy
+#爱惜精力
+    The book is sparing of information.
+#这本书内容贫乏。
+
+intimation: 英[ˌɪntɪˈmeɪʃ(ə)n] 美[ˌɪntɪˈmeɪʃ(ə)n]
+%n. 暗示；告知；讽示
+    feel some intimation of danger
+#感觉到危险的暗示
+    an official intimation of tax assessment
+#税务评估的正式通知
+    Late autumn contains intimations of a harsh winter to come.
+#深秋预示着严冬即将来临。
+
+remunerative: 英[rɪˈmjuːnərətɪv] 美[rɪˈmjuːnərətɪv]
+%adj. 有利可图的；有报酬的；合算的
+    remunerative justice
+#多劳多得的公平待遇
+    a remunerative salary
+#高薪
+    a remunerative deal
+#有利可图的买卖
+    He is prepared to accept any remunerative chore, however demeaning.
+#他准备接受任何有报酬的杂务，无论这种杂务多么有失身份。
+
+wavy: 英[ˈweɪvi] 美[ˈweɪvi]
+%adj. （头发）鬈曲的；波纹状的，波浪形的；（纹章）波形的，波状的
+    a wavy sea
+#波涛汹涌的大海
+    wavy hair
+#飘逸的头发
+    a wavy flame
+#摇曳的火焰
+    wavy lines
+#波浪线条
+    Ahead was the wavy terrain.
+#前面是起伏不平的地形。
+
+fluffy: 英[ˈflʌfi] 美[ˈflʌfi]
+%adj. 绒毛般的，覆有绒毛的；（食物等）松软的，透气的；轻软状的；<非正式>空洞的，不严肃的
+    a fluffy kitten
+#毛茸茸的小猫
+    fluffy hair
+#蓬松的头发
+    a fluffy omelette
+#松软的蛋饼
+    a fluffy policy
+#空洞的政策
+
+profligacy: 英[ˈprɒflɪɡəsi] 美[ˈprɑːflɪɡəsi]
+%n. 肆意挥霍；放荡；浪费
+    He has a profound dislike of profligacy.
+#他对挥霍浪费深恶痛绝。
+
+instinctive: 英[ɪnˈstɪŋktɪv] 美[ɪnˈstɪŋktɪv]
+%adj. 本能的，直觉的；天生的
+    an instinctive movement
+#本能的动作
+    have an instinctive taste for drawing
+#性喜绘画
+    an instinctive sense of danger
+#对危险的直觉感
+    She has an instinctive dislike of extreme political opinions.
+#她本能地不喜欢极端的政治观点。
+
+adulation: 英[ˌædjuˈleɪʃ(ə)n] 美[ˌædʒəˈleɪʃ(ə)n]
+%n. 奉承；谄媚
+    bask in the adulation of the crowd
+#沉醉于众人的奉承
+    He bowed his knees in slavish adulation to her.
+#他奴性地向她屈膝奉承。
+
+hardheaded: 英[ˌhɑːdˈhedɪd] 美[ˌhɑːrdˈhedɪd]
+%adj. 脚踏实地的；冷静的；无懈可击的；顽固的
+    hardheaded common sense
+#讲究实际的常识
+    hardheaded businessmen
+#精明的商人
+    He is very hardheaded in analyzing the present economic situation.
+#他在分析目前的经济形势时非常冷静。
+
+utilitarian: 英[ˌjuːtɪlɪˈteəriən] 美[ˌjuːtɪlɪˈteriən]
+$adj. 功利主义的，实利主义的；功利的，实用的
+%n. 功利主义者
+    a clean utilitarian flat
+#一套干净实用的公寓
+    an utilitarian concept of education
+#功利主义的教育观念
+    for utilitarian purposes
+#为了功利主义的目的
+    utilitarian furniture
+#实用的家具
+    A good coat is more utilitarian than a fur one.
+#一件好大衣比毛皮大衣更实用。
+
+allusion: 英[əˈluːʒ(ə)n] 美[əˈluːʒ(ə)n]
+%n. 暗指，影射，典故
+    make no personal allusions in speaking
+#说话中不影射任何人
+    make a hidden allusion to sth.
+#暗指某事
+    Her writings sparkle with classical allusions.
+#她的文章因为用典故而生色。
+
+vestigial: 英[veˈstɪdʒiəl] 美[veˈstɪdʒiəl]
+%adj. 退化的；残余的；发育不全的
+    vestigial rays of the declining sun
+#落日的余晖
+    retain some vestigial power
+#保留一些残余的权力
+    vestigial traces of conscience
+#些许残余的良知
+    Some snakes have vestigial legs.
+#有些蛇有退化的腿。
+
+harmonic: 英[hɑːˈmɒnɪk] 美[hɑːrˈmɑːnɪk]
+$adj. 和声的；（与）声音和谐悦耳（有关）的；（有关）调和级数（或数列）的；谐波的，谐的；数律分析法的
+%n. 泛音；和声；谐波；数律分析法
+    harmonic intervals
+#和声音程
+    a harmonic relationship
+#融洽的关系
+    a harmonic meeting
+#气氛和谐的会议
+
+defiant: 英[dɪˈfaɪənt] 美[dɪˈfaɪənt]
+%adj. 违抗的，反叛的，蔑视的
+    a defiant attitude
+#反抗的态度
+    be defiant of public opinion
+#藐视公众與论
+    in a defiant tone
+#以一种蔑视的口气
+    She had a defiant message for the sneers and critics.
+#她让讽刺批评者感受到了她的蔑视。
+
+ingratiating: 英[ɪnˈɡreɪʃieɪtɪŋ] 美[ɪnˈɡreɪʃieɪtɪŋ]
+%adj. 逢迎的，讨好的；迷人的，吸引人的
+    an ingratiating attitude
+#阿谀奉承的态度
+    He said this with an ingratiating smile.
+#他说这番话时面带奉承的微笑。
+
+undirected: 英[ˌʌndɪˈrektɪd] 美[ˌʌndɪˈrektɪd]
+%adj. 无目标的，未受指导的；无收件人姓名的
+    an undirected child
+#缺乏指导的孩子
+    undirected zeal
+#盲目的热情
+    It is an undirected letter.
+#这是一封无姓名和地址的信。
+
+stash: 英[stæʃ] 美[stæʃ]
+$n. 藏匿处；藏匿物
+$vt. 存放；贮藏
+%vi. 存放；藏起来
+    stash away some money
+#存一些钱
+    He had all his valuables stashed away in the loft.
+#他把所有贵重物品都藏在阁楼上。
+
+deciduous: 英[dɪˈsɪdʒuəs] 美[dɪˈsɪdʒuəs]
+%adj. 落叶性的，脱落性的；非永久性的
+    a deciduous tree
+#落叶树
+    deciduous leaves
+#落叶
+    deciduous antlers of deer
+#脱落的鹿角
+    a child's deciduous teeth
+#孩子的乳齿
+    There shouldn't be much that is deciduous in dictionaries.
+#词典中不应该有很多时过境迁的内容。
+
+murky: 英[ˈmɜːki] 美[ˈmɜːrki]
+%adj. （液体）浑浊的；（尤指因浓雾而）昏暗的，阴暗的；（行为）不光彩的，不可告人的；复杂的，难以理解的
+    a murky night
+#黑夜
+    a murky sky
+#烟雾弥漫的天空
+    a disease whose causality is murky
+#起因不明的疾病
+    murky goings-on
+#种种可疑的活动
+    a murky definition
+#模糊不清的定义
+    The large lamplit room was murky with wood smoke.
+#木柴燃烧旨出的烟把灯火通明的大房间弄得烟雾弥漫。
+
+glamorous: 英[ˈɡlæmərəs] 美[ˈɡlæmərəs]
+%adj. 迷人的，富有魅力的
+    a glamorous lady assistant
+#美丽动人的女助手
+    This profession isn't as glamorous as some people think.
+#这一行业并不像某些人认为的那样富有吸引力。
+
+disabuse: 英[ˌdɪsəˈbjuːz] 美[ˌdɪsəˈbjuːz]
+%vt. 使省悟；解迷惑；释疑；矫正
+    I must disabuse you of that idea.
+#我必须使你打消那种想法。
+
+deferential: 英[ˌdefəˈrenʃ(ə)l] 美[ˌdefəˈrenʃ(ə)l]
+%adj. 恭敬的；惯于顺从的
+    listen with deferential attention
+#恭敬地聆听
+    He was surrounded by deferential students.
+#他被毕恭毕敬的学生围着。
+
+denigrate: 英[ˈdenɪɡreɪt] 美[ˈdenɪɡreɪt]
+%vt. 诋毁；使变黑；玷污
+    denigrate one's rivals
+#诋毁对手
+    denigrate one's success
+#贬低某人的成就
+    Rain clouds denigrate the sky.
+#雨云遮暗了天空。
+
+tractable: 英[ˈtræktəb(ə)l] 美[ˈtræktəb(ə)l]
+%adj. 易于管教的；易驾驭的；易处理的；驯良的
+    a tractable horse
+#驯良的马
+    a tractable child
+#听话的孩子
+    a tractable metal
+#可锻金属
+    It is a less tractable problem.
+#这是个不易处理的问题。
+
+reminiscent: 英[ˌremɪˈnɪs(ə)nt] 美[ˌremɪˈnɪs(ə)nt]
+%adj. 使人联想的；怀旧的，缅怀往事的；与……相像的
+    a reminiscent old man
+#怀旧的老人
+    scenes reminiscent of one's childhood
+#引起童年回忆的景象
+    a taste reminiscent of chicken
+#像鸡肉那样的味道
+    a reminiscent smile
+#怀旧的微笑
+    There was a sweetish smell, vaguely reminiscent of coffee.
+#有一股甜丝丝的味道，使人隐约觉得像咖啡。
+
+illusory: 英[ɪˈluːsəri] 美[ɪˈluːsəri]
+%adj. 虚假的，幻觉的
+    bask in illusory and temporary security
+#陶醉在虚假而短暂的安全感中
+    illusory hopes
+#不切实际的希望
+    It is only an illusory victory.
+#这只是个虚假的胜利。
+
+construe: 英[kənˈstruː] 美[kənˈstruː]
+$vt. 分析；解释；翻译
+%vi. 作文法性的分析
+    construe a sentence literally
+#按字面意思解释一个句子
+    be wrongly construed
+#被曲解
+    He construed her silence as meaning that she agreed.
+#他把她的沉默理解为表示赞同。
+
+undisturbed: 英[ˌʌndɪˈstɜːbd] 美[ˌʌndɪˈstɜːrbd]
+%adj. 安静的；镇定的；未被扰乱的；泰然自若的
+    lie undisturbed
+#未被搬动过
+    The village is changing but it is still undisturbed.
+#这个村庄在发生变化，但依旧未受到干扰。
+
+clinical: 英[ˈklɪnɪk(ə)l] 美[ˈklɪnɪk(ə)l]
+%adj. 诊所的，医务室的；临床的，临床诊断的；冷静的，无感情的；简陋的，无装饰的；精确的，娴熟的
+    a clinical center
+#诊疗中心
+    a clinical lecture
+#临床授课
+    a clinical attitude to life
+#对生活的冷淡态度
+    clinical medicine
+#临床医学
+    He had a clinical attitude towards his divorce.
+#他对离婚抱着冷淡的态度。
+
+regimental: 英[ˌredʒɪˈment(ə)l] 美[ˌredʒɪˈment(ə)l]
+$adj. （军队中）团的；严格控制的，有组织的
+%n. 军服（regimentals）
+    a regimental commander
+#团长
+    regimental management
+#兵营式管理
+    be in full regimentals
+#穿着军装
+
+advocacy: 英[ˈædvəkəsi] 美[ˈædvəkəsi]
+%n. 拥护，提倡；辩护，辩护术；游说（团体或组织）；律师职业（或工作）
+    zealous advocacy
+#热烈鼓吹
+    the advocacy of a case
+#对一桩案子的辩护
+    She is renowned for her advocacy of human rights.
+#她以拥护人权而闻名。
+
+upstart: 英[ˈʌpstɑːt] 美[ˈʌpstɑːrt]
+$n. 暴发户；自命不凡的人；傲慢自负的人
+$adj. 暴富的；自命不凡的
+$vt. 使……突然跳起；使……崛起
+%vi. 突然跳起；崛起
+    an upstart family
+#暴发户
+    sb.'s upstart ambition
+#某人的狂妄野心
+    She was beaten to the top job by an upstart who joined the firm barely a year ago.
+#一位刚来公司才一年的新贵抢在她之前坐上了公司的高位。
+
+toady: 英[ˈtəʊdi] 美[ˈtoʊdi]
+$n. 马屁精，谄媚者
+%v. 拍马屁，谄媚
+    John's promotion is the result of toadying to the boss.
+#约翰是靠拍老板的马屁才得以提升的。
+
+drollery: 英[ˈdrəʊləri] 美[ˈdroʊləri]
+%n. 笑话；诙谐；喜剧作品
+    a story that amuses by its drollery
+#以富于奇趣的幽默逗乐别人的故事
+    sb.'s talent for drollery
+#某人开玩笑的才能
+
+stint: 英[stɪnt] 美[stɪnt]
+$n. 节约；定额，定量；从事某项工作的时间；有限供给，有限的努力；滨鹬；一段时间
+%v. 节省；限制；节约，吝啬；限量给；紧缩，节省
+    stint oneself of food
+#限制自己的食量
+    lavish money without stint
+#花钱大手大脚
+    do a stint of work every Sunday
+#每个星期天都做一点工作
+    He stinted himself to get his son educated.
+#他省吃俭用，以供儿子读书。
+
+transcription: 英[trænˈskrɪpʃ(ə)n] 美[trænˈskrɪpʃ(ə)n]
+%n. 抄写，打印；抄本，文字记录；音标，标音；乐曲改编；（生化）转录
+    musical transcription
+#乐曲改编
+
+ambiguity: 英[ˌæmbɪˈɡjuːəti; ˌæmbɪˈɡjuːɪti] 美[ˌæmbɪˈɡjuːəti; ˌæmbɪˈɡjuːɪti]
+%n. 模棱两可，不明确；含混不清的语句；一语多义；暧昧，难以理解的感情（或想法）
+    speak with ambiguity
+#含糊其词
+    a statement of prepared ambiguity
+#故意含糊其词的声明
+    Her reply was full of ambiguities.
+#她的答复太含糊其词了。
+
+perspicuous: 英[pəˈspɪkjʊəs] 美[pərˈspɪkjuəs]
+%adj. 明了的；清晰明白的；易懂的
+    be perspicuous in meaning
+#意思清楚
+    a long but perspicuous speech
+#很长却明白易懂的讲话
+    a perspicuous argument
+#条理分明的论据
+
+proprietary: 英[prəˈpraɪət(ə)ri] 美[prəˈpraɪəteri]
+$adj. 所有的，所有权的；专卖的，专利的；所有者的；私有的，私密的
+%n. 所有权；所有人
+    proprietary right
+#所有权
+    proprietary classes
+#有产阶级
+    a proprietary clinic
+#私营诊所
+    Jane has a rather proprietary manner with her boyfriend.
+#简对她的男朋友摆出一副主人模样。
+
+seclusion: 英[sɪˈkluːʒ(ə)n] 美[sɪˈkluːʒ(ə)n]
+%n. 隐居；与世隔绝的地方
+    the seclusion of prisoners in cells
+#囚犯被隔绝于单人牢房
+    live in seclusion
+#退隐
+    He lives in almost total seclusion these days.
+#他现在过着几乎与世隔绝的生活。
+
+intrusive: 英[ɪnˈtruːsɪv] 美[ɪnˈtruːsɪv]
+%adj. 侵入的；打扰的
+    a loud and intrusive man
+#吵吵嚷嚷好闹事的人
+    intrusive cares
+#扰人的烦心事
+    an intrusive arm of the sea
+#内凹的海湾
+    an intrusive neighbor
+#打扰他人的邻居
+
+uncompromising: 英[ʌnˈkɒmprəmaɪzɪŋ] 美[ʌnˈkɑːmprəmaɪzɪŋ]
+%adj. 不妥协的，不让步的；坚定的
+    an uncompromising attitude
+#不妥协的态度
+    an uncompromising belief
+#坚定的信仰
+
+trite: 英[traɪt] 美[traɪt]
+%adj. 陈腐的；平庸的；老一套的
+    a trite idea
+#陈腐的观念
+    All the messages in these cards sound really trite.
+#这些明信片上所有的话听起来都是老一套。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

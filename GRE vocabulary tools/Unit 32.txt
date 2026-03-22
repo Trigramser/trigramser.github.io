@@ -1,0 +1,675 @@
+<<<<<<< HEAD
+halcyon: 英[ˈhælsiən] 美[ˈhælsiən]
+$adj. 宁静的，田园诗般美好的
+$n. 翡翠鸟；神翠鸟（神话中的神鸟）
+%n. （Halcyon）（美）哈尔西恩（人名）
+    He would look back on those halcyon days at college when he hadn't a care in the world.
+#他会回首在大学时的平静日子，那时他从不为世事操心。
+
+occult: 英[ˈɒkʌlt] 美[əˈkʌlt]
+$n. 神秘学；神秘的事物，玄机；奥秘的习俗，奥秘的信仰；超自然现象；魔法
+$adj. 神秘的，不可思议的；超自然的；秘传的，深奥的；（疾病，过程）不伴随可见迹现象（或症状）的；（血液）（潜）隐的
+%v. 隔开（使看不见）；（天体）遮蔽
+    She claims to have occult powers, given to her by some mysterious spirit.
+#她声称自己具有某一神秘精灵赋予的魔力。
+
+rile: 英[raɪl] 美[raɪl]
+$vt. 激怒；搅浑；惹怒
+%n. （Rile）人名；（塞）里莱
+    It's not in your best interest to get him riled.
+#激怒他对你是没好处的。
+
+superannuated: 英[ˌsuːpərˈænjueɪtɪd] 美[ˌsuːpərˈænjueɪtɪd]
+$adj. 过时的；退休的；老朽的
+%v. 退休；变陈旧（superannuate 的过去分词）
+    No one supports these superannuated policies.
+#没人支持这些过时的政策。
+
+gingerly: 英[ˈdʒɪndʒəli] 美[ˈdʒɪndʒərli]
+$adv. 小心翼翼地；慎重地
+%adj. 谨慎的；轻手轻脚的；慎重的
+    He handled a china vase gingerly.
+#他小心翼翼地摆弄着瓷花瓶。
+
+anesthetic: 英[ˌænəsˈθetɪk] 美[ˌænəsˈθetɪk]
+$adj. 麻醉的；感觉缺失的
+%n. 麻醉剂，麻药
+    She seemed unmoved and quite anesthetic to his presence.
+#她显出无动于衷的样子，对他的在场持漠然态度。
+
+pique: 英[piːk] 美[piːk]
+$n. （尤指自尊心受损而引起的）恼怒，愤恨；凹凸织物；（皮克牌用语）30比0
+$vt. 使愤恨，使恼怒；激起（兴趣，好奇心）； 赢（某人）三十分
+%n. （Pique）（美、墨）皮克（人名）
+    She piqued him by refusing his invitation.
+#她拒绝了他的邀请，这使他很生气。
+
+plod: 英[plɒd] 美[plɑːd]
+$vi. 辛勤工作；沉重地走
+$vt. 沉重缓慢地走
+%n. 辛勤工作；沉重的步伐
+    She saw an old lady plodding wearily along the road.
+#她看见一位老太太疲惫而缓慢地在路上走着。
+
+anvil: 英[ˈænvɪl] 美[ˈænvɪl]
+%n. 铁砧；[解剖] 砧骨
+    The anvil onto which the staples are pressed was not assemble correctly.
+#订书机上的铁砧安装错位。
+
+foment: 英[fəˈment] 美[foʊˈment]
+%vt. 煽动；挑起；热敷
+    But does it contribute to robust public discussion or, instead, foment hatred and promote conflict?
+#但是，这样做是有助于推动活跃的公共讨论，还是会煽动仇恨和助长冲突？
+
+tyro: 英[ˈtaɪrəʊ] 美[ˈtaɪroʊ]
+%n. 新手，生手；初学者
+    I am a veritable tyro at the game.
+#我玩这个是新手。
+
+carrion: 英[ˈkæriən] 美[ˈkæriən]
+$n. （动物的）腐肉；不洁之物
+$adj. 腐肉的；腐朽的
+%n. （Carrion）（美、西）卡里翁（人名）
+    They range widely in search of carrion.
+#它们在广阔的区域内搜寻腐肉。
+
+placard: 英[ˈplækɑːd] 美[ˈplækɑːrd]
+$n. 海报，标语牌；招贴
+$vt. 张贴，悬挂；公布；张贴公告于
+%vi. 张贴公告
+    About 1,000 people marched past carrying placards denouncing armed intervention.
+#约有1 000人打着标语牌游行，反对武力干预。
+
+famish: 英[ˈfæmɪʃ] 美[ˈfæmɪʃ]
+%v. 使挨饿
+    The children were famished for food.
+#孩子们因缺少食物而挨饿。
+
+roe: 英[rəʊ] 美[roʊ]
+$n. 鱼卵，鱼子；牝鹿，獐
+%n. （Roe）（英、意）罗（人名）
+    She fed the cat with roes.
+#她用鱼卵喂猫。
+
+gregarious: 英[ɡrɪˈɡeəriəs] 美[ɡrɪˈɡeriəs]
+%adj. 爱交际的，合群的；（动物）群居的；（植物）聚生的
+    She is such a gregarious person.
+#她是个喜欢交际的人。
+
+dabble: 英[ˈdæb(ə)l] 美[ˈdæb(ə)l]
+$vt. 溅湿；浸入水中
+%vi. 涉猎；涉足；玩水
+    He dabbled in painting but soon gave it up.
+#他过一点绘画，但很快就放弃了。
+
+inconstancy: 英[ɪnˈkɒnstənsi] 美[ɪnˈkɑːnstənsi]
+%n. 反复无常，易变；不定性
+    On the other hand, inconstancy often results in failure.
+#从另一方面说，无恒就往往会造成失败。
+
+grasping: 英[ˈɡrɑːspɪŋ] 美[ˈɡræspɪŋ]
+$adj. 贪婪的；紧紧抓住的
+%v. 抓紧，抓牢；理解，领会（grasp 的现在分词）
+    She was portrayed in the press as a grasping sort of character who was only interested in fame.
+#她被新闻界描绘成一个贪梦的人物，只对名望感兴趣。
+
+adduce: 英[əˈdjuːs] 美[əˈduːs]
+%vt. 举出；引证
+    More data may be adduced to reinforce the point.
+#可以引证更多的资料来进一步证实这个论点。
+
+affliction: 英[əˈflɪkʃ(ə)n] 美[əˈflɪkʃ(ə)n]
+%n. 苦难；苦恼；折磨
+    He does not consider his deafness an affliction.
+#他从不把耳聋看作一种痛苦。
+
+excoriate: 英[ɪkˈskɔːrieɪt] 美[ɪkˈskɔːrieɪt]
+%vt. 严厉的责难；擦破……的皮肤
+    The president excoriated the Western press for their biased views.
+#总统痛斥西方新闻界带有偏见的观点。
+
+smite: 英[smaɪt] 美[smaɪt]
+$vt. 打；重击；毁灭；侵袭；使神魂颠倒
+$vi. 打；重击
+%n. 打；重击
+    The sound of an explosion smote our ears.
+#一声爆炸震耳欲聋。
+
+stubby: 英[ˈstʌbi] 美[ˈstʌbi]
+%adj. 短而粗硬的；又短又秃的；断株样的
+    He nodded and puffed on a stubby pipe as he listened.
+#他边听边点头，还吸着一支粗短的烟斗。
+
+sock: 英[sɒk] 美[sɑːk]
+$n. 短袜；<非正式>猛击，重击；（马小腿处的）白色标记；<美>实力，重点；鞋垫
+%v. <非正式>猛击；<非正式>使遭损失，损害；<美>（棒球运动中）猛击，狠打（球）；给……穿袜
+    Most of the country was socked by harsh weather.
+#全国大部分地区遭到严寒天气的袭击。
+
+rebuttal: 英[rɪˈbʌtl] 美[rɪˈbʌt(ə)l]
+%n. 反驳；辩驳；反证
+    The country's statement drew a prompt rebuttal from one of its neighboring nations.
+#该的声明立即遭到一个邻国的驳斥。
+
+divagate: 英[ˈdaɪvəˌɡeɪt] 美[ˈdaɪvəˌɡeɪt]
+%vi. 离题；流浪；漫游
+    Natural science divagates more and more from metaphysics.
+#自然科学与形而上学越来越分道扬镳了。
+
+fossilize: 英[ˈfɒsəlaɪz] 美[ˈfɑːsəlaɪz]
+$vt. 使成化石；使陈腐
+%vi. 变成化石；变陈腐；使过时或固定不变；搜集（或发掘）化石标本
+    Unfortunately, an organization structure can get fossilized over time and develop into a highly bureaucratic institution.
+#不幸的是一个机构的结构，会随着时间推移而僵化，最后滋生出官僚主义。
+
+materialize: 英[məˈtɪəriəlaɪz] 美[məˈtɪriəlaɪz]
+%v. 实现，成为现实；突然显现，奇怪地出现
+    He drove through the woods and suddenly a brightly lighted hotel materialized.
+#他驱车穿过树林，眼前突然出现了一家灯火通明的旅馆。
+
+waspish: 英[ˈwɒspɪʃ] 美[ˈwɔspɪʃ]
+%adj. 尖刻的；易怒的；如黄蜂的；腰细的
+    She had a waspish tongue which could hurt.
+#她言辞刻毒，容易伤人。
+
+snooze: 英[snuːz] 美[snuːz]
+$n. <非正式>（尤指在白天的）小睡，打盹儿；<美，非正式>乏味的东西
+%v. <非正式>小睡，打盹儿
+    The dog snoozed under the tree.
+#狗在树下打盹。
+
+felicitate: 英[fəˈlɪsɪˌteɪt] 美[fəˈlɪsɪˌteɪt]
+%v. 庆贺；庆祝；为……庆幸
+    He felicitated himself of having found a good job.
+#他庆幸自己找了一份好工作。
+
+well-groomed: 英[ˌwel ˈɡruːmd] 美[ˌwel ˈɡruːmd]
+%adj. 被小心照料的；梳洗得整洁的
+    The days of the well-groomed metrosexual man might soon be over as the "lumber sexual" trend takes precedence.
+#衣着整洁的都市美男时代可能不久就要结束了，因为“木匠美男”们正在成为新宠。
+
+obnoxious: 英[əbˈnɒkʃəs] 美[əbˈnɑːkʃəs]
+%adj. 可憎的，粗鲁无礼的
+    The very thought of her was obnoxious to him.
+#他一想到她就厌恶。
+
+prefigure: 英[ˌpriːˈfɪɡə(r)] 美[ˌpriːˈfɪɡjər]
+%vt. 预示；预想
+    She was not what I had prefigured her.
+#她并不像我原先想象的那样。
+
+palpitate: 英[ˈpælpɪteɪt] 美[ˈpælpɪteɪt]
+$vi. 发抖；（心脏）悸动；跳动
+%vt. 使发抖
+    The girl palpitated in dread.
+#那女孩吓得直哆嗉。
+
+convergent: 英[kənˈvɜːdʒənt] 美[kənˈvɜːrdʒənt]
+%adj. [数] 收敛的；会聚性的；趋集于一点的
+    The convergent speed of this search method is very fast. 
+#这种搜寻方法的收敛速度较快。
+
+stipulation: 英[ˌstɪpjuˈleɪʃ(ə)n] 美[ˌstɪpjuˈleɪʃn]
+%n. 条款，约定（规定）的条件
+    The only stipulation is that the candidate must be over the age of 35.
+#唯一的规定是候选人必须超过35岁。
+
+nostrum: 英[ˈnɒstrəm] 美[ˈnɑːstrəm]
+%n. 秘方；成药；万能药
+    nostrums claiming to be magic potions
+#据称是神奇药剂的秘方
+
+governance: 英[ˈɡʌvənəns] 美[ˈɡʌvərnəns]
+%n. 统治方式，管理方法
+    He was invested with governance of the kingdom.
+#他被授予统治王国之权。
+
+cower: 英[ˈkaʊə(r)] 美[ˈkaʊər]
+%vi. 退缩；抖缩；蜷缩；弯腰屈膝
+    They cowered in the hut, listening in fear.
+#他们蜷缩在茅屋里，战战兢兢地听着。
+
+impalpable: 英[ɪmˈpælpəb(ə)l] 美[ɪmˈpælpəb(ə)l]
+%adj. 感触不到的；难理解的；无形的
+    an impalpable beauty of style
+#难以领略的风格美
+
+bloated: 英[ˈbləʊtɪd] 美[ˈbloʊtɪd]
+$v. （使）膨胀；膨胀；腌熏（鲱鱼）（bloat 的过去式及过去分词）
+%adj. （身体部位）肿起的；臃肿的；生活奢侈的；饮食过度的
+    He did not leave the table until feeling bloated.
+#他直到肚子胀鼓鼓的才离开餐桌。
+
+pretension: 英[prɪˈtenʃ(ə)n] 美[prɪˈtenʃ(ə)n]
+%n. 自负；要求；主张；借口；骄傲
+    He despised the pretensions, prejudices and bad habits of the man.
+#他鄙视那人的虚荣、偏见和恶习。
+
+vibrancy: 英[ˈvaɪbrənsi] 美[ˈvaɪbrənsi]
+%n. 振动；活力
+    the tremendous vibrancy of the young people
+#年轻人的朝气蓬勃
+
+piebald: 英[ˈpaɪbɔːld] 美[ˈpaɪbɔːld]
+$adj. （马）花斑的；黑白两色的
+%n. 花斑马（或其他花斑动物）
+    piebald ponies
+#杂色小马
+
+accountability: 英[əˌkaʊntəˈbɪləti] 美[əˌkaʊntəˈbɪləti]
+%n. 责任，责任心，可说明性
+    There were furious demands for greater police accountability.
+#公众强烈要求警方做出更多的解释。
+
+swank: 英[swæŋk] 美[swæŋk]
+$v. 炫耀；出风头；卖弄；摆阔
+$n. 出风头；虚张声势；吹牛；炫耀的人
+$adj. 爱打扮的；华丽的，时髦的；爱出风头的
+%n. （Swank）斯旺克（人名）
+    She swanked about in her new fur coat.
+#她穿着新裘皮大衣到处炫耀。
+
+scission: 英[ˈsɪʃ(ə)n] 美[ˈsɪʒ(ə)n]
+%n. 切断，分离；断开
+    the scission of the party
+#政党的分裂
+
+obstreperous: 英[əbˈstrepərəs] 美[əbˈstrepərəs]
+%adj. 吵闹的，喧嚣的；难驾驭的
+    The riot police were there in case they got obstreperous.
+#防暴警察在那里以防他们闹事。
+
+whit: 英[wɪt] 美[wɪt]
+$n. 一点点；些微
+%n. （Whit）人名；（英）惠特
+    That doesn't worry him a whit.
+#那事丝毫不使他担心。
+
+proffer: 英[ˈprɒfə(r)] 美[ˈprɑːfər]
+$v. 递上；提供，提出
+%n. 提供，提议
+    She rose and proffered a silver box full of sweets.
+#她起身递上一个装满糖果的银色盒子。
+
+squelch: 英[skweltʃ] 美[skweltʃ]
+$vt. 消除；镇压；压碎；使……咯吱咯吱的响
+$vi. 嘎吱作响
+%n. 噪声控制；嘎吱声；压倒对方的反驳；压碎的一堆
+    He squelched along the water's edge.
+#他嘎吱嘎吱地沿着水边走。
+
+bowdlerize: 英[ˈbaʊdləraɪz] 美[ˈbaʊdləraɪz]
+%vt. 删改；删除不妥的文句
+    The version of the play that I saw had been dreadfully bowdlerized.
+#我看到的剧本版本已被删改得面目全非。
+
+raspy: 英[ˈrɑːspi] 美[ˈræspi]
+%adj. 刺耳的；易怒的；粗糙的
+    a raspy temper
+#火暴性子
+
+yen: 英[jen] 美[jen]
+$n. 日元（日本货币单位）；渴望
+$vi. 渴望
+%n. （Yen）人名；（土、柬）延
+    a yen to see the world
+#见见世面的渴望
+
+turncoat: 英[ˈtɜːnkəʊt] 美[ˈtɜːrnkoʊt]
+%n. 变节者；背叛者
+    label sb. a turncoat
+#称某人为叛徒
+
+exceptionable: 英[ɪkˈsepʃənəb(ə)l] 美[ɪkˈsepʃənəb(ə)l]
+%adj. 可反对的；可抗议的；引起反感的
+    a highly exceptionable piece of writing
+#一篇可能引起争议的文章
+
+immemorial: 英[ˌɪməˈmɔːriəl] 美[ˌɪməˈmɔːriəl]
+%adj. 远古的，古老的；无法追忆的
+    an immemorial elm
+#古榆树
+
+deductive: 英[dɪˈdʌktɪv] 美[dɪˈdʌktɪv]
+%adj. 演绎的，推论的
+    She didn't seem at all impressed by his deductive powers.
+#她似乎根本不为他的推论能力所动。
+
+=======
+halcyon: 英[ˈhælsiən] 美[ˈhælsiən]
+$adj. 宁静的，田园诗般美好的
+$n. 翡翠鸟；神翠鸟（神话中的神鸟）
+%n. （Halcyon）（美）哈尔西恩（人名）
+    He would look back on those halcyon days at college when he hadn't a care in the world.
+#他会回首在大学时的平静日子，那时他从不为世事操心。
+
+occult: 英[ˈɒkʌlt] 美[əˈkʌlt]
+$n. 神秘学；神秘的事物，玄机；奥秘的习俗，奥秘的信仰；超自然现象；魔法
+$adj. 神秘的，不可思议的；超自然的；秘传的，深奥的；（疾病，过程）不伴随可见迹现象（或症状）的；（血液）（潜）隐的
+%v. 隔开（使看不见）；（天体）遮蔽
+    She claims to have occult powers, given to her by some mysterious spirit.
+#她声称自己具有某一神秘精灵赋予的魔力。
+
+rile: 英[raɪl] 美[raɪl]
+$vt. 激怒；搅浑；惹怒
+%n. （Rile）人名；（塞）里莱
+    It's not in your best interest to get him riled.
+#激怒他对你是没好处的。
+
+superannuated: 英[ˌsuːpərˈænjueɪtɪd] 美[ˌsuːpərˈænjueɪtɪd]
+$adj. 过时的；退休的；老朽的
+%v. 退休；变陈旧（superannuate 的过去分词）
+    No one supports these superannuated policies.
+#没人支持这些过时的政策。
+
+gingerly: 英[ˈdʒɪndʒəli] 美[ˈdʒɪndʒərli]
+$adv. 小心翼翼地；慎重地
+%adj. 谨慎的；轻手轻脚的；慎重的
+    He handled a china vase gingerly.
+#他小心翼翼地摆弄着瓷花瓶。
+
+anesthetic: 英[ˌænəsˈθetɪk] 美[ˌænəsˈθetɪk]
+$adj. 麻醉的；感觉缺失的
+%n. 麻醉剂，麻药
+    She seemed unmoved and quite anesthetic to his presence.
+#她显出无动于衷的样子，对他的在场持漠然态度。
+
+pique: 英[piːk] 美[piːk]
+$n. （尤指自尊心受损而引起的）恼怒，愤恨；凹凸织物；（皮克牌用语）30比0
+$vt. 使愤恨，使恼怒；激起（兴趣，好奇心）； 赢（某人）三十分
+%n. （Pique）（美、墨）皮克（人名）
+    She piqued him by refusing his invitation.
+#她拒绝了他的邀请，这使他很生气。
+
+plod: 英[plɒd] 美[plɑːd]
+$vi. 辛勤工作；沉重地走
+$vt. 沉重缓慢地走
+%n. 辛勤工作；沉重的步伐
+    She saw an old lady plodding wearily along the road.
+#她看见一位老太太疲惫而缓慢地在路上走着。
+
+anvil: 英[ˈænvɪl] 美[ˈænvɪl]
+%n. 铁砧；[解剖] 砧骨
+    The anvil onto which the staples are pressed was not assemble correctly.
+#订书机上的铁砧安装错位。
+
+foment: 英[fəˈment] 美[foʊˈment]
+%vt. 煽动；挑起；热敷
+    But does it contribute to robust public discussion or, instead, foment hatred and promote conflict?
+#但是，这样做是有助于推动活跃的公共讨论，还是会煽动仇恨和助长冲突？
+
+tyro: 英[ˈtaɪrəʊ] 美[ˈtaɪroʊ]
+%n. 新手，生手；初学者
+    I am a veritable tyro at the game.
+#我玩这个是新手。
+
+carrion: 英[ˈkæriən] 美[ˈkæriən]
+$n. （动物的）腐肉；不洁之物
+$adj. 腐肉的；腐朽的
+%n. （Carrion）（美、西）卡里翁（人名）
+    They range widely in search of carrion.
+#它们在广阔的区域内搜寻腐肉。
+
+placard: 英[ˈplækɑːd] 美[ˈplækɑːrd]
+$n. 海报，标语牌；招贴
+$vt. 张贴，悬挂；公布；张贴公告于
+%vi. 张贴公告
+    About 1,000 people marched past carrying placards denouncing armed intervention.
+#约有1 000人打着标语牌游行，反对武力干预。
+
+famish: 英[ˈfæmɪʃ] 美[ˈfæmɪʃ]
+%v. 使挨饿
+    The children were famished for food.
+#孩子们因缺少食物而挨饿。
+
+roe: 英[rəʊ] 美[roʊ]
+$n. 鱼卵，鱼子；牝鹿，獐
+%n. （Roe）（英、意）罗（人名）
+    She fed the cat with roes.
+#她用鱼卵喂猫。
+
+gregarious: 英[ɡrɪˈɡeəriəs] 美[ɡrɪˈɡeriəs]
+%adj. 爱交际的，合群的；（动物）群居的；（植物）聚生的
+    She is such a gregarious person.
+#她是个喜欢交际的人。
+
+dabble: 英[ˈdæb(ə)l] 美[ˈdæb(ə)l]
+$vt. 溅湿；浸入水中
+%vi. 涉猎；涉足；玩水
+    He dabbled in painting but soon gave it up.
+#他过一点绘画，但很快就放弃了。
+
+inconstancy: 英[ɪnˈkɒnstənsi] 美[ɪnˈkɑːnstənsi]
+%n. 反复无常，易变；不定性
+    On the other hand, inconstancy often results in failure.
+#从另一方面说，无恒就往往会造成失败。
+
+grasping: 英[ˈɡrɑːspɪŋ] 美[ˈɡræspɪŋ]
+$adj. 贪婪的；紧紧抓住的
+%v. 抓紧，抓牢；理解，领会（grasp 的现在分词）
+    She was portrayed in the press as a grasping sort of character who was only interested in fame.
+#她被新闻界描绘成一个贪梦的人物，只对名望感兴趣。
+
+adduce: 英[əˈdjuːs] 美[əˈduːs]
+%vt. 举出；引证
+    More data may be adduced to reinforce the point.
+#可以引证更多的资料来进一步证实这个论点。
+
+affliction: 英[əˈflɪkʃ(ə)n] 美[əˈflɪkʃ(ə)n]
+%n. 苦难；苦恼；折磨
+    He does not consider his deafness an affliction.
+#他从不把耳聋看作一种痛苦。
+
+excoriate: 英[ɪkˈskɔːrieɪt] 美[ɪkˈskɔːrieɪt]
+%vt. 严厉的责难；擦破……的皮肤
+    The president excoriated the Western press for their biased views.
+#总统痛斥西方新闻界带有偏见的观点。
+
+smite: 英[smaɪt] 美[smaɪt]
+$vt. 打；重击；毁灭；侵袭；使神魂颠倒
+$vi. 打；重击
+%n. 打；重击
+    The sound of an explosion smote our ears.
+#一声爆炸震耳欲聋。
+
+stubby: 英[ˈstʌbi] 美[ˈstʌbi]
+%adj. 短而粗硬的；又短又秃的；断株样的
+    He nodded and puffed on a stubby pipe as he listened.
+#他边听边点头，还吸着一支粗短的烟斗。
+
+sock: 英[sɒk] 美[sɑːk]
+$n. 短袜；<非正式>猛击，重击；（马小腿处的）白色标记；<美>实力，重点；鞋垫
+%v. <非正式>猛击；<非正式>使遭损失，损害；<美>（棒球运动中）猛击，狠打（球）；给……穿袜
+    Most of the country was socked by harsh weather.
+#全国大部分地区遭到严寒天气的袭击。
+
+rebuttal: 英[rɪˈbʌtl] 美[rɪˈbʌt(ə)l]
+%n. 反驳；辩驳；反证
+    The country's statement drew a prompt rebuttal from one of its neighboring nations.
+#该的声明立即遭到一个邻国的驳斥。
+
+divagate: 英[ˈdaɪvəˌɡeɪt] 美[ˈdaɪvəˌɡeɪt]
+%vi. 离题；流浪；漫游
+    Natural science divagates more and more from metaphysics.
+#自然科学与形而上学越来越分道扬镳了。
+
+fossilize: 英[ˈfɒsəlaɪz] 美[ˈfɑːsəlaɪz]
+$vt. 使成化石；使陈腐
+%vi. 变成化石；变陈腐；使过时或固定不变；搜集（或发掘）化石标本
+    Unfortunately, an organization structure can get fossilized over time and develop into a highly bureaucratic institution.
+#不幸的是一个机构的结构，会随着时间推移而僵化，最后滋生出官僚主义。
+
+materialize: 英[məˈtɪəriəlaɪz] 美[məˈtɪriəlaɪz]
+%v. 实现，成为现实；突然显现，奇怪地出现
+    He drove through the woods and suddenly a brightly lighted hotel materialized.
+#他驱车穿过树林，眼前突然出现了一家灯火通明的旅馆。
+
+waspish: 英[ˈwɒspɪʃ] 美[ˈwɔspɪʃ]
+%adj. 尖刻的；易怒的；如黄蜂的；腰细的
+    She had a waspish tongue which could hurt.
+#她言辞刻毒，容易伤人。
+
+snooze: 英[snuːz] 美[snuːz]
+$n. <非正式>（尤指在白天的）小睡，打盹儿；<美，非正式>乏味的东西
+%v. <非正式>小睡，打盹儿
+    The dog snoozed under the tree.
+#狗在树下打盹。
+
+felicitate: 英[fəˈlɪsɪˌteɪt] 美[fəˈlɪsɪˌteɪt]
+%v. 庆贺；庆祝；为……庆幸
+    He felicitated himself of having found a good job.
+#他庆幸自己找了一份好工作。
+
+well-groomed: 英[ˌwel ˈɡruːmd] 美[ˌwel ˈɡruːmd]
+%adj. 被小心照料的；梳洗得整洁的
+    The days of the well-groomed metrosexual man might soon be over as the "lumber sexual" trend takes precedence.
+#衣着整洁的都市美男时代可能不久就要结束了，因为“木匠美男”们正在成为新宠。
+
+obnoxious: 英[əbˈnɒkʃəs] 美[əbˈnɑːkʃəs]
+%adj. 可憎的，粗鲁无礼的
+    The very thought of her was obnoxious to him.
+#他一想到她就厌恶。
+
+prefigure: 英[ˌpriːˈfɪɡə(r)] 美[ˌpriːˈfɪɡjər]
+%vt. 预示；预想
+    She was not what I had prefigured her.
+#她并不像我原先想象的那样。
+
+palpitate: 英[ˈpælpɪteɪt] 美[ˈpælpɪteɪt]
+$vi. 发抖；（心脏）悸动；跳动
+%vt. 使发抖
+    The girl palpitated in dread.
+#那女孩吓得直哆嗉。
+
+convergent: 英[kənˈvɜːdʒənt] 美[kənˈvɜːrdʒənt]
+%adj. [数] 收敛的；会聚性的；趋集于一点的
+    The convergent speed of this search method is very fast. 
+#这种搜寻方法的收敛速度较快。
+
+stipulation: 英[ˌstɪpjuˈleɪʃ(ə)n] 美[ˌstɪpjuˈleɪʃn]
+%n. 条款，约定（规定）的条件
+    The only stipulation is that the candidate must be over the age of 35.
+#唯一的规定是候选人必须超过35岁。
+
+nostrum: 英[ˈnɒstrəm] 美[ˈnɑːstrəm]
+%n. 秘方；成药；万能药
+    nostrums claiming to be magic potions
+#据称是神奇药剂的秘方
+
+governance: 英[ˈɡʌvənəns] 美[ˈɡʌvərnəns]
+%n. 统治方式，管理方法
+    He was invested with governance of the kingdom.
+#他被授予统治王国之权。
+
+cower: 英[ˈkaʊə(r)] 美[ˈkaʊər]
+%vi. 退缩；抖缩；蜷缩；弯腰屈膝
+    They cowered in the hut, listening in fear.
+#他们蜷缩在茅屋里，战战兢兢地听着。
+
+impalpable: 英[ɪmˈpælpəb(ə)l] 美[ɪmˈpælpəb(ə)l]
+%adj. 感触不到的；难理解的；无形的
+    an impalpable beauty of style
+#难以领略的风格美
+
+bloated: 英[ˈbləʊtɪd] 美[ˈbloʊtɪd]
+$v. （使）膨胀；膨胀；腌熏（鲱鱼）（bloat 的过去式及过去分词）
+%adj. （身体部位）肿起的；臃肿的；生活奢侈的；饮食过度的
+    He did not leave the table until feeling bloated.
+#他直到肚子胀鼓鼓的才离开餐桌。
+
+pretension: 英[prɪˈtenʃ(ə)n] 美[prɪˈtenʃ(ə)n]
+%n. 自负；要求；主张；借口；骄傲
+    He despised the pretensions, prejudices and bad habits of the man.
+#他鄙视那人的虚荣、偏见和恶习。
+
+vibrancy: 英[ˈvaɪbrənsi] 美[ˈvaɪbrənsi]
+%n. 振动；活力
+    the tremendous vibrancy of the young people
+#年轻人的朝气蓬勃
+
+piebald: 英[ˈpaɪbɔːld] 美[ˈpaɪbɔːld]
+$adj. （马）花斑的；黑白两色的
+%n. 花斑马（或其他花斑动物）
+    piebald ponies
+#杂色小马
+
+accountability: 英[əˌkaʊntəˈbɪləti] 美[əˌkaʊntəˈbɪləti]
+%n. 责任，责任心，可说明性
+    There were furious demands for greater police accountability.
+#公众强烈要求警方做出更多的解释。
+
+swank: 英[swæŋk] 美[swæŋk]
+$v. 炫耀；出风头；卖弄；摆阔
+$n. 出风头；虚张声势；吹牛；炫耀的人
+$adj. 爱打扮的；华丽的，时髦的；爱出风头的
+%n. （Swank）斯旺克（人名）
+    She swanked about in her new fur coat.
+#她穿着新裘皮大衣到处炫耀。
+
+scission: 英[ˈsɪʃ(ə)n] 美[ˈsɪʒ(ə)n]
+%n. 切断，分离；断开
+    the scission of the party
+#政党的分裂
+
+obstreperous: 英[əbˈstrepərəs] 美[əbˈstrepərəs]
+%adj. 吵闹的，喧嚣的；难驾驭的
+    The riot police were there in case they got obstreperous.
+#防暴警察在那里以防他们闹事。
+
+whit: 英[wɪt] 美[wɪt]
+$n. 一点点；些微
+%n. （Whit）人名；（英）惠特
+    That doesn't worry him a whit.
+#那事丝毫不使他担心。
+
+proffer: 英[ˈprɒfə(r)] 美[ˈprɑːfər]
+$v. 递上；提供，提出
+%n. 提供，提议
+    She rose and proffered a silver box full of sweets.
+#她起身递上一个装满糖果的银色盒子。
+
+squelch: 英[skweltʃ] 美[skweltʃ]
+$vt. 消除；镇压；压碎；使……咯吱咯吱的响
+$vi. 嘎吱作响
+%n. 噪声控制；嘎吱声；压倒对方的反驳；压碎的一堆
+    He squelched along the water's edge.
+#他嘎吱嘎吱地沿着水边走。
+
+bowdlerize: 英[ˈbaʊdləraɪz] 美[ˈbaʊdləraɪz]
+%vt. 删改；删除不妥的文句
+    The version of the play that I saw had been dreadfully bowdlerized.
+#我看到的剧本版本已被删改得面目全非。
+
+raspy: 英[ˈrɑːspi] 美[ˈræspi]
+%adj. 刺耳的；易怒的；粗糙的
+    a raspy temper
+#火暴性子
+
+yen: 英[jen] 美[jen]
+$n. 日元（日本货币单位）；渴望
+$vi. 渴望
+%n. （Yen）人名；（土、柬）延
+    a yen to see the world
+#见见世面的渴望
+
+turncoat: 英[ˈtɜːnkəʊt] 美[ˈtɜːrnkoʊt]
+%n. 变节者；背叛者
+    label sb. a turncoat
+#称某人为叛徒
+
+exceptionable: 英[ɪkˈsepʃənəb(ə)l] 美[ɪkˈsepʃənəb(ə)l]
+%adj. 可反对的；可抗议的；引起反感的
+    a highly exceptionable piece of writing
+#一篇可能引起争议的文章
+
+immemorial: 英[ˌɪməˈmɔːriəl] 美[ˌɪməˈmɔːriəl]
+%adj. 远古的，古老的；无法追忆的
+    an immemorial elm
+#古榆树
+
+deductive: 英[dɪˈdʌktɪv] 美[dɪˈdʌktɪv]
+%adj. 演绎的，推论的
+    She didn't seem at all impressed by his deductive powers.
+#她似乎根本不为他的推论能力所动。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

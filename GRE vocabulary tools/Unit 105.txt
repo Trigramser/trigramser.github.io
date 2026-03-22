@@ -1,0 +1,709 @@
+<<<<<<< HEAD
+sculpt: 英[skʌlpt] 美[skʌlpt]
+$vt. 造型；雕刻
+$vi. 造型；雕刻
+$n. 雕刻品
+%n. （Sculpt）人名；（英）斯卡尔普特
+    a human figure sculpted in marble
+#大理石雕刻人像
+    The dripping water sculpted strange shapes out of the rocks.
+#滴水把石头雕刻成了各种奇怪的形状。
+
+remorseless: 英[rɪˈmɔːsləs] 美[rɪˈmɔːrsləs]
+%adj. 冷酷的；不知过错的；坚持不懈的；不屈不挠的
+    a remorseless judge
+#无情的法官
+    a remorseless wind
+#刮个不停的风
+    a remorseless pursuit
+#不屈不挠的追求
+    They condemned his remorseless cruelty.
+#他们谴责他的无犯罪感的暴力行为。
+
+overawe: 英[ˌəʊvərˈɔː] 美[ˌoʊvərˈɔː]
+%v. 使敬畏，使胆怯
+    overawe sb. into submission
+#威慑某人使其屈服
+    Some of the players were totally overawed by playing their first game at the national stadium.
+#有些选手第一次在国家体育场里比赛时被完全震住了。
+
+prudish: 英[ˈpruːdɪʃ] 美[ˈpruːdɪʃ]
+%adj. 装正经的；过分规矩的
+    She takes rather a prudish view of the issue.
+#她对那件事持有过分拘谨的态度
+
+specialization: 英[ˌspeʃəlaɪˈzeɪʃ(ə)n] 美[ˌspeʃələˈzeɪʃ(ə)n]
+%n. 专业；专业化，专门化；（生物）特化作用
+    The lawyer said that he was unable to help us because our case fell outside his specialization.
+#律师说他没法帮我们，因为我们的案子超出了他的专业范围。
+
+defecate: 英[ˈdefəkeɪt] 美[ˈdefəkeɪt]
+$vt. 澄清；除去污物
+%vi. 排便；澄清
+    defecate a fact
+#澄清一个事实
+
+insubordinate: 英[ˌɪnsəˈbɔːdɪnət] 美[ˌɪnsəˈbɔːrdɪnət]
+%adj. 不听话的；不顺从的
+    insubordinate behavior
+#违抗命令的行为
+    The old school headteacher remembered him as an insubordinate child.
+#老校长记得他是个不听话的孩子。
+
+assessment: 英[əˈsesmənt] 美[əˈsesmənt]
+%n. 评估，评价；估价，估计
+    Both their assessments of production costs were hopelessly inaccurate.
+#他们二人对生产成本的估计都是十分不精确的。
+
+trendsetter: 英[ˈtrendsetə(r)] 美[ˈtrendsetər]
+%n. 领导流行的人
+    They are not only the world's biggest fast-food chain but also the industry's trendsetter.
+#他们不仅是世界上最大的快餐连锁店，而且还是该行业的标新立异者。
+
+storage: 英[ˈstɔːrɪdʒ] 美[ˈstɔːrɪdʒ]
+$n. 储存，贮藏；（信息的）存储，存储空间；（家具等的）存放，保管；储存空间，储藏场所；仓库费，仓租
+%adj. 储存的
+    meat packaged for storage
+#为贮藏而包装好的肉
+    place goods in storage
+#把货物贮藏起来
+    storage battery
+#蓄电池
+    A quarter of the crop may be lost in storage.
+#有四分之一的作物可能会在储存过程中损耗。
+
+rhetorical: 英[rɪˈtɒrɪk(ə)l] 美[rɪˈtɔːrɪk(ə)l]
+%adj. （与）修辞（有关）的；反问的，反诘的；巧辩的，说话虚夸的
+    be engaged in a bitter rhetorical feud
+#陷入激烈的笔战
+    He made a few rhetorical changes in his lecture notes.
+#他在讲稿上做了若干遣词造句方面的改动。
+
+involvement: 英[ɪnˈvɒlvmənt] 美[ɪnˈvɑːlvmənt]
+%n. 参与，介入；投入，沉迷；暧昧关系，恋爱关系
+    have no direct involvement in politics
+#未直接卷入政治
+    invite sb.'s involvement
+#招致某人的介入
+    My personal involvement with her and her family is deep.
+#我个人同她和她的家庭瓜葛很深。
+
+unalterable: 英[ʌnˈɔːltərəb(ə)l] 美[ʌnˈɔːltərəb(ə)l]
+%adj. 不能改变的；坚定不移的
+    an unalterable resolve
+#坚定不移的决心
+
+propitiate: 英[prəˈpɪʃieɪt] 美[prəˈpɪʃieɪt]
+%vt. 抚慰，安抚；与……和解
+    In those days people might sacrifice a sheep to propitiate an angry god.
+#在那个时候，人们会祭献一只羊以抚慰一个发怒的神。
+
+painstaking: 英[ˈpeɪnzteɪkɪŋ] 美[ˈpeɪnzteɪkɪŋ]
+$adj. 刻苦的，下苦功的
+%n. 辛苦，勤勉
+    He was described by his colleagues as a painstaking journalist.
+#他被同事们描述为一个勤恳的记者。
+
+gymnastic: 英[dʒɪmˈnæstɪk] 美[dʒɪmˈnæstɪk]
+%adj. 体操的，体育的
+    The girls are taking part in the school's gymnastic display.
+#这些女孩子将参加学校的体操表演。
+
+conflagration: 英[ˌkɒnfləˈɡreɪʃ(ə)n] 美[ˌkɑːnfləˈɡreɪʃ(ə)n]
+%n. 大火；快速燃烧；突发；冲突
+    a racial conflagration
+#种族冲突
+    the neon conflagration of the downtown center
+#市中心大片大片的電虹灯火
+    A conflagration razed the whole forest.
+#一场大火把整个森林夷为平地。
+
+indenture: 英[ɪnˈdentʃə(r)] 美[ɪnˈdentʃər]
+$n. 契约；合同
+%vt. 以契约约束
+    The land was worked by indentured laborers.
+#这土地是由契约工人耕种的。
+
+overtire: 英[ˌəʊvəˈtaɪə] 美[ˌoʊvərˈtaɪ(ə)r]
+%v. 使过度劳累
+    After the operation, you must be careful not to overtire yourself.
+#手术后，你一定要当心不要使自己过度疲劳。
+
+perennial: 英[pəˈreniəl] 美[pəˈreniəl]
+$adj. 多年生的；常年的；四季不断的；常在的；反复的
+%n. 多年生植物
+    the perennial shortage of teachers
+#教师长期短缺
+    perennial efforts
+#反复的努力
+    We face the perennial problem of not having enough money.
+#我们面临资金不足这一长期问题。
+
+predispose: 英[ˌpriːdɪˈspəʊz] 美[ˌpriːdɪˈspoʊz]
+%v. 使倾向于，使受……的影响；使易感染，使易患（某种疾病）
+    His good manners predispose people to like him.
+#他的彬彬有礼使得人们未经结识就喜欢上了他。
+
+copious: 英[ˈkəʊpiəs] 美[ˈkoʊpiəs]
+%adj. 丰富的；很多的；多产的
+    copious snow
+#大量的雪
+    a copious harvest
+#丰收
+    a copious rainfall
+#充足的降雨量
+    a copious talker
+#口若悬河的人
+    a copious writer
+#多产作家
+    The book has copious illustrations.
+#这本书有大量的插图。
+
+monotony: 英[məˈnɒtəni] 美[məˈnɑːtəni]
+%n. 单调乏味，千篇一律；（声音或话语的）单调
+    The routine was the same every day, with only a visit from the children on Saturday to break the monotony.
+#每天做的事都相同，唯独在星期六孩子们来访时才打破这一单调。
+
+exhaustive: 英[ɪɡˈzɔːstɪv] 美[ɪɡˈzɔːstɪv]
+%adj. 详尽的，彻底的；消耗的
+    an exhaustive analysis of the policy
+#对政策的透彻分析
+    an exhaustive inventory
+#详尽的存货清单
+    make an exhaustive study of
+#做透彻研究
+    They conducted an exhaustive investigation.
+#他们进行了一次彻底调查。
+
+convoluted: 英[ˈkɒnvəluːtɪd] 美[ˈkɑːnvəluːtɪd]
+$adj. 复杂的；费解的；旋绕的
+%v. 盘绕；缠绕（convolute 的过去分词）
+    a long, convoluted sentence
+#冗长晦涩的句子
+    a convoluted path
+#羊肠小道
+    The directions he gave us to his house took us along a very convoluted route.
+#他指给了我们去他家的路，这路绕来绕去，十分复杂。
+
+ingest: 英[ɪnˈdʒest] 美[ɪnˈdʒest]
+%vt. 摄取；咽下；吸收；接待
+    ingest the ideas of philosophers
+#吸取哲学家们的思想
+    The chemicals can be poisonous if ingested.
+#这些化学药品如果被摄入体内就会产生毒性。
+
+placebo: 英[pləˈsiːbəʊ] 美[pləˈsiːboʊ]
+%n. 安慰剂，无效对照剂；使人宽慰的事，安抚话；为死者所颂的晚祷词
+    These small concessions have been made as a placebo to stop the workers making further demands.
+#这些小让步就像安慰剂一样，以免工人们提出更多的要求。
+
+untainted: 英[ˌʌnˈteɪntɪd] 美[ˌʌnˈteɪntɪd]
+%adj. 无污点的；未染污的
+    untainted character
+#清白的品格
+
+simulation: 英[ˌsɪmjuˈleɪʃ(ə)n] 美[ˌsɪmjuˈleɪʃ(ə)n]
+%n. 模拟，仿造物；假装，冒充
+    a simulation of nuclear war
+#模拟核战争
+    simulation training
+#模拟训练
+    The viewers were unable to distinguish reality from simulation.
+#观众无法辨别真伪。
+
+untalented: 英[ʌnˈtæləntɪd] 美[ʌnˈtæləntɪd]
+%adj. 缺乏才能的，没有才干的；没有天赋的；不聪明的
+    an untalented manager
+#无才华的经理
+
+unfeigned: 英[ʌnˈfeɪnd] 美[ʌnˈfeɪnd]
+%adj. 真实的，不虚伪的
+    He showed unfeigned satisfaction with her success.
+#他对她取得的成就表示由衷的满意。
+
+anatomical: 英[ˌænəˈtɒmɪk(ə)l] 美[ˌænəˈtɑːmɪk(ə)l]
+%adj. 解剖的；解剖学的；结构上的
+    anatomical drawings
+#解剖图
+    anatomical physiology
+#解剖生理学
+
+repugnance: 英[rɪˈpʌɡnəns] 美[rɪˈpʌɡnəns]
+%n. 反感；厌恶；不一致，抵触
+    an expression of utter repugnance
+#深恶痛绝的表情
+    a repugnance between statements
+#各种说法不一致
+    She turned away from him in repugnance. 
+#她非常反感地转过头去不看他。
+
+redirect: 英[ˌriːdəˈrekt] 美[ˌriːdəˈrekt]
+$v. （以新的方式或目的）重新使用；改寄，改变投递方向
+%n. 改寄；配置
+    redirect a letter
+#改寄信件
+    redirect one's energies
+#把精力转移到其他方面
+    All traffic is being redirected to avoid this stretch of highway.
+#车辆都被指挥改道以绕开这一段公路。
+
+ossify: 英[ˈɒsɪfaɪ] 美[ˈɑːsɪfaɪ]
+$vi. 骨化；硬化；僵化
+%vt. 使硬化；使骨化；使僵化
+    Years of easy success has ossified the company's thinking.
+#几年来轻易取得成功使这家公司的思想变得僵化。
+
+proselytize: 英[ˈprɒsələtaɪz] 美[ˈprɑːsələtaɪz]
+$vi. 劝诱改宗
+%vt. 使改宗
+    He was remarkable for the proselytizing zeal with which he wrote his pamphlets.
+#他因改变他人信仰的狂热而出名，他出于这种狂热写了许多小册子。
+
+irredeemable: 英[ˌɪrɪˈdiːməb(ə)l] 美[ˌɪrɪˈdiːməb(ə)l]
+%adj. 不能赎回的；[金融] 不能兑现的；不可救药的
+    an irredeemable flaw
+#无法补救的缺陷
+    an irredeemable loss
+#无法挽回的损失
+    an irredeemable scoundrel
+#不可救药的流氓
+    Such stubbornness to refuse to help is not courage but irredeemable stupidity.
+#固执地拒绝帮助不是勇气，而是无可救药的愚蠢。
+
+steady: 英[ˈstedi] 美[ˈstedi]
+$adj. 平稳的，稳步的，持续的；稳定的，恒定的；稳固的，牢固的；沉着的，冷静的；（人）稳重的，可靠的
+$v. 使平稳，稳住；（使）稳定，（使）固定（一段时间）；（使）镇定，（使）冷静
+$n. <非正式>关系确定的情侣；（支撑大篷车或其他车辆的）支架，撑竿
+$int. 当心，冷静点
+%adv. 稳定地，持续地，稳固地
+    steady prices
+#稳定的价格
+    be steady in one's principle
+#坚持自己的原则
+    a steady mind
+#沉着冷静的头脑
+    His calm confidence steadied the nervous passengers.
+#他的镇定自若使紧张不安的旅客冷静了下来。
+
+discursive: 英[dɪˈskɜːsɪv] 美[dɪˈskɜːrsɪv]
+%adj. 散漫的；离题的；东拉西扯的；无层次的；推论的，论证的
+    His discursive argument was very convincing.
+#他的推理很令人信服。
+
+appetizing: 英[ˈæpɪtaɪzɪŋ] 美[ˈæpɪtaɪzɪŋ]
+%adj. 开胃的；促进食欲的
+    The appetizing smell of freshly baked bread filled the whole house.
+#新鲜出炉的面包的诱人香味弥漫了整个屋子。
+
+reactionary: 英[riˈækʃən(ə)ri] 美[riˈækʃəneri]
+$adj. 反动的，保守的
+%n. 反动派，保守人士
+    The reactionary forces in the industry are preventing its progress.
+#该行业中的保守势力阻碍它的发展。
+
+encapsulate: 英[ɪnˈkæpsjuleɪt] 美[ɪnˈkæpsjuleɪt]
+%vt. 简要描述，概括；用胶囊（或囊状物）装，封装；封装（信息，信号）；为（软件，硬件）提供接口（或界面）
+    It is very difficult to encapsulate the story of the revolution in a single one-hour documentary.
+#很难在一部仅仅一小时的纪录片里概括这场革命的故事。
+
+anomalous: 英[əˈnɒmələs] 美[əˈnɑːmələs]
+%adj. 异常的；不规则的；不恰当的
+    be anomalous in one's likes and dislikes
+#好恶与常人不同
+    They are forced with the anomalous situation of hiring more hands but having less work done.
+#他们面临着多雇人手反致完成的工作量减少的反常局面。
+
+acrimonious: 英[ˌækrɪˈməʊniəs] 美[ˌækrɪˈmoʊniəs]
+%adj. 讥讽的；（言辞、辩论）激烈的，尖刻的
+    an acrimonious answer
+#尖刻的答复
+    acrimonious negotiation
+#激烈的谈判
+    The whole issue provoked an acrimonious debate which lasted all afternoon.
+#整个问题激起了一场历时整个下午的激烈辩论。
+
+venal: 英[ˈviːn(ə)l] 美[ˈviːn(ə)l]
+$adj. 贪污的；用金钱买得的；贿赂的；贪赃枉法的
+%n. （Venal）人名；（英）维纳尔
+    venal votes
+#用金钱买来的选票
+    venal judges
+#贪赃枉法的法官
+    These company leaders were both venal and incompetent.
+#这些公司上层腐败无能。
+
+annotate: 英[ˈænəteɪt] 美[ˈænəteɪt]
+$vi. 注释；给……作注释或评注
+%vt. 注释；作注解
+    It is an elaborately annotated text.
+#这是一篇有详尽注释的课文。
+
+simplistic: 英[sɪmˈplɪstɪk] 美[sɪmˈplɪstɪk]
+%adj. 过分简单化的；过分单纯化的
+    The scientist's explanation of the results of the study was considered to be simplistic.
+#科学家对研究结果的解释被认为太过简化了。
+
+blockbuster: 英[ˈblɒkbʌstə(r)] 美[ˈblɑːkbʌstər]
+%n. 一鸣惊人的事物，（尤指）非常成功的书（或电影）
+    a blockbuster novel
+#一部轰动一时的小说
+    a shop doing blockbuster business
+#一家生意兴隆的商店
+    He is one of the biggest blockbusters of all of them.
+#他是他们所有人中最了不起的一个。
+
+=======
+sculpt: 英[skʌlpt] 美[skʌlpt]
+$vt. 造型；雕刻
+$vi. 造型；雕刻
+$n. 雕刻品
+%n. （Sculpt）人名；（英）斯卡尔普特
+    a human figure sculpted in marble
+#大理石雕刻人像
+    The dripping water sculpted strange shapes out of the rocks.
+#滴水把石头雕刻成了各种奇怪的形状。
+
+remorseless: 英[rɪˈmɔːsləs] 美[rɪˈmɔːrsləs]
+%adj. 冷酷的；不知过错的；坚持不懈的；不屈不挠的
+    a remorseless judge
+#无情的法官
+    a remorseless wind
+#刮个不停的风
+    a remorseless pursuit
+#不屈不挠的追求
+    They condemned his remorseless cruelty.
+#他们谴责他的无犯罪感的暴力行为。
+
+overawe: 英[ˌəʊvərˈɔː] 美[ˌoʊvərˈɔː]
+%v. 使敬畏，使胆怯
+    overawe sb. into submission
+#威慑某人使其屈服
+    Some of the players were totally overawed by playing their first game at the national stadium.
+#有些选手第一次在国家体育场里比赛时被完全震住了。
+
+prudish: 英[ˈpruːdɪʃ] 美[ˈpruːdɪʃ]
+%adj. 装正经的；过分规矩的
+    She takes rather a prudish view of the issue.
+#她对那件事持有过分拘谨的态度
+
+specialization: 英[ˌspeʃəlaɪˈzeɪʃ(ə)n] 美[ˌspeʃələˈzeɪʃ(ə)n]
+%n. 专业；专业化，专门化；（生物）特化作用
+    The lawyer said that he was unable to help us because our case fell outside his specialization.
+#律师说他没法帮我们，因为我们的案子超出了他的专业范围。
+
+defecate: 英[ˈdefəkeɪt] 美[ˈdefəkeɪt]
+$vt. 澄清；除去污物
+%vi. 排便；澄清
+    defecate a fact
+#澄清一个事实
+
+insubordinate: 英[ˌɪnsəˈbɔːdɪnət] 美[ˌɪnsəˈbɔːrdɪnət]
+%adj. 不听话的；不顺从的
+    insubordinate behavior
+#违抗命令的行为
+    The old school headteacher remembered him as an insubordinate child.
+#老校长记得他是个不听话的孩子。
+
+assessment: 英[əˈsesmənt] 美[əˈsesmənt]
+%n. 评估，评价；估价，估计
+    Both their assessments of production costs were hopelessly inaccurate.
+#他们二人对生产成本的估计都是十分不精确的。
+
+trendsetter: 英[ˈtrendsetə(r)] 美[ˈtrendsetər]
+%n. 领导流行的人
+    They are not only the world's biggest fast-food chain but also the industry's trendsetter.
+#他们不仅是世界上最大的快餐连锁店，而且还是该行业的标新立异者。
+
+storage: 英[ˈstɔːrɪdʒ] 美[ˈstɔːrɪdʒ]
+$n. 储存，贮藏；（信息的）存储，存储空间；（家具等的）存放，保管；储存空间，储藏场所；仓库费，仓租
+%adj. 储存的
+    meat packaged for storage
+#为贮藏而包装好的肉
+    place goods in storage
+#把货物贮藏起来
+    storage battery
+#蓄电池
+    A quarter of the crop may be lost in storage.
+#有四分之一的作物可能会在储存过程中损耗。
+
+rhetorical: 英[rɪˈtɒrɪk(ə)l] 美[rɪˈtɔːrɪk(ə)l]
+%adj. （与）修辞（有关）的；反问的，反诘的；巧辩的，说话虚夸的
+    be engaged in a bitter rhetorical feud
+#陷入激烈的笔战
+    He made a few rhetorical changes in his lecture notes.
+#他在讲稿上做了若干遣词造句方面的改动。
+
+involvement: 英[ɪnˈvɒlvmənt] 美[ɪnˈvɑːlvmənt]
+%n. 参与，介入；投入，沉迷；暧昧关系，恋爱关系
+    have no direct involvement in politics
+#未直接卷入政治
+    invite sb.'s involvement
+#招致某人的介入
+    My personal involvement with her and her family is deep.
+#我个人同她和她的家庭瓜葛很深。
+
+unalterable: 英[ʌnˈɔːltərəb(ə)l] 美[ʌnˈɔːltərəb(ə)l]
+%adj. 不能改变的；坚定不移的
+    an unalterable resolve
+#坚定不移的决心
+
+propitiate: 英[prəˈpɪʃieɪt] 美[prəˈpɪʃieɪt]
+%vt. 抚慰，安抚；与……和解
+    In those days people might sacrifice a sheep to propitiate an angry god.
+#在那个时候，人们会祭献一只羊以抚慰一个发怒的神。
+
+painstaking: 英[ˈpeɪnzteɪkɪŋ] 美[ˈpeɪnzteɪkɪŋ]
+$adj. 刻苦的，下苦功的
+%n. 辛苦，勤勉
+    He was described by his colleagues as a painstaking journalist.
+#他被同事们描述为一个勤恳的记者。
+
+gymnastic: 英[dʒɪmˈnæstɪk] 美[dʒɪmˈnæstɪk]
+%adj. 体操的，体育的
+    The girls are taking part in the school's gymnastic display.
+#这些女孩子将参加学校的体操表演。
+
+conflagration: 英[ˌkɒnfləˈɡreɪʃ(ə)n] 美[ˌkɑːnfləˈɡreɪʃ(ə)n]
+%n. 大火；快速燃烧；突发；冲突
+    a racial conflagration
+#种族冲突
+    the neon conflagration of the downtown center
+#市中心大片大片的電虹灯火
+    A conflagration razed the whole forest.
+#一场大火把整个森林夷为平地。
+
+indenture: 英[ɪnˈdentʃə(r)] 美[ɪnˈdentʃər]
+$n. 契约；合同
+%vt. 以契约约束
+    The land was worked by indentured laborers.
+#这土地是由契约工人耕种的。
+
+overtire: 英[ˌəʊvəˈtaɪə] 美[ˌoʊvərˈtaɪ(ə)r]
+%v. 使过度劳累
+    After the operation, you must be careful not to overtire yourself.
+#手术后，你一定要当心不要使自己过度疲劳。
+
+perennial: 英[pəˈreniəl] 美[pəˈreniəl]
+$adj. 多年生的；常年的；四季不断的；常在的；反复的
+%n. 多年生植物
+    the perennial shortage of teachers
+#教师长期短缺
+    perennial efforts
+#反复的努力
+    We face the perennial problem of not having enough money.
+#我们面临资金不足这一长期问题。
+
+predispose: 英[ˌpriːdɪˈspəʊz] 美[ˌpriːdɪˈspoʊz]
+%v. 使倾向于，使受……的影响；使易感染，使易患（某种疾病）
+    His good manners predispose people to like him.
+#他的彬彬有礼使得人们未经结识就喜欢上了他。
+
+copious: 英[ˈkəʊpiəs] 美[ˈkoʊpiəs]
+%adj. 丰富的；很多的；多产的
+    copious snow
+#大量的雪
+    a copious harvest
+#丰收
+    a copious rainfall
+#充足的降雨量
+    a copious talker
+#口若悬河的人
+    a copious writer
+#多产作家
+    The book has copious illustrations.
+#这本书有大量的插图。
+
+monotony: 英[məˈnɒtəni] 美[məˈnɑːtəni]
+%n. 单调乏味，千篇一律；（声音或话语的）单调
+    The routine was the same every day, with only a visit from the children on Saturday to break the monotony.
+#每天做的事都相同，唯独在星期六孩子们来访时才打破这一单调。
+
+exhaustive: 英[ɪɡˈzɔːstɪv] 美[ɪɡˈzɔːstɪv]
+%adj. 详尽的，彻底的；消耗的
+    an exhaustive analysis of the policy
+#对政策的透彻分析
+    an exhaustive inventory
+#详尽的存货清单
+    make an exhaustive study of
+#做透彻研究
+    They conducted an exhaustive investigation.
+#他们进行了一次彻底调查。
+
+convoluted: 英[ˈkɒnvəluːtɪd] 美[ˈkɑːnvəluːtɪd]
+$adj. 复杂的；费解的；旋绕的
+%v. 盘绕；缠绕（convolute 的过去分词）
+    a long, convoluted sentence
+#冗长晦涩的句子
+    a convoluted path
+#羊肠小道
+    The directions he gave us to his house took us along a very convoluted route.
+#他指给了我们去他家的路，这路绕来绕去，十分复杂。
+
+ingest: 英[ɪnˈdʒest] 美[ɪnˈdʒest]
+%vt. 摄取；咽下；吸收；接待
+    ingest the ideas of philosophers
+#吸取哲学家们的思想
+    The chemicals can be poisonous if ingested.
+#这些化学药品如果被摄入体内就会产生毒性。
+
+placebo: 英[pləˈsiːbəʊ] 美[pləˈsiːboʊ]
+%n. 安慰剂，无效对照剂；使人宽慰的事，安抚话；为死者所颂的晚祷词
+    These small concessions have been made as a placebo to stop the workers making further demands.
+#这些小让步就像安慰剂一样，以免工人们提出更多的要求。
+
+untainted: 英[ˌʌnˈteɪntɪd] 美[ˌʌnˈteɪntɪd]
+%adj. 无污点的；未染污的
+    untainted character
+#清白的品格
+
+simulation: 英[ˌsɪmjuˈleɪʃ(ə)n] 美[ˌsɪmjuˈleɪʃ(ə)n]
+%n. 模拟，仿造物；假装，冒充
+    a simulation of nuclear war
+#模拟核战争
+    simulation training
+#模拟训练
+    The viewers were unable to distinguish reality from simulation.
+#观众无法辨别真伪。
+
+untalented: 英[ʌnˈtæləntɪd] 美[ʌnˈtæləntɪd]
+%adj. 缺乏才能的，没有才干的；没有天赋的；不聪明的
+    an untalented manager
+#无才华的经理
+
+unfeigned: 英[ʌnˈfeɪnd] 美[ʌnˈfeɪnd]
+%adj. 真实的，不虚伪的
+    He showed unfeigned satisfaction with her success.
+#他对她取得的成就表示由衷的满意。
+
+anatomical: 英[ˌænəˈtɒmɪk(ə)l] 美[ˌænəˈtɑːmɪk(ə)l]
+%adj. 解剖的；解剖学的；结构上的
+    anatomical drawings
+#解剖图
+    anatomical physiology
+#解剖生理学
+
+repugnance: 英[rɪˈpʌɡnəns] 美[rɪˈpʌɡnəns]
+%n. 反感；厌恶；不一致，抵触
+    an expression of utter repugnance
+#深恶痛绝的表情
+    a repugnance between statements
+#各种说法不一致
+    She turned away from him in repugnance. 
+#她非常反感地转过头去不看他。
+
+redirect: 英[ˌriːdəˈrekt] 美[ˌriːdəˈrekt]
+$v. （以新的方式或目的）重新使用；改寄，改变投递方向
+%n. 改寄；配置
+    redirect a letter
+#改寄信件
+    redirect one's energies
+#把精力转移到其他方面
+    All traffic is being redirected to avoid this stretch of highway.
+#车辆都被指挥改道以绕开这一段公路。
+
+ossify: 英[ˈɒsɪfaɪ] 美[ˈɑːsɪfaɪ]
+$vi. 骨化；硬化；僵化
+%vt. 使硬化；使骨化；使僵化
+    Years of easy success has ossified the company's thinking.
+#几年来轻易取得成功使这家公司的思想变得僵化。
+
+proselytize: 英[ˈprɒsələtaɪz] 美[ˈprɑːsələtaɪz]
+$vi. 劝诱改宗
+%vt. 使改宗
+    He was remarkable for the proselytizing zeal with which he wrote his pamphlets.
+#他因改变他人信仰的狂热而出名，他出于这种狂热写了许多小册子。
+
+irredeemable: 英[ˌɪrɪˈdiːməb(ə)l] 美[ˌɪrɪˈdiːməb(ə)l]
+%adj. 不能赎回的；[金融] 不能兑现的；不可救药的
+    an irredeemable flaw
+#无法补救的缺陷
+    an irredeemable loss
+#无法挽回的损失
+    an irredeemable scoundrel
+#不可救药的流氓
+    Such stubbornness to refuse to help is not courage but irredeemable stupidity.
+#固执地拒绝帮助不是勇气，而是无可救药的愚蠢。
+
+steady: 英[ˈstedi] 美[ˈstedi]
+$adj. 平稳的，稳步的，持续的；稳定的，恒定的；稳固的，牢固的；沉着的，冷静的；（人）稳重的，可靠的
+$v. 使平稳，稳住；（使）稳定，（使）固定（一段时间）；（使）镇定，（使）冷静
+$n. <非正式>关系确定的情侣；（支撑大篷车或其他车辆的）支架，撑竿
+$int. 当心，冷静点
+%adv. 稳定地，持续地，稳固地
+    steady prices
+#稳定的价格
+    be steady in one's principle
+#坚持自己的原则
+    a steady mind
+#沉着冷静的头脑
+    His calm confidence steadied the nervous passengers.
+#他的镇定自若使紧张不安的旅客冷静了下来。
+
+discursive: 英[dɪˈskɜːsɪv] 美[dɪˈskɜːrsɪv]
+%adj. 散漫的；离题的；东拉西扯的；无层次的；推论的，论证的
+    His discursive argument was very convincing.
+#他的推理很令人信服。
+
+appetizing: 英[ˈæpɪtaɪzɪŋ] 美[ˈæpɪtaɪzɪŋ]
+%adj. 开胃的；促进食欲的
+    The appetizing smell of freshly baked bread filled the whole house.
+#新鲜出炉的面包的诱人香味弥漫了整个屋子。
+
+reactionary: 英[riˈækʃən(ə)ri] 美[riˈækʃəneri]
+$adj. 反动的，保守的
+%n. 反动派，保守人士
+    The reactionary forces in the industry are preventing its progress.
+#该行业中的保守势力阻碍它的发展。
+
+encapsulate: 英[ɪnˈkæpsjuleɪt] 美[ɪnˈkæpsjuleɪt]
+%vt. 简要描述，概括；用胶囊（或囊状物）装，封装；封装（信息，信号）；为（软件，硬件）提供接口（或界面）
+    It is very difficult to encapsulate the story of the revolution in a single one-hour documentary.
+#很难在一部仅仅一小时的纪录片里概括这场革命的故事。
+
+anomalous: 英[əˈnɒmələs] 美[əˈnɑːmələs]
+%adj. 异常的；不规则的；不恰当的
+    be anomalous in one's likes and dislikes
+#好恶与常人不同
+    They are forced with the anomalous situation of hiring more hands but having less work done.
+#他们面临着多雇人手反致完成的工作量减少的反常局面。
+
+acrimonious: 英[ˌækrɪˈməʊniəs] 美[ˌækrɪˈmoʊniəs]
+%adj. 讥讽的；（言辞、辩论）激烈的，尖刻的
+    an acrimonious answer
+#尖刻的答复
+    acrimonious negotiation
+#激烈的谈判
+    The whole issue provoked an acrimonious debate which lasted all afternoon.
+#整个问题激起了一场历时整个下午的激烈辩论。
+
+venal: 英[ˈviːn(ə)l] 美[ˈviːn(ə)l]
+$adj. 贪污的；用金钱买得的；贿赂的；贪赃枉法的
+%n. （Venal）人名；（英）维纳尔
+    venal votes
+#用金钱买来的选票
+    venal judges
+#贪赃枉法的法官
+    These company leaders were both venal and incompetent.
+#这些公司上层腐败无能。
+
+annotate: 英[ˈænəteɪt] 美[ˈænəteɪt]
+$vi. 注释；给……作注释或评注
+%vt. 注释；作注解
+    It is an elaborately annotated text.
+#这是一篇有详尽注释的课文。
+
+simplistic: 英[sɪmˈplɪstɪk] 美[sɪmˈplɪstɪk]
+%adj. 过分简单化的；过分单纯化的
+    The scientist's explanation of the results of the study was considered to be simplistic.
+#科学家对研究结果的解释被认为太过简化了。
+
+blockbuster: 英[ˈblɒkbʌstə(r)] 美[ˈblɑːkbʌstər]
+%n. 一鸣惊人的事物，（尤指）非常成功的书（或电影）
+    a blockbuster novel
+#一部轰动一时的小说
+    a shop doing blockbuster business
+#一家生意兴隆的商店
+    He is one of the biggest blockbusters of all of them.
+#他是他们所有人中最了不起的一个。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

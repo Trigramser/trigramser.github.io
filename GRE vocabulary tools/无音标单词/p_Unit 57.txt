@@ -1,0 +1,607 @@
+<<<<<<< HEAD
+impropriety:
+    She denied the allegations of financial impropriety.
+#她否认了经济方面有不正当行为的指控。
+
+intensification:
+    the intensification of the crisis
+#危机的加剧
+
+chronological:
+    Give me the dates in chronological order.
+#把日期按时间顺序给我。
+
+antedate:
+    antedate a letter by three days
+#把信件的日期提早填3天
+    His biographical work antedates all his novels.
+#他的传记作品先于他所有的小说出版。
+
+ratify:
+    The decision will have to be ratified by the executive board.
+#该决策须经执行委员会批准。
+
+pensive:
+    in a pensive mood
+#忧心忡忡
+    the pensive shade of the ruins
+#废墟呈现出凄凉的色调
+    She became withdrawn and pensive, hardly speaking to anyone.
+#她变得孤僻忧虑，几乎不和任何人说话。
+
+drizzly:
+    It was a gray drizzly afternoon.
+#这是一个阴沉的、细雨蒙蒙的下午。
+
+architectural:
+    architectural drawings
+#建筑图纸
+    a building of architectural interest
+#具有建筑学价值的大厦
+
+ultimately:
+    Everything will ultimately depend on what is said at the meeting with the directors next week.
+#一切最终都将取决于下周在会上和董事的讨论。
+
+remote:
+    the remotest corners of the earth
+#天涯海角
+    the remote future
+#久远的未来
+    a remote relative
+#远亲
+    with a remote air
+#带着超然的神情
+    a remote computer
+#远程计算机
+    I have not the remotest idea of what you mean.
+#你的意思我一点也不明白。
+
+regale:
+    regale oneself on cream cakes
+#津津有味地吃奶油蛋糕
+    He regaled them with stories of his youth.
+#他讲述自己青年时代的见闻，让他们听得津津有味。
+
+emblematic:
+    A sword is emblematic of power gained by violence.
+#剑象征着用暴力获得的权力。
+
+braggart:
+    The braggart said that he had never been beaten.
+#那个吹牛者说他从没被打败过。
+
+wordy:
+    As usual he gave a reply which was wordy and didn't answer the question.
+#像往常一样，他写了封啰唆冗长的回信，却没有回答这个问题。
+
+inferable:
+    reasons inferable from the map
+#可以从地图上推断出的一些理由
+
+infernal:
+    infernal weather
+#糟透的天气
+    He described a journey through the infernal world.
+#他描绘了穿越阴间世界的历程。
+
+nubile:
+    a nubile actress
+#性感女演员
+    He likes to be surrounded by nubile young women.
+#他喜欢身边围着妙龄女郎。
+
+fraternity:
+    liberty, equality and fraternity
+#自由、平等、博爱
+    He described sports as a means of promoting fraternity between nations.
+#他将体育运动描述为促进各民族间情谊的途径。
+
+unrepresentative:
+    an unrepresentative case
+#非典型的案件
+
+unfertilized:
+    unfertilized field
+#未施肥的田地
+
+discomfit:
+    He is interviewed rarely and clearly finds it a discomfiting experience.
+#他很少被采访，清楚地感到这是叫人不舒服的经历。
+
+beleaguer:
+    be beleaguered by problems
+#为成堆的问题所困扰
+    beleaguer a city
+#围困一座城市
+    It is a financially beleaguered university.
+#这是所财政上处于困境的大学。
+
+avaricious:
+    The employees of the avaricious tycoon were overworked and underpaid.
+#在那个贪得无厌的商业巨头手下工作的雇员拼命干活却得不到应有的报酬。
+
+corrosive:
+    corrosive influence
+#恶劣的影响
+    launch a corrosive attack on
+#对……进行恶毒攻击
+    His corrosive jealousy ruined their relationship.
+#他恶意的妒忌毁了他们的关系。
+
+exorcise:
+    exorcise the house
+#给房子驱邪
+    exorcise feelings of guilt
+#消除内疚感
+    exorcise guilt with work
+#用工作赎罪
+    It will take a long time to exorcise the memory of the accident.
+#需要很长时间才能消除对这次事故的记忆。
+
+debauch:
+    His family were distressed by his increasingly debauched lifestyle.
+#他的家人为他日渐放荡的生活方式感到悲哀。
+
+opinionated:
+    The boss is too opinionated to listen to anyone else.
+#头儿太固执己见，听不进别人的意见。
+
+umbrage:
+    The Pope himself took great umbrage at the book.
+#教皇本人对这本书极为生气。
+
+nonplus:
+    be at a nonplus
+#进退维谷
+    put/reduce sb. to a nonplus
+#使某人为难
+    He was nonplused by the sudden announcement.
+#这突然宣布的消息使他不知所措。
+
+unavoidable:
+    It was an unavoidable accident because of bad weather.
+#这是一场恶劣天气导致的不可避免的事故。
+
+propitious:
+    propitious winds
+#顺风
+    a propitious omen
+#吉兆
+    The business contract is propitious to both sides.
+#这份商业合同对双方都有利。
+
+rekindle:
+    rekindle pride
+#重新激发自豪感
+    rekindle hope
+#重新点燃希望
+    Pour more water on the embers in case they rekindle.
+#多倒些水在余烬上，以防死灰复燃。
+
+unfettered:
+    live a gay unfettered life
+#过无忧无虑的生活
+
+ferromagnetic:
+    Materials which have magnetic properties similar to iron are ferromagnetic. 
+#具有类似于铁那样的磁性的材料就是铁磁物质。
+
+antithesis:
+    the antithesis of theory and fact
+#理论与实际的对照
+    Their solution to the problem was in complete antithesis to mine.
+#他们对这个问题的解决方案与我的恰恰相反。
+
+impugn:
+    His personal integrity, ability and intelligence are impugned by none.
+#对他个人的正直、能力和智力无人表示怀疑。
+
+sequester:
+    The police continued to sequester arms and ammunition.
+#警方继续没收武器和弹药。
+
+awe-inspiring:
+    an awe-inspiring cathedral
+#使人产生敬畏之心的大教堂
+    Her knowledge of computers is quite awe-inspiring.
+#她渊博的电脑知识令人惊叹。
+
+glandular:
+    the almost glandular instinct for adventure
+#几乎是天生的冒险本能
+
+parsimony:
+    For reasons of parsimony she used half the recommended number of eggs in the recipe.
+#出于节省的原因，她做这个菜用的鸡蛋只是推荐的一半。
+
+shallowness:
+    Because of the shallowness of the water, we could see the fish in it very clearly.
+#因为水很浅，所以我们能清楚地看到里面的鱼。
+
+bellicose:
+    a bellicose nation
+#好战的国家
+    a person with a bellicose disposition
+#好斗成性的人
+
+unliterary:
+    unliterary books
+#非文学类书籍
+
+attune:
+    attune oneself to living in America
+#使自己适应美国的生活
+    old methods not attuned to the times
+#同时代不合拍的老办法
+    These workers are so attuned to their job that they can do them almost without thinking.
+#这些工人对工作已得心应手，不假思索就能去干。
+
+revile:
+    They were reviled as extremists.
+#他们被斥责为极端主义分子。
+
+nonchalant:
+    a nonchalant attitude
+#冷淡的态度
+    act nonchalant
+#故作冷淡
+
+upstage:
+    walk upstage
+#走向舞台后部
+    She wasn't the least upstage about it.
+#关于此事，她一点也没有傲慢的态度了。
+
+egregious:
+    an egregious need
+#急切的需求
+    an egregious folly
+#极大的蠢事
+    It was an egregious error for a statesman to show such ignorance.
+#一个政治家表现出如此的无知是一个极大的过失。
+
+unscathed:
+    He emerged from the war, not unscathed.
+#战争结束了，多少给他留下了一些创伤。
+
+dissonant:
+    clamor of dissonant and loud voices
+#又刺耳又嘈杂的喧嚷
+    They have dissonant views on the subject.
+#他们对这一问题有种种不一致的看法。
+
+amble:
+    amble along the path
+#沿着小径漫步
+    A brook ambled under an arched bridge.
+#一条小溪在拱桥下缓缓流过。
+
+synthesis:
+    Plants need sunlight for the synthesis of their food from carbon dioxide and water.
+#植物需要阳光才能将二氧化碳和水合成养料。
+
+stagnate:
+    The economy stagnated as a result of these tax measures.
+#这些税收办法造成经济发展停滞。
+
+commingle:
+    savage ridicule commingled with resentment
+#夹杂有怨恨的疯狂奚落
+    commingle accounts
+#合并账目
+
+extravagance:
+    love one's children with extravagance
+#溺爱孩子
+    I spend my money carefully and avoid these extravagances.
+#我谨慎用钱，避免铺张浪费。
+
+appal:
+    She was appalled to find that the river had risen to the doorstep.
+#她发现河水已涨到门口，惊恐万分。
+
+=======
+impropriety:
+    She denied the allegations of financial impropriety.
+#她否认了经济方面有不正当行为的指控。
+
+intensification:
+    the intensification of the crisis
+#危机的加剧
+
+chronological:
+    Give me the dates in chronological order.
+#把日期按时间顺序给我。
+
+antedate:
+    antedate a letter by three days
+#把信件的日期提早填3天
+    His biographical work antedates all his novels.
+#他的传记作品先于他所有的小说出版。
+
+ratify:
+    The decision will have to be ratified by the executive board.
+#该决策须经执行委员会批准。
+
+pensive:
+    in a pensive mood
+#忧心忡忡
+    the pensive shade of the ruins
+#废墟呈现出凄凉的色调
+    She became withdrawn and pensive, hardly speaking to anyone.
+#她变得孤僻忧虑，几乎不和任何人说话。
+
+drizzly:
+    It was a gray drizzly afternoon.
+#这是一个阴沉的、细雨蒙蒙的下午。
+
+architectural:
+    architectural drawings
+#建筑图纸
+    a building of architectural interest
+#具有建筑学价值的大厦
+
+ultimately:
+    Everything will ultimately depend on what is said at the meeting with the directors next week.
+#一切最终都将取决于下周在会上和董事的讨论。
+
+remote:
+    the remotest corners of the earth
+#天涯海角
+    the remote future
+#久远的未来
+    a remote relative
+#远亲
+    with a remote air
+#带着超然的神情
+    a remote computer
+#远程计算机
+    I have not the remotest idea of what you mean.
+#你的意思我一点也不明白。
+
+regale:
+    regale oneself on cream cakes
+#津津有味地吃奶油蛋糕
+    He regaled them with stories of his youth.
+#他讲述自己青年时代的见闻，让他们听得津津有味。
+
+emblematic:
+    A sword is emblematic of power gained by violence.
+#剑象征着用暴力获得的权力。
+
+braggart:
+    The braggart said that he had never been beaten.
+#那个吹牛者说他从没被打败过。
+
+wordy:
+    As usual he gave a reply which was wordy and didn't answer the question.
+#像往常一样，他写了封啰唆冗长的回信，却没有回答这个问题。
+
+inferable:
+    reasons inferable from the map
+#可以从地图上推断出的一些理由
+
+infernal:
+    infernal weather
+#糟透的天气
+    He described a journey through the infernal world.
+#他描绘了穿越阴间世界的历程。
+
+nubile:
+    a nubile actress
+#性感女演员
+    He likes to be surrounded by nubile young women.
+#他喜欢身边围着妙龄女郎。
+
+fraternity:
+    liberty, equality and fraternity
+#自由、平等、博爱
+    He described sports as a means of promoting fraternity between nations.
+#他将体育运动描述为促进各民族间情谊的途径。
+
+unrepresentative:
+    an unrepresentative case
+#非典型的案件
+
+unfertilized:
+    unfertilized field
+#未施肥的田地
+
+discomfit:
+    He is interviewed rarely and clearly finds it a discomfiting experience.
+#他很少被采访，清楚地感到这是叫人不舒服的经历。
+
+beleaguer:
+    be beleaguered by problems
+#为成堆的问题所困扰
+    beleaguer a city
+#围困一座城市
+    It is a financially beleaguered university.
+#这是所财政上处于困境的大学。
+
+avaricious:
+    The employees of the avaricious tycoon were overworked and underpaid.
+#在那个贪得无厌的商业巨头手下工作的雇员拼命干活却得不到应有的报酬。
+
+corrosive:
+    corrosive influence
+#恶劣的影响
+    launch a corrosive attack on
+#对……进行恶毒攻击
+    His corrosive jealousy ruined their relationship.
+#他恶意的妒忌毁了他们的关系。
+
+exorcise:
+    exorcise the house
+#给房子驱邪
+    exorcise feelings of guilt
+#消除内疚感
+    exorcise guilt with work
+#用工作赎罪
+    It will take a long time to exorcise the memory of the accident.
+#需要很长时间才能消除对这次事故的记忆。
+
+debauch:
+    His family were distressed by his increasingly debauched lifestyle.
+#他的家人为他日渐放荡的生活方式感到悲哀。
+
+opinionated:
+    The boss is too opinionated to listen to anyone else.
+#头儿太固执己见，听不进别人的意见。
+
+umbrage:
+    The Pope himself took great umbrage at the book.
+#教皇本人对这本书极为生气。
+
+nonplus:
+    be at a nonplus
+#进退维谷
+    put/reduce sb. to a nonplus
+#使某人为难
+    He was nonplused by the sudden announcement.
+#这突然宣布的消息使他不知所措。
+
+unavoidable:
+    It was an unavoidable accident because of bad weather.
+#这是一场恶劣天气导致的不可避免的事故。
+
+propitious:
+    propitious winds
+#顺风
+    a propitious omen
+#吉兆
+    The business contract is propitious to both sides.
+#这份商业合同对双方都有利。
+
+rekindle:
+    rekindle pride
+#重新激发自豪感
+    rekindle hope
+#重新点燃希望
+    Pour more water on the embers in case they rekindle.
+#多倒些水在余烬上，以防死灰复燃。
+
+unfettered:
+    live a gay unfettered life
+#过无忧无虑的生活
+
+ferromagnetic:
+    Materials which have magnetic properties similar to iron are ferromagnetic. 
+#具有类似于铁那样的磁性的材料就是铁磁物质。
+
+antithesis:
+    the antithesis of theory and fact
+#理论与实际的对照
+    Their solution to the problem was in complete antithesis to mine.
+#他们对这个问题的解决方案与我的恰恰相反。
+
+impugn:
+    His personal integrity, ability and intelligence are impugned by none.
+#对他个人的正直、能力和智力无人表示怀疑。
+
+sequester:
+    The police continued to sequester arms and ammunition.
+#警方继续没收武器和弹药。
+
+awe-inspiring:
+    an awe-inspiring cathedral
+#使人产生敬畏之心的大教堂
+    Her knowledge of computers is quite awe-inspiring.
+#她渊博的电脑知识令人惊叹。
+
+glandular:
+    the almost glandular instinct for adventure
+#几乎是天生的冒险本能
+
+parsimony:
+    For reasons of parsimony she used half the recommended number of eggs in the recipe.
+#出于节省的原因，她做这个菜用的鸡蛋只是推荐的一半。
+
+shallowness:
+    Because of the shallowness of the water, we could see the fish in it very clearly.
+#因为水很浅，所以我们能清楚地看到里面的鱼。
+
+bellicose:
+    a bellicose nation
+#好战的国家
+    a person with a bellicose disposition
+#好斗成性的人
+
+unliterary:
+    unliterary books
+#非文学类书籍
+
+attune:
+    attune oneself to living in America
+#使自己适应美国的生活
+    old methods not attuned to the times
+#同时代不合拍的老办法
+    These workers are so attuned to their job that they can do them almost without thinking.
+#这些工人对工作已得心应手，不假思索就能去干。
+
+revile:
+    They were reviled as extremists.
+#他们被斥责为极端主义分子。
+
+nonchalant:
+    a nonchalant attitude
+#冷淡的态度
+    act nonchalant
+#故作冷淡
+
+upstage:
+    walk upstage
+#走向舞台后部
+    She wasn't the least upstage about it.
+#关于此事，她一点也没有傲慢的态度了。
+
+egregious:
+    an egregious need
+#急切的需求
+    an egregious folly
+#极大的蠢事
+    It was an egregious error for a statesman to show such ignorance.
+#一个政治家表现出如此的无知是一个极大的过失。
+
+unscathed:
+    He emerged from the war, not unscathed.
+#战争结束了，多少给他留下了一些创伤。
+
+dissonant:
+    clamor of dissonant and loud voices
+#又刺耳又嘈杂的喧嚷
+    They have dissonant views on the subject.
+#他们对这一问题有种种不一致的看法。
+
+amble:
+    amble along the path
+#沿着小径漫步
+    A brook ambled under an arched bridge.
+#一条小溪在拱桥下缓缓流过。
+
+synthesis:
+    Plants need sunlight for the synthesis of their food from carbon dioxide and water.
+#植物需要阳光才能将二氧化碳和水合成养料。
+
+stagnate:
+    The economy stagnated as a result of these tax measures.
+#这些税收办法造成经济发展停滞。
+
+commingle:
+    savage ridicule commingled with resentment
+#夹杂有怨恨的疯狂奚落
+    commingle accounts
+#合并账目
+
+extravagance:
+    love one's children with extravagance
+#溺爱孩子
+    I spend my money carefully and avoid these extravagances.
+#我谨慎用钱，避免铺张浪费。
+
+appal:
+    She was appalled to find that the river had risen to the doorstep.
+#她发现河水已涨到门口，惊恐万分。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

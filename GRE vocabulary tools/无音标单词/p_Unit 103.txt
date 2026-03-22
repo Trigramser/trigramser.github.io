@@ -1,0 +1,479 @@
+<<<<<<< HEAD
+extinguish:
+    It took the firemen nearly five hours to extinguish the big fire.
+#扑灭那场大火花了消防队员近五个小时。
+
+merit:
+    Everybody has his merits and demerits.
+#人各有优缺点。
+
+gadget:
+    She's mad about gadgets, and her kitchen is just full of them.
+#她对小装置着了迷，整个厨房里都是这类东西。
+
+homage:
+    On this occasion we pay homage to him for his achievement.
+#在此我们谨向他的成就表示敬意。
+
+complacent:
+    After so many wins they were complacent and thought they'd never lose.
+#赢了许多场比赛后，他们得意忘形，以为永远不会输。
+
+distinct:
+    be distinct from
+#与……截然不同
+    Beer has a very distinctive smell; it's quite distinct from the smell of liquor.
+#啤酒有独特的气味，它和白酒的气味完全不同。
+
+prolong:
+    One speaker dwelled on some trifles and prolonged the meeting by half an hour.
+#有个发言人在鸡毛蒜皮的小事上讲个没完，把会议拖延了半个小时。
+
+preclude:
+    His contract precludes him from discussing his work with anyone outside the company.
+#他的合同使他不能与公司外的任何人谈工作。
+
+stagnant:
+    While the economies of industrialized countries are stagnant, the economies of many developing countries are growing rapidly.
+#当工业化国家的经济停滞时，许多发展中国家的经济却快速增长。
+
+effective:
+    Although there is a parliament, the army is in effective control of the country.
+#虽然有国会存在，但军队实际控制着这个国家。
+
+withhold:
+    The dam was too weak to withhold the pressure of the rising water.
+#堤坝不够牢固，阻挡不了水位上涨的压力。
+
+repeal:
+    The laws that discriminate against women have been repealed.
+#歧视妇女的法律已经被废除了。
+
+relegate:
+    He resigned from the company when he was relegated to a role of financial consultant.
+#他被降位为财政顾问后从公司辞职了。
+
+sane:
+    He seemed a sane, well-balanced sort of person.
+#他看来是那种明智稳健的人。
+
+stagger:
+    He staggered forward with the injured leg.
+#他拖着伤腿瞒跚着往前走。
+
+charter:
+    charter flights
+#包机
+    a charter of human rights
+#人权宪章
+    They chartered a ship and sailed toward the island.
+#他们租了一条船向那个岛驶去。
+
+original:
+    in the original
+#用原著的语言
+    These gardens have recently been restored to their original glory.
+#这些花园最近恢复了原先的华丽。
+
+pine:
+    It's at this time of year that I start to pine for the snow-topped mountains.
+#每年这个时候我就开始向往山顶上覆盖着白雪的高山。
+
+constraint:
+    She tried to appear friendly and natural but her constraint was obvious.
+#她尽力显得友好自然，但很明显是在克制自己。
+
+alternate:
+    The two professors will alternate in giving the class lectures.
+#这两位教授将轮流给这个班上课。
+
+inborn:
+    She has an apparently inborn talent for physics.
+#显然，她有天生的物理才能。
+
+inhabit:
+    Those remote islands are inhabited by birds.
+#在那些遥远的岛屿上，有鸟类栖息。
+
+feminist:
+    Her beliefs are strongly feminist.
+#她有强烈的主张男女平等的信仰。
+
+isolate:
+    It is harmful to isolate new-born babies from their mothers.
+#把新生婴儿同其母亲隔开是不利的。
+
+cater:
+    cater for all tastes
+#迎合各种口味
+    TV programs must cater for/to many different tastes.
+#电视节目必须满足许多不同爱好。
+
+confrontation:
+    He had a series of confrontations with his parents over homework.
+#他和他父母就家庭作业一事发生了一系列冲突。
+
+code:
+    The message was written in code.
+#这条消息是用密码写的。
+
+potent:
+    a potent drug
+#效力很强的药
+    In her speech she presents a potent argument for increasing taxes.
+#在演讲中，她就增税提出了有利的论证。
+
+incense:
+    She was so incensed by what he was saying that she slapped his face.
+#她被他的话激怒了，扇了他一个耳光。
+
+expertise:
+    To survive in the intensely competitive society, we must acquire technical expertise.
+#要在竞争激烈的社会上立足，我们必须有技术专长。
+
+opponent:
+    He is the leading opponent of the budget cuts.
+#他是带头反对削减预算的人。
+
+agitate:
+    He became quite agitated when he was asked about his criminal past.
+#当问到他过去的犯罪历史时，他变得十分焦虑不安。
+
+solvent:
+    When I get my pay check I'll be solvent again.
+#拿到工资支票时，我又有偿付能力了。
+
+static:
+    Production has remained virtually static these years.
+#这几年的产量实际上保持不增不减。
+
+reversible:
+    It is a good idea to buy a reversible raincoat because it can be worn with either side out.
+#买一件可正反穿的雨衣是个好主意，因为它的两面都可以穿外面。
+
+tension:
+    The latest terrorist activity has created a lot of tension.
+#恐怖分子最近的活动造成了许多紧张局势。
+
+flourish:
+    Wild plants flourish on the banks of the lake.
+#野生植物在湖岸上生长茂盛。
+
+momentous:
+    Whether or not to move overseas was a momentous decision for the family.
+#是否移居海外对这个家庭来说是个重要的决定。
+
+oust:
+    He was ousted as chairman after 20 years.
+#做了20年的主席后，他被撤职了。
+
+constant:
+    We kept a fairly constant speed all through the journey.
+#旅途中我们始终保持着相当平稳的速度。
+
+dissolve:
+    The distant hills dissolved in mist.
+#远处的山在雾中消失了。
+
+renowned:
+    The region is renowned for its outstanding natural beauty.
+#这一地区因其美妙的自然景观而著称。
+
+inspire:
+    His best music was inspired by the memory of his mother.
+#他最优秀的音乐作品是受到了对母亲回忆的启发。
+
+negligible:
+    This error is so small that it is negligible.
+#误差如此小，是可以忽略不计的。
+
+absurd:
+    It's absurd not to wear a coat in such cold weather.
+#这么冷的天气不穿一件外套真是荒唐。
+
+persuasive:
+    She gave a very persuasive speech about the need for more funding for the project.
+#她就项目需要增加资金做了一场极有说服力的演说。
+
+smear:
+    Several words were smeared and I couldn't read them.
+#有几个字被弄脏了，我无法辨认出来。
+
+marine:
+    Marines were the first to land on the beach.
+#海军陆战队士兵首批登上海滩。
+
+illuminate:
+    The whole city is illuminated on such occasions.
+#每逢这样的日子全城都灯火通明。
+
+bulge:
+    His eyes bulged in surprise when he saw the house.
+#看见那幢房子时，他惊得眼睛都瞪出来了。
+
+fume:
+    I saw her a week after they'd had the argument and she was still fuming.
+#我在他们吵架一个星期后看到了她，她还是怒气冲冲。
+
+prune:
+    To pay back our loan we'd better prune our budget for the next six months.
+#为了还贷款，我们最好把下半年的预算开支削减一些。
+
+finite:
+    We must accept finite despair, but we must never lose infinite hope.
+#我们必须接受有限的绝望，但是我们永远不能失去无限的希望。
+
+associate:
+    We associate autumn with fruit and harvest.
+#我们想到秋天就想到果实与丰收。
+
+strand:
+    A ship was stranded on the rock.
+#一条船在礁石上搁浅了。
+
+blur:
+    a blur on one's good name
+#一个人美名上的污点
+    Her eyes were blurred with tears.
+#泪水模糊了她的眼睛。
+
+=======
+extinguish:
+    It took the firemen nearly five hours to extinguish the big fire.
+#扑灭那场大火花了消防队员近五个小时。
+
+merit:
+    Everybody has his merits and demerits.
+#人各有优缺点。
+
+gadget:
+    She's mad about gadgets, and her kitchen is just full of them.
+#她对小装置着了迷，整个厨房里都是这类东西。
+
+homage:
+    On this occasion we pay homage to him for his achievement.
+#在此我们谨向他的成就表示敬意。
+
+complacent:
+    After so many wins they were complacent and thought they'd never lose.
+#赢了许多场比赛后，他们得意忘形，以为永远不会输。
+
+distinct:
+    be distinct from
+#与……截然不同
+    Beer has a very distinctive smell; it's quite distinct from the smell of liquor.
+#啤酒有独特的气味，它和白酒的气味完全不同。
+
+prolong:
+    One speaker dwelled on some trifles and prolonged the meeting by half an hour.
+#有个发言人在鸡毛蒜皮的小事上讲个没完，把会议拖延了半个小时。
+
+preclude:
+    His contract precludes him from discussing his work with anyone outside the company.
+#他的合同使他不能与公司外的任何人谈工作。
+
+stagnant:
+    While the economies of industrialized countries are stagnant, the economies of many developing countries are growing rapidly.
+#当工业化国家的经济停滞时，许多发展中国家的经济却快速增长。
+
+effective:
+    Although there is a parliament, the army is in effective control of the country.
+#虽然有国会存在，但军队实际控制着这个国家。
+
+withhold:
+    The dam was too weak to withhold the pressure of the rising water.
+#堤坝不够牢固，阻挡不了水位上涨的压力。
+
+repeal:
+    The laws that discriminate against women have been repealed.
+#歧视妇女的法律已经被废除了。
+
+relegate:
+    He resigned from the company when he was relegated to a role of financial consultant.
+#他被降位为财政顾问后从公司辞职了。
+
+sane:
+    He seemed a sane, well-balanced sort of person.
+#他看来是那种明智稳健的人。
+
+stagger:
+    He staggered forward with the injured leg.
+#他拖着伤腿瞒跚着往前走。
+
+charter:
+    charter flights
+#包机
+    a charter of human rights
+#人权宪章
+    They chartered a ship and sailed toward the island.
+#他们租了一条船向那个岛驶去。
+
+original:
+    in the original
+#用原著的语言
+    These gardens have recently been restored to their original glory.
+#这些花园最近恢复了原先的华丽。
+
+pine:
+    It's at this time of year that I start to pine for the snow-topped mountains.
+#每年这个时候我就开始向往山顶上覆盖着白雪的高山。
+
+constraint:
+    She tried to appear friendly and natural but her constraint was obvious.
+#她尽力显得友好自然，但很明显是在克制自己。
+
+alternate:
+    The two professors will alternate in giving the class lectures.
+#这两位教授将轮流给这个班上课。
+
+inborn:
+    She has an apparently inborn talent for physics.
+#显然，她有天生的物理才能。
+
+inhabit:
+    Those remote islands are inhabited by birds.
+#在那些遥远的岛屿上，有鸟类栖息。
+
+feminist:
+    Her beliefs are strongly feminist.
+#她有强烈的主张男女平等的信仰。
+
+isolate:
+    It is harmful to isolate new-born babies from their mothers.
+#把新生婴儿同其母亲隔开是不利的。
+
+cater:
+    cater for all tastes
+#迎合各种口味
+    TV programs must cater for/to many different tastes.
+#电视节目必须满足许多不同爱好。
+
+confrontation:
+    He had a series of confrontations with his parents over homework.
+#他和他父母就家庭作业一事发生了一系列冲突。
+
+code:
+    The message was written in code.
+#这条消息是用密码写的。
+
+potent:
+    a potent drug
+#效力很强的药
+    In her speech she presents a potent argument for increasing taxes.
+#在演讲中，她就增税提出了有利的论证。
+
+incense:
+    She was so incensed by what he was saying that she slapped his face.
+#她被他的话激怒了，扇了他一个耳光。
+
+expertise:
+    To survive in the intensely competitive society, we must acquire technical expertise.
+#要在竞争激烈的社会上立足，我们必须有技术专长。
+
+opponent:
+    He is the leading opponent of the budget cuts.
+#他是带头反对削减预算的人。
+
+agitate:
+    He became quite agitated when he was asked about his criminal past.
+#当问到他过去的犯罪历史时，他变得十分焦虑不安。
+
+solvent:
+    When I get my pay check I'll be solvent again.
+#拿到工资支票时，我又有偿付能力了。
+
+static:
+    Production has remained virtually static these years.
+#这几年的产量实际上保持不增不减。
+
+reversible:
+    It is a good idea to buy a reversible raincoat because it can be worn with either side out.
+#买一件可正反穿的雨衣是个好主意，因为它的两面都可以穿外面。
+
+tension:
+    The latest terrorist activity has created a lot of tension.
+#恐怖分子最近的活动造成了许多紧张局势。
+
+flourish:
+    Wild plants flourish on the banks of the lake.
+#野生植物在湖岸上生长茂盛。
+
+momentous:
+    Whether or not to move overseas was a momentous decision for the family.
+#是否移居海外对这个家庭来说是个重要的决定。
+
+oust:
+    He was ousted as chairman after 20 years.
+#做了20年的主席后，他被撤职了。
+
+constant:
+    We kept a fairly constant speed all through the journey.
+#旅途中我们始终保持着相当平稳的速度。
+
+dissolve:
+    The distant hills dissolved in mist.
+#远处的山在雾中消失了。
+
+renowned:
+    The region is renowned for its outstanding natural beauty.
+#这一地区因其美妙的自然景观而著称。
+
+inspire:
+    His best music was inspired by the memory of his mother.
+#他最优秀的音乐作品是受到了对母亲回忆的启发。
+
+negligible:
+    This error is so small that it is negligible.
+#误差如此小，是可以忽略不计的。
+
+absurd:
+    It's absurd not to wear a coat in such cold weather.
+#这么冷的天气不穿一件外套真是荒唐。
+
+persuasive:
+    She gave a very persuasive speech about the need for more funding for the project.
+#她就项目需要增加资金做了一场极有说服力的演说。
+
+smear:
+    Several words were smeared and I couldn't read them.
+#有几个字被弄脏了，我无法辨认出来。
+
+marine:
+    Marines were the first to land on the beach.
+#海军陆战队士兵首批登上海滩。
+
+illuminate:
+    The whole city is illuminated on such occasions.
+#每逢这样的日子全城都灯火通明。
+
+bulge:
+    His eyes bulged in surprise when he saw the house.
+#看见那幢房子时，他惊得眼睛都瞪出来了。
+
+fume:
+    I saw her a week after they'd had the argument and she was still fuming.
+#我在他们吵架一个星期后看到了她，她还是怒气冲冲。
+
+prune:
+    To pay back our loan we'd better prune our budget for the next six months.
+#为了还贷款，我们最好把下半年的预算开支削减一些。
+
+finite:
+    We must accept finite despair, but we must never lose infinite hope.
+#我们必须接受有限的绝望，但是我们永远不能失去无限的希望。
+
+associate:
+    We associate autumn with fruit and harvest.
+#我们想到秋天就想到果实与丰收。
+
+strand:
+    A ship was stranded on the rock.
+#一条船在礁石上搁浅了。
+
+blur:
+    a blur on one's good name
+#一个人美名上的污点
+    Her eyes were blurred with tears.
+#泪水模糊了她的眼睛。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

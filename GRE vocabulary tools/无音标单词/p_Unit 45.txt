@@ -1,0 +1,641 @@
+<<<<<<< HEAD
+trinket:
+    He returned from the vacation with a few cheap trinkets.
+#他度假归来带了几件廉价首饰。
+
+dicker:
+    She dickered with the driver until he was willing to drive them for a reasonable fare.
+#她和司机讨价还价，直到他愿意以合理的车费载他们。
+
+gangly:
+    a black-haired gangly lad
+#瘦长而笨手笨脚的黑发小伙
+    gangly weeds
+#蔓生的杂草
+
+clammy:
+    clammy hands
+#冰冷潮腻的手
+    clammy feelings
+#病态的感觉
+
+temerity:
+    Jack had the temerity to ask for higher wages after only four days' work.
+#只工作了4天，杰克竟冒失地要求增加工资。
+
+boor:
+    I'm a bit of a boor, so I hope you won't mind if I speak bluntly. 
+#我是一个粗人，说话直来直去，你可别见怪。
+
+swig:
+    Since there were no glasses, we swigged the beer straight from the bottle.
+#因为没有杯子，我们只好拿起啤酒瓶大口大口地喝。
+
+mollycoddle:
+    You're not helping the children by mollycoddling them.
+#你娇惯孩子们并不是帮助他们。
+
+hie:
+    I hied myself to the post.
+#我赶紧去邮局。
+
+ribald:
+    ribald speech
+#下流的语言
+    a ribald joke
+#下流的笑话
+
+aquiline:
+    an aquiline nose
+#鹰钩鼻
+
+scamp:
+    scamp a job
+#马马虎虎地工作
+
+pavid:
+    a pavid animal
+#胆小的动物
+
+dishevel:
+    disheveled hair
+#凌乱的头发
+    The wind disheveled the papers on the desk.
+#风吹乱了桌上的文件。
+
+outwit:
+    outwit a burglar
+#智胜窃贼
+
+flatten:
+    flatten the crumpled paper
+#把皱的纸弄平
+    flatten one's opponent
+#击倒对手
+
+overweening:
+    an overweening desire
+#奢望
+
+ornery:
+    an ornery trick
+#卑鄙的伎俩
+    ornery remarks
+#脏话
+    No one can get along with his ornery cousin.
+#没有人能够与他那脾气很坏的堂兄弟相处。
+
+odometer:
+    Application of hall sensor in intelligent odometer based on pulse detection 
+#脉冲检测方法的霍尔传感器在里程表中的应用
+
+abhorrent:
+    an abhorrent crime
+#令人厌恶的罪行
+    be abhorrent to nature
+#厌恶的自然
+    be abhorrent from the principle
+#背离原则
+
+soulful:
+    big soulful eyes
+#深情的大眼睛
+    a soulful sigh
+#深情的叹息
+    a soulful song
+#凄婉的歌
+
+daredevil:
+    daredevil driving
+#亡命开车
+
+inelastic:
+    an inelastic body
+#无弹力的身体
+
+pilfer:
+    pilfer stamps
+#偷邮票
+    pilfer from a cash box
+#从钱箱中偷钱
+
+oversee:
+    oversee the paper
+#偷看文件
+    oversee the construction work
+#管理建筑工程
+    He oversees the import department.
+#他掌管进口部门。
+
+yielding:
+    yielding animals
+#高产动物
+    yielding rubber
+#柔性橡胶
+    He had a yielding nature with his children.
+#他对儿女百依百顺。
+
+virtual:
+    the virtual manager of the company
+#公司的实际当家人
+    a virtual impossibility
+#实际上不可能的事
+    The once elegant temple lay in virtual ruins.
+#当年一座精致的庙宇现在成了一堆废墟。
+
+negation:
+    She shook her head slowly in negation.
+#她轻轻摇摇头表示否认。
+
+tempestuous:
+    a tempestuous wind
+#暴风
+    a tempestuous night
+#狂风暴雨之夜
+    a tempestuous debate
+#激烈的辩论
+
+downpour:
+    a heavy downpour
+#倾盆大雨
+    They were caught in a torrential downpour and got soaked to the skin.
+#他们突然遇上了倾盆大雨，全身都湿透了。
+
+slurp:
+    slurp one's tea
+#咂咂地喝茶
+    He slurped porridge from a wooden bowl.
+#他咕咚咕咚地喝木碗里的粥。
+
+superimpose:
+    The theme is not only familiar, but rather clumsily superimposed.
+#主题不仅是老一套，而且相当牵强附会。
+
+residue:
+    the residue of war
+#战争的后遗症
+    a last residue of prudence
+#最后的一点谨慎
+    Residue of pesticides can build up in the soil.
+#杀虫剂的残留物会在土壤中积聚。
+
+gnawing:
+    the gnawings of hunger
+#饥饿的折磨
+    the gnawings of conscience
+#良心的谴责
+    a gnawing disappointment
+#令人痛苦的失望
+
+ague:
+    in an ague of fear
+#因害怕而颤抖着
+
+augury:
+    a favorable augury
+#吉兆
+
+gawky:
+    a gawky lad with long arms and legs
+#四肢过长的笨小伙子
+
+plentitude:
+    a plentitude of dust
+#大量灰尘
+    a plentitude of whispers
+#议论纷纷
+
+plangent:
+    plangent waves
+#轰鸣的浪涛声
+
+loutish:
+    I won't put up with such loutish behavior.
+#我会忍受如此粗鄙的行为。
+
+offbeat:
+    offbeat spiritual pursuits
+#种种离经叛道的精神追求
+    He looks with disfavor on the offbeat or grotesque.
+#他对非常规和怪诞的事物看不顺眼。
+
+promissory:
+    statement that are promissory in nature
+#具有约定性质的陈述
+
+slue:
+    slue one's head around
+#蓦地转过头来
+    The car slued to a stop in thick mud.
+#汽车向旁边一滑陷人泥中停了下来。
+
+analgesia:
+    Acute stress also stimulated colonic transit and produced significant somatic analgesia. 
+#急性应激也加速结肠转运，并引起躯体痛觉缺失。
+
+sleight:
+    a new sleight in the reading of poetry
+#诵诗的新技巧
+
+flighty:
+    a flighty woman
+#轻浮的女人
+
+buxom:
+    a buxom young lady
+#体态丰满的少妇
+
+scabrous:
+    scabrous skin
+#粗糙的皮肤
+    a scabrous question
+#难题
+    a scabrous situation
+#棘手的局面
+
+clairvoyant:
+    a clairvoyant scholar
+#有洞察力的学者
+
+reconnoiter:
+    reconnoiter the enemy camp
+#侦查敌营
+    She turned over reconnoitering the room.
+#她转过身来查看那个房间。
+
+zesty:
+    This zesty and refreshing wine offers a freshly cut grass nose, herbaceous green bean. 
+#这款爽口的葡萄酒引出绿豆般清新的香气
+
+supine:
+    a supine position
+#仰卧姿势
+    He lay supine on the coach, arms folded.
+#他仰卧在沙发上，双臂交叉在胸前。
+
+beatific:
+    a period of beatific peace
+#太平盛世
+    The Madonna's smile was beatific.
+#圣母玛利亚的微笑圣洁而安详。
+
+smirch:
+    smirch at one's name
+#诋毁某人的名声
+
+enlightening:
+    enlightening words
+#有启迪作用的话
+
+ostensible:
+    an ostensible letter
+#可公开的信
+    different ostensible properties
+#不同的明显特征
+    His ostensible frankness covered a devious scheme.
+#他表面上的坦率掩盖着心里的诡计。
+
+
+intestate:
+    His aunt died intestate.
+#他姑母死时没有留下遗嘱。
+
+sulky:
+    a sulky refusal to acknowledge facts
+#忿忿然对事实的拒不承认
+    be in a sulky mood
+#绷着脸闷闷不乐
+    sulky weather
+#阴沉的天气
+
+imbroglio:
+    an imbroglio of papers and books
+#一堆乱七八糟的文件和书籍
+
+providential:
+    a providential blessing
+#上帝的赐福
+    It was providential that he should arrive at just that moment.
+#他正好在那时赶到，真巧。
+
+=======
+trinket:
+    He returned from the vacation with a few cheap trinkets.
+#他度假归来带了几件廉价首饰。
+
+dicker:
+    She dickered with the driver until he was willing to drive them for a reasonable fare.
+#她和司机讨价还价，直到他愿意以合理的车费载他们。
+
+gangly:
+    a black-haired gangly lad
+#瘦长而笨手笨脚的黑发小伙
+    gangly weeds
+#蔓生的杂草
+
+clammy:
+    clammy hands
+#冰冷潮腻的手
+    clammy feelings
+#病态的感觉
+
+temerity:
+    Jack had the temerity to ask for higher wages after only four days' work.
+#只工作了4天，杰克竟冒失地要求增加工资。
+
+boor:
+    I'm a bit of a boor, so I hope you won't mind if I speak bluntly. 
+#我是一个粗人，说话直来直去，你可别见怪。
+
+swig:
+    Since there were no glasses, we swigged the beer straight from the bottle.
+#因为没有杯子，我们只好拿起啤酒瓶大口大口地喝。
+
+mollycoddle:
+    You're not helping the children by mollycoddling them.
+#你娇惯孩子们并不是帮助他们。
+
+hie:
+    I hied myself to the post.
+#我赶紧去邮局。
+
+ribald:
+    ribald speech
+#下流的语言
+    a ribald joke
+#下流的笑话
+
+aquiline:
+    an aquiline nose
+#鹰钩鼻
+
+scamp:
+    scamp a job
+#马马虎虎地工作
+
+pavid:
+    a pavid animal
+#胆小的动物
+
+dishevel:
+    disheveled hair
+#凌乱的头发
+    The wind disheveled the papers on the desk.
+#风吹乱了桌上的文件。
+
+outwit:
+    outwit a burglar
+#智胜窃贼
+
+flatten:
+    flatten the crumpled paper
+#把皱的纸弄平
+    flatten one's opponent
+#击倒对手
+
+overweening:
+    an overweening desire
+#奢望
+
+ornery:
+    an ornery trick
+#卑鄙的伎俩
+    ornery remarks
+#脏话
+    No one can get along with his ornery cousin.
+#没有人能够与他那脾气很坏的堂兄弟相处。
+
+odometer:
+    Application of hall sensor in intelligent odometer based on pulse detection 
+#脉冲检测方法的霍尔传感器在里程表中的应用
+
+abhorrent:
+    an abhorrent crime
+#令人厌恶的罪行
+    be abhorrent to nature
+#厌恶的自然
+    be abhorrent from the principle
+#背离原则
+
+soulful:
+    big soulful eyes
+#深情的大眼睛
+    a soulful sigh
+#深情的叹息
+    a soulful song
+#凄婉的歌
+
+daredevil:
+    daredevil driving
+#亡命开车
+
+inelastic:
+    an inelastic body
+#无弹力的身体
+
+pilfer:
+    pilfer stamps
+#偷邮票
+    pilfer from a cash box
+#从钱箱中偷钱
+
+oversee:
+    oversee the paper
+#偷看文件
+    oversee the construction work
+#管理建筑工程
+    He oversees the import department.
+#他掌管进口部门。
+
+yielding:
+    yielding animals
+#高产动物
+    yielding rubber
+#柔性橡胶
+    He had a yielding nature with his children.
+#他对儿女百依百顺。
+
+virtual:
+    the virtual manager of the company
+#公司的实际当家人
+    a virtual impossibility
+#实际上不可能的事
+    The once elegant temple lay in virtual ruins.
+#当年一座精致的庙宇现在成了一堆废墟。
+
+negation:
+    She shook her head slowly in negation.
+#她轻轻摇摇头表示否认。
+
+tempestuous:
+    a tempestuous wind
+#暴风
+    a tempestuous night
+#狂风暴雨之夜
+    a tempestuous debate
+#激烈的辩论
+
+downpour:
+    a heavy downpour
+#倾盆大雨
+    They were caught in a torrential downpour and got soaked to the skin.
+#他们突然遇上了倾盆大雨，全身都湿透了。
+
+slurp:
+    slurp one's tea
+#咂咂地喝茶
+    He slurped porridge from a wooden bowl.
+#他咕咚咕咚地喝木碗里的粥。
+
+superimpose:
+    The theme is not only familiar, but rather clumsily superimposed.
+#主题不仅是老一套，而且相当牵强附会。
+
+residue:
+    the residue of war
+#战争的后遗症
+    a last residue of prudence
+#最后的一点谨慎
+    Residue of pesticides can build up in the soil.
+#杀虫剂的残留物会在土壤中积聚。
+
+gnawing:
+    the gnawings of hunger
+#饥饿的折磨
+    the gnawings of conscience
+#良心的谴责
+    a gnawing disappointment
+#令人痛苦的失望
+
+ague:
+    in an ague of fear
+#因害怕而颤抖着
+
+augury:
+    a favorable augury
+#吉兆
+
+gawky:
+    a gawky lad with long arms and legs
+#四肢过长的笨小伙子
+
+plentitude:
+    a plentitude of dust
+#大量灰尘
+    a plentitude of whispers
+#议论纷纷
+
+plangent:
+    plangent waves
+#轰鸣的浪涛声
+
+loutish:
+    I won't put up with such loutish behavior.
+#我会忍受如此粗鄙的行为。
+
+offbeat:
+    offbeat spiritual pursuits
+#种种离经叛道的精神追求
+    He looks with disfavor on the offbeat or grotesque.
+#他对非常规和怪诞的事物看不顺眼。
+
+promissory:
+    statement that are promissory in nature
+#具有约定性质的陈述
+
+slue:
+    slue one's head around
+#蓦地转过头来
+    The car slued to a stop in thick mud.
+#汽车向旁边一滑陷人泥中停了下来。
+
+analgesia:
+    Acute stress also stimulated colonic transit and produced significant somatic analgesia. 
+#急性应激也加速结肠转运，并引起躯体痛觉缺失。
+
+sleight:
+    a new sleight in the reading of poetry
+#诵诗的新技巧
+
+flighty:
+    a flighty woman
+#轻浮的女人
+
+buxom:
+    a buxom young lady
+#体态丰满的少妇
+
+scabrous:
+    scabrous skin
+#粗糙的皮肤
+    a scabrous question
+#难题
+    a scabrous situation
+#棘手的局面
+
+clairvoyant:
+    a clairvoyant scholar
+#有洞察力的学者
+
+reconnoiter:
+    reconnoiter the enemy camp
+#侦查敌营
+    She turned over reconnoitering the room.
+#她转过身来查看那个房间。
+
+zesty:
+    This zesty and refreshing wine offers a freshly cut grass nose, herbaceous green bean. 
+#这款爽口的葡萄酒引出绿豆般清新的香气
+
+supine:
+    a supine position
+#仰卧姿势
+    He lay supine on the coach, arms folded.
+#他仰卧在沙发上，双臂交叉在胸前。
+
+beatific:
+    a period of beatific peace
+#太平盛世
+    The Madonna's smile was beatific.
+#圣母玛利亚的微笑圣洁而安详。
+
+smirch:
+    smirch at one's name
+#诋毁某人的名声
+
+enlightening:
+    enlightening words
+#有启迪作用的话
+
+ostensible:
+    an ostensible letter
+#可公开的信
+    different ostensible properties
+#不同的明显特征
+    His ostensible frankness covered a devious scheme.
+#他表面上的坦率掩盖着心里的诡计。
+
+
+intestate:
+    His aunt died intestate.
+#他姑母死时没有留下遗嘱。
+
+sulky:
+    a sulky refusal to acknowledge facts
+#忿忿然对事实的拒不承认
+    be in a sulky mood
+#绷着脸闷闷不乐
+    sulky weather
+#阴沉的天气
+
+imbroglio:
+    an imbroglio of papers and books
+#一堆乱七八糟的文件和书籍
+
+providential:
+    a providential blessing
+#上帝的赐福
+    It was providential that he should arrive at just that moment.
+#他正好在那时赶到，真巧。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

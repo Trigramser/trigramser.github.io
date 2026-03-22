@@ -1,0 +1,641 @@
+<<<<<<< HEAD
+pullet:
+    She killed a pullet to treat the guests.
+#她杀了一只小母鸡招待客人。
+
+daub:
+    daub the cracks in the wall with cement
+#用水泥涂抹墙上的裂缝
+    His trousers were daubed with paint.
+#他的裤子上沾满了油漆。
+
+interlace:
+    meadows interlaced with streams
+#有溪流点缀间的草地
+    The branches above interlaced.
+#上的树枝纵横交错。
+
+wiry:
+    wiry hair
+#硬直的头发
+    a wiry little man
+#清瘦结实的小个子
+    His body is wiry and athletic.
+#他长得清瘦结实，体格健美。
+
+enthralling:
+    You will find the film most enthralling.
+#你会发现这部电影很吸引人。
+
+incogitant:
+    My judgement is that the plan is incogitant.
+#据我看来该计划考虑不周。
+
+anneal:
+    Tough fighting annealed the troops.
+#艰苦的战斗磨炼了部队。
+
+disinter:
+    The writer's autobiography disinterred a past era.
+#那位作家的自传重现了过去的一个时代。
+
+debark:
+    Passengers are debarking from a bus.
+#乘客们从公共汽车上下来。
+
+malfeasance:
+    He was guilty of malfeasance.
+#他犯渎职罪。
+
+scurvy:
+    a scurvy fellow
+#卑鄙的家伙
+    a scurvy neighborhood
+#下等街区
+
+pharmacology:
+    study pharmacology at university
+#在大学学药理学
+
+vouch:
+    vouch for one's safety
+#为某人的安全做担保
+    She has checked the reports and vouched for the accuracy of the information.
+#她已经检查过这些报告，并且为信息的准确性做担保。
+
+cringe:
+    cringe and bow to sb.
+#对某人打躬作揖
+    The child cringed every time the father raised his voice.
+#每当父亲一提高嗓门，那孩子便吓得往后退。
+
+wheedle:
+    wheedle sb. into doing sth.
+#诱骗某人做某事
+    He wasn't going to tell me but I managed to wheedle it out of him.
+#他没打算告诉我，但我设法连哄带骗从他嘴里把话套了出来。
+
+careen:
+    The driver lost control of his truck and it went careening down the hill.
+#司机对卡车失去了控制，车开始歪歪斜斜地冲下山去了。
+
+peculate:
+    peculate the state property
+#侵吞国家财产
+
+vandalism:
+    These housing estates suffer from widespread vandalism.
+#这些住宅区遭受了大范围的故意破坏。
+
+entreaty:
+    The managers gave in to her entreaties.
+#经理答应了她的请求。
+
+oratory:
+    He has a reputation for powerful oratory.
+#他以雄辩有力的演讲而闻名。
+
+effulgent:
+    She is the most effulgent of living actresses.
+#她是当代女演员中最出色的明星。
+
+encomiast:
+    That guy is a real encomiast.
+#那个家伙真是个马屁精
+
+carouse:
+    They'd been up carousing till dawn the night before and looked exhausted.
+#他们前一个晚上一直狂欢到黎明，显得精疲力竭了。
+
+dally:
+    He always dallies over tasks that he doesn't like doing.
+#他对不喜欢做的事，总是磨磨蹭赠。
+
+cephalic:
+    cephalic surgery
+#头部手术
+
+pellucid:
+    pellucid water
+#清澈的水
+    a pellucid sky 
+#清澄的天空
+    pellucid handwriting
+#清晰的笔迹
+
+wan:
+    a wan complexion
+#苍白的脸色
+    a wan smile
+#懒洋洋的一笑
+    She would remember the child's wan face at the window.
+#她不会忘记那孩子在窗口苍白的脸。
+
+preponderate:
+    In balancing his faults with his merits, the latter seemed rather to preponderate.
+#在比较他的缺点和优点时，后者似乎是主要的。
+
+snuggle:
+    snuggle up/down in bed
+#舒适地躺在床上
+    She snuggled her cheek against his shoulder.
+#她把脸频紧靠在他的肩上。
+
+hubris:
+    He was punished for his hubris.
+#他为自大付出了代价。
+
+riveting:
+    She told me a riveting tale of suspense and adventure.
+#她给我讲了一个充满最疑和奇遇的非常动听的故事。
+
+deprivation:
+    There were food shortages and other deprivation during the war.
+#战争期间食物短缺，其他必需品也极为匮乏。
+
+musket:
+    The musket was replaced by the rifle in the 19th century.
+#19世纪，火枪被步枪取代。
+
+evasion:
+    tax evasion
+#逃税
+    fare evasion
+#逃票
+    Her speech was full of excuses and evasions.
+#她的讲话满是借口和闪烁其词。
+
+tangy:
+    For dessert I had the most delicious tangy lemon tart.
+#我有美味的酸柠檬馅饼当饭后甜点。
+
+snappy:
+    The play contained some good snappy dialogue.
+#这部戏剧中含有一些生动活泼的对话。
+
+acrid:
+    Clouds of acrid smoke issued from the building.
+#大楼里散发出大团大团的辛辣烟气。
+
+pittance:
+    work for a pittance
+#为微薄的工资而工作
+    She had received a mere pittance of education.
+#她只受过一点儿教育。
+
+perverse:
+    a man of perverse nature
+#性情执拗的人
+    a perverse view of liberty
+#对自由的曲解
+    a perverse verdict
+#不合法的裁定
+    It would be perverse to refuse to support this plea.
+#对于这个请愿不予支持是有悖常理的。
+
+nadir:
+    the nadir of misery
+#苦难的深渊
+    the nadir of one's career
+#某人事业的低谷
+    Their relationship has reached its nadir.
+#他们的关系已经恶化到极点。
+
+lustrous:
+    lustrous eyes
+#深邃明亮的眼睛
+    a lustrous actor of the period
+#那个时代红极一时的演员
+    He has a lustrous record of achievements.
+#他有着辉煌的成就。
+
+comeuppance:
+    He'll meet his comeuppance, don't worry.
+#别担心，他会得到应有的下场的。
+
+motility:
+    These cells have low motility.
+#这些细胞有很低的能动性。
+
+forensic:
+    a forensic test
+#法医的检验
+    a forensic gift of speech
+#雄辩的才能
+    Forensic examination revealed a large quantity of poison in the dead man's stomach.
+#法医检验发现死者胃里有大量毒药。
+
+dawdle:
+    Some people like to spend an afternoon just dawdling around the shops.
+#有些人喜欢花一个下午在商店里闲逛。
+
+sneaking:
+    have a sneaking suspicion
+#私下怀疑
+    I don't like the woman, but I do have sneaking admiration for her.
+#我不喜欢这个女人，但私下里我确实很钦佩她。
+
+protuberant:
+    He stared at me with his heavy-lidded, protuberant eyes.
+#他用他那眼皮厚厚的、向外凸出的眼睛盯着我。
+
+twee:
+    It is a terribly twee dress.
+#那是一套俗气至极的衣服。
+
+nettle:
+    He looked at me sharply, clearly nettled by the interruption.
+#他狠狠地盯着我，显然被我的打断所激怒。
+
+reminisce:
+    reminisce about one's youth
+#回忆青春时代
+    She reminisced about the years gone by.
+#她缅怀过去的岁月。
+
+assuage:
+    assuage one's anger
+#消除某人的怒气
+    assuage pain
+#镇痛
+    assuage one's curiosity
+#满足好奇心
+    Not even his promotion to managing director assuaged his desire for power.
+#尽管已升任总经理，他仍渴望得到权力。
+
+oleaginous:
+    oleaginous seeds
+#含油的种子
+    an oleaginous hypocrite
+#花言巧语的伪君子
+
+ruminate:
+    He ruminated over/about/on recent events.
+#他反复思考着最近发生的事。
+
+variegate:
+    variegated leaves
+#斑叶
+    She will variegate her show with guest stars.
+#她因有特邀明星而将使演出变得丰富多彩。
+
+wallow:
+    wallow in luxury
+#沉于
+    wallow in details
+#纠缠于细节
+    He saw a pig wallowing in the mire.
+#他看见一头猪在泥沼中打滚。
+
+menthol:
+    a menthol cigarette
+#薄荷香烟
+
+rigor:
+    be trained with great rigor
+#受到严格训练
+    suffer from the rigors of life
+#经受生活的艰苦
+    He deserves to be punished with the full rigor of
+the law.
+#他应受法律的严厉惩处。
+
+rumpus:
+    cause/raise a rumpus
+#引起一片骚乱
+    There was a real rumpus in the house next door last night.
+#昨晚隔壁的房子内吵得很凶。
+
+misshapen:
+    a misshapen body
+#畸形躯体
+    She met an oldish, misshapen, stooping woman.
+#她遇见一个上了年纪、形态丑陋、弯腰曲背的妇女。
+
+writ:
+    serve a writ on sb.
+#将传票送达某人
+    The company has been served with a writ for breach of contract.
+#这家公司因违约已收到法院令状。
+
+=======
+pullet:
+    She killed a pullet to treat the guests.
+#她杀了一只小母鸡招待客人。
+
+daub:
+    daub the cracks in the wall with cement
+#用水泥涂抹墙上的裂缝
+    His trousers were daubed with paint.
+#他的裤子上沾满了油漆。
+
+interlace:
+    meadows interlaced with streams
+#有溪流点缀间的草地
+    The branches above interlaced.
+#上的树枝纵横交错。
+
+wiry:
+    wiry hair
+#硬直的头发
+    a wiry little man
+#清瘦结实的小个子
+    His body is wiry and athletic.
+#他长得清瘦结实，体格健美。
+
+enthralling:
+    You will find the film most enthralling.
+#你会发现这部电影很吸引人。
+
+incogitant:
+    My judgement is that the plan is incogitant.
+#据我看来该计划考虑不周。
+
+anneal:
+    Tough fighting annealed the troops.
+#艰苦的战斗磨炼了部队。
+
+disinter:
+    The writer's autobiography disinterred a past era.
+#那位作家的自传重现了过去的一个时代。
+
+debark:
+    Passengers are debarking from a bus.
+#乘客们从公共汽车上下来。
+
+malfeasance:
+    He was guilty of malfeasance.
+#他犯渎职罪。
+
+scurvy:
+    a scurvy fellow
+#卑鄙的家伙
+    a scurvy neighborhood
+#下等街区
+
+pharmacology:
+    study pharmacology at university
+#在大学学药理学
+
+vouch:
+    vouch for one's safety
+#为某人的安全做担保
+    She has checked the reports and vouched for the accuracy of the information.
+#她已经检查过这些报告，并且为信息的准确性做担保。
+
+cringe:
+    cringe and bow to sb.
+#对某人打躬作揖
+    The child cringed every time the father raised his voice.
+#每当父亲一提高嗓门，那孩子便吓得往后退。
+
+wheedle:
+    wheedle sb. into doing sth.
+#诱骗某人做某事
+    He wasn't going to tell me but I managed to wheedle it out of him.
+#他没打算告诉我，但我设法连哄带骗从他嘴里把话套了出来。
+
+careen:
+    The driver lost control of his truck and it went careening down the hill.
+#司机对卡车失去了控制，车开始歪歪斜斜地冲下山去了。
+
+peculate:
+    peculate the state property
+#侵吞国家财产
+
+vandalism:
+    These housing estates suffer from widespread vandalism.
+#这些住宅区遭受了大范围的故意破坏。
+
+entreaty:
+    The managers gave in to her entreaties.
+#经理答应了她的请求。
+
+oratory:
+    He has a reputation for powerful oratory.
+#他以雄辩有力的演讲而闻名。
+
+effulgent:
+    She is the most effulgent of living actresses.
+#她是当代女演员中最出色的明星。
+
+encomiast:
+    That guy is a real encomiast.
+#那个家伙真是个马屁精
+
+carouse:
+    They'd been up carousing till dawn the night before and looked exhausted.
+#他们前一个晚上一直狂欢到黎明，显得精疲力竭了。
+
+dally:
+    He always dallies over tasks that he doesn't like doing.
+#他对不喜欢做的事，总是磨磨蹭赠。
+
+cephalic:
+    cephalic surgery
+#头部手术
+
+pellucid:
+    pellucid water
+#清澈的水
+    a pellucid sky 
+#清澄的天空
+    pellucid handwriting
+#清晰的笔迹
+
+wan:
+    a wan complexion
+#苍白的脸色
+    a wan smile
+#懒洋洋的一笑
+    She would remember the child's wan face at the window.
+#她不会忘记那孩子在窗口苍白的脸。
+
+preponderate:
+    In balancing his faults with his merits, the latter seemed rather to preponderate.
+#在比较他的缺点和优点时，后者似乎是主要的。
+
+snuggle:
+    snuggle up/down in bed
+#舒适地躺在床上
+    She snuggled her cheek against his shoulder.
+#她把脸频紧靠在他的肩上。
+
+hubris:
+    He was punished for his hubris.
+#他为自大付出了代价。
+
+riveting:
+    She told me a riveting tale of suspense and adventure.
+#她给我讲了一个充满最疑和奇遇的非常动听的故事。
+
+deprivation:
+    There were food shortages and other deprivation during the war.
+#战争期间食物短缺，其他必需品也极为匮乏。
+
+musket:
+    The musket was replaced by the rifle in the 19th century.
+#19世纪，火枪被步枪取代。
+
+evasion:
+    tax evasion
+#逃税
+    fare evasion
+#逃票
+    Her speech was full of excuses and evasions.
+#她的讲话满是借口和闪烁其词。
+
+tangy:
+    For dessert I had the most delicious tangy lemon tart.
+#我有美味的酸柠檬馅饼当饭后甜点。
+
+snappy:
+    The play contained some good snappy dialogue.
+#这部戏剧中含有一些生动活泼的对话。
+
+acrid:
+    Clouds of acrid smoke issued from the building.
+#大楼里散发出大团大团的辛辣烟气。
+
+pittance:
+    work for a pittance
+#为微薄的工资而工作
+    She had received a mere pittance of education.
+#她只受过一点儿教育。
+
+perverse:
+    a man of perverse nature
+#性情执拗的人
+    a perverse view of liberty
+#对自由的曲解
+    a perverse verdict
+#不合法的裁定
+    It would be perverse to refuse to support this plea.
+#对于这个请愿不予支持是有悖常理的。
+
+nadir:
+    the nadir of misery
+#苦难的深渊
+    the nadir of one's career
+#某人事业的低谷
+    Their relationship has reached its nadir.
+#他们的关系已经恶化到极点。
+
+lustrous:
+    lustrous eyes
+#深邃明亮的眼睛
+    a lustrous actor of the period
+#那个时代红极一时的演员
+    He has a lustrous record of achievements.
+#他有着辉煌的成就。
+
+comeuppance:
+    He'll meet his comeuppance, don't worry.
+#别担心，他会得到应有的下场的。
+
+motility:
+    These cells have low motility.
+#这些细胞有很低的能动性。
+
+forensic:
+    a forensic test
+#法医的检验
+    a forensic gift of speech
+#雄辩的才能
+    Forensic examination revealed a large quantity of poison in the dead man's stomach.
+#法医检验发现死者胃里有大量毒药。
+
+dawdle:
+    Some people like to spend an afternoon just dawdling around the shops.
+#有些人喜欢花一个下午在商店里闲逛。
+
+sneaking:
+    have a sneaking suspicion
+#私下怀疑
+    I don't like the woman, but I do have sneaking admiration for her.
+#我不喜欢这个女人，但私下里我确实很钦佩她。
+
+protuberant:
+    He stared at me with his heavy-lidded, protuberant eyes.
+#他用他那眼皮厚厚的、向外凸出的眼睛盯着我。
+
+twee:
+    It is a terribly twee dress.
+#那是一套俗气至极的衣服。
+
+nettle:
+    He looked at me sharply, clearly nettled by the interruption.
+#他狠狠地盯着我，显然被我的打断所激怒。
+
+reminisce:
+    reminisce about one's youth
+#回忆青春时代
+    She reminisced about the years gone by.
+#她缅怀过去的岁月。
+
+assuage:
+    assuage one's anger
+#消除某人的怒气
+    assuage pain
+#镇痛
+    assuage one's curiosity
+#满足好奇心
+    Not even his promotion to managing director assuaged his desire for power.
+#尽管已升任总经理，他仍渴望得到权力。
+
+oleaginous:
+    oleaginous seeds
+#含油的种子
+    an oleaginous hypocrite
+#花言巧语的伪君子
+
+ruminate:
+    He ruminated over/about/on recent events.
+#他反复思考着最近发生的事。
+
+variegate:
+    variegated leaves
+#斑叶
+    She will variegate her show with guest stars.
+#她因有特邀明星而将使演出变得丰富多彩。
+
+wallow:
+    wallow in luxury
+#沉于
+    wallow in details
+#纠缠于细节
+    He saw a pig wallowing in the mire.
+#他看见一头猪在泥沼中打滚。
+
+menthol:
+    a menthol cigarette
+#薄荷香烟
+
+rigor:
+    be trained with great rigor
+#受到严格训练
+    suffer from the rigors of life
+#经受生活的艰苦
+    He deserves to be punished with the full rigor of
+the law.
+#他应受法律的严厉惩处。
+
+rumpus:
+    cause/raise a rumpus
+#引起一片骚乱
+    There was a real rumpus in the house next door last night.
+#昨晚隔壁的房子内吵得很凶。
+
+misshapen:
+    a misshapen body
+#畸形躯体
+    She met an oldish, misshapen, stooping woman.
+#她遇见一个上了年纪、形态丑陋、弯腰曲背的妇女。
+
+writ:
+    serve a writ on sb.
+#将传票送达某人
+    The company has been served with a writ for breach of contract.
+#这家公司因违约已收到法院令状。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

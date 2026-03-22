@@ -1,0 +1,751 @@
+<<<<<<< HEAD
+perambulate: 英[pəˈræmbjuleɪt] 美[pəˈræmbjuleɪt]
+$vt. 巡行；巡视；漫步
+%vi. 漫步；巡回
+    She perambulated aimlessly in the park.
+#她在公园里面漫步。
+
+luminary: 英[ˈluːmɪnəri] 美[ˈluːmɪneri]
+%n. 发光体；杰出人物；知识渊博的人
+    political luminaries
+#政界名流
+
+refulgent: 英[rɪˈfʌldʒənt] 美[rɪˈfʌldʒənt]
+%adj. 辉煌的；灿烂的
+    the refulgent glory of the midday sun
+#正午灿烂的太阳
+
+cavort: 英[kəˈvɔːt] 美[kəˈvɔːrt]
+%vi. 腾跃；欢跃；寻欢作乐
+    Some dolphins are cavorting above the surface of the sea.
+#一些海豚在海面上嬉戏。
+
+pirouette: 英[ˌpɪruˈet] 美[ˌpɪruˈet]
+$n. （芭蕾舞）单脚尖旋转
+%v. （芭蕾舞）用脚尖旋转
+    She swirled round in well-controlled pirouettes.
+#她快速旋转着，身体控制得很好。
+
+outfox: 英[ˌaʊtˈfɒks] 美[ˌaʊtˈfɑːks]
+%v. 智胜，以机智胜过，以计取胜
+    We managed to outfox him.
+#我们设法用计谋把他击败。
+
+recumbent: 英[rɪˈkʌmbənt] 美[rɪˈkʌmbənt]
+%adj. 斜倚的；休息的
+    be recumbent on a sofa
+#躺在沙发上
+    one's recumbent conscience
+#冷漠的良心
+    be recumbent against a tree
+#靠着一棵树躺着
+    The archaeologist found a statue of a recumbent woman.
+#考古学家发现了一个躺着的女人雕像。
+
+frigidity: 英[frɪˈdʒɪdəti] 美[frɪˈdʒɪdəti]
+%n. 性冷淡；冷淡；寒冷
+    The frigidity of the department unnerved her.
+#那个部门的冷淡气氛使她深感不安。
+
+pundit: 英[ˈpʌndɪt] 美[ˈpʌndɪt]
+%n. 专家；博学者；梵文学者
+    a pundit on local history
+#地方史权威
+    a television pundit
+#电视专家
+
+dejected: 英[dɪˈdʒektɪd] 美[dɪˈdʒektɪd]
+%adj. 沮丧的，灰心的
+    She became more and more melancholy and pale and dejected.
+#她变得越来越忧郁、苍白和沮丧了。
+
+mortification: 英[ˌmɔːtɪfɪˈkeɪʃ(ə)n] 美[ˌmɔːrtɪfɪˈkeɪʃ(ə)n]
+%n. 屈辱；禁欲；坏疽
+    David was hiding his head in his hands with mortification.
+#戴维羞愧地双手抱着头。
+
+comedienne: 英[kəˌmiːdiˈen] 美[kəˌmiːdiˈen]
+%n. 喜剧女演员
+    the wonderful performance of a comedienne
+#女喜剧演员的精彩表演
+
+dalliance: 英[ˈdæliəns] 美[ˈdæliəns]
+%n. 嬉戏；闲混；调情
+    It seemed that life had been a series of meaningless dalliances before she met Mark.
+#在她遇见马克之前，生活似乎是一连串毫无意义的闲混。
+
+munch: 英[mʌntʃ] 美[mʌntʃ]
+%v. 大声咀嚼，用力咀嚼（脆的食物）
+    He munched on peanuts as he walked along the path.
+#他边沿着小路走着，边吃着花生。
+
+condole: 英[kənˈdəʊl] 美[kənˈdoʊl]
+%vi. 慰问；吊唁；哀悼
+    I condole with Henry on the death of his mother.
+#我对享利母亲的去世表示哀悼。
+
+percolate: 英[ˈpɜːkəleɪt] 美[ˈpɜːrkəleɪt]
+$vi. 过滤；渗出；浸透
+$vt. 使渗出；使过滤
+%n. 滤过液；渗出液
+    percolate some coffee
+#煮点咖啡
+    The rain percolated inside the collar of my raincoat.
+#雨水渗进了我雨衣的领子里。
+
+emote: 英[ɪˈməʊt] 美[ɪˈmoʊt]
+%vi. 夸张地表现感情
+    The actress was emoting in front of the camera.
+#女演员正在摄影机前表达夸张的情绪。
+
+lamentable: 英[ləˈmentəb(ə)l] 美[ləˈmentəb(ə)l]
+%adj. 可悲的；可怜的；哀伤的
+    the lamentable state of economy
+#糟糕的经济状况
+    lamentable fate
+#可悲的命运
+
+excruciate: 英[ɪkˈskruːʃɪˌeɪt] 美[ɪkˈskruːʃiˌeɪt]
+%v. （使）受酷刑，折磨
+    The very sound of his voice excruciates me.
+#一听到他讲话的声音就使我心烦。
+
+depressed: 英[dɪˈprest] 美[dɪˈprest]
+$adj. 抑郁的，沮丧的；萧条的，不景气的；降低了的，削弱了的；凹陷的，低陷的
+%v. 使抑郁，使沮丧；抑制；使萧条（depress 的过去式和过去分词形式）
+    be depressed about the failure
+#为失败而沮丧
+    a depressed basin
+#盆地
+    depressed prices
+#降低了的价格
+
+contumacious: 英[ˌkɒntjuˈmeɪʃəs] 美[ˌkɑːntuˈmeɪʃəs]
+%adj. 不听命令的；反抗法院命令的；顽固的
+    a contumacious witness
+#违抗法院命令的证人
+
+intrude: 英[ɪnˈtruːd] 美[ɪnˈtruːd]
+%v. 闯入；打扰，侵扰；（火成岩）侵入（已生成构造）
+    intrude on sb.'s time
+#占用某人的时间
+    An unidentified military plane intruded into the airspace of the country.
+#一架国籍不明的军用飞机侵人该国领空。
+
+morsel: 英[ˈmɔːs(ə)l] 美[ˈmɔːrs(ə)l]
+$n. 一口；（食物）少量
+%n. （Morsel）人名；（法）莫塞尔
+    a morsel of fun
+#一点乐趣
+    morsels of news
+#点滴新闻
+    a dainty morsel
+#美味小吃
+    He ate his morsel quickly and left.
+#他很快地吃了一口就走了。
+
+verbal: 英[ˈvɜːb(ə)l] 美[ˈvɜːrb(ə)l]
+$adj. 口头的，非书面的；用言辞的，文字的；动词的；多话的，爱说话的
+$n. （语法）动词性单词（或短语、从句）；辱骂，侮辱；<非正式>话，（尤指）气话；<非正式>歌词，电影对话（verbals）；<英，非正式>（不利的）口头供认
+%v. <英，非正式>（尤指不正当地）诱使（嫌疑犯）招供
+    verbal instructions
+#文字说明
+    a verbal translation
+#逐字翻译
+    We have a verbal agreement with her.
+#我们和她有一个口头协议。
+
+stooge: 英[stuːdʒ] 美[stuːdʒ]
+$n. 喜剧里的配角或丑角；助手；傀儡；密探
+%vi. 充当配角；巡航
+    I don't want to spend my life stooging for other people.
+#我不愿终身充当别人的下手。
+
+scutter: 英[ˈskʌtə(r)] 美[ˈskʌtər]
+$v. （尤指小动物）小步快跑
+%n. 快跑，快跑声
+    A crab scuttered away under a rock as we passed.
+#我们经过一块岩石时，一只螃蟹从下面溜掉了。
+
+measly: 英[ˈmiːzli] 美[ˈmiːzli]
+%adj. 极少的，少得可怜的（贬义）；患麻疹的
+    a measly performance
+#拙略的表演
+    a measly bit of work
+#微不足道的工作
+
+gratuity: 英[ɡrəˈtjuːəti] 美[ɡrəˈtuːəti]
+%n. 赏钱，小费；赠物；[劳经] 退职金
+    He dismissed the post boy with a handsome gratuity.
+#他用可观的小费把送信人打发走。
+
+suborn: 英[səˈbɔːn] 美[səˈbɔːrn]
+%vt. 唆使；收买；使作伪证
+    He was suborned into working for the secret police.
+#他受人唆使为秘密警察工作。
+
+wroth: 英[rəʊθ] 美[rɔːθ]
+$adj. <古，文>愤怒的，狂暴的
+%n. （Wroth）罗思（人名）
+    the wroth sea
+#波涛汹涌的大海
+    He was wroth to see the damage to the house.
+#看到房子被损坏，他很恼怒。
+
+countrified: 英[ˈkʌntrifaɪd] 美[ˈkʌntrifaɪd]
+%adj. 粗俗的；头脑简单的；乡村的；带乡村风味的；质朴的
+    a countrified bedroom pattern
+#有乡村风味的卧室布置式样
+    countrified rock music
+#乡村摇滚乐
+
+incubus: 英[ˈɪŋkjʊbəs] 美[ˈɪŋkjʊbəs]
+%n. 梦魇；沉重的负担
+    the incubus of inflation
+#通货膨胀的重负
+
+abstemious: 英[əbˈstiːmiəs] 美[əbˈstiːmiəs]
+%adj. 节约的，节省的；有节制的
+    be abstemious in one's eating habits
+#饮食一贯有度
+    an abstemious meal
+#简朴的一餐
+
+vertigo: 英[ˈvɜːtɪɡəʊ] 美[ˈvɜːrtɪɡoʊ]
+%n. 晕头转向，[临床] 眩晕
+    Looking out of the window still gives him vertigo.
+#从窗口往外望仍令他眩晕。
+
+simonize: 英[ˈsaɪməˌnaɪz] 美[ˈsaɪməˌnaɪz]
+%v. （给机动车）上蜡；把（机动车）擦亮（同 simonise）
+    simonize a car
+#给汽车上蜡
+
+expatiate: 英[ɪkˈspeɪʃieɪt] 美[ɪkˈspeɪʃieɪt]
+%vi. 详述；细说；漫游
+    expatiate on a subject
+#阐述主题
+    expatiate through the countryside
+#在乡间漫步
+
+limnetic: 英[lɪmˈnetɪk] 美[lɪmˈnetɪk]
+%adj. 淡水的；湖泊的
+    limnetic birds
+#湖栖鸟类
+
+terminus: 英[ˈtɜːmɪnəs] 美[ˈtɜːrmɪnəs]
+%n. 终点；终点站；界标；界石
+    a ferry boat terminus
+#游船码头
+    the terminus of a peninsula
+#半岛之端
+
+interlay: 英[ɪntəˈleɪ] 美[ˈɪntərlei]
+$v. 放在……之间，嵌入
+%n. 垫衬；中垫
+    Foreign phrases interlaid his writing.
+#他写的文章里尽是些外来语。
+
+bruit: 英[bruːt] 美[bruːt]
+$v. 传播，散播
+%n. 谣传；（尤指听诊中听到的）杂音
+    News of his resignation was bruited about.
+#他辞职的消息传开了。
+
+implode: 英[ɪmˈpləʊd] 美[ɪmˈploʊd]
+$vt. 使内爆
+%vi. 向内破裂；内爆；崩溃
+    The police found all the windows had imploded rather than exploded.
+#警方发现窗玻璃全部向室内而非朝户外爆裂。
+
+misrepresentation: 英[ˌmɪsˌreprɪzenˈteɪʃ(ə)n] 美[ˌmɪsˌreprɪzenˈteɪʃ(ə)n]
+%n. 歪曲；误传
+    All political policies are open to misrepresentation.
+#所有的政治政策都可能被曲解。
+
+ballyhoo: 英[ˌbæliˈhuː] 美[ˈbælihuː]
+$n. 大肆宣传；大吹大擂
+$vi. 大肆宣传；大吹大擂
+%vt. 大肆宣传；大吹大擂
+    newspaper ballyhoo
+#报纸大肆宣传
+    The ads ballyhooed the movie's virtues.
+#广告大肆宣扬这部电影的优点。
+
+calibrate: 英[ˈkælɪbreɪt] 美[ˈkælɪbreɪt]
+%v. 校准，标定（测量仪器等）；精确测量，准确估量；调整（实验结果），调节
+    They calibrated their responses to the urgent need of public-relations men.
+#他们按照公关人员的急切要求做出相应的反应。
+
+sunder: 英[ˈsʌndə(r)] 美[ˈsʌndər]
+$vt. 切开；切断
+$vi. 分离；断开
+%n. （Sunder）人名；（德）松德尔；（印、尼）孙达尔；（英）森德
+    Time and distance often sunder friends.
+#时间和距离常使朋友疏远。
+
+anonymity: 英[ˌænəˈnɪməti] 美[ˌænəˈnɪməti]
+%n. 匿名；无特色，无个性；匿名者
+    He wanted the anonymity of suburban life where his reputation was not known.
+#他想过一种默默无闻的郊区生活，在那里他的名声无人知晓。
+
+proceeds: 英[ˈprəʊsiːdz] 美[ˈproʊsiːdz]
+%n. 收入，收益；实收款项
+    The proceeds from the concert will go towards famine relief.
+#演唱会所得收人将用于赈济饥荒。
+
+arrant: 英[ˈærənt] 美[ˈærənt]
+%adj. 极恶的；声名狼藉的；彻头彻尾的
+    an arrant nonsense
+#一派胡言
+    an arrant knave
+#大坏蛋
+
+prehensile: 英[prɪˈhensaɪl] 美[prɪˈhens(ə)l]
+%adj. 适于抓握的；善于领会的
+    The monkey has a prehensile tail.
+#猴子有能缠住东西的尾巴。
+
+belongings: 英[bɪˈlɒŋɪŋz] 美[bɪˈlɔːŋɪŋz]
+%n. 所有物，财物；亲属
+    She left all her belongings to her sister.
+#她把所有的财产都留给了妹妹。
+
+scraggly: 英[ˈskræɡli] 美[ˈskræɡli]
+%adj. 凸凹不平的；锯齿状的；散乱的
+    a scraggly growth of hair
+#一头蓬乱的头发
+    scraggly beard
+#稀稀拉拉的胡子
+    a scraggly little path
+#坑坑洼洼的小路
+
+tweak: 英[twiːk] 美[twiːk]
+$v. 扭，拧；稍稍调整（机器、系统等）；轻微拉伤，轻微扭伤；<美>批评，取笑；<非正式>激动，兴奋（尤指在安非他命等兴奋剂作用下）
+%n. 扭，拧；微调，稍微调整；轻微的拉伤（或扭伤）
+    He gave her nose a playful tweak.
+#他顽皮地柠了下她的鼻子。
+
+ashen: 英[ˈæʃ(ə)n] 美[ˈæʃ(ə)n]
+%adj. 灰色的；苍白的
+    The refugee's skin was ashen, indicating severe malnutrition.
+#难民的皮肤是灰白色的，表明严重的营养不良。
+
+brattish: 英[ˈbrætɪʃ] 美[ˈbrætɪʃ]
+%adj. 被惯坏的；讨厌的；无礼的，幼稚的
+    brattish country boys
+#调皮的乡下男孩
+
+ravening: 英[ˈrævənɪŋ] 美[ˈrævənɪŋ]
+%adj. 贪婪饥饿的；掠食的
+    a ravening wolf
+#贪婪的狼
+
+narcissism: 英[ˈnɑːsɪsɪzəm] 美[ˈnɑːrsɪsɪzəm]
+%n. [心理] 自恋，自我陶醉
+    Actors must need a certain amount of narcissism to get up on a stage and perform in front of an audience.
+#演员必须有一定程度的自我欣赏，才能走上舞台，在观众面前表演。
+
+chaff: 英[tʃæf; tʃɑːf] 美[tʃæf]
+$n. 糠；谷壳；无价值的东西
+$vi. 开玩笑；打趣
+%vt. 开玩笑；逗趣
+    They chaffed him for fear of a nagging wife.
+#他们取笑他害怕唠叨个没完没了的妻子。
+
+illiberal: 英[ɪˈlɪbərəl] 美[ɪˈlɪbərəl]
+%adj. 偏执的；吝啬的；粗鄙的；狭隘的；缺乏文化素养的
+    illiberal thinking
+#狭隘的思想
+    illiberal attitudes
+#偏执的态度
+    an illiberal giver
+#各啬的施主
+
+blather: 英[ˈblæðə(r)] 美[ˈblæðər]
+$v. 喋喋不休；絮絮叨叨；啰嗦地说
+%n. 废话；胡说
+    He blathered on for half an hour about his high paying job.
+#他喋喋不休地谈了半个小时他的高薪工作。
+
+peruse: 英[pəˈruːz] 美[pəˈruːz]
+%vt. 详细考察；精读
+    He sat there perusing until he was ready to speak.
+#他坐在那里一个劲儿苦思冥想，直到打好腹稿准备发言。
+
+=======
+perambulate: 英[pəˈræmbjuleɪt] 美[pəˈræmbjuleɪt]
+$vt. 巡行；巡视；漫步
+%vi. 漫步；巡回
+    She perambulated aimlessly in the park.
+#她在公园里面漫步。
+
+luminary: 英[ˈluːmɪnəri] 美[ˈluːmɪneri]
+%n. 发光体；杰出人物；知识渊博的人
+    political luminaries
+#政界名流
+
+refulgent: 英[rɪˈfʌldʒənt] 美[rɪˈfʌldʒənt]
+%adj. 辉煌的；灿烂的
+    the refulgent glory of the midday sun
+#正午灿烂的太阳
+
+cavort: 英[kəˈvɔːt] 美[kəˈvɔːrt]
+%vi. 腾跃；欢跃；寻欢作乐
+    Some dolphins are cavorting above the surface of the sea.
+#一些海豚在海面上嬉戏。
+
+pirouette: 英[ˌpɪruˈet] 美[ˌpɪruˈet]
+$n. （芭蕾舞）单脚尖旋转
+%v. （芭蕾舞）用脚尖旋转
+    She swirled round in well-controlled pirouettes.
+#她快速旋转着，身体控制得很好。
+
+outfox: 英[ˌaʊtˈfɒks] 美[ˌaʊtˈfɑːks]
+%v. 智胜，以机智胜过，以计取胜
+    We managed to outfox him.
+#我们设法用计谋把他击败。
+
+recumbent: 英[rɪˈkʌmbənt] 美[rɪˈkʌmbənt]
+%adj. 斜倚的；休息的
+    be recumbent on a sofa
+#躺在沙发上
+    one's recumbent conscience
+#冷漠的良心
+    be recumbent against a tree
+#靠着一棵树躺着
+    The archaeologist found a statue of a recumbent woman.
+#考古学家发现了一个躺着的女人雕像。
+
+frigidity: 英[frɪˈdʒɪdəti] 美[frɪˈdʒɪdəti]
+%n. 性冷淡；冷淡；寒冷
+    The frigidity of the department unnerved her.
+#那个部门的冷淡气氛使她深感不安。
+
+pundit: 英[ˈpʌndɪt] 美[ˈpʌndɪt]
+%n. 专家；博学者；梵文学者
+    a pundit on local history
+#地方史权威
+    a television pundit
+#电视专家
+
+dejected: 英[dɪˈdʒektɪd] 美[dɪˈdʒektɪd]
+%adj. 沮丧的，灰心的
+    She became more and more melancholy and pale and dejected.
+#她变得越来越忧郁、苍白和沮丧了。
+
+mortification: 英[ˌmɔːtɪfɪˈkeɪʃ(ə)n] 美[ˌmɔːrtɪfɪˈkeɪʃ(ə)n]
+%n. 屈辱；禁欲；坏疽
+    David was hiding his head in his hands with mortification.
+#戴维羞愧地双手抱着头。
+
+comedienne: 英[kəˌmiːdiˈen] 美[kəˌmiːdiˈen]
+%n. 喜剧女演员
+    the wonderful performance of a comedienne
+#女喜剧演员的精彩表演
+
+dalliance: 英[ˈdæliəns] 美[ˈdæliəns]
+%n. 嬉戏；闲混；调情
+    It seemed that life had been a series of meaningless dalliances before she met Mark.
+#在她遇见马克之前，生活似乎是一连串毫无意义的闲混。
+
+munch: 英[mʌntʃ] 美[mʌntʃ]
+%v. 大声咀嚼，用力咀嚼（脆的食物）
+    He munched on peanuts as he walked along the path.
+#他边沿着小路走着，边吃着花生。
+
+condole: 英[kənˈdəʊl] 美[kənˈdoʊl]
+%vi. 慰问；吊唁；哀悼
+    I condole with Henry on the death of his mother.
+#我对享利母亲的去世表示哀悼。
+
+percolate: 英[ˈpɜːkəleɪt] 美[ˈpɜːrkəleɪt]
+$vi. 过滤；渗出；浸透
+$vt. 使渗出；使过滤
+%n. 滤过液；渗出液
+    percolate some coffee
+#煮点咖啡
+    The rain percolated inside the collar of my raincoat.
+#雨水渗进了我雨衣的领子里。
+
+emote: 英[ɪˈməʊt] 美[ɪˈmoʊt]
+%vi. 夸张地表现感情
+    The actress was emoting in front of the camera.
+#女演员正在摄影机前表达夸张的情绪。
+
+lamentable: 英[ləˈmentəb(ə)l] 美[ləˈmentəb(ə)l]
+%adj. 可悲的；可怜的；哀伤的
+    the lamentable state of economy
+#糟糕的经济状况
+    lamentable fate
+#可悲的命运
+
+excruciate: 英[ɪkˈskruːʃɪˌeɪt] 美[ɪkˈskruːʃiˌeɪt]
+%v. （使）受酷刑，折磨
+    The very sound of his voice excruciates me.
+#一听到他讲话的声音就使我心烦。
+
+depressed: 英[dɪˈprest] 美[dɪˈprest]
+$adj. 抑郁的，沮丧的；萧条的，不景气的；降低了的，削弱了的；凹陷的，低陷的
+%v. 使抑郁，使沮丧；抑制；使萧条（depress 的过去式和过去分词形式）
+    be depressed about the failure
+#为失败而沮丧
+    a depressed basin
+#盆地
+    depressed prices
+#降低了的价格
+
+contumacious: 英[ˌkɒntjuˈmeɪʃəs] 美[ˌkɑːntuˈmeɪʃəs]
+%adj. 不听命令的；反抗法院命令的；顽固的
+    a contumacious witness
+#违抗法院命令的证人
+
+intrude: 英[ɪnˈtruːd] 美[ɪnˈtruːd]
+%v. 闯入；打扰，侵扰；（火成岩）侵入（已生成构造）
+    intrude on sb.'s time
+#占用某人的时间
+    An unidentified military plane intruded into the airspace of the country.
+#一架国籍不明的军用飞机侵人该国领空。
+
+morsel: 英[ˈmɔːs(ə)l] 美[ˈmɔːrs(ə)l]
+$n. 一口；（食物）少量
+%n. （Morsel）人名；（法）莫塞尔
+    a morsel of fun
+#一点乐趣
+    morsels of news
+#点滴新闻
+    a dainty morsel
+#美味小吃
+    He ate his morsel quickly and left.
+#他很快地吃了一口就走了。
+
+verbal: 英[ˈvɜːb(ə)l] 美[ˈvɜːrb(ə)l]
+$adj. 口头的，非书面的；用言辞的，文字的；动词的；多话的，爱说话的
+$n. （语法）动词性单词（或短语、从句）；辱骂，侮辱；<非正式>话，（尤指）气话；<非正式>歌词，电影对话（verbals）；<英，非正式>（不利的）口头供认
+%v. <英，非正式>（尤指不正当地）诱使（嫌疑犯）招供
+    verbal instructions
+#文字说明
+    a verbal translation
+#逐字翻译
+    We have a verbal agreement with her.
+#我们和她有一个口头协议。
+
+stooge: 英[stuːdʒ] 美[stuːdʒ]
+$n. 喜剧里的配角或丑角；助手；傀儡；密探
+%vi. 充当配角；巡航
+    I don't want to spend my life stooging for other people.
+#我不愿终身充当别人的下手。
+
+scutter: 英[ˈskʌtə(r)] 美[ˈskʌtər]
+$v. （尤指小动物）小步快跑
+%n. 快跑，快跑声
+    A crab scuttered away under a rock as we passed.
+#我们经过一块岩石时，一只螃蟹从下面溜掉了。
+
+measly: 英[ˈmiːzli] 美[ˈmiːzli]
+%adj. 极少的，少得可怜的（贬义）；患麻疹的
+    a measly performance
+#拙略的表演
+    a measly bit of work
+#微不足道的工作
+
+gratuity: 英[ɡrəˈtjuːəti] 美[ɡrəˈtuːəti]
+%n. 赏钱，小费；赠物；[劳经] 退职金
+    He dismissed the post boy with a handsome gratuity.
+#他用可观的小费把送信人打发走。
+
+suborn: 英[səˈbɔːn] 美[səˈbɔːrn]
+%vt. 唆使；收买；使作伪证
+    He was suborned into working for the secret police.
+#他受人唆使为秘密警察工作。
+
+wroth: 英[rəʊθ] 美[rɔːθ]
+$adj. <古，文>愤怒的，狂暴的
+%n. （Wroth）罗思（人名）
+    the wroth sea
+#波涛汹涌的大海
+    He was wroth to see the damage to the house.
+#看到房子被损坏，他很恼怒。
+
+countrified: 英[ˈkʌntrifaɪd] 美[ˈkʌntrifaɪd]
+%adj. 粗俗的；头脑简单的；乡村的；带乡村风味的；质朴的
+    a countrified bedroom pattern
+#有乡村风味的卧室布置式样
+    countrified rock music
+#乡村摇滚乐
+
+incubus: 英[ˈɪŋkjʊbəs] 美[ˈɪŋkjʊbəs]
+%n. 梦魇；沉重的负担
+    the incubus of inflation
+#通货膨胀的重负
+
+abstemious: 英[əbˈstiːmiəs] 美[əbˈstiːmiəs]
+%adj. 节约的，节省的；有节制的
+    be abstemious in one's eating habits
+#饮食一贯有度
+    an abstemious meal
+#简朴的一餐
+
+vertigo: 英[ˈvɜːtɪɡəʊ] 美[ˈvɜːrtɪɡoʊ]
+%n. 晕头转向，[临床] 眩晕
+    Looking out of the window still gives him vertigo.
+#从窗口往外望仍令他眩晕。
+
+simonize: 英[ˈsaɪməˌnaɪz] 美[ˈsaɪməˌnaɪz]
+%v. （给机动车）上蜡；把（机动车）擦亮（同 simonise）
+    simonize a car
+#给汽车上蜡
+
+expatiate: 英[ɪkˈspeɪʃieɪt] 美[ɪkˈspeɪʃieɪt]
+%vi. 详述；细说；漫游
+    expatiate on a subject
+#阐述主题
+    expatiate through the countryside
+#在乡间漫步
+
+limnetic: 英[lɪmˈnetɪk] 美[lɪmˈnetɪk]
+%adj. 淡水的；湖泊的
+    limnetic birds
+#湖栖鸟类
+
+terminus: 英[ˈtɜːmɪnəs] 美[ˈtɜːrmɪnəs]
+%n. 终点；终点站；界标；界石
+    a ferry boat terminus
+#游船码头
+    the terminus of a peninsula
+#半岛之端
+
+interlay: 英[ɪntəˈleɪ] 美[ˈɪntərlei]
+$v. 放在……之间，嵌入
+%n. 垫衬；中垫
+    Foreign phrases interlaid his writing.
+#他写的文章里尽是些外来语。
+
+bruit: 英[bruːt] 美[bruːt]
+$v. 传播，散播
+%n. 谣传；（尤指听诊中听到的）杂音
+    News of his resignation was bruited about.
+#他辞职的消息传开了。
+
+implode: 英[ɪmˈpləʊd] 美[ɪmˈploʊd]
+$vt. 使内爆
+%vi. 向内破裂；内爆；崩溃
+    The police found all the windows had imploded rather than exploded.
+#警方发现窗玻璃全部向室内而非朝户外爆裂。
+
+misrepresentation: 英[ˌmɪsˌreprɪzenˈteɪʃ(ə)n] 美[ˌmɪsˌreprɪzenˈteɪʃ(ə)n]
+%n. 歪曲；误传
+    All political policies are open to misrepresentation.
+#所有的政治政策都可能被曲解。
+
+ballyhoo: 英[ˌbæliˈhuː] 美[ˈbælihuː]
+$n. 大肆宣传；大吹大擂
+$vi. 大肆宣传；大吹大擂
+%vt. 大肆宣传；大吹大擂
+    newspaper ballyhoo
+#报纸大肆宣传
+    The ads ballyhooed the movie's virtues.
+#广告大肆宣扬这部电影的优点。
+
+calibrate: 英[ˈkælɪbreɪt] 美[ˈkælɪbreɪt]
+%v. 校准，标定（测量仪器等）；精确测量，准确估量；调整（实验结果），调节
+    They calibrated their responses to the urgent need of public-relations men.
+#他们按照公关人员的急切要求做出相应的反应。
+
+sunder: 英[ˈsʌndə(r)] 美[ˈsʌndər]
+$vt. 切开；切断
+$vi. 分离；断开
+%n. （Sunder）人名；（德）松德尔；（印、尼）孙达尔；（英）森德
+    Time and distance often sunder friends.
+#时间和距离常使朋友疏远。
+
+anonymity: 英[ˌænəˈnɪməti] 美[ˌænəˈnɪməti]
+%n. 匿名；无特色，无个性；匿名者
+    He wanted the anonymity of suburban life where his reputation was not known.
+#他想过一种默默无闻的郊区生活，在那里他的名声无人知晓。
+
+proceeds: 英[ˈprəʊsiːdz] 美[ˈproʊsiːdz]
+%n. 收入，收益；实收款项
+    The proceeds from the concert will go towards famine relief.
+#演唱会所得收人将用于赈济饥荒。
+
+arrant: 英[ˈærənt] 美[ˈærənt]
+%adj. 极恶的；声名狼藉的；彻头彻尾的
+    an arrant nonsense
+#一派胡言
+    an arrant knave
+#大坏蛋
+
+prehensile: 英[prɪˈhensaɪl] 美[prɪˈhens(ə)l]
+%adj. 适于抓握的；善于领会的
+    The monkey has a prehensile tail.
+#猴子有能缠住东西的尾巴。
+
+belongings: 英[bɪˈlɒŋɪŋz] 美[bɪˈlɔːŋɪŋz]
+%n. 所有物，财物；亲属
+    She left all her belongings to her sister.
+#她把所有的财产都留给了妹妹。
+
+scraggly: 英[ˈskræɡli] 美[ˈskræɡli]
+%adj. 凸凹不平的；锯齿状的；散乱的
+    a scraggly growth of hair
+#一头蓬乱的头发
+    scraggly beard
+#稀稀拉拉的胡子
+    a scraggly little path
+#坑坑洼洼的小路
+
+tweak: 英[twiːk] 美[twiːk]
+$v. 扭，拧；稍稍调整（机器、系统等）；轻微拉伤，轻微扭伤；<美>批评，取笑；<非正式>激动，兴奋（尤指在安非他命等兴奋剂作用下）
+%n. 扭，拧；微调，稍微调整；轻微的拉伤（或扭伤）
+    He gave her nose a playful tweak.
+#他顽皮地柠了下她的鼻子。
+
+ashen: 英[ˈæʃ(ə)n] 美[ˈæʃ(ə)n]
+%adj. 灰色的；苍白的
+    The refugee's skin was ashen, indicating severe malnutrition.
+#难民的皮肤是灰白色的，表明严重的营养不良。
+
+brattish: 英[ˈbrætɪʃ] 美[ˈbrætɪʃ]
+%adj. 被惯坏的；讨厌的；无礼的，幼稚的
+    brattish country boys
+#调皮的乡下男孩
+
+ravening: 英[ˈrævənɪŋ] 美[ˈrævənɪŋ]
+%adj. 贪婪饥饿的；掠食的
+    a ravening wolf
+#贪婪的狼
+
+narcissism: 英[ˈnɑːsɪsɪzəm] 美[ˈnɑːrsɪsɪzəm]
+%n. [心理] 自恋，自我陶醉
+    Actors must need a certain amount of narcissism to get up on a stage and perform in front of an audience.
+#演员必须有一定程度的自我欣赏，才能走上舞台，在观众面前表演。
+
+chaff: 英[tʃæf; tʃɑːf] 美[tʃæf]
+$n. 糠；谷壳；无价值的东西
+$vi. 开玩笑；打趣
+%vt. 开玩笑；逗趣
+    They chaffed him for fear of a nagging wife.
+#他们取笑他害怕唠叨个没完没了的妻子。
+
+illiberal: 英[ɪˈlɪbərəl] 美[ɪˈlɪbərəl]
+%adj. 偏执的；吝啬的；粗鄙的；狭隘的；缺乏文化素养的
+    illiberal thinking
+#狭隘的思想
+    illiberal attitudes
+#偏执的态度
+    an illiberal giver
+#各啬的施主
+
+blather: 英[ˈblæðə(r)] 美[ˈblæðər]
+$v. 喋喋不休；絮絮叨叨；啰嗦地说
+%n. 废话；胡说
+    He blathered on for half an hour about his high paying job.
+#他喋喋不休地谈了半个小时他的高薪工作。
+
+peruse: 英[pəˈruːz] 美[pəˈruːz]
+%vt. 详细考察；精读
+    He sat there perusing until he was ready to speak.
+#他坐在那里一个劲儿苦思冥想，直到打好腹稿准备发言。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

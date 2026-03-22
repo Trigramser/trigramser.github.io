@@ -1,0 +1,685 @@
+<<<<<<< HEAD
+perpetrate:
+    perpetrate atrocities
+#犯下暴行
+    perpetrate the robbery of a store
+#对商店进行抢
+    perpetrate a practical joke
+#搞恶作剧
+    Three businessmen were charged with perpetrating a massive insurance fraud.
+#三个商人被指控犯有大额保险金欺诈罪。
+
+succor:
+    provide succor to the injured
+#救援伤者
+    succor the worn-out, aged men
+#帮助年老体衰的人
+    She crossed the enemy lines, disguised as a civilian, to bring medical succor to the wounded soldiers.
+#她扮作一个平民穿过敌人防线，将医药救助品带给伤兵。
+
+untimely:
+    an untimely subject
+#不合宜的题目
+    an untimely frost
+#不合时令的霜冻
+    He med a tragic and untimely death at the age of 35.
+#他在35岁时不幸猝然辞世。
+
+threaten:
+    threaten to rain/snow
+#快下雨/下雪了
+    They threatened to kill her unless she did as they asked.
+#他们威胁要杀她，除非她按他们说的做。
+
+exasperate:
+    He gave an exasperated sigh and turned back.
+#他愤恨地叹了口气，转过身去。
+
+graft:
+    graft pears onto apple trees
+#梨树嫁接到苹果树上
+    try to clear the graft
+#试图消除贪污
+    Surgeons removed some skin from her leg and grafted it onto her face.
+#外科医生将她腿上的一些皮肤移植到她脸上。
+
+fireproof:
+    He kept his stamp collection in a fireproof safe.
+#他将集邮册存放在防火保险柜里。
+
+diffident:
+    be diffident about expressing one's opinions
+#羞于表达自己的意见
+    There's no need to be so diffident about your achievements -- you've done really well.
+#没有必要对你的成就藏头露尾的——你确实干得很出色。
+
+relentless:
+    a relentless enemy
+#残忍的人
+    relentless criticism
+#不留情的批评
+    a relentless autumnal rain
+#绵绵秋雨
+    relentless summer heat
+#炎炎夏日的酷暑
+    He believes that the relentless push for economic growth is deeply damaging to the environment.
+#他认为拼命促进经济发展正在极大地破坏环境。
+
+vigilant:
+    keep a vigilant eye upon
+#对……保持警觉
+    be vigilant against
+#对……保持警惕
+    Following the bomb scare at the airport, the staff have been warned to be extra vigilant.
+#受到机场爆炸事件恐吓之后，员工们接到警告要格外警惕。
+
+inflexible:
+    an inflexible rod
+#不可弯曲的棍棒
+    a man of inflexible integrity
+#刚正不阿的人
+    an inflexible rule
+#不可改变的规则
+    The president has adopted an inflexible position.
+#总统采取了强硬的立场。
+
+enigma:
+    a bit of an enigma
+#令人费解
+    speak in enigmas
+#说些别人听不懂的话
+    It's rather an enigma why she left him.
+#她为什么离开他令人费解。
+
+heartfelt:
+    heartfelt joys
+#由衷的高兴
+    heartfelt apologies
+#由衷的道歉
+    With heartfelt relief she saw a car coming towards her through the rain.
+#在雨中，她看见一辆车朝她驶来，不禁感到由衷的宽慰。
+
+feckless:
+    feckless attempt
+#徒劳的尝试
+    feckless administration
+#低效率的管理
+    He regarded the young man as feckless and irresponsible.
+#他认为这个年轻人优柔寡断而且不负责任。
+
+sagacious:
+    a sagacious comment
+#鞭辟入里的评论
+    a sagacious choice
+#明智的选择
+    He was sagacious to back out.
+#他及时抽身退出，真是聪明。
+
+
+deterrent:
+    nuclear deterrents
+#核威慑
+    a deterrent force
+#威慑力量
+    It is hoped that the severe prison sentences will act as a deterrent to other would-be-offenders.
+#（人们）希望严厉的徒刑能对其他可能成为罪犯的人起到威慑作用。
+
+efface:
+    efface that impression once and for all
+#永远消除掉那一印象
+    be effaced from the memory of sb.
+#为某人所遗忘
+    Weathering has effaced the inscription on the tombstone.
+#日晒雨淋已经磨蚀了碑石上的铭文。
+
+inordinate:
+    an inordinate smoker
+#吸烟无度的人
+    keep inordinate hours
+#过无规律的生活
+    She has always spent an inordinate amount of time on her appearance.
+#她总是在打扮上花过多的时间。
+
+cleave:
+    cleave a tree
+#砍断一棵树
+    cleave the billowing sea
+#破浪前进
+    cleave one's way through the crowd
+#从人群中挤出去
+    With one blow of the axe, the wood was cleaved into two.
+#随着斧头一挥，木头被劈成两半。
+
+far-reaching:
+    far-reaching consequences
+#意义深远的后果
+    a far-reaching influence
+#深远的影响
+    The report outlines the most far-reaching changes in housing policy for 30 years.
+#报告概括了30年来住房政策中影响最为深远的一些变化。
+
+empathy:
+    You've lived in other countries so I'd expect you to have some sort of empathy with people who've just arrived here.
+#你在别的国家待过，所以我想你同刚到这里的人会有一些同感。
+
+muddle:
+    muddle a piece of work
+#把一件作品弄糟
+    muddle away a fortune
+#把一大笔财产挥霍掉
+    in a muddle
+#一片混乱
+    make a muddle of
+#把……弄得一团糟
+    muddle about/around
+#无事忙，使糊涂
+    muddle through college
+#混过大学阶段
+    If your mind is muddled, you cannot think clearly.
+#如果你被弄糊涂了，你就不能清晰地思考。
+
+perfunctory:
+    a perfunctory search
+#马虎的搜寻
+    make a perfunctory reply
+#敷衍着回答
+    Her smile was perfunctory.
+#她敷衍一笑。
+
+hearten:
+    I was heartened to hear reports that the tickets for the show were selling well.
+#报道说展览的门票卖得很好，这令我大为振奋。
+
+erudite:
+    an erudite commentary
+#旁征博引的评论
+    He was never dull but always erudite and well informed.
+#他从来都不愚笨，而是一直那么博学多识。
+
+entangle:
+    be entangled in/with the fishing nets
+#用渔网缠在一起
+    get entangled in the controversy
+#卷人辩论中
+    be romantically entangled with an actress
+#同一个女演员有些情感纠葛
+    entangle the question further
+#使问题更加复杂化
+    The bill is sure to entangle parliament in endless debate.
+#这个议案肯定会使议会陷人没完没了的争辩。
+
+reprimand:
+    be reprimanded for not conducting oneself properly
+#因行为不端而受到训斥
+    The boss gave him a severe reprimand for being late yet again.
+#他的老板因他再次迟到而训斥了他顿。
+
+fortnight:
+    once a fortnight
+#每两周一次
+    a fortnight ago
+#两周以前
+    in a fortnight's time
+#两周后
+    We're going on holiday for a fortnight.
+#我们要去度假两周。
+
+elucidate:
+    elucidate the policy of the government
+#阐明政府的政策
+    The possible reasons for the change in weather conditions have been elucidated by several scientists.
+#可能造成天气状况变化的原因已由几位科学家解释清楚了。
+
+boisterous:
+    boisterous winds and waves
+#狂暴的风浪
+    a boisterous child
+#爱吵闹的孩子
+    The children are having a boisterous game in the playground.
+#孩子们正在操场上喧闹地玩游戏。
+
+wilt:
+    He had intended to say something, but when all the hostile faces turned towards him, he wilted.
+#本想说些什么，但当所有带着敌意的脸转向他时，他退缩了。
+
+unleash:
+    unleash a dog
+#解带纵狗
+    unleash a storm of controversy
+#发动一场大辩论
+    unleash an air offensive
+#发动空中攻势
+
+canny:
+    a canny politician
+#工于心计的政客
+    a canny mind
+#机敏的头脑
+    She struck a canny bargain with her ex-employer.
+#她同以前的雇主达成了精明的交易。
+
+dose:
+    a dose of cough-mixture
+#一服咳嗽药剂
+    a nasty dose of flu
+#一次重流感
+    a hard dose to swallow
+#难咽的苦药
+    in small doses
+#每次少剂量地
+    at high doses
+#大剂量地
+    The label on the bottle says the dose is three of the pills with every meal.
+#瓶子上的标签说，用量是每餐三粒药丸。
+
+vehement:
+    vehement patriotism
+#激情洋溢的爱国精神
+    a vehement desire
+#急切的欲望
+    a vehement clapping
+#热烈的故障
+    vehement protest
+#强烈的抗议
+    a vehement debate
+#激烈的辩论
+    They launched a vehement attack on the government's handling of environmental issues.
+#他们就政府对待环境问题的做法发起了猛烈的攻击。
+
+exuberant:
+    exuberant vegetation
+#繁茂的植物
+    exuberant imagination
+#丰富的想象力
+    be in exuberant health
+#非常健康
+    be in exuberant confidence
+#信心十足
+    an exuberant river
+#奔腾的河流
+    heap exuberant praise on
+#对……大加溢美之词
+    a person of exuberant talent
+#才华横溢的人
+    She gave an exuberant performance.
+#她的表演热情洋溢。
+
+rancor(rancour):
+    a man free of rancor
+#不记仇的人
+    He cheated me, but I feel no rancor towards/against him.
+#他骗了我，但我并不对他怀恨在心。
+
+enrage:
+    He was so enraged at the article about him that he sued the newspaper.
+#他对于那篇关于他的文章极为愤怒，起诉了那家报纸。
+
+falsify:
+    falsify a record
+#篡改记录
+    falsity one's motives
+#歪曲某人的动机
+    The new discovery has falsified the hypothesis.
+#新的发现已证明那个假设是无根据的。
+
+pounce:
+    pounce on the quarry
+#猛扑抓住猎物
+    make a pounce
+#突然猛扑
+    The cat sat in the tree ready to pounce on the ducks below.
+#树上的猫准备扑向下方的鸭子。
+
+flagrant:
+    a flagrant crime
+#滔天大罪
+    a flagrant offender
+#罪恶昭彰的罪犯
+    flagrant cheating
+#可耻的欺诈
+    They condemned the flagrant encroachment on another nation's sovereignty.
+#他们谴责对别国主权的公然侵犯。
+
+=======
+perpetrate:
+    perpetrate atrocities
+#犯下暴行
+    perpetrate the robbery of a store
+#对商店进行抢
+    perpetrate a practical joke
+#搞恶作剧
+    Three businessmen were charged with perpetrating a massive insurance fraud.
+#三个商人被指控犯有大额保险金欺诈罪。
+
+succor:
+    provide succor to the injured
+#救援伤者
+    succor the worn-out, aged men
+#帮助年老体衰的人
+    She crossed the enemy lines, disguised as a civilian, to bring medical succor to the wounded soldiers.
+#她扮作一个平民穿过敌人防线，将医药救助品带给伤兵。
+
+untimely:
+    an untimely subject
+#不合宜的题目
+    an untimely frost
+#不合时令的霜冻
+    He med a tragic and untimely death at the age of 35.
+#他在35岁时不幸猝然辞世。
+
+threaten:
+    threaten to rain/snow
+#快下雨/下雪了
+    They threatened to kill her unless she did as they asked.
+#他们威胁要杀她，除非她按他们说的做。
+
+exasperate:
+    He gave an exasperated sigh and turned back.
+#他愤恨地叹了口气，转过身去。
+
+graft:
+    graft pears onto apple trees
+#梨树嫁接到苹果树上
+    try to clear the graft
+#试图消除贪污
+    Surgeons removed some skin from her leg and grafted it onto her face.
+#外科医生将她腿上的一些皮肤移植到她脸上。
+
+fireproof:
+    He kept his stamp collection in a fireproof safe.
+#他将集邮册存放在防火保险柜里。
+
+diffident:
+    be diffident about expressing one's opinions
+#羞于表达自己的意见
+    There's no need to be so diffident about your achievements -- you've done really well.
+#没有必要对你的成就藏头露尾的——你确实干得很出色。
+
+relentless:
+    a relentless enemy
+#残忍的人
+    relentless criticism
+#不留情的批评
+    a relentless autumnal rain
+#绵绵秋雨
+    relentless summer heat
+#炎炎夏日的酷暑
+    He believes that the relentless push for economic growth is deeply damaging to the environment.
+#他认为拼命促进经济发展正在极大地破坏环境。
+
+vigilant:
+    keep a vigilant eye upon
+#对……保持警觉
+    be vigilant against
+#对……保持警惕
+    Following the bomb scare at the airport, the staff have been warned to be extra vigilant.
+#受到机场爆炸事件恐吓之后，员工们接到警告要格外警惕。
+
+inflexible:
+    an inflexible rod
+#不可弯曲的棍棒
+    a man of inflexible integrity
+#刚正不阿的人
+    an inflexible rule
+#不可改变的规则
+    The president has adopted an inflexible position.
+#总统采取了强硬的立场。
+
+enigma:
+    a bit of an enigma
+#令人费解
+    speak in enigmas
+#说些别人听不懂的话
+    It's rather an enigma why she left him.
+#她为什么离开他令人费解。
+
+heartfelt:
+    heartfelt joys
+#由衷的高兴
+    heartfelt apologies
+#由衷的道歉
+    With heartfelt relief she saw a car coming towards her through the rain.
+#在雨中，她看见一辆车朝她驶来，不禁感到由衷的宽慰。
+
+feckless:
+    feckless attempt
+#徒劳的尝试
+    feckless administration
+#低效率的管理
+    He regarded the young man as feckless and irresponsible.
+#他认为这个年轻人优柔寡断而且不负责任。
+
+sagacious:
+    a sagacious comment
+#鞭辟入里的评论
+    a sagacious choice
+#明智的选择
+    He was sagacious to back out.
+#他及时抽身退出，真是聪明。
+
+
+deterrent:
+    nuclear deterrents
+#核威慑
+    a deterrent force
+#威慑力量
+    It is hoped that the severe prison sentences will act as a deterrent to other would-be-offenders.
+#（人们）希望严厉的徒刑能对其他可能成为罪犯的人起到威慑作用。
+
+efface:
+    efface that impression once and for all
+#永远消除掉那一印象
+    be effaced from the memory of sb.
+#为某人所遗忘
+    Weathering has effaced the inscription on the tombstone.
+#日晒雨淋已经磨蚀了碑石上的铭文。
+
+inordinate:
+    an inordinate smoker
+#吸烟无度的人
+    keep inordinate hours
+#过无规律的生活
+    She has always spent an inordinate amount of time on her appearance.
+#她总是在打扮上花过多的时间。
+
+cleave:
+    cleave a tree
+#砍断一棵树
+    cleave the billowing sea
+#破浪前进
+    cleave one's way through the crowd
+#从人群中挤出去
+    With one blow of the axe, the wood was cleaved into two.
+#随着斧头一挥，木头被劈成两半。
+
+far-reaching:
+    far-reaching consequences
+#意义深远的后果
+    a far-reaching influence
+#深远的影响
+    The report outlines the most far-reaching changes in housing policy for 30 years.
+#报告概括了30年来住房政策中影响最为深远的一些变化。
+
+empathy:
+    You've lived in other countries so I'd expect you to have some sort of empathy with people who've just arrived here.
+#你在别的国家待过，所以我想你同刚到这里的人会有一些同感。
+
+muddle:
+    muddle a piece of work
+#把一件作品弄糟
+    muddle away a fortune
+#把一大笔财产挥霍掉
+    in a muddle
+#一片混乱
+    make a muddle of
+#把……弄得一团糟
+    muddle about/around
+#无事忙，使糊涂
+    muddle through college
+#混过大学阶段
+    If your mind is muddled, you cannot think clearly.
+#如果你被弄糊涂了，你就不能清晰地思考。
+
+perfunctory:
+    a perfunctory search
+#马虎的搜寻
+    make a perfunctory reply
+#敷衍着回答
+    Her smile was perfunctory.
+#她敷衍一笑。
+
+hearten:
+    I was heartened to hear reports that the tickets for the show were selling well.
+#报道说展览的门票卖得很好，这令我大为振奋。
+
+erudite:
+    an erudite commentary
+#旁征博引的评论
+    He was never dull but always erudite and well informed.
+#他从来都不愚笨，而是一直那么博学多识。
+
+entangle:
+    be entangled in/with the fishing nets
+#用渔网缠在一起
+    get entangled in the controversy
+#卷人辩论中
+    be romantically entangled with an actress
+#同一个女演员有些情感纠葛
+    entangle the question further
+#使问题更加复杂化
+    The bill is sure to entangle parliament in endless debate.
+#这个议案肯定会使议会陷人没完没了的争辩。
+
+reprimand:
+    be reprimanded for not conducting oneself properly
+#因行为不端而受到训斥
+    The boss gave him a severe reprimand for being late yet again.
+#他的老板因他再次迟到而训斥了他顿。
+
+fortnight:
+    once a fortnight
+#每两周一次
+    a fortnight ago
+#两周以前
+    in a fortnight's time
+#两周后
+    We're going on holiday for a fortnight.
+#我们要去度假两周。
+
+elucidate:
+    elucidate the policy of the government
+#阐明政府的政策
+    The possible reasons for the change in weather conditions have been elucidated by several scientists.
+#可能造成天气状况变化的原因已由几位科学家解释清楚了。
+
+boisterous:
+    boisterous winds and waves
+#狂暴的风浪
+    a boisterous child
+#爱吵闹的孩子
+    The children are having a boisterous game in the playground.
+#孩子们正在操场上喧闹地玩游戏。
+
+wilt:
+    He had intended to say something, but when all the hostile faces turned towards him, he wilted.
+#本想说些什么，但当所有带着敌意的脸转向他时，他退缩了。
+
+unleash:
+    unleash a dog
+#解带纵狗
+    unleash a storm of controversy
+#发动一场大辩论
+    unleash an air offensive
+#发动空中攻势
+
+canny:
+    a canny politician
+#工于心计的政客
+    a canny mind
+#机敏的头脑
+    She struck a canny bargain with her ex-employer.
+#她同以前的雇主达成了精明的交易。
+
+dose:
+    a dose of cough-mixture
+#一服咳嗽药剂
+    a nasty dose of flu
+#一次重流感
+    a hard dose to swallow
+#难咽的苦药
+    in small doses
+#每次少剂量地
+    at high doses
+#大剂量地
+    The label on the bottle says the dose is three of the pills with every meal.
+#瓶子上的标签说，用量是每餐三粒药丸。
+
+vehement:
+    vehement patriotism
+#激情洋溢的爱国精神
+    a vehement desire
+#急切的欲望
+    a vehement clapping
+#热烈的故障
+    vehement protest
+#强烈的抗议
+    a vehement debate
+#激烈的辩论
+    They launched a vehement attack on the government's handling of environmental issues.
+#他们就政府对待环境问题的做法发起了猛烈的攻击。
+
+exuberant:
+    exuberant vegetation
+#繁茂的植物
+    exuberant imagination
+#丰富的想象力
+    be in exuberant health
+#非常健康
+    be in exuberant confidence
+#信心十足
+    an exuberant river
+#奔腾的河流
+    heap exuberant praise on
+#对……大加溢美之词
+    a person of exuberant talent
+#才华横溢的人
+    She gave an exuberant performance.
+#她的表演热情洋溢。
+
+rancor(rancour):
+    a man free of rancor
+#不记仇的人
+    He cheated me, but I feel no rancor towards/against him.
+#他骗了我，但我并不对他怀恨在心。
+
+enrage:
+    He was so enraged at the article about him that he sued the newspaper.
+#他对于那篇关于他的文章极为愤怒，起诉了那家报纸。
+
+falsify:
+    falsify a record
+#篡改记录
+    falsity one's motives
+#歪曲某人的动机
+    The new discovery has falsified the hypothesis.
+#新的发现已证明那个假设是无根据的。
+
+pounce:
+    pounce on the quarry
+#猛扑抓住猎物
+    make a pounce
+#突然猛扑
+    The cat sat in the tree ready to pounce on the ducks below.
+#树上的猫准备扑向下方的鸭子。
+
+flagrant:
+    a flagrant crime
+#滔天大罪
+    a flagrant offender
+#罪恶昭彰的罪犯
+    flagrant cheating
+#可耻的欺诈
+    They condemned the flagrant encroachment on another nation's sovereignty.
+#他们谴责对别国主权的公然侵犯。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

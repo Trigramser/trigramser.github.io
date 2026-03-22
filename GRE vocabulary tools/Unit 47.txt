@@ -1,0 +1,763 @@
+<<<<<<< HEAD
+muse: 英[mjuːz] 美[mjuːz]
+$n. 灵感，激发创作灵感的人；缪斯（古希腊神话中掌管艺术或科学的九位女神之一）（Muse）
+%v. 沉思，冥想；沉思地说；若有所思地凝视（muse on）
+    be lost in muse
+#陷入沉思
+    muse upon a distant view
+#若有所思地凝望着远处的景色
+    He mused about the possibility of genetic manipulation.
+#他仔细思考基因控制的可能性。
+
+endue: 英[ɪnˈdjuː] 美[ɪnˈduː]
+%vt. 授予，赋予；穿上
+    be endued with wisdom
+#有智慧
+    He endued the character of a madman.
+#他装作是个疯子。
+
+parity: 英[ˈpærəti] 美[ˈpærəti]
+%n. （尤指薪金或地位）平等，相同；（两个不同国家的货币单位的）平价，等价；（数字）奇偶性；（物理）宇称；（物理）宇称性；（计算机）奇偶校验；（医）经产（状况）；已产子女数
+    parity of pay
+#同酬
+    The two countries reached a parity in military strength.
+#两国的军事力量达到势均力敌的状况。
+
+passe: 英[ˈpæseɪ] 美[pæˈseɪ]
+$adj. 已过盛年的；过时的；凋谢的
+%n. （Passe）人名；（法）帕斯
+    a passe society beauty
+#已过青春妙龄的交际花
+    passe ideas
+#陈旧的观念
+    He is politically passe.
+#他在政治上很落伍。
+
+monograph: 英[ˈmɒnəɡrɑːf] 美[ˈmɑːnəɡræf]
+$n. 专题著作，专题论文
+%vt. 写关于……的专著
+    She published a monograph on Hemingway.
+#她出版了一部关于海明威的专著。
+
+install: 英[ɪnˈstɔːl] 美[ɪnˈstɔːl]
+%v. 安装，设置；（计算机）安装（新软件）；正式任命，使正式就职；安顿，安置
+    install a new assistant
+#任命一位新助手
+    Martin installed his family in the attic.
+#马丁把家眷安置在阁楼上。
+
+detraction: 英[dɪˈtrækʃən] 美[diːˈtrækʃ(ə)n]
+%n. 诽谤；减损
+    It's detraction from his dignity.
+#这有损他的尊严。
+
+captivate: 英[ˈkæptɪveɪt] 美[ˈkæptɪveɪt]
+%v. 迷住，使……着迷
+    He was captivated by her charm.
+#他被她的魅力迷住了。
+
+prognosticate: 英[prɒɡˈnɒstɪˌkeɪt] 美[prɑːɡˈnɑːstɪˌkeɪt]
+%vt. 预言，预测
+    He prognosticated that on the tenth of May a storm should burst over the island.
+#他预言说，5月10日这一天暴风雨将袭击这座岛。
+
+gauche: 英[ɡəʊʃ] 美[ɡoʊʃ]
+$adj. 笨拙的；粗鲁的；不善交际的；偏转的
+%n. （Gauche）人名；（法）戈什；（西）高切
+    He is tongue-tied and gauche.
+#他讷于言辞，不善交际。
+
+greenhorn: 英[ˈɡriːnhɔːn] 美[ˈɡriːnhɔːrn]
+%n. 生手；不懂世故的人；易受骗的人
+    I'm a bit of a greenhorn when it comes to skiing.
+#我在滑雪方面是个新手。
+
+rewarding: 英[rɪˈwɔːdɪŋ] 美[rɪˈwɔːrdɪŋ]
+$adj. 值得的，有意义的；赚钱的，营利的
+%v. 酬谢，奖赏；奖励（行动，品质）；（理所当然地）获得，赢得（reward 的现在分词形式）
+    a rewarding smile of thanks
+#表示答谢的微笑
+    A tour of the harbor is an immensely rewarding experience.
+#参观一下港口会是一次极有意义的经历。
+
+projectile: 英[prəˈdʒektaɪl] 美[prəˈdʒekt(ə)l]
+$n. 炮弹；抛射体；自动推进武器
+%adj. 可抛射物体的；供抛射用的；（触角等）能伸出的
+    The second projectile exploded after hitting a tank.
+#第二发炮弹在击中一辆坦克后爆炸了。
+
+punctilious: 英[pʌŋkˈtɪliəs] 美[pʌŋkˈtɪliəs]
+%adj. 一丝不苟的；精密细心的；拘泥形式的
+    A nurse should be punctilious in following the doctor's orders.
+#护士应该一丝不苟地执行医嘱。
+
+scintillate: 英[ˈsɪntɪˌleɪt] 美[ˈsɪnt(ə)lˌeɪt]
+%vi. 发出火花；闪烁
+    eyes that scintillate with fury
+#冒出怒火的眼睛
+    The stars scintillated in the winter sky.
+#星星在冬天的夜空中闪烁。
+
+smirk: 英[smɜːk] 美[smɜːrk]
+$v. 得意地笑，幸灾乐祸地笑，傻笑；假笑；以假笑表示，以傻笑表示
+$n. 傻笑，得意的笑；假笑
+%n. （Smirk）斯莫克（人名）
+    I detected a smirk on his face.
+#我发现他脸上露出得意的笑容。
+
+flossy: 英[ˈflɒsi] 美[ˈflɔːsi]
+%adj. 丝棉似的；迷人的；轻软的
+    flossy handwritting
+#漂亮的书法
+
+straiten: 英[ˈstreɪt(ə)n] 美[ˈstreɪt(ə)n]
+$vt. 限制；使……穷困；使……为难
+%vi. 变窄；变紧
+    straiten the range of one's authority
+#限制某人的职权范围
+    be straitened in time
+#时间紧迫
+    be straitened for money
+#经济拮据
+
+encyclopaedic: 英[ɛnˌsaɪkləʊˈpiːdɪk] 美[ɛnˌsaɪkləʊˈpiːdɪk]
+%adj. 百科全书的；广博的；如百科辞典的
+    She's amassed encyclopaedic knowledge of Arabic culture.
+#她积累了关于阿拉伯文化的广博知识。
+
+slippage: 英[ˈslɪpɪdʒ] 美[ˈslɪpɪdʒ]
+%n. 滑移；滑动；下降
+    the slippage of the tyres on the ice
+#轮胎在冰上打滑
+    the steady slippage
+#持续下降
+
+incertitude: 英[ɪnˈsɜːtɪˌtjuːd] 美[ɪnˈsɜːrtəˌtuːd]
+%n. 不确定，无信心；疑惑
+    He said he perspired in incertitude over every word.
+#他说他每写一个字都再三斟酌得冒汗。
+
+levelheaded: 英[ˌlev(ə)lˈhedɪd] 美[ˌlev(ə)lˈhedɪd]
+%adj. 稳健的，头脑冷静的；明智的
+    a levelheaded approach to a problem
+#处理问题的冷静态度
+
+coruscate: 英[ˈkɒrəskeɪt] 美[ˈkɔːrəskeɪt]
+%vi. 焕发；闪烁
+    a coruscating galaxy of talents
+#一群烟烟生辉的天才
+    The stars kept coruscating.
+#繁星闪烁。
+
+delirium: 英[dɪˈlɪriəm; dɪˈlɪəriəm] 美[dɪˈlɪriəm]
+%n. 精神错乱；发狂，狂热；说谵语状态
+    He strode about the room in a delirium of joy.
+#他狂喜地在房间里走来走去。
+
+regurgitate: 英[rɪˈɡɜːdʒɪteɪt] 美[rɪˈɡɜːrdʒɪteɪt]
+$vi. 回流；回涌；反胃；反刍
+%vt. 使回流；使回涌；使反刍
+    The baby has regurgitated all of its food.
+#那要儿把吃下的东西全吐了出来。
+
+wallop: 英[ˈwɒləp] 美[ˈwɑːləp]
+$v. （非正式）猛击，痛打；击溃，击败（对手）；沸腾；颠簸；猛冲
+$n. （非正式）痛打，重击；冲击力；快感；巨大影响；含酒精的饮料（尤指啤酒）
+%n. （Wallop） （美、英）旺洛（人名）
+    the wallop of a bomb
+#炸弹的冲击力
+    get a big wallop out of it
+#从中得到极大乐趣
+    The drought walloped half of the country.
+#干旱席卷了半个国家。
+
+slattern: 英[ˈslætən] 美[ˈslætərn]
+$n. 荡妇；妓女；邋遢的女人
+$adj. 不整洁的
+%vt. 浪费掉
+    slattern away one's time in nothing
+#无所事事地浪费时间
+
+resentment: 英[rɪˈzentmənt] 美[rɪˈzentmənt]
+%n. 愤恨，怨恨
+    bear a feeling of resentment against sb.
+#对某人怀恨在心
+    She feels resentment at the interruption.
+#她因被人打断而恼怒不已。
+
+extenuate: 英[ɪkˈstenjʊˌeɪt] 美[ɪkˈstenjuˌeɪt]
+%v. 减轻（过错等）的程度，使看起来情有可原；使瘦削
+    You must not extenuate his behavior.
+#你不应该为他的行为辩解。
+
+fancied: 英[ˈfænsid] 美[ˈfænsɪd]
+%adj. 空想的；虚构的；受喜爱的；被特别爱好的
+    a fancied grievance
+#想象出来的冤屈
+
+refraction: 英[rɪˈfrækʃ(ə)n] 美[rɪˈfrækʃ(ə)n]
+%n. 折射；折光
+    the refraction of light
+#光的折射
+
+pell-mell: 英[ˌpel ˈmel] 美[ˌpel ˈmel]
+$adv. 匆忙地，混乱地
+$adj. 慌乱的，乱糟糟的
+%n. 混乱，杂乱
+    read everything pell-mell
+#无选择地什么都读
+    be piled pell-mell in the corner
+#乱七八糟地堆在角落
+    The audience broke into a pell-mell rush for the exit.
+#观众突然一窝蜂地朝出口处冲去。
+
+mulish: 英[ˈmjuːlɪʃ] 美[ˈmjuːlɪʃ]
+%adj. 顽固的，执拗的；骡子似的
+    He's a very headstrong and mulish person most of the time, but underneath I think he's quite vulnerable.
+#他大多数时候是个非常倔强和刚愎自用的人，但我想他骨子里是很脆弱的。
+
+rudder: 英[ˈrʌdə(r)] 美[ˈrʌdər]
+$n. 船舵；飞机方向舵
+%n. （Rudder）人名；（德、西）鲁德尔
+    There is no rudder as such, so the craft can be steered only when under power.
+#没有真正的方向舵，所以只有在动力驱动的情况下才能操控船只。
+
+ruction: 英[ˈrʌkʃ(ə)n] 美[ˈrʌkʃən]
+%n. 吵闹；骚动
+    There'll be ructions if I'm not home by midnight.
+#如果我不在午夜以前回家，就会被抱怨。
+
+catharsis: 英[kəˈθɑːsɪs] 美[kəˈθɑːrsɪs]
+%n. [医] 泻法，导泻；净化；精神发泄
+    He found acting a catharsis.
+#他发现演戏具有宣泄作用。
+
+cogitate: 英[ˈkɒdʒɪteɪt] 美[ˈkɑːdʒɪteɪt]
+$vt. 仔细考虑；谋划
+%vi. 思考；考虑
+    She cogitated over the past evening.
+#她仔细回想前一晚发生的事。
+
+chauvinistic: 英[ˌʃəʊvɪˈnɪstɪk] 美[ˌʃoʊvɪˈnɪstɪk]
+%adj. 沙文主义的；盲目爱国的
+    The crowd was enthusiastically singing chauvinistic patriotic songs.
+#人群热烈地唱着沙文主义的爱国歌曲。
+
+bullion: 英[ˈbʊliən] 美[ˈbʊliən]
+$n. 金银；纯金；金银块
+%n. （Bullion）人名；（法）比利翁
+    the bullion contained in a silver dollar
+#一枚银元中所含的银
+
+rescission: 英[rɪˈsɪʒ(ə)n] 美[rɪˈsɪʒ(ə)n]
+%n. 取消，废除
+    the rescission of the law
+#法令的废除
+
+crabbed: 英[ˈkræbɪd] 美[ˈkræbɪd]
+$adj. 暴躁的；难懂的；晦涩的；潦草的
+%v. 抱怨；侧航（crab 的过去分词）
+    crabbed handwriting
+#潦草的字迹
+    a crabbed satirist
+#一个尖刻的讽刺家
+
+effrontery: 英[ɪˈfrʌntəri] 美[ɪˈfrʌntəri]
+%n. 厚颜无耻
+    with cold effrontery
+#冷静而放肆地
+
+vacuous: 英[ˈvækjuəs] 美[ˈvækjuəs]
+%adj. 空的；空虚的；空洞的；无意义的
+    a vacuous play
+#内容贫乏的戏
+    a vacuous stare
+#空洞的凝视
+    a vacuous way of life
+#懒散的生活方式
+
+swear: 英[sweə(r)] 美[swer]
+$v. 咒骂，诅咒；郑重承诺，发誓；保证（所说属实）；使起誓（保密）；（尤指在法庭）宣誓，起誓
+%n. 宣誓；诅咒
+    swear on the Bible
+#手按《圣经》发誓
+    swear revenge
+#发誓报仇
+    swear by
+#以……发誓
+    She swore on her honor that she had never seen the man.
+#她以自己的名誉发誓说她从没见过那个男人。
+
+maleficence: 英[məˈlefɪs(ə)ns] 美[məˈlefəsəns]
+%n. 罪行；恶毒
+    be guilty of more than one maleficence
+#犯不止一桩罪行
+
+tranquility: 英[træŋˈkwɪləti] 美[træŋˈkwɪləti]
+%n. 宁静，安宁
+    There is a tranquility about him.
+#他神态安详。
+
+discombobulate: 英[ˌdɪskəmˈbɒbjuleɪt] 美[ˌdɪskəmˈbɑːbjuleɪt]
+%vt. 使混乱；使泄气；使困惑
+    Her plans were discombobulated by the turn of events.
+#事态的发展把她的计划打乱了。
+
+maunder: 英[ˈmɔːndə(r)] 美[ˈmɔːndər]
+$v. 闲逛；唠叨；胡扯
+%n. （Maunder）（美）蒙德（人名）
+    maunder about the town at sunset
+#黄时分在小城里闲逛
+    He sat there maundering about his troubles.
+#他坐在那里唠叨着自己的烦恼事
+
+finagle: 英[fɪˈneɪɡ(ə)l] 美[fɪˈneɪɡ(ə)l]
+$vt. 欺瞒；哄骗
+%vi. 欺瞒；哄骗
+    He finagled some tickets for tonight's big game.
+#他骗到了几张今晚重大比赛的门票。
+
+illusive: 英[ɪˈluːsɪv] 美[ɪˈluːsɪv]
+%adj. 错觉的；幻影的；迷惑人的
+    illusory hopes
+#不切实际的希望
+    illusive Alps
+#梦幻般的阿尔卑斯山
+
+entirety: 英[ɪnˈtaɪərəti] 美[ɪnˈtaɪərəti]
+%n. 全部，整体
+    She devoted the entirety of her life to medical research.
+#她一生从事医学研究。
+
+seasoned: 英[ˈsiːz(ə)nd] 美[ˈsiːznd]
+$adj. 富有经验的；调好味的；风干的，晾干的（可加工使用 ）
+%v. 给……调味，加调料于；给……增添趣味；使（木头）风干（season 的过去式和过去分词）
+    seasoned meat
+#风干的肉
+    a seasoned politician
+#老练的政治家
+
+brackish: 英[ˈbrækɪʃ] 美[ˈbrækɪʃ]
+%adj. 含盐的；令人不快的；难吃的
+    brackish water
+#稍带咸味的水
+    a brackish personality
+#使人讨厌的个性
+
+saucy: 英[ˈsɔːsi] 美[ˈsɔːsi]
+$adj. 粗鲁的；不雅的；开色情玩笑的；调皮的；充满活力的；（食物）加调味汁的
+%n. （Saucy）（美、瑞、法、阿、加）扫克丽（人名）
+    a saucy yacht
+#漂亮的游艇
+    You were saucy to say that.
+#你那样说太没规矩了。
+
+masticate: 英[ˈmæstɪkeɪt] 美[ˈmæstɪkeɪt]
+$vt. 咀嚼；粉碎；撕捏
+%vi. 咀嚼；粉碎；撕捏
+    He slowly masticated a shrimp.
+#他慢慢地咀嚼着一只虾。
+
+locus: 英[ˈləʊkəs] 美[ˈloʊkəs]
+%n. [数] 轨迹；地点，所在地
+    the locus of power
+#权力的中心
+
+epideictic: 英[ˌepɪˈdaɪktɪk] 美[ˌepəˈdaɪktɪk]
+%adj. 富于词藻的；（文体、演讲等）意在表现词藻技巧的；夸耀的
+    an epideictic style of writing
+#表现辞藻技巧的文风
+
+scrutable: 英[ˈskruːtəb(ə)l] 美[ˈskruːtəb(ə)l]
+%adj. 可以了解的；可解读的
+    The words on the tombstone are still scrutable.
+#墓碑上的字仍可辨认。
+
+purgatory: 英[ˈpɜːɡət(ə)ri] 美[ˈpɜːrɡətɔːri]
+$n. 炼狱；涤罪；暂时的苦难
+%adj. 涤罪的（等于 purgative）
+    He described his experience of combat as sheer purgatory.
+#他把自己作战的经历描述为活受罪。
+
+=======
+muse: 英[mjuːz] 美[mjuːz]
+$n. 灵感，激发创作灵感的人；缪斯（古希腊神话中掌管艺术或科学的九位女神之一）（Muse）
+%v. 沉思，冥想；沉思地说；若有所思地凝视（muse on）
+    be lost in muse
+#陷入沉思
+    muse upon a distant view
+#若有所思地凝望着远处的景色
+    He mused about the possibility of genetic manipulation.
+#他仔细思考基因控制的可能性。
+
+endue: 英[ɪnˈdjuː] 美[ɪnˈduː]
+%vt. 授予，赋予；穿上
+    be endued with wisdom
+#有智慧
+    He endued the character of a madman.
+#他装作是个疯子。
+
+parity: 英[ˈpærəti] 美[ˈpærəti]
+%n. （尤指薪金或地位）平等，相同；（两个不同国家的货币单位的）平价，等价；（数字）奇偶性；（物理）宇称；（物理）宇称性；（计算机）奇偶校验；（医）经产（状况）；已产子女数
+    parity of pay
+#同酬
+    The two countries reached a parity in military strength.
+#两国的军事力量达到势均力敌的状况。
+
+passe: 英[ˈpæseɪ] 美[pæˈseɪ]
+$adj. 已过盛年的；过时的；凋谢的
+%n. （Passe）人名；（法）帕斯
+    a passe society beauty
+#已过青春妙龄的交际花
+    passe ideas
+#陈旧的观念
+    He is politically passe.
+#他在政治上很落伍。
+
+monograph: 英[ˈmɒnəɡrɑːf] 美[ˈmɑːnəɡræf]
+$n. 专题著作，专题论文
+%vt. 写关于……的专著
+    She published a monograph on Hemingway.
+#她出版了一部关于海明威的专著。
+
+install: 英[ɪnˈstɔːl] 美[ɪnˈstɔːl]
+%v. 安装，设置；（计算机）安装（新软件）；正式任命，使正式就职；安顿，安置
+    install a new assistant
+#任命一位新助手
+    Martin installed his family in the attic.
+#马丁把家眷安置在阁楼上。
+
+detraction: 英[dɪˈtrækʃən] 美[diːˈtrækʃ(ə)n]
+%n. 诽谤；减损
+    It's detraction from his dignity.
+#这有损他的尊严。
+
+captivate: 英[ˈkæptɪveɪt] 美[ˈkæptɪveɪt]
+%v. 迷住，使……着迷
+    He was captivated by her charm.
+#他被她的魅力迷住了。
+
+prognosticate: 英[prɒɡˈnɒstɪˌkeɪt] 美[prɑːɡˈnɑːstɪˌkeɪt]
+%vt. 预言，预测
+    He prognosticated that on the tenth of May a storm should burst over the island.
+#他预言说，5月10日这一天暴风雨将袭击这座岛。
+
+gauche: 英[ɡəʊʃ] 美[ɡoʊʃ]
+$adj. 笨拙的；粗鲁的；不善交际的；偏转的
+%n. （Gauche）人名；（法）戈什；（西）高切
+    He is tongue-tied and gauche.
+#他讷于言辞，不善交际。
+
+greenhorn: 英[ˈɡriːnhɔːn] 美[ˈɡriːnhɔːrn]
+%n. 生手；不懂世故的人；易受骗的人
+    I'm a bit of a greenhorn when it comes to skiing.
+#我在滑雪方面是个新手。
+
+rewarding: 英[rɪˈwɔːdɪŋ] 美[rɪˈwɔːrdɪŋ]
+$adj. 值得的，有意义的；赚钱的，营利的
+%v. 酬谢，奖赏；奖励（行动，品质）；（理所当然地）获得，赢得（reward 的现在分词形式）
+    a rewarding smile of thanks
+#表示答谢的微笑
+    A tour of the harbor is an immensely rewarding experience.
+#参观一下港口会是一次极有意义的经历。
+
+projectile: 英[prəˈdʒektaɪl] 美[prəˈdʒekt(ə)l]
+$n. 炮弹；抛射体；自动推进武器
+%adj. 可抛射物体的；供抛射用的；（触角等）能伸出的
+    The second projectile exploded after hitting a tank.
+#第二发炮弹在击中一辆坦克后爆炸了。
+
+punctilious: 英[pʌŋkˈtɪliəs] 美[pʌŋkˈtɪliəs]
+%adj. 一丝不苟的；精密细心的；拘泥形式的
+    A nurse should be punctilious in following the doctor's orders.
+#护士应该一丝不苟地执行医嘱。
+
+scintillate: 英[ˈsɪntɪˌleɪt] 美[ˈsɪnt(ə)lˌeɪt]
+%vi. 发出火花；闪烁
+    eyes that scintillate with fury
+#冒出怒火的眼睛
+    The stars scintillated in the winter sky.
+#星星在冬天的夜空中闪烁。
+
+smirk: 英[smɜːk] 美[smɜːrk]
+$v. 得意地笑，幸灾乐祸地笑，傻笑；假笑；以假笑表示，以傻笑表示
+$n. 傻笑，得意的笑；假笑
+%n. （Smirk）斯莫克（人名）
+    I detected a smirk on his face.
+#我发现他脸上露出得意的笑容。
+
+flossy: 英[ˈflɒsi] 美[ˈflɔːsi]
+%adj. 丝棉似的；迷人的；轻软的
+    flossy handwritting
+#漂亮的书法
+
+straiten: 英[ˈstreɪt(ə)n] 美[ˈstreɪt(ə)n]
+$vt. 限制；使……穷困；使……为难
+%vi. 变窄；变紧
+    straiten the range of one's authority
+#限制某人的职权范围
+    be straitened in time
+#时间紧迫
+    be straitened for money
+#经济拮据
+
+encyclopaedic: 英[ɛnˌsaɪkləʊˈpiːdɪk] 美[ɛnˌsaɪkləʊˈpiːdɪk]
+%adj. 百科全书的；广博的；如百科辞典的
+    She's amassed encyclopaedic knowledge of Arabic culture.
+#她积累了关于阿拉伯文化的广博知识。
+
+slippage: 英[ˈslɪpɪdʒ] 美[ˈslɪpɪdʒ]
+%n. 滑移；滑动；下降
+    the slippage of the tyres on the ice
+#轮胎在冰上打滑
+    the steady slippage
+#持续下降
+
+incertitude: 英[ɪnˈsɜːtɪˌtjuːd] 美[ɪnˈsɜːrtəˌtuːd]
+%n. 不确定，无信心；疑惑
+    He said he perspired in incertitude over every word.
+#他说他每写一个字都再三斟酌得冒汗。
+
+levelheaded: 英[ˌlev(ə)lˈhedɪd] 美[ˌlev(ə)lˈhedɪd]
+%adj. 稳健的，头脑冷静的；明智的
+    a levelheaded approach to a problem
+#处理问题的冷静态度
+
+coruscate: 英[ˈkɒrəskeɪt] 美[ˈkɔːrəskeɪt]
+%vi. 焕发；闪烁
+    a coruscating galaxy of talents
+#一群烟烟生辉的天才
+    The stars kept coruscating.
+#繁星闪烁。
+
+delirium: 英[dɪˈlɪriəm; dɪˈlɪəriəm] 美[dɪˈlɪriəm]
+%n. 精神错乱；发狂，狂热；说谵语状态
+    He strode about the room in a delirium of joy.
+#他狂喜地在房间里走来走去。
+
+regurgitate: 英[rɪˈɡɜːdʒɪteɪt] 美[rɪˈɡɜːrdʒɪteɪt]
+$vi. 回流；回涌；反胃；反刍
+%vt. 使回流；使回涌；使反刍
+    The baby has regurgitated all of its food.
+#那要儿把吃下的东西全吐了出来。
+
+wallop: 英[ˈwɒləp] 美[ˈwɑːləp]
+$v. （非正式）猛击，痛打；击溃，击败（对手）；沸腾；颠簸；猛冲
+$n. （非正式）痛打，重击；冲击力；快感；巨大影响；含酒精的饮料（尤指啤酒）
+%n. （Wallop） （美、英）旺洛（人名）
+    the wallop of a bomb
+#炸弹的冲击力
+    get a big wallop out of it
+#从中得到极大乐趣
+    The drought walloped half of the country.
+#干旱席卷了半个国家。
+
+slattern: 英[ˈslætən] 美[ˈslætərn]
+$n. 荡妇；妓女；邋遢的女人
+$adj. 不整洁的
+%vt. 浪费掉
+    slattern away one's time in nothing
+#无所事事地浪费时间
+
+resentment: 英[rɪˈzentmənt] 美[rɪˈzentmənt]
+%n. 愤恨，怨恨
+    bear a feeling of resentment against sb.
+#对某人怀恨在心
+    She feels resentment at the interruption.
+#她因被人打断而恼怒不已。
+
+extenuate: 英[ɪkˈstenjʊˌeɪt] 美[ɪkˈstenjuˌeɪt]
+%v. 减轻（过错等）的程度，使看起来情有可原；使瘦削
+    You must not extenuate his behavior.
+#你不应该为他的行为辩解。
+
+fancied: 英[ˈfænsid] 美[ˈfænsɪd]
+%adj. 空想的；虚构的；受喜爱的；被特别爱好的
+    a fancied grievance
+#想象出来的冤屈
+
+refraction: 英[rɪˈfrækʃ(ə)n] 美[rɪˈfrækʃ(ə)n]
+%n. 折射；折光
+    the refraction of light
+#光的折射
+
+pell-mell: 英[ˌpel ˈmel] 美[ˌpel ˈmel]
+$adv. 匆忙地，混乱地
+$adj. 慌乱的，乱糟糟的
+%n. 混乱，杂乱
+    read everything pell-mell
+#无选择地什么都读
+    be piled pell-mell in the corner
+#乱七八糟地堆在角落
+    The audience broke into a pell-mell rush for the exit.
+#观众突然一窝蜂地朝出口处冲去。
+
+mulish: 英[ˈmjuːlɪʃ] 美[ˈmjuːlɪʃ]
+%adj. 顽固的，执拗的；骡子似的
+    He's a very headstrong and mulish person most of the time, but underneath I think he's quite vulnerable.
+#他大多数时候是个非常倔强和刚愎自用的人，但我想他骨子里是很脆弱的。
+
+rudder: 英[ˈrʌdə(r)] 美[ˈrʌdər]
+$n. 船舵；飞机方向舵
+%n. （Rudder）人名；（德、西）鲁德尔
+    There is no rudder as such, so the craft can be steered only when under power.
+#没有真正的方向舵，所以只有在动力驱动的情况下才能操控船只。
+
+ruction: 英[ˈrʌkʃ(ə)n] 美[ˈrʌkʃən]
+%n. 吵闹；骚动
+    There'll be ructions if I'm not home by midnight.
+#如果我不在午夜以前回家，就会被抱怨。
+
+catharsis: 英[kəˈθɑːsɪs] 美[kəˈθɑːrsɪs]
+%n. [医] 泻法，导泻；净化；精神发泄
+    He found acting a catharsis.
+#他发现演戏具有宣泄作用。
+
+cogitate: 英[ˈkɒdʒɪteɪt] 美[ˈkɑːdʒɪteɪt]
+$vt. 仔细考虑；谋划
+%vi. 思考；考虑
+    She cogitated over the past evening.
+#她仔细回想前一晚发生的事。
+
+chauvinistic: 英[ˌʃəʊvɪˈnɪstɪk] 美[ˌʃoʊvɪˈnɪstɪk]
+%adj. 沙文主义的；盲目爱国的
+    The crowd was enthusiastically singing chauvinistic patriotic songs.
+#人群热烈地唱着沙文主义的爱国歌曲。
+
+bullion: 英[ˈbʊliən] 美[ˈbʊliən]
+$n. 金银；纯金；金银块
+%n. （Bullion）人名；（法）比利翁
+    the bullion contained in a silver dollar
+#一枚银元中所含的银
+
+rescission: 英[rɪˈsɪʒ(ə)n] 美[rɪˈsɪʒ(ə)n]
+%n. 取消，废除
+    the rescission of the law
+#法令的废除
+
+crabbed: 英[ˈkræbɪd] 美[ˈkræbɪd]
+$adj. 暴躁的；难懂的；晦涩的；潦草的
+%v. 抱怨；侧航（crab 的过去分词）
+    crabbed handwriting
+#潦草的字迹
+    a crabbed satirist
+#一个尖刻的讽刺家
+
+effrontery: 英[ɪˈfrʌntəri] 美[ɪˈfrʌntəri]
+%n. 厚颜无耻
+    with cold effrontery
+#冷静而放肆地
+
+vacuous: 英[ˈvækjuəs] 美[ˈvækjuəs]
+%adj. 空的；空虚的；空洞的；无意义的
+    a vacuous play
+#内容贫乏的戏
+    a vacuous stare
+#空洞的凝视
+    a vacuous way of life
+#懒散的生活方式
+
+swear: 英[sweə(r)] 美[swer]
+$v. 咒骂，诅咒；郑重承诺，发誓；保证（所说属实）；使起誓（保密）；（尤指在法庭）宣誓，起誓
+%n. 宣誓；诅咒
+    swear on the Bible
+#手按《圣经》发誓
+    swear revenge
+#发誓报仇
+    swear by
+#以……发誓
+    She swore on her honor that she had never seen the man.
+#她以自己的名誉发誓说她从没见过那个男人。
+
+maleficence: 英[məˈlefɪs(ə)ns] 美[məˈlefəsəns]
+%n. 罪行；恶毒
+    be guilty of more than one maleficence
+#犯不止一桩罪行
+
+tranquility: 英[træŋˈkwɪləti] 美[træŋˈkwɪləti]
+%n. 宁静，安宁
+    There is a tranquility about him.
+#他神态安详。
+
+discombobulate: 英[ˌdɪskəmˈbɒbjuleɪt] 美[ˌdɪskəmˈbɑːbjuleɪt]
+%vt. 使混乱；使泄气；使困惑
+    Her plans were discombobulated by the turn of events.
+#事态的发展把她的计划打乱了。
+
+maunder: 英[ˈmɔːndə(r)] 美[ˈmɔːndər]
+$v. 闲逛；唠叨；胡扯
+%n. （Maunder）（美）蒙德（人名）
+    maunder about the town at sunset
+#黄时分在小城里闲逛
+    He sat there maundering about his troubles.
+#他坐在那里唠叨着自己的烦恼事
+
+finagle: 英[fɪˈneɪɡ(ə)l] 美[fɪˈneɪɡ(ə)l]
+$vt. 欺瞒；哄骗
+%vi. 欺瞒；哄骗
+    He finagled some tickets for tonight's big game.
+#他骗到了几张今晚重大比赛的门票。
+
+illusive: 英[ɪˈluːsɪv] 美[ɪˈluːsɪv]
+%adj. 错觉的；幻影的；迷惑人的
+    illusory hopes
+#不切实际的希望
+    illusive Alps
+#梦幻般的阿尔卑斯山
+
+entirety: 英[ɪnˈtaɪərəti] 美[ɪnˈtaɪərəti]
+%n. 全部，整体
+    She devoted the entirety of her life to medical research.
+#她一生从事医学研究。
+
+seasoned: 英[ˈsiːz(ə)nd] 美[ˈsiːznd]
+$adj. 富有经验的；调好味的；风干的，晾干的（可加工使用 ）
+%v. 给……调味，加调料于；给……增添趣味；使（木头）风干（season 的过去式和过去分词）
+    seasoned meat
+#风干的肉
+    a seasoned politician
+#老练的政治家
+
+brackish: 英[ˈbrækɪʃ] 美[ˈbrækɪʃ]
+%adj. 含盐的；令人不快的；难吃的
+    brackish water
+#稍带咸味的水
+    a brackish personality
+#使人讨厌的个性
+
+saucy: 英[ˈsɔːsi] 美[ˈsɔːsi]
+$adj. 粗鲁的；不雅的；开色情玩笑的；调皮的；充满活力的；（食物）加调味汁的
+%n. （Saucy）（美、瑞、法、阿、加）扫克丽（人名）
+    a saucy yacht
+#漂亮的游艇
+    You were saucy to say that.
+#你那样说太没规矩了。
+
+masticate: 英[ˈmæstɪkeɪt] 美[ˈmæstɪkeɪt]
+$vt. 咀嚼；粉碎；撕捏
+%vi. 咀嚼；粉碎；撕捏
+    He slowly masticated a shrimp.
+#他慢慢地咀嚼着一只虾。
+
+locus: 英[ˈləʊkəs] 美[ˈloʊkəs]
+%n. [数] 轨迹；地点，所在地
+    the locus of power
+#权力的中心
+
+epideictic: 英[ˌepɪˈdaɪktɪk] 美[ˌepəˈdaɪktɪk]
+%adj. 富于词藻的；（文体、演讲等）意在表现词藻技巧的；夸耀的
+    an epideictic style of writing
+#表现辞藻技巧的文风
+
+scrutable: 英[ˈskruːtəb(ə)l] 美[ˈskruːtəb(ə)l]
+%adj. 可以了解的；可解读的
+    The words on the tombstone are still scrutable.
+#墓碑上的字仍可辨认。
+
+purgatory: 英[ˈpɜːɡət(ə)ri] 美[ˈpɜːrɡətɔːri]
+$n. 炼狱；涤罪；暂时的苦难
+%adj. 涤罪的（等于 purgative）
+    He described his experience of combat as sheer purgatory.
+#他把自己作战的经历描述为活受罪。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

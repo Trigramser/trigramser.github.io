@@ -1,0 +1,443 @@
+<<<<<<< HEAD
+optimum:
+    Scientists are trying to learn about the optimum conditions for the growth of a child.
+#科学家正在研究儿童成长的最佳条件。
+
+transmit:
+    Water transmits sound faster than air.
+#声音在水中传播的速度比在空气中要快。
+
+pregnant:
+    Pregnant women shouldn't do heavy physical labor.
+#怀孕妇女不能做重体力劳动。
+
+rebuke:
+    He received a stern rebuke from the manager for arriving at work an hour late.
+#他因上班迟到一个小时而遭到经理的严厉训斥。
+
+gloom:
+    In the gloom of the thick forest, she nearly lost her way.
+#在茂密阴暗的森林里，她几乎迷了路。
+
+insurgent:
+    All approaches to the capital are now under the control of the insurgents.
+#所有通往首都的道路都被叛乱分子控制了。
+
+warrant:
+    The manufacturer warrants that all parts are new.
+#生产商保证所有部件都是新的。
+
+interpretation:
+    The dispute is based on two widely different interpretations of the law.
+#争议是基于对法律的两种大不相同的解释。
+
+juvenile:
+    They are physically mature, but their thoughts are very juvenile.
+#他们在体格上已经长大，但他们的思想还很幼稚。
+
+routine:
+    My former friend's sudden arrival upset my established routine.
+#我的老朋友突然光临，打乱了我原定的生活惯例。
+
+diminish:
+    Chronic indigestion has diminished his strength.
+#长期消化不良削弱了他的体力。
+
+remorse:
+    He felt no remorse for the mistakes he had made.
+#他对所犯错误没有丝毫悔意。
+
+egocentric:
+    Babies are entirely egocentric, concerned only with how warm or cold they are or when they will next be fed.
+#婴儿完全以自我为中心，他们只关心冷暖和下次什么时候有吃的。
+
+reiterate:
+    The government reiterated its refusal to compromise with terrorists.
+#政府反复声明，拒绝与恐怖分子妥协。
+
+commentator:
+    His elder brother is a football commentator.
+#他哥哥是足球比赛解说员。
+
+saturate:
+    His shirt was saturated with sweat while playing basketball.
+#打篮球时他的衬衣让汗水湿透了。
+
+brink:
+    The famous scientist said he was on the brink of a major discovery.
+#这位著名的科学家说他将会有重大发现。
+
+atrocity:
+    These war criminals are guilty of acts of great atrocity.
+#这些战犯有令人发指的种种暴行。
+
+brilliant:
+    She seemed to have a brilliant future ahead of her.
+#她似乎有着灿烂的前途。
+
+bacteria:
+    Bacteria in drinking water have spread the disease.
+#饮用水中的细菌传播了疾病。
+
+crimson:
+    Her face crimsoned when she saw him watching her.
+#她发觉他看着自己时，脸变得绯红。
+
+superfluous:
+    Whenever I go traveling, I always make sure that I don't take any superfluous luggage with me.
+#去旅行时，总是确保不携带多余的行李。
+
+customary:
+    In most European countries it is customary for guests at hotels to tip the waiter.
+#在大部分欧洲国家，住旅馆的客人习惯给服务员小费。
+
+tangle:
+    When I opened the box all I could see was a tangle of wires.
+#我打开盒子，看到的是一团乱糟糟的电线。
+
+subvert:
+    The rebel army is attempting to subvert the government.
+#反叛军队企图颠覆政府。
+
+bestow:
+    Several gifts were bestowed on the distinguished guests.
+#有好几样礼物赠给了贵宾。
+
+imminent:
+    The Prime Minister denied reports that a general election is imminent.
+#总理否认了即将举行大选的报道。
+
+foster:
+    The summit session will help foster friendly relations and cooperation between our two countries.
+#这次峰会将有助于发展我们两国之间的友好关系和合作。
+
+subside:
+    The homeowners are worried that their houses will subside because of the flood.
+#房主担心他们的房子会因洪水而下沉。
+
+shatter:
+    The force of the explosion shattered the windows.
+#爆炸的威力把窗户玻璃都震碎了。
+
+assertive:
+    If you want to succeed in this business, you should be more assertive.
+#如果你想在这一行取得成就，就必须更加果断。
+
+host:
+    China is playing host to the next international conference. It's the host nation.
+#中国将举办下届国际会议，它是东道国。
+
+spice:
+    The aroma of meat and spices came from the kitchen.
+#从厨房飘来了肉和调料的芳香。
+
+detection:
+    Special bomb detection equipment has been installed at the airport.
+#机场安装了专门的炸弹探测装置。
+
+implication:
+    Jack pretended to understand the full implication of John's remark.
+#杰克假装完全听懂了约翰话中的含义。
+
+excess:
+    It is harmful to drink to excess.
+#过度饮酒是有害的。
+
+utilize:
+    People all dream of utilizing all their abilities in a suitable highly-paid job.
+#人们都憧憬着在适合自己的高薪工作中，充分发挥自己的能力。
+
+subordinate:
+    We should learn to subordinate passion to reason.
+#我们应当学会让感情服从理智。
+
+residential:
+    Gradually the surrounding farmland turned residential.
+#渐渐地，附近的农田变成了住宅区。
+
+shun:
+    Since the scandal she's been shunned by her neighbors.
+#自从这一丑闻流传开来，她的邻居们都避开她了。
+
+trample:
+    Several people were trampled underfoot and seriously injured in the rush to get out of the building.
+#冲出大楼的时候，有几个人被人踩在脚下，严重受伤。
+
+intellectual:
+    He's quite bright but he's not what you would describe as intellectual.
+#他很伶俐，但不能说智力很高。
+
+arrogant:
+    His arrogant manner and his conceit are simply disgusting.
+#他的傲慢和自大简直令人厌恶。
+
+coax:
+    He has some information that I want so I'm going to coax it out of him over a drink.
+#他知道些我想要的情报，所以我准备在喝酒时从他那里套出来。
+
+distribute:
+    I saw a girl distributing ad leaflets at the street corner.
+#我看见一个女孩在街道拐角处散发广告传单。
+
+forfeit:
+    She forfeited her chance of entering the competition by not posting her form in time.
+#她因为没有及时把表格寄去，从而丧失了参赛的机会。
+
+exposition:
+    The paper contained a full exposition of her political beliefs.
+#这篇论文包含了对她的政治信仰的详细说明。
+
+antique:
+    The car was made in 1796, so it was regarded as an antique.
+#这辆车是1796 年造的，所以现在它被认为是古董了。
+
+multiple:
+    Multiple improvements on the machine won customers' high praise.
+#这部机器的多方面改进赢得了用户高度的赞场
+
+demolish:
+    It's very sad that those old houses have had to be demolished so that a supermarket can be built.
+#为了建家超市而不得不拆毁那些老房子是非常令人难过的一件事。
+
+drastic:
+    Drastic measures should be taken to combat terrorism.
+#要采取严厉的措施打击恐怖主义。
+
+subtract:
+    You have to subtract 25% tax from the sum you receive.
+#你得从所得款中扣除25%的税款。
+
+definitive:
+    He's written the definitive history of the Tang dynasty.
+#他撰写了权威性的唐代历史。
+
+pretentious:
+    The novel deals with grand themes, but it is never heavy or pretentious.
+#这本小说的主题宏大，但它既不沉闷也不矫饰。
+
+ravage:
+    Their business plans were ruined by the ravages of inflation.
+#他们的商业计划被通货膨胀给毁了。
+
+=======
+optimum:
+    Scientists are trying to learn about the optimum conditions for the growth of a child.
+#科学家正在研究儿童成长的最佳条件。
+
+transmit:
+    Water transmits sound faster than air.
+#声音在水中传播的速度比在空气中要快。
+
+pregnant:
+    Pregnant women shouldn't do heavy physical labor.
+#怀孕妇女不能做重体力劳动。
+
+rebuke:
+    He received a stern rebuke from the manager for arriving at work an hour late.
+#他因上班迟到一个小时而遭到经理的严厉训斥。
+
+gloom:
+    In the gloom of the thick forest, she nearly lost her way.
+#在茂密阴暗的森林里，她几乎迷了路。
+
+insurgent:
+    All approaches to the capital are now under the control of the insurgents.
+#所有通往首都的道路都被叛乱分子控制了。
+
+warrant:
+    The manufacturer warrants that all parts are new.
+#生产商保证所有部件都是新的。
+
+interpretation:
+    The dispute is based on two widely different interpretations of the law.
+#争议是基于对法律的两种大不相同的解释。
+
+juvenile:
+    They are physically mature, but their thoughts are very juvenile.
+#他们在体格上已经长大，但他们的思想还很幼稚。
+
+routine:
+    My former friend's sudden arrival upset my established routine.
+#我的老朋友突然光临，打乱了我原定的生活惯例。
+
+diminish:
+    Chronic indigestion has diminished his strength.
+#长期消化不良削弱了他的体力。
+
+remorse:
+    He felt no remorse for the mistakes he had made.
+#他对所犯错误没有丝毫悔意。
+
+egocentric:
+    Babies are entirely egocentric, concerned only with how warm or cold they are or when they will next be fed.
+#婴儿完全以自我为中心，他们只关心冷暖和下次什么时候有吃的。
+
+reiterate:
+    The government reiterated its refusal to compromise with terrorists.
+#政府反复声明，拒绝与恐怖分子妥协。
+
+commentator:
+    His elder brother is a football commentator.
+#他哥哥是足球比赛解说员。
+
+saturate:
+    His shirt was saturated with sweat while playing basketball.
+#打篮球时他的衬衣让汗水湿透了。
+
+brink:
+    The famous scientist said he was on the brink of a major discovery.
+#这位著名的科学家说他将会有重大发现。
+
+atrocity:
+    These war criminals are guilty of acts of great atrocity.
+#这些战犯有令人发指的种种暴行。
+
+brilliant:
+    She seemed to have a brilliant future ahead of her.
+#她似乎有着灿烂的前途。
+
+bacteria:
+    Bacteria in drinking water have spread the disease.
+#饮用水中的细菌传播了疾病。
+
+crimson:
+    Her face crimsoned when she saw him watching her.
+#她发觉他看着自己时，脸变得绯红。
+
+superfluous:
+    Whenever I go traveling, I always make sure that I don't take any superfluous luggage with me.
+#去旅行时，总是确保不携带多余的行李。
+
+customary:
+    In most European countries it is customary for guests at hotels to tip the waiter.
+#在大部分欧洲国家，住旅馆的客人习惯给服务员小费。
+
+tangle:
+    When I opened the box all I could see was a tangle of wires.
+#我打开盒子，看到的是一团乱糟糟的电线。
+
+subvert:
+    The rebel army is attempting to subvert the government.
+#反叛军队企图颠覆政府。
+
+bestow:
+    Several gifts were bestowed on the distinguished guests.
+#有好几样礼物赠给了贵宾。
+
+imminent:
+    The Prime Minister denied reports that a general election is imminent.
+#总理否认了即将举行大选的报道。
+
+foster:
+    The summit session will help foster friendly relations and cooperation between our two countries.
+#这次峰会将有助于发展我们两国之间的友好关系和合作。
+
+subside:
+    The homeowners are worried that their houses will subside because of the flood.
+#房主担心他们的房子会因洪水而下沉。
+
+shatter:
+    The force of the explosion shattered the windows.
+#爆炸的威力把窗户玻璃都震碎了。
+
+assertive:
+    If you want to succeed in this business, you should be more assertive.
+#如果你想在这一行取得成就，就必须更加果断。
+
+host:
+    China is playing host to the next international conference. It's the host nation.
+#中国将举办下届国际会议，它是东道国。
+
+spice:
+    The aroma of meat and spices came from the kitchen.
+#从厨房飘来了肉和调料的芳香。
+
+detection:
+    Special bomb detection equipment has been installed at the airport.
+#机场安装了专门的炸弹探测装置。
+
+implication:
+    Jack pretended to understand the full implication of John's remark.
+#杰克假装完全听懂了约翰话中的含义。
+
+excess:
+    It is harmful to drink to excess.
+#过度饮酒是有害的。
+
+utilize:
+    People all dream of utilizing all their abilities in a suitable highly-paid job.
+#人们都憧憬着在适合自己的高薪工作中，充分发挥自己的能力。
+
+subordinate:
+    We should learn to subordinate passion to reason.
+#我们应当学会让感情服从理智。
+
+residential:
+    Gradually the surrounding farmland turned residential.
+#渐渐地，附近的农田变成了住宅区。
+
+shun:
+    Since the scandal she's been shunned by her neighbors.
+#自从这一丑闻流传开来，她的邻居们都避开她了。
+
+trample:
+    Several people were trampled underfoot and seriously injured in the rush to get out of the building.
+#冲出大楼的时候，有几个人被人踩在脚下，严重受伤。
+
+intellectual:
+    He's quite bright but he's not what you would describe as intellectual.
+#他很伶俐，但不能说智力很高。
+
+arrogant:
+    His arrogant manner and his conceit are simply disgusting.
+#他的傲慢和自大简直令人厌恶。
+
+coax:
+    He has some information that I want so I'm going to coax it out of him over a drink.
+#他知道些我想要的情报，所以我准备在喝酒时从他那里套出来。
+
+distribute:
+    I saw a girl distributing ad leaflets at the street corner.
+#我看见一个女孩在街道拐角处散发广告传单。
+
+forfeit:
+    She forfeited her chance of entering the competition by not posting her form in time.
+#她因为没有及时把表格寄去，从而丧失了参赛的机会。
+
+exposition:
+    The paper contained a full exposition of her political beliefs.
+#这篇论文包含了对她的政治信仰的详细说明。
+
+antique:
+    The car was made in 1796, so it was regarded as an antique.
+#这辆车是1796 年造的，所以现在它被认为是古董了。
+
+multiple:
+    Multiple improvements on the machine won customers' high praise.
+#这部机器的多方面改进赢得了用户高度的赞场
+
+demolish:
+    It's very sad that those old houses have had to be demolished so that a supermarket can be built.
+#为了建家超市而不得不拆毁那些老房子是非常令人难过的一件事。
+
+drastic:
+    Drastic measures should be taken to combat terrorism.
+#要采取严厉的措施打击恐怖主义。
+
+subtract:
+    You have to subtract 25% tax from the sum you receive.
+#你得从所得款中扣除25%的税款。
+
+definitive:
+    He's written the definitive history of the Tang dynasty.
+#他撰写了权威性的唐代历史。
+
+pretentious:
+    The novel deals with grand themes, but it is never heavy or pretentious.
+#这本小说的主题宏大，但它既不沉闷也不矫饰。
+
+ravage:
+    Their business plans were ruined by the ravages of inflation.
+#他们的商业计划被通货膨胀给毁了。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

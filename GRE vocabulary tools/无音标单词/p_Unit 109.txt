@@ -1,0 +1,671 @@
+<<<<<<< HEAD
+impeccable:
+    impeccable taste
+#无可挑的品位
+    speak impeccable English
+#说一口纯正的英语
+    impeccable good manners
+#无可挑剔的端庄举止
+    We've just witnessed an impeccable performance of the finest athletes.
+#我们刚刚看了最优秀运动员的无可挑剔的表演。
+
+rationale:
+    the lack of rationale
+#缺乏依据
+    He provided us with a clear rationale for taking this course of action.
+#他向我们说明了采取这一行动的根本原因。
+
+emend:
+    revise emend a poem
+#修改一首诗
+    This book is currently being emended and the second edition will be published as soon as this has been completed.
+#这本书正在校订，完成后将出第二版。
+
+judicious:
+    make judicious use of the resources
+#明智地使用资源
+    a judicious series of investment
+#一系列有远见卓识的投资
+    A judicious parent encourages his children to decide many things for themselves.
+#明智的家长鼓励自己的孩子在许多事情上自己做决定。
+
+partiality:
+    show no partiality
+#不偏心
+    have a partiality for cheese
+#特别爱吃奶酪
+    The judges have been heavily criticized for their partiality in the whole affair.
+#法官们因在整个事件中的偏袒不公而受到严厉的批评。
+
+devoid:
+    devoid of interest
+#缺乏趣味性
+    a face devoid of makeup
+#未经化妆的脸
+    He seemed to be completely devoid of compassion whatsoever.
+#他看起来一丁点儿同情心都没有。
+
+unqualified:
+    unqualified support
+#全力支持
+    unqualified teachers
+#不合格的教师
+    an unqualified criticism
+#无保留的批评
+    an unqualified success
+#全面的成功
+    an unqualified liar
+#说谎大王
+    The event was not an unqualified success.
+#这件事并非百分之百的成功。
+
+suffrage:
+    universal suffrage
+#普选权
+    grant suffrage to women
+#给妇女以选举权
+    be elected to a position by suffrage
+#经投票选举担任一个职位
+    They gave their suffrages for/against the policy.
+#他们对这项政策投赞成/反对票。
+
+pending:
+    a pending lawsuit
+#未判决的诉讼案件
+    a pending patent
+#待批专利
+    pending the discussion
+#在讨论的过程中
+    pending one's return
+#在某人到来之前
+    The pending releases of prisoners are meant to create a climate for negotiation.
+#即将释放囚犯的意图是要创造一个谈判的氛围。
+
+favorable:
+    make a favorable impression on
+#给……留下很好的印象
+    a favorable comment
+#好评
+    a favorable aspect
+#有利的方面
+    We ought to set sail soon, while the weather is still favorable.
+#我们应该趁着天气对我们有利尽快起航。
+
+exonerate:
+    be exonerated from the duties of the committee
+#被解除作为委员会成员的职责
+    Witnesses to the accident completely exonerated the driver.
+#事故的目击者证明司机完全无罪。
+
+infuse:
+    infuse the spirit of adventure into young people
+#向青年们灌输冒险精神
+    infuse a speech with an emotional tone
+#使演讲充满一种感情色彩
+    infuse tea leaves
+#浸泡茶叶
+    The main reason for change is to infuse life into the party.
+#进行变革的主要理由是为了给这个政党注入生气。
+
+seductive:
+    the girl's seductive smile
+#姑娘迷人的微笑
+    a seductive offer of high pay
+#给予高薪的诱惑
+
+surly:
+    a surly old man
+#怪戾的老头儿
+    a surly reply
+#恶声恶气的回答
+    surly weather
+#阴沉沉的天气
+    a surly waiter
+#一个爱理不理的服务员
+    He became surly and rude towards me.
+#他对我粗暴无礼起来了。
+
+flag:
+    Some people's strength had flagged by the third day of walking.
+#步行到第三天，一些人都已经疲乏无力了。
+
+obliging:
+    an obliging man
+#古道热肠的人
+    The waitress was most obliging and served us with fresh coffee.
+#女服务员非常亲切温和，给我们端上刚泡好的咖啡。
+
+surmount:
+    surmount every difficulty
+#克服每一个困难
+    surmount a mountain
+#登上一座山
+    peaks surmounted with snow
+#积雪的群峰
+    There are still a few technical obstacles to be surmounted before the product can be put on sale to the public.
+#产品投放市场之前还有一些技术上的问题有待解决。
+
+relinquish:
+    relinquish one's claim to the throne
+#放弃继承王位的要求
+    relinquish one's hold/grip on
+#松开手
+    relinquish power
+#交出权力
+    be forced to relinquish a country
+#被迫离国
+    He relinquished responsibility for the family investment to his son.
+#他把家庭投资的责任让给了儿子。
+
+jest:
+    a standing jest
+#经常开的玩笑
+    jest about a serious matter
+#就严肃的事情开玩笑
+    speak in jest
+#说笑话
+    speak half in jest, half in earnest
+#半开玩笑半认真地说
+    She's very embarrassed about what she's done, so we really shouldn't jest about it.
+#她为自己所做的事感到很尴尬，所以我们真不该拿这开玩笑。
+
+tantalize:
+    tantalize the puppy with a bone
+#用一根骨头挑逗小狗
+    He was tantalized by the girl's beauty, but lacked the courage to speak to her.
+#他被那女孩的美貌弄得心荡神驰，可缺乏勇气向她搭话。
+
+zenith:
+    past its zenith
+#过了顶峰时期
+    the zenith of one's career
+#事业生涯的顶点
+    at the zenith of one's power
+#某人权力登顶时
+    The newspaper reached its zenith in the 1990s but has since declined.
+#这份报纸在20世纪90年代达到了顶峰，但从那以后就衰落了。
+
+inefficient:
+    inefficient operating procedure
+#无效率的操作程序
+    an inefficient worker
+#不称职的工作人员
+    Existing methods of production are expensive and inefficient.
+#现行的生产方法花钱多而效率低。
+
+phobia:
+    I've got a phobia about worms.
+#我特别害虫子。
+
+valiant:
+    a valiant soldier
+#勇敢的战士
+    valiant works of art
+#艺术佳品
+    The company has made a valiant attempt in the last three years to make itself more efficient.
+#在过去的三年里，那家公司已经做出了有胆识的努力以提高效率。
+
+evince:
+    evince sorrow for what one has done
+#为自己所做的事表露悔意
+    evince no response from
+#没有从……引起反响
+    They have never evinced any readiness to negotiate.
+#他们从没表示过任何协商的意愿。
+
+insidious:
+    an insidious foe
+#阴险的敌人
+    an insidious attempt
+#阴谋
+    It's an insidious disease that attacks the central nervous system.
+#这是一种破坏中枢神经的隐疾。
+
+insular:
+    insular residents
+#岛民
+    an insular building
+#孤立的建筑物
+    keep an insular position
+#保持超然的态度
+    live an insular life
+#过与世隔绝的生活
+    an insular outlook on life
+#心胸狭隘的人生观
+    But at least they have started to break out of their old insularity.
+#但他们至少已经开始打破以前的保守状态了。
+
+Titanic:
+    titanic mountains
+#巍山的山岳
+    a titanic battle
+#一场大战
+    a titanic force
+#巨大的力量
+    a titanic actor
+#一位大腕演员
+
+repugnant:
+    a repugnant odor
+#令人作的气味
+    a repugnant proposal
+#令人反感的提议
+    actions repugnant to one's words
+#与自己言论背道而的行为
+    be repugnant to cheating and lying
+#反对欺骗和说谎
+    I find your attitude towards these women repugnant and ridiculous.
+#我觉得你对这些女人的态度令人反感又荒唐可笑。
+
+stringent:
+    stringent conditions
+#严苛的条件
+    impose stringent restrictions on
+#对……进行严格限制
+    stringent measures
+#严格的措施
+    stringent safety regulations
+#严格的安全条例
+    stringent economic reforms
+#收紧银根的经济改革
+    The most stringent laws in the world are useless unless there is a will to enforce them.
+#如果不能坚持严格执法，就算是世界上最严格的法律也是枉然。
+
+giddy:
+    a giddy success
+#令人眼花缭乱的成功
+    a giddy young girl
+#轻佻的年轻姑娘
+    It makes me giddy to go on a merry-go-round.
+#我坐旋转木马会头晕。
+
+didactic:
+    a didactic play
+#说教剧
+    didactic poetry
+#教悔诗
+    a didactic old lady
+#喜欢训人的老太太
+    In some schools, traditional didactic teaching has been replaced by an approach which allows children to discover things for themselves.
+#在一些学校，传统说教式的教学已经被允许孩子们自己发现问题的方法取代。
+
+voluble:
+    a voluble style
+#能言善辩的风格
+    As a straight and voluble talker, he approached each subject with unfailing enthusiasm.
+#他说话率直，滔滔不绝，谈及每个话题都满腔热情。
+
+forthright:
+    a forthright critic
+#直率的批评家
+    in forthright language
+#用直截了当的语言
+    His forthright manner can be mistaken for rudeness.
+#他那直率的态度可能被认为无礼。
+
+transitory:
+    transitory delight
+#昙花一现的快乐
+    transitory population
+#暂住人口
+    A glass of whisky has only a transitory warm effect.
+#一杯威士忌只能使人暖和一会。
+
+incompetent:
+    be incompetent in teaching
+#无教学能力
+    The country is being governed by a bunch of incompetents who have no idea of what they're doing.
+#那个国家正在被一群不知自己在干什么的、无能的人管理着。
+
+corroborate:
+    corroborate the accused's statement
+#证实了被告的陈述
+    corroborate the charge against the driver
+#证实了对该司机的指控
+    Recent research in the field seems to corroborate this theory.
+#该领域最近的研究似乎证实了这个理论。
+
+ceremonious:
+    a ceremonious reception
+#隆重的接待
+    a ceremonious banquet
+#铺张的宴会
+    His ceremonious manner was rather inappropriate for our informal party.
+#他那郑重其事的举止实在和我们不拘礼节的晚会不符。
+
+=======
+impeccable:
+    impeccable taste
+#无可挑的品位
+    speak impeccable English
+#说一口纯正的英语
+    impeccable good manners
+#无可挑剔的端庄举止
+    We've just witnessed an impeccable performance of the finest athletes.
+#我们刚刚看了最优秀运动员的无可挑剔的表演。
+
+rationale:
+    the lack of rationale
+#缺乏依据
+    He provided us with a clear rationale for taking this course of action.
+#他向我们说明了采取这一行动的根本原因。
+
+emend:
+    revise emend a poem
+#修改一首诗
+    This book is currently being emended and the second edition will be published as soon as this has been completed.
+#这本书正在校订，完成后将出第二版。
+
+judicious:
+    make judicious use of the resources
+#明智地使用资源
+    a judicious series of investment
+#一系列有远见卓识的投资
+    A judicious parent encourages his children to decide many things for themselves.
+#明智的家长鼓励自己的孩子在许多事情上自己做决定。
+
+partiality:
+    show no partiality
+#不偏心
+    have a partiality for cheese
+#特别爱吃奶酪
+    The judges have been heavily criticized for their partiality in the whole affair.
+#法官们因在整个事件中的偏袒不公而受到严厉的批评。
+
+devoid:
+    devoid of interest
+#缺乏趣味性
+    a face devoid of makeup
+#未经化妆的脸
+    He seemed to be completely devoid of compassion whatsoever.
+#他看起来一丁点儿同情心都没有。
+
+unqualified:
+    unqualified support
+#全力支持
+    unqualified teachers
+#不合格的教师
+    an unqualified criticism
+#无保留的批评
+    an unqualified success
+#全面的成功
+    an unqualified liar
+#说谎大王
+    The event was not an unqualified success.
+#这件事并非百分之百的成功。
+
+suffrage:
+    universal suffrage
+#普选权
+    grant suffrage to women
+#给妇女以选举权
+    be elected to a position by suffrage
+#经投票选举担任一个职位
+    They gave their suffrages for/against the policy.
+#他们对这项政策投赞成/反对票。
+
+pending:
+    a pending lawsuit
+#未判决的诉讼案件
+    a pending patent
+#待批专利
+    pending the discussion
+#在讨论的过程中
+    pending one's return
+#在某人到来之前
+    The pending releases of prisoners are meant to create a climate for negotiation.
+#即将释放囚犯的意图是要创造一个谈判的氛围。
+
+favorable:
+    make a favorable impression on
+#给……留下很好的印象
+    a favorable comment
+#好评
+    a favorable aspect
+#有利的方面
+    We ought to set sail soon, while the weather is still favorable.
+#我们应该趁着天气对我们有利尽快起航。
+
+exonerate:
+    be exonerated from the duties of the committee
+#被解除作为委员会成员的职责
+    Witnesses to the accident completely exonerated the driver.
+#事故的目击者证明司机完全无罪。
+
+infuse:
+    infuse the spirit of adventure into young people
+#向青年们灌输冒险精神
+    infuse a speech with an emotional tone
+#使演讲充满一种感情色彩
+    infuse tea leaves
+#浸泡茶叶
+    The main reason for change is to infuse life into the party.
+#进行变革的主要理由是为了给这个政党注入生气。
+
+seductive:
+    the girl's seductive smile
+#姑娘迷人的微笑
+    a seductive offer of high pay
+#给予高薪的诱惑
+
+surly:
+    a surly old man
+#怪戾的老头儿
+    a surly reply
+#恶声恶气的回答
+    surly weather
+#阴沉沉的天气
+    a surly waiter
+#一个爱理不理的服务员
+    He became surly and rude towards me.
+#他对我粗暴无礼起来了。
+
+flag:
+    Some people's strength had flagged by the third day of walking.
+#步行到第三天，一些人都已经疲乏无力了。
+
+obliging:
+    an obliging man
+#古道热肠的人
+    The waitress was most obliging and served us with fresh coffee.
+#女服务员非常亲切温和，给我们端上刚泡好的咖啡。
+
+surmount:
+    surmount every difficulty
+#克服每一个困难
+    surmount a mountain
+#登上一座山
+    peaks surmounted with snow
+#积雪的群峰
+    There are still a few technical obstacles to be surmounted before the product can be put on sale to the public.
+#产品投放市场之前还有一些技术上的问题有待解决。
+
+relinquish:
+    relinquish one's claim to the throne
+#放弃继承王位的要求
+    relinquish one's hold/grip on
+#松开手
+    relinquish power
+#交出权力
+    be forced to relinquish a country
+#被迫离国
+    He relinquished responsibility for the family investment to his son.
+#他把家庭投资的责任让给了儿子。
+
+jest:
+    a standing jest
+#经常开的玩笑
+    jest about a serious matter
+#就严肃的事情开玩笑
+    speak in jest
+#说笑话
+    speak half in jest, half in earnest
+#半开玩笑半认真地说
+    She's very embarrassed about what she's done, so we really shouldn't jest about it.
+#她为自己所做的事感到很尴尬，所以我们真不该拿这开玩笑。
+
+tantalize:
+    tantalize the puppy with a bone
+#用一根骨头挑逗小狗
+    He was tantalized by the girl's beauty, but lacked the courage to speak to her.
+#他被那女孩的美貌弄得心荡神驰，可缺乏勇气向她搭话。
+
+zenith:
+    past its zenith
+#过了顶峰时期
+    the zenith of one's career
+#事业生涯的顶点
+    at the zenith of one's power
+#某人权力登顶时
+    The newspaper reached its zenith in the 1990s but has since declined.
+#这份报纸在20世纪90年代达到了顶峰，但从那以后就衰落了。
+
+inefficient:
+    inefficient operating procedure
+#无效率的操作程序
+    an inefficient worker
+#不称职的工作人员
+    Existing methods of production are expensive and inefficient.
+#现行的生产方法花钱多而效率低。
+
+phobia:
+    I've got a phobia about worms.
+#我特别害虫子。
+
+valiant:
+    a valiant soldier
+#勇敢的战士
+    valiant works of art
+#艺术佳品
+    The company has made a valiant attempt in the last three years to make itself more efficient.
+#在过去的三年里，那家公司已经做出了有胆识的努力以提高效率。
+
+evince:
+    evince sorrow for what one has done
+#为自己所做的事表露悔意
+    evince no response from
+#没有从……引起反响
+    They have never evinced any readiness to negotiate.
+#他们从没表示过任何协商的意愿。
+
+insidious:
+    an insidious foe
+#阴险的敌人
+    an insidious attempt
+#阴谋
+    It's an insidious disease that attacks the central nervous system.
+#这是一种破坏中枢神经的隐疾。
+
+insular:
+    insular residents
+#岛民
+    an insular building
+#孤立的建筑物
+    keep an insular position
+#保持超然的态度
+    live an insular life
+#过与世隔绝的生活
+    an insular outlook on life
+#心胸狭隘的人生观
+    But at least they have started to break out of their old insularity.
+#但他们至少已经开始打破以前的保守状态了。
+
+Titanic:
+    titanic mountains
+#巍山的山岳
+    a titanic battle
+#一场大战
+    a titanic force
+#巨大的力量
+    a titanic actor
+#一位大腕演员
+
+repugnant:
+    a repugnant odor
+#令人作的气味
+    a repugnant proposal
+#令人反感的提议
+    actions repugnant to one's words
+#与自己言论背道而的行为
+    be repugnant to cheating and lying
+#反对欺骗和说谎
+    I find your attitude towards these women repugnant and ridiculous.
+#我觉得你对这些女人的态度令人反感又荒唐可笑。
+
+stringent:
+    stringent conditions
+#严苛的条件
+    impose stringent restrictions on
+#对……进行严格限制
+    stringent measures
+#严格的措施
+    stringent safety regulations
+#严格的安全条例
+    stringent economic reforms
+#收紧银根的经济改革
+    The most stringent laws in the world are useless unless there is a will to enforce them.
+#如果不能坚持严格执法，就算是世界上最严格的法律也是枉然。
+
+giddy:
+    a giddy success
+#令人眼花缭乱的成功
+    a giddy young girl
+#轻佻的年轻姑娘
+    It makes me giddy to go on a merry-go-round.
+#我坐旋转木马会头晕。
+
+didactic:
+    a didactic play
+#说教剧
+    didactic poetry
+#教悔诗
+    a didactic old lady
+#喜欢训人的老太太
+    In some schools, traditional didactic teaching has been replaced by an approach which allows children to discover things for themselves.
+#在一些学校，传统说教式的教学已经被允许孩子们自己发现问题的方法取代。
+
+voluble:
+    a voluble style
+#能言善辩的风格
+    As a straight and voluble talker, he approached each subject with unfailing enthusiasm.
+#他说话率直，滔滔不绝，谈及每个话题都满腔热情。
+
+forthright:
+    a forthright critic
+#直率的批评家
+    in forthright language
+#用直截了当的语言
+    His forthright manner can be mistaken for rudeness.
+#他那直率的态度可能被认为无礼。
+
+transitory:
+    transitory delight
+#昙花一现的快乐
+    transitory population
+#暂住人口
+    A glass of whisky has only a transitory warm effect.
+#一杯威士忌只能使人暖和一会。
+
+incompetent:
+    be incompetent in teaching
+#无教学能力
+    The country is being governed by a bunch of incompetents who have no idea of what they're doing.
+#那个国家正在被一群不知自己在干什么的、无能的人管理着。
+
+corroborate:
+    corroborate the accused's statement
+#证实了被告的陈述
+    corroborate the charge against the driver
+#证实了对该司机的指控
+    Recent research in the field seems to corroborate this theory.
+#该领域最近的研究似乎证实了这个理论。
+
+ceremonious:
+    a ceremonious reception
+#隆重的接待
+    a ceremonious banquet
+#铺张的宴会
+    His ceremonious manner was rather inappropriate for our informal party.
+#他那郑重其事的举止实在和我们不拘礼节的晚会不符。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,815 @@
+<<<<<<< HEAD
+huffy: 英[ˈhʌfi] 美[ˈhʌfi]
+%adj. 怒冲冲的；暴躁的
+    You have to be careful with what you say to Anne, she's very huffy.
+#你和安妮说话得小心点，她很容易发火。
+
+snipe: 英[snaɪp] 美[snaɪp]
+$n. 狙击；[鸟] 鹬；香烟屁股；被开玩笑的人物
+$vi. 狙击；[军] 伏击；抨击；猎鸟；诽谤
+%vt. 狙击
+    snipe at enemy soldiers
+#伏击敌兵
+    snipe at sb. by way of innuendoes
+#含沙射影地攻击某人
+    He was shot and fatally injured by a snipe on the outskirts of the city.
+#他在城郊受到狙击，身受重伤。
+
+idolize: 英[ˈaɪdəlaɪz] 美[ˈaɪdəlaɪz]
+$vt. 极端崇拜；把……当偶像崇拜
+%vi. 崇拜偶像
+    the child idolized by his parents
+#深受父母爱的孩子
+    The film fans idolize her and will hear no criticism of her.
+#影迷们崇拜她，听不得一点对她的批评。
+
+cub: 英[kʌb] 美[kʌb]
+$n. 幼兽；<旧>（尤指笨拙或举止粗鲁的）毛头小伙子；幼年童子军
+%v. 产仔，生幼兽；猎幼狐
+    a tiger cub
+#虎崽
+    a cub bear
+#小熊
+    a cub reporter
+#初出茅庐的新闻记者
+
+destitute: 英[ˈdestɪtjuːt] 美[ˈdestɪtuːt]
+$adj. 穷困的；无的；缺乏的
+$n. 赤贫者
+%vt. 使穷困；夺去
+    a man destitute of experience
+#毫无经验的人
+    a house destitute of laughter
+#没有欢乐的家庭
+    the destitute
+#赤贫者
+    The floods have left thousands of people in the area destitute.
+#洪水已经使该地区成千上万的人一贫如洗。
+
+gesticulate: 英[dʒeˈstɪkjuleɪt] 美[dʒeˈstɪkjuleɪt]
+$vi. 用姿势示意；（讲话时）做手势
+%vt. 用手势谈话；做姿势表达
+    gesticulate a greeting
+#用手势致意
+    As he became more excited, he gesticulated more and more wildly.
+#他越激动，就撼狂乱地打着手势。
+
+cyclone: 英[ˈsaɪkləʊn] 美[ˈsaɪkloʊn]
+%n. 气旋，龙卷风
+    A tropical cyclone brought heavy rain to the country last week.
+#上周一股热带气旋使该国受到暴雨袭击。
+
+savvy: 英[ˈsævi] 美[ˈsævi]
+$n. <非正式>实际知识，悟性
+$v. 理解，懂
+%adj. <非正式>聪慧的，有经验的
+    have a plenty of savvy
+#很有头脑
+    political savvy
+#政治识见
+    street savvy
+#一般常识
+    a computer-savvy young man
+#谙熟计算机的年轻人
+    He's been around and savvy to a lot of things.
+#见过世面，懂得许多事情。
+
+annihilate: 英[əˈnaɪəleɪt] 美[əˈnaɪəleɪt]
+$vt. 歼灭；战胜；废止
+%vi. 湮灭；湮没
+    annihilate the intruders
+#歼灭人侵者
+    annihilate one's ambition
+#使某人的勃勃雄心沦为泡影
+    annihilate the opponent
+#彻底击败对手
+
+stricture: 英[ˈstrɪktʃə(r)] 美[ˈstrɪktʃər]
+%n. 狭窄；苛评；非难
+    strictures against bribe-taking
+#对受贿行为的抨击
+    relax strictures on emigration
+#放宽对移居国外的限制
+    moral strictures
+#道德上的约束
+    The government remained unmoved by the stricture on its handling of the crisis.
+#对其在处理危机上的遗责，该政府无动于衷。
+
+vintage: 英[ˈvɪntɪdʒ] 美[ˈvɪntɪdʒ]
+$n. （葡萄酒的）酿造年份（地点），酿制的酒；制造时期，生产年代；<文>葡萄酒；酿酒葡萄采摘
+$adj. （酒）佳酿的，上等的；最好的，最典型的；（东西或车辆）老式的，古色古香的；成绩卓著的一年（vintage year）
+%v. 采葡萄；用葡萄酿酒
+    a book of pre-war vintage
+#战前出版的书
+    a vintage wine
+#佳酿酒
+    a vintage Hollywood film
+#经典的好菜均电影
+    a vintage Rolls Royce
+#一辆古色古香的劳斯菜斯汽车
+    a vintage BMW
+#一辆老式的宝马车
+    The film dates from the vintage years of the British film industry.
+#这部电影是在英国电影史的鼎盛时期拍摄的。
+
+dangle: 英[ˈdæŋɡ(ə)l] 美[ˈdæŋɡ(ə)l]
+%v. （使）悬垂，（使）悬荡；用（诱惑物）来诱惑（或激励）某人
+    dangle in the breeze
+#在风中悬荡
+    dangle after a girl
+#追求一个女孩
+    a loose wire dangling from the wall
+#一根悬荡在墙上的松弛的电线
+    He dangled a puppet in front of the children.
+#他拿着一个木偶在孩子们面前晃动。
+
+quibble: 英[ˈkwɪb(ə)l] 美[ˈkwɪb(ə)l]
+$n. 谬论；双关语；遁辞
+$vi. 诡辩；挑剔；说模棱两可的话
+%vt. 对……诡辩
+    quibble about/over some unimportant things with sb.
+#为一些小事与某人争吵
+    She had no desire to quibble when decisive action was called for.
+#在需要当机立断的时候她不想含糊其词。
+
+rapport: 英[ræˈpɔː(r)] 美[rəˈpɔːr]
+%n. 融洽（关系），和谐（关系）
+    have an excellent rapport with sb.
+#与某人的关系非常融洽
+    be in rapport with sb.
+#与某人融洽相处
+    feel great rapport for birds
+#对鸟儿极有感情
+    After working with Jane for many years, we have developed a close rapport.
+#同简一起工作多年后，我们已经建立了密切的关系。
+
+dictum: 英[ˈdɪktəm] 美[ˈdɪktəm]
+%n. 格言；声明；法官的附带意见
+    the dictum on the case
+#此案的权威定论
+    He has always followed the famous dictum, "Live, and let live."
+#他总是遵循那句著名的格言——自己活，让人活。
+
+remunerate: 英[rɪˈmjuːnəreɪt] 美[rɪˈmjuːnəreɪt]
+%vt. 酬劳；给与报酬；赔偿
+    remunerate sb. for his toil
+#报偿某人的辛劳
+    remunerate sb. for his loss
+#赔偿某人的损失
+    He is poorly remunerated for all the hard work he does.
+#他做的工作很辛苦，但报酬很低。
+
+highbrow: 英[ˈhaɪbraʊ] 美[ˈhaɪbraʊ]
+$adj. 不切实际的；自炫博学的；知识分子的
+%n. 卖弄知识的人；知识分子
+    highbrow music
+#高雅音乐
+    highbrow programs
+#高雅的节目
+    The TV company specializes in making arts shows for highbrows.
+#这家电视公司专门为趣味高雅的人制作艺术节目。
+
+hype: 英[haɪp] 美[haɪp]
+$n. 大肆的宣传广告，炒作；（为做广告而进行的）欺骗；<非正式>皮下注射针，皮下注射；<非正式>有毒瘾者
+%v. （通过传媒）大肆宣传；使（人）兴奋，使（人）活跃
+    hype attendance at the games
+#耍手段吸引人来观看比赛
+    hype people into buying sth.
+#糊弄人们买某物
+    a media hype
+#媒体炒作
+    Other books are being hyped by publishers, but this one really deserves to be read.
+#其他的书都在被出版商大肆炒作，但这一本确实值得一读。
+
+outlandish: 英[aʊtˈlændɪʃ] 美[aʊtˈlændɪʃ]
+%adj. 古怪的；奇异的；异国风格的；偏僻的
+    an outlandish costume
+#奇装异服
+    outlandish manners
+#怪模怪样
+    an outlandish place
+#穷乡僻壤
+    He expected designers to experiment with even more outlandish ideas.
+#他期望设计师们探索一些更加稀奇古怪的思路。
+
+perk: 英[pɜːk] 美[pɜːrk]
+$n. （工资以外的）额外收入，津贴；特殊待遇，好处；<非正式>渗滤式咖啡壶
+$v. 振作起来，活跃起来（perk (sb./sth.) up）；<非正式>滤煮（咖啡）；昂首
+%adj. <罕>活跃的，活泼的
+    perk up its ears
+#竖起耳朵
+    perk oneself up daintily
+#打扮得十分秀丽
+    She perked up as soon as I mentioned that Charles was coming to dinner.
+#当我一提到查尔斯要来吃晚饭，她立刻来了精神。
+
+haggard: 英[ˈhæɡəd] 美[ˈhæɡərd]
+$adj. 憔悴的；（鹰）未驯服的
+$n. 野鹰；难相处的人；农民在农舍旁储放农作物的一块圈地
+%n. （Haggard）（美）哈格德（人名）
+    She was looking a bit haggard as if she hadn't slept for days.
+#她看上去有点惟悴，好像几天没睡觉了。
+
+conscript: 英[kənˈskrɪpt] 美[kənˈskrɪpt]
+$n. 应征士兵，被征召者
+$v. 征召，征募
+%adj. 被征召的
+    He was conscripted into the army at the age of 18.
+#他18岁应征人伍。
+
+swine: 英[swaɪn] 美[swaɪn]
+%n. 猪；<非正式>猪猡，下流坯；难处理的事情，令人不快的东西
+    Her ex-husband sounds an absolute swine.
+#她的前夫听上去是个彻头彻尾的大混蛋。
+
+razor: 英[ˈreɪzə(r)] 美[ˈreɪzər]
+$n. 剃（须）刀，刮胡刀；处于险境，境况岌岌可危（on a razor edge）
+%v. 用剃刀剃，用刮胡刀刮
+    razor one's face clean of beard
+#用刀把脸上的胡子刮干净
+    razor a beard
+#剃光胡须
+    According to the advertisement, this new razor will give you an extra smooth shave.
+#根据广告，这种新的刮胡刀能使你的面容格外光洁。
+
+munition: 英[mjuːˈnɪʃn] 美[mjuːˈnɪʃ(ə)n]
+$n. 军火，军需品
+%v. 供给军需品，供给军火
+    make munitions
+#制造军火
+    munition an army
+#为部队提供军火
+    a munition factory
+#军工厂
+    munitions for a political campaign
+#政治竞选所需的资金
+    The army used precision-guided munitions to blow up enemy targets.
+#军队用精确瞄准的武器炸掉敌方目标。
+
+votary: 英[ˈvəʊtəri] 美[ˈvoʊtəri]
+$n. 崇拜者；出家人
+%adj. 立誓任圣职的；誓约的
+    a votary of peace
+#献身和平事业的人
+    a votary of jazz
+#爵士乐迷
+
+eerie: 英[ˈɪəri] 美[ˈɪri]
+%adj. 可怕的；怪异的
+    have an eerie feeling
+#有种奇怪的感觉
+    a dark and eerie old house
+#黑暗瘆人的老屋
+    for some eerie reason
+#出于某种莫名其妙的原因
+    In bed at night she heard the eerie noise of the wind howling through the trees.
+#晚上躺在床上，她听见风呼啸着穿过林间的怪异而可怕的声音。
+
+ointment: 英[ˈɔɪntmənt] 美[ˈɔɪntmənt]
+%n. 药膏；[药] 油膏
+    The doctor gave him some ointment to stop the cut from being infected.
+#医生给了他一些油膏以防止伤口感染。
+
+trivia: 英[ˈtrɪviə] 美[ˈtrɪviə]
+%n. 琐事
+    worry about such trivia
+#为这等琐事烦恼
+    He was not interested in the trivia of everyday life.
+#他对日常生活的点滴小事不感兴趣。
+
+verbatim: 英[vɜːˈbeɪtɪm] 美[vɜːrˈbeɪtɪm]
+$adv. 一字不差地，逐字地
+%adj. 一字不差的，逐字的
+    a verbatim quotation of the article
+#对文字一字不差的引用
+    He had an amazing memory and could recall verbatim quite complete conversations.
+#他有着惊人的记忆力，能一字不差地回忆起非常复杂的谈话内容。
+
+uncouth: 英[ʌnˈkuːθ] 美[ʌnˈkuːθ]
+%adj. 笨拙的；粗野的；不舒适的；陌生的
+    a large, uncouth man
+#魁梧而笨拙的粗汉
+    uncouth manners
+#粗野的态度
+    rough and uncouth conditions
+#简陋艰苦的环境
+    an uncouth forest
+#人迹罕至的森林
+    All those people were aggressive and uncouth.
+#所有那些人都是好斗而粗野的。
+
+interloper: 英[ˈɪntələʊpə(r)] 美[ˈɪntərloʊpər]
+%n. 闯入者；（为私利）干涉他人事务者；无执照营业者
+    The security did not prevent an interloper getting onto the stage at the opening ceremony and making a speech.
+#保安没有阻止一名闯人者登上开幕式的演讲台并发表言论。
+
+infantry: 英[ˈɪnfəntri] 美[ˈɪnfəntri]
+%n. 步兵；步兵团
+    an infantry regiment
+#步兵团
+    an infantry soldier
+#步兵战士
+    The infantry is/are being sent into the battle zone.
+#步兵部队正被派往作战区域。
+
+grimace: 英[ˈɡrɪməs] 美[ˈɡrɪməs]
+$vi. 扮鬼脸；作怪相；作苦相
+%n. 鬼脸；怪相；痛苦的表情
+    a grimace caused by pain
+#痛得扭曲的脸
+    a rude child making grimaces
+#做鬼脸的野孩子
+    The clown grimaced at the audience.
+#小丑向观众做鬼脸。
+
+outset: 英[ˈaʊtset] 美[ˈaʊtset]
+%n. 开始，开端
+    from the outset
+#从一开始
+    At the outset of the play there is a lot of confused violence.
+#这出戏的开始，有许多混乱的暴力场面。
+
+headlong: 英[ˈhedlɒŋ] 美[ˈhedlɔːŋ]
+$adv. 莽撞地，慌慌张张地；头朝前，头向前地；轻率地
+%adj. 轻率的；头向前的；匆促而用力的
+    in headlong retreat
+#仓皇撤退
+    plunge headlong into water
+#一头扎进水中
+    run headlong across the street
+#横冲直撞穿过大街
+    a headlong decision
+#轻率的决定
+    a headlong dive
+#俯冲跳水
+    In the headlong rush to buy houses, many people got in debt.
+#在一窝蜂的购房热潮中，许多人负了债。
+
+muffle: 英[ˈmʌf(ə)l] 美[ˈmʌf(ə)l]
+$vt. 蒙住；裹住；抑制；发低沉的声音
+%n. 低沉的声音；消声器；包裹物（如头巾，围巾等）；唇鼻部
+    muffled voice
+#隐约的声音
+    the muffled roar of the traffic
+#隐约的车辆声
+    muffled footsteps
+#压低的脚步声
+    muffle one's human-rights comment
+#对人权问题发表含糊其词的评论
+    muffle one's feelings
+#抑制自己的感情
+    the muffle of distant thunder
+#远处沉闷的雷声
+    His mother made him muffle himself up before he could go out to play in the snow.
+#他的母亲把他裹得严严实实之后才让他到外面雪地里去玩。
+
+foyer: 英[ˈfɔɪeɪ] 美[ˈfɔɪər]
+$n. 门厅，休息室；大厅
+%n. （Foyer）人名；（法）富瓦耶；（瑞典）福伊尔
+    I'll see you downstairs in the foyer in half an hour.
+#半小时后我们在楼下门厅见。
+
+singe: 英[sɪndʒ] 美[sɪndʒ]
+$vt. 烧焦；烤焦
+$vi. 烧焦；烤焦
+%n. 烧焦；烤焦
+    singe the chicken
+#燎去鸡毛
+    the smell of singeing hair
+#头发烧焦的味道
+    leave a slight singe on the dress
+#在连衣裙上留下轻微的焦痕
+    My hair singed when I leaned over a burning candle.
+#当我靠向燃烧的蜡烛时将头发烧焦了。
+
+luscious: 英[ˈlʌʃəs] 美[ˈlʌʃəs]
+%adj. 甘美的；满足感官的
+    luscious cream cakes
+#甜润可口的奶油蛋糕
+    the luscious beauty of tone
+#声调的甜美悦耳
+    a luscious view of a garden
+#悦目的花园景色
+    It was filmed against the backdrop of luscious landscape of woods, streams and meadows.
+#电影是以令人心旷神怡的森林、河流和草地风光为背景拍摄的。
+
+swipe: 英[swaɪp] 美[swaɪp]
+$v. （挥动手臂或物体）击打，猛击；偷窃；刷（磁卡）；滑动
+%n. 批评，抨击；挥击，抡打；滑动
+    swipe sb. around the head
+#猛打某人的头部
+    give sb. a swipe round the ear
+#很狠地给某人一记耳光
+    swipe the sweaty forehead
+#擦着汗淋淋的前额
+    She opened the window and swiped at the fly with a rolled-up newspaper to make it go out.
+#她打开窗户用卷起的报纸挥打苍蝇想把它赶出去。
+
+=======
+huffy: 英[ˈhʌfi] 美[ˈhʌfi]
+%adj. 怒冲冲的；暴躁的
+    You have to be careful with what you say to Anne, she's very huffy.
+#你和安妮说话得小心点，她很容易发火。
+
+snipe: 英[snaɪp] 美[snaɪp]
+$n. 狙击；[鸟] 鹬；香烟屁股；被开玩笑的人物
+$vi. 狙击；[军] 伏击；抨击；猎鸟；诽谤
+%vt. 狙击
+    snipe at enemy soldiers
+#伏击敌兵
+    snipe at sb. by way of innuendoes
+#含沙射影地攻击某人
+    He was shot and fatally injured by a snipe on the outskirts of the city.
+#他在城郊受到狙击，身受重伤。
+
+idolize: 英[ˈaɪdəlaɪz] 美[ˈaɪdəlaɪz]
+$vt. 极端崇拜；把……当偶像崇拜
+%vi. 崇拜偶像
+    the child idolized by his parents
+#深受父母爱的孩子
+    The film fans idolize her and will hear no criticism of her.
+#影迷们崇拜她，听不得一点对她的批评。
+
+cub: 英[kʌb] 美[kʌb]
+$n. 幼兽；<旧>（尤指笨拙或举止粗鲁的）毛头小伙子；幼年童子军
+%v. 产仔，生幼兽；猎幼狐
+    a tiger cub
+#虎崽
+    a cub bear
+#小熊
+    a cub reporter
+#初出茅庐的新闻记者
+
+destitute: 英[ˈdestɪtjuːt] 美[ˈdestɪtuːt]
+$adj. 穷困的；无的；缺乏的
+$n. 赤贫者
+%vt. 使穷困；夺去
+    a man destitute of experience
+#毫无经验的人
+    a house destitute of laughter
+#没有欢乐的家庭
+    the destitute
+#赤贫者
+    The floods have left thousands of people in the area destitute.
+#洪水已经使该地区成千上万的人一贫如洗。
+
+gesticulate: 英[dʒeˈstɪkjuleɪt] 美[dʒeˈstɪkjuleɪt]
+$vi. 用姿势示意；（讲话时）做手势
+%vt. 用手势谈话；做姿势表达
+    gesticulate a greeting
+#用手势致意
+    As he became more excited, he gesticulated more and more wildly.
+#他越激动，就撼狂乱地打着手势。
+
+cyclone: 英[ˈsaɪkləʊn] 美[ˈsaɪkloʊn]
+%n. 气旋，龙卷风
+    A tropical cyclone brought heavy rain to the country last week.
+#上周一股热带气旋使该国受到暴雨袭击。
+
+savvy: 英[ˈsævi] 美[ˈsævi]
+$n. <非正式>实际知识，悟性
+$v. 理解，懂
+%adj. <非正式>聪慧的，有经验的
+    have a plenty of savvy
+#很有头脑
+    political savvy
+#政治识见
+    street savvy
+#一般常识
+    a computer-savvy young man
+#谙熟计算机的年轻人
+    He's been around and savvy to a lot of things.
+#见过世面，懂得许多事情。
+
+annihilate: 英[əˈnaɪəleɪt] 美[əˈnaɪəleɪt]
+$vt. 歼灭；战胜；废止
+%vi. 湮灭；湮没
+    annihilate the intruders
+#歼灭人侵者
+    annihilate one's ambition
+#使某人的勃勃雄心沦为泡影
+    annihilate the opponent
+#彻底击败对手
+
+stricture: 英[ˈstrɪktʃə(r)] 美[ˈstrɪktʃər]
+%n. 狭窄；苛评；非难
+    strictures against bribe-taking
+#对受贿行为的抨击
+    relax strictures on emigration
+#放宽对移居国外的限制
+    moral strictures
+#道德上的约束
+    The government remained unmoved by the stricture on its handling of the crisis.
+#对其在处理危机上的遗责，该政府无动于衷。
+
+vintage: 英[ˈvɪntɪdʒ] 美[ˈvɪntɪdʒ]
+$n. （葡萄酒的）酿造年份（地点），酿制的酒；制造时期，生产年代；<文>葡萄酒；酿酒葡萄采摘
+$adj. （酒）佳酿的，上等的；最好的，最典型的；（东西或车辆）老式的，古色古香的；成绩卓著的一年（vintage year）
+%v. 采葡萄；用葡萄酿酒
+    a book of pre-war vintage
+#战前出版的书
+    a vintage wine
+#佳酿酒
+    a vintage Hollywood film
+#经典的好菜均电影
+    a vintage Rolls Royce
+#一辆古色古香的劳斯菜斯汽车
+    a vintage BMW
+#一辆老式的宝马车
+    The film dates from the vintage years of the British film industry.
+#这部电影是在英国电影史的鼎盛时期拍摄的。
+
+dangle: 英[ˈdæŋɡ(ə)l] 美[ˈdæŋɡ(ə)l]
+%v. （使）悬垂，（使）悬荡；用（诱惑物）来诱惑（或激励）某人
+    dangle in the breeze
+#在风中悬荡
+    dangle after a girl
+#追求一个女孩
+    a loose wire dangling from the wall
+#一根悬荡在墙上的松弛的电线
+    He dangled a puppet in front of the children.
+#他拿着一个木偶在孩子们面前晃动。
+
+quibble: 英[ˈkwɪb(ə)l] 美[ˈkwɪb(ə)l]
+$n. 谬论；双关语；遁辞
+$vi. 诡辩；挑剔；说模棱两可的话
+%vt. 对……诡辩
+    quibble about/over some unimportant things with sb.
+#为一些小事与某人争吵
+    She had no desire to quibble when decisive action was called for.
+#在需要当机立断的时候她不想含糊其词。
+
+rapport: 英[ræˈpɔː(r)] 美[rəˈpɔːr]
+%n. 融洽（关系），和谐（关系）
+    have an excellent rapport with sb.
+#与某人的关系非常融洽
+    be in rapport with sb.
+#与某人融洽相处
+    feel great rapport for birds
+#对鸟儿极有感情
+    After working with Jane for many years, we have developed a close rapport.
+#同简一起工作多年后，我们已经建立了密切的关系。
+
+dictum: 英[ˈdɪktəm] 美[ˈdɪktəm]
+%n. 格言；声明；法官的附带意见
+    the dictum on the case
+#此案的权威定论
+    He has always followed the famous dictum, "Live, and let live."
+#他总是遵循那句著名的格言——自己活，让人活。
+
+remunerate: 英[rɪˈmjuːnəreɪt] 美[rɪˈmjuːnəreɪt]
+%vt. 酬劳；给与报酬；赔偿
+    remunerate sb. for his toil
+#报偿某人的辛劳
+    remunerate sb. for his loss
+#赔偿某人的损失
+    He is poorly remunerated for all the hard work he does.
+#他做的工作很辛苦，但报酬很低。
+
+highbrow: 英[ˈhaɪbraʊ] 美[ˈhaɪbraʊ]
+$adj. 不切实际的；自炫博学的；知识分子的
+%n. 卖弄知识的人；知识分子
+    highbrow music
+#高雅音乐
+    highbrow programs
+#高雅的节目
+    The TV company specializes in making arts shows for highbrows.
+#这家电视公司专门为趣味高雅的人制作艺术节目。
+
+hype: 英[haɪp] 美[haɪp]
+$n. 大肆的宣传广告，炒作；（为做广告而进行的）欺骗；<非正式>皮下注射针，皮下注射；<非正式>有毒瘾者
+%v. （通过传媒）大肆宣传；使（人）兴奋，使（人）活跃
+    hype attendance at the games
+#耍手段吸引人来观看比赛
+    hype people into buying sth.
+#糊弄人们买某物
+    a media hype
+#媒体炒作
+    Other books are being hyped by publishers, but this one really deserves to be read.
+#其他的书都在被出版商大肆炒作，但这一本确实值得一读。
+
+outlandish: 英[aʊtˈlændɪʃ] 美[aʊtˈlændɪʃ]
+%adj. 古怪的；奇异的；异国风格的；偏僻的
+    an outlandish costume
+#奇装异服
+    outlandish manners
+#怪模怪样
+    an outlandish place
+#穷乡僻壤
+    He expected designers to experiment with even more outlandish ideas.
+#他期望设计师们探索一些更加稀奇古怪的思路。
+
+perk: 英[pɜːk] 美[pɜːrk]
+$n. （工资以外的）额外收入，津贴；特殊待遇，好处；<非正式>渗滤式咖啡壶
+$v. 振作起来，活跃起来（perk (sb./sth.) up）；<非正式>滤煮（咖啡）；昂首
+%adj. <罕>活跃的，活泼的
+    perk up its ears
+#竖起耳朵
+    perk oneself up daintily
+#打扮得十分秀丽
+    She perked up as soon as I mentioned that Charles was coming to dinner.
+#当我一提到查尔斯要来吃晚饭，她立刻来了精神。
+
+haggard: 英[ˈhæɡəd] 美[ˈhæɡərd]
+$adj. 憔悴的；（鹰）未驯服的
+$n. 野鹰；难相处的人；农民在农舍旁储放农作物的一块圈地
+%n. （Haggard）（美）哈格德（人名）
+    She was looking a bit haggard as if she hadn't slept for days.
+#她看上去有点惟悴，好像几天没睡觉了。
+
+conscript: 英[kənˈskrɪpt] 美[kənˈskrɪpt]
+$n. 应征士兵，被征召者
+$v. 征召，征募
+%adj. 被征召的
+    He was conscripted into the army at the age of 18.
+#他18岁应征人伍。
+
+swine: 英[swaɪn] 美[swaɪn]
+%n. 猪；<非正式>猪猡，下流坯；难处理的事情，令人不快的东西
+    Her ex-husband sounds an absolute swine.
+#她的前夫听上去是个彻头彻尾的大混蛋。
+
+razor: 英[ˈreɪzə(r)] 美[ˈreɪzər]
+$n. 剃（须）刀，刮胡刀；处于险境，境况岌岌可危（on a razor edge）
+%v. 用剃刀剃，用刮胡刀刮
+    razor one's face clean of beard
+#用刀把脸上的胡子刮干净
+    razor a beard
+#剃光胡须
+    According to the advertisement, this new razor will give you an extra smooth shave.
+#根据广告，这种新的刮胡刀能使你的面容格外光洁。
+
+munition: 英[mjuːˈnɪʃn] 美[mjuːˈnɪʃ(ə)n]
+$n. 军火，军需品
+%v. 供给军需品，供给军火
+    make munitions
+#制造军火
+    munition an army
+#为部队提供军火
+    a munition factory
+#军工厂
+    munitions for a political campaign
+#政治竞选所需的资金
+    The army used precision-guided munitions to blow up enemy targets.
+#军队用精确瞄准的武器炸掉敌方目标。
+
+votary: 英[ˈvəʊtəri] 美[ˈvoʊtəri]
+$n. 崇拜者；出家人
+%adj. 立誓任圣职的；誓约的
+    a votary of peace
+#献身和平事业的人
+    a votary of jazz
+#爵士乐迷
+
+eerie: 英[ˈɪəri] 美[ˈɪri]
+%adj. 可怕的；怪异的
+    have an eerie feeling
+#有种奇怪的感觉
+    a dark and eerie old house
+#黑暗瘆人的老屋
+    for some eerie reason
+#出于某种莫名其妙的原因
+    In bed at night she heard the eerie noise of the wind howling through the trees.
+#晚上躺在床上，她听见风呼啸着穿过林间的怪异而可怕的声音。
+
+ointment: 英[ˈɔɪntmənt] 美[ˈɔɪntmənt]
+%n. 药膏；[药] 油膏
+    The doctor gave him some ointment to stop the cut from being infected.
+#医生给了他一些油膏以防止伤口感染。
+
+trivia: 英[ˈtrɪviə] 美[ˈtrɪviə]
+%n. 琐事
+    worry about such trivia
+#为这等琐事烦恼
+    He was not interested in the trivia of everyday life.
+#他对日常生活的点滴小事不感兴趣。
+
+verbatim: 英[vɜːˈbeɪtɪm] 美[vɜːrˈbeɪtɪm]
+$adv. 一字不差地，逐字地
+%adj. 一字不差的，逐字的
+    a verbatim quotation of the article
+#对文字一字不差的引用
+    He had an amazing memory and could recall verbatim quite complete conversations.
+#他有着惊人的记忆力，能一字不差地回忆起非常复杂的谈话内容。
+
+uncouth: 英[ʌnˈkuːθ] 美[ʌnˈkuːθ]
+%adj. 笨拙的；粗野的；不舒适的；陌生的
+    a large, uncouth man
+#魁梧而笨拙的粗汉
+    uncouth manners
+#粗野的态度
+    rough and uncouth conditions
+#简陋艰苦的环境
+    an uncouth forest
+#人迹罕至的森林
+    All those people were aggressive and uncouth.
+#所有那些人都是好斗而粗野的。
+
+interloper: 英[ˈɪntələʊpə(r)] 美[ˈɪntərloʊpər]
+%n. 闯入者；（为私利）干涉他人事务者；无执照营业者
+    The security did not prevent an interloper getting onto the stage at the opening ceremony and making a speech.
+#保安没有阻止一名闯人者登上开幕式的演讲台并发表言论。
+
+infantry: 英[ˈɪnfəntri] 美[ˈɪnfəntri]
+%n. 步兵；步兵团
+    an infantry regiment
+#步兵团
+    an infantry soldier
+#步兵战士
+    The infantry is/are being sent into the battle zone.
+#步兵部队正被派往作战区域。
+
+grimace: 英[ˈɡrɪməs] 美[ˈɡrɪməs]
+$vi. 扮鬼脸；作怪相；作苦相
+%n. 鬼脸；怪相；痛苦的表情
+    a grimace caused by pain
+#痛得扭曲的脸
+    a rude child making grimaces
+#做鬼脸的野孩子
+    The clown grimaced at the audience.
+#小丑向观众做鬼脸。
+
+outset: 英[ˈaʊtset] 美[ˈaʊtset]
+%n. 开始，开端
+    from the outset
+#从一开始
+    At the outset of the play there is a lot of confused violence.
+#这出戏的开始，有许多混乱的暴力场面。
+
+headlong: 英[ˈhedlɒŋ] 美[ˈhedlɔːŋ]
+$adv. 莽撞地，慌慌张张地；头朝前，头向前地；轻率地
+%adj. 轻率的；头向前的；匆促而用力的
+    in headlong retreat
+#仓皇撤退
+    plunge headlong into water
+#一头扎进水中
+    run headlong across the street
+#横冲直撞穿过大街
+    a headlong decision
+#轻率的决定
+    a headlong dive
+#俯冲跳水
+    In the headlong rush to buy houses, many people got in debt.
+#在一窝蜂的购房热潮中，许多人负了债。
+
+muffle: 英[ˈmʌf(ə)l] 美[ˈmʌf(ə)l]
+$vt. 蒙住；裹住；抑制；发低沉的声音
+%n. 低沉的声音；消声器；包裹物（如头巾，围巾等）；唇鼻部
+    muffled voice
+#隐约的声音
+    the muffled roar of the traffic
+#隐约的车辆声
+    muffled footsteps
+#压低的脚步声
+    muffle one's human-rights comment
+#对人权问题发表含糊其词的评论
+    muffle one's feelings
+#抑制自己的感情
+    the muffle of distant thunder
+#远处沉闷的雷声
+    His mother made him muffle himself up before he could go out to play in the snow.
+#他的母亲把他裹得严严实实之后才让他到外面雪地里去玩。
+
+foyer: 英[ˈfɔɪeɪ] 美[ˈfɔɪər]
+$n. 门厅，休息室；大厅
+%n. （Foyer）人名；（法）富瓦耶；（瑞典）福伊尔
+    I'll see you downstairs in the foyer in half an hour.
+#半小时后我们在楼下门厅见。
+
+singe: 英[sɪndʒ] 美[sɪndʒ]
+$vt. 烧焦；烤焦
+$vi. 烧焦；烤焦
+%n. 烧焦；烤焦
+    singe the chicken
+#燎去鸡毛
+    the smell of singeing hair
+#头发烧焦的味道
+    leave a slight singe on the dress
+#在连衣裙上留下轻微的焦痕
+    My hair singed when I leaned over a burning candle.
+#当我靠向燃烧的蜡烛时将头发烧焦了。
+
+luscious: 英[ˈlʌʃəs] 美[ˈlʌʃəs]
+%adj. 甘美的；满足感官的
+    luscious cream cakes
+#甜润可口的奶油蛋糕
+    the luscious beauty of tone
+#声调的甜美悦耳
+    a luscious view of a garden
+#悦目的花园景色
+    It was filmed against the backdrop of luscious landscape of woods, streams and meadows.
+#电影是以令人心旷神怡的森林、河流和草地风光为背景拍摄的。
+
+swipe: 英[swaɪp] 美[swaɪp]
+$v. （挥动手臂或物体）击打，猛击；偷窃；刷（磁卡）；滑动
+%n. 批评，抨击；挥击，抡打；滑动
+    swipe sb. around the head
+#猛打某人的头部
+    give sb. a swipe round the ear
+#很狠地给某人一记耳光
+    swipe the sweaty forehead
+#擦着汗淋淋的前额
+    She opened the window and swiped at the fly with a rolled-up newspaper to make it go out.
+#她打开窗户用卷起的报纸挥打苍蝇想把它赶出去。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,671 @@
+<<<<<<< HEAD
+superlative:
+    superlative beauty
+#绝色
+    superlative technical skills
+#卓绝的技能
+    in superlatives
+#夸大地，夸张地
+    a superlative restaurant
+#最好的餐馆
+    They relish superlatives and delight in appearing larger than life.
+#他们什么都要最好的，还夸大摆谱。
+
+acclimate:
+    acclimate oneself to living in the countryside
+#使自己适应在农村的生活
+    acclimate the students to a total English language situation 
+#使生适应于个完全讲英语的场景
+    He found it impossible to acclimate himself to the new working condition.
+#他觉得自己不可能适应新的工作环境。
+
+underdog:
+    As a politician, her sympathy was always for the underdogs in society.
+#作为政治家，她的同情总是给予社会中的下层人群。
+
+acrobat:
+    a political acrobat
+#政治上见风使舵的人
+    was always fascinated by the acrobats at the circus.
+#我总是着迷于马戏团里的杂技演员。
+
+omniscient:
+    be omniscient in everything
+#事事通晓
+    Medical knowledge has expanded so much over the past century that it's impossible for the doctors to be omniscient.
+#医学知识在过去的一个多世纪里增加了很多，现在的医生不可能无所不知。
+
+obsessive:
+    be obsessive about punctuality
+#过分讲究准时
+    obsessive illness
+#强迫性神经疾患
+    She has an obsessive need to have everything perfect.
+#她不能自控地要使一切尽善尽美。
+
+tantrum:
+    be in a tantrum
+#在发脾气
+    go into one's tantrum
+#发牌气
+    throw tantrums
+#发牌气
+    If she doesn't get what she wants, she throws tantrums just like a child.
+#如果她不能为所欲为，就会发孩子脾气。
+
+dapper:
+    a dapper young man
+#衣冠楚楚的年轻人
+    a dapper wave of the hand
+#洒脱的挥手
+    Peter is a dapper detective in the novel.
+#彼得是这部小说中一个衣冠楚楚的侦探。
+
+easel:
+    an easel in the room
+#房间里的画架
+
+clot:
+    a blood clot
+#血块
+    clots of cream
+#奶油块
+    streets clotted with traffic
+#挤满了车辆的街道
+    a mud clotted dog
+#浑身沾满泥块的狗
+    The institute developed an anti-blood clotting agent that stops heart attacks.
+#这个研究所研制出一种能防止血液凝块的药剂，能阻止心脏病发作。
+
+umpire:
+    accept an umpire's decision
+#接受裁判员的裁决
+    umpire a dispute
+#对纠纷进行仲裁
+    He has been chosen to umpire the next basketball match.
+#他被选为下届篮球赛的裁判。
+
+inculcate:
+    inculcate a love of reading in children
+#反复教育孩子们要爱读书
+    Our football coach has worked hard to inculcate a team spirit in/into the players.
+#我们的足球教练尽力给运动员灌输团队精神。
+
+nautical:
+    a nautical term
+#航海用语
+    a nautical chart
+#海图
+    You're looking very nautical in your navy blue sweater.
+#你穿着深蓝色毛衣，真像个海员。
+
+demagogue:
+    It was a good thing to demagogue on.
+#这是可以用来蛊惑人心的好由头。
+
+enliven:
+    enliven all nature
+#使大自然生机勃勃
+    a newly enlivened stock market
+#新近活跃起来的证券市场
+    The conversation was enlivened with jokes.
+#谈话因夹杂了笑话而显得活跃起来。
+
+convulse:
+    convulse in/with laughter
+#笑得前俯后仰
+    be convulsed with sobs
+#抽泣
+    The injured animal lay by the side of the road, convulsing in pain.
+#受伤的动物躺在路边，痛苦地抽搐着。
+
+flaccid:
+    flaccid muscles
+#松弛的肌肉
+    flaccid leadership
+#软弱无能的领导
+    It was a very flaccid production of the play.
+#那部戏演得很没劲。
+
+hermetic:
+    the hermetic world of the monastery
+#与世隔绝的修道院
+    lead a hermetic life
+#过着与世隔绝的生活
+    the hermetic art
+#炼金术
+    The hermetic seal on the packet means that the food lasts longer.
+#袋子上的密封印表明食物能保存更长的时间。
+
+lug:
+    I'm exhausted after lugging these suitcases all the way across the square.
+#拖着这些箱子横穿过广场后我已经筋疲力尽。
+
+plummet:
+    House prices have plummeted in recent months.
+#房价近几个月骤跌。
+
+desiccate:
+    desiccated milk
+#奶粉
+    The old sailor's skin had become wrinkled and desiccated from years of being exposed in the sun and the wind.
+#由于多年暴露在阳光和海风中，老水手的皮肤已经变得又干又皱。
+
+effeminate:
+    an effeminate art
+#纤靡的艺术
+    effeminate children's minds
+#使儿童的心灵柔弱
+    He got a very effeminate manner.
+#他的举止非常女人气。
+
+revulsion:
+    feel revulsion at a kiss
+#厌恶接吻
+    fill sb. with revulsion
+#使某人满是反感
+    a wave of revulsion of war
+#反战浪潮
+    the revulsion of capital from a company
+#资金从一家公司的抽回
+    look at sb. with revulsion
+#厌恶地看着某人
+    express one's revulsion at/against/towards the whale hunting
+#表达自己对捕鲸的强烈反感
+    My feeling for him underwent revulsion when I discovered his cruelty.
+#当我发现了他的残忍之后，我对他的感情起了剧变。
+
+irksome:
+    an irksome task
+#令人厌烦的工作
+    The toothache grew irksome.
+#牙痛越来越烦人。
+
+sash:
+    a pane of glass broken out of the sash
+#窗框上落下的一块玻璃
+    She was wearing a white dress with a red sash.
+#她身着一条白色的配着红腰带的裙子。
+
+decoy:
+    decoy the birds within range
+#把鸟诱至射程内
+    decoy somebody away from the house
+#把某人诱出房子
+    decoy a missile going off course
+#诱使导弹偏轨离轨道
+    a decoy ship
+#伪装舰船
+    They decoyed him into a dark lane.
+#他们诱骗他走进一条黑黝黝的巷子。
+
+daze:
+    in a daze
+#神色恍惚，迷茫
+    walk around in a daze
+#茫然地走来走去
+    be dazed by bright lights
+#被强光弄得眼花
+    The collision dazed me for a while, but I soon recovered.
+#撞击使我感到一阵晕眩，不过很快就恢复了。
+
+curator:
+    Her father is the curator of a London museum.
+#她父亲是伦敦一家博物馆的馆长。
+
+repent:
+    repent of one's sins
+#对自己的罪孽感到忏悔
+    repent of a thoughtless act
+#对轻举妄动的行为感到后悔
+    repent one's early love
+#后悔早恋
+    repent one's crimes
+#悔罪
+    He repented a shouting at the children and promised never to do it again.
+#他后悔向孩子们大喊大叫并答应再也不这样了。
+
+dissociate:
+    The author never dissociated his characters from their social context.
+#这个作者从不把他笔下的人物同他们的社会环境分开考虑。
+
+intersperse:
+    peach trees interspersed with willows
+#柳树中间夹杂着桃树
+    be interspersed with beds of flowers
+#点缀着一座座花坛
+    be interspersed with brief and witty speeches
+#穿插着简短、谈谐的讲话
+    Lectures will be interspersed with practical demonstrations.
+#讲课中将不时插入实际示范。
+
+vertex:
+    the vertex of a triangle
+#三角形的顶点
+    the vertex of a pyramid
+#金字塔的顶
+    They erected a monument on the vertex of the hill.
+#他们在山顶上竖立了一座纪念碑。
+
+impinge:
+    impinge on one's rights
+#侵犯某人的权利
+    impinge upon one's imagination
+#触发想象力
+    impinge on one's time
+#侵占某人的时间
+    The government's spending limits will seriously impinge on the education budget.
+#政府的限制开支会严重影响教育经费。
+
+latch:
+    latch the door
+#把门闩上
+    off the latch
+#虚掩着
+    on the latch
+#只闩着但没锁上
+    latch onto new ideas
+#接受新思想
+    latch onto a rich widow
+#缠住一个富有的寡妇
+    We were lucky enough to latch onto a valuable piece of land at a low price.
+#我们的运气很好，以低价弄到一块很有价值的土地。
+
+rasp:
+    rasp on the ear
+#感到刺耳
+    rasp out a command
+#厉声发出命令
+    rasp away the rough corners
+#把参差不齐的棱角锉掉
+    an ugly rasp of metal on stone
+#金属在石头上擦刮的刺耳声
+    The bolt rasped and the door suddenly opened.
+#门闩发出刺耳声响，然后门突然开了。
+
+fondle:
+    fondle a baby
+#爱抚婴儿
+    fondle a precious object
+#抚弄珠宝
+    She accused him of fondling her in the back of a taxi.
+#她控告他在出租车后座调戏她。
+
+rend:
+    rend sth. apart
+#把某物撕开
+    a nation rent by the civil war
+#一个因内战而分製的国家
+    rend off a ripe fruit
+#摘下一个成熟的果子
+    rend the serenity
+#打破安静
+    a mind rent by doubt
+#一颗为疑虑困扰的心
+    She screamed and wept and rent her garments into pieces.
+#她尖叫着，哭泣着，把衣服撕成了碎片。
+
+jagged:
+    a jagged cut
+#参差不齐的切口
+    jagged writing
+#歪七竖八的笔迹
+    We climbed over the jagged rocks.
+#我们攀过了嶙岣的岩石。
+
+expunge:
+    expunge a name from a list
+#把一个名字从名单上除去
+    expunge the shame
+#洗刷耻辱
+    She has been unable to expunge the details of the accident from her memory.
+#她无法从记忆中抹去那次事故的种种细节。
+
+redolent:
+    an image redolent of old leather, old money and class
+#使人联想起旧皮革、旧钞票和等级的形象
+    be redolent of the smell of liquor
+#有浓烈的酒气
+    a cathedral redolent of Russia's past
+#使人联想起俄罗斯的过去的大教堂
+    an old house redolent with mystery
+#充满神秘气氣的古宅
+    The mountain air was redolent with the scent of pine needles.
+#山上的空气充满了松针的芳香气息。
+
+=======
+superlative:
+    superlative beauty
+#绝色
+    superlative technical skills
+#卓绝的技能
+    in superlatives
+#夸大地，夸张地
+    a superlative restaurant
+#最好的餐馆
+    They relish superlatives and delight in appearing larger than life.
+#他们什么都要最好的，还夸大摆谱。
+
+acclimate:
+    acclimate oneself to living in the countryside
+#使自己适应在农村的生活
+    acclimate the students to a total English language situation 
+#使生适应于个完全讲英语的场景
+    He found it impossible to acclimate himself to the new working condition.
+#他觉得自己不可能适应新的工作环境。
+
+underdog:
+    As a politician, her sympathy was always for the underdogs in society.
+#作为政治家，她的同情总是给予社会中的下层人群。
+
+acrobat:
+    a political acrobat
+#政治上见风使舵的人
+    was always fascinated by the acrobats at the circus.
+#我总是着迷于马戏团里的杂技演员。
+
+omniscient:
+    be omniscient in everything
+#事事通晓
+    Medical knowledge has expanded so much over the past century that it's impossible for the doctors to be omniscient.
+#医学知识在过去的一个多世纪里增加了很多，现在的医生不可能无所不知。
+
+obsessive:
+    be obsessive about punctuality
+#过分讲究准时
+    obsessive illness
+#强迫性神经疾患
+    She has an obsessive need to have everything perfect.
+#她不能自控地要使一切尽善尽美。
+
+tantrum:
+    be in a tantrum
+#在发脾气
+    go into one's tantrum
+#发牌气
+    throw tantrums
+#发牌气
+    If she doesn't get what she wants, she throws tantrums just like a child.
+#如果她不能为所欲为，就会发孩子脾气。
+
+dapper:
+    a dapper young man
+#衣冠楚楚的年轻人
+    a dapper wave of the hand
+#洒脱的挥手
+    Peter is a dapper detective in the novel.
+#彼得是这部小说中一个衣冠楚楚的侦探。
+
+easel:
+    an easel in the room
+#房间里的画架
+
+clot:
+    a blood clot
+#血块
+    clots of cream
+#奶油块
+    streets clotted with traffic
+#挤满了车辆的街道
+    a mud clotted dog
+#浑身沾满泥块的狗
+    The institute developed an anti-blood clotting agent that stops heart attacks.
+#这个研究所研制出一种能防止血液凝块的药剂，能阻止心脏病发作。
+
+umpire:
+    accept an umpire's decision
+#接受裁判员的裁决
+    umpire a dispute
+#对纠纷进行仲裁
+    He has been chosen to umpire the next basketball match.
+#他被选为下届篮球赛的裁判。
+
+inculcate:
+    inculcate a love of reading in children
+#反复教育孩子们要爱读书
+    Our football coach has worked hard to inculcate a team spirit in/into the players.
+#我们的足球教练尽力给运动员灌输团队精神。
+
+nautical:
+    a nautical term
+#航海用语
+    a nautical chart
+#海图
+    You're looking very nautical in your navy blue sweater.
+#你穿着深蓝色毛衣，真像个海员。
+
+demagogue:
+    It was a good thing to demagogue on.
+#这是可以用来蛊惑人心的好由头。
+
+enliven:
+    enliven all nature
+#使大自然生机勃勃
+    a newly enlivened stock market
+#新近活跃起来的证券市场
+    The conversation was enlivened with jokes.
+#谈话因夹杂了笑话而显得活跃起来。
+
+convulse:
+    convulse in/with laughter
+#笑得前俯后仰
+    be convulsed with sobs
+#抽泣
+    The injured animal lay by the side of the road, convulsing in pain.
+#受伤的动物躺在路边，痛苦地抽搐着。
+
+flaccid:
+    flaccid muscles
+#松弛的肌肉
+    flaccid leadership
+#软弱无能的领导
+    It was a very flaccid production of the play.
+#那部戏演得很没劲。
+
+hermetic:
+    the hermetic world of the monastery
+#与世隔绝的修道院
+    lead a hermetic life
+#过着与世隔绝的生活
+    the hermetic art
+#炼金术
+    The hermetic seal on the packet means that the food lasts longer.
+#袋子上的密封印表明食物能保存更长的时间。
+
+lug:
+    I'm exhausted after lugging these suitcases all the way across the square.
+#拖着这些箱子横穿过广场后我已经筋疲力尽。
+
+plummet:
+    House prices have plummeted in recent months.
+#房价近几个月骤跌。
+
+desiccate:
+    desiccated milk
+#奶粉
+    The old sailor's skin had become wrinkled and desiccated from years of being exposed in the sun and the wind.
+#由于多年暴露在阳光和海风中，老水手的皮肤已经变得又干又皱。
+
+effeminate:
+    an effeminate art
+#纤靡的艺术
+    effeminate children's minds
+#使儿童的心灵柔弱
+    He got a very effeminate manner.
+#他的举止非常女人气。
+
+revulsion:
+    feel revulsion at a kiss
+#厌恶接吻
+    fill sb. with revulsion
+#使某人满是反感
+    a wave of revulsion of war
+#反战浪潮
+    the revulsion of capital from a company
+#资金从一家公司的抽回
+    look at sb. with revulsion
+#厌恶地看着某人
+    express one's revulsion at/against/towards the whale hunting
+#表达自己对捕鲸的强烈反感
+    My feeling for him underwent revulsion when I discovered his cruelty.
+#当我发现了他的残忍之后，我对他的感情起了剧变。
+
+irksome:
+    an irksome task
+#令人厌烦的工作
+    The toothache grew irksome.
+#牙痛越来越烦人。
+
+sash:
+    a pane of glass broken out of the sash
+#窗框上落下的一块玻璃
+    She was wearing a white dress with a red sash.
+#她身着一条白色的配着红腰带的裙子。
+
+decoy:
+    decoy the birds within range
+#把鸟诱至射程内
+    decoy somebody away from the house
+#把某人诱出房子
+    decoy a missile going off course
+#诱使导弹偏轨离轨道
+    a decoy ship
+#伪装舰船
+    They decoyed him into a dark lane.
+#他们诱骗他走进一条黑黝黝的巷子。
+
+daze:
+    in a daze
+#神色恍惚，迷茫
+    walk around in a daze
+#茫然地走来走去
+    be dazed by bright lights
+#被强光弄得眼花
+    The collision dazed me for a while, but I soon recovered.
+#撞击使我感到一阵晕眩，不过很快就恢复了。
+
+curator:
+    Her father is the curator of a London museum.
+#她父亲是伦敦一家博物馆的馆长。
+
+repent:
+    repent of one's sins
+#对自己的罪孽感到忏悔
+    repent of a thoughtless act
+#对轻举妄动的行为感到后悔
+    repent one's early love
+#后悔早恋
+    repent one's crimes
+#悔罪
+    He repented a shouting at the children and promised never to do it again.
+#他后悔向孩子们大喊大叫并答应再也不这样了。
+
+dissociate:
+    The author never dissociated his characters from their social context.
+#这个作者从不把他笔下的人物同他们的社会环境分开考虑。
+
+intersperse:
+    peach trees interspersed with willows
+#柳树中间夹杂着桃树
+    be interspersed with beds of flowers
+#点缀着一座座花坛
+    be interspersed with brief and witty speeches
+#穿插着简短、谈谐的讲话
+    Lectures will be interspersed with practical demonstrations.
+#讲课中将不时插入实际示范。
+
+vertex:
+    the vertex of a triangle
+#三角形的顶点
+    the vertex of a pyramid
+#金字塔的顶
+    They erected a monument on the vertex of the hill.
+#他们在山顶上竖立了一座纪念碑。
+
+impinge:
+    impinge on one's rights
+#侵犯某人的权利
+    impinge upon one's imagination
+#触发想象力
+    impinge on one's time
+#侵占某人的时间
+    The government's spending limits will seriously impinge on the education budget.
+#政府的限制开支会严重影响教育经费。
+
+latch:
+    latch the door
+#把门闩上
+    off the latch
+#虚掩着
+    on the latch
+#只闩着但没锁上
+    latch onto new ideas
+#接受新思想
+    latch onto a rich widow
+#缠住一个富有的寡妇
+    We were lucky enough to latch onto a valuable piece of land at a low price.
+#我们的运气很好，以低价弄到一块很有价值的土地。
+
+rasp:
+    rasp on the ear
+#感到刺耳
+    rasp out a command
+#厉声发出命令
+    rasp away the rough corners
+#把参差不齐的棱角锉掉
+    an ugly rasp of metal on stone
+#金属在石头上擦刮的刺耳声
+    The bolt rasped and the door suddenly opened.
+#门闩发出刺耳声响，然后门突然开了。
+
+fondle:
+    fondle a baby
+#爱抚婴儿
+    fondle a precious object
+#抚弄珠宝
+    She accused him of fondling her in the back of a taxi.
+#她控告他在出租车后座调戏她。
+
+rend:
+    rend sth. apart
+#把某物撕开
+    a nation rent by the civil war
+#一个因内战而分製的国家
+    rend off a ripe fruit
+#摘下一个成熟的果子
+    rend the serenity
+#打破安静
+    a mind rent by doubt
+#一颗为疑虑困扰的心
+    She screamed and wept and rent her garments into pieces.
+#她尖叫着，哭泣着，把衣服撕成了碎片。
+
+jagged:
+    a jagged cut
+#参差不齐的切口
+    jagged writing
+#歪七竖八的笔迹
+    We climbed over the jagged rocks.
+#我们攀过了嶙岣的岩石。
+
+expunge:
+    expunge a name from a list
+#把一个名字从名单上除去
+    expunge the shame
+#洗刷耻辱
+    She has been unable to expunge the details of the accident from her memory.
+#她无法从记忆中抹去那次事故的种种细节。
+
+redolent:
+    an image redolent of old leather, old money and class
+#使人联想起旧皮革、旧钞票和等级的形象
+    be redolent of the smell of liquor
+#有浓烈的酒气
+    a cathedral redolent of Russia's past
+#使人联想起俄罗斯的过去的大教堂
+    an old house redolent with mystery
+#充满神秘气氣的古宅
+    The mountain air was redolent with the scent of pine needles.
+#山上的空气充满了松针的芳香气息。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

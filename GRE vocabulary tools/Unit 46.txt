@@ -1,0 +1,803 @@
+<<<<<<< HEAD
+mentor: 英[ˈmentɔː(r)] 美[ˈmentər]
+$n. 导师，指导者
+%v. 给予培训
+    The old writer was his mentor and friend.
+#那位老作家是他的导师和朋友。
+
+knotty: 英[ˈnɒti] 美[ˈnɑːti]
+%adj. 难以解决的，棘手的；（木头表面）多节（疤）的
+    a knotty rope
+#有节的绳索
+    a knotty problem
+#棘手的问题
+
+inspired: 英[ɪnˈspaɪəd] 美[ɪnˈspaɪərd]
+$adj. 品质优秀的，能力卓越的；受……影响的；（空气等物质）吸入的
+%v. 激励，鼓舞；赋予灵感，激发（想法）；使产生（感觉或情感）（inspire 的过去式和过去分词形式）
+    inspired prophets
+#受神灵启示的先知们
+    an inspired moment
+#在灵感支配下的一刹那
+    an inspired performance
+#精彩的演出
+    the inspired air
+#吸入的空气
+
+familiarity: 英[fəˌmɪliˈærəti] 美[fəˌmɪliˈærəti]
+%n. 精通，通晓；熟悉，亲切感；随便，冒昧
+    familiarity with English history
+#通晓英国史
+    treat sb. with familiarity
+#亲昵地对待某人
+
+patriotism: 英[ˈpætriətɪzəm] 美[ˈpeɪtriətɪzəm]
+%n. 爱国主义，爱国精神
+    A wave of patriotism seems to have swept the country.
+#一股爱国主义浪潮似乎席卷了这个国家。
+
+abstentious: 英[əbˈstenʃəs] 美[əbˈstenʃəs]
+%adj. 有节制的
+    an abstentious meal
+#节俭的一餐
+    He has had a very abstentious life since he became a Christian.
+#成为基督徒后，他就过着种很有节制的生活。
+
+rectitude: 英[ˈrektɪtjuːd] 美[ˈrektɪtuːd]
+%n. 公正；诚实；清廉
+    spirit of rectitude
+#正直无私的精神
+    rectitude of judgment
+#判断的正确
+    She was convinced of the rectitude of her decision.
+#她相信自己的决定是正确的。
+
+sibyl: 英[ˈsɪb(ə)l] 美[ˈsɪb(ə)l]
+$n. 女巫；女预言家
+%n. （Sibyl）人名；（英）西比尔
+    At the beginning of the war, the king asked the sibyl which side she thought would win.
+#战争开始时，国王向女预言家询问哪一方将赢。
+
+zephyr: 英[ˈzefə(r)] 美[ˈzefər]
+%n. 和风；西风；轻薄织物
+    The fresh, clear air, moved agreeably by a zephyr breeze, held a scent of jasmine.
+#和风吹动的清新空气传来莱莉花香。
+
+spurt: 英[spɜːt] 美[spɜːrt]
+$v. 喷射，喷出；冲刺，迸发
+%n. 涌出的液体，喷出的火舌；短时激增，迸发
+    a spurt of flame
+#一股火焰
+    a spurt in unemployment
+#失业的激增
+    Rain came down in sudden torrential spurts.
+#雨突然瓢泼而下。
+
+preposterous: 英[prɪˈpɒstərəs] 美[prɪˈpɑːstərəs]
+%adj. 荒谬的；可笑的
+    a preposterous situation
+#反常的情况
+    a preposterous idea
+#荒谬的想法
+
+etymology: 英[ˌetɪˈmɒlədʒi] 美[ˌetɪˈmɑːlədʒi]
+%n. 词源，词源学
+    At university she developed an interest in etymology.
+#在大学里，她对词源学产生了兴趣。
+
+piquant: 英[ˈpiːkənt] 美[ˈpiːkənt]
+%adj. 辛辣的；活泼的；痛快的；顽皮的；刺激的
+    piquant pickles
+#辣味泡菜
+    a piquant piece of news
+#一则振奋人心的消息
+    a piquant wit
+#妙趣横生的巧语
+
+backset: 英[ˈbækˌset] 美[ˈbækˌset]
+%n. 涡流；逆流；倒退；挫折
+    The backset has really disheartened him.
+#这个挫折确实使他垂头丧气。
+
+typhoon: 英[taɪˈfuːn] 美[taɪˈfuːn]
+%n. （印度洋及西太平洋的）台风
+    A 18,000 ton vessel went down during a typhoon in the sea.
+#在一场台风中，一艘18000吨的轮船在海中沉没了。
+
+ungrudging: 英[ʌnˈɡrʌdʒɪŋ] 美[ʌnˈɡrʌdʒɪŋ]
+%adj. 情愿的；慷慨的
+    ungrudging efforts
+#无怨言的埋头努力
+    ungrudging admiration
+#由衷的钦佩
+
+double-cross: 英[ˌdʌb(ə)l ˈkrɒs] 美[ˌdʌb(ə)l ˈkrɔːs]
+$v. 欺骗，出卖
+%n. 欺骗行为
+    Now you have seen how they will double-cross you.
+#现在你看到了他们将如何欺骗你。
+
+multiplicity: 英[ˌmʌltɪˈplɪsəti] 美[ˌmʌltɪˈplɪsəti]
+%n. 多样性；[物] 多重性
+    the multiplicity of nature
+#大自然的多样性
+    a multiplicity of duties
+#繁多的职责
+
+behoove: 英[bɪˈhuːv] 美[bɪˈhuːv]
+$vt. 理应；对……有此必要
+$vi. 有必要；理所当然
+%n. 适宜
+    a quality that behooves a scholar
+#学者应具有的品质
+    It behooves us to know as much as possible about the matter.
+#我们理应尽多地了解关于这个问题的情况。
+
+informer: 英[ɪnˈfɔːmə(r)] 美[ɪnˈfɔːrmər]
+%n. 告密者；通知者；控告人
+    An informer told the police that the shop was selling the stolen jewelry.
+#一告密者向警方告发家商店在销售失窃的珠宝。
+
+footle: 英[ˈfuːt(ə)l] 美[ˈfʊt(ə)l]
+$v. 做笨事；说呆话；浪费时间
+%n. 呆话；傻事
+    He is footling around the city.
+#他在城中闲逛
+
+restorative: 英[rɪˈstɒrətɪv] 美[rɪˈstɔːrətɪv]
+$adj. 有助于复元的，恢复健康的；整容的，整形的；滋补的
+%n. 滋补剂；恢复药；补酒
+    The government has promised 500 million restorative dollars.
+#政府已允诺拨款500万美元用于恢复工作。
+
+striated: 英[ˌstraɪˈeɪtɪd] 美[ˈstraɪeɪtɪd]
+$adj. 有条纹的；有线纹的
+%v. 加条纹（striate 的过去分词）
+    a violently striated look
+#一副满横肉的相貌
+
+sustained: 英[səˈsteɪnd] 美[səˈsteɪnd]
+$adj. 持续的，持久的；坚定的，坚持不懈的
+%v. 维持，保持；遭受，经受；（在体力或精神方面）支持，支撑（sustain 的过去式和过去分词）
+    a period of sustained economic growth
+#经济持续增长期
+    The enemy mounted a sustained attack on the castle.
+#敌人对城堡发起了持续的攻击。
+
+pluralism: 英[ˈplʊərəlɪzəm] 美[ˈplʊrəlɪzəm]
+%n. <正式>多元化，多元性；<正式>多元主义；<正式>（尤指在教会）身兼多职；多党论，多党制；个体放权自治制；多元文化社会；<哲>多元论，多元制
+    After years of state control, the country is now moving towards religious pluralism.
+#政府控制多年以后，该国正在走向宗教多元化。
+
+welsh: 英[welʃ] 美[welʃ]
+$v. 赖账
+$adj. （Welsh）威尔士的；威尔士人的；威尔士语的；威尔士文化的
+$n. （Welsh）威尔士人；威尔士语；威尔士猪
+%n. （Welsh）（美）韦尔什（人名）
+    welsh on one's debts
+#赖债
+    welsh on one's promise
+#食言
+
+invective: 英[ɪnˈvektɪv] 美[ɪnˈvektɪv]
+$n. 恶言谩骂，咒骂；猛烈抨击
+%adj. 谩骂的；恶言的
+    a speech filled with invective
+#充满猛烈抨击的演说
+    He sometimes let loose great invective against the things he hates.
+#他有时对自己所痛恨的事物破口大骂。
+
+jovial: 英[ˈdʒəʊviəl] 美[ˈdʒoʊviəl]
+%adj. 天性快活的；主神朱庇特的
+    a jovial evening
+#愉快的夜晚
+    speak in a jovial mood
+#以愉快的心情说
+
+libelous: 英[ˈlaɪbələs] 美[ˈlaɪbələs]
+%adj. 诽谤的；损害名誉的；用言语中伤他人的
+    a libelous article
+#有诽谤文字的文章
+    a libelous tongue
+#好造谣诽谤的嘴
+
+advert: 英[ˈædvɜːt] 美[ˈædvɜːrt]
+$n. <英>广告
+%vi. 提及
+    She adverted to a topic mentioned earlier by another speaker.
+#她评论了先前另一个演讲人提到过的问题。
+
+inveigh: 英[ɪnˈveɪ] 美[ɪnˈveɪ]
+%vi. 痛骂；漫骂；猛烈抨击
+    inveigh against military dictatorship
+#猛烈押击军事独裁
+
+lithe: 英[laɪð] 美[laɪð]
+%adj. 轻盈的（等于 lithesome）；柔软的；易弯曲的
+    a lithe vine
+#柔软的藤
+
+forbidding: 英[fəˈbɪdɪŋ] 美[fərˈbɪdɪŋ]
+$v. 禁止；不准（某人）做某事；（使）……不可能做某事，妨碍（forbid 的现在分词）
+%adj. （外表）冷峻的，令人生畏的；令人厌恶的；险恶的
+    a forbidding task
+#讨厌的工作
+    a forbidding coast
+#险峻的海岸
+    forbidding clouds
+#令人生畏的云
+    The headmaster seems stern and forbidding.
+#校长看起来很严厉，令人望而生畏。
+
+bleary: 英[ˈblɪəri] 美[ˈblɪri]
+%adj. 朦胧的；眼睛模糊的
+    a bleary view
+#朦陇的景色
+    Her eyes were bleary with fatigue.
+#她累得视线都模糊了。
+
+spiel: 英[ʃpiːl] 美[ʃpiːl]
+$n. 流利夸张的讲话，招揽生意的言辞
+$v. 喋喋不休地高谈阔论；演奏音乐
+%n. （Spiel）（美、巴、匈）施皮尔（人名）
+    make a spiel
+#夸夸其谈
+    He's always spieling about the "values of poetry".
+#他总是夸夸其谈地讲“诗的价值”。
+
+iota: 英[aɪˈəʊtə] 美[aɪˈoʊtə]
+$n. 极微小；希腊语的第九个字母
+%n. （Iota）人名；（日）庵田（姓）；（希、罗）约塔
+    She hadn't an iota of proof.
+#她一点证据也没有。
+
+insouciant: 英[ɪnˈsuːsiənt] 美[ɪnˈsuːsiənt]
+%adj. 漫不经心的，漠不关心的；无忧无虑的
+    a gay insouciant person
+#快活逍遥的人
+
+stolid: 英[ˈstɒlɪd] 美[ˈstɑːlɪd]
+%adj. 迟钝的；缺乏热情的；冷漠的
+    He was a rather stolid, serious type.
+#他是那种本正经不太喜形于色的人。
+
+piddling: 英[ˈpɪd(ə)lɪŋ] 美[ˈpɪd(ə)lɪŋ]
+$adj. 琐屑的；无用的；不重要的
+%v. 撒尿；鬼混（piddle 的 ing 形式）
+    a piddling salary
+#微薄的薪金
+
+bonny: 英[ˈbɒni] 美[ˈbɑːni]
+$adj. 漂亮的；健美的；相当大的；相当多的；（婴儿）胖乎乎的
+$adv. 愉快地；好地
+$n. 宝贝（用作称呼）
+%n. （Bonny）（美、法、英、瑞、俄、比）邦尼（人名）
+    a bonny baby
+#健康漂亮的婴儿
+
+incision: 英[ɪnˈsɪʒ(ə)n] 美[ɪnˈsɪʒ(ə)n]
+%n. 切口，切痕；雕，切开；雕刻出来的标识（或装饰品）
+    the surgeon's skilful incision of the tissues
+#外科医生对机体组织的熟练切开
+
+garble: 英[ˈɡɑːb(ə)l] 美[ˈɡɑːrb(ə)l]
+$v. 断章取义；篡改，歪曲；让（话或信息）变得含混不清，易引起误解
+%n. 断章取义，断章取义之事；混乱的记述；篡改
+    garble a quotation.
+#篡改引文
+    a garble report of a speech
+#对一次讲话的歪曲报道
+
+jocund: 英[ˈdʒɒkənd] 美[ˈdʒɑːkənd]
+%adj. 快活的；高兴的；有幽默性情的
+    a jocund companion
+#一个乐呵呵的伴儿
+
+sorcery: 英[ˈsɔːsəri] 美[ˈsɔːrsəri]
+%n. 魔术，巫术
+    Even today some people still believe in sorcery.
+#即使在今天，有些人仍然相信巫术。
+
+antic: 英[ˈæntɪk] 美[ˈæntɪk]
+$adj. 古怪的；滑稽可笑的
+$n. 滑稽动作；丑角
+$vi. 扮小丑；做滑稽动作
+%n. (Antic)人名；(法)安蒂克
+    The clown amused the audience by his childish antics.
+#小丑用幼稚的滑稽动作使观众们发笑。
+
+crescendo: 英[krəˈʃendəʊ] 美[krəˈʃendoʊ]
+$n. 声音渐增
+$adv. 渐次加强地
+$adj. 渐强的
+%vi. 音量逐渐增强
+    The gale reached its crescendo in the evening.
+#傍晚时大风风力达到最强。
+
+pillage: 英[ˈpɪlɪdʒ] 美[ˈpɪlɪdʒ]
+$v. （尤指在战争中）掠夺，抢劫
+%n. （尤指在战争中）掠夺，抢劫；掠夺物
+    rape and pillage
+#奸淫掠夺
+    Waves of invaders pillaged towns along the coast without anyone being able to stop them.
+#一批批人侵者掠夺沿岸的城镇，无人能阻挡他们。
+
+unprepossessing: 英[ˌʌnˌpriːpəˈzesɪŋ] 美[ˌʌnˌpriːpəˈzesɪŋ]
+%adj. 不吸引人的；不讨人喜欢的
+    an unprepossessing place
+#不起眼的地方
+    She was externally very unprepossessing.
+#她的外表很不吸引人。
+
+peaky: 英[ˈpiːki] 美[ˈpiːki]
+%adj. 有病的，憔悴的，苍白的；尖峰的
+    a peaky face
+#尖脸
+
+acarpous: 英[eɪˈkɑːpəs] 美[eɪˈkɑːrpəs]
+%adj. 不结果的；[植] 无果实的
+    an acarpous tree
+#不结果的树
+
+adherent: 英[ədˈhɪərənt] 美[ədˈhɪrənt]
+$n. （政党、思想的）拥护者
+%adj. 粘着的；遵守的；（植物）联生的
+    an adherent substance
+#黏性物质
+    This idea is gaining adherents.
+#这种观念正在赢得支持者。
+
+gustation: 英[ɡʌˈsteɪʃən] 美[ɡəsˈteɪʃən]
+%n. 味觉；品尝
+    Appreciating both the landscapes and delicacies, you can start the dual enjoyment of vision and gustation here.
+#赏自然美景，品山水佳肴，视觉和味觉的双重盛宴从这里开始。
+
+secretive: 英[ˈsiːkrətɪv] 美[ˈsiːkrətɪv]
+%adj. （人，组织）保密的，守口如瓶的；（状态，活动）隐瞒的，秘密的；（人的表情，举止）难解的，诡秘的
+    a secretive air
+#讳莫如深的样子
+    She's very secretive about money matters.
+#她对钱财之事一向守口如瓶。
+
+narcissist: 英[ˈnɑːsɪsɪst] 美[ˈnɑːrsɪsɪst]
+%n. 自我陶醉者
+    What a narcissist he must be -- all these mirrors everywhere.
+#他一定是个十足的自恋狂——这里到处都是镜子。
+
+lissome: 英[ˈlɪsəm] 美[ˈlɪsəm]
+%adj. 柔软的；敏捷的
+    a lissome dancing girl
+#轻快而优雅的舞女
+
+excitability: 英[ɪkˌsaɪtəˈbɪləti] 美[ɪkˌsaɪtəˈbɪləti]
+%n. [生理] 兴奋性，应激性；可激发性
+    Speech production increased the excitability of hand motor cortex. 
+#言语产生可增加手运动皮层的兴奋性。
+
+parch: 英[pɑːtʃ] 美[pɑːrtʃ]
+$vt. 烤，烘；使干透
+%vi. 焦干；烤干
+    The hot sun parched the bare earth below.
+#火辣辣的太阳灼烤着光秃秃的大地。
+
+goldbrick: 英[ˈɡəʊldbrɪk] 美[ˈɡoʊldbrɪk]
+$n. 懒汉；假金砖；赝品
+$vi. 称病
+%vt. 欺诈；偷懒
+    The painting proved to be a goldbrick.
+#这幅油画被证明是个质品。
+
+bombast: 英[ˈbɒmbæst] 美[ˈbɑːmbæst]
+$n. 夸大的言辞
+%adj. 夸大的
+    There was no bombast or conceit in his speech.
+#他的演讲并没有夸大其词和自吹自擂。
+
+glower: 英[ˈɡlaʊə(r)] 美[ˈɡlaʊər]
+$vi. 怒视，瞪眼看
+%n. 愠怒的面色
+    The defendant glowered defiantly at the judge as she sentenced him to life imprisonment.
+#当被告被判终身监禁时，他不服地怒视着法官。
+
+=======
+mentor: 英[ˈmentɔː(r)] 美[ˈmentər]
+$n. 导师，指导者
+%v. 给予培训
+    The old writer was his mentor and friend.
+#那位老作家是他的导师和朋友。
+
+knotty: 英[ˈnɒti] 美[ˈnɑːti]
+%adj. 难以解决的，棘手的；（木头表面）多节（疤）的
+    a knotty rope
+#有节的绳索
+    a knotty problem
+#棘手的问题
+
+inspired: 英[ɪnˈspaɪəd] 美[ɪnˈspaɪərd]
+$adj. 品质优秀的，能力卓越的；受……影响的；（空气等物质）吸入的
+%v. 激励，鼓舞；赋予灵感，激发（想法）；使产生（感觉或情感）（inspire 的过去式和过去分词形式）
+    inspired prophets
+#受神灵启示的先知们
+    an inspired moment
+#在灵感支配下的一刹那
+    an inspired performance
+#精彩的演出
+    the inspired air
+#吸入的空气
+
+familiarity: 英[fəˌmɪliˈærəti] 美[fəˌmɪliˈærəti]
+%n. 精通，通晓；熟悉，亲切感；随便，冒昧
+    familiarity with English history
+#通晓英国史
+    treat sb. with familiarity
+#亲昵地对待某人
+
+patriotism: 英[ˈpætriətɪzəm] 美[ˈpeɪtriətɪzəm]
+%n. 爱国主义，爱国精神
+    A wave of patriotism seems to have swept the country.
+#一股爱国主义浪潮似乎席卷了这个国家。
+
+abstentious: 英[əbˈstenʃəs] 美[əbˈstenʃəs]
+%adj. 有节制的
+    an abstentious meal
+#节俭的一餐
+    He has had a very abstentious life since he became a Christian.
+#成为基督徒后，他就过着种很有节制的生活。
+
+rectitude: 英[ˈrektɪtjuːd] 美[ˈrektɪtuːd]
+%n. 公正；诚实；清廉
+    spirit of rectitude
+#正直无私的精神
+    rectitude of judgment
+#判断的正确
+    She was convinced of the rectitude of her decision.
+#她相信自己的决定是正确的。
+
+sibyl: 英[ˈsɪb(ə)l] 美[ˈsɪb(ə)l]
+$n. 女巫；女预言家
+%n. （Sibyl）人名；（英）西比尔
+    At the beginning of the war, the king asked the sibyl which side she thought would win.
+#战争开始时，国王向女预言家询问哪一方将赢。
+
+zephyr: 英[ˈzefə(r)] 美[ˈzefər]
+%n. 和风；西风；轻薄织物
+    The fresh, clear air, moved agreeably by a zephyr breeze, held a scent of jasmine.
+#和风吹动的清新空气传来莱莉花香。
+
+spurt: 英[spɜːt] 美[spɜːrt]
+$v. 喷射，喷出；冲刺，迸发
+%n. 涌出的液体，喷出的火舌；短时激增，迸发
+    a spurt of flame
+#一股火焰
+    a spurt in unemployment
+#失业的激增
+    Rain came down in sudden torrential spurts.
+#雨突然瓢泼而下。
+
+preposterous: 英[prɪˈpɒstərəs] 美[prɪˈpɑːstərəs]
+%adj. 荒谬的；可笑的
+    a preposterous situation
+#反常的情况
+    a preposterous idea
+#荒谬的想法
+
+etymology: 英[ˌetɪˈmɒlədʒi] 美[ˌetɪˈmɑːlədʒi]
+%n. 词源，词源学
+    At university she developed an interest in etymology.
+#在大学里，她对词源学产生了兴趣。
+
+piquant: 英[ˈpiːkənt] 美[ˈpiːkənt]
+%adj. 辛辣的；活泼的；痛快的；顽皮的；刺激的
+    piquant pickles
+#辣味泡菜
+    a piquant piece of news
+#一则振奋人心的消息
+    a piquant wit
+#妙趣横生的巧语
+
+backset: 英[ˈbækˌset] 美[ˈbækˌset]
+%n. 涡流；逆流；倒退；挫折
+    The backset has really disheartened him.
+#这个挫折确实使他垂头丧气。
+
+typhoon: 英[taɪˈfuːn] 美[taɪˈfuːn]
+%n. （印度洋及西太平洋的）台风
+    A 18,000 ton vessel went down during a typhoon in the sea.
+#在一场台风中，一艘18000吨的轮船在海中沉没了。
+
+ungrudging: 英[ʌnˈɡrʌdʒɪŋ] 美[ʌnˈɡrʌdʒɪŋ]
+%adj. 情愿的；慷慨的
+    ungrudging efforts
+#无怨言的埋头努力
+    ungrudging admiration
+#由衷的钦佩
+
+double-cross: 英[ˌdʌb(ə)l ˈkrɒs] 美[ˌdʌb(ə)l ˈkrɔːs]
+$v. 欺骗，出卖
+%n. 欺骗行为
+    Now you have seen how they will double-cross you.
+#现在你看到了他们将如何欺骗你。
+
+multiplicity: 英[ˌmʌltɪˈplɪsəti] 美[ˌmʌltɪˈplɪsəti]
+%n. 多样性；[物] 多重性
+    the multiplicity of nature
+#大自然的多样性
+    a multiplicity of duties
+#繁多的职责
+
+behoove: 英[bɪˈhuːv] 美[bɪˈhuːv]
+$vt. 理应；对……有此必要
+$vi. 有必要；理所当然
+%n. 适宜
+    a quality that behooves a scholar
+#学者应具有的品质
+    It behooves us to know as much as possible about the matter.
+#我们理应尽多地了解关于这个问题的情况。
+
+informer: 英[ɪnˈfɔːmə(r)] 美[ɪnˈfɔːrmər]
+%n. 告密者；通知者；控告人
+    An informer told the police that the shop was selling the stolen jewelry.
+#一告密者向警方告发家商店在销售失窃的珠宝。
+
+footle: 英[ˈfuːt(ə)l] 美[ˈfʊt(ə)l]
+$v. 做笨事；说呆话；浪费时间
+%n. 呆话；傻事
+    He is footling around the city.
+#他在城中闲逛
+
+restorative: 英[rɪˈstɒrətɪv] 美[rɪˈstɔːrətɪv]
+$adj. 有助于复元的，恢复健康的；整容的，整形的；滋补的
+%n. 滋补剂；恢复药；补酒
+    The government has promised 500 million restorative dollars.
+#政府已允诺拨款500万美元用于恢复工作。
+
+striated: 英[ˌstraɪˈeɪtɪd] 美[ˈstraɪeɪtɪd]
+$adj. 有条纹的；有线纹的
+%v. 加条纹（striate 的过去分词）
+    a violently striated look
+#一副满横肉的相貌
+
+sustained: 英[səˈsteɪnd] 美[səˈsteɪnd]
+$adj. 持续的，持久的；坚定的，坚持不懈的
+%v. 维持，保持；遭受，经受；（在体力或精神方面）支持，支撑（sustain 的过去式和过去分词）
+    a period of sustained economic growth
+#经济持续增长期
+    The enemy mounted a sustained attack on the castle.
+#敌人对城堡发起了持续的攻击。
+
+pluralism: 英[ˈplʊərəlɪzəm] 美[ˈplʊrəlɪzəm]
+%n. <正式>多元化，多元性；<正式>多元主义；<正式>（尤指在教会）身兼多职；多党论，多党制；个体放权自治制；多元文化社会；<哲>多元论，多元制
+    After years of state control, the country is now moving towards religious pluralism.
+#政府控制多年以后，该国正在走向宗教多元化。
+
+welsh: 英[welʃ] 美[welʃ]
+$v. 赖账
+$adj. （Welsh）威尔士的；威尔士人的；威尔士语的；威尔士文化的
+$n. （Welsh）威尔士人；威尔士语；威尔士猪
+%n. （Welsh）（美）韦尔什（人名）
+    welsh on one's debts
+#赖债
+    welsh on one's promise
+#食言
+
+invective: 英[ɪnˈvektɪv] 美[ɪnˈvektɪv]
+$n. 恶言谩骂，咒骂；猛烈抨击
+%adj. 谩骂的；恶言的
+    a speech filled with invective
+#充满猛烈抨击的演说
+    He sometimes let loose great invective against the things he hates.
+#他有时对自己所痛恨的事物破口大骂。
+
+jovial: 英[ˈdʒəʊviəl] 美[ˈdʒoʊviəl]
+%adj. 天性快活的；主神朱庇特的
+    a jovial evening
+#愉快的夜晚
+    speak in a jovial mood
+#以愉快的心情说
+
+libelous: 英[ˈlaɪbələs] 美[ˈlaɪbələs]
+%adj. 诽谤的；损害名誉的；用言语中伤他人的
+    a libelous article
+#有诽谤文字的文章
+    a libelous tongue
+#好造谣诽谤的嘴
+
+advert: 英[ˈædvɜːt] 美[ˈædvɜːrt]
+$n. <英>广告
+%vi. 提及
+    She adverted to a topic mentioned earlier by another speaker.
+#她评论了先前另一个演讲人提到过的问题。
+
+inveigh: 英[ɪnˈveɪ] 美[ɪnˈveɪ]
+%vi. 痛骂；漫骂；猛烈抨击
+    inveigh against military dictatorship
+#猛烈押击军事独裁
+
+lithe: 英[laɪð] 美[laɪð]
+%adj. 轻盈的（等于 lithesome）；柔软的；易弯曲的
+    a lithe vine
+#柔软的藤
+
+forbidding: 英[fəˈbɪdɪŋ] 美[fərˈbɪdɪŋ]
+$v. 禁止；不准（某人）做某事；（使）……不可能做某事，妨碍（forbid 的现在分词）
+%adj. （外表）冷峻的，令人生畏的；令人厌恶的；险恶的
+    a forbidding task
+#讨厌的工作
+    a forbidding coast
+#险峻的海岸
+    forbidding clouds
+#令人生畏的云
+    The headmaster seems stern and forbidding.
+#校长看起来很严厉，令人望而生畏。
+
+bleary: 英[ˈblɪəri] 美[ˈblɪri]
+%adj. 朦胧的；眼睛模糊的
+    a bleary view
+#朦陇的景色
+    Her eyes were bleary with fatigue.
+#她累得视线都模糊了。
+
+spiel: 英[ʃpiːl] 美[ʃpiːl]
+$n. 流利夸张的讲话，招揽生意的言辞
+$v. 喋喋不休地高谈阔论；演奏音乐
+%n. （Spiel）（美、巴、匈）施皮尔（人名）
+    make a spiel
+#夸夸其谈
+    He's always spieling about the "values of poetry".
+#他总是夸夸其谈地讲“诗的价值”。
+
+iota: 英[aɪˈəʊtə] 美[aɪˈoʊtə]
+$n. 极微小；希腊语的第九个字母
+%n. （Iota）人名；（日）庵田（姓）；（希、罗）约塔
+    She hadn't an iota of proof.
+#她一点证据也没有。
+
+insouciant: 英[ɪnˈsuːsiənt] 美[ɪnˈsuːsiənt]
+%adj. 漫不经心的，漠不关心的；无忧无虑的
+    a gay insouciant person
+#快活逍遥的人
+
+stolid: 英[ˈstɒlɪd] 美[ˈstɑːlɪd]
+%adj. 迟钝的；缺乏热情的；冷漠的
+    He was a rather stolid, serious type.
+#他是那种本正经不太喜形于色的人。
+
+piddling: 英[ˈpɪd(ə)lɪŋ] 美[ˈpɪd(ə)lɪŋ]
+$adj. 琐屑的；无用的；不重要的
+%v. 撒尿；鬼混（piddle 的 ing 形式）
+    a piddling salary
+#微薄的薪金
+
+bonny: 英[ˈbɒni] 美[ˈbɑːni]
+$adj. 漂亮的；健美的；相当大的；相当多的；（婴儿）胖乎乎的
+$adv. 愉快地；好地
+$n. 宝贝（用作称呼）
+%n. （Bonny）（美、法、英、瑞、俄、比）邦尼（人名）
+    a bonny baby
+#健康漂亮的婴儿
+
+incision: 英[ɪnˈsɪʒ(ə)n] 美[ɪnˈsɪʒ(ə)n]
+%n. 切口，切痕；雕，切开；雕刻出来的标识（或装饰品）
+    the surgeon's skilful incision of the tissues
+#外科医生对机体组织的熟练切开
+
+garble: 英[ˈɡɑːb(ə)l] 美[ˈɡɑːrb(ə)l]
+$v. 断章取义；篡改，歪曲；让（话或信息）变得含混不清，易引起误解
+%n. 断章取义，断章取义之事；混乱的记述；篡改
+    garble a quotation.
+#篡改引文
+    a garble report of a speech
+#对一次讲话的歪曲报道
+
+jocund: 英[ˈdʒɒkənd] 美[ˈdʒɑːkənd]
+%adj. 快活的；高兴的；有幽默性情的
+    a jocund companion
+#一个乐呵呵的伴儿
+
+sorcery: 英[ˈsɔːsəri] 美[ˈsɔːrsəri]
+%n. 魔术，巫术
+    Even today some people still believe in sorcery.
+#即使在今天，有些人仍然相信巫术。
+
+antic: 英[ˈæntɪk] 美[ˈæntɪk]
+$adj. 古怪的；滑稽可笑的
+$n. 滑稽动作；丑角
+$vi. 扮小丑；做滑稽动作
+%n. (Antic)人名；(法)安蒂克
+    The clown amused the audience by his childish antics.
+#小丑用幼稚的滑稽动作使观众们发笑。
+
+crescendo: 英[krəˈʃendəʊ] 美[krəˈʃendoʊ]
+$n. 声音渐增
+$adv. 渐次加强地
+$adj. 渐强的
+%vi. 音量逐渐增强
+    The gale reached its crescendo in the evening.
+#傍晚时大风风力达到最强。
+
+pillage: 英[ˈpɪlɪdʒ] 美[ˈpɪlɪdʒ]
+$v. （尤指在战争中）掠夺，抢劫
+%n. （尤指在战争中）掠夺，抢劫；掠夺物
+    rape and pillage
+#奸淫掠夺
+    Waves of invaders pillaged towns along the coast without anyone being able to stop them.
+#一批批人侵者掠夺沿岸的城镇，无人能阻挡他们。
+
+unprepossessing: 英[ˌʌnˌpriːpəˈzesɪŋ] 美[ˌʌnˌpriːpəˈzesɪŋ]
+%adj. 不吸引人的；不讨人喜欢的
+    an unprepossessing place
+#不起眼的地方
+    She was externally very unprepossessing.
+#她的外表很不吸引人。
+
+peaky: 英[ˈpiːki] 美[ˈpiːki]
+%adj. 有病的，憔悴的，苍白的；尖峰的
+    a peaky face
+#尖脸
+
+acarpous: 英[eɪˈkɑːpəs] 美[eɪˈkɑːrpəs]
+%adj. 不结果的；[植] 无果实的
+    an acarpous tree
+#不结果的树
+
+adherent: 英[ədˈhɪərənt] 美[ədˈhɪrənt]
+$n. （政党、思想的）拥护者
+%adj. 粘着的；遵守的；（植物）联生的
+    an adherent substance
+#黏性物质
+    This idea is gaining adherents.
+#这种观念正在赢得支持者。
+
+gustation: 英[ɡʌˈsteɪʃən] 美[ɡəsˈteɪʃən]
+%n. 味觉；品尝
+    Appreciating both the landscapes and delicacies, you can start the dual enjoyment of vision and gustation here.
+#赏自然美景，品山水佳肴，视觉和味觉的双重盛宴从这里开始。
+
+secretive: 英[ˈsiːkrətɪv] 美[ˈsiːkrətɪv]
+%adj. （人，组织）保密的，守口如瓶的；（状态，活动）隐瞒的，秘密的；（人的表情，举止）难解的，诡秘的
+    a secretive air
+#讳莫如深的样子
+    She's very secretive about money matters.
+#她对钱财之事一向守口如瓶。
+
+narcissist: 英[ˈnɑːsɪsɪst] 美[ˈnɑːrsɪsɪst]
+%n. 自我陶醉者
+    What a narcissist he must be -- all these mirrors everywhere.
+#他一定是个十足的自恋狂——这里到处都是镜子。
+
+lissome: 英[ˈlɪsəm] 美[ˈlɪsəm]
+%adj. 柔软的；敏捷的
+    a lissome dancing girl
+#轻快而优雅的舞女
+
+excitability: 英[ɪkˌsaɪtəˈbɪləti] 美[ɪkˌsaɪtəˈbɪləti]
+%n. [生理] 兴奋性，应激性；可激发性
+    Speech production increased the excitability of hand motor cortex. 
+#言语产生可增加手运动皮层的兴奋性。
+
+parch: 英[pɑːtʃ] 美[pɑːrtʃ]
+$vt. 烤，烘；使干透
+%vi. 焦干；烤干
+    The hot sun parched the bare earth below.
+#火辣辣的太阳灼烤着光秃秃的大地。
+
+goldbrick: 英[ˈɡəʊldbrɪk] 美[ˈɡoʊldbrɪk]
+$n. 懒汉；假金砖；赝品
+$vi. 称病
+%vt. 欺诈；偷懒
+    The painting proved to be a goldbrick.
+#这幅油画被证明是个质品。
+
+bombast: 英[ˈbɒmbæst] 美[ˈbɑːmbæst]
+$n. 夸大的言辞
+%adj. 夸大的
+    There was no bombast or conceit in his speech.
+#他的演讲并没有夸大其词和自吹自擂。
+
+glower: 英[ˈɡlaʊə(r)] 美[ˈɡlaʊər]
+$vi. 怒视，瞪眼看
+%n. 愠怒的面色
+    The defendant glowered defiantly at the judge as she sentenced him to life imprisonment.
+#当被告被判终身监禁时，他不服地怒视着法官。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

@@ -1,0 +1,567 @@
+<<<<<<< HEAD
+procurement:
+    They are reported to have a substantial budget for the procurement of military supplies.
+#据报道，他们在采购军事用品方面有大量预算。
+
+sprawling:
+    sprawling handwriting
+#潦草的笔记
+    There were plants sprawling all over the place.
+#那里到处杂乱地生长着各种植物。
+
+domesticated:
+    Sheep and cows are two of the most important domesticated animals.
+#牛和羊是两种最重要的家畜。
+
+captivating:
+    Her speeches are full of captivating wit and warmth.
+#她的演讲充满令人着迷的智慧和亲切感。
+
+vacillate:
+    vacillate between hope and despair
+#在希望和绝望之间摇摆不定
+    He vacillated for too long and the opportunity to accept was lost.
+#他犹豫了太多的时间，失去了接受的机会。
+
+polarize:
+    The debate has become polarized and there seems to be no middle ground.
+#争论已经两极化，似乎没有中间立场。
+
+parasitic:
+    a parasitic plant
+#寄生植物
+    a parasitic disease
+#寄生性疾病
+
+benevolent:
+    a benevolent smile
+#和蔼的微笑
+    a benevolent society
+#慈善团体
+    She has a benevolent feeling toward small animals.
+#她对小动物怀有爱心。
+
+castigate:
+    His teacher castigated him for his in attentiveness in class.
+#他的老师因为他在课堂上不专心听讲而严厉批评他。
+
+untouched:
+    be untouched by bullets
+#未被子弹打伤
+    an untouched island
+#保持自然风貌的岛屿
+    Some banknotes had been taken but the credit cards were left untouched.
+#一些钞票被拿走了，但信用卡却原封未动。
+
+portend:
+    It is a deeply superstitions country, where earthquakes are commonly believed to portend the end of dynasties.
+#这是一个很迷信的国家，地震被认为预示着王朝的终结。
+
+rustic:
+    The landlord tried to give the pub a rustic appearance by putting horseshoes and old guns on the walls.
+#房东把马蹄铁和旧枪挂在墙上，想使这个小酒馆显得有乡村风味。
+
+veracity:
+    There is no reason to doubt the veracity of the evidence.
+#(人们)没有理由怀疑证据的真实性。
+
+tenacious:
+    The baby took my finger in its tenacious little fist.
+#那婴儿用小拳头紧紧地擦住我的手指。
+
+renewal:
+    economic renewal
+#经济复兴
+    a renewal of interest in traditional culture
+#对传统文化重新产生兴趣
+    Renewal of a passport can be done at a post office in the country.
+#在该国的邮局可以办理护照的换领手续。
+
+facetious:
+    We grew tired of his facetious remarks.
+#我们听腻了他的俏皮话。
+
+surreptitious:
+    a surreptitious glance
+#偷偷的一瞥
+    a surreptitious meeting
+#私密会议
+    He had been so surreptitious about his drinking that no one realized he had become an alcoholic.
+#他喝酒一向鬼鬼崇崇的，没有人意识到他已经变成了一个酒鬼。
+
+bulky:
+    bulky items
+#大件物品
+    a bulky piece of luggage
+#一件笨重的行李
+    Her padded coat made her look very bulky.
+#穿着棉袄使她显得雁肿。
+
+prodigious:
+    a prodigious amount of water
+#大量的水
+    a prodigious feat
+#惊人的功绩
+    a prodigious speed
+#惊人的速度
+    He had a prodigious appetite.
+#他食量惊人。
+
+abstruse:
+    some abstruse medical topic.
+#某个深奥的医学问题
+
+wanderlust:
+    In July wanderlust took over the whole nation.
+#七月，旅行癖席卷了全国。
+
+sectarianism:
+    political rivalry and sectarianism within our movement
+#我们这场运动内部的政治对立及宗派主义。
+
+reverberate:
+    The house is still reverberating to his hammer blows.
+#屋子里依然回荡着他锤子的敲打声。
+
+hypnotic:
+    go into a hypnotic trance
+#进入催眠状态
+    The beat of the music was strangely hypnotic.
+#这个音乐的节奏有奇怪的催眠作用。
+
+disarray:
+    in complete disarray
+#凌乱不堪
+    She rushed out of the burning house with her clothes in disarray.
+#她衣服凌乱地冲出燃烧的房子。
+
+synonymous:
+    The word "annoyed" is more or less synonymous with "irritated".
+#“annoyed”、“irritated”这两个词多少是同义的。
+
+conventionalize:
+    According to this view, meaning is based on conventionalized conceptual structures. 
+#根据这种观点，意思是根据规约的概念结构。
+
+astounding:
+    astounding facts
+#令人震的事实
+    astounding achievements
+#令人惊叹的成就
+    I find it astounding that you could ever think of doing anything so terrible.
+#你竟然想到要做这么可怕的事，真让我震惊。
+
+chromatic:
+    a chromatic carpet
+#彩色的、地毯
+
+replete:
+    History is replete with examples of population out of control.
+#历史上人口失控的例子比比皆是。
+
+conceptual:
+    The weakness of the proposal was conceptual.
+#这项提议的弱点在概念方面。
+
+precursor:
+    Pure research has often been a precursor to application which gives economic benefits.
+#纯研究往往是具有经济效益的应用的先导。
+
+interplay:
+    The interplay of economic forces makes it difficult to predict accurately the likely effect of the fax changes.
+#经济力量的相互作用使得很难准确预测传真变化可能产生的影响。
+
+outburst:
+    outbursts of laughing
+#一阵大笑
+    an outburst of anger
+#勃然大怒
+    He instantly regretted his outburst.
+#他立刻对自己的一时冲动感到后悔了。
+
+motley:
+    a motley collection of shells
+#一堆各色贝壳
+    a motley prattle of birds
+#百鸟齐鸣声
+    a motley community
+#三教九流
+    There is a motley collection of old furniture in the house.
+#房子里有一批混杂的旧家具。
+
+predictable:
+    Comets appear at predictable times.
+#慧星在预计的时间出现。
+
+blameworthy:
+    She does not feel that she is blameworthy.
+#她并不觉得自己有什么过错。
+
+reigning:
+    the reigning monarch
+#当今君主
+    the reigning heavyweight champion
+#本界重量级冠军
+    She was the reigning beauty of her day.
+#她曾是当时的第一美人。
+
+disenfranchise:
+    Many voters were disenfranchised.
+#许多选民被剥夺了选举权。
+
+charismatic:
+    a charismatic leader
+#具有超凡魅力的领导者
+
+expository:
+    an expository essay
+#说明文
+
+believable:
+    I do not enjoy the film because I did not think the characters were believable.
+#我不喜欢这部电影，因为我觉得其中的人物不真实。
+
+humanistic:
+    Mark has a humanistic view of the world.
+#马克有着人文主义的世界观。
+
+centralize:
+    centralize power in sb.
+#将权力集中在某人手中
+    The economy of the times made it difficult to support centralized rule.
+#那个时期的经济状况使集权统治难以为继。
+
+tussle:
+    an ideological tussle
+#意识形态的争论
+    have a bit of a tussle over the price
+#进行一番讨价还价
+    I tussled with him for a few minutes and managed to wrench the tool from his grasp.
+#我和他扭打了几分钟，好不容易才把他手里的工具板开。
+
+dappled:
+    the dappled shade of a tree
+#阳光斑驳的树荫
+
+obtainable:
+    That particular drug is not obtainable any more in this country.
+#那种药在这个国家已买不到了。
+
+bemused:
+    give sb. a bemused look
+#茫然地看了某人一眼
+    I must admit that I was bemused by his sudden anger.
+#我得承认我确实被他的突然生气弄糊涂了。
+
+inexcusable:
+    It is inexcusable that such young children were left in the house alone.
+#把这么小的孩于独自留在家里是无法原谅的。
+
+gripping:
+    I found the book so gripping that I could not stop reading it from start to finish.
+#我发现这本书如此引人人胜，以至于我能一口气把它读完。
+
+self-righteous:
+    He is so self-righteous that you would think he had never done anything wrong in his life.
+#他是如此自以为是，以至于你会认为他一生中从未做过任何错事。
+
+dilettante:
+    He is a bit of a dilettante as far as wine is concerned.
+#就酒而言，他是个有点外行的人。
+
+interpolate:
+    It would help our readers to understand the technical terms if we interpolate some explanations into the text.
+#如果我们在文本中插人一些解释，将有助于读者理解技术术语。
+
+camaraderie:
+    When you have been climbing alone for hours, there is a tremendous sense of camaraderie when you meet another climber.
+#独自攀山爬了几个小时，当你遇到另一个攀山人时，你们之间会产生一种巨大的同志情谊。
+
+ill-prepared:
+    He came here ill-prepared with few professional skills.
+#他来这里时准备不足，缺乏专业技能。
+
+=======
+procurement:
+    They are reported to have a substantial budget for the procurement of military supplies.
+#据报道，他们在采购军事用品方面有大量预算。
+
+sprawling:
+    sprawling handwriting
+#潦草的笔记
+    There were plants sprawling all over the place.
+#那里到处杂乱地生长着各种植物。
+
+domesticated:
+    Sheep and cows are two of the most important domesticated animals.
+#牛和羊是两种最重要的家畜。
+
+captivating:
+    Her speeches are full of captivating wit and warmth.
+#她的演讲充满令人着迷的智慧和亲切感。
+
+vacillate:
+    vacillate between hope and despair
+#在希望和绝望之间摇摆不定
+    He vacillated for too long and the opportunity to accept was lost.
+#他犹豫了太多的时间，失去了接受的机会。
+
+polarize:
+    The debate has become polarized and there seems to be no middle ground.
+#争论已经两极化，似乎没有中间立场。
+
+parasitic:
+    a parasitic plant
+#寄生植物
+    a parasitic disease
+#寄生性疾病
+
+benevolent:
+    a benevolent smile
+#和蔼的微笑
+    a benevolent society
+#慈善团体
+    She has a benevolent feeling toward small animals.
+#她对小动物怀有爱心。
+
+castigate:
+    His teacher castigated him for his in attentiveness in class.
+#他的老师因为他在课堂上不专心听讲而严厉批评他。
+
+untouched:
+    be untouched by bullets
+#未被子弹打伤
+    an untouched island
+#保持自然风貌的岛屿
+    Some banknotes had been taken but the credit cards were left untouched.
+#一些钞票被拿走了，但信用卡却原封未动。
+
+portend:
+    It is a deeply superstitions country, where earthquakes are commonly believed to portend the end of dynasties.
+#这是一个很迷信的国家，地震被认为预示着王朝的终结。
+
+rustic:
+    The landlord tried to give the pub a rustic appearance by putting horseshoes and old guns on the walls.
+#房东把马蹄铁和旧枪挂在墙上，想使这个小酒馆显得有乡村风味。
+
+veracity:
+    There is no reason to doubt the veracity of the evidence.
+#(人们)没有理由怀疑证据的真实性。
+
+tenacious:
+    The baby took my finger in its tenacious little fist.
+#那婴儿用小拳头紧紧地擦住我的手指。
+
+renewal:
+    economic renewal
+#经济复兴
+    a renewal of interest in traditional culture
+#对传统文化重新产生兴趣
+    Renewal of a passport can be done at a post office in the country.
+#在该国的邮局可以办理护照的换领手续。
+
+facetious:
+    We grew tired of his facetious remarks.
+#我们听腻了他的俏皮话。
+
+surreptitious:
+    a surreptitious glance
+#偷偷的一瞥
+    a surreptitious meeting
+#私密会议
+    He had been so surreptitious about his drinking that no one realized he had become an alcoholic.
+#他喝酒一向鬼鬼崇崇的，没有人意识到他已经变成了一个酒鬼。
+
+bulky:
+    bulky items
+#大件物品
+    a bulky piece of luggage
+#一件笨重的行李
+    Her padded coat made her look very bulky.
+#穿着棉袄使她显得雁肿。
+
+prodigious:
+    a prodigious amount of water
+#大量的水
+    a prodigious feat
+#惊人的功绩
+    a prodigious speed
+#惊人的速度
+    He had a prodigious appetite.
+#他食量惊人。
+
+abstruse:
+    some abstruse medical topic.
+#某个深奥的医学问题
+
+wanderlust:
+    In July wanderlust took over the whole nation.
+#七月，旅行癖席卷了全国。
+
+sectarianism:
+    political rivalry and sectarianism within our movement
+#我们这场运动内部的政治对立及宗派主义。
+
+reverberate:
+    The house is still reverberating to his hammer blows.
+#屋子里依然回荡着他锤子的敲打声。
+
+hypnotic:
+    go into a hypnotic trance
+#进入催眠状态
+    The beat of the music was strangely hypnotic.
+#这个音乐的节奏有奇怪的催眠作用。
+
+disarray:
+    in complete disarray
+#凌乱不堪
+    She rushed out of the burning house with her clothes in disarray.
+#她衣服凌乱地冲出燃烧的房子。
+
+synonymous:
+    The word "annoyed" is more or less synonymous with "irritated".
+#“annoyed”、“irritated”这两个词多少是同义的。
+
+conventionalize:
+    According to this view, meaning is based on conventionalized conceptual structures. 
+#根据这种观点，意思是根据规约的概念结构。
+
+astounding:
+    astounding facts
+#令人震的事实
+    astounding achievements
+#令人惊叹的成就
+    I find it astounding that you could ever think of doing anything so terrible.
+#你竟然想到要做这么可怕的事，真让我震惊。
+
+chromatic:
+    a chromatic carpet
+#彩色的、地毯
+
+replete:
+    History is replete with examples of population out of control.
+#历史上人口失控的例子比比皆是。
+
+conceptual:
+    The weakness of the proposal was conceptual.
+#这项提议的弱点在概念方面。
+
+precursor:
+    Pure research has often been a precursor to application which gives economic benefits.
+#纯研究往往是具有经济效益的应用的先导。
+
+interplay:
+    The interplay of economic forces makes it difficult to predict accurately the likely effect of the fax changes.
+#经济力量的相互作用使得很难准确预测传真变化可能产生的影响。
+
+outburst:
+    outbursts of laughing
+#一阵大笑
+    an outburst of anger
+#勃然大怒
+    He instantly regretted his outburst.
+#他立刻对自己的一时冲动感到后悔了。
+
+motley:
+    a motley collection of shells
+#一堆各色贝壳
+    a motley prattle of birds
+#百鸟齐鸣声
+    a motley community
+#三教九流
+    There is a motley collection of old furniture in the house.
+#房子里有一批混杂的旧家具。
+
+predictable:
+    Comets appear at predictable times.
+#慧星在预计的时间出现。
+
+blameworthy:
+    She does not feel that she is blameworthy.
+#她并不觉得自己有什么过错。
+
+reigning:
+    the reigning monarch
+#当今君主
+    the reigning heavyweight champion
+#本界重量级冠军
+    She was the reigning beauty of her day.
+#她曾是当时的第一美人。
+
+disenfranchise:
+    Many voters were disenfranchised.
+#许多选民被剥夺了选举权。
+
+charismatic:
+    a charismatic leader
+#具有超凡魅力的领导者
+
+expository:
+    an expository essay
+#说明文
+
+believable:
+    I do not enjoy the film because I did not think the characters were believable.
+#我不喜欢这部电影，因为我觉得其中的人物不真实。
+
+humanistic:
+    Mark has a humanistic view of the world.
+#马克有着人文主义的世界观。
+
+centralize:
+    centralize power in sb.
+#将权力集中在某人手中
+    The economy of the times made it difficult to support centralized rule.
+#那个时期的经济状况使集权统治难以为继。
+
+tussle:
+    an ideological tussle
+#意识形态的争论
+    have a bit of a tussle over the price
+#进行一番讨价还价
+    I tussled with him for a few minutes and managed to wrench the tool from his grasp.
+#我和他扭打了几分钟，好不容易才把他手里的工具板开。
+
+dappled:
+    the dappled shade of a tree
+#阳光斑驳的树荫
+
+obtainable:
+    That particular drug is not obtainable any more in this country.
+#那种药在这个国家已买不到了。
+
+bemused:
+    give sb. a bemused look
+#茫然地看了某人一眼
+    I must admit that I was bemused by his sudden anger.
+#我得承认我确实被他的突然生气弄糊涂了。
+
+inexcusable:
+    It is inexcusable that such young children were left in the house alone.
+#把这么小的孩于独自留在家里是无法原谅的。
+
+gripping:
+    I found the book so gripping that I could not stop reading it from start to finish.
+#我发现这本书如此引人人胜，以至于我能一口气把它读完。
+
+self-righteous:
+    He is so self-righteous that you would think he had never done anything wrong in his life.
+#他是如此自以为是，以至于你会认为他一生中从未做过任何错事。
+
+dilettante:
+    He is a bit of a dilettante as far as wine is concerned.
+#就酒而言，他是个有点外行的人。
+
+interpolate:
+    It would help our readers to understand the technical terms if we interpolate some explanations into the text.
+#如果我们在文本中插人一些解释，将有助于读者理解技术术语。
+
+camaraderie:
+    When you have been climbing alone for hours, there is a tremendous sense of camaraderie when you meet another climber.
+#独自攀山爬了几个小时，当你遇到另一个攀山人时，你们之间会产生一种巨大的同志情谊。
+
+ill-prepared:
+    He came here ill-prepared with few professional skills.
+#他来这里时准备不足，缺乏专业技能。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

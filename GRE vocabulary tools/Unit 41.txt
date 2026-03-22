@@ -1,0 +1,783 @@
+<<<<<<< HEAD
+impermeability: 英[ɪmˌpɜːmɪəˈbɪləti] 美[ɪmˌpɜːrmɪəˈbɪləti]
+%n. 不渗透性；不透过性；不能渗透的性质或状态
+    Air-entraining agent increases impermeability of hybrid fiber concrete. 
+#引气剂有助于提高混杂纤维混凝土的抗渗性。
+
+furor: 英[ˈfjʊərɔː(r)] 美[ˈfjʊrər]
+%n. 狂热；激怒；喧闹；感动
+    the furor of storms
+#暴风雨的肆虐
+    The government's decision to raise taxes has caused a great furor.
+#政府增加税收的决定引起了轩然大波。
+
+enfetter: 英[ɪnˈfetə(r)] 美[ɪnˈfetər]
+%vt. 束缚；上脚镣；使为奴隶
+    enfetter people's minds
+#束缚人们的思想
+
+asinine: 英[ˈæsɪnaɪn] 美[ˈæsɪnaɪn]
+%adj. 驴的；愚蠢的，固执的；驴子似的
+    It's asinine of him to have asked such a question.
+#对他来说提出这样的问题也太蠢了。
+
+abash: 英[əˈbæʃ] 美[əˈbæʃ]
+%vt. 使困窘；使羞愧；使局促不安
+    He looked rather abashed at her criticisms.
+#她的批评使他看上去相当窘迫。
+
+moody: 英[ˈmuːdi] 美[ˈmuːdi]
+%adj. 情绪不好的，脾气坏的；喜怒无常的，情绪多变的；令人忧郁的，令人悲伤的；神秘的，营造某种气氛的；不友好的
+    sit in moody silence
+#闷闷不乐地坐着一言不发
+    She turned moody at the thought of the dear departed.
+#想到死去的亲人，她的面色就变得很优郁。
+
+cacophony: 英[kəˈkɒfəni] 美[kəˈkɑːfəni]
+%n. 刺耳的音调；不和谐音
+    a cacophony of opinions
+#纷纭的意见
+    The wind screamed in a frightening cacophony.
+#风呼啸着发出尖锐刺耳的可怕声音。
+
+subterfuge: 英[ˈsʌbtəfjuːdʒ] 美[ˈsʌbtərfjuːdʒ]
+%n. 托词；借口；诡计
+    It was clear that he must have obtained the information by subterfuge.
+#很明显他是靠诡计才获得这些资料的。
+
+hardihood: 英[ˈhɑːdɪˌhʊd] 美[ˈhɑːrdiˌhʊd]
+%n. 刚毅，大胆；厚颜；胆大无敌
+    He gave proof of his hardihood.
+#他证明了自己的勇敢。
+
+douse: 英[daʊs] 美[daʊs]
+$v. 浇灭，熄（灯）；使浸入水中；急降（桅帆）
+$n. 沉浸
+%n. （Douse）（美、英）兜斯（人名）
+    douse fruit in cold water
+#将水果浸在冷水中
+    douse oneself with perfume
+#往身上酒香水
+    douse the campfire
+#浇灭营火
+    They doused a car with gasoline and then set it on fire.
+#他们把汽油浇在一辆汽车上，然后点火焚烧。
+
+uproarious: 英[ʌpˈrɔːriəs] 美[ʌpˈrɔːriəs]
+%adj. 骚动的；喧嚣的
+    an uproarious crowd
+#喧闹的人群
+    an uproarious comedy
+#令人捧腹的喜剧
+    an uproarious burst of laughter
+#哄然大笑
+    It was a very amusing play with an uproarious final act.
+#那是一部非常有趣的戏剧，最后一幕令人捧腹。
+
+affected: 英[əˈfektɪd] 美[əˈfektɪd]
+$adj. 做作的，不自然的；被（外界因素）影响的，打动的
+%v. 影响；（疾病）侵袭，感染；（在感情上）深深打动，震撼（affect 的过去式和过去分词）
+    an affected person
+#做作的人
+    an affected diction
+#矫揉造作的用词
+    I hate that affected smile of hers.
+#我讨厌她那虚假的微笑。
+
+elephantine: 英[ˌelɪˈfæntaɪn] 美[ˌeləˈfæntiːn]
+%adj. 似象的；巨大的；粗笨的，笨拙的
+    elephantine humor
+#笨拙的幽默
+    be elephantine in one's gait
+#步履笨重
+    All his limbs were elephantine.
+#他的四肢都特别粗壮。
+
+churl: 英[tʃɜːl] 美[tʃɜːrl]
+%n. 吝啬鬼；乡下人；粗暴的人；（中世纪的）农民
+    He must have had some ups and downs in life to make him such a churl. 
+#他一生一定经历过一些坎坷，才使他变成这么一个粗暴的人。
+
+churn: 英[tʃɜːn] 美[tʃɜːrn]
+$n. （炼制黄油用的）搅乳器；<英>奶桶；人事变更率，客户流失率，货物周转率；炒单
+%v. （使）（水、烂泥等）剧烈翻腾；打破（地的）表面；（因紧张、厌恶等）恶心，反胃；（使）感到不安，心烦意乱；（为炼制黄油）用搅乳器搅拌（牛奶，乳酪）；转动；（经纪人）鼓励频繁（投资）周转额（以赚取佣金）
+    churn the milk
+#搅拌牛奶
+    a butter churn
+#黄油搅拌器
+    churn out
+#粗制滥造
+    Vast crowds had churned the field into a sea of mud.
+#大批大批的人把场地踩得一片泥泞。
+
+collage: 英[ˈkɒlɑːʒ] 美[kəˈlɑːʒ]
+$n. 抽象拼贴画（用报纸、布、压平的花等碎片拼合而成的）
+%vt. 把…创作成拼贴画，拼贴
+    The children made a collage of postcards.
+#孩子们用明信片做了一张拼贴画。
+
+ulcerate: 英[ˈʌlsəreɪt] 美[ˈʌlsəreɪt]
+$vi. 形成溃疡，溃烂
+%vt. 使溃疡；使腐败
+    Continued worry ulcerated her stomach.
+#不断的担忧使她患了胃溃疡。
+
+burlesque: 英[bɜːˈlesk] 美[bɜːrˈlesk]
+$n. 滑稽讽刺表演（或作品）；（尤指文学或戏剧作品中的）滑稽模仿作品；滑稽娱乐（曾经风靡美国，常伴有脱衣舞），滑稽歌舞杂剧；滑稽剧；滑稽场面
+%v. 模仿嘲弄；取笑
+    His latest play features satire and burlesque.
+#他最近的剧作充满讽刺与嘲弄。
+
+blooming: 英[ˈbluːmɪŋ] 美[ˈbluːmɪŋ]
+$adj. 盛开的；妙龄的；该死的；十足的
+%v. 开花；繁荣；发光；给（透镜）敷膜；把（金属）压成块（bloom 的现在分词）
+    blooming shrubs
+#开着花的灌木
+    a blooming business
+#兴隆的事业
+    a blooming idiot
+#大傻瓜
+
+flimflam: 英[ˈflɪmflæm] 美[ˈflɪmflæm]
+$n. 胡说，胡扯；欺骗；荒唐
+$vt. 欺骗，诈骗
+%adj. 荒唐的；胡说的
+    flimflam arguments
+#荒谬的论点
+    When they asked the management about their future plans, all they got was flimflam.
+#当他们询间管理人员将来的计划时，他们得到的只是些扯皮的话。
+
+wheeze: 英[wiːz] 美[wiːz]
+$v. 喘息；喘息地说出；气喘吁吁地走动；（器械）气喘似的响
+%n. 喘息声；（非正式）巧妙主意；（不再好笑的）过时笑话
+    I could hear the old man behind me wheezing.
+#能听到我后面的老人呼哧呼味的喘息声
+
+dint: 英[dɪnt] 美[dɪnt]
+$n. 凹痕
+%vt. 击出凹痕
+    by dint of
+#由于
+    The cattle's bones stuck out by dint of hunger.
+#那些牛由于饥饿而瘦骨嶙峋。
+
+germicide: 英[ˈdʒɜːmɪsaɪd] 美[ˈdʒɜːrmɪsaɪd]
+%n. 杀菌剂，杀菌物
+    There are many kinds of germicide, which have different ecological effects to plant pathogenic bacteria.
+#杀菌剂种类很多，它们对植物病原菌的生态效应也各不相同。
+
+nil: 英[nɪl] 美[nɪl]
+%n. 无；零，零分
+    nil profits
+#无利润
+    Team A beat Team B by three goals to nil.
+#A队以3：0战胜B队。
+
+feline: 英[ˈfiːlaɪn] 美[ˈfiːlaɪn]
+$adj. 猫科的；猫一样的；狡猾的
+$n. 猫科动物
+%n. （Feline）人名；（法）弗利纳
+    a feline look
+#狡黠的神色
+    They've got a wildlife park with tigers and various other felines.
+#他们有一个野生动物园，里面有老虎和各种其他猫科动物。
+
+lymphatic: 英[lɪmˈfætɪk] 美[lɪmˈfætɪk]
+$adj. 淋巴的；含淋巴的
+%n. 淋巴管；淋巴腺
+    the lymphatic system
+#淋巴系统
+
+abase: 英[əˈbeɪs] 美[əˈbeɪs]
+%v. 表现卑微，卑躬屈膝；使……降低（身份、地位等）
+    The president was not willing to abase himself before the nation, and admitted that he had made a mistake.
+#总统不愿意在全国人民面前降低自己的威信，承认自己犯了错。
+
+leach: 英[liːtʃ] 美[liːtʃ]
+$v. 过滤，滤去；萃取；被过滤，沥滤
+$n. 过滤，过滤过程；过滤器
+%n. （Leach）利奇（人名）
+    Rain water leaches heavy metals out of the dump site and carries them into the local water.
+#雨水滤出垃圾堆里的重金属并把它们带入当地的河流。
+
+infatuate: 英[ɪnˈfætjʊˌeɪt] 美[ɪnˈfætʃuˌeɪt]
+$v. 使糊涂，使冲昏头脑；使迷恋
+$adj. （古）着迷的（同 infatuated）
+%n. 热恋者，迷恋者；被冲昏头脑的人
+    The plot centers on a young farmer who becomes infatuated with his neighbor's daughter.
+#剧情是以一个年轻的农夫迷上了邻居的女儿为中心的。
+
+repressed: 英[rɪˈprest] 美[rɪˈprest]
+$adj. 压抑的，克制的；（情感）被压抑的，被抑制的
+%v. 克制，抑制；镇压，压服；约束，禁锢；使（基因）转录受阻遏（repress 的过去式和过去分词）
+    He is a very repressed child who never speaks.
+#他是一个精神十分压抑而不说话的孩子。
+
+pecan: 英[ˈpiːkən] 美[pɪˈkɑːn]
+%n. 美洲山核桃；美洲山核桃树
+    chopped pecans
+#砍伐了的山核桃树
+
+nomad: 英[ˈnəʊmæd] 美[ˈnoʊmæd]
+$n. 游牧民，游牧部落一员；流浪者，不断更换工作的人
+%adj. 游牧的，流浪的
+    Nomads travel these arid regions with their camel herds.
+#游牧民族带着他们的骆驼群在这些不毛之地漫游。
+
+execrable: 英[ˈeksɪkrəb(ə)l] 美[ˈeksɪkrəb(ə)l]
+%adj. 恶劣的；可憎恨的
+    execrable poetry
+#拙劣的诗
+    I've never heard such an execrable performance of the concerto.
+#我从没听到过演奏得如此糟糕的协奏曲。
+
+lattice: 英[ˈlætɪs] 美[ˈlætɪs]
+$n. [晶体] 晶格；格子；格架
+%vt. 使成格子状
+    a lattice screen
+#格子屏风
+    a lattice window
+#格子窗
+
+noxious: 英[ˈnɒkʃəs] 美[ˈnɑːkʃəs]
+%adj. 有害的；有毒的；败坏道德的；讨厌的
+    a noxious book
+#一本坏书
+    a noxious political scandal
+#可憎的政治丑闻
+    Fumes from the exhaust of an automobile are noxious.
+#汽车排出的废气是有害的。
+
+nifty: 英[ˈnɪfti] 美[ˈnɪfti]
+$adj. 俏皮的；漂亮的
+%n. 俏皮话
+    a nifty addition
+#点睛之笔
+    nifty clothes
+#时髦衣服
+    It's a real nifty book.
+#这是一本名副其实的好书。
+
+furbish: 英[ˈfɜːbɪʃ] 美[ˈfɜːrbɪʃ]
+%v. 更新，翻新；磨光，擦亮
+    furbish a rusty sword
+#擦亮一把生锈的刀
+    furbish up an old town
+#使一座旧城焕然一新
+    I wish to furbish up the French I learned at college
+#我想重温一下我在大学学过的法语
+
+pernickety: 英[pəˈnɪkəti] 美[pərˈnɪkəti]
+%adj. 麻烦的；爱挑剔的；难以取悦的
+    Her pernickety style of managing was highly irritable for everyone
+#她吹毛求疵的管理风格使每个人都不舒服
+
+crass: 英[kræs] 美[kræs]
+$adj. 愚钝的；粗鲁的；非常的
+%n. （Crass）人名；（英）克拉斯
+    crass behavior
+#愚蠢的行为
+    He made a crass error of judgment.
+#他犯了一个愚蠢的判断错误
+
+abrogate: 英[ˈæbrəɡeɪt] 美[ˈæbrəɡeɪt]
+%vt. 废除；取消
+    The treaty was abrogated in 2019.
+#该条约于2019年废除。
+
+duress: 英[djuˈres] 美[duˈres]
+%n. 强迫；监禁
+    He claimed that he signed the confession under duress.
+#他说他是被迫在认罪书上签字的。
+
+aplomb: 英[əˈplɒm] 美[əˈplɑːm]
+%n. 沉着；垂直；泰然自若
+    He delivered the speech with his usual aplomb.
+#他以惯常的沉着语气做了演讲。
+
+iridescence: 英[ˌɪrɪˈdesns] 美[ˌɪrɪˈdes(ə)ns]
+%n. 彩虹色
+    the iridescence of his earliest novels
+#他精彩迷人的早期小说
+
+lactic: 英[ˈlæktɪk] 美[ˈlæktɪk]
+%adj. 乳的；乳汁的
+    lactic acid
+#乳酸
+
+modicum: 英[ˈmɒdɪkəm] 美[ˈmɑːdɪkəm]
+%n. 少量，一点点
+    There's not even a modicum of truth in her statement.
+#在她的话里没有一点真话
+
+myopia: 英[maɪˈəʊpiə] 美[maɪˈoʊpiə]
+%n. 近视；目光短浅，缺乏远见
+    political myopia
+#政治上缺乏远见
+
+boreal: 英[ˈbɔːriəl] 美[ˈbɔːriəl]
+$adj. 北的，北方的；北风的
+%n. （Boreal）人名；（法）博雷亚尔
+    boreal customs
+#北方的风俗
+
+blasé: 英[ˈblɑːzeɪ] 美[blɑːˈzeɪ]
+%adj. 无动于衷的，习以为常的
+    He remained totally blasé about the alarming news.
+#他对于这个令人恐怖的消息全然无动于衷。
+
+comatose: 英[ˈkəʊmətəʊs] 美[ˈkoʊmətoʊs]
+%adj. 昏迷的；昏睡状态的；麻木的；怠惰的
+    The market has been comatose for several months.
+#市场停滞已有数月
+
+exculpate: 英[ˈekskʌlpeɪt] 美[ˈekskʌlpeɪt]
+%vt. 开脱；使无罪
+    Investigation exculpated the driver from the suspicion of having caused the accident.
+#调查结果已排除了司机造成此次车祸的嫌疑。
+
+boulder: 英[ˈbəʊldə(r)] 美[ˈboʊldər]
+%n. （受水或天气侵蚀而成的）巨石，巨砾
+    Severe floods carried 2,000 tons of boulders down to the town, killing 10 people.
+#强大的洪水夹带2 000吨卵石涌人那座小镇，导致10人死亡。
+
+mellifluous: 英[meˈlɪfluəs] 美[meˈlɪfluəs]
+%adj. 流畅的；如蜜般的
+    a mellifluous announcer
+#声音甜美的播报员
+    a mellifluous tone
+#悦耳的音调
+    The mellifluous sound of the violin flew in through the window.
+#小提琴甜美的声音从窗口传人。
+
+clement: 英[ˈklemənt] 美[ˈklemənt]
+%adj. （天气）温和的；（人、行为）仁慈的
+    clement weather
+#温和的天气
+    a clement autumn day
+#温和的秋日
+    a clement judge
+#仁慈的法官
+    It's very clement for the time of year.
+#一年的这个时候天气非常温和。
+
+embolden: 英[ɪmˈbəʊldən] 美[ɪmˈboʊldən]
+%v. （使）有胆量，更勇敢；鼓励；（使）有信心；将文本变成粗体
+    Their encouragement emboldened him to accept the challenge.
+#他们的鼓励使他鼓起勇气接受挑战。
+
+fermentation: 英[ˌfɜːmenˈteɪʃ(ə)n] 美[ˌfɜːrmenˈteɪʃn]
+%n. 发酵
+    Sugar is added to the wine during fermentation to increase the alcohol level.
+#发酵时在葡萄酒里加糖以提高酒精浓度。
+
+unification: 英[ˌjuːnɪfɪˈkeɪʃ(ə)n] 美[ˌjuːnɪfɪˈkeɪʃ(ə)n]
+%n. 联合，统一；联合的行为、实例或过程
+    The traffic laws of the different places need unification.
+#各地的交通法规需要统一。
+
+char: 英[tʃɑː(r)] 美[tʃɑːr]
+$v. （使）烧焦，烧黑；打杂，当清洁工
+%n. 烧焦物；清洁女工；（非正式）茶；红点鲑；（Char）（美）查尔（人名）
+    a charred steak
+#烧焦的牛排
+    Her grandmother charred for the same family for twenty years.
+#她祖母给同一家庭做杂务多达20年。
+
+even-tempered: 英[ˌiːv(ə)n ˈtempəd] 美[ˌiːv(ə)n ˈtempərd]
+%adj. 性情平和的；不易激动的
+    Mark is one of the most even-tempered individuals I know.
+#马克是我认识的脾气最好的人之一。
+
+=======
+impermeability: 英[ɪmˌpɜːmɪəˈbɪləti] 美[ɪmˌpɜːrmɪəˈbɪləti]
+%n. 不渗透性；不透过性；不能渗透的性质或状态
+    Air-entraining agent increases impermeability of hybrid fiber concrete. 
+#引气剂有助于提高混杂纤维混凝土的抗渗性。
+
+furor: 英[ˈfjʊərɔː(r)] 美[ˈfjʊrər]
+%n. 狂热；激怒；喧闹；感动
+    the furor of storms
+#暴风雨的肆虐
+    The government's decision to raise taxes has caused a great furor.
+#政府增加税收的决定引起了轩然大波。
+
+enfetter: 英[ɪnˈfetə(r)] 美[ɪnˈfetər]
+%vt. 束缚；上脚镣；使为奴隶
+    enfetter people's minds
+#束缚人们的思想
+
+asinine: 英[ˈæsɪnaɪn] 美[ˈæsɪnaɪn]
+%adj. 驴的；愚蠢的，固执的；驴子似的
+    It's asinine of him to have asked such a question.
+#对他来说提出这样的问题也太蠢了。
+
+abash: 英[əˈbæʃ] 美[əˈbæʃ]
+%vt. 使困窘；使羞愧；使局促不安
+    He looked rather abashed at her criticisms.
+#她的批评使他看上去相当窘迫。
+
+moody: 英[ˈmuːdi] 美[ˈmuːdi]
+%adj. 情绪不好的，脾气坏的；喜怒无常的，情绪多变的；令人忧郁的，令人悲伤的；神秘的，营造某种气氛的；不友好的
+    sit in moody silence
+#闷闷不乐地坐着一言不发
+    She turned moody at the thought of the dear departed.
+#想到死去的亲人，她的面色就变得很优郁。
+
+cacophony: 英[kəˈkɒfəni] 美[kəˈkɑːfəni]
+%n. 刺耳的音调；不和谐音
+    a cacophony of opinions
+#纷纭的意见
+    The wind screamed in a frightening cacophony.
+#风呼啸着发出尖锐刺耳的可怕声音。
+
+subterfuge: 英[ˈsʌbtəfjuːdʒ] 美[ˈsʌbtərfjuːdʒ]
+%n. 托词；借口；诡计
+    It was clear that he must have obtained the information by subterfuge.
+#很明显他是靠诡计才获得这些资料的。
+
+hardihood: 英[ˈhɑːdɪˌhʊd] 美[ˈhɑːrdiˌhʊd]
+%n. 刚毅，大胆；厚颜；胆大无敌
+    He gave proof of his hardihood.
+#他证明了自己的勇敢。
+
+douse: 英[daʊs] 美[daʊs]
+$v. 浇灭，熄（灯）；使浸入水中；急降（桅帆）
+$n. 沉浸
+%n. （Douse）（美、英）兜斯（人名）
+    douse fruit in cold water
+#将水果浸在冷水中
+    douse oneself with perfume
+#往身上酒香水
+    douse the campfire
+#浇灭营火
+    They doused a car with gasoline and then set it on fire.
+#他们把汽油浇在一辆汽车上，然后点火焚烧。
+
+uproarious: 英[ʌpˈrɔːriəs] 美[ʌpˈrɔːriəs]
+%adj. 骚动的；喧嚣的
+    an uproarious crowd
+#喧闹的人群
+    an uproarious comedy
+#令人捧腹的喜剧
+    an uproarious burst of laughter
+#哄然大笑
+    It was a very amusing play with an uproarious final act.
+#那是一部非常有趣的戏剧，最后一幕令人捧腹。
+
+affected: 英[əˈfektɪd] 美[əˈfektɪd]
+$adj. 做作的，不自然的；被（外界因素）影响的，打动的
+%v. 影响；（疾病）侵袭，感染；（在感情上）深深打动，震撼（affect 的过去式和过去分词）
+    an affected person
+#做作的人
+    an affected diction
+#矫揉造作的用词
+    I hate that affected smile of hers.
+#我讨厌她那虚假的微笑。
+
+elephantine: 英[ˌelɪˈfæntaɪn] 美[ˌeləˈfæntiːn]
+%adj. 似象的；巨大的；粗笨的，笨拙的
+    elephantine humor
+#笨拙的幽默
+    be elephantine in one's gait
+#步履笨重
+    All his limbs were elephantine.
+#他的四肢都特别粗壮。
+
+churl: 英[tʃɜːl] 美[tʃɜːrl]
+%n. 吝啬鬼；乡下人；粗暴的人；（中世纪的）农民
+    He must have had some ups and downs in life to make him such a churl. 
+#他一生一定经历过一些坎坷，才使他变成这么一个粗暴的人。
+
+churn: 英[tʃɜːn] 美[tʃɜːrn]
+$n. （炼制黄油用的）搅乳器；<英>奶桶；人事变更率，客户流失率，货物周转率；炒单
+%v. （使）（水、烂泥等）剧烈翻腾；打破（地的）表面；（因紧张、厌恶等）恶心，反胃；（使）感到不安，心烦意乱；（为炼制黄油）用搅乳器搅拌（牛奶，乳酪）；转动；（经纪人）鼓励频繁（投资）周转额（以赚取佣金）
+    churn the milk
+#搅拌牛奶
+    a butter churn
+#黄油搅拌器
+    churn out
+#粗制滥造
+    Vast crowds had churned the field into a sea of mud.
+#大批大批的人把场地踩得一片泥泞。
+
+collage: 英[ˈkɒlɑːʒ] 美[kəˈlɑːʒ]
+$n. 抽象拼贴画（用报纸、布、压平的花等碎片拼合而成的）
+%vt. 把…创作成拼贴画，拼贴
+    The children made a collage of postcards.
+#孩子们用明信片做了一张拼贴画。
+
+ulcerate: 英[ˈʌlsəreɪt] 美[ˈʌlsəreɪt]
+$vi. 形成溃疡，溃烂
+%vt. 使溃疡；使腐败
+    Continued worry ulcerated her stomach.
+#不断的担忧使她患了胃溃疡。
+
+burlesque: 英[bɜːˈlesk] 美[bɜːrˈlesk]
+$n. 滑稽讽刺表演（或作品）；（尤指文学或戏剧作品中的）滑稽模仿作品；滑稽娱乐（曾经风靡美国，常伴有脱衣舞），滑稽歌舞杂剧；滑稽剧；滑稽场面
+%v. 模仿嘲弄；取笑
+    His latest play features satire and burlesque.
+#他最近的剧作充满讽刺与嘲弄。
+
+blooming: 英[ˈbluːmɪŋ] 美[ˈbluːmɪŋ]
+$adj. 盛开的；妙龄的；该死的；十足的
+%v. 开花；繁荣；发光；给（透镜）敷膜；把（金属）压成块（bloom 的现在分词）
+    blooming shrubs
+#开着花的灌木
+    a blooming business
+#兴隆的事业
+    a blooming idiot
+#大傻瓜
+
+flimflam: 英[ˈflɪmflæm] 美[ˈflɪmflæm]
+$n. 胡说，胡扯；欺骗；荒唐
+$vt. 欺骗，诈骗
+%adj. 荒唐的；胡说的
+    flimflam arguments
+#荒谬的论点
+    When they asked the management about their future plans, all they got was flimflam.
+#当他们询间管理人员将来的计划时，他们得到的只是些扯皮的话。
+
+wheeze: 英[wiːz] 美[wiːz]
+$v. 喘息；喘息地说出；气喘吁吁地走动；（器械）气喘似的响
+%n. 喘息声；（非正式）巧妙主意；（不再好笑的）过时笑话
+    I could hear the old man behind me wheezing.
+#能听到我后面的老人呼哧呼味的喘息声
+
+dint: 英[dɪnt] 美[dɪnt]
+$n. 凹痕
+%vt. 击出凹痕
+    by dint of
+#由于
+    The cattle's bones stuck out by dint of hunger.
+#那些牛由于饥饿而瘦骨嶙峋。
+
+germicide: 英[ˈdʒɜːmɪsaɪd] 美[ˈdʒɜːrmɪsaɪd]
+%n. 杀菌剂，杀菌物
+    There are many kinds of germicide, which have different ecological effects to plant pathogenic bacteria.
+#杀菌剂种类很多，它们对植物病原菌的生态效应也各不相同。
+
+nil: 英[nɪl] 美[nɪl]
+%n. 无；零，零分
+    nil profits
+#无利润
+    Team A beat Team B by three goals to nil.
+#A队以3：0战胜B队。
+
+feline: 英[ˈfiːlaɪn] 美[ˈfiːlaɪn]
+$adj. 猫科的；猫一样的；狡猾的
+$n. 猫科动物
+%n. （Feline）人名；（法）弗利纳
+    a feline look
+#狡黠的神色
+    They've got a wildlife park with tigers and various other felines.
+#他们有一个野生动物园，里面有老虎和各种其他猫科动物。
+
+lymphatic: 英[lɪmˈfætɪk] 美[lɪmˈfætɪk]
+$adj. 淋巴的；含淋巴的
+%n. 淋巴管；淋巴腺
+    the lymphatic system
+#淋巴系统
+
+abase: 英[əˈbeɪs] 美[əˈbeɪs]
+%v. 表现卑微，卑躬屈膝；使……降低（身份、地位等）
+    The president was not willing to abase himself before the nation, and admitted that he had made a mistake.
+#总统不愿意在全国人民面前降低自己的威信，承认自己犯了错。
+
+leach: 英[liːtʃ] 美[liːtʃ]
+$v. 过滤，滤去；萃取；被过滤，沥滤
+$n. 过滤，过滤过程；过滤器
+%n. （Leach）利奇（人名）
+    Rain water leaches heavy metals out of the dump site and carries them into the local water.
+#雨水滤出垃圾堆里的重金属并把它们带入当地的河流。
+
+infatuate: 英[ɪnˈfætjʊˌeɪt] 美[ɪnˈfætʃuˌeɪt]
+$v. 使糊涂，使冲昏头脑；使迷恋
+$adj. （古）着迷的（同 infatuated）
+%n. 热恋者，迷恋者；被冲昏头脑的人
+    The plot centers on a young farmer who becomes infatuated with his neighbor's daughter.
+#剧情是以一个年轻的农夫迷上了邻居的女儿为中心的。
+
+repressed: 英[rɪˈprest] 美[rɪˈprest]
+$adj. 压抑的，克制的；（情感）被压抑的，被抑制的
+%v. 克制，抑制；镇压，压服；约束，禁锢；使（基因）转录受阻遏（repress 的过去式和过去分词）
+    He is a very repressed child who never speaks.
+#他是一个精神十分压抑而不说话的孩子。
+
+pecan: 英[ˈpiːkən] 美[pɪˈkɑːn]
+%n. 美洲山核桃；美洲山核桃树
+    chopped pecans
+#砍伐了的山核桃树
+
+nomad: 英[ˈnəʊmæd] 美[ˈnoʊmæd]
+$n. 游牧民，游牧部落一员；流浪者，不断更换工作的人
+%adj. 游牧的，流浪的
+    Nomads travel these arid regions with their camel herds.
+#游牧民族带着他们的骆驼群在这些不毛之地漫游。
+
+execrable: 英[ˈeksɪkrəb(ə)l] 美[ˈeksɪkrəb(ə)l]
+%adj. 恶劣的；可憎恨的
+    execrable poetry
+#拙劣的诗
+    I've never heard such an execrable performance of the concerto.
+#我从没听到过演奏得如此糟糕的协奏曲。
+
+lattice: 英[ˈlætɪs] 美[ˈlætɪs]
+$n. [晶体] 晶格；格子；格架
+%vt. 使成格子状
+    a lattice screen
+#格子屏风
+    a lattice window
+#格子窗
+
+noxious: 英[ˈnɒkʃəs] 美[ˈnɑːkʃəs]
+%adj. 有害的；有毒的；败坏道德的；讨厌的
+    a noxious book
+#一本坏书
+    a noxious political scandal
+#可憎的政治丑闻
+    Fumes from the exhaust of an automobile are noxious.
+#汽车排出的废气是有害的。
+
+nifty: 英[ˈnɪfti] 美[ˈnɪfti]
+$adj. 俏皮的；漂亮的
+%n. 俏皮话
+    a nifty addition
+#点睛之笔
+    nifty clothes
+#时髦衣服
+    It's a real nifty book.
+#这是一本名副其实的好书。
+
+furbish: 英[ˈfɜːbɪʃ] 美[ˈfɜːrbɪʃ]
+%v. 更新，翻新；磨光，擦亮
+    furbish a rusty sword
+#擦亮一把生锈的刀
+    furbish up an old town
+#使一座旧城焕然一新
+    I wish to furbish up the French I learned at college
+#我想重温一下我在大学学过的法语
+
+pernickety: 英[pəˈnɪkəti] 美[pərˈnɪkəti]
+%adj. 麻烦的；爱挑剔的；难以取悦的
+    Her pernickety style of managing was highly irritable for everyone
+#她吹毛求疵的管理风格使每个人都不舒服
+
+crass: 英[kræs] 美[kræs]
+$adj. 愚钝的；粗鲁的；非常的
+%n. （Crass）人名；（英）克拉斯
+    crass behavior
+#愚蠢的行为
+    He made a crass error of judgment.
+#他犯了一个愚蠢的判断错误
+
+abrogate: 英[ˈæbrəɡeɪt] 美[ˈæbrəɡeɪt]
+%vt. 废除；取消
+    The treaty was abrogated in 2019.
+#该条约于2019年废除。
+
+duress: 英[djuˈres] 美[duˈres]
+%n. 强迫；监禁
+    He claimed that he signed the confession under duress.
+#他说他是被迫在认罪书上签字的。
+
+aplomb: 英[əˈplɒm] 美[əˈplɑːm]
+%n. 沉着；垂直；泰然自若
+    He delivered the speech with his usual aplomb.
+#他以惯常的沉着语气做了演讲。
+
+iridescence: 英[ˌɪrɪˈdesns] 美[ˌɪrɪˈdes(ə)ns]
+%n. 彩虹色
+    the iridescence of his earliest novels
+#他精彩迷人的早期小说
+
+lactic: 英[ˈlæktɪk] 美[ˈlæktɪk]
+%adj. 乳的；乳汁的
+    lactic acid
+#乳酸
+
+modicum: 英[ˈmɒdɪkəm] 美[ˈmɑːdɪkəm]
+%n. 少量，一点点
+    There's not even a modicum of truth in her statement.
+#在她的话里没有一点真话
+
+myopia: 英[maɪˈəʊpiə] 美[maɪˈoʊpiə]
+%n. 近视；目光短浅，缺乏远见
+    political myopia
+#政治上缺乏远见
+
+boreal: 英[ˈbɔːriəl] 美[ˈbɔːriəl]
+$adj. 北的，北方的；北风的
+%n. （Boreal）人名；（法）博雷亚尔
+    boreal customs
+#北方的风俗
+
+blasé: 英[ˈblɑːzeɪ] 美[blɑːˈzeɪ]
+%adj. 无动于衷的，习以为常的
+    He remained totally blasé about the alarming news.
+#他对于这个令人恐怖的消息全然无动于衷。
+
+comatose: 英[ˈkəʊmətəʊs] 美[ˈkoʊmətoʊs]
+%adj. 昏迷的；昏睡状态的；麻木的；怠惰的
+    The market has been comatose for several months.
+#市场停滞已有数月
+
+exculpate: 英[ˈekskʌlpeɪt] 美[ˈekskʌlpeɪt]
+%vt. 开脱；使无罪
+    Investigation exculpated the driver from the suspicion of having caused the accident.
+#调查结果已排除了司机造成此次车祸的嫌疑。
+
+boulder: 英[ˈbəʊldə(r)] 美[ˈboʊldər]
+%n. （受水或天气侵蚀而成的）巨石，巨砾
+    Severe floods carried 2,000 tons of boulders down to the town, killing 10 people.
+#强大的洪水夹带2 000吨卵石涌人那座小镇，导致10人死亡。
+
+mellifluous: 英[meˈlɪfluəs] 美[meˈlɪfluəs]
+%adj. 流畅的；如蜜般的
+    a mellifluous announcer
+#声音甜美的播报员
+    a mellifluous tone
+#悦耳的音调
+    The mellifluous sound of the violin flew in through the window.
+#小提琴甜美的声音从窗口传人。
+
+clement: 英[ˈklemənt] 美[ˈklemənt]
+%adj. （天气）温和的；（人、行为）仁慈的
+    clement weather
+#温和的天气
+    a clement autumn day
+#温和的秋日
+    a clement judge
+#仁慈的法官
+    It's very clement for the time of year.
+#一年的这个时候天气非常温和。
+
+embolden: 英[ɪmˈbəʊldən] 美[ɪmˈboʊldən]
+%v. （使）有胆量，更勇敢；鼓励；（使）有信心；将文本变成粗体
+    Their encouragement emboldened him to accept the challenge.
+#他们的鼓励使他鼓起勇气接受挑战。
+
+fermentation: 英[ˌfɜːmenˈteɪʃ(ə)n] 美[ˌfɜːrmenˈteɪʃn]
+%n. 发酵
+    Sugar is added to the wine during fermentation to increase the alcohol level.
+#发酵时在葡萄酒里加糖以提高酒精浓度。
+
+unification: 英[ˌjuːnɪfɪˈkeɪʃ(ə)n] 美[ˌjuːnɪfɪˈkeɪʃ(ə)n]
+%n. 联合，统一；联合的行为、实例或过程
+    The traffic laws of the different places need unification.
+#各地的交通法规需要统一。
+
+char: 英[tʃɑː(r)] 美[tʃɑːr]
+$v. （使）烧焦，烧黑；打杂，当清洁工
+%n. 烧焦物；清洁女工；（非正式）茶；红点鲑；（Char）（美）查尔（人名）
+    a charred steak
+#烧焦的牛排
+    Her grandmother charred for the same family for twenty years.
+#她祖母给同一家庭做杂务多达20年。
+
+even-tempered: 英[ˌiːv(ə)n ˈtempəd] 美[ˌiːv(ə)n ˈtempərd]
+%adj. 性情平和的；不易激动的
+    Mark is one of the most even-tempered individuals I know.
+#马克是我认识的脾气最好的人之一。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

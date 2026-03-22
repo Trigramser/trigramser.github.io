@@ -1,0 +1,747 @@
+<<<<<<< HEAD
+stimulant: 英[ˈstɪmjələnt] 美[ˈstɪmjələnt]
+$n. 引起兴奋的物质，兴奋剂；刺激物，激励因素；酒精饮料
+%adj. 使兴奋的，刺激性的
+    a banned stimulant
+#禁药
+    stimulants for sagging business
+#刺激日益萎缩的商业
+    Tourism has acted as a stimulant to the country's economy.
+#旅游业成了刺激国家经济发展的一个因素。
+
+incriminate: 英[ɪnˈkrɪmɪneɪt] 美[ɪnˈkrɪmɪneɪt]
+%vt. 控告；暗示……有罪
+    He refused to say anything on the grounds that he might incriminate himself.
+#由于有可能将自己牵连进去，他拒绝说任何事。
+
+wince: 英[wɪns] 美[wɪns]
+$vi. 畏缩，退避
+$n. 畏缩；脸部肌肉的抽搐
+%n. （Wince）人名；（英）温斯
+    bear pain without wincing
+#毫不畏惧地忍受痛苦
+    Her smile became a wince as pain stabbed through her.
+#疼痛钻心时，她的笑容消失了，变得皱眉蹙额。
+
+gobble: 英[ˈɡɒb(ə)l] 美[ˈɡɑːb(ə)l]
+$v. 狼吞虎咽，大口吞食；吞并，攫取；（很快地）大量消耗；（雄火鸡）咯咯叫
+%n. 公火鸡快速的咯咯大叫声
+    gobble ice cream
+#大口大口地吃冰激凌
+    gobble up
+#急切地抓住，消耗掉
+    gobble up a third of the gross national product
+#消耗掉国民生产总值的三分之一
+    Don't gobble, you'll give yourself indigestion.
+#要狼吞虎咽，否则你会消化不良的。
+
+foreshadow: 英[fɔːˈʃædəʊ] 美[fɔːrˈʃædoʊ]
+$vt. 预示；成为……的前兆
+%n. 预兆
+    the foreshadow of a storm
+#暴风雨的预兆
+    The recent outbreak of violence was foreshadowed by isolated incidents in the city earlier this year.
+#最近这座城市爆发的暴乱，其前兆是年初发生的一些孤立事件。
+
+invalidate: 英[ɪnˈvælɪdeɪt] 美[ɪnˈvælɪdeɪt]
+%v. （对论点、声明或理论）驳斥，证明是谬误的；使无效，使作废
+    A contract is invalidated if one party signs it.
+#一方签字的契约是不能生效的。
+
+pitcher: 英[ˈpɪtʃə(r)] 美[ˈpɪtʃər]
+$n. 投手；大水罐
+%n. （Pitcher）人名；（英）皮彻
+    an earthenware pitcher
+#一个陶罐
+    a pitcher of water
+#一壶水
+    pitchers have ears
+#隔墙有耳
+
+disposable: 英[dɪˈspəʊzəb(ə)l] 美[dɪˈspoʊzəb(ə)l]
+$adj. 一次性的，用完即丢弃的；可支配的，可自由使用的；（人，观点）可有可无的，可轻易放弃的
+%n. 一次性用品
+    disposable cups
+#一次性杯子
+    disposable income
+#可支配收入
+    disposable profits
+#净利
+    a disposable towel
+#一次性毛巾
+    Many families are giving up cloth diapers and using disposables.
+#许多家庭放弃了布料尿布，改用一次性用品。
+
+cyclic(al): 英[ˈsaɪklɪk] 美[ˈsaɪklɪk]
+%adj. 环的；循环的；周期的
+    the cyclic movements of the earth round the sun
+#地球绕太阳的环行
+    thirty cyclic years
+#30年周期
+    Change in the economy has followed a cyclic pattern.
+#经济有着周期性变化模式。
+
+restitution: 英[ˌrestɪˈtjuːʃ(ə)n] 美[ˌrestɪˈtuːʃ(ə)n]
+%n. 恢复；赔偿；归还
+    make full restitution to the victims
+#对受害者做出全面赔偿
+    seek restitution for the loss of one's job
+#因失去工作而要求赔偿
+    The government is now demanding the restitution of its ancient treasures that were removed from the country in the 16th century.
+#政府正在要求归还16世纪被运出国的古董文物。
+
+conversant: 英[kənˈvɜːs(ə)nt] 美[kənˈvɜːrs(ə)nt]
+%adj. 熟悉的；精通的；亲近的
+    be conversant with American history
+#谙熟美国历史
+    be deeply conversant with the Platonic philosophy
+#十分精通柏拉图哲学
+    The lawyer asked the judge whether he was conversant with the defendant's family background.
+#律师问法官是否熟悉被告的家庭背景。
+
+demoralize: 英[dɪˈmɒrəlaɪz] 美[dɪˈmɔːrəlaɪz]
+%vt. 使道德败坏；使堕落；使士气低落
+    demoralize the stock market
+#使股市陷人一片混乱
+    Losing several matches in succession had completely demoralized the team.
+#连续几场比赛失利完全挫败了该队的士气。
+
+sacrament: 英[ˈsækrəmənt] 美[ˈsækrəmənt]
+$n. 圣礼；圣餐；神秘的事物
+%vt. 立誓
+    receive/take the sacrament upon/to do sth.
+#为某事庄严宣誓/立誓要做某事
+    Baptism and Communion are two of the sacraments.
+#洗礼和圣餐是圣礼中的两项内容。
+
+oscillate: 英[ˈɒsɪleɪt] 美[ˈɑːsɪleɪt]
+$vt. 使振荡；使振动；使动摇
+%vi. 振荡；摆动；犹豫
+    Their emotions were oscillating between desperation and hope.
+#他们的情感在绝望和希望之间波动着。
+
+cuddle: 英[ˈkʌd(ə)l] 美[ˈkʌdl]
+$v. 搂抱，拥抱；紧靠…而坐(或躺)，依偎；<非正式>取悦，讨好（cuddle up to）
+%n. 搂抱，拥抱
+    cuddle up together
+#依偎在一起
+    cuddle against one's mother
+#依偎着母亲
+    She cuddled the baby and eventually it stopped crying.
+#她搂着孩子，渐渐地孩子就不哭了。
+
+ordinance: 英[ˈɔːdɪnəns] 美[ˈɔːrdɪnəns]
+%n. 条例；法令；圣餐礼
+    City Ordinance 118 forbids car parking in this area.
+#《城市条例》第118条规定，禁止在这个地区停放车辆。
+
+lurk: 英[lɜːk] 美[lɜːrk]
+$vi. 潜伏；潜藏；埋伏
+%n. 潜伏；埋伏
+    lurk in the shadow
+#潜伏在暗处
+    lurk in sb.'s mind
+#深埋于某人的记忆中
+    danger lurking around every corner
+#危机四伏
+    It seems that old prejudices are still lurking beneath the surface.
+#似乎表面现象背后依然隐藏着旧时的偏见。
+
+muck: 英[mʌk] 美[mʌk]
+$n. 淤泥；垃圾；肥料；品质低劣的东西
+$vt. 弄脏；施肥；清除……的污物
+$vi. 闲逛；鬼混
+%n. （Muck）人名；（德、匈、捷）穆克
+    muck at the bottom of the drainpipe
+#排水管底部的积垢
+    be in muck
+#浑身肮脏不堪
+    be all of muck of sweat
+#浑身汗臭
+    spread muck on the fields
+#在田里施肥
+    Stop mucking about, you'll break something.
+#再胡闹了，你会打碎东西的。
+
+capacious: 英[kəˈpeɪʃəs] 美[kəˈpeɪʃəs]
+%adj. 宽敞的；广阔的；容积大的
+    a capacious bag
+#大口袋
+    a capacious mind
+#开阔的心胸
+    There stood a rather fat man wearing a capacious stripy suit.
+#那儿站着个相当胖的人，穿了一套大的条纹套装。
+
+austerity: 英[ɒˈsterəti] 美[ɔːˈsterəti]
+%n. （经济的）紧缩，严格节制消费；艰苦，朴素；苦行，禁欲；（物品的）简朴，无华；严格，严厉
+    up-before-sunrise austerity
+#严格的日出前床的习惯
+    an austerity budget
+#紧缩开支的预算
+    The wartime austerity of my early years prepared me for later hardships.
+#我早年在战时经历的清苦生活让我经受住了后来的艰难困苦。
+
+caprice: 英[kəˈpriːs] 美[kəˈpriːs]
+%n. 任性，反复无常；随想曲，怪想
+    merely out of caprice
+#只是出于一时任性
+    the caprices of the weather
+#天气的变幻莫测
+    The $300 million palace was built to satisfy the caprice of one man.
+#用3亿美元建造宫殿只是为满足一个人的心血来潮。
+
+immobile: 英[ɪˈməʊbaɪl] 美[ɪˈmoʊb(ə)l]
+%adj. 固定的；稳定的；不变的
+    He sat immobile at the wheel, staring straight ahead.
+#他一动不动地坐在方向盘后，两眼直视前方。
+
+bereave: 英[bɪˈriːv] 美[bɪˈriːv]
+%v. 使丧失亲友；剥夺
+    be bereaved of one's wife
+#丧妻
+    the bereaved parents
+#死者的双亲
+    a man bereft of reason
+#丧失理智的人
+    a bereft girl
+#失去亲人的姑娘
+    feel bereft at
+#对……有一种失落感
+    be bereft of hope
+#丧失希望
+    Illness bereaved him of his father.
+#疾病夺去了他的父亲。
+
+downfall: 英[ˈdaʊnfɔːl] 美[ˈdaʊnfɔːl]
+%n. 垮台；衰败；落下；大雨
+    A series of military defeats brought about the downfall of the government.
+#一连串军事上的失使该政府垮台了。
+
+unequivocal: 英[ˌʌnɪˈkwɪvəkl] 美[ˌʌnɪˈkwɪvək(ə)l]
+%adj. 明确的；不含糊的
+    unequivocal support
+#明确无误的支持
+    the clear and unequivocal attitude
+#毫不暖味的明确态度
+    an unequivocal refusal
+#直截了当的拒绝
+    The government has been unequivocal in its condemnation of the violence.
+#政府在谴责暴力方面是毫不含糊的。
+
+irreparable: 英[ɪˈrepərəb(ə)l] 美[ɪˈrepərəb(ə)l]
+%adj. 不能挽回的；不能修补的
+    Unless the oil spill is contained, irreparable damage will be done to the coastline.
+#除非漏油被控制，否则会对海岸造成无可挽回的损害。
+
+extraneous: 英[ɪkˈstreɪniəs] 美[ɪkˈstreɪniəs]
+%adj. 外来的；没有关联的；来自体外的
+    an extraneous substance
+#外来物质
+    extraneous remarks
+#不相干的话
+    If no extraneous issues are introduced, we should be able to keep the report to ten pages.
+#如果不包括其他无直接关系的问题，我们应该可以把这个报告控制在10页以内。
+
+deft: 英[deft] 美[deft]
+%adj. 灵巧的；机敏的；敏捷熟练的
+    deft piano-playing
+#娴熟的钢琴演奏
+    be deft at handling awkward situations
+#善于处理局面
+    a deft answer
+#机敏的回答
+    be deft with one's fingers
+#手指灵巧
+    His movements were deft and quick as he assembled the computer.
+#他组装电脑时，动作熟练迅速。
+
+animosity: 英[ˌænɪˈmɒsəti] 美[ˌænɪˈmɑːsəti]
+%n. 憎恶，仇恨，敌意
+    bear no animosity towards sb.
+#对某人无敌意
+    tribal animosity
+#部落间的宿仇
+    the long-standing animosity
+#长期存在的敌意
+    show no animosity against sb.
+#不仇视某人
+    The animosity between the two rival candidates were obvious to the voters.
+#这两位互为竟争对手的候选人之间的敌意是选民们可以清楚看出来的。
+
+supple: 英[ˈsʌp(ə)l] 美[ˈsʌp(ə)l]
+$adj. （身体）柔软的，灵活的；易弯曲的，柔韧的；逢迎的；顺从的
+%v. （使）柔软，（使）灵活
+    be made of supple leather
+#由柔软的皮革制成
+    supple skin
+#有弹性的皮肤
+    a keen and supple mind
+#犀利灵活的头脑
+    a lively supple voice
+#活泼流畅的嗓音
+    a supple and flattering man
+#奴才相十足的奉承者
+    You need to have supple limbs to be a dancer.
+#要成为一名舞者得有柔软的四肢。
+
+dumbfound: 英[dʌmˈfaʊnd] 美[dʌmˈfaʊnd]
+%vt. 使惊呆；使人惊愕失声
+    She said she was dumbfounded by the allegations.
+#她说那种说法使她惊呆了。
+
+unbecoming: 英[ˌʌnbɪˈkʌmɪŋ] 美[ˌʌnbɪˈkʌmɪŋ]
+%adj. 不适当的，不相称的；不合身的，不得体的
+    conduct unbecoming to/for sb.
+#不合某人身份的行为
+    an unbecoming speech
+#有失体面的话
+    an unbecoming dress
+#不合身的衣服
+    These colors are unbecoming to her complexion.
+#这些颜色与她的肤色不相配。
+
+slavish: 英[ˈsleɪvɪʃ] 美[ˈsleɪvɪʃ]
+%adj. 奴隶的；奴性的；卑屈的；盲从的
+    a slavish copy of the original
+#照葫芦画瓢的原物摹写
+    He's a slavish yes-man to the boss.
+#他是个对上司卑躬屈膝唯命是从的人。
+
+reaffirm: 英[ˌriːəˈfɜːm] 美[ˌriːəˈfɜːrm]
+%vt. 再肯定，重申；再断言
+    reaffirm a policy
+#重申一项方针
+    The latest reports reaffirmed the people's opposition to these unpopular measures.
+#最新的报告再次确认了人们对这些不得人心的措施所持的反对态度。
+
+transformation: 英[ˌtrænsfəˈmeɪʃ(ə)n] 美[ˌtrænsfərˈmeɪʃ(ə)n]
+%n. （彻底或重大的）改观，变化，转变；（用于南非）民主改革；舞台场景的突变；（动物生命周期中的）变态；（物理）嬗变，核的转换；（数，逻）变换；（语言学）转换；（生）遗传转化；（生）细胞转化
+    a great transformation in one's character
+#某人性格的大大改变
+    social and political transformation
+#社会和政治变革
+    There was a noticeable transformation in his appearance.
+#他的容貌有显著的改变。
+
+snub: 英[snʌb] 美[snʌb]
+$v. 冷落；斥责；抵制；（使）（马、船等）停住；掐灭（香烟等）
+$n. 冷落；止住
+%adj. （鼻子）短平而上翘的
+    snub sb. into silence
+#骂得某人一声不吭
+    snub requests for loans
+#断然拒绝贷款的要求
+    snub vibration
+#止住震动
+    snub the butt out
+#掐灭烟蒂
+    I simply didn't recognize her in the crowd and apparently she took it as a snub.
+#我在人群中一点也没有认出她，很显然她认为这是一种怠慢。
+
+interdependent: 英[ˌɪntədɪˈpendənt] 美[ˌɪntərdɪˈpendənt]
+%adj. 相互依赖的；互助的
+    an interdependent ecosystem
+#相互依存的生态系统
+    All living things are interdependent.
+#所有的生物都是相互依存的。
+
+undercut: 英[ˌʌndəˈkʌt] 美[ˌʌndərˈkʌt]
+$vt. 廉价出售；较便宜的工资工作；从下边削球；削弱；根除
+$vi. 底切；根切
+%n. 底切；牛腰部下侧嫩肉；砍口；切球
+    undercut all rivals
+#售价低于所有竟争者
+    undercut the competitors by at least 5%
+#至少比对手降价5%
+    undercut economic recovery
+#破坏经济恢复
+    They are trying to undercut us with the most attractive offer.
+#他们企图以最具吸引力的报价跟我们抢生意。
+
+cryptic(al): 英[ˈkrɪptɪk] 美[ˈkrɪptɪk]
+%adj. 神秘的，含义模糊的；[动] 隐藏的
+    cryptic language
+#隐话
+    a cryptic prophecy
+#谜一般的预言
+    a cryptic comment
+#晦涩的评语
+    a cryptic animal
+#有保护色的动物
+    I found a scrap of paper with a cryptic message saying "The time has come."
+#我发现一小张纸片，上面写着“时辰已到”这样一句神秘的话。
+
+=======
+stimulant: 英[ˈstɪmjələnt] 美[ˈstɪmjələnt]
+$n. 引起兴奋的物质，兴奋剂；刺激物，激励因素；酒精饮料
+%adj. 使兴奋的，刺激性的
+    a banned stimulant
+#禁药
+    stimulants for sagging business
+#刺激日益萎缩的商业
+    Tourism has acted as a stimulant to the country's economy.
+#旅游业成了刺激国家经济发展的一个因素。
+
+incriminate: 英[ɪnˈkrɪmɪneɪt] 美[ɪnˈkrɪmɪneɪt]
+%vt. 控告；暗示……有罪
+    He refused to say anything on the grounds that he might incriminate himself.
+#由于有可能将自己牵连进去，他拒绝说任何事。
+
+wince: 英[wɪns] 美[wɪns]
+$vi. 畏缩，退避
+$n. 畏缩；脸部肌肉的抽搐
+%n. （Wince）人名；（英）温斯
+    bear pain without wincing
+#毫不畏惧地忍受痛苦
+    Her smile became a wince as pain stabbed through her.
+#疼痛钻心时，她的笑容消失了，变得皱眉蹙额。
+
+gobble: 英[ˈɡɒb(ə)l] 美[ˈɡɑːb(ə)l]
+$v. 狼吞虎咽，大口吞食；吞并，攫取；（很快地）大量消耗；（雄火鸡）咯咯叫
+%n. 公火鸡快速的咯咯大叫声
+    gobble ice cream
+#大口大口地吃冰激凌
+    gobble up
+#急切地抓住，消耗掉
+    gobble up a third of the gross national product
+#消耗掉国民生产总值的三分之一
+    Don't gobble, you'll give yourself indigestion.
+#要狼吞虎咽，否则你会消化不良的。
+
+foreshadow: 英[fɔːˈʃædəʊ] 美[fɔːrˈʃædoʊ]
+$vt. 预示；成为……的前兆
+%n. 预兆
+    the foreshadow of a storm
+#暴风雨的预兆
+    The recent outbreak of violence was foreshadowed by isolated incidents in the city earlier this year.
+#最近这座城市爆发的暴乱，其前兆是年初发生的一些孤立事件。
+
+invalidate: 英[ɪnˈvælɪdeɪt] 美[ɪnˈvælɪdeɪt]
+%v. （对论点、声明或理论）驳斥，证明是谬误的；使无效，使作废
+    A contract is invalidated if one party signs it.
+#一方签字的契约是不能生效的。
+
+pitcher: 英[ˈpɪtʃə(r)] 美[ˈpɪtʃər]
+$n. 投手；大水罐
+%n. （Pitcher）人名；（英）皮彻
+    an earthenware pitcher
+#一个陶罐
+    a pitcher of water
+#一壶水
+    pitchers have ears
+#隔墙有耳
+
+disposable: 英[dɪˈspəʊzəb(ə)l] 美[dɪˈspoʊzəb(ə)l]
+$adj. 一次性的，用完即丢弃的；可支配的，可自由使用的；（人，观点）可有可无的，可轻易放弃的
+%n. 一次性用品
+    disposable cups
+#一次性杯子
+    disposable income
+#可支配收入
+    disposable profits
+#净利
+    a disposable towel
+#一次性毛巾
+    Many families are giving up cloth diapers and using disposables.
+#许多家庭放弃了布料尿布，改用一次性用品。
+
+cyclic(al): 英[ˈsaɪklɪk] 美[ˈsaɪklɪk]
+%adj. 环的；循环的；周期的
+    the cyclic movements of the earth round the sun
+#地球绕太阳的环行
+    thirty cyclic years
+#30年周期
+    Change in the economy has followed a cyclic pattern.
+#经济有着周期性变化模式。
+
+restitution: 英[ˌrestɪˈtjuːʃ(ə)n] 美[ˌrestɪˈtuːʃ(ə)n]
+%n. 恢复；赔偿；归还
+    make full restitution to the victims
+#对受害者做出全面赔偿
+    seek restitution for the loss of one's job
+#因失去工作而要求赔偿
+    The government is now demanding the restitution of its ancient treasures that were removed from the country in the 16th century.
+#政府正在要求归还16世纪被运出国的古董文物。
+
+conversant: 英[kənˈvɜːs(ə)nt] 美[kənˈvɜːrs(ə)nt]
+%adj. 熟悉的；精通的；亲近的
+    be conversant with American history
+#谙熟美国历史
+    be deeply conversant with the Platonic philosophy
+#十分精通柏拉图哲学
+    The lawyer asked the judge whether he was conversant with the defendant's family background.
+#律师问法官是否熟悉被告的家庭背景。
+
+demoralize: 英[dɪˈmɒrəlaɪz] 美[dɪˈmɔːrəlaɪz]
+%vt. 使道德败坏；使堕落；使士气低落
+    demoralize the stock market
+#使股市陷人一片混乱
+    Losing several matches in succession had completely demoralized the team.
+#连续几场比赛失利完全挫败了该队的士气。
+
+sacrament: 英[ˈsækrəmənt] 美[ˈsækrəmənt]
+$n. 圣礼；圣餐；神秘的事物
+%vt. 立誓
+    receive/take the sacrament upon/to do sth.
+#为某事庄严宣誓/立誓要做某事
+    Baptism and Communion are two of the sacraments.
+#洗礼和圣餐是圣礼中的两项内容。
+
+oscillate: 英[ˈɒsɪleɪt] 美[ˈɑːsɪleɪt]
+$vt. 使振荡；使振动；使动摇
+%vi. 振荡；摆动；犹豫
+    Their emotions were oscillating between desperation and hope.
+#他们的情感在绝望和希望之间波动着。
+
+cuddle: 英[ˈkʌd(ə)l] 美[ˈkʌdl]
+$v. 搂抱，拥抱；紧靠…而坐(或躺)，依偎；<非正式>取悦，讨好（cuddle up to）
+%n. 搂抱，拥抱
+    cuddle up together
+#依偎在一起
+    cuddle against one's mother
+#依偎着母亲
+    She cuddled the baby and eventually it stopped crying.
+#她搂着孩子，渐渐地孩子就不哭了。
+
+ordinance: 英[ˈɔːdɪnəns] 美[ˈɔːrdɪnəns]
+%n. 条例；法令；圣餐礼
+    City Ordinance 118 forbids car parking in this area.
+#《城市条例》第118条规定，禁止在这个地区停放车辆。
+
+lurk: 英[lɜːk] 美[lɜːrk]
+$vi. 潜伏；潜藏；埋伏
+%n. 潜伏；埋伏
+    lurk in the shadow
+#潜伏在暗处
+    lurk in sb.'s mind
+#深埋于某人的记忆中
+    danger lurking around every corner
+#危机四伏
+    It seems that old prejudices are still lurking beneath the surface.
+#似乎表面现象背后依然隐藏着旧时的偏见。
+
+muck: 英[mʌk] 美[mʌk]
+$n. 淤泥；垃圾；肥料；品质低劣的东西
+$vt. 弄脏；施肥；清除……的污物
+$vi. 闲逛；鬼混
+%n. （Muck）人名；（德、匈、捷）穆克
+    muck at the bottom of the drainpipe
+#排水管底部的积垢
+    be in muck
+#浑身肮脏不堪
+    be all of muck of sweat
+#浑身汗臭
+    spread muck on the fields
+#在田里施肥
+    Stop mucking about, you'll break something.
+#再胡闹了，你会打碎东西的。
+
+capacious: 英[kəˈpeɪʃəs] 美[kəˈpeɪʃəs]
+%adj. 宽敞的；广阔的；容积大的
+    a capacious bag
+#大口袋
+    a capacious mind
+#开阔的心胸
+    There stood a rather fat man wearing a capacious stripy suit.
+#那儿站着个相当胖的人，穿了一套大的条纹套装。
+
+austerity: 英[ɒˈsterəti] 美[ɔːˈsterəti]
+%n. （经济的）紧缩，严格节制消费；艰苦，朴素；苦行，禁欲；（物品的）简朴，无华；严格，严厉
+    up-before-sunrise austerity
+#严格的日出前床的习惯
+    an austerity budget
+#紧缩开支的预算
+    The wartime austerity of my early years prepared me for later hardships.
+#我早年在战时经历的清苦生活让我经受住了后来的艰难困苦。
+
+caprice: 英[kəˈpriːs] 美[kəˈpriːs]
+%n. 任性，反复无常；随想曲，怪想
+    merely out of caprice
+#只是出于一时任性
+    the caprices of the weather
+#天气的变幻莫测
+    The $300 million palace was built to satisfy the caprice of one man.
+#用3亿美元建造宫殿只是为满足一个人的心血来潮。
+
+immobile: 英[ɪˈməʊbaɪl] 美[ɪˈmoʊb(ə)l]
+%adj. 固定的；稳定的；不变的
+    He sat immobile at the wheel, staring straight ahead.
+#他一动不动地坐在方向盘后，两眼直视前方。
+
+bereave: 英[bɪˈriːv] 美[bɪˈriːv]
+%v. 使丧失亲友；剥夺
+    be bereaved of one's wife
+#丧妻
+    the bereaved parents
+#死者的双亲
+    a man bereft of reason
+#丧失理智的人
+    a bereft girl
+#失去亲人的姑娘
+    feel bereft at
+#对……有一种失落感
+    be bereft of hope
+#丧失希望
+    Illness bereaved him of his father.
+#疾病夺去了他的父亲。
+
+downfall: 英[ˈdaʊnfɔːl] 美[ˈdaʊnfɔːl]
+%n. 垮台；衰败；落下；大雨
+    A series of military defeats brought about the downfall of the government.
+#一连串军事上的失使该政府垮台了。
+
+unequivocal: 英[ˌʌnɪˈkwɪvəkl] 美[ˌʌnɪˈkwɪvək(ə)l]
+%adj. 明确的；不含糊的
+    unequivocal support
+#明确无误的支持
+    the clear and unequivocal attitude
+#毫不暖味的明确态度
+    an unequivocal refusal
+#直截了当的拒绝
+    The government has been unequivocal in its condemnation of the violence.
+#政府在谴责暴力方面是毫不含糊的。
+
+irreparable: 英[ɪˈrepərəb(ə)l] 美[ɪˈrepərəb(ə)l]
+%adj. 不能挽回的；不能修补的
+    Unless the oil spill is contained, irreparable damage will be done to the coastline.
+#除非漏油被控制，否则会对海岸造成无可挽回的损害。
+
+extraneous: 英[ɪkˈstreɪniəs] 美[ɪkˈstreɪniəs]
+%adj. 外来的；没有关联的；来自体外的
+    an extraneous substance
+#外来物质
+    extraneous remarks
+#不相干的话
+    If no extraneous issues are introduced, we should be able to keep the report to ten pages.
+#如果不包括其他无直接关系的问题，我们应该可以把这个报告控制在10页以内。
+
+deft: 英[deft] 美[deft]
+%adj. 灵巧的；机敏的；敏捷熟练的
+    deft piano-playing
+#娴熟的钢琴演奏
+    be deft at handling awkward situations
+#善于处理局面
+    a deft answer
+#机敏的回答
+    be deft with one's fingers
+#手指灵巧
+    His movements were deft and quick as he assembled the computer.
+#他组装电脑时，动作熟练迅速。
+
+animosity: 英[ˌænɪˈmɒsəti] 美[ˌænɪˈmɑːsəti]
+%n. 憎恶，仇恨，敌意
+    bear no animosity towards sb.
+#对某人无敌意
+    tribal animosity
+#部落间的宿仇
+    the long-standing animosity
+#长期存在的敌意
+    show no animosity against sb.
+#不仇视某人
+    The animosity between the two rival candidates were obvious to the voters.
+#这两位互为竟争对手的候选人之间的敌意是选民们可以清楚看出来的。
+
+supple: 英[ˈsʌp(ə)l] 美[ˈsʌp(ə)l]
+$adj. （身体）柔软的，灵活的；易弯曲的，柔韧的；逢迎的；顺从的
+%v. （使）柔软，（使）灵活
+    be made of supple leather
+#由柔软的皮革制成
+    supple skin
+#有弹性的皮肤
+    a keen and supple mind
+#犀利灵活的头脑
+    a lively supple voice
+#活泼流畅的嗓音
+    a supple and flattering man
+#奴才相十足的奉承者
+    You need to have supple limbs to be a dancer.
+#要成为一名舞者得有柔软的四肢。
+
+dumbfound: 英[dʌmˈfaʊnd] 美[dʌmˈfaʊnd]
+%vt. 使惊呆；使人惊愕失声
+    She said she was dumbfounded by the allegations.
+#她说那种说法使她惊呆了。
+
+unbecoming: 英[ˌʌnbɪˈkʌmɪŋ] 美[ˌʌnbɪˈkʌmɪŋ]
+%adj. 不适当的，不相称的；不合身的，不得体的
+    conduct unbecoming to/for sb.
+#不合某人身份的行为
+    an unbecoming speech
+#有失体面的话
+    an unbecoming dress
+#不合身的衣服
+    These colors are unbecoming to her complexion.
+#这些颜色与她的肤色不相配。
+
+slavish: 英[ˈsleɪvɪʃ] 美[ˈsleɪvɪʃ]
+%adj. 奴隶的；奴性的；卑屈的；盲从的
+    a slavish copy of the original
+#照葫芦画瓢的原物摹写
+    He's a slavish yes-man to the boss.
+#他是个对上司卑躬屈膝唯命是从的人。
+
+reaffirm: 英[ˌriːəˈfɜːm] 美[ˌriːəˈfɜːrm]
+%vt. 再肯定，重申；再断言
+    reaffirm a policy
+#重申一项方针
+    The latest reports reaffirmed the people's opposition to these unpopular measures.
+#最新的报告再次确认了人们对这些不得人心的措施所持的反对态度。
+
+transformation: 英[ˌtrænsfəˈmeɪʃ(ə)n] 美[ˌtrænsfərˈmeɪʃ(ə)n]
+%n. （彻底或重大的）改观，变化，转变；（用于南非）民主改革；舞台场景的突变；（动物生命周期中的）变态；（物理）嬗变，核的转换；（数，逻）变换；（语言学）转换；（生）遗传转化；（生）细胞转化
+    a great transformation in one's character
+#某人性格的大大改变
+    social and political transformation
+#社会和政治变革
+    There was a noticeable transformation in his appearance.
+#他的容貌有显著的改变。
+
+snub: 英[snʌb] 美[snʌb]
+$v. 冷落；斥责；抵制；（使）（马、船等）停住；掐灭（香烟等）
+$n. 冷落；止住
+%adj. （鼻子）短平而上翘的
+    snub sb. into silence
+#骂得某人一声不吭
+    snub requests for loans
+#断然拒绝贷款的要求
+    snub vibration
+#止住震动
+    snub the butt out
+#掐灭烟蒂
+    I simply didn't recognize her in the crowd and apparently she took it as a snub.
+#我在人群中一点也没有认出她，很显然她认为这是一种怠慢。
+
+interdependent: 英[ˌɪntədɪˈpendənt] 美[ˌɪntərdɪˈpendənt]
+%adj. 相互依赖的；互助的
+    an interdependent ecosystem
+#相互依存的生态系统
+    All living things are interdependent.
+#所有的生物都是相互依存的。
+
+undercut: 英[ˌʌndəˈkʌt] 美[ˌʌndərˈkʌt]
+$vt. 廉价出售；较便宜的工资工作；从下边削球；削弱；根除
+$vi. 底切；根切
+%n. 底切；牛腰部下侧嫩肉；砍口；切球
+    undercut all rivals
+#售价低于所有竟争者
+    undercut the competitors by at least 5%
+#至少比对手降价5%
+    undercut economic recovery
+#破坏经济恢复
+    They are trying to undercut us with the most attractive offer.
+#他们企图以最具吸引力的报价跟我们抢生意。
+
+cryptic(al): 英[ˈkrɪptɪk] 美[ˈkrɪptɪk]
+%adj. 神秘的，含义模糊的；[动] 隐藏的
+    cryptic language
+#隐话
+    a cryptic prophecy
+#谜一般的预言
+    a cryptic comment
+#晦涩的评语
+    a cryptic animal
+#有保护色的动物
+    I found a scrap of paper with a cryptic message saying "The time has come."
+#我发现一小张纸片，上面写着“时辰已到”这样一句神秘的话。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

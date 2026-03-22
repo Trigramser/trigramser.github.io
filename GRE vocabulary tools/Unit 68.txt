@@ -1,0 +1,833 @@
+<<<<<<< HEAD
+escalation: 英[ˌeskəˈleɪʃ(ə)n] 美[ˌeskəˈleɪʃ(ə)n]
+%n. 迅速增加，上涨；升级，恶化
+    prevent the escalation of war
+#不使站争升级
+    an escalation of violence
+#暴力行动的升级
+
+frowzy: 英[ˈfraʊzi] 美[ˈfraʊzi]
+%adj. 不整洁的（等于 frowsy）；有臭味的；霉臭的
+    The restaurant looked so frowzy that we did not dare to eat there.
+#那家餐馆看起来很邋遢，我们不敢在那里吃饭。
+
+foreclose: 英[fɔːˈkləʊz] 美[fɔːrˈkloʊz]
+$vt. 阻止；排除；取消抵押品赎回权
+%vi. 取消抵押品赎回权
+    foreclose a question
+#预先解决问题
+    They tried to foreclose the possibility of her meeting with the president.
+#他们试图排除她与总统会面的可能性。
+
+egotist: 英[ˈiːɡətɪst] 美[ˈiːɡətɪst]
+%n. 自高自大者；言必称“我”者（形容词 egotistic, 副词 egotistically）
+    Some politicians are notorious egotists interested only in promoting themselves.
+#有些政客是众所周知的利己主义者，一心只想着谋取高位。
+
+caper: 英[ˈkeɪpə(r)] 美[ˈkeɪpər]
+$v. 雀跃
+$n. 刺山柑花蕾；不法活动；惊险喜剧片；跳跃；刺山柑；滑稽怪诞的行为
+%n. （Caper）（美）卡珀（人名）
+    a typical undergraduate caper
+#典型的大学生恶作剧
+    cut a caper/capers
+#开玩笑，蹦跳
+    His caper cost him a twisted ankle.
+#他又蹦又跳，结果把脚踝给扭了。
+
+disgruntle: 英[dɪsˈɡrʌnt(ə)l] 美[dɪsˈɡrʌnt(ə)l]
+%v. 使……不高兴，使愠怒
+    disgruntled audience
+#不满的观众
+    The employees were disgruntled with their pay.
+#雇员们对工资不满意。
+
+peery: 英[ˈpɪəri] 美[ˈpɪri]
+$adj. <英，罕>同龄人的；<英，罕>盯着看的；怀疑的
+%n. <苏格兰，北英格兰>（儿童）陀螺
+    peery eyes
+#好奇的眼睛
+
+kipper: 英[ˈkɪpə(r)] 美[ˈkɪpər]
+$n. 腌鱼；家伙
+$vt. 腌
+%n. （Kipper）人名；（德、法、俄）基佩尔；（英）基珀
+    Kippers are sometimes eaten for breakfast.
+#（人们）有时早饭吃熏制鲜鱼。
+
+harrowing: 英[ˈhærəʊɪŋ] 美[ˈhæroʊɪŋ]
+$adj. 痛心的；悲惨的
+$vt. 耙地；使苦恼（harrow 的ing形式）
+$vi. 被耙松（harrow 的ing形式）
+%n. （Harrowing）（英）哈罗因（人名）
+    a harrowing story
+#令人伤心的故事
+    a harrowing experience
+#痛苦的经历
+
+trumpery: 英[ˈtrʌmpəri] 美[ˈtrʌmpəri]
+$n. 中看不中用的东西；废话；废物
+%adj. 无用的；虚有其表的
+    a truck loaded with household trumpery
+#装满零星杂物的卡车
+    a trumpery argument
+#肤浅的论据
+
+illuminati: 英[ɪˌluːmɪˈnɑːtiː] 美[ɪˌluːməˈnɑːtiː]
+$n. 自称睿智的人；上层人士，社会精英
+$n. （Illuminati）光照派；光照会
+%n. （Illuminati）（意）伊卢米纳蒂（人名）
+    Listen to the voice of illuminati.
+#聆听智者的声音。
+
+mutineer: 英[ˌmjuːtəˈnɪə(r)] 美[ˌmjuːtəˈnɪr]
+%n. 反抗者；叛变者
+    The mutineers who tried to take over the ship were all hanged.
+#企图控制船只的叛变者全部被吊死了。
+
+addle: 英[ˈæd(ə)l] 美[ˈæd(ə)l]
+$vt. 使腐坏；使混乱
+$vi. 变质；变混乱
+%adj. 腐坏的；糊涂的，昏乱的
+    I have addled my head with writing all day.
+#我一整天都在写东西，整个人头昏脑涨的。
+
+rarefaction: 英[ˌreərɪˈfækʃ(ə)n] 美[ˌrerəˈfækʃ(ə)n]
+%n. [声] 稀疏；（气体）稀薄
+    The rarefaction of the air made it hard for them to breathe.
+#空气稀薄使他们呼吸困难。
+
+macerate: 英[ˈmæsəreɪt] 美[ˈmæsəreɪt]
+$vt. 把……浸软；使……消瘦
+%vi. 浸软；消瘦
+    He served peaches macerated in wine for dessert.
+#他把浸过酒的桃子作为甜点。
+
+minuet: 英[ˌmɪnjuˈet] 美[ˌmɪnjuˈet]
+$n. 小步舞；米奴哀舞
+%vi. 跳米奴哀舞；跳小步舞
+    When only four, mozart was composing minuets.
+#当莫扎特四岁时，就开始写小步舞曲。
+
+fiat: 英[ˈfiːæt; ˈfiːət] 美[ˈfiːɑːt]
+$n. 命令；许可；政法
+%n. （Fiat）(西）菲亚特（人名）
+    the fiat of conscience
+#良心驱使下的决定
+    He tried to impose solutions to the country's problems by fiat.
+#他试图授权强行解决国家面临的问题。
+
+careworn: 英[ˈkeəwɔːn] 美[ˈkerwɔːrn]
+%adj. 忧心忡忡的；饱经忧患的；疲倦的
+    a careworn face
+#愁云密布的脸
+
+velvety: 英[ˈvelvəti] 美[ˈvelvəti]
+%adj. 天鹅绒般柔软的；醇和的，可口的
+    a velvety wine
+#味道醇和的酒
+    She heard the maid's velvety voice calling her from downstairs.
+#她听见女仆从楼下唤她的软绵绵的声音。
+
+diatribe: 英[ˈdaɪətraɪb] 美[ˈdaɪətraɪb]
+%n. （无休止的）指责；（长篇）抨击，谴责
+    sb.'s violent diatribes against gambling
+#某人对赌博行为的猛烈押击
+
+jaundice: 英[ˈdʒɔːndɪs] 美[ˈdʒɔːndɪs]
+$n. 黄疸；偏见；乖僻
+%vt. 使怀偏见；使患黄疸
+    He developed a jaundiced view of personal relationships.
+#他已经习惯于戴着有色眼镜来看待人际关系。
+
+contumacy: 英[ˈkɒntjʊməsi] 美[ˈkɑːntjʊməsi]
+%n. 拒不服从，抗命；藐视法庭
+    Most of successful men have the characteristics of contumacy and doughty.
+#绝大多数成功人士都由共同的特质：脾气倔强，性格刚强。
+
+penance: 英[ˈpenəns] 美[ˈpenəns]
+$n. 忏悔；苦修；苦差事
+%v. 使忏悔；使苦修
+    He is doing penance for his sins.
+#他正在为自己所犯的罪而悔过。
+
+fatuity: 英[fəˈtjuːɪti] 美[fəˈtuːəti]
+%n. 昏庸；愚昧；愚蠢的言行
+    It also encourages people to banish the fatuity, to be creative and push the social progress continuously.
+#它激励人们驱除愚昧，求是创新，并不断推动着社会的进步。
+
+proverbial: 英[prəˈvɜːbiəl] 美[prəˈvɜːrbiəl]
+$adj. 谚语的，俗话所说的；众所周知的
+%n. （常用于委婉替代谚语或成语中未出现的词）那东西，那玩意儿
+    proverbial wisdom
+#谚语表达的智慧
+    the proverbial London fog
+#有名的伦敦雾
+    The general's devotion to his men is proverbial.
+#将军对部下的爱是众所周知的。
+
+pulchritude: 英[ˈpʌlkrɪtjuːd] 美[ˈpʌlkrɪtjuːd]
+%n. 美丽；标致
+    Her dress shows her pulchritude to advantage.
+#她的裙子衬托出了她的美丽。
+
+vying: 英[ˈvaɪɪŋ] 美[ˈvaɪɪŋ]
+$adj. 竞争的
+%v. 争夺（vie 的现在分词）
+    All vying swimmers came to the judge's desk.
+#所有的游泳选手都去了裁判台。
+
+prowl: 英[praʊl] 美[praʊl]
+$v. 潜行；徘徊；搜寻
+%n. 徘徊，潜行；悄悄踱步；（动物）出动捕猎；四处搜寻（干某事的机会）
+    prowl at night
+#在夜晚徘徊
+    on the prowl
+#在潜行，在俳徊
+    I prowled around a farmer's field admiring the bridge.
+#我在一片农夫的田地里排徊，欣赏着那座桥。
+
+scalding: 英[ˈskɔːldɪŋ] 美[ˈskɔːldɪŋ]
+$adj. 滚烫的；尖刻的
+$n. [外科]烫伤
+%v. 烫（scald 的 ing 形式）
+    scalding coffee
+#滚滚的咖啡
+    the scalding sun in summer
+#夏天毒辣的太阳
+    scalding criticism
+#尖刻的批评
+    scalding hot
+#灼热
+
+palliate: 英[ˈpælieɪt] 美[ˈpælieɪt]
+%vt. 减轻；掩饰；辩解
+    palliate the pain
+#减轻疼痛
+
+leery: 英[ˈlɪəri] 美[ˈlɪri]
+%adj. 机敏的；狡猾的；猜疑的；送秋波的
+    a leery chap
+#狡猾的家伙
+    with a leery eye
+#以机灵的目光
+    I am leery about his motives.
+#我对他的动机持怀疑态度。
+
+centrifugal: 英[ˌsentrɪˈfjuːɡ(ə)l] 美[senˈtrɪfjəɡ(ə)l]
+$adj. [力] 离心的；远中的
+%n. 离心机；转筒
+    the centrifugal tendencies in modern society
+#现代社会的离心趋势
+
+prorogue: 英[prəʊˈrəʊɡ] 美[proʊˈroʊɡ]
+%v. 休会
+    prorogue a problem
+#搁置一个问题
+
+exultant: 英[ɪɡˈzʌltənt] 美[ɪɡˈzʌltənt]
+%adj. 非常高兴的；欢跃的；狂喜的；欢欣鼓舞的
+    The exultant crowds were dancing in the square.
+#欢腾的人群在广场上跳舞。
+
+rejoinder: 英[rɪˈdʒɔɪndə(r)] 美[rɪˈdʒɔɪndər]
+%n. 反驳；回答；（被告的）[法] 第二次答辩
+    make no rejoinder
+#未作答
+    His talk brought a strong rejoinder from one of his opponents.
+#他的谈话招致一名对手的强烈反驳。
+
+defray: 英[dɪˈfreɪ] 美[dɪˈfreɪ]
+%vt. 支出；支付
+    defray the expenses of the trip
+#支付旅行费用
+
+supererogatory: 英[ˌsuːpərəˈrɒɡətəri] 美[ˌsuːpərɪˈrɑːɡəˌtɔːri]
+%adj. 额外的，多余的；职责以外的
+    It was supererogatory for him to gloat.
+#他幸灾乐祸地看，真是多余。
+
+odium: 英[ˈəʊdiəm] 美[ˈoʊdiəm]
+%n. 憎恶；讨厌
+    expose sb. to odium
+#使某人遭受憎恨
+    The politician has been exposed to public odium and contempt.
+#那名政客遭到了公众的憎恶和鄙视。
+
+elegy: 英[ˈelədʒi] 美[ˈelədʒi]
+%n. 挽歌，哀歌
+    Gray's Elegy Written in a Country Churchyard is a famous English poem.
+#格雷的《乡村教堂墓地挽歌》是一首著名的英国诗歌。
+
+studied: 英[ˈstʌdid] 美[ˈstʌdid]
+$v. 学习；端详；研究；求学；记住（或背下）台词；仔细考虑；尽力取得（结果）（study 的过去式及过去分词）
+%adj. 深思熟虑的；博学的；刻意的；精心策划的；装模作样的
+    a studied insult
+#蓄意侮辱
+    a studied reply
+#深思熟虑的回应
+    The government treated the news of defeat with studied indifference.
+#政府对战败的消息故意装得满不在乎。
+
+attire: 英[əˈtaɪə(r)] 美[əˈtaɪər]
+$n. <正式>服装，衣服
+%v. 着装
+    neat attire
+#整洁的服装
+    night attire
+#睡衣
+    attire oneself in gray
+#穿灰色的衣服
+    She was completely attired in black, from head to toe.
+#她从头到脚穿一身黑。
+
+avow: 英[əˈvaʊ] 美[əˈvaʊ]
+%vt. 承认；公开宣称；坦率承认
+    avow one's guilt
+#公开认罪
+    He avowed his support of the plan.
+#他公开表示支持这项计划。
+
+sampler: 英[ˈsɑːmplə(r)] 美[ˈsæmplər]
+%n. [自] 采样器；取样器；样品检查员
+    a cotton sampler
+#棉花样品检样员
+    a sampler of English poetry
+#英国诗歌样本
+
+calumniate: 英[kəˈlʌmnɪˌeɪt] 美[kəˈlʌmniˌeɪt]
+%vt. 诽谤；中伤；诬蔑
+    calumniate the leader of the opposition
+#诽谤反对派的领袖
+
+protean: 英[ˈprəʊtiən] 美[ˈproʊtiənˌproʊˈtiːən]
+%adj. 千变万化的；一人演几个角色的；变形虫的
+    the protean changes of nature
+#自然界的千变万化
+    He was so protean an artist that critics could never categorize his work.
+#他是一个变化无常的艺术家，评论家们永远无法给他的作品归类。
+
+coronate: 英[kɔːrəˌneɪt] 美[ˈkɔːrəneɪt]
+%vt. 加冕
+    coronate the king
+#为国王加冕
+
+glowing: 英[ˈɡləʊɪŋ] 美[ˈɡloʊɪŋ]
+$adj. 热情洋溢的，赞不绝口的；（皮肤）容光焕发的，血色很好的；发红光的；发出柔和光亮的；（颜色）明亮温暖的
+%v. 发出微弱而稳定的光；（脸部或身体）发红，发热；喜形于色，容光焕发（glow 的现在分词）
+    glowing colors
+#鲜亮的顔色
+    glowing prospects
+#光明的前景
+    glowing cheeks
+#红润的双频
+    glowing description
+#生动的描述
+
+preen: 英[priːn] 美[priːn]
+$vt. 打扮；用嘴整理；赞扬
+%vi. 洋洋自得；把（自己）打扮漂亮
+    preen oneself on the victory
+#因胜利而得意扬扬
+    She combed her long hair carefully, preening in the mirror.
+#她仔细梳理自己的一头秀发，对着镜子精心打扮。
+
+increment: 英[ˈɪŋkrəmənt] 美[ˈɪŋkrəmənt]
+$n. <正式>（尤指连续、定量的）增长；<正式>工资定量增长，定量加薪；（变量、函数的）正（或负）增量
+%v. （计算机）使（数字值）各自增加
+    a sudden increment in birth rate
+#出生率的突然增长
+    the increment of knowledge
+#知识的增加
+
+travesty: 英[ˈtrævəsti] 美[ˈtrævəsti]
+$n. 歪曲；滑稽作品；拙劣的模仿作品
+%vt. 歪曲；滑稽地模仿
+    travesty sb.'s mode of speech
+#滑稽地模仿某人的讲话方式
+    The film is, in his view, a travesty of the truth.
+#在他看来，这部电影是对事实的歪曲。
+
+largess: 英[lɑːˈdʒes] 美[lɑːrˈdʒes]
+%n. 慷慨的赠予；赠品
+    distribute largess to the poor
+#把赠品发给穷人
+    Christmas is a day of largess.
+#圣诞节是慷慨赠送礼物的日子。
+
+citation: 英[saɪˈteɪʃ(ə)n] 美[saɪˈteɪʃ(ə)n]
+%n. 引文，引语；传唤，传票；表彰，嘉奖状；引用，引证
+    issue a citation
+#发传票
+    All citations are taken from the 2019 edition of the book.
+#所有的引文均取自于该书2019年的版本。
+
+muted: 英[ˈmjuːtɪd] 美[ˈmjuːtɪd]
+$adj. （声音）压低的，减弱的；温和的，委婉的；（颜色或光线）柔和的，不耀眼的；（乐器声音）柔和的，弱化的
+%v. 消音，减音；减弱，缓解；关闭声音（mute 的过去式和过去分词）；减弱，缓和
+    speak in a muted voice
+#轻声说话
+    the sting of an old muted emotion
+#被淡忘的旧情引起的刺痛
+    On the whole, their criticism was muted.
+#总的来说，他们的批评是温和的。
+
+machination: 英[ˌmæʃɪˈneɪʃ(ə)n] 美[ˌmæʃɪˈneɪʃ(ə)n]
+%n. 阴谋；诡计
+    perform machinations
+#耍阴谋
+
+whimper: 英[ˈwɪmpə(r)] 美[ˈwɪmpər]
+$v. 呜咽，啜泣；啜泣着说；低声抱怨
+%n. 呜咽声，啜泣声；牢骚，怨声；微弱的声音；虎头蛇尾
+    whimper over one's troubles
+#哭诉自己的苦楚
+    without a whimper
+#一声不吭地
+    The wind whimpered in the woods.
+#风在树林中鸣咽。
+
+beseech: 英[bɪˈsiːtʃ] 美[bɪˈsiːtʃ]
+%vt. 恳求，哀求；乞求，急切地要求得到
+    beseech sb. for mercy
+#哀求某人开恩
+    beseech an interview
+#急切恳求一次晋见机会
+    I beseech you to do this before it is too late.
+#我恳求你做这件事吧，趁现在还来得及。
+
+stipple: 英[ˈstɪp(ə)l] 美[ˈstɪp(ə)l]
+$v. （绘画、雕刻术语）点画，点刻，点彩
+%n. 点画，点刻法（或效果）
+    She created the impression of strong sunlight by stippling the canvas in yellow and white.
+#她在画布上用黄白两色点画出强烈的阳光效果。
+
+doff: 英[dɒf] 美[dɔːf]
+%vt. 脱（衣，帽等）；丢弃，废除；落纱
+    doff one's military uniform for a business suit
+#脱下军装换上便服
+    doff one's hat in salute
+#脱帽致敬
+
+stupefy: 英[ˈstjuːpɪfaɪ] 美[ˈstuːpɪfaɪ]
+%vt. 使惊呆；使昏迷
+    We were so stupefied by the news that we all sat in silence for a long time.
+#听到这个消息我们都呆了，过了良久还一言不发。
+
+=======
+escalation: 英[ˌeskəˈleɪʃ(ə)n] 美[ˌeskəˈleɪʃ(ə)n]
+%n. 迅速增加，上涨；升级，恶化
+    prevent the escalation of war
+#不使站争升级
+    an escalation of violence
+#暴力行动的升级
+
+frowzy: 英[ˈfraʊzi] 美[ˈfraʊzi]
+%adj. 不整洁的（等于 frowsy）；有臭味的；霉臭的
+    The restaurant looked so frowzy that we did not dare to eat there.
+#那家餐馆看起来很邋遢，我们不敢在那里吃饭。
+
+foreclose: 英[fɔːˈkləʊz] 美[fɔːrˈkloʊz]
+$vt. 阻止；排除；取消抵押品赎回权
+%vi. 取消抵押品赎回权
+    foreclose a question
+#预先解决问题
+    They tried to foreclose the possibility of her meeting with the president.
+#他们试图排除她与总统会面的可能性。
+
+egotist: 英[ˈiːɡətɪst] 美[ˈiːɡətɪst]
+%n. 自高自大者；言必称“我”者（形容词 egotistic, 副词 egotistically）
+    Some politicians are notorious egotists interested only in promoting themselves.
+#有些政客是众所周知的利己主义者，一心只想着谋取高位。
+
+caper: 英[ˈkeɪpə(r)] 美[ˈkeɪpər]
+$v. 雀跃
+$n. 刺山柑花蕾；不法活动；惊险喜剧片；跳跃；刺山柑；滑稽怪诞的行为
+%n. （Caper）（美）卡珀（人名）
+    a typical undergraduate caper
+#典型的大学生恶作剧
+    cut a caper/capers
+#开玩笑，蹦跳
+    His caper cost him a twisted ankle.
+#他又蹦又跳，结果把脚踝给扭了。
+
+disgruntle: 英[dɪsˈɡrʌnt(ə)l] 美[dɪsˈɡrʌnt(ə)l]
+%v. 使……不高兴，使愠怒
+    disgruntled audience
+#不满的观众
+    The employees were disgruntled with their pay.
+#雇员们对工资不满意。
+
+peery: 英[ˈpɪəri] 美[ˈpɪri]
+$adj. <英，罕>同龄人的；<英，罕>盯着看的；怀疑的
+%n. <苏格兰，北英格兰>（儿童）陀螺
+    peery eyes
+#好奇的眼睛
+
+kipper: 英[ˈkɪpə(r)] 美[ˈkɪpər]
+$n. 腌鱼；家伙
+$vt. 腌
+%n. （Kipper）人名；（德、法、俄）基佩尔；（英）基珀
+    Kippers are sometimes eaten for breakfast.
+#（人们）有时早饭吃熏制鲜鱼。
+
+harrowing: 英[ˈhærəʊɪŋ] 美[ˈhæroʊɪŋ]
+$adj. 痛心的；悲惨的
+$vt. 耙地；使苦恼（harrow 的ing形式）
+$vi. 被耙松（harrow 的ing形式）
+%n. （Harrowing）（英）哈罗因（人名）
+    a harrowing story
+#令人伤心的故事
+    a harrowing experience
+#痛苦的经历
+
+trumpery: 英[ˈtrʌmpəri] 美[ˈtrʌmpəri]
+$n. 中看不中用的东西；废话；废物
+%adj. 无用的；虚有其表的
+    a truck loaded with household trumpery
+#装满零星杂物的卡车
+    a trumpery argument
+#肤浅的论据
+
+illuminati: 英[ɪˌluːmɪˈnɑːtiː] 美[ɪˌluːməˈnɑːtiː]
+$n. 自称睿智的人；上层人士，社会精英
+$n. （Illuminati）光照派；光照会
+%n. （Illuminati）（意）伊卢米纳蒂（人名）
+    Listen to the voice of illuminati.
+#聆听智者的声音。
+
+mutineer: 英[ˌmjuːtəˈnɪə(r)] 美[ˌmjuːtəˈnɪr]
+%n. 反抗者；叛变者
+    The mutineers who tried to take over the ship were all hanged.
+#企图控制船只的叛变者全部被吊死了。
+
+addle: 英[ˈæd(ə)l] 美[ˈæd(ə)l]
+$vt. 使腐坏；使混乱
+$vi. 变质；变混乱
+%adj. 腐坏的；糊涂的，昏乱的
+    I have addled my head with writing all day.
+#我一整天都在写东西，整个人头昏脑涨的。
+
+rarefaction: 英[ˌreərɪˈfækʃ(ə)n] 美[ˌrerəˈfækʃ(ə)n]
+%n. [声] 稀疏；（气体）稀薄
+    The rarefaction of the air made it hard for them to breathe.
+#空气稀薄使他们呼吸困难。
+
+macerate: 英[ˈmæsəreɪt] 美[ˈmæsəreɪt]
+$vt. 把……浸软；使……消瘦
+%vi. 浸软；消瘦
+    He served peaches macerated in wine for dessert.
+#他把浸过酒的桃子作为甜点。
+
+minuet: 英[ˌmɪnjuˈet] 美[ˌmɪnjuˈet]
+$n. 小步舞；米奴哀舞
+%vi. 跳米奴哀舞；跳小步舞
+    When only four, mozart was composing minuets.
+#当莫扎特四岁时，就开始写小步舞曲。
+
+fiat: 英[ˈfiːæt; ˈfiːət] 美[ˈfiːɑːt]
+$n. 命令；许可；政法
+%n. （Fiat）(西）菲亚特（人名）
+    the fiat of conscience
+#良心驱使下的决定
+    He tried to impose solutions to the country's problems by fiat.
+#他试图授权强行解决国家面临的问题。
+
+careworn: 英[ˈkeəwɔːn] 美[ˈkerwɔːrn]
+%adj. 忧心忡忡的；饱经忧患的；疲倦的
+    a careworn face
+#愁云密布的脸
+
+velvety: 英[ˈvelvəti] 美[ˈvelvəti]
+%adj. 天鹅绒般柔软的；醇和的，可口的
+    a velvety wine
+#味道醇和的酒
+    She heard the maid's velvety voice calling her from downstairs.
+#她听见女仆从楼下唤她的软绵绵的声音。
+
+diatribe: 英[ˈdaɪətraɪb] 美[ˈdaɪətraɪb]
+%n. （无休止的）指责；（长篇）抨击，谴责
+    sb.'s violent diatribes against gambling
+#某人对赌博行为的猛烈押击
+
+jaundice: 英[ˈdʒɔːndɪs] 美[ˈdʒɔːndɪs]
+$n. 黄疸；偏见；乖僻
+%vt. 使怀偏见；使患黄疸
+    He developed a jaundiced view of personal relationships.
+#他已经习惯于戴着有色眼镜来看待人际关系。
+
+contumacy: 英[ˈkɒntjʊməsi] 美[ˈkɑːntjʊməsi]
+%n. 拒不服从，抗命；藐视法庭
+    Most of successful men have the characteristics of contumacy and doughty.
+#绝大多数成功人士都由共同的特质：脾气倔强，性格刚强。
+
+penance: 英[ˈpenəns] 美[ˈpenəns]
+$n. 忏悔；苦修；苦差事
+%v. 使忏悔；使苦修
+    He is doing penance for his sins.
+#他正在为自己所犯的罪而悔过。
+
+fatuity: 英[fəˈtjuːɪti] 美[fəˈtuːəti]
+%n. 昏庸；愚昧；愚蠢的言行
+    It also encourages people to banish the fatuity, to be creative and push the social progress continuously.
+#它激励人们驱除愚昧，求是创新，并不断推动着社会的进步。
+
+proverbial: 英[prəˈvɜːbiəl] 美[prəˈvɜːrbiəl]
+$adj. 谚语的，俗话所说的；众所周知的
+%n. （常用于委婉替代谚语或成语中未出现的词）那东西，那玩意儿
+    proverbial wisdom
+#谚语表达的智慧
+    the proverbial London fog
+#有名的伦敦雾
+    The general's devotion to his men is proverbial.
+#将军对部下的爱是众所周知的。
+
+pulchritude: 英[ˈpʌlkrɪtjuːd] 美[ˈpʌlkrɪtjuːd]
+%n. 美丽；标致
+    Her dress shows her pulchritude to advantage.
+#她的裙子衬托出了她的美丽。
+
+vying: 英[ˈvaɪɪŋ] 美[ˈvaɪɪŋ]
+$adj. 竞争的
+%v. 争夺（vie 的现在分词）
+    All vying swimmers came to the judge's desk.
+#所有的游泳选手都去了裁判台。
+
+prowl: 英[praʊl] 美[praʊl]
+$v. 潜行；徘徊；搜寻
+%n. 徘徊，潜行；悄悄踱步；（动物）出动捕猎；四处搜寻（干某事的机会）
+    prowl at night
+#在夜晚徘徊
+    on the prowl
+#在潜行，在俳徊
+    I prowled around a farmer's field admiring the bridge.
+#我在一片农夫的田地里排徊，欣赏着那座桥。
+
+scalding: 英[ˈskɔːldɪŋ] 美[ˈskɔːldɪŋ]
+$adj. 滚烫的；尖刻的
+$n. [外科]烫伤
+%v. 烫（scald 的 ing 形式）
+    scalding coffee
+#滚滚的咖啡
+    the scalding sun in summer
+#夏天毒辣的太阳
+    scalding criticism
+#尖刻的批评
+    scalding hot
+#灼热
+
+palliate: 英[ˈpælieɪt] 美[ˈpælieɪt]
+%vt. 减轻；掩饰；辩解
+    palliate the pain
+#减轻疼痛
+
+leery: 英[ˈlɪəri] 美[ˈlɪri]
+%adj. 机敏的；狡猾的；猜疑的；送秋波的
+    a leery chap
+#狡猾的家伙
+    with a leery eye
+#以机灵的目光
+    I am leery about his motives.
+#我对他的动机持怀疑态度。
+
+centrifugal: 英[ˌsentrɪˈfjuːɡ(ə)l] 美[senˈtrɪfjəɡ(ə)l]
+$adj. [力] 离心的；远中的
+%n. 离心机；转筒
+    the centrifugal tendencies in modern society
+#现代社会的离心趋势
+
+prorogue: 英[prəʊˈrəʊɡ] 美[proʊˈroʊɡ]
+%v. 休会
+    prorogue a problem
+#搁置一个问题
+
+exultant: 英[ɪɡˈzʌltənt] 美[ɪɡˈzʌltənt]
+%adj. 非常高兴的；欢跃的；狂喜的；欢欣鼓舞的
+    The exultant crowds were dancing in the square.
+#欢腾的人群在广场上跳舞。
+
+rejoinder: 英[rɪˈdʒɔɪndə(r)] 美[rɪˈdʒɔɪndər]
+%n. 反驳；回答；（被告的）[法] 第二次答辩
+    make no rejoinder
+#未作答
+    His talk brought a strong rejoinder from one of his opponents.
+#他的谈话招致一名对手的强烈反驳。
+
+defray: 英[dɪˈfreɪ] 美[dɪˈfreɪ]
+%vt. 支出；支付
+    defray the expenses of the trip
+#支付旅行费用
+
+supererogatory: 英[ˌsuːpərəˈrɒɡətəri] 美[ˌsuːpərɪˈrɑːɡəˌtɔːri]
+%adj. 额外的，多余的；职责以外的
+    It was supererogatory for him to gloat.
+#他幸灾乐祸地看，真是多余。
+
+odium: 英[ˈəʊdiəm] 美[ˈoʊdiəm]
+%n. 憎恶；讨厌
+    expose sb. to odium
+#使某人遭受憎恨
+    The politician has been exposed to public odium and contempt.
+#那名政客遭到了公众的憎恶和鄙视。
+
+elegy: 英[ˈelədʒi] 美[ˈelədʒi]
+%n. 挽歌，哀歌
+    Gray's Elegy Written in a Country Churchyard is a famous English poem.
+#格雷的《乡村教堂墓地挽歌》是一首著名的英国诗歌。
+
+studied: 英[ˈstʌdid] 美[ˈstʌdid]
+$v. 学习；端详；研究；求学；记住（或背下）台词；仔细考虑；尽力取得（结果）（study 的过去式及过去分词）
+%adj. 深思熟虑的；博学的；刻意的；精心策划的；装模作样的
+    a studied insult
+#蓄意侮辱
+    a studied reply
+#深思熟虑的回应
+    The government treated the news of defeat with studied indifference.
+#政府对战败的消息故意装得满不在乎。
+
+attire: 英[əˈtaɪə(r)] 美[əˈtaɪər]
+$n. <正式>服装，衣服
+%v. 着装
+    neat attire
+#整洁的服装
+    night attire
+#睡衣
+    attire oneself in gray
+#穿灰色的衣服
+    She was completely attired in black, from head to toe.
+#她从头到脚穿一身黑。
+
+avow: 英[əˈvaʊ] 美[əˈvaʊ]
+%vt. 承认；公开宣称；坦率承认
+    avow one's guilt
+#公开认罪
+    He avowed his support of the plan.
+#他公开表示支持这项计划。
+
+sampler: 英[ˈsɑːmplə(r)] 美[ˈsæmplər]
+%n. [自] 采样器；取样器；样品检查员
+    a cotton sampler
+#棉花样品检样员
+    a sampler of English poetry
+#英国诗歌样本
+
+calumniate: 英[kəˈlʌmnɪˌeɪt] 美[kəˈlʌmniˌeɪt]
+%vt. 诽谤；中伤；诬蔑
+    calumniate the leader of the opposition
+#诽谤反对派的领袖
+
+protean: 英[ˈprəʊtiən] 美[ˈproʊtiənˌproʊˈtiːən]
+%adj. 千变万化的；一人演几个角色的；变形虫的
+    the protean changes of nature
+#自然界的千变万化
+    He was so protean an artist that critics could never categorize his work.
+#他是一个变化无常的艺术家，评论家们永远无法给他的作品归类。
+
+coronate: 英[kɔːrəˌneɪt] 美[ˈkɔːrəneɪt]
+%vt. 加冕
+    coronate the king
+#为国王加冕
+
+glowing: 英[ˈɡləʊɪŋ] 美[ˈɡloʊɪŋ]
+$adj. 热情洋溢的，赞不绝口的；（皮肤）容光焕发的，血色很好的；发红光的；发出柔和光亮的；（颜色）明亮温暖的
+%v. 发出微弱而稳定的光；（脸部或身体）发红，发热；喜形于色，容光焕发（glow 的现在分词）
+    glowing colors
+#鲜亮的顔色
+    glowing prospects
+#光明的前景
+    glowing cheeks
+#红润的双频
+    glowing description
+#生动的描述
+
+preen: 英[priːn] 美[priːn]
+$vt. 打扮；用嘴整理；赞扬
+%vi. 洋洋自得；把（自己）打扮漂亮
+    preen oneself on the victory
+#因胜利而得意扬扬
+    She combed her long hair carefully, preening in the mirror.
+#她仔细梳理自己的一头秀发，对着镜子精心打扮。
+
+increment: 英[ˈɪŋkrəmənt] 美[ˈɪŋkrəmənt]
+$n. <正式>（尤指连续、定量的）增长；<正式>工资定量增长，定量加薪；（变量、函数的）正（或负）增量
+%v. （计算机）使（数字值）各自增加
+    a sudden increment in birth rate
+#出生率的突然增长
+    the increment of knowledge
+#知识的增加
+
+travesty: 英[ˈtrævəsti] 美[ˈtrævəsti]
+$n. 歪曲；滑稽作品；拙劣的模仿作品
+%vt. 歪曲；滑稽地模仿
+    travesty sb.'s mode of speech
+#滑稽地模仿某人的讲话方式
+    The film is, in his view, a travesty of the truth.
+#在他看来，这部电影是对事实的歪曲。
+
+largess: 英[lɑːˈdʒes] 美[lɑːrˈdʒes]
+%n. 慷慨的赠予；赠品
+    distribute largess to the poor
+#把赠品发给穷人
+    Christmas is a day of largess.
+#圣诞节是慷慨赠送礼物的日子。
+
+citation: 英[saɪˈteɪʃ(ə)n] 美[saɪˈteɪʃ(ə)n]
+%n. 引文，引语；传唤，传票；表彰，嘉奖状；引用，引证
+    issue a citation
+#发传票
+    All citations are taken from the 2019 edition of the book.
+#所有的引文均取自于该书2019年的版本。
+
+muted: 英[ˈmjuːtɪd] 美[ˈmjuːtɪd]
+$adj. （声音）压低的，减弱的；温和的，委婉的；（颜色或光线）柔和的，不耀眼的；（乐器声音）柔和的，弱化的
+%v. 消音，减音；减弱，缓解；关闭声音（mute 的过去式和过去分词）；减弱，缓和
+    speak in a muted voice
+#轻声说话
+    the sting of an old muted emotion
+#被淡忘的旧情引起的刺痛
+    On the whole, their criticism was muted.
+#总的来说，他们的批评是温和的。
+
+machination: 英[ˌmæʃɪˈneɪʃ(ə)n] 美[ˌmæʃɪˈneɪʃ(ə)n]
+%n. 阴谋；诡计
+    perform machinations
+#耍阴谋
+
+whimper: 英[ˈwɪmpə(r)] 美[ˈwɪmpər]
+$v. 呜咽，啜泣；啜泣着说；低声抱怨
+%n. 呜咽声，啜泣声；牢骚，怨声；微弱的声音；虎头蛇尾
+    whimper over one's troubles
+#哭诉自己的苦楚
+    without a whimper
+#一声不吭地
+    The wind whimpered in the woods.
+#风在树林中鸣咽。
+
+beseech: 英[bɪˈsiːtʃ] 美[bɪˈsiːtʃ]
+%vt. 恳求，哀求；乞求，急切地要求得到
+    beseech sb. for mercy
+#哀求某人开恩
+    beseech an interview
+#急切恳求一次晋见机会
+    I beseech you to do this before it is too late.
+#我恳求你做这件事吧，趁现在还来得及。
+
+stipple: 英[ˈstɪp(ə)l] 美[ˈstɪp(ə)l]
+$v. （绘画、雕刻术语）点画，点刻，点彩
+%n. 点画，点刻法（或效果）
+    She created the impression of strong sunlight by stippling the canvas in yellow and white.
+#她在画布上用黄白两色点画出强烈的阳光效果。
+
+doff: 英[dɒf] 美[dɔːf]
+%vt. 脱（衣，帽等）；丢弃，废除；落纱
+    doff one's military uniform for a business suit
+#脱下军装换上便服
+    doff one's hat in salute
+#脱帽致敬
+
+stupefy: 英[ˈstjuːpɪfaɪ] 美[ˈstuːpɪfaɪ]
+%vt. 使惊呆；使昏迷
+    We were so stupefied by the news that we all sat in silence for a long time.
+#听到这个消息我们都呆了，过了良久还一言不发。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

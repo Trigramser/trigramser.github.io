@@ -1,0 +1,677 @@
+<<<<<<< HEAD
+nurture: 英[ˈnɜːtʃə(r)] 美[ˈnɜːrtʃər]
+$v. 培养，促进；养育，培育；抱有，怀有；扶持，帮助；滋养，滋生
+%n. 养育，培育；教养；（总称）环境因素
+    As a record company director, his job is to nurture young talents.
+#作为一家唱片公司的董事，他的职责在于培养年轻人才。
+
+hitherto: 英[ˌhɪðəˈtuː] 美[ˌhɪðərˈtuː]
+%adv. 迄今，至今
+    What happened to the missing hunter is hitherto a complete mystery to us.
+#那个失踪的猎人发生了什么事，到现在对我们来说还是个谜。
+
+reside: 英[rɪˈzaɪd] 美[rɪˈzaɪd]
+%v. <正式>居住，定居；<正式>存在于；<正式>（权利、权力等）属于；位（于）
+    These are said to be foreigners residing in our city.
+#据说这些是在我们城市定居的外国人。
+
+discreet : 英[dɪˈskriːt] 美[dɪˈskriːt]
+%adj. 谨慎的，周到的；小巧的，不引人注意的
+    You should be discreet in giving advice, humble in accepting it.
+#提出忠告要谨慎，接受忠告要虚心。
+
+fusion: 英[ˈfjuːʒ(ə)n] 美[ˈfjuːʒ(ə)n]
+%n. 融合，结合；核聚变；混合音乐；融合菜肴；熔化；融合物
+    This metal is formed by the fusion of two other types of metal.
+#这种金属是由两种其他金属熔合而成的。
+
+infringe: 英[ɪnˈfrɪndʒ] 美[ɪnˈfrɪndʒ]
+%v. 违反，违背（法律、规则等）；侵犯，侵害（权益）
+    The prisoners complained that their rights were being infringed.
+#犯人们抱怨他们的权利受到了侵犯。
+
+oblige: 英[əˈblaɪdʒ] 美[əˈblaɪdʒ]
+%v. 迫使，责成；施恩惠于，帮……的忙；<古>使（某人）遵守誓约（或承诺、约定）
+    I am obliged to you for the generous support.
+#我十分感激你的大力支持。
+
+plough: 英[plaʊ] 美[plaʊ]
+$v. 耕，犁；（用或仿佛用犁）划出（沟或线）；（用犁）挖出；（轮船，木船）穿过（水域），破浪前进；奋力前进；（不顾困难或要求停止的警告而）继续坚持；<美>（用扫雪机）从（道路）清除积雪；（尤指车辆）猛撞
+%n. 犁；犁过的地，耕地；<美>雪犁，扫雪机；北斗七星（the Plough)；北斗七星（the Plough)
+    Farmers start ploughing in the spring.
+#农民春天开始耕种。
+
+verdict: 英[ˈvɜːdɪkt] 美[ˈvɜːrdɪkt]
+%n. （法庭的）裁定，判决；（权威的）评判，定论；意见，决定
+    The jury reached a majority verdict of 10 to 2 in favor of the defendant.
+#陪审团以10票对2票的多数做出了裁决，判定被告胜诉。
+
+chronic: 英[ˈkrɒnɪk] 美[ˈkrɑːnɪk]
+%adj. （疾病）慢性的，长期的；（问题）一直有的，反复出现的；难以根除的，积习难改的；<英，非正式>糟透的，拙劣的
+    People suffering from chronic indigestion cannot eat more than enough.
+#患有慢性消化不良的人不能多吃。
+
+prestige: 英[preˈstiːʒ] 美[preˈstiːʒ]
+$n. 声望，威信
+%adj. 受尊重的，令人敬仰的；贵重的，气派的
+    The university has immense prestige.
+#这所大学有很高的声望。
+
+fleet: 英[fliːt] 美[fliːt]
+$n. 船队，舰队；（某家公司控制的）车队；小湾，水道
+$adj. <文>快速的；快速的；（水）浅的
+$adv. 浅，不深地
+%v. <文>疾驰，飞逝
+    A peace-keeping fleet has been sent to the area.
+#一支维和舰队已经被派往那个地区。
+
+hectic: 英[ˈhektɪk] 美[ˈhektɪk]
+$adj. 繁忙的，忙乱的；（脸）潮红的；<古>（与）痨病（有关）的，发痨病热的
+%n. <古>潮热，痨病热
+    This morning there was a hectic trading on the stock exchange.
+#今天上午证券交易所的业务十分繁忙
+
+taboo: 英[təˈbuː] 美[təˈbuː]
+$n. （宗教或社会习俗方面的）禁忌，忌讳；禁忌的事物，禁忌行为（或做法）；塔布
+$adj. 忌讳的，为社会习俗所不容的，不被人接受的；（因会冒犯人或引起尴尬而）禁忌的，忌讳的；（因太神圣或太邪恶而）禁止接触的，禁止使用的
+%vt. 把……列为禁忌
+    There are certain rude words that are taboos in ordinary conversation.
+#在日常谈话中忌讳说一些粗俗的话。
+
+signature: 英[ˈsɪɡnətʃə(r)] 美[ˈsɪɡnətʃər]
+$n. 签名，署名；签字，签署；鲜明特色，明显特征；（印刷）折标；书贴；<美>标记，用法签（处方上说明药的用法的部分）；（音乐的）拍号；（音乐的）调号
+%adj. 标志性的，惯有的
+    Put your signature here please, after you have read the document.
+#读了文件之后，请在这里签名
+
+weary: 英[ˈwɪəri] 美[ˈwɪri]
+$adj. 疲劳的，疲倦的；使人疲劳的，令人厌烦的；厌倦的，厌烦的
+%v. （使）疲倦，（使）厌烦；<苏格兰>忧伤，烦恼
+    The long hours of work have wearied me.
+#长时间的工作使我疲惫不堪。
+
+guarantee: 英[ˌɡærənˈtiː] 美[ˌɡærənˈtiː]
+$v. 确保，保证；担保，为……作保；保修，包换
+%n. 保证，担保；保修单，质量保证书；担保金，抵押品
+    The TV set is guaranteed for five years.
+#这台电视机保修5年。
+
+rural: 英[ˈrʊərəl] 美[ˈrʊrəl]
+%adj. 农村的，乡村的；有乡村特色的，有乡土气息的
+    Rural life is usually more peaceful than city life.
+#乡村生活往往比城市生活更宁静。
+
+immerse: 英[ɪˈmɜːs] 美[ɪˈmɜːrs]
+%v. 使沉浸（于），使深陷（于）；使浸没（于液体中）
+    He got some books out of the library and immersed himself in history and culture.
+#他从图书馆借了一些书，使自己沉浸在历史和文化中。
+
+sheer: 英[ʃɪə(r)] 美[ʃɪr]
+$adj. （用于强调）纯粹的，完全的；程度深的，数量大的；陡峭的，垂直的；（织物等）极薄的，透明的
+$adv. 垂直地，陡峭地；<古>彻底地，完全地
+$v. 急转弯，突然转向；避开（不愉快的话题）
+%n. 精纺（或透明）织物（或物品）；（尤指船）突然偏航，突然转向；（船首及船尾处的）舷弧
+    The cliffs rise sheer from the beach.
+#悬崖从海滩上拔地而起。
+
+equity: 英[ˈekwəti] 美[ˈekwəti]
+%n. 公平，公正；资产净值；普通股；衡平法
+    Their aim is for a society based on equity and social justice.
+#他们的目标是建立一个立足于公平和社会正义基础之上的社会。
+
+preach: 英[priːtʃ] 美[priːtʃ]
+%v. 布道，讲道；宣扬，鼓吹；说教，训诫
+    The teacher was preaching to her students about the virtue of observing discipline.
+#老师正向学生讲遵守纪律的优点。
+
+wink: 英[wɪŋk] 美[wɪŋk]
+$v. 眨眼示意，使眼色；（灯光）闪烁，明灭
+%n. 眨眼（示意），眼色；<非正式>一会儿，一瞬间；小憩；闪烁；弹塑料片游戏中用的塑料圆片
+    He winked at her, and she knew he was only pretending to be angry.
+#他向她眨眼示意，她于是明白了他在假装生气。
+
+purge: 英[pɜːdʒ] 美[pɜːrdʒ]
+$v. 清洗（组织中的异己分子）；清除，排除（不愉快的情况或感觉）；删除（不需要的东西） ；催泻，通便；<法律>弥补，消除（蔑视法庭罪）；（尤指由于患有贪食症）使吐出吃下的食物，催吐
+%n. （对异己的）清洗，排除；泻药
+    The new president has promised to purge the corruption of police force.
+#新任总统保证清除警部队中的腐败现象。
+
+conspicuous: 英[kənˈspɪkjuəs] 美[kənˈspɪkjuəs]
+%adj. 出色的，引人注目的；显眼的，明显的
+    He tried not to look conspicuous and move slowly along the back of the room.
+#他沿着房间后部慢慢移动，尽量不使自己显眼。
+
+rinse: 英[rɪns] 美[rɪns]
+$v. （用清水）冲洗；（用其他液体）洗；把（肥皂、污垢等）洗掉（rinse sth. off/out）；漱（口）；染发
+%n. 冲洗；头发定型剂，染发剂；（清洗用的）液体
+    There was no soap, so I just quickly rinsed my hands with water.
+#由于没有肥皂，我只是用水匆匆地冲了一下手。
+
+rejoice: 英[rɪˈdʒɔɪs] 美[rɪˈdʒɔɪs]
+%v. 非常高兴，深感欣喜；<英>享有（用于吸引人注意奇特之处，尤指名字）（rejoice in）；<古>使感到高兴，使喜悦
+    The fans rejoiced over the victory of their team.
+#球迷因自己的队取得胜利而欣喜若狂。
+
+vanilla: 英[vəˈnɪlə] 美[vəˈnɪlə]
+$n. 香草精，香子兰精；香草冰淇淋；香草冰淇淋色，浅奶黄色；香子兰，香果兰，香夹兰
+%adj. 香草味的；无特色的，普通的
+    Add two teaspoons of vanilla and stir.
+#加入两匙香子兰然后搅拌。
+
+agenda: 英[əˈdʒendə] 美[əˈdʒendə]
+%n. 待议事项，议事日程；（政治）议题；秘密计划，秘密目标
+    It's time for us to put the protection of wild animals on the agenda.
+#是把保护野生动物提上日程的时候了。
+
+slight: 英[slaɪt] 美[slaɪt]
+$adj. 轻微的，少量的；（人）瘦小的，纤弱的；（尤指创作）不深奥的，不重要的
+$v. 怠慢，轻视；<古>破坏，摧毁（防御工事）
+%n. 冒犯，冷落
+    A slight push can throw the slender girl down.
+#轻轻一推那纤弱的女孩就可能摔倒。
+
+deflect: 英[dɪˈflekt] 美[dɪˈflekt]
+$vt. 使转向；使偏斜；使弯曲
+%vi. 转向；偏斜
+    The president deflected the mounting criticism by announcing tax cuts.
+#总统宣布减税以转移日渐增多的批评。
+
+fatal: 英[ˈfeɪt(ə)l] 美[ˈfeɪt(ə)l]
+%adj. 致命的；导致失败的，灾难性的
+    Hundreds of people died in the fatal volcanic eruption fifty years ago.
+#数百人死于50年前的那场毁灭性的火山爆发中。
+
+ecstasy: 英[ˈekstəsi] 美[ˈekstəsi]
+%n. 狂喜，陶醉；摇头丸（Ecstasy）；（情绪或宗教原因引起的）疯狂，出神
+    The children were in ecstasies when he told them about the holiday.
+#当他告知孩子们要去度假时，他们都欣喜若狂。
+
+kidnap: 英[ˈkɪdnæp] 美[ˈkɪdnæp]
+$v. 绑架，劫持
+%n. 绑架，诱拐
+    The wife of the businessman has been kidnapped from her home in London.
+#那个商人的妻子在她伦敦的家里被人绑架了。
+
+oven: 英[ˈʌv(ə)n] 美[ˈʌv(ə)n]
+%n. 烤炉，烤箱；小熔炉，小窑；（纳粹集中营的）火化室
+    He put the duck in the oven at about 200℃, and took it out an hour later.
+#他把鸭子放进大约 200 摄氏度的烤箱里，一个小时后取出。
+
+intervene: 英[ˌɪntəˈviːn] 美[ˌɪntərˈviːn]
+%v. 干预，干涉；插话，打岔；干扰，阻挠；发生于其间，介于中间；调停，斡旋
+    The two brothers were starting fight when their father intervened.
+#兄弟俩正要打架，他们的父亲阻止了他们。
+
+vibrate: 英[vaɪˈbreɪt] 美[ˈvaɪbreɪt]
+%v. （使）震动，（使）颤动；摇摆，踌躇
+    If I drive my car too fast, the engine starts to vibrate.
+#要是我驾车太快了，发动机就开始颤动起来。
+
+straightforward: 英[ˌstreɪtˈfɔːwəd] 美[ˌstreɪtˈfɔːrwərd]
+$adj. 简单的，易懂的；（人）诚实的，坦率的
+%adv. 直截了当地，坦率地
+    The issue is not quite as straightforward as it appears.
+#这个问题不像看上去那样简单。
+
+vain: 英[veɪn] 美[veɪn]
+%adj. 虚荣的，自负的；徒劳的
+    Vain glory blossoms but never bears.
+#虚荣能开花，但从不结果。
+
+squeeze: 英[skwiːz] 美[skwiːz]
+$v. 挤压，捏；挤出，榨出（液体等）；（使）挤入，塞入；为……挤出时间（squeeze someone/something in）；排挤出（squeeze someone/something out）；敲诈勒索，榨取；严格限制，紧缩（资金）；好不容易取得，勉强成功；紧紧闭上双眼；扣扳机射击，打一整发（子弹）；拍照；（桥牌）逼（对方）放弃一张赢墩牌，逼牌
+%n. 挤压，捏；拥挤，塞满；挤出来的少量事物；紧缩，拮据；<美，非正式> 男朋友，女朋友；<非正式> 勒索（或敲诈）的钱；拥抱；（桥牌）紧逼打法（逼对手扔掉一张重要的牌）；压模，拓印；（棒球）抢分战术； <旧> 拥挤的社交舞会
+    She gave the orange another squeeze and got more juice.
+#她再次挤压橙子，多弄出了一些橙汁。
+
+massive: 英[ˈmæsɪv] 美[ˈmæsɪv]
+$adj. 大而重的，结实的；非常严重的；大量的，大规模的；<非正式>特别成功的，非常有影响的；（岩石或地层）均匀构造的，大块的；（矿物）外观非晶质的；<英，非正式>极好的，非常妙的
+%n. <英，非正式>（某一地区的年轻人群体）嬉蹦音乐迷（或丛林爵士音乐迷）
+    A massive iceberg is floating off the coast.
+#一座巨大的冰山正漂离海岸。
+
+petty: 英[ˈpeti] 美[ˈpeti]
+%adj. 不重要的，琐碎的，小的；小气的，小心眼的；次要的，职位低的；（罪行）轻微的
+    There are petty thefts around here, stealing milk bottles or something.
+#附近有小偷小摸发生，像是偷牛奶瓶之类的。
+
+mat: 英[mæt] 美[mæt]
+%n. 地垫，垫子；团，簇
+    He stood on the bath mat as he dried himself.
+#站在浴缸旁边的垫子上擦干身体
+
+catholic: 英[ˈkæθlɪk] 美[ˈkæθlɪk]
+$adj. 广泛的，包罗万象的；天主教的（Catholic）
+%n. 天主教教徒
+    As a young person he had more catholic tastes than he does now.
+#他年轻时的兴趣爱好比现在广泛得多。
+
+clash: 英[klæʃ] 美[klæʃ]
+$n. 冲突，交战；争论，争执；交锋，比赛；分歧，差异；（金属的）撞击声；（时间上的）冲突，撞期；（颜色、图案等的）不相配
+%v. 迥然不同，抵触；冲突，交战；争论，争执；（时间上）相冲突，同时发生；（颜色、图案等）不协调，不相配；（体育）交锋，对阵；（使）撞击发出铿锵声
+    The coat clashes with your trousers.
+#这件外套和你的裤子不配。
+
+refresh: 英[rɪˈfreʃ] 美[rɪˈfreʃ]
+$v. 使恢复精神，使消除疲劳；使记起，提醒；翻新，使变新；刷新，更新（网页）；<美> 再斟满（饮料）；把（食物）浸入冷水冷却（或保鲜）；恢复精神；喝饮料，吃点心；补充给养
+%n. （计算机）刷新
+    You need a holiday to refresh yourself.
+#你该去休个假，让自己振作起来。
+
+allocate: 英[ˈæləkeɪt] 美[ˈæləkeɪt]
+%v. 分配，分派，划拨
+    The fund was allocated among the various organizations concerned with the welfare of children.
+#这笔专款在与儿童福利有关的组织之间分配。
+
+monologue: 英[ˈmɒnəlɒɡ] 美[ˈmɑːnəlɔːɡ]
+%n. 长篇独白，独角戏；长篇大论，滔滔不绝的讲话
+    She made a monologue on her last stay in hospital.
+#她唠叨着她上一次住院的经历。
+
+milk: 英[mɪlk] 美[mɪlk]
+$n. （牛或羊等的）奶；奶汁，母乳；乳液（用于清洁或保护皮肤）；（椰子等植物的）白色汁液
+%v. 挤奶；榨取，勒索；充分利用；迎合（观众）；（动物，尤指母牛）产奶，出奶；从……抽取液汁（或毒液等）
+    Two dishonest directors were found to have milked the company of several million dollars.
+#不诚实的董事被发现榨取了公司几百万美元。
+
+hardy: 英[ˈhɑːdi] 美[ˈhɑːrdi]
+$adj. 坚强的，吃苦耐劳的；（植物）耐寒的；坚定不移的，非常忠诚的；鲁莽的，蛮横的
+%n. 方柄凿
+    A few hardy souls continue to swim in the sea even in winter.
+#一些身强力壮的人甚至在冬天仍继续在海中游泳。
+
+depression: 英[dɪˈpreʃn] 美[dɪˈpreʃ(ə)n]
+%n. 抑郁，沮丧；萧条（期），不景气；低气压；凹陷，浅坑；俯角，俯视角
+    There was a depression in the sand where he had been lying.
+#他躺过的沙子上有个凹陷。
+
+stab: 英[stæb] 美[stæb]
+$v. （用刀等锐器）刺，戳，捅；（用手指或尖物）戳，捅，刺；（疼痛或痛苦的东西）刺痛；（话语）刺伤，刺痛；突然感到（一阵不愉快或负面的感情）；（迅速地）击（球），踢（球）
+%n. 刺，戳，捅，刺（或戳、捅）的伤口；突然一阵剧痛（或难受的感觉）；<非正式>尝试，企图；（流行音乐）乐节间的断音
+    She stabbed a slice of bread.
+#她戳起一片面包。
+
+nominal: 英[ˈnɒmɪn(ə)l] 美[ˈnɑːmɪn(ə)l]
+%adj. 名义上的，有名无实的；（金额）微不足道的，象征性的；名词的，名词性的；（数量或价值）票面的；（主要用于太空旅行）运行正常的，令人满意的
+    The students lodged at nominal rent because the landlady liked their company rather than their money.
+#学生们租的房子房租很低，因为房东太太喜欢与学生做伴，而不是图他们的钱。
+
+abusive: 英[əˈbjuːsɪv] 美[əˈbjuːsɪv]
+%adj. 辱骂的，侮辱的；凌辱的，虐待的；受虐待的；舞弊的，不法的；滥用的
+    He always becomes abusive to others when he's drunk.
+#他喝醉时常常会骂人。
+
+pastry: 英[ˈpeɪstri] 美[ˈpeɪstri]
+%n. 油酥面团；酥皮糕点
+    Ann makes delicious pastry, you should try her apple pie.
+#安做的糕点很好吃，你应该尝尝她做的苹果派。
+
+superiority: 英[suːˌpɪəriˈɒrəti] 美[suːˌpɪriˈɔːrəti]
+%n. 优越，优势；优越感，骄傲自大
+    The new design has much greater superiority over the previous ones.
+#这种新型设计的优越性远远大于以往的设计。
+
+plaster: 英[ˈplɑːstə(r)] 美[ˈplæstər]
+$n. 灰泥；熟石膏；<英>创可贴，膏药
+%v. 用灰泥抹（墙等）；（用某物）涂抹，覆盖；大量张贴，贴满；使……紧贴；把（头发）梳平；敷石膏于，敷膏药于；（新闻报道）充斥于（报纸版面）
+    The plaster on the walls cracked as it dried.
+#墙上的灰泥变干时出现了裂缝。
+
+tend: 英[tend] 美[tend]
+%v. 倾向于，往往会；照顾，护理；走向，趋向；<美>招待，照料（商店、酒吧等的顾客）
+    Interest rates are tending upwards/downwards.
+#利率有上升/下降趋势。
+
+blossom: 英[ˈblɒsəm] 美[ˈblɑːsəm]
+$n. （树木的）花，花簇；开花，花期
+%v. 开花；成长，繁盛，兴旺
+    It is springtime now and all the peach trees in the garden are in full blossom.
+#现在是春天了，果园里的所有桃树都开花了。
+
+prompt: 英[prɒmpt] 美[prɑːmpt]
+$v. 促使，导致；鼓励，提示（说话者）；（计算机上）提示；（给演员）提词，提白
+$adj. 迅速的，立刻的；（人）利索的，敏捷的；及时的，准时的；（商品）即期要送的，即期要付的
+$n. （给演员的）提词；（计算机屏幕上显示准备接受指令的）提示； 鼓励，催促；（付款通知单上的）付款期限
+%adv. 准时地
+    She gave a prompt answer to my question.
+#她快速回答了我的问题。
+
+=======
+nurture: 英[ˈnɜːtʃə(r)] 美[ˈnɜːrtʃər]
+$v. 培养，促进；养育，培育；抱有，怀有；扶持，帮助；滋养，滋生
+%n. 养育，培育；教养；（总称）环境因素
+    As a record company director, his job is to nurture young talents.
+#作为一家唱片公司的董事，他的职责在于培养年轻人才。
+
+hitherto: 英[ˌhɪðəˈtuː] 美[ˌhɪðərˈtuː]
+%adv. 迄今，至今
+    What happened to the missing hunter is hitherto a complete mystery to us.
+#那个失踪的猎人发生了什么事，到现在对我们来说还是个谜。
+
+reside: 英[rɪˈzaɪd] 美[rɪˈzaɪd]
+%v. <正式>居住，定居；<正式>存在于；<正式>（权利、权力等）属于；位（于）
+    These are said to be foreigners residing in our city.
+#据说这些是在我们城市定居的外国人。
+
+discreet : 英[dɪˈskriːt] 美[dɪˈskriːt]
+%adj. 谨慎的，周到的；小巧的，不引人注意的
+    You should be discreet in giving advice, humble in accepting it.
+#提出忠告要谨慎，接受忠告要虚心。
+
+fusion: 英[ˈfjuːʒ(ə)n] 美[ˈfjuːʒ(ə)n]
+%n. 融合，结合；核聚变；混合音乐；融合菜肴；熔化；融合物
+    This metal is formed by the fusion of two other types of metal.
+#这种金属是由两种其他金属熔合而成的。
+
+infringe: 英[ɪnˈfrɪndʒ] 美[ɪnˈfrɪndʒ]
+%v. 违反，违背（法律、规则等）；侵犯，侵害（权益）
+    The prisoners complained that their rights were being infringed.
+#犯人们抱怨他们的权利受到了侵犯。
+
+oblige: 英[əˈblaɪdʒ] 美[əˈblaɪdʒ]
+%v. 迫使，责成；施恩惠于，帮……的忙；<古>使（某人）遵守誓约（或承诺、约定）
+    I am obliged to you for the generous support.
+#我十分感激你的大力支持。
+
+plough: 英[plaʊ] 美[plaʊ]
+$v. 耕，犁；（用或仿佛用犁）划出（沟或线）；（用犁）挖出；（轮船，木船）穿过（水域），破浪前进；奋力前进；（不顾困难或要求停止的警告而）继续坚持；<美>（用扫雪机）从（道路）清除积雪；（尤指车辆）猛撞
+%n. 犁；犁过的地，耕地；<美>雪犁，扫雪机；北斗七星（the Plough)；北斗七星（the Plough)
+    Farmers start ploughing in the spring.
+#农民春天开始耕种。
+
+verdict: 英[ˈvɜːdɪkt] 美[ˈvɜːrdɪkt]
+%n. （法庭的）裁定，判决；（权威的）评判，定论；意见，决定
+    The jury reached a majority verdict of 10 to 2 in favor of the defendant.
+#陪审团以10票对2票的多数做出了裁决，判定被告胜诉。
+
+chronic: 英[ˈkrɒnɪk] 美[ˈkrɑːnɪk]
+%adj. （疾病）慢性的，长期的；（问题）一直有的，反复出现的；难以根除的，积习难改的；<英，非正式>糟透的，拙劣的
+    People suffering from chronic indigestion cannot eat more than enough.
+#患有慢性消化不良的人不能多吃。
+
+prestige: 英[preˈstiːʒ] 美[preˈstiːʒ]
+$n. 声望，威信
+%adj. 受尊重的，令人敬仰的；贵重的，气派的
+    The university has immense prestige.
+#这所大学有很高的声望。
+
+fleet: 英[fliːt] 美[fliːt]
+$n. 船队，舰队；（某家公司控制的）车队；小湾，水道
+$adj. <文>快速的；快速的；（水）浅的
+$adv. 浅，不深地
+%v. <文>疾驰，飞逝
+    A peace-keeping fleet has been sent to the area.
+#一支维和舰队已经被派往那个地区。
+
+hectic: 英[ˈhektɪk] 美[ˈhektɪk]
+$adj. 繁忙的，忙乱的；（脸）潮红的；<古>（与）痨病（有关）的，发痨病热的
+%n. <古>潮热，痨病热
+    This morning there was a hectic trading on the stock exchange.
+#今天上午证券交易所的业务十分繁忙
+
+taboo: 英[təˈbuː] 美[təˈbuː]
+$n. （宗教或社会习俗方面的）禁忌，忌讳；禁忌的事物，禁忌行为（或做法）；塔布
+$adj. 忌讳的，为社会习俗所不容的，不被人接受的；（因会冒犯人或引起尴尬而）禁忌的，忌讳的；（因太神圣或太邪恶而）禁止接触的，禁止使用的
+%vt. 把……列为禁忌
+    There are certain rude words that are taboos in ordinary conversation.
+#在日常谈话中忌讳说一些粗俗的话。
+
+signature: 英[ˈsɪɡnətʃə(r)] 美[ˈsɪɡnətʃər]
+$n. 签名，署名；签字，签署；鲜明特色，明显特征；（印刷）折标；书贴；<美>标记，用法签（处方上说明药的用法的部分）；（音乐的）拍号；（音乐的）调号
+%adj. 标志性的，惯有的
+    Put your signature here please, after you have read the document.
+#读了文件之后，请在这里签名
+
+weary: 英[ˈwɪəri] 美[ˈwɪri]
+$adj. 疲劳的，疲倦的；使人疲劳的，令人厌烦的；厌倦的，厌烦的
+%v. （使）疲倦，（使）厌烦；<苏格兰>忧伤，烦恼
+    The long hours of work have wearied me.
+#长时间的工作使我疲惫不堪。
+
+guarantee: 英[ˌɡærənˈtiː] 美[ˌɡærənˈtiː]
+$v. 确保，保证；担保，为……作保；保修，包换
+%n. 保证，担保；保修单，质量保证书；担保金，抵押品
+    The TV set is guaranteed for five years.
+#这台电视机保修5年。
+
+rural: 英[ˈrʊərəl] 美[ˈrʊrəl]
+%adj. 农村的，乡村的；有乡村特色的，有乡土气息的
+    Rural life is usually more peaceful than city life.
+#乡村生活往往比城市生活更宁静。
+
+immerse: 英[ɪˈmɜːs] 美[ɪˈmɜːrs]
+%v. 使沉浸（于），使深陷（于）；使浸没（于液体中）
+    He got some books out of the library and immersed himself in history and culture.
+#他从图书馆借了一些书，使自己沉浸在历史和文化中。
+
+sheer: 英[ʃɪə(r)] 美[ʃɪr]
+$adj. （用于强调）纯粹的，完全的；程度深的，数量大的；陡峭的，垂直的；（织物等）极薄的，透明的
+$adv. 垂直地，陡峭地；<古>彻底地，完全地
+$v. 急转弯，突然转向；避开（不愉快的话题）
+%n. 精纺（或透明）织物（或物品）；（尤指船）突然偏航，突然转向；（船首及船尾处的）舷弧
+    The cliffs rise sheer from the beach.
+#悬崖从海滩上拔地而起。
+
+equity: 英[ˈekwəti] 美[ˈekwəti]
+%n. 公平，公正；资产净值；普通股；衡平法
+    Their aim is for a society based on equity and social justice.
+#他们的目标是建立一个立足于公平和社会正义基础之上的社会。
+
+preach: 英[priːtʃ] 美[priːtʃ]
+%v. 布道，讲道；宣扬，鼓吹；说教，训诫
+    The teacher was preaching to her students about the virtue of observing discipline.
+#老师正向学生讲遵守纪律的优点。
+
+wink: 英[wɪŋk] 美[wɪŋk]
+$v. 眨眼示意，使眼色；（灯光）闪烁，明灭
+%n. 眨眼（示意），眼色；<非正式>一会儿，一瞬间；小憩；闪烁；弹塑料片游戏中用的塑料圆片
+    He winked at her, and she knew he was only pretending to be angry.
+#他向她眨眼示意，她于是明白了他在假装生气。
+
+purge: 英[pɜːdʒ] 美[pɜːrdʒ]
+$v. 清洗（组织中的异己分子）；清除，排除（不愉快的情况或感觉）；删除（不需要的东西） ；催泻，通便；<法律>弥补，消除（蔑视法庭罪）；（尤指由于患有贪食症）使吐出吃下的食物，催吐
+%n. （对异己的）清洗，排除；泻药
+    The new president has promised to purge the corruption of police force.
+#新任总统保证清除警部队中的腐败现象。
+
+conspicuous: 英[kənˈspɪkjuəs] 美[kənˈspɪkjuəs]
+%adj. 出色的，引人注目的；显眼的，明显的
+    He tried not to look conspicuous and move slowly along the back of the room.
+#他沿着房间后部慢慢移动，尽量不使自己显眼。
+
+rinse: 英[rɪns] 美[rɪns]
+$v. （用清水）冲洗；（用其他液体）洗；把（肥皂、污垢等）洗掉（rinse sth. off/out）；漱（口）；染发
+%n. 冲洗；头发定型剂，染发剂；（清洗用的）液体
+    There was no soap, so I just quickly rinsed my hands with water.
+#由于没有肥皂，我只是用水匆匆地冲了一下手。
+
+rejoice: 英[rɪˈdʒɔɪs] 美[rɪˈdʒɔɪs]
+%v. 非常高兴，深感欣喜；<英>享有（用于吸引人注意奇特之处，尤指名字）（rejoice in）；<古>使感到高兴，使喜悦
+    The fans rejoiced over the victory of their team.
+#球迷因自己的队取得胜利而欣喜若狂。
+
+vanilla: 英[vəˈnɪlə] 美[vəˈnɪlə]
+$n. 香草精，香子兰精；香草冰淇淋；香草冰淇淋色，浅奶黄色；香子兰，香果兰，香夹兰
+%adj. 香草味的；无特色的，普通的
+    Add two teaspoons of vanilla and stir.
+#加入两匙香子兰然后搅拌。
+
+agenda: 英[əˈdʒendə] 美[əˈdʒendə]
+%n. 待议事项，议事日程；（政治）议题；秘密计划，秘密目标
+    It's time for us to put the protection of wild animals on the agenda.
+#是把保护野生动物提上日程的时候了。
+
+slight: 英[slaɪt] 美[slaɪt]
+$adj. 轻微的，少量的；（人）瘦小的，纤弱的；（尤指创作）不深奥的，不重要的
+$v. 怠慢，轻视；<古>破坏，摧毁（防御工事）
+%n. 冒犯，冷落
+    A slight push can throw the slender girl down.
+#轻轻一推那纤弱的女孩就可能摔倒。
+
+deflect: 英[dɪˈflekt] 美[dɪˈflekt]
+$vt. 使转向；使偏斜；使弯曲
+%vi. 转向；偏斜
+    The president deflected the mounting criticism by announcing tax cuts.
+#总统宣布减税以转移日渐增多的批评。
+
+fatal: 英[ˈfeɪt(ə)l] 美[ˈfeɪt(ə)l]
+%adj. 致命的；导致失败的，灾难性的
+    Hundreds of people died in the fatal volcanic eruption fifty years ago.
+#数百人死于50年前的那场毁灭性的火山爆发中。
+
+ecstasy: 英[ˈekstəsi] 美[ˈekstəsi]
+%n. 狂喜，陶醉；摇头丸（Ecstasy）；（情绪或宗教原因引起的）疯狂，出神
+    The children were in ecstasies when he told them about the holiday.
+#当他告知孩子们要去度假时，他们都欣喜若狂。
+
+kidnap: 英[ˈkɪdnæp] 美[ˈkɪdnæp]
+$v. 绑架，劫持
+%n. 绑架，诱拐
+    The wife of the businessman has been kidnapped from her home in London.
+#那个商人的妻子在她伦敦的家里被人绑架了。
+
+oven: 英[ˈʌv(ə)n] 美[ˈʌv(ə)n]
+%n. 烤炉，烤箱；小熔炉，小窑；（纳粹集中营的）火化室
+    He put the duck in the oven at about 200℃, and took it out an hour later.
+#他把鸭子放进大约 200 摄氏度的烤箱里，一个小时后取出。
+
+intervene: 英[ˌɪntəˈviːn] 美[ˌɪntərˈviːn]
+%v. 干预，干涉；插话，打岔；干扰，阻挠；发生于其间，介于中间；调停，斡旋
+    The two brothers were starting fight when their father intervened.
+#兄弟俩正要打架，他们的父亲阻止了他们。
+
+vibrate: 英[vaɪˈbreɪt] 美[ˈvaɪbreɪt]
+%v. （使）震动，（使）颤动；摇摆，踌躇
+    If I drive my car too fast, the engine starts to vibrate.
+#要是我驾车太快了，发动机就开始颤动起来。
+
+straightforward: 英[ˌstreɪtˈfɔːwəd] 美[ˌstreɪtˈfɔːrwərd]
+$adj. 简单的，易懂的；（人）诚实的，坦率的
+%adv. 直截了当地，坦率地
+    The issue is not quite as straightforward as it appears.
+#这个问题不像看上去那样简单。
+
+vain: 英[veɪn] 美[veɪn]
+%adj. 虚荣的，自负的；徒劳的
+    Vain glory blossoms but never bears.
+#虚荣能开花，但从不结果。
+
+squeeze: 英[skwiːz] 美[skwiːz]
+$v. 挤压，捏；挤出，榨出（液体等）；（使）挤入，塞入；为……挤出时间（squeeze someone/something in）；排挤出（squeeze someone/something out）；敲诈勒索，榨取；严格限制，紧缩（资金）；好不容易取得，勉强成功；紧紧闭上双眼；扣扳机射击，打一整发（子弹）；拍照；（桥牌）逼（对方）放弃一张赢墩牌，逼牌
+%n. 挤压，捏；拥挤，塞满；挤出来的少量事物；紧缩，拮据；<美，非正式> 男朋友，女朋友；<非正式> 勒索（或敲诈）的钱；拥抱；（桥牌）紧逼打法（逼对手扔掉一张重要的牌）；压模，拓印；（棒球）抢分战术； <旧> 拥挤的社交舞会
+    She gave the orange another squeeze and got more juice.
+#她再次挤压橙子，多弄出了一些橙汁。
+
+massive: 英[ˈmæsɪv] 美[ˈmæsɪv]
+$adj. 大而重的，结实的；非常严重的；大量的，大规模的；<非正式>特别成功的，非常有影响的；（岩石或地层）均匀构造的，大块的；（矿物）外观非晶质的；<英，非正式>极好的，非常妙的
+%n. <英，非正式>（某一地区的年轻人群体）嬉蹦音乐迷（或丛林爵士音乐迷）
+    A massive iceberg is floating off the coast.
+#一座巨大的冰山正漂离海岸。
+
+petty: 英[ˈpeti] 美[ˈpeti]
+%adj. 不重要的，琐碎的，小的；小气的，小心眼的；次要的，职位低的；（罪行）轻微的
+    There are petty thefts around here, stealing milk bottles or something.
+#附近有小偷小摸发生，像是偷牛奶瓶之类的。
+
+mat: 英[mæt] 美[mæt]
+%n. 地垫，垫子；团，簇
+    He stood on the bath mat as he dried himself.
+#站在浴缸旁边的垫子上擦干身体
+
+catholic: 英[ˈkæθlɪk] 美[ˈkæθlɪk]
+$adj. 广泛的，包罗万象的；天主教的（Catholic）
+%n. 天主教教徒
+    As a young person he had more catholic tastes than he does now.
+#他年轻时的兴趣爱好比现在广泛得多。
+
+clash: 英[klæʃ] 美[klæʃ]
+$n. 冲突，交战；争论，争执；交锋，比赛；分歧，差异；（金属的）撞击声；（时间上的）冲突，撞期；（颜色、图案等的）不相配
+%v. 迥然不同，抵触；冲突，交战；争论，争执；（时间上）相冲突，同时发生；（颜色、图案等）不协调，不相配；（体育）交锋，对阵；（使）撞击发出铿锵声
+    The coat clashes with your trousers.
+#这件外套和你的裤子不配。
+
+refresh: 英[rɪˈfreʃ] 美[rɪˈfreʃ]
+$v. 使恢复精神，使消除疲劳；使记起，提醒；翻新，使变新；刷新，更新（网页）；<美> 再斟满（饮料）；把（食物）浸入冷水冷却（或保鲜）；恢复精神；喝饮料，吃点心；补充给养
+%n. （计算机）刷新
+    You need a holiday to refresh yourself.
+#你该去休个假，让自己振作起来。
+
+allocate: 英[ˈæləkeɪt] 美[ˈæləkeɪt]
+%v. 分配，分派，划拨
+    The fund was allocated among the various organizations concerned with the welfare of children.
+#这笔专款在与儿童福利有关的组织之间分配。
+
+monologue: 英[ˈmɒnəlɒɡ] 美[ˈmɑːnəlɔːɡ]
+%n. 长篇独白，独角戏；长篇大论，滔滔不绝的讲话
+    She made a monologue on her last stay in hospital.
+#她唠叨着她上一次住院的经历。
+
+milk: 英[mɪlk] 美[mɪlk]
+$n. （牛或羊等的）奶；奶汁，母乳；乳液（用于清洁或保护皮肤）；（椰子等植物的）白色汁液
+%v. 挤奶；榨取，勒索；充分利用；迎合（观众）；（动物，尤指母牛）产奶，出奶；从……抽取液汁（或毒液等）
+    Two dishonest directors were found to have milked the company of several million dollars.
+#不诚实的董事被发现榨取了公司几百万美元。
+
+hardy: 英[ˈhɑːdi] 美[ˈhɑːrdi]
+$adj. 坚强的，吃苦耐劳的；（植物）耐寒的；坚定不移的，非常忠诚的；鲁莽的，蛮横的
+%n. 方柄凿
+    A few hardy souls continue to swim in the sea even in winter.
+#一些身强力壮的人甚至在冬天仍继续在海中游泳。
+
+depression: 英[dɪˈpreʃn] 美[dɪˈpreʃ(ə)n]
+%n. 抑郁，沮丧；萧条（期），不景气；低气压；凹陷，浅坑；俯角，俯视角
+    There was a depression in the sand where he had been lying.
+#他躺过的沙子上有个凹陷。
+
+stab: 英[stæb] 美[stæb]
+$v. （用刀等锐器）刺，戳，捅；（用手指或尖物）戳，捅，刺；（疼痛或痛苦的东西）刺痛；（话语）刺伤，刺痛；突然感到（一阵不愉快或负面的感情）；（迅速地）击（球），踢（球）
+%n. 刺，戳，捅，刺（或戳、捅）的伤口；突然一阵剧痛（或难受的感觉）；<非正式>尝试，企图；（流行音乐）乐节间的断音
+    She stabbed a slice of bread.
+#她戳起一片面包。
+
+nominal: 英[ˈnɒmɪn(ə)l] 美[ˈnɑːmɪn(ə)l]
+%adj. 名义上的，有名无实的；（金额）微不足道的，象征性的；名词的，名词性的；（数量或价值）票面的；（主要用于太空旅行）运行正常的，令人满意的
+    The students lodged at nominal rent because the landlady liked their company rather than their money.
+#学生们租的房子房租很低，因为房东太太喜欢与学生做伴，而不是图他们的钱。
+
+abusive: 英[əˈbjuːsɪv] 美[əˈbjuːsɪv]
+%adj. 辱骂的，侮辱的；凌辱的，虐待的；受虐待的；舞弊的，不法的；滥用的
+    He always becomes abusive to others when he's drunk.
+#他喝醉时常常会骂人。
+
+pastry: 英[ˈpeɪstri] 美[ˈpeɪstri]
+%n. 油酥面团；酥皮糕点
+    Ann makes delicious pastry, you should try her apple pie.
+#安做的糕点很好吃，你应该尝尝她做的苹果派。
+
+superiority: 英[suːˌpɪəriˈɒrəti] 美[suːˌpɪriˈɔːrəti]
+%n. 优越，优势；优越感，骄傲自大
+    The new design has much greater superiority over the previous ones.
+#这种新型设计的优越性远远大于以往的设计。
+
+plaster: 英[ˈplɑːstə(r)] 美[ˈplæstər]
+$n. 灰泥；熟石膏；<英>创可贴，膏药
+%v. 用灰泥抹（墙等）；（用某物）涂抹，覆盖；大量张贴，贴满；使……紧贴；把（头发）梳平；敷石膏于，敷膏药于；（新闻报道）充斥于（报纸版面）
+    The plaster on the walls cracked as it dried.
+#墙上的灰泥变干时出现了裂缝。
+
+tend: 英[tend] 美[tend]
+%v. 倾向于，往往会；照顾，护理；走向，趋向；<美>招待，照料（商店、酒吧等的顾客）
+    Interest rates are tending upwards/downwards.
+#利率有上升/下降趋势。
+
+blossom: 英[ˈblɒsəm] 美[ˈblɑːsəm]
+$n. （树木的）花，花簇；开花，花期
+%v. 开花；成长，繁盛，兴旺
+    It is springtime now and all the peach trees in the garden are in full blossom.
+#现在是春天了，果园里的所有桃树都开花了。
+
+prompt: 英[prɒmpt] 美[prɑːmpt]
+$v. 促使，导致；鼓励，提示（说话者）；（计算机上）提示；（给演员）提词，提白
+$adj. 迅速的，立刻的；（人）利索的，敏捷的；及时的，准时的；（商品）即期要送的，即期要付的
+$n. （给演员的）提词；（计算机屏幕上显示准备接受指令的）提示； 鼓励，催促；（付款通知单上的）付款期限
+%adv. 准时地
+    She gave a prompt answer to my question.
+#她快速回答了我的问题。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

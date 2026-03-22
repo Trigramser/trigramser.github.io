@@ -1,0 +1,663 @@
+<<<<<<< HEAD
+wean:
+    wean oneself of fatty foods
+#改掉吃油腻食物的习惯
+    wean a country from the influence of another
+#使一国摆脱另一国的影响
+    wean people off welfare dependence
+#使人们脱离对福利救济的依赖
+    She started to wean her baby when it was about seven months old.
+#她在孩子七个月左右的时候开始给他断奶。
+
+anthem:
+    the anthem of peace-lovers
+#爱好和平者的圣歌
+    They usually play the national anthems of the teams at the beginning of a big international football match.
+#在重大的国际足球赛开始前，他们通常演奏参赛队的国歌。
+
+suffocate:
+    be suffocated with smoke
+#被烟闷死
+    suffocate the sense of justice and liberty
+#扼杀正义感和自由精神
+    suffocate with rage
+#气得喘不过来
+    The democratic press was suffocated by the tyrannical government.
+#那个专制政府扼杀了民主报刊。
+
+skyrocket:
+    skyrocket sb. to fame
+#使某人一举成名
+    Medical costs skyrocketed.
+#医药费用猛涨。
+
+interjection:
+    His controversial speech was punctuated with noisy interjections from the audience.
+#他那颇有争议的演讲不时被听众嘈杂的插话打断。
+
+daft:
+    go daft
+#发疯
+    a daft word
+#一个粗野的字眼
+    be daft about
+#迷恋于
+    Some of the suggested solutions to the problem were unusual and others were just plain daft.
+#解决问题的有些建议与众不同，其他的则太愚蠢了。
+
+observance:
+    the observance of traffic regulations
+#交通规则的遵守
+    religious observances
+#宗教仪式
+    strict observances
+#严格的规章制度
+    We expect all players to show complete observance of the rules of the game.
+#我们期望所有选手都完全遵守比赛规则。
+
+horticulture:
+    She studied horticulture at college.
+#她在大学里学习园艺学。
+
+nasal:
+    a nasal voice
+#带鼻音的说话声
+    She talked in a deep nasal monotone.
+#她说话鼻音重，音调单调。
+
+equable:
+    an equable climate
+#温和的气候
+    an equable gaze
+#平静的注视
+    an equable mind
+#平静的心境
+    an equable little animal
+#温顺的小动物
+    Graham has a fairly equable temperament and I haven't often seen him really angry.
+#格雷厄姆的性情相当温和，我很少见他真的发脾气。
+
+tirade:
+    deliver a long tirade against the government
+#发表反政府的长篇演说
+    She launched into an angry tirade about how she had been unfairly treated.
+#她就如何遭受不公正待遇发表了激烈的长篇演说。
+
+hoary:
+    a few hoary old jokes
+#几个老掉牙的笑话
+    the hoary heads
+#皓首
+    hoary traditions
+#古老的传统
+    the hoary walls of the castle
+#城堡的古墙
+    A hoary old man slowly opened the creaking door.
+#一个头发灰白的老人慢慢打开了嘎吱作响的门。
+
+gripe:
+    a gripe session
+#提意见座谈会
+    have nothing to gripe about
+#没有什么抱怨的
+    Her main gripe is that she's not being trained properly.
+#她主要的牢骚是她没有受到良好的训练。
+
+pane:
+    a new pane of glass
+#一块新玻璃
+    He noticed that one of the window panes is cracked.
+#他注意到有一扇窗玻璃裂了。
+
+cranky:
+    He'd been up late the night before and was very cranky in the morning.
+#他昨夜睡得很晚，早上起来脾气很不好。
+
+dingy:
+    dingy curtains
+#褪色的窗帘
+    a dingy attic
+#昏暗航脏的阁楼
+    The woman's hair was a dingy brown color.
+#那女人的头发是暗棕色。
+
+mores:
+    social mores
+#社会道德风尚
+    middle-class mores
+#中产阶级的道德观念
+
+disposed:
+    feel well-disposed/ill-disposed towards sb.
+#对某人友好/不友好
+    feel disposed for a walk
+#想散散步
+    After all the trouble she put me to I didn't feel disposed to help her.
+#在她给我造成种种麻烦之后，我不想帮她了。
+
+palette:
+    She mixes her colors on the canvas rather than on the palette.
+#她在油画布而不是调色板上调色。
+
+blanch:
+    blanch with anger
+#（脸）气得煞白
+    Old age blanched his hair.
+#他因年老而白发苍苍。
+
+firearm:
+    He was found guilty of possession of unlicensed firearm.
+#他被认定犯有非法持枪罪。
+
+cinder:
+    burnt to cinders
+#烧毁了的
+    Pick out the cinders before you start a new fire.
+#在重新点火之前先把煤渣拣出来。
+
+demented:
+    demented screams
+#疯叫
+
+irk:
+    restrictions that irk buyers
+#使顾客恼怒的种种限制
+    The negative reply to my complaint really irks me.
+#对我的投诉的否定回答真的令我心烦。
+
+wrest:
+    wrest the control of the company
+#得公司的控制权
+    wrest power away from
+#从……夺走权力
+    wrest a knife from a child
+#夺下孩子手中的刀
+    wrest sb.'s words
+#歪曲某人的话
+    For centuries, farmers have wrested a living from these barren hills.
+#几个世纪以来，农民们在这些贫瘠的小山上辛苦谋得一条生路。
+
+tremor:
+    feel a tremor of pride
+#感到一阵骄傲
+    a slight tremor in one's voice
+#声音里有些颤抖
+    a tremor of excitement
+#一阵兴奋
+    The story was so terrible that it sent tremors down my spine.
+#这故事真可怕，使我浑身战票。
+
+pamper:
+    pamper a child
+#娇惯孩子
+    pamper one's guests
+#盛待客人
+    The job enabled him to pamper his wanderlust.
+#那份工作使他的漫游癖完全得到满足。
+
+ingratiate:
+    ingratiate oneself with the clients
+#逢迎主顾
+    He's always trying to ingratiate himself with people in authority.
+#他总是设法讨好当权者。
+
+transfigure:
+    be transfigured by love
+#爱情使得（人）容光焕发
+    Her face, as she looked down at the baby, was transfigured with tenderness.
+#当她向下凝视宝宝时，她的脸变得柔和亲切。
+
+culmination:
+    the culmination of a brilliant career
+#光辉生涯的顶峰
+    the culmination of the party
+#晚会的高潮
+    Winning first prize was the culmination of years of practice and hard work.
+#取得一等奖是多年实践和辛勤工作的结果。
+
+pressing:
+    pressing need
+#迫切需要
+    a pressing invitation
+#恳切的邀请
+    the pressing of a button
+#按电钮
+    the pressing of peanuts for oil
+#榨花生油
+    It is one of the most pressing problems facing this country.
+#它是该国面临的最紧迫的问题之一。
+
+colt:
+    She bought him as a £ 1, 000 colt of six months and schooled him.
+#在它还是6个月的小马驹时，她用1，000英镑将它买下，并训练它。
+
+slug:
+    slug it out
+#一决雌雄，比出个高下
+    take a good slug of drink
+#痛快地喝一杯
+    He slugged her and she fell against the bar.
+#他打了她一拳，她倒在了栏杆上。
+
+underwrite:
+    underwrite sb.'s education
+#同意负担某人的教育经费
+    underwrite the regimes of yesterday
+#支持昔日的旧政权
+    The race-track owners have so far failed to find anyone who will underwrite the event.
+#赛车场场主们至今还没有找到愿意资助这次赛事的人。
+
+amalgamate:
+    amalgamate ten committees into one
+#将十个委员会合并成一个
+    an amalgamate language
+#混合的语言
+    The different offices will be amalgamated into/as employment advice center.
+#不同的办公室将被合并成就业指导中心。
+
+gavel:
+    gavel a session to a close
+#击槌宣布闭会
+    gavel for order
+#击槌要求肃静
+    gavel down
+#击槌对……表示否决
+    The judge had to bang his gavel several times before people were quiet.
+#法官不得不敲了几次木槌让人们安静下来。
+
+bough:
+    He cut off some boughs to build a fence.
+#他砍下一些大树权做栅栏。
+
+torrid:
+    in the torrid heat of May
+#在炎热的五月
+    in a torrid time
+#在艰难时期
+    in the torrid sun
+#在火辣辣的骄阳下
+    torrid rocks
+#晒得滚烫的岩石
+    a torrid love letter
+#火热的情书
+    a torrid relationship
+#炽热的关系
+    The novel is set at the turn of the 20th century in a torrid port on Caribbean coast.
+#这部小说是以20世纪初加勒比海海岸的一个炎热的港口为背景的。
+
+disenchant:
+    become disenchanted with the future
+#对未来不再抱有幻想
+    Ten days in bed with flu managed to disenchant me with television.
+#因流感卧床10天总算使我不再迷恋电视了。
+
+abdicate:
+    abdicate an opinion
+#放弃一种意见
+    abdicate one's throne
+#退位
+    She abdicated her right to a share in the profits.
+#她放弃了分享利润的权利。
+
+icicle:
+    Icicles hung from the roof.
+#屋檐上挂着冰柱。
+
+perjury:
+    be charged with perjury
+#被指控犯伪证罪
+    She was sentenced to two years in prison for committing perjury.
+#她因犯有伪证罪而被判两年徒刑。
+
+sheaf:
+    a sheaf of papers
+#一扎文件
+    a sheaf of lilies
+#一束百合花
+    a sheaf of notes
+#一扎笔记
+    The corn was cut, tied in sheaves and left to dry.
+#玉米被割了下来，捆成一束束的放在那里晒干。
+
+edgy:
+    an edgy wit
+#敏锐的机智
+    an edgy temper
+#急躁的牌气
+    edgy relations
+#紧张的关系
+    She was edgy over Peter's conduct.
+#她对彼得的行为感到烦躁。
+
+=======
+wean:
+    wean oneself of fatty foods
+#改掉吃油腻食物的习惯
+    wean a country from the influence of another
+#使一国摆脱另一国的影响
+    wean people off welfare dependence
+#使人们脱离对福利救济的依赖
+    She started to wean her baby when it was about seven months old.
+#她在孩子七个月左右的时候开始给他断奶。
+
+anthem:
+    the anthem of peace-lovers
+#爱好和平者的圣歌
+    They usually play the national anthems of the teams at the beginning of a big international football match.
+#在重大的国际足球赛开始前，他们通常演奏参赛队的国歌。
+
+suffocate:
+    be suffocated with smoke
+#被烟闷死
+    suffocate the sense of justice and liberty
+#扼杀正义感和自由精神
+    suffocate with rage
+#气得喘不过来
+    The democratic press was suffocated by the tyrannical government.
+#那个专制政府扼杀了民主报刊。
+
+skyrocket:
+    skyrocket sb. to fame
+#使某人一举成名
+    Medical costs skyrocketed.
+#医药费用猛涨。
+
+interjection:
+    His controversial speech was punctuated with noisy interjections from the audience.
+#他那颇有争议的演讲不时被听众嘈杂的插话打断。
+
+daft:
+    go daft
+#发疯
+    a daft word
+#一个粗野的字眼
+    be daft about
+#迷恋于
+    Some of the suggested solutions to the problem were unusual and others were just plain daft.
+#解决问题的有些建议与众不同，其他的则太愚蠢了。
+
+observance:
+    the observance of traffic regulations
+#交通规则的遵守
+    religious observances
+#宗教仪式
+    strict observances
+#严格的规章制度
+    We expect all players to show complete observance of the rules of the game.
+#我们期望所有选手都完全遵守比赛规则。
+
+horticulture:
+    She studied horticulture at college.
+#她在大学里学习园艺学。
+
+nasal:
+    a nasal voice
+#带鼻音的说话声
+    She talked in a deep nasal monotone.
+#她说话鼻音重，音调单调。
+
+equable:
+    an equable climate
+#温和的气候
+    an equable gaze
+#平静的注视
+    an equable mind
+#平静的心境
+    an equable little animal
+#温顺的小动物
+    Graham has a fairly equable temperament and I haven't often seen him really angry.
+#格雷厄姆的性情相当温和，我很少见他真的发脾气。
+
+tirade:
+    deliver a long tirade against the government
+#发表反政府的长篇演说
+    She launched into an angry tirade about how she had been unfairly treated.
+#她就如何遭受不公正待遇发表了激烈的长篇演说。
+
+hoary:
+    a few hoary old jokes
+#几个老掉牙的笑话
+    the hoary heads
+#皓首
+    hoary traditions
+#古老的传统
+    the hoary walls of the castle
+#城堡的古墙
+    A hoary old man slowly opened the creaking door.
+#一个头发灰白的老人慢慢打开了嘎吱作响的门。
+
+gripe:
+    a gripe session
+#提意见座谈会
+    have nothing to gripe about
+#没有什么抱怨的
+    Her main gripe is that she's not being trained properly.
+#她主要的牢骚是她没有受到良好的训练。
+
+pane:
+    a new pane of glass
+#一块新玻璃
+    He noticed that one of the window panes is cracked.
+#他注意到有一扇窗玻璃裂了。
+
+cranky:
+    He'd been up late the night before and was very cranky in the morning.
+#他昨夜睡得很晚，早上起来脾气很不好。
+
+dingy:
+    dingy curtains
+#褪色的窗帘
+    a dingy attic
+#昏暗航脏的阁楼
+    The woman's hair was a dingy brown color.
+#那女人的头发是暗棕色。
+
+mores:
+    social mores
+#社会道德风尚
+    middle-class mores
+#中产阶级的道德观念
+
+disposed:
+    feel well-disposed/ill-disposed towards sb.
+#对某人友好/不友好
+    feel disposed for a walk
+#想散散步
+    After all the trouble she put me to I didn't feel disposed to help her.
+#在她给我造成种种麻烦之后，我不想帮她了。
+
+palette:
+    She mixes her colors on the canvas rather than on the palette.
+#她在油画布而不是调色板上调色。
+
+blanch:
+    blanch with anger
+#（脸）气得煞白
+    Old age blanched his hair.
+#他因年老而白发苍苍。
+
+firearm:
+    He was found guilty of possession of unlicensed firearm.
+#他被认定犯有非法持枪罪。
+
+cinder:
+    burnt to cinders
+#烧毁了的
+    Pick out the cinders before you start a new fire.
+#在重新点火之前先把煤渣拣出来。
+
+demented:
+    demented screams
+#疯叫
+
+irk:
+    restrictions that irk buyers
+#使顾客恼怒的种种限制
+    The negative reply to my complaint really irks me.
+#对我的投诉的否定回答真的令我心烦。
+
+wrest:
+    wrest the control of the company
+#得公司的控制权
+    wrest power away from
+#从……夺走权力
+    wrest a knife from a child
+#夺下孩子手中的刀
+    wrest sb.'s words
+#歪曲某人的话
+    For centuries, farmers have wrested a living from these barren hills.
+#几个世纪以来，农民们在这些贫瘠的小山上辛苦谋得一条生路。
+
+tremor:
+    feel a tremor of pride
+#感到一阵骄傲
+    a slight tremor in one's voice
+#声音里有些颤抖
+    a tremor of excitement
+#一阵兴奋
+    The story was so terrible that it sent tremors down my spine.
+#这故事真可怕，使我浑身战票。
+
+pamper:
+    pamper a child
+#娇惯孩子
+    pamper one's guests
+#盛待客人
+    The job enabled him to pamper his wanderlust.
+#那份工作使他的漫游癖完全得到满足。
+
+ingratiate:
+    ingratiate oneself with the clients
+#逢迎主顾
+    He's always trying to ingratiate himself with people in authority.
+#他总是设法讨好当权者。
+
+transfigure:
+    be transfigured by love
+#爱情使得（人）容光焕发
+    Her face, as she looked down at the baby, was transfigured with tenderness.
+#当她向下凝视宝宝时，她的脸变得柔和亲切。
+
+culmination:
+    the culmination of a brilliant career
+#光辉生涯的顶峰
+    the culmination of the party
+#晚会的高潮
+    Winning first prize was the culmination of years of practice and hard work.
+#取得一等奖是多年实践和辛勤工作的结果。
+
+pressing:
+    pressing need
+#迫切需要
+    a pressing invitation
+#恳切的邀请
+    the pressing of a button
+#按电钮
+    the pressing of peanuts for oil
+#榨花生油
+    It is one of the most pressing problems facing this country.
+#它是该国面临的最紧迫的问题之一。
+
+colt:
+    She bought him as a £ 1, 000 colt of six months and schooled him.
+#在它还是6个月的小马驹时，她用1，000英镑将它买下，并训练它。
+
+slug:
+    slug it out
+#一决雌雄，比出个高下
+    take a good slug of drink
+#痛快地喝一杯
+    He slugged her and she fell against the bar.
+#他打了她一拳，她倒在了栏杆上。
+
+underwrite:
+    underwrite sb.'s education
+#同意负担某人的教育经费
+    underwrite the regimes of yesterday
+#支持昔日的旧政权
+    The race-track owners have so far failed to find anyone who will underwrite the event.
+#赛车场场主们至今还没有找到愿意资助这次赛事的人。
+
+amalgamate:
+    amalgamate ten committees into one
+#将十个委员会合并成一个
+    an amalgamate language
+#混合的语言
+    The different offices will be amalgamated into/as employment advice center.
+#不同的办公室将被合并成就业指导中心。
+
+gavel:
+    gavel a session to a close
+#击槌宣布闭会
+    gavel for order
+#击槌要求肃静
+    gavel down
+#击槌对……表示否决
+    The judge had to bang his gavel several times before people were quiet.
+#法官不得不敲了几次木槌让人们安静下来。
+
+bough:
+    He cut off some boughs to build a fence.
+#他砍下一些大树权做栅栏。
+
+torrid:
+    in the torrid heat of May
+#在炎热的五月
+    in a torrid time
+#在艰难时期
+    in the torrid sun
+#在火辣辣的骄阳下
+    torrid rocks
+#晒得滚烫的岩石
+    a torrid love letter
+#火热的情书
+    a torrid relationship
+#炽热的关系
+    The novel is set at the turn of the 20th century in a torrid port on Caribbean coast.
+#这部小说是以20世纪初加勒比海海岸的一个炎热的港口为背景的。
+
+disenchant:
+    become disenchanted with the future
+#对未来不再抱有幻想
+    Ten days in bed with flu managed to disenchant me with television.
+#因流感卧床10天总算使我不再迷恋电视了。
+
+abdicate:
+    abdicate an opinion
+#放弃一种意见
+    abdicate one's throne
+#退位
+    She abdicated her right to a share in the profits.
+#她放弃了分享利润的权利。
+
+icicle:
+    Icicles hung from the roof.
+#屋檐上挂着冰柱。
+
+perjury:
+    be charged with perjury
+#被指控犯伪证罪
+    She was sentenced to two years in prison for committing perjury.
+#她因犯有伪证罪而被判两年徒刑。
+
+sheaf:
+    a sheaf of papers
+#一扎文件
+    a sheaf of lilies
+#一束百合花
+    a sheaf of notes
+#一扎笔记
+    The corn was cut, tied in sheaves and left to dry.
+#玉米被割了下来，捆成一束束的放在那里晒干。
+
+edgy:
+    an edgy wit
+#敏锐的机智
+    an edgy temper
+#急躁的牌气
+    edgy relations
+#紧张的关系
+    She was edgy over Peter's conduct.
+#她对彼得的行为感到烦躁。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42

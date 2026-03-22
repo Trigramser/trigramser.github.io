@@ -1,0 +1,723 @@
+<<<<<<< HEAD
+resurge: 英[rɪˈsɜːdʒ] 美[rɪˈsɜːrdʒ]
+%vi. 复活；再起
+    He fought off the resurging need for a drink.
+#他好不容易按捺住了再次袭来的想喝一杯的冲动。
+
+photosynthesis: 英[ˌfəʊtəʊˈsɪnθəsɪs] 美[ˌfoʊtoʊˈsɪnθəsɪs]
+%n. 光合作用
+    These plants have an impressive spread of leaves to enable them to produce enough food by photosynthesis.
+#这些植物的叶子展开得很大，这使他们能通过光合作用制造足够的养分供给自己。
+
+conciliatory: 英[kənˈsɪliətəri] 美[kənˈsɪliətɔːri]
+%adj. 安抚的；调和的；调停的
+    a conciliatory act
+#安抚性的行动
+    a conciliatory policy
+#和解政策
+    Her conciliatory smile told him that they were friends again.
+#她那表示和解的微笑告诉他，他们又是朋友了。
+
+inedible: 英[ɪnˈedəb(ə)l] 美[ɪnˈedəb(ə)l]
+%adj. 不能吃的，不宜食用的
+    The potato plant produces inedible fruits which look like green tomatoes.
+#马铃薯植株结出不可食的浆果，看似未熟的西红柿。
+
+igneous: 英[ˈɪɡniəs] 美[ˈɪɡniəs]
+%adj. 火的；[岩] 火成的；似火的
+    an igneous appearance
+#火红的外貌
+    igneous rock
+#火成岩
+
+nonentity: 英[nɒnˈentəti] 美[nɑːnˈentəti]
+%n. 不存在；虚无；无足轻重的人
+    a political nonentity
+#政坛上无足轻重的人物;
+    come from a family of nonentities
+#出身于寻常人家
+    The film is full of decorative nonentities.
+#这部电影充满了毫无价值的细节。
+
+reportorial: 英[ˌrepɔːˈtɔːrɪəl] 美[ˌrepərˈtɔːrɪəl]
+%adj. 记者的；报告的
+    His lecture was more reportorial than analytical.
+#他的演讲与其说是分析评价倒不如说是事实报道。
+
+ill-paying: 英[ˌɪlˈpeɪɪŋ] 美[ˌɪlˈpeɪɪŋ]
+%adj. 工资低的
+    an ill-paying job
+#工资低的工作
+
+multicellular: 英[ˌmʌltiˈseljələ(r)] 美[ˌmʌltiˈseljələr]
+%adj. [生物] 多细胞的；多空隙的
+    Students practice to apply the study of genetics to multicellular plants and fungi. 
+#学生们练习把基因学应用到多细胞植物和真菌中。
+
+arboreal: 英[ɑːˈbɔːriəl] 美[ɑːrˈbɔːriəl]
+%adj. 树木的；栖息在树上的
+    A squirrel is an arboreal animal.
+#松鼠是一种栖树动物。
+
+quiescent: 英[kwiˈes(ə)nt] 美[kwiˈes(ə)nt]
+%adj. 静止的；不活动的；沉寂的
+    a quiescent volcano
+#不活动的火山
+    The political situation was now relatively quiescent.
+#政治形势现在相对平静。
+
+tasteless: 英[ˈteɪstləs] 美[ˈteɪstləs]
+%adj. 无味的；无鉴赏力的
+    a tasteless remark
+#不得体的话
+    a tasteless over-furnished room
+#摆设过多而显得俗气的房间
+    The tale comes to a tasteless end.
+#这个故事的结尾索然无味。
+
+aspen: 英[ˈæspən] 美[ˈæspən]
+$n. 山杨，颤杨
+$adj. 山杨的；颤抖的
+%n. （Aspen）（美、挪）阿斯彭（人名）
+    Aspens are usually used to make paper.
+#山杨通常用来造纸。
+
+efficacious: 英[ˌefɪˈkeɪʃəs] 美[ˌefɪˈkeɪʃəs]
+%adj. 有效的；灵验的
+    an efficacious law
+#行之有效的法令
+    Vaccination is efficacious in preventing smallpox.
+#接种疫苗对预防天花很有效。
+
+applicability: 英[əˌplɪkəˈbɪləti] 美[ˌæplɪkəˈbɪlətiˌəˌplɪkəˈbɪləti]
+%n. 适用性；适应性
+    be of great/much applicability
+#适用性很强
+
+foodstuff: 英[ˈfuːdstʌf] 美[ˈfuːdstʌf]
+%n. 食品，食物；粮食，食料
+    frozen foodstuff
+#冷冻食品
+    They lack basic foodstuff, such as bread and milk.
+#他们缺少基本的食品，如面包和牛奶之类。
+
+exemplar: 英[ɪɡˈzemplɑː(r)] 美[ɪɡˈzemplɑːr]
+%n. 模范，榜样；标本
+    the exemplar of virtue
+#美德的楷模
+    an exemplar of patriotism
+#爱国主义的典范
+    It is an exemplar of a house of the period.
+#这是那个时期房屋的典型。
+
+sedimentary: 英[ˌsedɪˈmentri] 美[ˌsedɪˈmentri]
+%adj. 由沉淀物形成的，沉积而成的
+    Sedimentary rock forms the top geological layer in much of the area.
+#在这个地区的大部分地方，沉积岩形成了地质层的最上层。
+
+condescending: 英[ˌkɒndɪˈsendɪŋ] 美[ˌkɑːndɪˈsendɪŋ]
+$adj. 表现出优越感的，居高临下的
+%v. 表现出优越感；屈尊，俯就（condescend 的现在分词）
+    I don't like his condescending manner toward his staff.
+#我讨厌他在员工面前那种居高临下的态度。
+
+idealism: 英[aɪˈdiːəlɪzəm] 美[aɪˈdiːəlɪzəm]
+%n. 理想主义；唯心主义，唯心论
+    He never lost his youthful idealism and fought for the just cause all his life.
+#他从未丧失过他那种充满青春活力的理想主义，一生都在为正义事业而斗争。
+
+self-deprecating: 英[ˌself ˈdeprəkeɪtɪŋ] 美[ˌself ˈdeprəkeɪtɪŋ]
+%adj. 自贬的；谦虚的（等于 self-deprecatory）
+    a self-deprecating manner
+#过于谦虚的态度
+    self-deprecating jokes
+#自嘲的笑话
+
+protozoan: 英[ˌprəʊtəˈzəʊən] 美[ˌproʊtəˈzoʊən]
+$n. 原生动物
+%adj. 原生动物的
+    Amoebas are protozoans.
+#阿米巴虫是原生动物。
+
+inviolate: 英[ɪnˈvaɪələt] 美[ɪnˈvaɪələt]
+%adj. 无污点的；未亵渎的，未受侵犯的
+    For centuries the tomb lay inviolate until, by chance, it was discovered by two farmers.
+#这座坟墓若干世纪未遭破坏，直到被两个农夫偶然发现。
+
+periphery: 英[pəˈrɪfəri] 美[pəˈrɪfəri]
+%n. 外围，边缘；圆周；圆柱体表面
+    the periphery of the factory site
+#厂区的周边地区
+    the periphery of a metropolis
+#大都市的边缘地区
+    The ring road runs around the periphery of the city center.
+#内环线围绕市中心的边缘地带。
+
+caustic: 英[ˈkɔːstɪk] 美[ˈkɔːstɪk]
+$adj. [化学] 腐蚀性的；[化学] 苛性的；刻薄的；焦散的
+%n. [助剂] 腐蚀剂；苛性钠；焦散曲线
+    caustic remarks
+#挖苦讽刺的言语
+    She's famous in the office for her caustic humor.
+#她在办公室里因为擅长说笑话挖苦人而出名。
+
+recurrent: 英[rɪˈkʌrənt] 美[rɪˈkɜːrənt]
+%adj. 复发的；周期性的，经常发生的
+    recurrent spelling mistakes
+#经常发生的拼写错误
+    a recurrent dream
+#反复出现的梦
+    The father-daughter relationship is a recurrent theme throughout all her works.
+#父女关系是在她所有作品中反复出现的主题。
+
+unwarranted: 英[ʌnˈwɒrəntɪd] 美[ʌnˈwɔːrəntɪd]
+%adj. 无根据的；无保证的
+    unwarranted search and seizure
+#无证搜查抓捕
+    an unwarranted intrusion
+#无正当理由的侵人
+    The company director claimed the criticism was unwarranted and unjust.
+#公司经理声称批评是无根据的、不公正的。
+
+traceable: 英[ˈtreɪsəb(ə)l] 美[ˈtreɪsəb(ə)l]
+%adj. 起源于；可追踪的；可描绘的
+    a barely traceable inscription
+#几乎难以辨认的铭文
+    the deaths traceable to the conflict
+#由于这次突而造成的死亡人数
+    His medical problems were shown to be traceable to his having been exposed to dangerous chemicals.
+#有迹象表明，他的健康问题是源于他接触过危险的化学药品。
+
+acerbic: 英[əˈsɜːbɪk] 美[əˈsɜːrbɪk]
+%adj. 尖刻的（等于 acerb）；酸的；辛辣的
+    He sounded acerbic.
+#他的话听上去很尖刻。
+
+inadvisable: 英[ˌɪnədˈvaɪzəb(ə)l] 美[ˌɪnədˈvaɪzəb(ə)l]
+%adj. 失策的，不明智的；不受劝告的
+    It is inadvisable to generalize from the results of a single experiment.
+#就单个实验的结果进行概括是不可取的。
+
+discriminatory: 英[dɪˈskrɪmɪnətəri] 美[dɪˈskrɪmɪnətɔːri]
+%adj. 区别对待的，歧视的，不公平的
+    repeal racially discriminatory laws
+#废除种族视法规
+    discriminatory treatment
+#歧视性的待遇
+    The new regulations are, in a sense, discriminatory.
+#从某种意义上说，新的规则不公平。
+
+unsurpassed: 英[ˌʌnsəˈpɑːst] 美[ˌʌnsərˈpæst]
+%adj. 非常卓越的；未被超越的
+    He's an economic analyst of unsurpassed genius.
+#他是个才华超群的经济分析家。
+
+potable: 英[ˈpəʊtəb(ə)l] 美[ˈpoʊtəb(ə)l]
+$adj. 适于饮用的；可饮用的
+%n. 饮料（常复数）
+    potable water
+#饮用水
+    He bought eatables and potables.
+#他买了吃的喝的。
+
+stymie: 英[ˈstaɪmi] 美[ˈstaɪmi]
+$vt. 从中作梗，阻挠；妨碍
+%n. 妨碍球
+    be stymied at the door
+#被拦在门外
+    The increased cost of oil aggravated inflation and stymied economic recovery.
+#石油价格的上涨加剧了通货膨胀并阻碍了经济复苏。
+
+exasperation: 英[ɪɡˌzæspəˈreɪʃ(ə)n] 美[ɪɡˌzæspəˈreɪʃ(ə)n]
+%n. 恼怒；恶化；惹人恼怒的事
+    the petty exasperations of daily life
+#日常生活中恼人的琐细小事
+    After ten hours of fruitless negotiation, he stormed out of the hall in exasperation.
+#10小时毫无结果的协商后，他愤怒地冲出了大厅。
+
+introspective: 英[ˌɪntrəˈspektɪv] 美[ˌɪntrəˈspektɪv]
+%adj. 内省的；反省的
+    She is famous for her introspective songs about failed relationships.
+#她以唱反省失败感情关系的歌曲而闻名。
+
+incorruptible: 英[ˌɪnkəˈrʌptəb(ə)l] 美[ˌɪnkəˈrʌptəb(ə)l]
+%adj. 清廉的；不能收买的；不腐败的；不会腐烂的，不受腐蚀的；不动摇的
+    incorruptible metal
+#不腐蚀的金属
+    The incorruptible man could not be bribed.
+#廉洁的人是贿赂不了的。
+
+agony: 英[ˈæɡəni] 美[ˈæɡəni]
+%n. 剧痛，创痛；痛楚，苦难
+    in an agony of doubt
+#在疑惑的极大痛苦中;
+    suffer agonies of guilt
+#感到深切的内
+    go through the agony of war
+#历经战争的苦难
+    with agonies of wild joy
+#狂喜地
+    The people who had been injured in the bomb explosion lay screaming in agony.
+#在炸弹爆炸中受伤的人躺在那里，痛苦地尖叫着。
+
+skimp: 英[skɪmp] 美[skɪmp]
+$vt. 克扣；对……不够用心；舍不得给；少给
+$vi. 节省；不够用心
+%adj. 少的；不足的
+    skimp the material when making a dress
+#做衣服时舍不得用料
+    skimp sb. with/in money
+#克扣某人的钱
+    skimp one's job
+#敷衍了事
+    They skimped on food and heating in order to meet their bills.
+#他们节约食物和暖气供应以偿付账单。
+
+receptive: 英[rɪˈseptɪv] 美[rɪˈseptɪv]
+%adj. （对观点、建议等）愿意倾听的，乐于接受的；能容纳的，可以接受的；（对治疗）反应良好的；（雌性动物）处于发情期的
+    a receptive mind
+#接受能力强的头脑
+    be receptive to new ideas
+#能接受新思想
+    She was always receptive to new ideas.
+#她总是愿意接受新观点。
+
+rhapsodic: 英[ræpˈsɒdɪk] 美[ræpˈsɑːdɪk]
+%adj. 狂想曲的；狂热的
+    a rhapsodic composer
+#狂想曲作家
+
+transcendent: 英[trænˈsendənt] 美[trænˈsendənt]
+$adj. 卓越的；超常的；出类拔萃的
+%n. 卓越的人；超绝物
+    transcendent merit
+#卓越的功绩
+    a transcendent genius
+#杰出人才
+    Freud banished for many people the belief that a transcendent authority exists to which mankind is accountable for its actions.
+#弗洛伊德去除了许多人心目中的观念——认为有一种至高无上的权威主宰人类的行为。
+
+blissful: 英[ˈblɪsf(ə)l] 美[ˈblɪsf(ə)l]
+%adj. 极乐的；使人幸福的；无忧无虑的；充满喜悦的
+    eight blissful hours of sleep
+#8个小时无忧无虑的酣睡
+    They spent a blissful year together before things started to go wrong.
+#在境遇变坏前他们在一起度过了十分幸福的一年。
+
+recondite: 英[ˈrekəndaɪt] 美[ˈrekəndaɪt]
+%adj. 深奥的；隐藏的
+    a recondite area of learning
+#一个深奥的学术领域
+    the recondite motives of human actions
+#隐秘的人类行为动机
+    We had to work from material that was both complex and recondite.
+#我们不得不从复杂而又难懂的材料着手。
+
+culpable: 英[ˈkʌlpəb(ə)l] 美[ˈkʌlpəb(ə)l]
+%adj. 有罪的；该责备的；不周到的；应受处罚的
+    She admitted that she was partly culpable for the breakup of her marriage.
+#她承认婚姻破裂她负有部分责任。
+
+tactile: 英[ˈtæktaɪl] 美[ˈtækt(ə)l]
+%adj. [生理] 触觉的，有触觉的；能触知的
+    a tactile organ
+#触觉器官
+    children who are highly tactile
+#触觉特别发达的儿童
+    have tactile appeal
+#富有质感美
+    The theater has been refurnished with the tactile materials of wood, iron and copper.
+#这家剧院用木、铁、铜等质感较强的材料重新装饰过。
+
+prig: 英[prɪɡ] 美[prɪɡ]
+%n. 一本正经的人；小偷
+    A prig is usually a priggish, domineering man.
+#自命不凡者往往是一本正经、盛气凌人的人。
+
+pomposity: 英[pɒmˈpɒsəti] 美[pɑːmˈpɑːsəti]
+%n. 自大；炫耀；浮夸
+    He said this with pomposity that didn't suit such a young man.
+#他说这话时带有一种年轻人不该有的自负。
+
+overpower: 英[ˌəʊvəˈpaʊə(r)] 美[ˌoʊvərˈpaʊər]
+%vt. 压倒；克服；使无法忍受
+    be overpowered by grief
+#悲痛欲绝
+    He overpowered the thief.
+#他制伏了窃贼。
+
+viscous: 英[ˈvɪskəs] 美[ˈvɪskəs]
+%adj. 粘性的；黏的
+    dark, viscous blood
+#深色且黏稠的血液
+
+disinterest: 英[dɪsˈɪntrəst] 美[dɪsˈɪntrəst]
+$n. 不关心；无兴趣
+%vt. 使不关心
+    be charged with a lack of disinterest
+#被指责不公平
+    His disinterest in art was due to his ignorance.
+#对艺术缺乏兴趣是由于无知。
+
+=======
+resurge: 英[rɪˈsɜːdʒ] 美[rɪˈsɜːrdʒ]
+%vi. 复活；再起
+    He fought off the resurging need for a drink.
+#他好不容易按捺住了再次袭来的想喝一杯的冲动。
+
+photosynthesis: 英[ˌfəʊtəʊˈsɪnθəsɪs] 美[ˌfoʊtoʊˈsɪnθəsɪs]
+%n. 光合作用
+    These plants have an impressive spread of leaves to enable them to produce enough food by photosynthesis.
+#这些植物的叶子展开得很大，这使他们能通过光合作用制造足够的养分供给自己。
+
+conciliatory: 英[kənˈsɪliətəri] 美[kənˈsɪliətɔːri]
+%adj. 安抚的；调和的；调停的
+    a conciliatory act
+#安抚性的行动
+    a conciliatory policy
+#和解政策
+    Her conciliatory smile told him that they were friends again.
+#她那表示和解的微笑告诉他，他们又是朋友了。
+
+inedible: 英[ɪnˈedəb(ə)l] 美[ɪnˈedəb(ə)l]
+%adj. 不能吃的，不宜食用的
+    The potato plant produces inedible fruits which look like green tomatoes.
+#马铃薯植株结出不可食的浆果，看似未熟的西红柿。
+
+igneous: 英[ˈɪɡniəs] 美[ˈɪɡniəs]
+%adj. 火的；[岩] 火成的；似火的
+    an igneous appearance
+#火红的外貌
+    igneous rock
+#火成岩
+
+nonentity: 英[nɒnˈentəti] 美[nɑːnˈentəti]
+%n. 不存在；虚无；无足轻重的人
+    a political nonentity
+#政坛上无足轻重的人物;
+    come from a family of nonentities
+#出身于寻常人家
+    The film is full of decorative nonentities.
+#这部电影充满了毫无价值的细节。
+
+reportorial: 英[ˌrepɔːˈtɔːrɪəl] 美[ˌrepərˈtɔːrɪəl]
+%adj. 记者的；报告的
+    His lecture was more reportorial than analytical.
+#他的演讲与其说是分析评价倒不如说是事实报道。
+
+ill-paying: 英[ˌɪlˈpeɪɪŋ] 美[ˌɪlˈpeɪɪŋ]
+%adj. 工资低的
+    an ill-paying job
+#工资低的工作
+
+multicellular: 英[ˌmʌltiˈseljələ(r)] 美[ˌmʌltiˈseljələr]
+%adj. [生物] 多细胞的；多空隙的
+    Students practice to apply the study of genetics to multicellular plants and fungi. 
+#学生们练习把基因学应用到多细胞植物和真菌中。
+
+arboreal: 英[ɑːˈbɔːriəl] 美[ɑːrˈbɔːriəl]
+%adj. 树木的；栖息在树上的
+    A squirrel is an arboreal animal.
+#松鼠是一种栖树动物。
+
+quiescent: 英[kwiˈes(ə)nt] 美[kwiˈes(ə)nt]
+%adj. 静止的；不活动的；沉寂的
+    a quiescent volcano
+#不活动的火山
+    The political situation was now relatively quiescent.
+#政治形势现在相对平静。
+
+tasteless: 英[ˈteɪstləs] 美[ˈteɪstləs]
+%adj. 无味的；无鉴赏力的
+    a tasteless remark
+#不得体的话
+    a tasteless over-furnished room
+#摆设过多而显得俗气的房间
+    The tale comes to a tasteless end.
+#这个故事的结尾索然无味。
+
+aspen: 英[ˈæspən] 美[ˈæspən]
+$n. 山杨，颤杨
+$adj. 山杨的；颤抖的
+%n. （Aspen）（美、挪）阿斯彭（人名）
+    Aspens are usually used to make paper.
+#山杨通常用来造纸。
+
+efficacious: 英[ˌefɪˈkeɪʃəs] 美[ˌefɪˈkeɪʃəs]
+%adj. 有效的；灵验的
+    an efficacious law
+#行之有效的法令
+    Vaccination is efficacious in preventing smallpox.
+#接种疫苗对预防天花很有效。
+
+applicability: 英[əˌplɪkəˈbɪləti] 美[ˌæplɪkəˈbɪlətiˌəˌplɪkəˈbɪləti]
+%n. 适用性；适应性
+    be of great/much applicability
+#适用性很强
+
+foodstuff: 英[ˈfuːdstʌf] 美[ˈfuːdstʌf]
+%n. 食品，食物；粮食，食料
+    frozen foodstuff
+#冷冻食品
+    They lack basic foodstuff, such as bread and milk.
+#他们缺少基本的食品，如面包和牛奶之类。
+
+exemplar: 英[ɪɡˈzemplɑː(r)] 美[ɪɡˈzemplɑːr]
+%n. 模范，榜样；标本
+    the exemplar of virtue
+#美德的楷模
+    an exemplar of patriotism
+#爱国主义的典范
+    It is an exemplar of a house of the period.
+#这是那个时期房屋的典型。
+
+sedimentary: 英[ˌsedɪˈmentri] 美[ˌsedɪˈmentri]
+%adj. 由沉淀物形成的，沉积而成的
+    Sedimentary rock forms the top geological layer in much of the area.
+#在这个地区的大部分地方，沉积岩形成了地质层的最上层。
+
+condescending: 英[ˌkɒndɪˈsendɪŋ] 美[ˌkɑːndɪˈsendɪŋ]
+$adj. 表现出优越感的，居高临下的
+%v. 表现出优越感；屈尊，俯就（condescend 的现在分词）
+    I don't like his condescending manner toward his staff.
+#我讨厌他在员工面前那种居高临下的态度。
+
+idealism: 英[aɪˈdiːəlɪzəm] 美[aɪˈdiːəlɪzəm]
+%n. 理想主义；唯心主义，唯心论
+    He never lost his youthful idealism and fought for the just cause all his life.
+#他从未丧失过他那种充满青春活力的理想主义，一生都在为正义事业而斗争。
+
+self-deprecating: 英[ˌself ˈdeprəkeɪtɪŋ] 美[ˌself ˈdeprəkeɪtɪŋ]
+%adj. 自贬的；谦虚的（等于 self-deprecatory）
+    a self-deprecating manner
+#过于谦虚的态度
+    self-deprecating jokes
+#自嘲的笑话
+
+protozoan: 英[ˌprəʊtəˈzəʊən] 美[ˌproʊtəˈzoʊən]
+$n. 原生动物
+%adj. 原生动物的
+    Amoebas are protozoans.
+#阿米巴虫是原生动物。
+
+inviolate: 英[ɪnˈvaɪələt] 美[ɪnˈvaɪələt]
+%adj. 无污点的；未亵渎的，未受侵犯的
+    For centuries the tomb lay inviolate until, by chance, it was discovered by two farmers.
+#这座坟墓若干世纪未遭破坏，直到被两个农夫偶然发现。
+
+periphery: 英[pəˈrɪfəri] 美[pəˈrɪfəri]
+%n. 外围，边缘；圆周；圆柱体表面
+    the periphery of the factory site
+#厂区的周边地区
+    the periphery of a metropolis
+#大都市的边缘地区
+    The ring road runs around the periphery of the city center.
+#内环线围绕市中心的边缘地带。
+
+caustic: 英[ˈkɔːstɪk] 美[ˈkɔːstɪk]
+$adj. [化学] 腐蚀性的；[化学] 苛性的；刻薄的；焦散的
+%n. [助剂] 腐蚀剂；苛性钠；焦散曲线
+    caustic remarks
+#挖苦讽刺的言语
+    She's famous in the office for her caustic humor.
+#她在办公室里因为擅长说笑话挖苦人而出名。
+
+recurrent: 英[rɪˈkʌrənt] 美[rɪˈkɜːrənt]
+%adj. 复发的；周期性的，经常发生的
+    recurrent spelling mistakes
+#经常发生的拼写错误
+    a recurrent dream
+#反复出现的梦
+    The father-daughter relationship is a recurrent theme throughout all her works.
+#父女关系是在她所有作品中反复出现的主题。
+
+unwarranted: 英[ʌnˈwɒrəntɪd] 美[ʌnˈwɔːrəntɪd]
+%adj. 无根据的；无保证的
+    unwarranted search and seizure
+#无证搜查抓捕
+    an unwarranted intrusion
+#无正当理由的侵人
+    The company director claimed the criticism was unwarranted and unjust.
+#公司经理声称批评是无根据的、不公正的。
+
+traceable: 英[ˈtreɪsəb(ə)l] 美[ˈtreɪsəb(ə)l]
+%adj. 起源于；可追踪的；可描绘的
+    a barely traceable inscription
+#几乎难以辨认的铭文
+    the deaths traceable to the conflict
+#由于这次突而造成的死亡人数
+    His medical problems were shown to be traceable to his having been exposed to dangerous chemicals.
+#有迹象表明，他的健康问题是源于他接触过危险的化学药品。
+
+acerbic: 英[əˈsɜːbɪk] 美[əˈsɜːrbɪk]
+%adj. 尖刻的（等于 acerb）；酸的；辛辣的
+    He sounded acerbic.
+#他的话听上去很尖刻。
+
+inadvisable: 英[ˌɪnədˈvaɪzəb(ə)l] 美[ˌɪnədˈvaɪzəb(ə)l]
+%adj. 失策的，不明智的；不受劝告的
+    It is inadvisable to generalize from the results of a single experiment.
+#就单个实验的结果进行概括是不可取的。
+
+discriminatory: 英[dɪˈskrɪmɪnətəri] 美[dɪˈskrɪmɪnətɔːri]
+%adj. 区别对待的，歧视的，不公平的
+    repeal racially discriminatory laws
+#废除种族视法规
+    discriminatory treatment
+#歧视性的待遇
+    The new regulations are, in a sense, discriminatory.
+#从某种意义上说，新的规则不公平。
+
+unsurpassed: 英[ˌʌnsəˈpɑːst] 美[ˌʌnsərˈpæst]
+%adj. 非常卓越的；未被超越的
+    He's an economic analyst of unsurpassed genius.
+#他是个才华超群的经济分析家。
+
+potable: 英[ˈpəʊtəb(ə)l] 美[ˈpoʊtəb(ə)l]
+$adj. 适于饮用的；可饮用的
+%n. 饮料（常复数）
+    potable water
+#饮用水
+    He bought eatables and potables.
+#他买了吃的喝的。
+
+stymie: 英[ˈstaɪmi] 美[ˈstaɪmi]
+$vt. 从中作梗，阻挠；妨碍
+%n. 妨碍球
+    be stymied at the door
+#被拦在门外
+    The increased cost of oil aggravated inflation and stymied economic recovery.
+#石油价格的上涨加剧了通货膨胀并阻碍了经济复苏。
+
+exasperation: 英[ɪɡˌzæspəˈreɪʃ(ə)n] 美[ɪɡˌzæspəˈreɪʃ(ə)n]
+%n. 恼怒；恶化；惹人恼怒的事
+    the petty exasperations of daily life
+#日常生活中恼人的琐细小事
+    After ten hours of fruitless negotiation, he stormed out of the hall in exasperation.
+#10小时毫无结果的协商后，他愤怒地冲出了大厅。
+
+introspective: 英[ˌɪntrəˈspektɪv] 美[ˌɪntrəˈspektɪv]
+%adj. 内省的；反省的
+    She is famous for her introspective songs about failed relationships.
+#她以唱反省失败感情关系的歌曲而闻名。
+
+incorruptible: 英[ˌɪnkəˈrʌptəb(ə)l] 美[ˌɪnkəˈrʌptəb(ə)l]
+%adj. 清廉的；不能收买的；不腐败的；不会腐烂的，不受腐蚀的；不动摇的
+    incorruptible metal
+#不腐蚀的金属
+    The incorruptible man could not be bribed.
+#廉洁的人是贿赂不了的。
+
+agony: 英[ˈæɡəni] 美[ˈæɡəni]
+%n. 剧痛，创痛；痛楚，苦难
+    in an agony of doubt
+#在疑惑的极大痛苦中;
+    suffer agonies of guilt
+#感到深切的内
+    go through the agony of war
+#历经战争的苦难
+    with agonies of wild joy
+#狂喜地
+    The people who had been injured in the bomb explosion lay screaming in agony.
+#在炸弹爆炸中受伤的人躺在那里，痛苦地尖叫着。
+
+skimp: 英[skɪmp] 美[skɪmp]
+$vt. 克扣；对……不够用心；舍不得给；少给
+$vi. 节省；不够用心
+%adj. 少的；不足的
+    skimp the material when making a dress
+#做衣服时舍不得用料
+    skimp sb. with/in money
+#克扣某人的钱
+    skimp one's job
+#敷衍了事
+    They skimped on food and heating in order to meet their bills.
+#他们节约食物和暖气供应以偿付账单。
+
+receptive: 英[rɪˈseptɪv] 美[rɪˈseptɪv]
+%adj. （对观点、建议等）愿意倾听的，乐于接受的；能容纳的，可以接受的；（对治疗）反应良好的；（雌性动物）处于发情期的
+    a receptive mind
+#接受能力强的头脑
+    be receptive to new ideas
+#能接受新思想
+    She was always receptive to new ideas.
+#她总是愿意接受新观点。
+
+rhapsodic: 英[ræpˈsɒdɪk] 美[ræpˈsɑːdɪk]
+%adj. 狂想曲的；狂热的
+    a rhapsodic composer
+#狂想曲作家
+
+transcendent: 英[trænˈsendənt] 美[trænˈsendənt]
+$adj. 卓越的；超常的；出类拔萃的
+%n. 卓越的人；超绝物
+    transcendent merit
+#卓越的功绩
+    a transcendent genius
+#杰出人才
+    Freud banished for many people the belief that a transcendent authority exists to which mankind is accountable for its actions.
+#弗洛伊德去除了许多人心目中的观念——认为有一种至高无上的权威主宰人类的行为。
+
+blissful: 英[ˈblɪsf(ə)l] 美[ˈblɪsf(ə)l]
+%adj. 极乐的；使人幸福的；无忧无虑的；充满喜悦的
+    eight blissful hours of sleep
+#8个小时无忧无虑的酣睡
+    They spent a blissful year together before things started to go wrong.
+#在境遇变坏前他们在一起度过了十分幸福的一年。
+
+recondite: 英[ˈrekəndaɪt] 美[ˈrekəndaɪt]
+%adj. 深奥的；隐藏的
+    a recondite area of learning
+#一个深奥的学术领域
+    the recondite motives of human actions
+#隐秘的人类行为动机
+    We had to work from material that was both complex and recondite.
+#我们不得不从复杂而又难懂的材料着手。
+
+culpable: 英[ˈkʌlpəb(ə)l] 美[ˈkʌlpəb(ə)l]
+%adj. 有罪的；该责备的；不周到的；应受处罚的
+    She admitted that she was partly culpable for the breakup of her marriage.
+#她承认婚姻破裂她负有部分责任。
+
+tactile: 英[ˈtæktaɪl] 美[ˈtækt(ə)l]
+%adj. [生理] 触觉的，有触觉的；能触知的
+    a tactile organ
+#触觉器官
+    children who are highly tactile
+#触觉特别发达的儿童
+    have tactile appeal
+#富有质感美
+    The theater has been refurnished with the tactile materials of wood, iron and copper.
+#这家剧院用木、铁、铜等质感较强的材料重新装饰过。
+
+prig: 英[prɪɡ] 美[prɪɡ]
+%n. 一本正经的人；小偷
+    A prig is usually a priggish, domineering man.
+#自命不凡者往往是一本正经、盛气凌人的人。
+
+pomposity: 英[pɒmˈpɒsəti] 美[pɑːmˈpɑːsəti]
+%n. 自大；炫耀；浮夸
+    He said this with pomposity that didn't suit such a young man.
+#他说这话时带有一种年轻人不该有的自负。
+
+overpower: 英[ˌəʊvəˈpaʊə(r)] 美[ˌoʊvərˈpaʊər]
+%vt. 压倒；克服；使无法忍受
+    be overpowered by grief
+#悲痛欲绝
+    He overpowered the thief.
+#他制伏了窃贼。
+
+viscous: 英[ˈvɪskəs] 美[ˈvɪskəs]
+%adj. 粘性的；黏的
+    dark, viscous blood
+#深色且黏稠的血液
+
+disinterest: 英[dɪsˈɪntrəst] 美[dɪsˈɪntrəst]
+$n. 不关心；无兴趣
+%vt. 使不关心
+    be charged with a lack of disinterest
+#被指责不公平
+    His disinterest in art was due to his ignorance.
+#对艺术缺乏兴趣是由于无知。
+
+>>>>>>> 2ceae69a4c81ebe4802c098fe21191cdd0ee2b42
