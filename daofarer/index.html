@@ -1,0 +1,3325 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>道行天涯 ARPG 设计文档</title>
+
+  <style>
+    :root {
+      --bg: #0b0f12;
+      --paper: rgba(255, 255, 255, 0.055);
+      --paper-strong: rgba(255, 255, 255, 0.085);
+      --text: #f6f0df;
+      --muted: #a8b0a5;
+      --line: rgba(246, 240, 223, 0.14);
+      --gold: #d6a84f;
+      --jade: #2dd4bf;
+      --blue: #60a5fa;
+      --green: #22c55e;
+      --orange: #f59e0b;
+      --red: #ef4444;
+      --radius: 20px;
+      --max: 1080px;
+      --sidebar-width: 320px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 12% 0%, rgba(214, 168, 79, 0.22), transparent 32rem),
+        radial-gradient(circle at 90% 10%, rgba(45, 212, 191, 0.12), transparent 30rem),
+        linear-gradient(180deg, #0b0f12, #070a0c);
+      font-family:
+        ui-sans-serif,
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        "Microsoft YaHei",
+        sans-serif;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button,
+    input {
+      font: inherit;
+    }
+
+    .container {
+      width: min(100% - 40px, var(--max));
+      margin: 0 auto;
+    }
+
+    .desktop-shell {
+      display: grid;
+      grid-template-columns: var(--sidebar-width) minmax(0, 1fr);
+      min-height: 100vh;
+    }
+
+    .desktop-sidebar {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow-y: auto;
+      padding: 26px 20px;
+      border-right: 1px solid var(--line);
+      background: rgba(5, 8, 9, 0.84);
+      backdrop-filter: blur(20px);
+    }
+
+    .main-content {
+      min-width: 0;
+    }
+
+    .brand {
+      display: flex;
+      align-items: flex-start;
+      gap: 13px;
+      margin-bottom: 24px;
+    }
+
+    .brand-mark {
+      width: 46px;
+      height: 46px;
+      flex: 0 0 auto;
+      display: grid;
+      place-items: center;
+      border: 1px solid rgba(214, 168, 79, 0.38);
+      border-radius: 15px;
+      color: var(--gold);
+      background:
+        radial-gradient(circle, rgba(214, 168, 79, 0.26), transparent 68%),
+        rgba(255, 255, 255, 0.04);
+      font-size: 24px;
+      box-shadow: 0 0 28px rgba(214, 168, 79, 0.16);
+    }
+
+    .brand-title {
+      margin: 0;
+      font-size: 19px;
+      font-weight: 900;
+      line-height: 1.25;
+      letter-spacing: -0.04em;
+    }
+
+    .brand-subtitle {
+      margin: 5px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.6;
+    }
+
+    .progress-card {
+      margin-bottom: 24px;
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--paper);
+    }
+
+    .progress-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 10px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .progress-track {
+      height: 10px;
+      overflow: hidden;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.1);
+    }
+
+    .progress-bar {
+      width: 0%;
+      height: 100%;
+      border-radius: inherit;
+      background: linear-gradient(90deg, var(--gold), var(--jade));
+      transition: width 260ms ease;
+    }
+
+    .side-title {
+      margin: 24px 0 10px;
+      color: var(--gold);
+      font-size: 12px;
+      font-weight: 900;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .desktop-toc {
+      display: grid;
+      gap: 6px;
+    }
+
+    .desktop-toc a {
+      display: block;
+      padding: 10px 12px;
+      border-radius: 12px;
+      color: #d8d0bd;
+      font-size: 14px;
+      line-height: 1.35;
+    }
+
+    .desktop-toc a:hover,
+    .desktop-toc a.active {
+      color: var(--text);
+      background: rgba(214, 168, 79, 0.13);
+    }
+
+    .mobile-header {
+      display: none;
+    }
+
+    .mobile-brand {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 14px 10px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .mobile-brand strong {
+      display: block;
+      font-size: 16px;
+      line-height: 1.25;
+    }
+
+    .mobile-brand small {
+      display: block;
+      margin-top: 2px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .mobile-toc {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding: 10px 14px;
+      scrollbar-width: none;
+    }
+
+    .mobile-toc::-webkit-scrollbar {
+      display: none;
+    }
+
+    .mobile-toc a {
+      flex: 0 0 auto;
+      padding: 8px 11px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: #eadfc7;
+      background: rgba(255, 255, 255, 0.045);
+      font-size: 13px;
+      white-space: nowrap;
+    }
+
+    .mobile-toc a.active {
+      color: #111;
+      border-color: transparent;
+      background: linear-gradient(135deg, var(--gold), var(--jade));
+    }
+
+    .hero {
+      padding: 72px 0 42px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .eyebrow {
+      margin: 0 0 12px;
+      color: var(--jade);
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
+
+    .hero h1 {
+      max-width: 1000px;
+      margin: 0 0 20px;
+      font-size: clamp(42px, 7vw, 84px);
+      line-height: 0.95;
+      letter-spacing: -0.08em;
+    }
+
+    .hero-desc {
+      max-width: 900px;
+      margin: 0 0 28px;
+      color: #e8ddc7;
+      font-size: clamp(18px, 2.2vw, 23px);
+      line-height: 1.75;
+    }
+
+    .meta-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .meta-pill {
+      padding: 8px 12px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: #efe2c5;
+      background: rgba(255, 255, 255, 0.045);
+      font-size: 13px;
+    }
+
+    .toolbar-wrap {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      border-bottom: 1px solid var(--line);
+      background: rgba(11, 15, 18, 0.86);
+      backdrop-filter: blur(18px);
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 0;
+    }
+
+    .search {
+      flex: 1;
+      min-width: 0;
+      height: 46px;
+      padding: 0 14px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      outline: none;
+      color: var(--text);
+      background: rgba(255, 255, 255, 0.07);
+    }
+
+    .search:focus {
+      border-color: var(--jade);
+    }
+
+    .filter-btn {
+      height: 46px;
+      padding: 0 15px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      color: var(--text);
+      background: rgba(255, 255, 255, 0.07);
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    .filter-btn.active {
+      border-color: rgba(245, 158, 11, 0.7);
+      background: rgba(245, 158, 11, 0.14);
+      color: #fcd34d;
+    }
+
+    .document {
+      padding: 42px 0 42px;
+    }
+
+    .chapter {
+      margin-bottom: 58px;
+      scroll-margin-top: 92px;
+    }
+
+    .chapter-head {
+      margin-bottom: 22px;
+      padding-bottom: 18px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .chapter-index {
+      color: var(--gold);
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
+
+    .chapter h2 {
+      margin: 8px 0 12px;
+      font-size: clamp(32px, 5vw, 56px);
+      line-height: 1;
+      letter-spacing: -0.065em;
+    }
+
+    .chapter-description {
+      max-width: 900px;
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.8;
+    }
+
+    .section-list {
+      display: grid;
+      gap: 20px;
+    }
+
+    .doc-section {
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--paper);
+      box-shadow: 0 12px 38px rgba(0, 0, 0, 0.16);
+    }
+
+    .section-head {
+      padding: 21px 22px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 255, 255, 0.035);
+    }
+
+    .section-head h3 {
+      margin: 0 0 7px;
+      font-size: 23px;
+      letter-spacing: -0.035em;
+    }
+
+    .section-head p {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.7;
+      font-size: 14px;
+    }
+
+    .field-row {
+      padding: 20px 22px;
+      border-top: 1px solid rgba(255, 255, 255, 0.075);
+    }
+
+    .field-row:first-child {
+      border-top: 0;
+    }
+
+    .field-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 14px;
+      margin-bottom: 10px;
+    }
+
+    .field-label {
+      color: #f0e5cc;
+      font-size: 17px;
+      font-weight: 900;
+      line-height: 1.35;
+    }
+
+    .field-guide {
+      max-width: 720px;
+      margin-bottom: 14px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    .status {
+      flex: 0 0 auto;
+      width: fit-content;
+      padding: 5px 9px;
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 900;
+    }
+
+    .status.todo {
+      color: #fde68a;
+      background: rgba(245, 158, 11, 0.16);
+    }
+
+    .status.draft {
+      color: #bfdbfe;
+      background: rgba(96, 165, 250, 0.16);
+    }
+
+    .status.done {
+      color: #bbf7d0;
+      background: rgba(34, 197, 94, 0.16);
+    }
+
+    .field-content {
+      color: #d6cbb7;
+      line-height: 1.95;
+      white-space: pre-line;
+    }
+
+    .field-row.todo .field-content {
+      color: #8f998d;
+      font-style: italic;
+    }
+
+    .empty-state {
+      padding: 28px;
+      border: 1px dashed var(--line);
+      border-radius: var(--radius);
+      color: var(--muted);
+      text-align: center;
+      background: rgba(255, 255, 255, 0.04);
+    }
+
+    .relation-section {
+      padding: 0 0 92px;
+    }
+
+    .relation-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 22px;
+    }
+
+    .relation-tab {
+      min-height: 40px;
+      padding: 0 14px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: #eadfc7;
+      background: rgba(255, 255, 255, 0.05);
+      cursor: pointer;
+      font-weight: 800;
+      font-size: 14px;
+    }
+
+    .relation-tab.active {
+      color: #111;
+      border-color: transparent;
+      background: linear-gradient(135deg, var(--gold), var(--jade));
+    }
+
+    .relation-view {
+      display: grid;
+      gap: 18px;
+    }
+
+    .relation-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 18px;
+    }
+
+    .relation-grid.three {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .relation-card,
+    .relation-table-card,
+    .chain-card {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--paper);
+      overflow: hidden;
+      box-shadow: 0 12px 38px rgba(0, 0, 0, 0.16);
+    }
+
+    .relation-card {
+      padding: 20px;
+    }
+
+    .relation-card h3,
+    .relation-table-card h3,
+    .chain-card h3 {
+      margin: 0 0 10px;
+      color: #f0e5cc;
+      font-size: 22px;
+      letter-spacing: -0.03em;
+    }
+
+    .relation-card p,
+    .chain-card p {
+      margin: 0 0 14px;
+      color: var(--muted);
+      line-height: 1.75;
+    }
+
+    .relation-mini-title {
+      margin: 16px 0 8px;
+      color: var(--jade);
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .relation-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .relation-tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 28px;
+      padding: 0 9px;
+      border-radius: 999px;
+      color: #dce8df;
+      background: rgba(255, 255, 255, 0.07);
+      font-size: 12px;
+      line-height: 1;
+    }
+
+    .relation-tag.gold {
+      color: #fde68a;
+      background: rgba(214, 168, 79, 0.14);
+    }
+
+    .relation-tag.green {
+      color: #bbf7d0;
+      background: rgba(34, 197, 94, 0.14);
+    }
+
+    .relation-tag.red {
+      color: #fecaca;
+      background: rgba(239, 68, 68, 0.14);
+    }
+
+    .table-wrap {
+      width: 100%;
+      overflow-x: auto;
+    }
+
+    .relation-table-card h3 {
+      padding: 20px 20px 0;
+    }
+
+    .relation-table-card > p {
+      padding: 0 20px;
+      color: var(--muted);
+      line-height: 1.7;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 720px;
+    }
+
+    th,
+    td {
+      padding: 13px 14px;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+      text-align: left;
+      vertical-align: top;
+      line-height: 1.6;
+    }
+
+    th {
+      color: #f0e5cc;
+      background: rgba(255, 255, 255, 0.04);
+      font-size: 13px;
+    }
+
+    td {
+      color: #d6cbb7;
+      font-size: 14px;
+    }
+
+    .chain-card {
+      padding: 20px;
+    }
+
+    .chain-flow {
+      display: grid;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .chain-step {
+      position: relative;
+      padding: 14px 16px;
+      border: 1px solid rgba(246, 240, 223, 0.12);
+      border-radius: 14px;
+      background: rgba(255, 255, 255, 0.045);
+      color: #d6cbb7;
+      line-height: 1.7;
+    }
+
+    .chain-step::after {
+      content: "↓";
+      display: block;
+      margin-top: 8px;
+      color: var(--gold);
+      font-weight: 900;
+    }
+
+    .chain-step:last-child::after {
+      content: "";
+      display: none;
+    }
+
+    .rule-card {
+      padding: 18px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: rgba(255, 255, 255, 0.045);
+    }
+
+    .rule-card h4 {
+      margin: 0 0 10px;
+      color: #f0e5cc;
+      font-size: 17px;
+    }
+
+    .rule-line {
+      display: grid;
+      grid-template-columns: 130px 1fr;
+      gap: 10px;
+      padding: 8px 0;
+      border-top: 1px solid rgba(255, 255, 255, 0.07);
+      color: #d6cbb7;
+      line-height: 1.65;
+      font-size: 14px;
+    }
+
+    .rule-line:first-of-type {
+      border-top: 0;
+    }
+
+    .rule-line strong {
+      color: var(--muted);
+      font-weight: 800;
+    }
+
+    .footer {
+      padding: 32px 0;
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    @media (max-width: 1000px) {
+      .relation-grid,
+      .relation-grid.three {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 900px) {
+      .mobile-header {
+        position: sticky;
+        top: 0;
+        z-index: 50;
+        display: block;
+        border-bottom: 1px solid var(--line);
+        background: rgba(5, 8, 9, 0.9);
+        backdrop-filter: blur(18px);
+      }
+
+      .desktop-shell {
+        display: block;
+      }
+
+      .desktop-sidebar {
+        display: none;
+      }
+
+      .toolbar-wrap {
+        top: 102px;
+      }
+
+      .hero {
+        padding-top: 42px;
+      }
+
+      .chapter {
+        scroll-margin-top: 168px;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .container {
+        width: min(100% - 28px, var(--max));
+      }
+
+      .hero {
+        padding-top: 34px;
+      }
+
+      .toolbar {
+        align-items: stretch;
+        flex-direction: column;
+      }
+
+      .search,
+      .filter-btn {
+        width: 100%;
+      }
+
+      .toolbar-wrap {
+        top: 101px;
+      }
+
+      .field-top {
+        flex-direction: column;
+      }
+
+      .status {
+        order: -1;
+      }
+
+      .section-head,
+      .field-row {
+        padding: 18px;
+      }
+
+      .relation-card,
+      .chain-card {
+        padding: 18px;
+      }
+
+      .rule-line {
+        grid-template-columns: 1fr;
+        gap: 2px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header class="mobile-header">
+    <a class="mobile-brand" href="#top">
+      <span class="brand-mark">☯</span>
+      <span>
+        <strong id="mobileProjectName">道行天涯 ARPG</strong>
+        <small id="mobileProjectSubtitle">降妖除魔 · 多路线任务</small>
+      </span>
+    </a>
+
+    <nav class="mobile-toc" id="mobileToc"></nav>
+  </header>
+
+  <div class="desktop-shell">
+    <aside class="desktop-sidebar">
+      <a class="brand" href="#top">
+        <div class="brand-mark">☯</div>
+        <div>
+          <p class="brand-title" id="projectName">道行天涯 ARPG</p>
+          <p class="brand-subtitle" id="projectSubtitle">单机 / 降妖除魔 / 多路线任务 / 因果声望</p>
+        </div>
+      </a>
+
+      <div class="progress-card">
+        <div class="progress-top">
+          <span>文档完成度</span>
+          <strong id="progressText">0%</strong>
+        </div>
+        <div class="progress-track">
+          <div class="progress-bar" id="progressBar"></div>
+        </div>
+      </div>
+
+      <p class="side-title">目录</p>
+      <nav class="desktop-toc" id="desktopToc"></nav>
+    </aside>
+
+    <main class="main-content" id="top">
+      <section class="hero">
+        <div class="container">
+          <p class="eyebrow">Game Design Document</p>
+          <h1 id="heroTitle">道行天涯 ARPG 设计文档</h1>
+          <p class="hero-desc" id="heroDesc"></p>
+          <div class="meta-grid" id="metaGrid"></div>
+        </div>
+      </section>
+
+      <div class="toolbar-wrap">
+        <div class="container toolbar">
+          <input class="search" id="searchInput" type="search" placeholder="搜索文档：因果、NPC、任务、妖魔、道术、声望..." />
+          <button class="filter-btn" id="todoOnlyBtn">只看待补充</button>
+        </div>
+      </div>
+
+      <section class="document" id="document">
+        <div class="container" id="documentInner"></div>
+      </section>
+
+      <section class="relation-section chapter" id="chapter-relation-map" data-chapter="relation-map">
+        <div class="container">
+          <div class="chapter-head">
+            <div class="chapter-index">Chapter 15</div>
+            <h2>关系图谱与影响矩阵</h2>
+            <p class="chapter-description">
+              这里专门整理“玩家行为 → 声望变化 → NPC 态度变化 → 任务分支变化 → 主线 / 结局变化”的复杂关系。
+              普通章节负责写设定，这里负责管理影响规则，避免后期内容散乱。
+            </p>
+          </div>
+
+          <div class="relation-tabs" id="relationTabs"></div>
+          <div class="relation-view" id="relationView"></div>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <div class="container">
+          <p id="footerText"></p>
+        </div>
+      </footer>
+    </main>
+  </div>
+
+  <script>
+    const GAME_DOCUMENT = {
+      project: {
+        name: "道行天涯 ARPG",
+        subtitle: "中国古代道教背景 · 降妖除魔 · 多路线单机 ARPG",
+        title: "道行天涯 ARPG 设计文档",
+        description: "这是一款以中国古代道教文化为世界观基础的单机 ARPG。玩家扮演一名行走人间的修道者，在妖邪横行、官府腐败、民间信仰混杂的时代中降妖除魔、匡扶正义。游戏重点不是单一路线通关，而是让玩家通过战斗、交涉、调查、欺骗、威慑、度化等多种方式解决问题，并让每一步行为影响 NPC、村镇、门派与妖魔势力对玩家的态度。",
+        meta: [
+          "类型：单机 ARPG",
+          "背景：中国古代道教 / 志怪 / 民间传说",
+          "核心参考：Fallout 2 式多路线任务结构",
+          "核心关键词：降妖除魔、因果声望、NPC 态度、多结局",
+          "当前阶段：世界观与系统框架搭建"
+        ],
+        lastUpdated: "2026-05-18"
+      },
+
+      chapters: [
+        {
+          id: "overview",
+          index: "01",
+          title: "项目总览",
+          description: "定义游戏最基本的身份：它是什么、玩家扮演谁、世界发生了什么、核心卖点是什么。",
+          sections: [
+            {
+              title: "游戏一句话概念",
+              description: "用最短的话说明这个游戏的核心吸引力。",
+              fields: [
+                {
+                  label: "一句话 Pitch",
+                  guide: "建议控制在 50 字以内。",
+                  status: "draft",
+                  value: "一名道门弟子行走乱世，通过降妖、调查、交涉与抉择改变人间与妖界秩序。"
+                },
+                {
+                  label: "玩家身份",
+                  guide: "玩家到底是谁？道士、散修、门派弟子、被逐出师门的人？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "核心卖点",
+                  guide: "写 3 到 5 个最重要的卖点。",
+                  status: "draft",
+                  value: "1. 中国古代道教与志怪背景。\n2. 多路线解决任务，不只有战斗一种方式。\n3. 玩家行为会持续影响 NPC 态度、村镇声望和门派评价。\n4. 妖魔不只是怪物，也可能被度化、利用、交易或放逐。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "core-experience",
+          index: "02",
+          title: "核心体验与设计原则",
+          description: "这一章决定游戏长期方向。后面所有系统都应该服务这些原则。",
+          sections: [
+            {
+              title: "核心设计支柱",
+              description: "建议固定 4 到 6 条，不要太多。",
+              fields: [
+                {
+                  label: "支柱一：多解法任务",
+                  guide: "每个重要任务至少允许 2 到 4 种解决方式。",
+                  status: "draft",
+                  value: "关键任务不应该只有“接任务 → 打怪 → 领奖励”。玩家可以选择正面战斗、调查真相、说服 NPC、使用道术、交易利益、嫁祸他人、放走妖物或改变双方关系。"
+                },
+                {
+                  label: "支柱二：因果反馈",
+                  guide: "玩家行为必须被世界记住。",
+                  status: "draft",
+                  value: "玩家杀了谁、救了谁、骗了谁、放过了谁，都应该影响后续 NPC 态度、村镇传闻、门派评价、妖魔势力反应和结局。"
+                },
+                {
+                  label: "支柱三：人妖不绝对二元",
+                  guide: "不是所有妖都该杀，不是所有人都正义。",
+                  status: "draft",
+                  value: "妖魔可以有怨、有债、有执念；人也可能贪婪、腐败、作恶。玩家需要判断真正的问题根源。"
+                },
+                {
+                  label: "支柱四：道术服务选择",
+                  guide: "道术不仅是战斗技能，也应该是任务工具。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "game-loop",
+          index: "03",
+          title: "核心循环",
+          description: "明确玩家每 5 分钟、30 分钟、数小时分别在做什么。",
+          sections: [
+            {
+              title: "基础循环",
+              description: "ARPG 的游玩骨架。",
+              fields: [
+                {
+                  label: "短循环",
+                  guide: "玩家几分钟内重复做的事情。",
+                  status: "draft",
+                  value: "探索地点 → 发现异象 / NPC / 妖气 → 战斗或调查 → 获得线索、道具、声望变化。"
+                },
+                {
+                  label: "中循环",
+                  guide: "一个任务或一个区域内的完整体验。",
+                  status: "draft",
+                  value: "接触事件 → 收集多方说法 → 判断人妖关系 → 选择解决方式 → 承受后果。"
+                },
+                {
+                  label: "长循环",
+                  guide: "整个游戏推进的结构。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "worldbuilding",
+          index: "06",
+          title: "世界观与时代背景",
+          description: "构建中国古代道教背景，但不要只堆设定，要服务玩法和任务。",
+          sections: [
+            {
+              title: "时代与社会",
+              description: "确定故事发生在怎样的人间。",
+              fields: [
+                {
+                  label: "时代原型",
+                  guide: "可以是架空朝代，也可以参考某些历史气质。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "社会问题",
+                  guide: "妖患背后的人间问题。",
+                  status: "draft",
+                  value: "官府腐败、灾荒频发、民间迷信、豪强压迫、道门分裂、百姓在恐惧中依赖祭祀与偏方。"
+                },
+                {
+                  label: "人妖关系",
+                  guide: "人和妖之间是战争、共存、交易还是互相误解？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "时间体系",
+                  guide: "不同的时间体系有不同的任务。总共分为三种：昼夜，时段，时辰。每现实10分钟对应游戏一个时辰（2小时）。日期一直是从初一到三十，循环。",
+                  status: "todo",
+                  value: "昼夜系统：白天（6：00-18：00）和黑夜（18：00-6：00），各6个时辰，。时段分为：凌晨（1：00：5：00），早晨（5：00-7：00），上午（7：00-11：00），中午（11：00-13：00），下午（13：00-17：00），傍晚（17：00-19：00），晚上（19：00-23：00），午夜（23：00-1：00）。时辰分为：子时（23:00 – 01:00），丑时（01:00 – 03:00），寅时（03:00 – 05:00），卯时（05:00 – 07:00），辰时（07:00 – 09:00），巳时（09:00 – 11:00），午时（11:00 – 13:00），未时（13:00 – 15:00），申时（15:00 – 17:00），酉时（17:00 – 19:00），戌时（19:00 – 21:00），亥时（21:00 – 23:00）"
+                },
+                {
+                  label: "季节系统",
+                  guide: "一段时间。春夏秋冬交替进行，对应不同的短线任务，支线任务开启。",
+                  status: "todo",
+                  value: "",
+                },
+                {
+                  label: "天气系统：",
+                  guide: "多云，雨，风，雪，雷电。",
+                  status: "todo",
+                  value: "",
+                }
+              ]
+            },
+            {
+              title: "道教体系",
+              description: "定义本作中的道法、门派、戒律和世界规则。",
+              fields: [
+                {
+                  label: "道法来源",
+                  guide: "道术是修炼、神授、符箓、仪式，还是天地规则？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "门派结构",
+                  guide: "有哪些道门派系？它们理念是否冲突？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "禁术与代价",
+                  guide: "强大道术需要什么代价？",
+                  status: "draft",
+                  value: "禁术可以快速解决问题，但会损害因果、折寿、引来天谴、污染法器或让某些 NPC 恐惧玩家。"
+                },
+                {
+                  label: "主角称呼",
+                  guide: "强大道术需要什么代价？",
+                  status: "draft",
+                  value: "邪：道爷。中：道士。正：道长"
+                },
+                {
+                  label: "拂教",
+                  guide: "表面上普度众生，实际上大肆敛财，逼良为娼。利用法力，控制小鬼，让小鬼做一些坏事",
+                  status: "draft",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "story",
+          index: "13",
+          title: "主线剧情与结局",
+          description: "主线应该给玩家方向，但不要压死自由度。",
+          sections: [
+            {
+              title: "主线骨架",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: "第一章，爷爷还在世。主角15岁，从床上醒来，一个小女孩看到他醒来后就喊着爷爷爷爷，他醒了。可是主角完全想不起来任何事情了，怎么受伤，怎么来的这里全忘了。爷爷是这个偏僻村里的郎中，也会一些道家的法术和风水。（爷爷一年以后就去世了，主角就和师姐学习法术一边成长。但其实爷爷是从男孩身上发现的秘密，决决定开始继续自己的事情，隐居在这里的，其实是高强的人。爷爷走之前仿佛算到了自己要走一样，提前准备好了棺材，仅仅留下了几句话，让快速安葬，就驾鹤西去了。或者是最后一站，爷爷受重伤离去）。   不顾爷爷反对，放走过一个善良的僵尸"
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第一章",
+              description: "夜半啼哭惊好梦，平明急起探寒鸣。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第二章",
+              description: "同是天涯沦落人，相逢何必曾相识。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第三章",
+              description: "桃李春风一杯酒，江湖夜雨十年灯。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第四章",
+              description: "英雄气短尽彻天，儿女情长终断尘。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第五章",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第六章",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第七章",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第八章",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第九章",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "结局变量",
+              description: "结局由玩家长期行为共同决定。",
+              fields: [
+                {
+                  label: "人间结局",
+                  guide: "村镇、百姓、官府的命运。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "妖族结局",
+                  guide: "妖魔势力最终如何看待玩家？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "道门结局",
+                  guide: "玩家是否被承认、驱逐、封为真人或堕入邪道？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "个人结局",
+                  guide: "玩家自身成为什么样的人？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+                {
+          id: "story",
+          index: "13",
+          title: "支线剧情与结局",
+          description: "主线应该给玩家方向，但不要压死自由度。",
+          sections: [
+            {
+              title: "主线骨架",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第一章",
+              description: "夜半啼哭惊好梦，平明急起探寒鸣。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第二章",
+              description: "同是天涯沦落人，相逢何必曾相识。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第三章",
+              description: "桃李春风一杯酒，江湖夜雨十年灯。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第四章",
+              description: "英雄气短尽彻天，儿女情长终断尘。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第五章",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第六章",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第七章",
+              description: "七月七日长生殿，夜半无人私语时。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第八章",
+              description: "在天愿作比翼鸟，在地愿为连理枝。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第九章",
+              description: "天长地久有尽时，此恨绵绵无绝期。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "结局变量",
+              description: "结局由玩家长期行为共同决定。",
+              fields: [
+                {
+                  label: "人间结局",
+                  guide: "村镇、百姓、官府的命运。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "妖族结局",
+                  guide: "妖魔势力最终如何看待玩家？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "道门结局",
+                  guide: "玩家是否被承认、驱逐、封为真人或堕入邪道？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "个人结局",
+                  guide: "玩家自身成为什么样的人？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "karma-reputation",
+          index: "04",
+          title: "因果、声望与 NPC 态度系统",
+          description: "这是你这个项目最重要的系统之一。它决定游戏是否真的有 Fallout 2 那种“世界会记住我”的感觉。",
+          sections: [
+            {
+              title: "全局因果",
+              description: "记录玩家整体行为倾向。",
+              fields: [
+                {
+                  label: "因果值定义",
+                  guide: "它不是简单善恶值，而是玩家行为在世界中的回响。",
+                  status: "draft",
+                  value: "因果不是单纯的正邪条，而是记录玩家是否守信、是否滥杀、是否贪财、是否偏袒人类、是否偏袒妖族、是否尊重道门戒律等行为倾向。"
+                },
+                {
+                  label: "可记录行为",
+                  guide: "列出系统应该追踪的行为类型。",
+                  status: "draft",
+                  value: "杀死投降者、收受贿赂、放走妖物、救助平民、欺骗官府、违背承诺、使用禁术、度化妖魔、破坏神像、私吞贡品。"
+                },
+                {
+                  label: "因果反馈方式",
+                  guide: "因果如何体现？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "地区声望",
+              description: "不同村镇、城池、门派对玩家有不同评价。",
+              fields: [
+                {
+                  label: "村镇声望",
+                  guide: "百姓如何评价玩家？",
+                  status: "draft",
+                  value: "玩家在某地救人、降妖、揭露真相或造成破坏，都会改变当地百姓的态度。高声望时可获得折扣、情报、庇护；低声望时可能被拒绝交易、举报或驱逐。"
+                },
+                {
+                  label: "门派声望",
+                  guide: "道门内部如何评价玩家？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "妖族声望",
+                  guide: "妖魔是否害怕、尊敬、仇视或试图拉拢玩家？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },            {
+              title: "个人声望",
+              description: "自己随着任务或者事迹而达成的声望。不同的声望",
+              fields: [
+                {
+                  label: "手无缚鸡之力",
+                  guide: "被一只鸡杀至血量为0，",
+                  status: "draft",
+                  value: "获得声望后，在10级之前，在村镇内买东西付钱时，只需要支付80%，且仅限定在第一章内"
+                },
+                {
+                  label: "门派声望",
+                  guide: "道门内部如何评价玩家？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "妖族声望",
+                  guide: "妖魔是否害怕、尊敬、仇视或试图拉拢玩家？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "村镇声望",
+              description: "不同村镇、城池、门派对玩家有不同评价。玩家在某地救人、降妖、揭露真相或造成破坏，都会改变当地百姓的态度。高声望时可获得折扣、情报、庇护；低声望时可能被拒绝交易、举报或驱逐。",
+              fields: [
+                {
+                  label: "罪大恶极",
+                  guide: "全部村镇都达到恶贯满盈，且完成特定任务后",
+                  status: "draft",
+                  value: ""
+                },
+                {
+                  label: "恶贯满盈",
+                  guide: "在该村镇，支线作恶任务全部完成，作恶事件数达标",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "作恶多端",
+                  guide: "在该村镇，支线作恶任务完成60%，作恶事件数达标",
+                  status: "todo",
+                  value: ""
+                },
+                                {
+                  label: "恶迹初现",
+                  guide: "百姓如何评价玩家？",
+                  status: "draft",
+                  value: "在该村镇，支线作恶任务完成10%，或作恶事件数达标"
+                },
+                {
+                  label: "默默无闻",
+                  guide: "道门内部如何评价玩家？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "崭露头角",
+                  guide: "在该村镇，支线行善任务完成10%，或行善事件数达标",
+                  status: "todo",
+                  value: ""
+                },
+                                {
+                  label: "交口称赞",
+                  guide: "在该村镇，支线行善任务完成60%，作恶事件数达标",
+                  status: "todo",
+                  value: ""
+                },
+                                {
+                  label: "德高望重",
+                  guide: "在该村镇，支线作恶任务全部完成，作恶事件数达标",
+                  status: "todo",
+                  value: ""
+                },
+                                {
+                  label: "天下归心",
+                  guide: "全部村镇都达到德高望重，且完成特定任务后",
+                  status: "todo",
+                  value: ""
+                },
+              ]
+            },
+            {
+              title: "全局声望",
+              description: "全局而存在的声望系统。",
+              fields: [
+                {
+                  label: "个人声望",
+                  guide: "百姓如何评价玩家？",
+                  status: "draft",
+                  value: "玩家在某地救人、降妖、揭露真相或造成破坏，都会改变当地百姓的态度。高声望时可获得折扣、情报、庇护；低声望时可能被拒绝交易、举报或驱逐。"
+                },
+                {
+                  label: "门派声望",
+                  guide: "道门内部如何评价玩家？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "妖族声望",
+                  guide: "妖魔是否害怕、尊敬、仇视或试图拉拢玩家？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "quest-design",
+          index: "05",
+          title: "多路线任务设计",
+          description: "这是整个游戏最该精细打磨的部分。每个重要任务都应该像一个小型社会事件。",
+          sections: [
+            {
+              title: "任务基础模板",
+              description: "以后每设计一个任务，都可以套这个模板。",
+              fields: [
+                {
+                  label: "表面问题",
+                  guide: "玩家最初看到的问题。",
+                  status: "draft",
+                  value: "村中闹妖，百姓请求玩家除妖。"
+                },
+                {
+                  label: "真实原因",
+                  guide: "调查后发现的深层真相。",
+                  status: "draft",
+                  value: "所谓妖患可能源于村民毁约、官府压迫、祭祀失衡、冤魂作祟或有人故意嫁祸。"
+                },
+                {
+                  label: "相关势力",
+                  guide: "至少列出 3 方利益相关者。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "解决路线",
+                  guide: "写出 3 到 5 条路线。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "后果变化",
+                  guide: "每条路线带来什么长期后果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "player-growth",
+          index: "07",
+          title: "角色成长与能力",
+          description: "成长系统要支持多种任务解法，而不是只提升伤害。",
+          sections: [
+            {
+              title: "基础属性",
+              description: "既服务战斗，也服务对话和调查。",
+              fields: [
+                {
+                  label: "战斗属性",
+                  guide: "生命、身法、法力、定力、攻击等。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "非战斗属性",
+                  guide: "口才、洞察、威慑、医术、符箓、风水、民俗等。",
+                  status: "draft",
+                  value: "非战斗属性应该打开额外任务路线。例如洞察可识破谎言，风水可发现阵眼，民俗可理解妖怪习性，口才可调停冲突。"
+                },
+                {
+                  label: "道行等级",
+                  guide: "道行不只是等级，也可以影响 NPC 是否信服。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "combat",
+          index: "08",
+          title: "游戏系统",
+          description: "ARPG 的手感核心。战斗要有降妖特色，而不是普通砍怪。",
+          sections: [
+            {
+              title: "基础战斗",
+              description: "定义操作、节奏和敌我交互。",
+              fields: [
+                {
+                  label: "战斗节奏",
+                  guide: "偏魂类、暗黑、塞尔达、还是传统动作？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "基础操作",
+                  guide: "轻击、重击、闪避、格挡、施法、符箓、法器。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "破邪机制",
+                  guide: "如何体现“降妖除魔”？",
+                  status: "draft",
+                  value: "妖魔可拥有妖气护体。玩家需要通过符箓、法器、阵法或识破本体来削弱妖气，而不是单纯削血。"
+                }
+              ]
+            },
+            {
+              title: "恢复系统",
+              description: "定义操作、节奏和敌我交互。",
+              fields: [
+                {
+                  label: "生命值体系",
+                  guide: "偏魂类、暗黑、塞尔达、还是传统动作？",
+                  status: "todo",
+                  value: "1、本身是自动恢复的。城内恢复快，城外恢复慢。2、普通草药是在x时间内增加生命回复速度为y。3、仙药级别是瞬时恢复。4、法术瞬间恢复生命的，需要消耗极大的法力。"
+                },
+                {
+                  label: "法力值体系",
+                  guide: "轻击、重击、闪避、格挡、施法、符箓、法器。",
+                  status: "todo",
+                  value: "1、通过饮食，在客栈吃饭。恢复很快，时间很短，不是瞬间。2、通过携带的食物。3、丹药恢复，瞬间恢复。"
+                },
+                {
+                  label: "生命和法术同时恢复",
+                  guide: "如何体现“降妖除魔”？",
+                  status: "draft",
+                  value: "1、阵法同时回复生命和法力。"
+                },
+                {
+                  label: "客栈",
+                  guide: "如何体现“降妖除魔”？",
+                  status: "draft",
+                  value: "1、客栈会有随机优惠的菜品以及可以携带走的食物。2、坐在座位上点餐。有对话栏，可以传唤小二。"
+                }
+              ]
+            },
+          ]
+        },
+        {
+          id: "skills",
+          index: "09",
+          title: "技能系统",
+          description: "技能系统负责定义玩家能做什么。它不仅包含战斗招式，也包含调查、交涉、破邪、封印、度化等解决任务的能力。",
+          sections: [
+            {
+              title: "技能系统定位",
+              description: "明确技能系统在游戏中的作用，避免只变成伤害数值堆叠。",
+              fields: [
+                {
+                  label: "技能设计目标",
+                  guide: "技能应该如何服务 ARPG 战斗、多路线任务和道教背景？",
+                  status: "draft",
+                  value: "技能不仅用于战斗，也应该影响任务解决方式。例如玩家可以用剑术斩妖，用符法破邪，用望气发现线索，用安魂化解怨灵，用威慑让 NPC 退让。"
+                },
+                {
+                  label: "技能获取方式",
+                  guide: "技能来自升级、师门传授、任务奖励、法器觉醒，还是隐藏奇遇？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "技能限制与代价",
+                  guide: "强力技能是否消耗法力、符纸、阳寿、因果或道门声望？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "战斗技能",
+              description: "直接影响战斗手感、连招、破防、闪避和处决。",
+              fields: [
+                {
+                  label: "近战技能",
+                  guide: "剑法、棍法、拂尘、短刃、法剑等。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "远程 / 法术技能",
+                  guide: "雷法、火符、剑气、镇魂咒、缚妖索等。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "破邪技能",
+                  guide: "专门针对妖气护体、鬼魂虚体、邪修护阵的技能。",
+                  status: "draft",
+                  value: "部分妖魔不应该只靠削血击败。玩家需要使用破邪、照妖、镇魂、破阵等技能削弱其妖气、显出本体或打断仪式。"
+                },
+                {
+                  label: "非致命技能",
+                  guide: "用于封印、制服、驱散，而不是杀死敌人。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "调查与交涉技能",
+              description: "这些技能用于打开非战斗路线，是多路线任务设计的核心。",
+              fields: [
+                {
+                  label: "调查技能",
+                  guide: "望气、寻踪、照妖、问魂、风水、识符、验尸等。",
+                  status: "draft",
+                  value: "调查技能可以发现隐藏真相。例如望气发现妖气残留，寻踪符追踪脚印，问魂与死者残念交流，风水判断村中灾祸源头。"
+                },
+                {
+                  label: "交涉技能",
+                  guide: "口才、威慑、安抚、诓骗、结契、辩法等。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "任务解法影响",
+                  guide: "哪些技能可以开启隐藏路线、关闭暴力路线，或改变 NPC 态度？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "技能成长与流派",
+              description: "玩家可以成长为不同类型的修道者。",
+              fields: [
+                {
+                  label: "斩妖流派",
+                  guide: "偏近战、爆发、正面战斗。",
+                  status: "draft",
+                  value: "擅长快速击杀妖魔，处理问题直接，但可能更容易积累妖族仇恨。"
+                },
+                {
+                  label: "符法流派",
+                  guide: "偏控制、破邪、布阵、远程法术。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "游方流派",
+                  guide: "偏调查、交涉、风水、民俗、骗术。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "度化流派",
+                  guide: "偏净化、安魂、封印、非杀戮解决。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "items",
+          index: "10",
+          title: "道具、符箓与法器",
+          description: "道具系统负责管理玩家使用、收集、消耗和成长的物品。符箓和法器是道教背景下最重要的特色道具。",
+          sections: [
+            {
+              title: "基础道具分类",
+              description: "先明确道具有哪些大类，以及各自服务什么玩法。",
+              fields: [
+                {
+                  label: "消耗品",
+                  guide: "药品、香灰、朱砂、符纸、丹药、解毒物等。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "任务道具",
+                  guide: "婚书、令牌、妖骨、残魂瓶、旧契约、官府文书等。",
+                  status: "draft",
+                  value: "任务道具不只是收集物，应该经常影响任务路线。例如找到婚书可以开启调查真相路线，拿到官府令牌可以威慑村长，保存妖物信物可以换取妖族信任。"
+                },
+                {
+                  label: "材料",
+                  guide: "东珍木、妖丹、符灰、灵木、骨粉、矿石、香火等。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "符箓系统",
+              description: "符箓可以作为战斗、调查、封印和交涉工具。",
+              fields: [
+                {
+                  label: "攻击符",
+                  guide: "火符、雷符、剑符、爆裂符等。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "辅助符",
+                  guide: "隐身符、疾行符、护身符、清心符等。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "调查符",
+                  guide: "寻踪符、显形符、问魂符、破妄符等。",
+                  status: "draft",
+                  value: "调查符可以作为任务路线钥匙。例如寻踪符追踪妖气，显形符识破伪装，问魂符获得死者证词。"
+                },
+                {
+                  label: "封印符",
+                  guide: "用于非杀戮解决妖魔。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "法器系统",
+              description: "法器是玩家身份、成长和玩法分支的重要载体。",
+              fields: [
+                {
+                  label: "核心法器",
+                  guide: "玩家是否有一件贯穿主线的代表性法器？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "法器能力",
+                  guide: "法器提供战斗能力、调查能力，还是任务权限？",
+                  status: "draft",
+                  value: "法器可以不只是装备数值。例如照妖镜用于识破伪装，镇魂铃用于安抚鬼魂，缚妖索用于非致命制服妖物，法印用于打开道门封印。"
+                },
+                {
+                  label: "法器升级",
+                  guide: "通过材料、功德、妖丹、师门传承还是任务选择升级？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "法器副作用",
+                  guide: "强大法器是否会带来污染、反噬或声望影响？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "特殊道具与路线影响",
+              description: "有些道具应该影响 NPC 态度、任务分支和结局。",
+              fields: [
+                {
+                  label: "信物类道具",
+                  guide: "是否可以作为阵营信任、NPC 证明、隐藏路线钥匙？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "禁物",
+                  guide: "邪修法器、血符、鬼器、禁丹等。",
+                  status: "draft",
+                  value: "禁物通常带来强力效果，但可能提高因果污染、降低道门威望，或让邪修 NPC 主动接触玩家。"
+                },
+                {
+                  label: "道具影响规则",
+                  guide: "哪些道具会写入 Flag，并影响后续任务？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "monsters",
+          index: "11",
+          title: "妖魔与敌人设计",
+          description: "妖魔不只是怪物图鉴，每个重要妖魔都应该有来源、执念和社会关系。",
+          sections: [
+            {
+              title: "妖魔分类",
+              description: "建立敌人生态。",
+              fields: [
+                {
+                  label: "兽妖",
+                  guide: "狐、蛇、狼、鼠、虎等。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "鬼祟",
+                  guide: "冤魂、厉鬼、饿鬼、伥鬼。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "邪修",
+                  guide: "人类敌人，道门败类或民间术士。",
+                  status: "draft",
+                  value: "邪修可以作为“人比妖更恶”的代表，擅长利用百姓恐惧、妖物怨气和禁术牟利。"
+                },
+                {
+                  label: "异变神祇",
+                  guide: "土地、山神、河伯等是否会堕落？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "妖魔设计模板",
+              description: "以后每个 Boss 或重要妖怪都按这个模板写。",
+              fields: [
+                {
+                  label: "生前 / 来源",
+                  guide: "它为什么成妖、成鬼、成邪？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "执念",
+                  guide: "它真正想要什么？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "战斗特征",
+                  guide: "它在战斗中有什么独特机制？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "非战斗解决方式",
+                  guide: "能否谈判、超度、封印、交易？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "locations",
+          index: "12",
+          title: "地图、城镇与区域",
+          description: "区域不只是关卡，而是任务、声望、NPC 和妖患交织的地方。",
+          sections: [
+            {
+              title: "区域结构",
+              description: "定义世界地图如何组织。",
+              fields: [
+                {
+                  label: "大地图结构",
+                  guide: "开放世界、箱庭区域、章节地图？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "安全区",
+                  guide: "道观、城镇、客栈、驿站等。",
+                  status: "draft",
+                  value: "安全区不仅是补给点，也应该承载传闻、任务后果、NPC 态度变化和声望反馈。"
+                },
+                {
+                  label: "危险区",
+                  guide: "荒村、古庙、乱葬岗、山林、河道、地宫。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "城镇反应",
+              description: "玩家行为如何改变城镇。",
+              fields: [
+                {
+                  label: "视觉变化",
+                  guide: "旗帜、告示、香火、人群、尸体、封条等。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "NPC 行为变化",
+                  guide: "是否避开玩家、主动求助、传谣、涨价？",
+                  status: "draft",
+                  value: "如果玩家滥杀或使用禁术，百姓可能躲避、关门、拒绝交易；如果玩家救下村民，孩子可能围观，道士可能被请入祠堂。"
+                },
+                {
+                  label: "任务变化",
+                  guide: "某些任务是否因为玩家之前选择而关闭或开启？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          id: "production",
+          index: "14",
+          title: "开发计划与原型优先级",
+          description: "用于把庞大设想压缩成可执行 Demo。",
+          sections: [
+            {
+              title: "第一个可玩 Demo",
+              description: "建议先验证核心体验，而不是一开始做大世界。",
+              fields: [
+                {
+                  label: "Demo 目标",
+                  guide: "10 到 20 分钟内验证核心玩法。",
+                  status: "draft",
+                  value: "制作一个小村庄 + 一个妖患任务 + 三种解决路线 + NPC 态度变化 + 一场可选择击杀或封印的妖魔战。"
+                },
+                {
+                  label: "必须包含",
+                  guide: "Demo 不可缺少的功能。",
+                  status: "draft",
+                  value: "基础移动与战斗、对话选择、任务多路线、NPC 态度记录、一个道术调查技能、一个任务后果反馈。"
+                },
+                {
+                  label: "暂时不做",
+                  guide: "避免范围爆炸。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    };
+
+    const RELATION_DATA = {
+      reputations: [
+        {
+          id: "dao_reputation",
+          name: "道门威望",
+          type: "阵营声望",
+          description: "道门内部对玩家的评价。影响师门传承、法术学习、戒律审判和道门主线结局。",
+          levels: [
+            { range: "-100 ~ -50", name: "堕道", effect: "道门 NPC 可能拒绝传授法术，部分正统路线关闭。" },
+            { range: "-49 ~ -10", name: "可疑", effect: "师门会监视玩家，部分任务需要额外证明。" },
+            { range: "-9 ~ 30", name: "中立", effect: "普通道门交流正常，但不会主动信任。" },
+            { range: "31 ~ 70", name: "认可", effect: "可获得正统法术、符箓支援和师门情报。" },
+            { range: "71 ~ 100", name: "正道楷模", effect: "道门愿意为玩家作证，影响最终结局评价。" }
+          ]
+        },
+        {
+          id: "yao_relation",
+          name: "妖族关系",
+          type: "阵营声望",
+          description: "妖族整体对玩家的态度。影响妖怪是否愿意交涉、交易、透露情报或伏击玩家。",
+          levels: [
+            { range: "-100 ~ -50", name: "血仇", effect: "大部分妖族主动敌对，和平路线关闭。" },
+            { range: "-49 ~ -10", name: "警惕", effect: "妖族 NPC 不信任玩家，交易价格提高。" },
+            { range: "-9 ~ 30", name: "中立", effect: "可以交涉，但需要额外条件。" },
+            { range: "31 ~ 70", name: "认可", effect: "部分妖族愿意提供隐藏情报。" },
+            { range: "71 ~ 100", name: "盟友", effect: "妖族路线开启，部分战斗可以避免。" }
+          ]
+        },
+        {
+          id: "commoner_fame",
+          name: "百姓名望",
+          type: "全局声望",
+          description: "普通百姓对玩家的整体印象。影响民间传闻、商人价格、村镇接纳度和求助事件出现率。",
+          levels: [
+            { range: "-100 ~ -50", name: "恶名昭彰", effect: "百姓躲避玩家，部分城镇拒绝进入。" },
+            { range: "-49 ~ -10", name: "不受信任", effect: "商人抬价，村民不愿提供情报。" },
+            { range: "-9 ~ 30", name: "普通游方", effect: "大多数 NPC 正常对待玩家。" },
+            { range: "31 ~ 70", name: "有口皆碑", effect: "百姓主动提供传闻、折扣和支线线索。" },
+            { range: "71 ~ 100", name: "民间活神仙", effect: "部分地区会主动庇护玩家，结局中百姓会为玩家立祠。" }
+          ]
+        },
+        {
+          id: "corruption",
+          name: "因果污染",
+          type: "隐藏倾向",
+          description: "记录玩家是否频繁使用禁术、违背誓言、滥杀无辜或强行扭曲因果。",
+          levels: [
+            { range: "0 ~ 20", name: "清明", effect: "因果稳定，正统道术无额外风险。" },
+            { range: "21 ~ 50", name: "染尘", effect: "部分敏感 NPC 会察觉玩家气息异常。" },
+            { range: "51 ~ 80", name: "污浊", effect: "禁术路线更容易开启，但道门评价下降。" },
+            { range: "81 ~ 100", name: "劫煞缠身", effect: "可能开启邪道结局，部分正道结局关闭。" }
+          ]
+        }
+      ],
+
+      npcs: [
+        {
+          id: "village_elder",
+          name: "青石村村长",
+          faction: "青石村",
+          description: "表面维护村庄秩序，实际上隐瞒了少女失踪事件的部分真相。",
+          attitudeDependsOn: ["qingshi_reputation", "commoner_fame", "yao_relation"],
+          relatedQuests: ["fox_wedding", "missing_girl"]
+        },
+        {
+          id: "fox_spy",
+          name: "狐族密探",
+          faction: "狐族",
+          description: "观察玩家是否只是普通斩妖人，还是可以谈判的修道者。",
+          attitudeDependsOn: ["yao_relation", "dao_reputation", "killed_fox_spirit"],
+          relatedQuests: ["fox_wedding", "white_fox_mountain"]
+        },
+        {
+          id: "dao_master_uncle",
+          name: "道观师叔",
+          faction: "正一道门",
+          description: "负责考察玩家是否守正道戒律，也会决定部分正统法术是否传授。",
+          attitudeDependsOn: ["dao_reputation", "corruption", "used_forbidden_spell_publicly"],
+          relatedQuests: ["master_trial", "dao_mainline"]
+        },
+        {
+          id: "demon_hunter_captain",
+          name: "镇妖司校尉",
+          faction: "官府镇妖司",
+          description: "官府镇妖机构成员，重视秩序与效率，不一定关心真相。",
+          attitudeDependsOn: ["official_trust", "commoner_fame", "sheltered_monster"],
+          relatedQuests: ["official_route", "wanted_order"]
+        }
+      ],
+
+      quests: [
+        {
+          id: "fox_wedding",
+          name: "狐妖娶亲",
+          chapter: "第一章",
+          description: "村中少女失踪，村民认定是狐妖作祟，但真相涉及旧婚约、乡绅逼婚与狐族报恩。",
+          branches: [
+            {
+              id: "kill_fox",
+              name: "直接除妖",
+              condition: "默认开启。",
+              closeCondition: "无。",
+              result: "狐妖死亡，村民短期感激，妖族关系下降。",
+              longTermImpact: "白狐岭和平路线关闭。"
+            },
+            {
+              id: "investigate_truth",
+              name: "调查真相",
+              condition: "找到婚书，或洞察 / 民俗属性达到要求。",
+              closeCondition: "杀死狐妖后关闭。",
+              result: "揭露乡绅逼婚，村长态度复杂变化。",
+              longTermImpact: "开启失踪少女后续支线。"
+            },
+            {
+              id: "mediate_contract",
+              name: "调停人妖契约",
+              condition: "狐女未死亡，且妖族关系不低于中立。",
+              closeCondition: "狐妖死亡或村长进入敌视状态。",
+              result: "人妖双方达成新契约。",
+              longTermImpact: "狐族密探信任玩家，开启妖族情报路线。"
+            },
+            {
+              id: "profit_from_event",
+              name: "利用事件牟利",
+              condition: "口才 ≥ 2，或邪道倾向达到要求。",
+              closeCondition: "道观师叔在场时风险增加。",
+              result: "玩家从双方索取利益。",
+              longTermImpact: "百姓名望下降，鬼市路线提前出现。"
+            }
+          ]
+        },
+        {
+          id: "white_fox_mountain",
+          name: "白狐岭支线",
+          chapter: "第二章",
+          description: "狐族势力所在区域。根据玩家在狐妖娶亲中的选择，可能成为交涉路线、敌对路线或隐藏情报路线。",
+          branches: [
+            {
+              id: "white_fox_peace",
+              name: "和平入山",
+              condition: "妖族关系 ≥ 30，且未杀死狐妖。",
+              closeCondition: "存在 killed_fox_spirit 标记。",
+              result: "狐族允许玩家进入内岭。",
+              longTermImpact: "主线第三章可获得妖族内线情报。"
+            },
+            {
+              id: "white_fox_hostile",
+              name: "强攻入山",
+              condition: "默认可选。",
+              closeCondition: "无。",
+              result: "进入连续战斗路线。",
+              longTermImpact: "妖族结局倾向恶化。"
+            }
+          ]
+        }
+      ],
+
+      flags: [
+        {
+          id: "killed_fox_spirit",
+          name: "杀死狐妖",
+          source: "狐妖娶亲",
+          description: "玩家在狐妖娶亲任务中杀死狐妖。",
+          impacts: [
+            "妖族关系 -20",
+            "青石村声望 +10",
+            "狐族密探初始态度 -30",
+            "白狐岭和平路线关闭"
+          ]
+        },
+        {
+          id: "used_forbidden_spell_publicly",
+          name: "公开使用禁术",
+          source: "任意公开战斗或剧情节点",
+          description: "玩家在百姓、官府或道门 NPC 面前使用禁术。",
+          impacts: [
+            "百姓名望 -15",
+            "道门威望 -10",
+            "因果污染 +20",
+            "邪修 NPC 更容易主动接触玩家"
+          ]
+        },
+        {
+          id: "sheltered_monster",
+          name: "庇护妖物",
+          source: "多个支线任务",
+          description: "玩家在有官府或百姓诉求的情况下选择保护妖物。",
+          impacts: [
+            "妖族关系 +15",
+            "官府信任 -10",
+            "部分百姓 NPC 进入警惕",
+            "镇妖司校尉可能监视玩家"
+          ]
+        }
+      ],
+
+      rules: [
+        {
+          id: "rule_fox_killed_affects_spy",
+          title: "杀死狐妖影响狐族密探",
+          sourceType: "Flag",
+          source: "killed_fox_spirit",
+          condition: "为 true",
+          targetType: "NPC",
+          target: "fox_spy",
+          effect: "狐族密探态度 -30，并默认不主动透露白狐岭情报。",
+          affectedQuests: ["white_fox_mountain"],
+          note: "如果玩家杀死狐妖，后续狐族密探默认不信任玩家。"
+        },
+        {
+          id: "rule_yao_relation_unlocks_branch",
+          title: "妖族关系解锁调停路线",
+          sourceType: "Reputation",
+          source: "yao_relation",
+          condition: ">= 30",
+          targetType: "QuestBranch",
+          target: "mediate_contract",
+          effect: "狐妖娶亲中的调停人妖契约路线更容易开启。",
+          affectedQuests: ["fox_wedding"],
+          note: "妖族关系较高时，狐族愿意给玩家解释真相的机会。"
+        },
+        {
+          id: "rule_forbidden_spell_public",
+          title: "公开禁术影响道门与百姓评价",
+          sourceType: "Flag",
+          source: "used_forbidden_spell_publicly",
+          condition: "为 true",
+          targetType: "Reputation",
+          target: "dao_reputation / corruption / commoner_fame",
+          effect: "道门威望 -10，百姓名望 -15，因果污染 +20。",
+          affectedQuests: ["dao_mainline", "master_trial"],
+          note: "公开使用禁术会影响道门主线评价。"
+        },
+        {
+          id: "rule_commoner_fame_affects_village",
+          title: "百姓名望影响村镇 NPC",
+          sourceType: "Reputation",
+          source: "commoner_fame",
+          condition: ">= 50",
+          targetType: "NPCGroup",
+          target: "village_npcs",
+          effect: "村镇 NPC 更容易主动提供传闻、折扣和隐藏线索。",
+          affectedQuests: ["missing_girl", "village_shrine"],
+          note: "百姓名望高时，玩家进入新村镇会更容易获得初始信任。"
+        }
+      ],
+
+      chains: [
+        {
+          id: "chain_kill_fox",
+          title: "因果链：直接杀死狐妖",
+          summary: "这条链展示玩家使用最直接武力解决方式后，如何影响后续妖族路线。",
+          steps: [
+            "玩家在狐妖娶亲任务中杀死狐妖。",
+            "获得 killed_fox_spirit 标记。",
+            "妖族关系 -20，青石村声望 +10。",
+            "狐族密探初始态度 -30。",
+            "白狐岭和平路线关闭。",
+            "主线第三章失去妖族内线情报。",
+            "最终更容易进入官府 / 道门强硬路线。"
+          ]
+        },
+        {
+          id: "chain_mediate_contract",
+          title: "因果链：调停人妖契约",
+          summary: "这条链展示玩家通过调查和交涉解决问题后，如何开启隐藏情报路线。",
+          steps: [
+            "玩家找到婚书并调查少女失踪真相。",
+            "狐妖未死亡，且妖族关系不低于中立。",
+            "开启调停人妖契约路线。",
+            "青石村声望 +5，妖族关系 +15。",
+            "狐族密探态度提升。",
+            "白狐岭和平入山路线开启。",
+            "主线第三章可绕过官府封锁获得妖族情报。",
+            "结局中妖族代表可能为玩家作证。"
+          ]
+        },
+        {
+          id: "chain_forbidden_spell",
+          title: "因果链：公开使用禁术",
+          summary: "这条链展示禁术带来的短期收益和长期代价。",
+          steps: [
+            "玩家在公开场合使用禁术快速解决战斗。",
+            "获得 used_forbidden_spell_publicly 标记。",
+            "因果污染 +20，道门威望 -10，百姓名望 -15。",
+            "道观师叔进入责罚或警惕状态。",
+            "正统法术传承条件提高。",
+            "邪修 NPC 更容易主动接触玩家。",
+            "后期可能开启邪道捷径，但部分正道结局关闭。"
+          ]
+        }
+      ]
+    };
+
+    const state = {
+      searchText: "",
+      todoOnly: false,
+      observer: null,
+      relationView: "overview"
+    };
+
+    const elements = {
+      projectName: document.getElementById("projectName"),
+      projectSubtitle: document.getElementById("projectSubtitle"),
+      mobileProjectName: document.getElementById("mobileProjectName"),
+      mobileProjectSubtitle: document.getElementById("mobileProjectSubtitle"),
+      heroTitle: document.getElementById("heroTitle"),
+      heroDesc: document.getElementById("heroDesc"),
+      metaGrid: document.getElementById("metaGrid"),
+      footerText: document.getElementById("footerText"),
+      desktopToc: document.getElementById("desktopToc"),
+      mobileToc: document.getElementById("mobileToc"),
+      documentInner: document.getElementById("documentInner"),
+      searchInput: document.getElementById("searchInput"),
+      todoOnlyBtn: document.getElementById("todoOnlyBtn"),
+      progressText: document.getElementById("progressText"),
+      progressBar: document.getElementById("progressBar"),
+      relationTabs: document.getElementById("relationTabs"),
+      relationView: document.getElementById("relationView")
+    };
+
+    document.addEventListener("DOMContentLoaded", initializeApp);
+
+    function initializeApp() {
+      renderProject();
+      renderToc();
+      renderDocument();
+      renderProgress();
+      renderRelationTabs();
+      renderRelationView();
+      bindEvents();
+      observeActiveChapter();
+    }
+
+    function bindEvents() {
+      elements.searchInput.addEventListener("input", (event) => {
+        state.searchText = event.target.value.trim().toLowerCase();
+        renderDocument();
+        observeActiveChapter();
+      });
+
+      elements.todoOnlyBtn.addEventListener("click", () => {
+        state.todoOnly = !state.todoOnly;
+        elements.todoOnlyBtn.classList.toggle("active", state.todoOnly);
+        renderDocument();
+        observeActiveChapter();
+      });
+
+      elements.relationTabs.addEventListener("click", (event) => {
+        const button = event.target.closest("[data-relation-view]");
+
+        if (!button) {
+          return;
+        }
+
+        state.relationView = button.dataset.relationView;
+        renderRelationTabs();
+        renderRelationView();
+      });
+    }
+
+    function renderProject() {
+      const project = GAME_DOCUMENT.project;
+
+      document.title = project.title;
+
+      elements.projectName.textContent = project.name;
+      elements.projectSubtitle.textContent = project.subtitle;
+      elements.mobileProjectName.textContent = project.name;
+      elements.mobileProjectSubtitle.textContent = project.subtitle;
+      elements.heroTitle.textContent = project.title;
+      elements.heroDesc.textContent = project.description;
+      elements.footerText.textContent = `${project.name} · Last Updated ${project.lastUpdated}`;
+
+      elements.metaGrid.innerHTML = project.meta
+        .map((item) => `<span class="meta-pill">${escapeHtml(item)}</span>`)
+        .join("");
+    }
+
+    function getTocItems() {
+      return [
+        ...GAME_DOCUMENT.chapters.map((chapter) => ({
+          id: chapter.id,
+          index: chapter.index,
+          title: chapter.title
+        })),
+        {
+          id: "relation-map",
+          index: "15",
+          title: "关系图谱与影响矩阵"
+        }
+      ];
+    }
+
+    function renderToc() {
+      const tocItems = getTocItems();
+
+      const desktopHtml = tocItems
+        .map((item) => {
+          return `
+            <a href="#chapter-${escapeHtml(item.id)}" data-chapter-link="${escapeHtml(item.id)}">
+              ${escapeHtml(item.index)} · ${escapeHtml(item.title)}
+            </a>
+          `;
+        })
+        .join("");
+
+      const mobileHtml = tocItems
+        .map((item) => {
+          return `
+            <a href="#chapter-${escapeHtml(item.id)}" data-chapter-link="${escapeHtml(item.id)}">
+              ${escapeHtml(item.index)}
+            </a>
+          `;
+        })
+        .join("");
+
+      elements.desktopToc.innerHTML = desktopHtml;
+      elements.mobileToc.innerHTML = mobileHtml;
+    }
+
+    function renderDocument() {
+      const html = GAME_DOCUMENT.chapters
+        .map((chapter) => renderChapter(chapter))
+        .filter(Boolean)
+        .join("");
+
+      elements.documentInner.innerHTML = html || `
+        <div class="empty-state">
+          没有找到匹配内容。可以换一个关键词，或关闭“只看待补充”。
+        </div>
+      `;
+    }
+
+    function renderChapter(chapter) {
+      const renderedSections = chapter.sections
+        .map((section) => renderSection(section))
+        .filter(Boolean);
+
+      if (renderedSections.length === 0) {
+        return "";
+      }
+
+      return `
+        <article class="chapter" id="chapter-${escapeHtml(chapter.id)}" data-chapter="${escapeHtml(chapter.id)}">
+          <div class="chapter-head">
+            <div class="chapter-index">Chapter ${escapeHtml(chapter.index)}</div>
+            <h2>${escapeHtml(chapter.title)}</h2>
+            <p class="chapter-description">${escapeHtml(chapter.description)}</p>
+          </div>
+
+          <div class="section-list">
+            ${renderedSections.join("")}
+          </div>
+        </article>
+      `;
+    }
+
+    function renderSection(section) {
+      const renderedFields = section.fields
+        .map((field) => renderField(field))
+        .filter(Boolean);
+
+      if (renderedFields.length === 0) {
+        return "";
+      }
+
+      return `
+        <section class="doc-section">
+          <div class="section-head">
+            <h3>${escapeHtml(section.title)}</h3>
+            <p>${escapeHtml(section.description)}</p>
+          </div>
+
+          <div class="field-list">
+            ${renderedFields.join("")}
+          </div>
+        </section>
+      `;
+    }
+
+    function renderField(field) {
+      const normalizedValue = String(field.value || "").trim();
+      const isTodo = field.status === "todo" || normalizedValue === "";
+
+      if (state.todoOnly && !isTodo) {
+        return "";
+      }
+
+      const searchableText = [
+        field.label,
+        field.guide,
+        field.status,
+        field.value
+      ].join(" ").toLowerCase();
+
+      if (state.searchText && !searchableText.includes(state.searchText)) {
+        return "";
+      }
+
+      const statusLabel = getStatusLabel(field.status, normalizedValue);
+      const content = normalizedValue || "待补充。";
+
+      return `
+        <div class="field-row ${isTodo ? "todo" : ""}">
+          <div class="field-top">
+            <div class="field-label">${escapeHtml(field.label)}</div>
+            <span class="status ${escapeHtml(statusLabel.className)}">${escapeHtml(statusLabel.text)}</span>
+          </div>
+
+          <div class="field-guide">${escapeHtml(field.guide)}</div>
+          <div class="field-content">${escapeHtml(content)}</div>
+        </div>
+      `;
+    }
+
+    function getStatusLabel(status, value) {
+      if (status === "done") {
+        return {
+          text: "已定稿",
+          className: "done"
+        };
+      }
+
+      if (status === "draft" && value.trim() !== "") {
+        return {
+          text: "草稿",
+          className: "draft"
+        };
+      }
+
+      return {
+        text: "待补充",
+        className: "todo"
+      };
+    }
+
+    function renderProgress() {
+      const fields = GAME_DOCUMENT.chapters.flatMap((chapter) => {
+        return chapter.sections.flatMap((section) => section.fields);
+      });
+
+      const completed = fields.filter((field) => {
+        return field.status !== "todo" && String(field.value || "").trim() !== "";
+      });
+
+      const percentage = fields.length === 0
+        ? 0
+        : Math.round((completed.length / fields.length) * 100);
+
+      elements.progressText.textContent = `${percentage}%`;
+      elements.progressBar.style.width = `${percentage}%`;
+    }
+
+    function renderRelationTabs() {
+      const tabs = [
+        { id: "overview", label: "总览" },
+        { id: "reputations", label: "声望维度" },
+        { id: "npcs", label: "NPC 态度" },
+        { id: "quests", label: "任务分支" },
+        { id: "flags", label: "Flag 表" },
+        { id: "chains", label: "因果链" },
+        { id: "rules", label: "规则表" }
+      ];
+
+      elements.relationTabs.innerHTML = tabs
+        .map((tab) => {
+          const active = tab.id === state.relationView ? "active" : "";
+
+          return `
+            <button class="relation-tab ${active}" data-relation-view="${escapeHtml(tab.id)}">
+              ${escapeHtml(tab.label)}
+            </button>
+          `;
+        })
+        .join("");
+    }
+
+    function renderRelationView() {
+      if (state.relationView === "overview") {
+        elements.relationView.innerHTML = renderRelationOverview();
+        return;
+      }
+
+      if (state.relationView === "reputations") {
+        elements.relationView.innerHTML = renderReputations();
+        return;
+      }
+
+      if (state.relationView === "npcs") {
+        elements.relationView.innerHTML = renderNpcs();
+        return;
+      }
+
+      if (state.relationView === "quests") {
+        elements.relationView.innerHTML = renderQuests();
+        return;
+      }
+
+      if (state.relationView === "flags") {
+        elements.relationView.innerHTML = renderFlags();
+        return;
+      }
+
+      if (state.relationView === "chains") {
+        elements.relationView.innerHTML = renderChains();
+        return;
+      }
+
+      if (state.relationView === "rules") {
+        elements.relationView.innerHTML = renderRules();
+      }
+    }
+
+    function renderRelationOverview() {
+      return `
+        <div class="relation-grid three">
+          <article class="relation-card">
+            <h3>${RELATION_DATA.reputations.length}</h3>
+            <p>声望 / 倾向维度</p>
+            <div class="relation-tags">
+              ${RELATION_DATA.reputations.map((item) => `<span class="relation-tag gold">${escapeHtml(item.name)}</span>`).join("")}
+            </div>
+          </article>
+
+          <article class="relation-card">
+            <h3>${RELATION_DATA.npcs.length}</h3>
+            <p>受声望影响的重要 NPC</p>
+            <div class="relation-tags">
+              ${RELATION_DATA.npcs.map((item) => `<span class="relation-tag">${escapeHtml(item.name)}</span>`).join("")}
+            </div>
+          </article>
+
+          <article class="relation-card">
+            <h3>${RELATION_DATA.rules.length}</h3>
+            <p>已定义影响规则</p>
+            <div class="relation-tags">
+              ${RELATION_DATA.flags.map((item) => `<span class="relation-tag green">${escapeHtml(item.name)}</span>`).join("")}
+            </div>
+          </article>
+        </div>
+
+        <article class="relation-table-card">
+          <h3>核心影响公式</h3>
+          <p>所有复杂关系都尽量按这个公式整理，避免信息散落在不同章节。</p>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>阶段</th>
+                  <th>示例</th>
+                  <th>网页中对应位置</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>玩家行为 / Flag</td>
+                  <td>杀死狐妖、公开使用禁术、庇护妖物</td>
+                  <td>Flag 表</td>
+                </tr>
+                <tr>
+                  <td>声望变化</td>
+                  <td>妖族关系 -20，道门威望 -10，因果污染 +20</td>
+                  <td>声望维度</td>
+                </tr>
+                <tr>
+                  <td>NPC 态度变化</td>
+                  <td>狐族密探敌视、道观师叔责罚、村民躲避</td>
+                  <td>NPC 态度</td>
+                </tr>
+                <tr>
+                  <td>任务分支变化</td>
+                  <td>白狐岭和平路线关闭，邪修路线开启</td>
+                  <td>任务分支 / 规则表</td>
+                </tr>
+                <tr>
+                  <td>长期后果</td>
+                  <td>主线情报来源变化、结局评价变化</td>
+                  <td>因果链</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </article>
+      `;
+    }
+
+    function renderReputations() {
+      return `
+        <div class="relation-grid">
+          ${RELATION_DATA.reputations.map((rep) => {
+            const affectedRules = RELATION_DATA.rules.filter((rule) => {
+              return rule.source === rep.id || rule.target.includes(rep.id);
+            });
+
+            return `
+              <article class="relation-card">
+                <h3>${escapeHtml(rep.name)}</h3>
+                <p>${escapeHtml(rep.description)}</p>
+
+                <div class="relation-tags">
+                  <span class="relation-tag gold">${escapeHtml(rep.type)}</span>
+                  <span class="relation-tag">${escapeHtml(affectedRules.length)} 条规则关联</span>
+                </div>
+
+                <div class="relation-mini-title">等级效果</div>
+                <div class="table-wrap">
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>范围</th>
+                        <th>称号</th>
+                        <th>效果</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      ${rep.levels.map((level) => {
+                        return `
+                          <tr>
+                            <td>${escapeHtml(level.range)}</td>
+                            <td>${escapeHtml(level.name)}</td>
+                            <td>${escapeHtml(level.effect)}</td>
+                          </tr>
+                        `;
+                      }).join("")}
+                    </tbody>
+                  </table>
+                </div>
+              </article>
+            `;
+          }).join("")}
+        </div>
+      `;
+    }
+
+    function renderNpcs() {
+      return `
+        <div class="relation-grid">
+          ${RELATION_DATA.npcs.map((npc) => {
+            const npcRules = RELATION_DATA.rules.filter((rule) => {
+              return rule.target === npc.id || rule.note.includes(npc.name);
+            });
+
+            return `
+              <article class="relation-card">
+                <h3>${escapeHtml(npc.name)}</h3>
+                <p>${escapeHtml(npc.description)}</p>
+
+                <div class="relation-tags">
+                  <span class="relation-tag gold">${escapeHtml(npc.faction)}</span>
+                  <span class="relation-tag">${escapeHtml(npcRules.length)} 条直接规则</span>
+                </div>
+
+                <div class="relation-mini-title">受这些声望 / Flag 影响</div>
+                <div class="relation-tags">
+                  ${npc.attitudeDependsOn.map((id) => `<span class="relation-tag">${escapeHtml(getEntityName(id))}</span>`).join("")}
+                </div>
+
+                <div class="relation-mini-title">关联任务</div>
+                <div class="relation-tags">
+                  ${npc.relatedQuests.map((id) => `<span class="relation-tag green">${escapeHtml(getEntityName(id))}</span>`).join("")}
+                </div>
+              </article>
+            `;
+          }).join("")}
+        </div>
+      `;
+    }
+
+    function renderQuests() {
+      return `
+        <div class="relation-view">
+          ${RELATION_DATA.quests.map((quest) => {
+            const questRules = RELATION_DATA.rules.filter((rule) => rule.affectedQuests.includes(quest.id));
+
+            return `
+              <article class="relation-table-card">
+                <h3>${escapeHtml(quest.name)}</h3>
+                <p>${escapeHtml(quest.chapter)} · ${escapeHtml(quest.description)}</p>
+
+                <div class="table-wrap">
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>路线</th>
+                        <th>开启条件</th>
+                        <th>关闭条件</th>
+                        <th>直接结果</th>
+                        <th>长期影响</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      ${quest.branches.map((branch) => {
+                        return `
+                          <tr>
+                            <td>${escapeHtml(branch.name)}</td>
+                            <td>${escapeHtml(branch.condition)}</td>
+                            <td>${escapeHtml(branch.closeCondition)}</td>
+                            <td>${escapeHtml(branch.result)}</td>
+                            <td>${escapeHtml(branch.longTermImpact)}</td>
+                          </tr>
+                        `;
+                      }).join("")}
+                    </tbody>
+                  </table>
+                </div>
+
+                <div style="padding: 18px 20px 20px;">
+                  <div class="relation-mini-title">关联规则</div>
+                  <div class="relation-tags">
+                    ${questRules.length > 0
+                      ? questRules.map((rule) => `<span class="relation-tag gold">${escapeHtml(rule.title)}</span>`).join("")
+                      : `<span class="relation-tag">暂无直接规则</span>`
+                    }
+                  </div>
+                </div>
+              </article>
+            `;
+          }).join("")}
+        </div>
+      `;
+    }
+
+    function renderFlags() {
+      return `
+        <div class="relation-grid">
+          ${RELATION_DATA.flags.map((flag) => {
+            return `
+              <article class="relation-card">
+                <h3>${escapeHtml(flag.name)}</h3>
+                <p>${escapeHtml(flag.description)}</p>
+
+                <div class="relation-tags">
+                  <span class="relation-tag gold">来源：${escapeHtml(flag.source)}</span>
+                  <span class="relation-tag">${escapeHtml(flag.id)}</span>
+                </div>
+
+                <div class="relation-mini-title">影响</div>
+                <div class="relation-tags">
+                  ${flag.impacts.map((impact) => `<span class="relation-tag green">${escapeHtml(impact)}</span>`).join("")}
+                </div>
+              </article>
+            `;
+          }).join("")}
+        </div>
+      `;
+    }
+
+    function renderChains() {
+      return `
+        <div class="relation-view">
+          ${RELATION_DATA.chains.map((chain) => {
+            return `
+              <article class="chain-card">
+                <h3>${escapeHtml(chain.title)}</h3>
+                <p>${escapeHtml(chain.summary)}</p>
+
+                <div class="chain-flow">
+                  ${chain.steps.map((step) => `<div class="chain-step">${escapeHtml(step)}</div>`).join("")}
+                </div>
+              </article>
+            `;
+          }).join("")}
+        </div>
+      `;
+    }
+
+    function renderRules() {
+      return `
+        <div class="relation-grid">
+          ${RELATION_DATA.rules.map((rule) => {
+            return `
+              <article class="rule-card">
+                <h4>${escapeHtml(rule.title)}</h4>
+
+                <div class="rule-line">
+                  <strong>来源</strong>
+                  <span>${escapeHtml(rule.sourceType)} · ${escapeHtml(getEntityName(rule.source))}</span>
+                </div>
+
+                <div class="rule-line">
+                  <strong>条件</strong>
+                  <span>${escapeHtml(rule.condition)}</span>
+                </div>
+
+                <div class="rule-line">
+                  <strong>目标</strong>
+                  <span>${escapeHtml(rule.targetType)} · ${escapeHtml(getEntityName(rule.target))}</span>
+                </div>
+
+                <div class="rule-line">
+                  <strong>效果</strong>
+                  <span>${escapeHtml(rule.effect)}</span>
+                </div>
+
+                <div class="rule-line">
+                  <strong>影响任务</strong>
+                  <span>${rule.affectedQuests.map((id) => escapeHtml(getEntityName(id))).join("，")}</span>
+                </div>
+
+                <div class="rule-line">
+                  <strong>备注</strong>
+                  <span>${escapeHtml(rule.note)}</span>
+                </div>
+              </article>
+            `;
+          }).join("")}
+        </div>
+      `;
+    }
+
+    function getEntityName(id) {
+      const allReputations = RELATION_DATA.reputations;
+      const allNpcs = RELATION_DATA.npcs;
+      const allQuests = RELATION_DATA.quests;
+      const allFlags = RELATION_DATA.flags;
+      const allBranches = RELATION_DATA.quests.flatMap((quest) => quest.branches);
+
+      const found = [
+        ...allReputations,
+        ...allNpcs,
+        ...allQuests,
+        ...allFlags,
+        ...allBranches
+      ].find((item) => item.id === id);
+
+      if (found) {
+        return found.name;
+      }
+
+      const fallbackNames = {
+        qingshi_reputation: "青石村声望",
+        official_trust: "官府信任",
+        village_npcs: "村镇 NPC 群体",
+        dao_mainline: "道门主线",
+        master_trial: "师门试炼",
+        missing_girl: "失踪少女",
+        village_shrine: "村祠异变",
+        official_route: "官府路线",
+        wanted_order: "通缉系统"
+      };
+
+      return fallbackNames[id] || id;
+    }
+
+    function observeActiveChapter() {
+      if (state.observer) {
+        state.observer.disconnect();
+      }
+
+      const getLinks = () => [...document.querySelectorAll("[data-chapter-link]")];
+
+      state.observer = new IntersectionObserver(
+        (entries) => {
+          const visible = entries
+            .filter((entry) => entry.isIntersecting)
+            .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+
+          if (!visible) {
+            return;
+          }
+
+          const chapterId = visible.target.dataset.chapter;
+
+          getLinks().forEach((link) => {
+            link.classList.toggle("active", link.dataset.chapterLink === chapterId);
+          });
+        },
+        {
+          root: null,
+          threshold: [0.16, 0.32, 0.5],
+          rootMargin: "-18% 0px -58% 0px"
+        }
+      );
+
+      document.querySelectorAll("[data-chapter]").forEach((chapter) => {
+        state.observer.observe(chapter);
+      });
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
+    }
+  </script>
+</body>
+</html>
