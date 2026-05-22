@@ -857,7 +857,7 @@
       <section class="relation-section chapter" id="chapter-relation-map" data-chapter="relation-map">
         <div class="container">
           <div class="chapter-head">
-            <div class="chapter-index">Chapter 15</div>
+            <div class="chapter-index">Chapter 17</div>
             <h2>关系图谱与影响矩阵</h2>
             <p class="chapter-description">
               这里专门整理“玩家行为 → 声望变化 → NPC 态度变化 → 任务分支变化 → 主线 / 结局变化”的复杂关系。
@@ -892,7 +892,7 @@
           "核心关键词：降妖除魔、因果声望、NPC 态度、多结局",
           "当前阶段：世界观与系统框架搭建"
         ],
-        lastUpdated: "2026-05-18"
+        lastUpdated: "2026-05-22"
       },
 
       chapters: [
@@ -928,10 +928,11 @@
             }
           ]
         },
+
         {
           id: "core-experience",
           index: "02",
-          title: "核心体验与设计原则",
+          title: "核心体验、界面与操作",
           description: "这一章决定游戏长期方向。后面所有系统都应该服务这些原则。",
           sections: [
             {
@@ -966,29 +967,29 @@
             },
             {
               title: "界面设计",
-              description: "游戏界面的设计。各种功能的设计与放置位置等",
+              description: "定义游戏主要 UI 模块、状态展示、菜单层级与信息优先级。",
               fields: [
                 {
+                  label: "主 HUD",
+                  guide: "屏幕上常驻显示哪些内容？",
+                  status: "todo",
+                  value: ""
+                },
+                {
                   label: "状态栏",
-                  guide: "系统，个人状态，技能，物品，",
+                  guide: "生命、法力、体力、Buff、Debuff、时间、天气如何展示？",
                   status: "draft",
-                  value: "关键任务不应该只有“接任务 → 打怪 → 领奖励”。玩家可以选择正面战斗、调查真相、说服 NPC、使用道术、交易利益、嫁祸他人、放走妖物或改变双方关系。"
+                  value: "状态栏需要同时服务战斗和探索。基础信息包括生命、法力、体力、当前时辰、天气、异常状态。"
                 },
                 {
-                  label: "支柱二：因果反馈",
-                  guide: "玩家行为必须被世界记住。",
-                  status: "draft",
-                  value: "玩家杀了谁、救了谁、骗了谁、放过了谁，都应该影响后续 NPC 态度、村镇传闻、门派评价、妖魔势力反应和结局。"
+                  label: "背包与物品界面",
+                  guide: "道具、符箓、法器、任务物品是否分栏？",
+                  status: "todo",
+                  value: ""
                 },
                 {
-                  label: "支柱三：人妖不绝对二元",
-                  guide: "不是所有妖都该杀，不是所有人都正义。",
-                  status: "draft",
-                  value: "妖魔可以有怨、有债、有执念；人也可能贪婪、腐败、作恶。玩家需要判断真正的问题根源。"
-                },
-                {
-                  label: "支柱四：道术服务选择",
-                  guide: "道术不仅是战斗技能，也应该是任务工具。",
+                  label: "任务与因果界面",
+                  guide: "玩家如何查看当前任务、声望变化和长期后果？",
                   status: "todo",
                   value: ""
                 }
@@ -996,29 +997,29 @@
             },
             {
               title: "操作设计",
-              description: "各类操作的设计。移动，技能，物品使用，等等",
+              description: "定义移动、交互、战斗、施法、物品使用和菜单操作。",
               fields: [
                 {
-                  label: "支柱一：多解法任务",
-                  guide: "每个重要任务至少允许 2 到 4 种解决方式。",
-                  status: "draft",
-                  value: "关键任务不应该只有“接任务 → 打怪 → 领奖励”。玩家可以选择正面战斗、调查真相、说服 NPC、使用道术、交易利益、嫁祸他人、放走妖物或改变双方关系。"
+                  label: "移动操作",
+                  guide: "键鼠 / 手柄下如何移动、奔跑、闪避、互动？",
+                  status: "todo",
+                  value: ""
                 },
                 {
-                  label: "支柱二：因果反馈",
-                  guide: "玩家行为必须被世界记住。",
-                  status: "draft",
-                  value: "玩家杀了谁、救了谁、骗了谁、放过了谁，都应该影响后续 NPC 态度、村镇传闻、门派评价、妖魔势力反应和结局。"
+                  label: "战斗操作",
+                  guide: "轻击、重击、格挡、闪避、锁定、切换目标如何设计？",
+                  status: "todo",
+                  value: ""
                 },
                 {
-                  label: "支柱三：人妖不绝对二元",
-                  guide: "不是所有妖都该杀，不是所有人都正义。",
-                  status: "draft",
-                  value: "妖魔可以有怨、有债、有执念；人也可能贪婪、腐败、作恶。玩家需要判断真正的问题根源。"
+                  label: "施法操作",
+                  guide: "技能释放、符箓使用、法器切换是否需要快捷栏？",
+                  status: "todo",
+                  value: ""
                 },
                 {
-                  label: "支柱四：道术服务选择",
-                  guide: "道术不仅是战斗技能，也应该是任务工具。",
+                  label: "交互操作",
+                  guide: "拾取、调查、对话、开门、布阵、法事如何触发？",
                   status: "todo",
                   value: ""
                 }
@@ -1026,6 +1027,7 @@
             }
           ]
         },
+
         {
           id: "game-loop",
           index: "03",
@@ -1058,775 +1060,12 @@
             }
           ]
         },
-        {
-          id: "worldbuilding",
-          index: "06",
-          title: "世界观与时代背景",
-          description: "构建中国古代道教背景，但不要只堆设定，要服务玩法和任务。",
-          sections: [
-            {
-              title: "时代与社会",
-              description: "确定故事发生在怎样的人间。",
-              fields: [
-                {
-                  label: "时代原型",
-                  guide: "可以是架空朝代，也可以参考某些历史气质。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "社会问题",
-                  guide: "妖患背后的人间问题。",
-                  status: "draft",
-                  value: "官府腐败、灾荒频发、民间迷信、豪强压迫、道门分裂、百姓在恐惧中依赖祭祀与偏方。"
-                },
-                {
-                  label: "人妖关系",
-                  guide: "人和妖之间是战争、共存、交易还是互相误解？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "追求的目的是什么",
-                  guide: "人在寻找自己内心深处，随心所欲，放纵欲望",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "时间体系",
-                  guide: "不同的时间体系有不同的任务。总共分为三种：昼夜，时段，时辰。每现实10分钟对应游戏一个时辰（2小时）。日期一直是从初一到三十，循环。",
-                  status: "todo",
-                  value: "昼夜系统：白天（6：00-18：00）和黑夜（18：00-6：00），各6个时辰，。时段分为：凌晨（1：00：5：00），早晨（5：00-7：00），上午（7：00-11：00），中午（11：00-13：00），下午（13：00-17：00），傍晚（17：00-19：00），晚上（19：00-23：00），午夜（23：00-1：00）。时辰分为：子时（23:00 – 01:00），丑时（01:00 – 03:00），寅时（03:00 – 05:00），卯时（05:00 – 07:00），辰时（07:00 – 09:00），巳时（09:00 – 11:00），午时（11:00 – 13:00），未时（13:00 – 15:00），申时（15:00 – 17:00），酉时（17:00 – 19:00），戌时（19:00 – 21:00），亥时（21:00 – 23:00）"
-                },
-                {
-                  label: "季节系统",
-                  guide: "一段时间。春夏秋冬交替进行，对应不同的短线任务，支线任务开启。",
-                  status: "todo",
-                  value: "",
-                },
-                {
-                  label: "天气系统：",
-                  guide: "多云，雨，风，雪，雷电。",
-                  status: "todo",
-                  value: "",
-                }
-              ]
-            },
-            {
-              title: "风俗习惯设定",
-              description: "有一些风俗习惯禁忌等等的",
-              fields: [
-                {
-                  label: "人三鬼四，人敲三鬼敲四",
-                  guide: "指的是人敲门通常是三声,而鬼敲门则是四声。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "神三鬼四人一‌",
-                  guide: "神三‌：祭祀神明、佛菩萨时，通常上‌三炷香‌，磕‌三个头‌ 。鬼四‌：祭奠逝者、祖先时，通常上‌四炷香‌，磕‌四个头‌ 。活人不上香‌：传统习俗中，香火是通神的通道，专属于神明和祖先，‌给活人上香是极大的忌讳‌ 。人一‌：给活人（如父母拜寿、长辈行礼）磕头时，通常只磕‌一个头‌ 。民间认为“三”为阳数之极，象征万物根本；“四”为至阴之数，象征逝者；“五、六”与人有关，象征阴阳相济 。‌‌‌",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "禁术与代价",
-                  guide: "强大道术需要什么代价？",
-                  status: "draft",
-                  value: "禁术可以快速解决问题，但会损害因果、折寿、引来天谴、污染法器或让某些 NPC 恐惧玩家。"
-                },
-                {
-                  label: "主角称呼",
-                  guide: "强大道术需要什么代价？",
-                  status: "draft",
-                  value: "邪：道爷。中：道士。正：道长"
-                },
-                {
-                  label: "拂教",
-                  guide: "表面上普度众生，实际上大肆敛财，逼良为娼。利用法力，控制小鬼，让小鬼做一些坏事",
-                  status: "draft",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "道教体系",
-              description: "定义本作中的道法、门派、戒律和世界规则。",
-              fields: [
-                {
-                  label: "道法来源",
-                  guide: "道术是修炼、神授、符箓、仪式，还是天地规则？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "门派结构",
-                  guide: "有哪些道门派系？它们理念是否冲突？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "禁术与代价",
-                  guide: "强大道术需要什么代价？",
-                  status: "draft",
-                  value: "禁术可以快速解决问题，但会损害因果、折寿、引来天谴、污染法器或让某些 NPC 恐惧玩家。"
-                },
-                {
-                  label: "主角称呼",
-                  guide: "强大道术需要什么代价？",
-                  status: "draft",
-                  value: "邪：道爷。中：道士。正：道长"
-                },
-                {
-                  label: "拂教",
-                  guide: "表面上普度众生，实际上大肆敛财，逼良为娼。利用法力，控制小鬼，让小鬼做一些坏事",
-                  status: "draft",
-                  value: ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          id: "story",
-          index: "13",
-          title: "主线剧情与结局",
-          description: "主线应该给玩家方向，但不要压死自由度。",
-          sections: [
-            {
-              title: "主线骨架",
-              description: "先写结构，不急着写对白。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: "第一章，爷爷还在世。主角15岁，从床上醒来，一个小女孩看到他醒来后就喊着爷爷爷爷，他醒了。可是主角完全想不起来任何事情了，怎么受伤，怎么来的这里全忘了。爷爷是这个偏僻村里的郎中，也会一些道家的法术和风水。（爷爷一年以后就去世了，主角就和师姐学习法术一边成长。但其实爷爷是从男孩身上发现的秘密，决决定开始继续自己的事情，隐居在这里的，其实是高强的人。爷爷走之前仿佛算到了自己要走一样，提前准备好了棺材，仅仅留下了几句话，让快速安葬，就驾鹤西去了。或者是最后一站，爷爷受重伤离去）。   不顾爷爷反对，放走过一个善良的僵尸"
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第一章",
-              description: "夜半啼哭惊好梦，平明急起探寒鸣。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第二章",
-              description: "同是天涯沦落人，相逢何必曾相识。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第三章",
-              description: "桃李春风一杯酒，江湖夜雨十年灯。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第四章",
-              description: "英雄气短尽彻天，儿女情长终断尘。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第五章",
-              description: "先写结构，不急着写对白。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第六章",
-              description: "先写结构，不急着写对白。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第七章",
-              description: "先写结构，不急着写对白。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第八章",
-              description: "先写结构，不急着写对白。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第九章",
-              description: "先写结构，不急着写对白。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "结局变量",
-              description: "结局由玩家长期行为共同决定。",
-              fields: [
-                {
-                  label: "人间结局",
-                  guide: "村镇、百姓、官府的命运。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "妖族结局",
-                  guide: "妖魔势力最终如何看待玩家？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "道门结局",
-                  guide: "玩家是否被承认、驱逐、封为真人或堕入邪道？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "个人结局",
-                  guide: "玩家自身成为什么样的人？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            }
-          ]
-        },
-                {
-          id: "story",
-          index: "13",
-          title: "支线剧情与结局",
-          description: "主线应该给玩家方向，但不要压死自由度。",
-          sections: [
-            {
-              title: "主线骨架",
-              description: "先写结构，不急着写对白。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第一章",
-              description: "夜半啼哭惊好梦，平明急起探寒鸣。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第二章",
-              description: "同是天涯沦落人，相逢何必曾相识。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第三章",
-              description: "桃李春风一杯酒，江湖夜雨十年灯。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第四章",
-              description: "英雄气短尽彻天，儿女情长终断尘。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第五章",
-              description: "先写结构，不急着写对白。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第六章",
-              description: "先写结构，不急着写对白。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第七章",
-              description: "七月七日长生殿，夜半无人私语时。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第八章",
-              description: "在天愿作比翼鸟，在地愿为连理枝。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "第九章",
-              description: "天长地久有尽时，此恨绵绵无绝期。",
-              fields: [
-                {
-                  label: "开局事件",
-                  guide: "玩家为什么下山 / 入世 / 被卷入事件？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "中期转折",
-                  guide: "玩家发现什么真相？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "最终冲突",
-                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "结局变量",
-              description: "结局由玩家长期行为共同决定。",
-              fields: [
-                {
-                  label: "人间结局",
-                  guide: "村镇、百姓、官府的命运。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "妖族结局",
-                  guide: "妖魔势力最终如何看待玩家？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "道门结局",
-                  guide: "玩家是否被承认、驱逐、封为真人或堕入邪道？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "个人结局",
-                  guide: "玩家自身成为什么样的人？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          id: "Non-Player Character",
-          index: "12",
-          title: "NPC",
-          description: "各种NPC的人物设定",
-          sections: [
-            {
-              title: "恶面人物",
-              description: "定义世界地图如何组织。",
-              fields: [
-                {
-                  label: "大地图结构",
-                  guide: "开放世界、箱庭区域、章节地图？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "安全区",
-                  guide: "道观、城镇、客栈、驿站等。",
-                  status: "draft",
-                  value: "安全区不仅是补给点，也应该承载传闻、任务后果、NPC 态度变化和声望反馈。"
-                },
-                {
-                  label: "危险区",
-                  guide: "荒村、古庙、乱葬岗、山林、河道、地宫。",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "中面人物",
-              description: "既不善向也不恶向的人物",
-              fields: [
-                {
-                  label: "缺德道人",
-                  guide: "认为不该刻意行善积德，恪守本分才更重要，不刻意行恶即可",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "画画老人",
-                  guide: "通过绘画就可以创造技能，善的技能，恶的技能都有。",
-                  status: "draft",
-                  value: ""
-                },
-                {
-                  label: "任务变化",
-                  guide: "某些任务是否因为玩家之前选择而关闭或开启？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "善面人物",
-              description: "玩家行为如何改变城镇。",
-              fields: [
-                {
-                  label: "西边的山，的西边是以滇池为原型",
-                  guide: "旗帜、告示、香火、人群、尸体、封条等。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "青森寺",
-                  guide: "",
-                  status: "draft",
-                  value: ""
-                },
-                {
-                  label: "任务变化",
-                  guide: "某些任务是否因为玩家之前选择而关闭或开启？",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            }
-          ]
-        },
+
         {
           id: "karma-reputation",
           index: "04",
           title: "因果、声望与 NPC 态度系统",
-          description: "这是你这个项目最重要的系统之一。它决定游戏是否真的有 Fallout 2 那种“世界会记住我”的感觉。",
+          description: "这是项目最重要的系统之一。它决定游戏是否真的有“世界会记住我”的感觉。",
           sections: [
             {
               title: "全局因果",
@@ -1875,99 +1114,94 @@
                   value: ""
                 }
               ]
-            },            {
+            },
+            {
               title: "个人声望",
-              description: "自己随着任务或者事迹而达成的声望。不同的声望",
+              description: "玩家随着任务、事迹或特殊事件获得的个人称号类声望。",
               fields: [
                 {
                   label: "手无缚鸡之力",
-                  guide: "被一只鸡杀至血量为0，",
+                  guide: "被一只鸡打至血量为 0 后获得。",
                   status: "draft",
-                  value: "获得声望后，在10级之前，在村镇内买东西付钱时，只需要支付80%，且仅限定在第一章内"
+                  value: "获得该声望后，在 10 级之前，第一章村镇内购物只需支付 80% 价格。"
                 },
                 {
-                  label: "门派声望",
-                  guide: "道门内部如何评价玩家？",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "妖族声望",
-                  guide: "妖魔是否害怕、尊敬、仇视或试图拉拢玩家？",
+                  label: "特殊个人称号",
+                  guide: "例如行善、作恶、搞笑、奇遇、失败成就等带来的称号。",
                   status: "todo",
                   value: ""
                 }
               ]
             },
             {
-              title: "村镇声望",
-              description: "不同村镇、城池、门派对玩家有不同评价。玩家在某地救人、降妖、揭露真相或造成破坏，都会改变当地百姓的态度。高声望时可获得折扣、情报、庇护；低声望时可能被拒绝交易、举报或驱逐。",
+              title: "村镇声望等级",
+              description: "不同村镇独立计算。玩家在某地行善或作恶，会改变当地人对他的称呼、价格、任务和态度。",
               fields: [
                 {
                   label: "罪大恶极",
-                  guide: "全部村镇都达到恶贯满盈，且完成特定任务后",
-                  status: "draft",
+                  guide: "全部村镇都达到恶贯满盈，且完成特定任务后。",
+                  status: "todo",
                   value: ""
                 },
                 {
                   label: "恶贯满盈",
-                  guide: "在该村镇，支线作恶任务全部完成，作恶事件数达标",
+                  guide: "在该村镇，支线作恶任务全部完成，作恶事件数达标。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "作恶多端",
-                  guide: "在该村镇，支线作恶任务完成60%，作恶事件数达标",
+                  guide: "在该村镇，支线作恶任务完成 60%，作恶事件数达标。",
                   status: "todo",
                   value: ""
                 },
-                                {
+                {
                   label: "恶迹初现",
-                  guide: "百姓如何评价玩家？",
+                  guide: "在该村镇，支线作恶任务完成 10%，或作恶事件数达标。",
                   status: "draft",
-                  value: "在该村镇，支线作恶任务完成10%，或作恶事件数达标"
+                  value: "当地 NPC 开始警惕玩家，部分百姓会回避，商人可能涨价。"
                 },
                 {
                   label: "默默无闻",
-                  guide: "道门内部如何评价玩家？",
+                  guide: "玩家在该村镇没有明显善恶事迹。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "崭露头角",
-                  guide: "在该村镇，支线行善任务完成10%，或行善事件数达标",
+                  guide: "在该村镇，支线行善任务完成 10%，或行善事件数达标。",
                   status: "todo",
                   value: ""
                 },
-                                {
+                {
                   label: "交口称赞",
-                  guide: "在该村镇，支线行善任务完成60%，作恶事件数达标",
+                  guide: "在该村镇，支线行善任务完成 60%，行善事件数达标。",
                   status: "todo",
                   value: ""
                 },
-                                {
+                {
                   label: "德高望重",
-                  guide: "在该村镇，支线作恶任务全部完成，作恶事件数达标",
+                  guide: "在该村镇，支线行善任务全部完成，行善事件数达标。",
                   status: "todo",
                   value: ""
                 },
-                                {
+                {
                   label: "天下归心",
-                  guide: "全部村镇都达到德高望重，且完成特定任务后",
+                  guide: "全部村镇都达到德高望重，且完成特定任务后。",
                   status: "todo",
                   value: ""
-                },
+                }
               ]
             },
             {
               title: "全局声望",
-              description: "全局而存在的声望系统。",
+              description: "跨地区存在的声望系统。",
               fields: [
                 {
-                  label: "个人声望",
-                  guide: "百姓如何评价玩家？",
-                  status: "draft",
-                  value: "玩家在某地救人、降妖、揭露真相或造成破坏，都会改变当地百姓的态度。高声望时可获得折扣、情报、庇护；低声望时可能被拒绝交易、举报或驱逐。"
+                  label: "个人名望",
+                  guide: "玩家整体在民间留下的名声。",
+                  status: "todo",
+                  value: ""
                 },
                 {
                   label: "门派声望",
@@ -1985,6 +1219,7 @@
             }
           ]
         },
+
         {
           id: "quest-design",
           index: "05",
@@ -2029,6 +1264,142 @@
             }
           ]
         },
+
+        {
+          id: "worldbuilding",
+          index: "06",
+          title: "世界观与时代背景",
+          description: "构建中国古代道教背景，但不要只堆设定，要服务玩法和任务。",
+          sections: [
+            {
+              title: "时代与社会",
+              description: "确定故事发生在怎样的人间。",
+              fields: [
+                {
+                  label: "时代原型",
+                  guide: "可以是架空朝代，也可以参考某些历史气质。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "社会问题",
+                  guide: "妖患背后的人间问题。",
+                  status: "draft",
+                  value: "官府腐败、灾荒频发、民间迷信、豪强压迫、道门分裂、百姓在恐惧中依赖祭祀与偏方。"
+                },
+                {
+                  label: "人妖关系",
+                  guide: "人和妖之间是战争、共存、交易还是互相误解？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "追求的目的是什么",
+                  guide: "人在寻找自己内心深处，随心所欲，放纵欲望。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "时间体系",
+                  guide: "不同时间体系对应不同任务、事件与 NPC 行为。",
+                  status: "draft",
+                  value: "游戏存在昼夜、时段、时辰三套时间表达。每现实 10 分钟对应游戏内一个时辰，即 2 小时。\n\n昼夜系统：白天为 6:00-18:00，黑夜为 18:00-6:00。\n\n时段系统：凌晨 1:00-5:00，早晨 5:00-7:00，上午 7:00-11:00，中午 11:00-13:00，下午 13:00-17:00，傍晚 17:00-19:00，晚上 19:00-23:00，午夜 23:00-1:00。\n\n时辰系统：子时 23:00-01:00，丑时 01:00-03:00，寅时 03:00-05:00，卯时 05:00-07:00，辰时 07:00-09:00，巳时 09:00-11:00，午时 11:00-13:00，未时 13:00-15:00，申时 15:00-17:00，酉时 17:00-19:00，戌时 19:00-21:00，亥时 21:00-23:00。\n\n日期从初一到三十循环。"
+                },
+                {
+                  label: "季节系统",
+                  guide: "春夏秋冬交替，对应不同短线任务、支线任务、天气与资源变化。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "天气系统",
+                  guide: "多云、雨、风、雪、雷电等天气如何影响任务和战斗？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "风俗习惯与禁忌",
+              description: "民间风俗、禁忌、礼法、敲门、上香、祭祀等内容。",
+              fields: [
+                {
+                  label: "人三鬼四，人敲三鬼敲四",
+                  guide: "人敲门通常三声，鬼敲门则是四声。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "神三鬼四人一",
+                  guide: "神三、鬼四、人一的礼法禁忌。",
+                  status: "draft",
+                  value: "祭祀神明、佛菩萨时，通常上三炷香，磕三个头。祭奠逝者、祖先时，通常上四炷香，磕四个头。传统习俗中，香火是通神的通道，专属于神明和祖先，给活人上香是极大的忌讳。给活人行礼时通常只磕一个头。"
+                }
+              ]
+            },
+            {
+              title: "道教体系",
+              description: "定义本作中的道法、门派、戒律和世界规则。",
+              fields: [
+                {
+                  label: "道法来源",
+                  guide: "道术是修炼、神授、符箓、仪式，还是天地规则？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "门派结构",
+                  guide: "有哪些道门派系？它们理念是否冲突？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "禁术与代价",
+                  guide: "强大道术需要什么代价？",
+                  status: "draft",
+                  value: "禁术可以快速解决问题，但会损害因果、折寿、引来天谴、污染法器或让某些 NPC 恐惧玩家。"
+                },
+                {
+                  label: "主角称呼",
+                  guide: "不同声望或因果倾向下，NPC 如何称呼主角？",
+                  status: "draft",
+                  value: "邪向称呼：道爷。\n中性称呼：道士。\n正向称呼：道长。"
+                }
+              ]
+            },
+            {
+              title: "阵营与宗教势力",
+              description: "整理道门、伪善宗教、邪修、民间香火组织等势力。",
+              fields: [
+                {
+                  label: "拂教",
+                  guide: "表面普度众生，实际大肆敛财、逼良为娼，并利用法力控制小鬼作恶。",
+                  status: "draft",
+                  value: ""
+                },
+                {
+                  label: "正统道门",
+                  guide: "主流道门如何看待人、妖、鬼、禁术与因果？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "游方散修",
+                  guide: "非门派修行者如何在世界中存在？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "邪修势力",
+                  guide: "邪修为何走上邪路？他们的目标和代价是什么？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+
         {
           id: "player-growth",
           index: "07",
@@ -2040,104 +1411,68 @@
               description: "既服务战斗，也服务对话和调查。",
               fields: [
                 {
-                  label: "战斗属性",
-                  guide: "生命、身法、法力、定力、攻击等。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "非战斗属性",
-                  guide: "口才、洞察、威慑、医术、符箓、风水、民俗等。",
-                  status: "draft",
-                  value: "非战斗属性应该打开额外任务路线。例如洞察可识破谎言，风水可发现阵眼，民俗可理解妖怪习性，口才可调停冲突。"
-                },
-                {
-                  label: "道行等级",
-                  guide: "道行不只是等级，也可以影响 NPC 是否信服。",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "基础属性加点",
-              description: "既服务战斗，也服务对话和调查。",
-              fields: [
-                {
                   label: "生命力",
-                  guide: "生命值，生命恢复速度",
+                  guide: "增加生命值与生命恢复速度。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "法力",
-                  guide: "法力值，法力伤害。",
-                  status: "draft",
+                  guide: "增加法力值与法术伤害。",
+                  status: "todo",
                   value: ""
                 },
                 {
                   label: "力量",
-                  guide: "体力值，物理伤害。",
+                  guide: "增加体力值与物理伤害。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "敏捷",
-                  guide: "闪避敌人的物理攻击与法力攻击",
+                  guide: "增加闪避物理攻击与法力攻击的概率。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "防御",
-                  guide: "减少敌人的物理攻击与法力攻击",
+                  guide: "减少物理攻击与法力攻击造成的伤害。",
                   status: "todo",
                   value: ""
                 }
               ]
             },
             {
-              title: "perk属性",
-              description: "既服务战斗，也服务对话和调查。",
+              title: "Perk 属性",
+              description: "偏向风格化、非线性成长的特殊属性。",
               fields: [
                 {
                   label: "智慧",
-                  guide: "能够掌握更好法术",
+                  guide: "影响能否掌握更高阶法术。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "灵巧",
-                  guide: "制作更好的道具",
+                  guide: "影响制作道具、烹饪、制药、炼丹等效果。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "耐心",
-                  guide: "",
+                  guide: "可能影响钓鱼、炼丹、法事、观察、等待类行为。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "感知",
-                  guide: "增加视野范围，地图范围，开图范围；敌人对他施法和攻击减慢。",
+                  guide: "增加视野范围、地图范围、开图范围；敌人对玩家施法和攻击可能变慢。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "友善",
-                  guide: "容易取得人或怪的信任",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "",
-                  guide: "",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "",
-                  guide: "",
+                  guide: "更容易取得人、妖、鬼或中立 NPC 的信任。",
                   status: "todo",
                   value: ""
                 }
@@ -2145,71 +1480,47 @@
             },
             {
               title: "另类属性",
-              description: "既服务战斗，也服务对话和调查。",
+              description: "用于影响对话、概率、隐藏事件与结局评价。",
               fields: [
                 {
                   label: "魅力值",
-                  guide: "",
+                  guide: "影响 NPC 初始态度、讨价还价、说服成功率。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "道德值",
-                  guide: "",
-                  status: "draft",
+                  guide: "影响正邪倾向、称呼、道门评价和结局判定。",
+                  status: "todo",
                   value: ""
                 },
                 {
                   label: "幸运值",
-                  guide: "",
+                  guide: "影响随机事件、掉落、隐藏奇遇、失败保底。",
                   status: "todo",
                   value: ""
                 }
               ]
             },
             {
-              title: "主角称呼",
-              description: "其他人如何称呼主角",
+              title: "主角称呼变化",
+              description: "其他人如何根据声望、因果和地区评价称呼主角。",
               fields: [
                 {
                   label: "道爷",
-                  guide: "在地区声望为恶时会被人称呼为道爷",
+                  guide: "地区声望偏恶时，NPC 对主角的称呼。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "道士",
-                  guide: "在地区声望为中等时会被人称呼为道士",
-                  status: "draft",
-                  value: "非战斗属性应该打开额外任务路线。例如洞察可识破谎言，风水可发现阵眼，民俗可理解妖怪习性，口才可调停冲突。"
+                  guide: "地区声望中性时，NPC 对主角的称呼。",
+                  status: "todo",
+                  value: ""
                 },
                 {
                   label: "道长",
-                  guide: "在地区声望为善时会被人称呼为道长",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "基础属性",
-              description: "既服务战斗，也服务对话和调查。",
-              fields: [
-                {
-                  label: "战斗属性",
-                  guide: "生命、身法、法力、定力、攻击等。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "非战斗属性",
-                  guide: "口才、洞察、威慑、医术、符箓、风水、民俗等。",
-                  status: "draft",
-                  value: "非战斗属性应该打开额外任务路线。例如洞察可识破谎言，风水可发现阵眼，民俗可理解妖怪习性，口才可调停冲突。"
-                },
-                {
-                  label: "道行等级",
-                  guide: "道行不只是等级，也可以影响 NPC 是否信服。",
+                  guide: "地区声望偏善时，NPC 对主角的称呼。",
                   status: "todo",
                   value: ""
                 }
@@ -2217,11 +1528,12 @@
             }
           ]
         },
+
         {
-          id: "combat",
+          id: "game-system",
           index: "08",
           title: "游戏系统",
-          description: "ARPG 的手感核心。战斗要有降妖特色，而不是普通砍怪。",
+          description: "定义战斗、恢复、客栈、饮食、时间、资源等基础系统。",
           sections: [
             {
               title: "基础战斗",
@@ -2249,36 +1561,37 @@
             },
             {
               title: "恢复系统",
-              description: "定义操作、节奏和敌我交互。",
+              description: "生命、法力和资源恢复的规则。",
               fields: [
                 {
                   label: "生命值体系",
-                  guide: "偏魂类、暗黑、塞尔达、还是传统动作？",
-                  status: "todo",
-                  value: "1、本身是自动恢复的。城内恢复快，城外恢复慢。2、普通草药是在x时间内增加生命回复速度为y。3、仙药级别是瞬时恢复。4、法术瞬间恢复生命的，需要消耗极大的法力。"
+                  guide: "生命如何恢复？",
+                  status: "draft",
+                  value: "1. 生命本身可以自动恢复，城内恢复快，城外恢复慢。\n2. 普通草药是在一定时间内增加生命恢复速度。\n3. 仙药级别是瞬时恢复。\n4. 法术瞬间恢复生命时，需要消耗大量法力。"
                 },
                 {
                   label: "法力值体系",
-                  guide: "轻击、重击、闪避、格挡、施法、符箓、法器。",
-                  status: "todo",
-                  value: "1、通过饮食，在客栈吃饭。恢复很快，时间很短，不是瞬间。2、通过携带的食物。3、丹药恢复，瞬间恢复。"
+                  guide: "法力如何恢复？",
+                  status: "draft",
+                  value: "1. 可通过饮食恢复，例如在客栈吃饭，恢复很快但不是瞬间。\n2. 可通过携带的食物恢复。\n3. 可通过丹药瞬间恢复。"
                 },
                 {
-                  label: "生命和法术同时恢复",
-                  guide: "如何体现“降妖除魔”？",
+                  label: "生命和法力同时恢复",
+                  guide: "哪些系统可以同时回复生命和法力？",
                   status: "draft",
-                  value: "1、阵法同时回复生命和法力。"
+                  value: "阵法可以同时回复生命和法力。"
                 },
                 {
                   label: "客栈",
-                  guide: "如何体现“降妖除魔”？",
+                  guide: "客栈如何服务恢复、传闻、任务与经济系统？",
                   status: "draft",
-                  value: "1、客栈会有随机优惠的菜品以及可以携带走的食物。2、坐在座位上点餐。有对话栏，可以传唤小二。"
+                  value: "1. 客栈会有随机优惠菜品，也可以购买可携带食物。\n2. 玩家坐在座位上点餐。\n3. 可以通过对话栏传唤小二。\n4. 客栈可承载传闻、支线触发和地区信息。"
                 }
               ]
-            },
+            }
           ]
         },
+
         {
           id: "skills",
           index: "09",
@@ -2339,19 +1652,19 @@
                 },
                 {
                   label: "特殊技能",
-                  guide: "某个招数在平时增加防御，在boss增加的更多，消耗更大",
+                  guide: "某个招数在平时增加防御，在 Boss 战中增加更多，但消耗更大。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "定身咒",
-                  guide: "",
+                  guide: "控制类法术，可用于战斗、抓捕、逃脱或任务解法。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "蛊术",
-                  guide: "",
+                  guide: "是否作为偏门、邪术、苗疆或特殊地域技能存在？",
                   status: "todo",
                   value: ""
                 }
@@ -2359,29 +1672,23 @@
             },
             {
               title: "风水阵法",
-              description: "直接影响战斗手感、连招、破防、闪避和处决。",
+              description: "通过环境、方位、地气、阵眼改变战斗和任务结果。",
               fields: [
                 {
-                  label: "近战技能",
-                  guide: "剑法、棍法、拂尘、短刃、法剑等。",
+                  label: "布阵",
+                  guide: "玩家是否可以提前布置阵法？",
                   status: "todo",
                   value: ""
                 },
                 {
-                  label: "远程 / 法术技能",
-                  guide: "雷法、火符、剑气、镇魂咒、缚妖索等。",
+                  label: "破阵",
+                  guide: "玩家如何识别敌方法阵并破坏阵眼？",
                   status: "todo",
                   value: ""
                 },
                 {
-                  label: "破邪技能",
-                  guide: "专门针对妖气护体、鬼魂虚体、邪修护阵的技能。",
-                  status: "draft",
-                  value: "部分妖魔不应该只靠削血击败。玩家需要使用破邪、照妖、镇魂、破阵等技能削弱其妖气、显出本体或打断仪式。"
-                },
-                {
-                  label: "非致命技能",
-                  guide: "用于封印、制服、驱散，而不是杀死敌人。",
+                  label: "风水判断",
+                  guide: "风水技能如何用于调查村庄灾祸、墓地异变或宅院凶煞？",
                   status: "todo",
                   value: ""
                 }
@@ -2389,119 +1696,47 @@
             },
             {
               title: "科仪法事",
-              description: "直接影响战斗手感、连招、破防、闪避和处决。",
+              description: "偏仪式、超度、祈禳、问魂、算命、逆天改命的技能体系。",
               fields: [
                 {
                   label: "算命",
-                  guide: "剑法、棍法、拂尘、短刃、法剑等。",
+                  guide: "是否用于预测任务风险、NPC 命格、天气、灾祸？",
                   status: "todo",
                   value: ""
                 },
                 {
-                  label: "远程 / 法术技能",
-                  guide: "雷法、火符、剑气、镇魂咒、缚妖索等。",
+                  label: "问魂",
+                  guide: "与死者残念交流，获取隐藏证词。",
                   status: "todo",
                   value: ""
                 },
                 {
-                  label: "破邪技能",
-                  guide: "专门针对妖气护体、鬼魂虚体、邪修护阵的技能。",
-                  status: "draft",
-                  value: "部分妖魔不应该只靠削血击败。玩家需要使用破邪、照妖、镇魂、破阵等技能削弱其妖气、显出本体或打断仪式。"
-                },
-                {
-                  label: "非致命技能",
-                  guide: "用于封印、制服、驱散，而不是杀死敌人。",
+                  label: "超度",
+                  guide: "用于解决鬼魂、怨灵、非杀戮路线。",
                   status: "todo",
                   value: ""
                 }
               ]
             },
             {
-              title: "科仪法事&战斗驱邪",
-              description: "超远程",
+              title: "复合技能方向",
+              description: "不同技能体系结合后形成高级玩法。",
               fields: [
                 {
-                  label: "",
-                  guide: "",
+                  label: "科仪法事 & 战斗驱邪",
+                  guide: "超远程、仪式型攻击或远程降妖。",
                   status: "todo",
                   value: ""
                 },
                 {
-                  label: "远程 / 法术技能",
-                  guide: "雷法、火符、剑气、镇魂咒、缚妖索等。",
+                  label: "科仪法事 & 风水阵法",
+                  guide: "逆天改命、改局、镇宅、改运。",
                   status: "todo",
                   value: ""
                 },
                 {
-                  label: "破邪技能",
-                  guide: "专门针对妖气护体、鬼魂虚体、邪修护阵的技能。",
-                  status: "draft",
-                  value: "部分妖魔不应该只靠削血击败。玩家需要使用破邪、照妖、镇魂、破阵等技能削弱其妖气、显出本体或打断仪式。"
-                },
-                {
-                  label: "非致命技能",
-                  guide: "用于封印、制服、驱散，而不是杀死敌人。",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "科仪法事&风水阵法",
-              description: "逆天改命",
-              fields: [
-                {
-                  label: "",
-                  guide: "",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "远程 / 法术技能",
-                  guide: "雷法、火符、剑气、镇魂咒、缚妖索等。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "破邪技能",
-                  guide: "专门针对妖气护体、鬼魂虚体、邪修护阵的技能。",
-                  status: "draft",
-                  value: "部分妖魔不应该只靠削血击败。玩家需要使用破邪、照妖、镇魂、破阵等技能削弱其妖气、显出本体或打断仪式。"
-                },
-                {
-                  label: "非致命技能",
-                  guide: "用于封印、制服、驱散，而不是杀死敌人。",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "风水阵法&战斗驱邪",
-              description: "战力大涨，敌人大弱",
-              fields: [
-                {
-                  label: "近战技能",
-                  guide: "剑法、棍法、拂尘、短刃、法剑等。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "远程 / 法术技能",
-                  guide: "雷法、火符、剑气、镇魂咒、缚妖索等。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "破邪技能",
-                  guide: "专门针对妖气护体、鬼魂虚体、邪修护阵的技能。",
-                  status: "draft",
-                  value: "部分妖魔不应该只靠削血击败。玩家需要使用破邪、照妖、镇魂、破阵等技能削弱其妖气、显出本体或打断仪式。"
-                },
-                {
-                  label: "非致命技能",
-                  guide: "用于封印、制服、驱散，而不是杀死敌人。",
+                  label: "风水阵法 & 战斗驱邪",
+                  guide: "增强自身战斗能力，削弱敌人能力。",
                   status: "todo",
                   value: ""
                 }
@@ -2509,59 +1744,23 @@
             },
             {
               title: "生产技能",
-              description: "不同的能力，制造的东西数值也不相同",
+              description: "不同生产能力制造出的物品数值和效果不同。",
               fields: [
                 {
                   label: "烹饪",
-                  guide: "",
+                  guide: "制作恢复、增益、特殊事件食物。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "制药",
-                  guide: "",
+                  guide: "制作草药、药剂、解毒物。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "炼丹",
-                  guide: "",
-                  status: "draft",
-                  value: ""
-                },
-                {
-                  label: "",
-                  guide: "",
-                  status: "todo",
-                  value: ""
-                }
-              ]
-            },
-            {
-              title: "战斗技能",
-              description: "直接影响战斗手感、连招、破防、闪避和处决。",
-              fields: [
-                {
-                  label: "近战技能",
-                  guide: "剑法、棍法、拂尘、短刃、法剑等。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "远程 / 法术技能",
-                  guide: "雷法、火符、剑气、镇魂咒、缚妖索等。",
-                  status: "todo",
-                  value: ""
-                },
-                {
-                  label: "破邪技能",
-                  guide: "专门针对妖气护体、鬼魂虚体、邪修护阵的技能。",
-                  status: "draft",
-                  value: "部分妖魔不应该只靠削血击败。玩家需要使用破邪、照妖、镇魂、破阵等技能削弱其妖气、显出本体或打断仪式。"
-                },
-                {
-                  label: "非致命技能",
-                  guide: "用于封印、制服、驱散，而不是杀死敌人。",
+                  guide: "制作强力丹药，但可能有副作用或因果风险。",
                   status: "todo",
                   value: ""
                 }
@@ -2623,6 +1822,7 @@
             }
           ]
         },
+
         {
           id: "items",
           index: "10",
@@ -2658,7 +1858,7 @@
               description: "符箓可以作为战斗、调查、封印和交涉工具。各种符专门有一个存放的包裹。",
               fields: [
                 {
-                  label: "攻击符，属性符",
+                  label: "攻击符 / 属性符",
                   guide: "金符、木符、水符、火符、土符、雷符等。",
                   status: "todo",
                   value: ""
@@ -2712,8 +1912,8 @@
                   value: ""
                 },
                 {
-                  label: "提升科仪法式的法器",
-                  guide: "不同的法器：提升法台的能力",
+                  label: "提升科仪法事的法器",
+                  guide: "不同法器可提升法台、科仪、超度、问魂等能力。",
                   status: "todo",
                   value: ""
                 }
@@ -2745,6 +1945,7 @@
             }
           ]
         },
+
         {
           id: "monsters",
           index: "11",
@@ -2782,12 +1983,42 @@
               ]
             },
             {
-              title: "妖魔设计模板",
-              description: "以后每个 Boss 或重要妖怪都按这个模板写。",
+              title: "生物类",
+              description: "家畜家禽、野生动物等。",
+              fields: [
+                {
+                  label: "鸡",
+                  guide: "普通生物，也可触发特殊失败声望。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "家犬",
+                  guide: "村镇生活生态、预警、任务线索。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "狼",
+                  guide: "野外群体敌人。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "虎",
+                  guide: "山林强敌或山神相关生态。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "妖精类",
+              description: "生物修炼而成。妖偏坏，为修炼不惜作恶；精坚持修行，不故意作恶。妖精可以幻化成人形。",
               fields: [
                 {
                   label: "生前 / 来源",
-                  guide: "它为什么成妖、成鬼、成邪？",
+                  guide: "它为什么成妖、成精？",
                   status: "todo",
                   value: ""
                 },
@@ -2810,12 +2041,178 @@
                   value: ""
                 }
               ]
+            },
+            {
+              title: "魔类",
+              description: "妖进一步堕化或修炼成魔。",
+              fields: [
+                {
+                  label: "来源",
+                  guide: "魔是由妖堕化、禁术污染，还是执念极端化形成？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "战斗特征",
+                  guide: "是否拥有强污染、恐惧、幻觉或领域能力？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "仙类",
+              description: "精修炼成仙，未必全然善良，但通常有更高规则意识。",
+              fields: [
+                {
+                  label: "来源",
+                  guide: "精如何修炼成仙？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "与人间关系",
+                  guide: "仙是否干涉人间、庇护一方或冷眼旁观？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "鬼魂",
+              description: "死者残念、冤魂、厉鬼、孤魂野鬼等。",
+              fields: [
+                {
+                  label: "生前 / 来源",
+                  guide: "它为什么成为鬼魂？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "执念",
+                  guide: "它真正想要什么？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "超度方式",
+                  guide: "如何用非战斗方式解决？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "灵类",
+              description: "物品吸收天地灵气、日月精华而生。",
+              fields: [
+                {
+                  label: "来源",
+                  guide: "器物、树木、石头、古井等如何成灵？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "互动方式",
+                  guide: "能否交易、结契、修复、封印？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "僵尸类",
+              description: "尸体因地气、怨气、邪术、风水或执念变化而成。",
+              fields: [
+                {
+                  label: "形成原因",
+                  guide: "风水、邪术、怨气、尸变、炼尸？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "善良僵尸",
+                  guide: "是否存在可以被放走、保护或隐藏的特殊僵尸？",
+                  status: "draft",
+                  value: "主角曾经不顾爷爷反对，放走过一个善良的僵尸。这件事可作为后续因果、爷爷秘密或妖魔观念变化的重要伏笔。"
+                }
+              ]
             }
           ]
         },
+
+        {
+          id: "npc-design",
+          index: "12",
+          title: "NPC 角色设计",
+          description: "各种 NPC 的人物设定、阵营、态度、关系和任务作用。",
+          sections: [
+            {
+              title: "恶面人物",
+              description: "作恶、伪善、贪婪、邪修、腐败官府等人物。",
+              fields: [
+                {
+                  label: "拂教相关人物",
+                  guide: "表面慈悲，实际敛财、控制小鬼、迫害百姓。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "腐败乡绅 / 官吏",
+                  guide: "地方权力者如何制造或掩盖妖患？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "中面人物",
+              description: "既不善向也不恶向的人物，可能有自己的哲学、立场或利益。",
+              fields: [
+                {
+                  label: "缺德道人",
+                  guide: "认为不该刻意行善积德，恪守本分才更重要，不刻意行恶即可。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "画画老人",
+                  guide: "通过绘画创造技能，善的技能、恶的技能都有。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "善面人物",
+              description: "相对善良、守正、愿意帮助玩家或代表正向价值的人物。",
+              fields: [
+                {
+                  label: "青森寺相关人物",
+                  guide: "与地图、宗教、风俗和支线相关。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "爷爷",
+                  guide: "村中郎中，也会道家法术和风水，实际身份可能很高。",
+                  status: "draft",
+                  value: "爷爷隐居在偏僻村里，表面是郎中，实际上法力高强。他从主角身上发现秘密，因此重新开始自己的事情。离去前似乎算到自己大限将至，提前准备棺材，只留下几句话，让人快速安葬。"
+                },
+                {
+                  label: "师姐",
+                  guide: "爷爷去世后指导主角学习法术和成长的人。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+
         {
           id: "locations",
-          index: "12",
+          index: "13",
           title: "地图、城镇与区域",
           description: "区域不只是关卡，而是任务、声望、NPC 和妖患交织的地方。",
           sections: [
@@ -2869,23 +2266,17 @@
             },
             {
               title: "地图设计参照",
-              description: "玩家行为如何改变城镇。",
+              description: "现实地理、文化原型和区域灵感。",
               fields: [
                 {
-                  label: "西边的山，的西边是以滇池为原型",
-                  guide: "旗帜、告示、香火、人群、尸体、封条等。",
+                  label: "西边的山",
+                  guide: "西边的山再往西，以滇池为原型。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "青森寺",
-                  guide: "",
-                  status: "draft",
-                  value: ""
-                },
-                {
-                  label: "任务变化",
-                  guide: "某些任务是否因为玩家之前选择而关闭或开启？",
+                  guide: "寺庙、势力、地图节点或支线地点。",
                   status: "todo",
                   value: ""
                 }
@@ -2893,23 +2284,23 @@
             },
             {
               title: "植物体系",
-              description: "",
+              description: "用于地图生态、采集、炼药、风水和任务。",
               fields: [
                 {
                   label: "花草",
-                  guide: "向日葵，红玫瑰",
+                  guide: "向日葵、红玫瑰等。",
                   status: "todo",
                   value: ""
                 },
                 {
                   label: "灌木",
-                  guide: "",
-                  status: "draft",
+                  guide: "灌木、荆棘、低矮草丛等。",
+                  status: "todo",
                   value: ""
                 },
                 {
                   label: "树林",
-                  guide: "桂花树，桃树，松树，槐树，杨树，柳树。",
+                  guide: "桂花树、桃树、松树、槐树、杨树、柳树。",
                   status: "todo",
                   value: ""
                 }
@@ -2917,9 +2308,448 @@
             }
           ]
         },
+
+        {
+          id: "main-story",
+          index: "14",
+          title: "主线剧情与结局",
+          description: "主线应该给玩家方向，但不要压死自由度。",
+          sections: [
+            {
+              title: "主线骨架",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "开局事件",
+                  guide: "玩家为什么下山、入世或被卷入事件？",
+                  status: "draft",
+                  value: "第一章，爷爷还在世。主角 15 岁，从床上醒来。一个小女孩看到他醒来后喊着“爷爷，爷爷，他醒了”。主角完全想不起来自己为何受伤、如何来到这里。\n\n爷爷是偏僻村里的郎中，也会一些道家法术和风水。一年以后爷爷去世，主角开始和师姐学习法术并成长。\n\n实际上，爷爷是从男孩身上发现了某个秘密，才决定继续自己的事情并隐居于此。爷爷离去前仿佛算到自己要走一样，提前准备好棺材，只留下几句话，让人快速安葬后便离去。"
+                },
+                {
+                  label: "中期转折",
+                  guide: "玩家发现什么真相？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "最终冲突",
+                  guide: "最终敌人是妖、神、人、制度，还是玩家自身选择的因果？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第一章",
+              description: "夜半啼哭惊好梦，平明急起探寒鸣。",
+              fields: [
+                {
+                  label: "章节开端",
+                  guide: "这一章从什么事件开始？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节冲突",
+                  guide: "这一章的主要事件、妖患或人物矛盾是什么？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节结尾",
+                  guide: "这一章如何收束，并引向下一章？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第二章",
+              description: "同是天涯沦落人，相逢何必曾相识。",
+              fields: [
+                {
+                  label: "章节开端",
+                  guide: "这一章从什么事件开始？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节冲突",
+                  guide: "这一章的主要事件、妖患或人物矛盾是什么？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节结尾",
+                  guide: "这一章如何收束，并引向下一章？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第三章",
+              description: "桃李春风一杯酒，江湖夜雨十年灯。",
+              fields: [
+                {
+                  label: "章节开端",
+                  guide: "这一章从什么事件开始？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节冲突",
+                  guide: "这一章的主要事件、妖患或人物矛盾是什么？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节结尾",
+                  guide: "这一章如何收束，并引向下一章？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第四章",
+              description: "英雄气短尽彻天，儿女情长终断尘。",
+              fields: [
+                {
+                  label: "章节开端",
+                  guide: "这一章从什么事件开始？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节冲突",
+                  guide: "这一章的主要事件、妖患或人物矛盾是什么？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节结尾",
+                  guide: "这一章如何收束，并引向下一章？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第五章",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "章节开端",
+                  guide: "这一章从什么事件开始？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节冲突",
+                  guide: "这一章的主要事件、妖患或人物矛盾是什么？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节结尾",
+                  guide: "这一章如何收束，并引向下一章？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第六章",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "章节开端",
+                  guide: "这一章从什么事件开始？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节冲突",
+                  guide: "这一章的主要事件、妖患或人物矛盾是什么？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节结尾",
+                  guide: "这一章如何收束，并引向下一章？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第七章",
+              description: "曾经沧海难为水，除却巫山不是云。",
+              fields: [
+                {
+                  label: "章节开端",
+                  guide: "这一章从什么事件开始？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节冲突",
+                  guide: "这一章的主要事件、妖患或人物矛盾是什么？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节结尾",
+                  guide: "这一章如何收束，并引向下一章？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第八章",
+              description: "取次花丛懒回顾，半缘修道半缘君。",
+              fields: [
+                {
+                  label: "章节开端",
+                  guide: "这一章从什么事件开始？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节冲突",
+                  guide: "这一章的主要事件、妖患或人物矛盾是什么？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节结尾",
+                  guide: "这一章如何收束，并引向下一章？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第九章",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "章节开端",
+                  guide: "这一章从什么事件开始？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节冲突",
+                  guide: "这一章的主要事件、妖患或人物矛盾是什么？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "章节结尾",
+                  guide: "这一章如何收束，并引向下一章？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "结局变量",
+              description: "结局由玩家长期行为共同决定。",
+              fields: [
+                {
+                  label: "人间结局",
+                  guide: "村镇、百姓、官府的命运。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "妖族结局",
+                  guide: "妖魔势力最终如何看待玩家？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "道门结局",
+                  guide: "玩家是否被承认、驱逐、封为真人或堕入邪道？",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "个人结局",
+                  guide: "玩家自身成为什么样的人？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          id: "side-story",
+          index: "15",
+          title: "支线剧情与结局",
+          description: "支线用于补充世界观、角色关系、地区命运和隐藏结局。",
+          sections: [
+            {
+              title: "支线设计原则",
+              description: "支线不只是额外任务，而应该影响声望、NPC 态度、地图变化和结局变量。",
+              fields: [
+                {
+                  label: "支线结构",
+                  guide: "支线是否按章节、地区、阵营或人物分类？",
+                  status: "draft",
+                  value: "支线可以同时按章节和地区组织。每个支线应该记录触发条件、相关 NPC、解决路线、声望影响和长期后果。"
+                },
+                {
+                  label: "支线影响主线",
+                  guide: "哪些支线会改变主线任务入口、NPC 态度或结局变量？",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第一章支线",
+              description: "夜半啼哭惊好梦，平明急起探寒鸣。",
+              fields: [
+                {
+                  label: "支线任务",
+                  guide: "任务名、触发条件、关联 NPC、奖励、后果。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第二章支线",
+              description: "同是天涯沦落人，相逢何必曾相识。",
+              fields: [
+                {
+                  label: "支线任务",
+                  guide: "任务名、触发条件、关联 NPC、奖励、后果。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第三章支线",
+              description: "桃李春风一杯酒，江湖夜雨十年灯。",
+              fields: [
+                {
+                  label: "支线任务",
+                  guide: "任务名、触发条件、关联 NPC、奖励、后果。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第四章支线",
+              description: "英雄气短尽彻天，儿女情长终断尘。",
+              fields: [
+                {
+                  label: "支线任务",
+                  guide: "任务名、触发条件、关联 NPC、奖励、后果。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第五章支线",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "支线任务",
+                  guide: "任务名、触发条件、关联 NPC、奖励、后果。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第六章支线",
+              description: "先写结构，不急着写对白。",
+              fields: [
+                {
+                  label: "支线任务",
+                  guide: "任务名、触发条件、关联 NPC、奖励、后果。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第七章支线",
+              description: "七月七日长生殿，夜半无人私语时。",
+              fields: [
+                {
+                  label: "支线任务",
+                  guide: "任务名、触发条件、关联 NPC、奖励、后果。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第八章支线",
+              description: "在天愿作比翼鸟，在地愿为连理枝。",
+              fields: [
+                {
+                  label: "支线任务",
+                  guide: "任务名、触发条件、关联 NPC、奖励、后果。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "第九章支线",
+              description: "天长地久有尽时，此恨绵绵无绝期。",
+              fields: [
+                {
+                  label: "支线任务",
+                  guide: "任务名、触发条件、关联 NPC、奖励、后果。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            },
+            {
+              title: "支线结局变量",
+              description: "支线最终如何影响世界、人物和结局。",
+              fields: [
+                {
+                  label: "人物结局",
+                  guide: "重要 NPC 的命运。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "地区结局",
+                  guide: "不同村镇、寺庙、山林、妖族地盘的变化。",
+                  status: "todo",
+                  value: ""
+                },
+                {
+                  label: "隐藏结局",
+                  guide: "通过支线解锁的特殊结局。",
+                  status: "todo",
+                  value: ""
+                }
+              ]
+            }
+          ]
+        },
+
         {
           id: "production",
-          index: "14",
+          index: "16",
           title: "开发计划与原型优先级",
           description: "用于把庞大设想压缩成可执行 Demo。",
           sections: [
@@ -3276,6 +3106,8 @@
     document.addEventListener("DOMContentLoaded", initializeApp);
 
     function initializeApp() {
+      validateDocumentData();
+
       renderProject();
       renderToc();
       renderDocument();
@@ -3313,6 +3145,60 @@
       });
     }
 
+    function validateDocumentData() {
+      const warnings = [];
+      const chapterIds = new Map();
+      const chapterIndexes = new Map();
+
+      GAME_DOCUMENT.chapters.forEach((chapter) => {
+        const chapterName = `${chapter.index} · ${chapter.title}`;
+
+        if (!/^[a-z0-9-]+$/.test(chapter.id)) {
+          warnings.push(`章节 id 不规范：${chapterName}，当前 id 是 "${chapter.id}"。建议只用小写英文、数字和短横线。`);
+        }
+
+        if (chapterIds.has(chapter.id)) {
+          warnings.push(`章节 id 重复：${chapter.id}，出现在 "${chapterIds.get(chapter.id)}" 和 "${chapterName}"。`);
+        } else {
+          chapterIds.set(chapter.id, chapterName);
+        }
+
+        if (chapterIndexes.has(chapter.index)) {
+          warnings.push(`章节编号重复：Chapter ${chapter.index}，出现在 "${chapterIndexes.get(chapter.index)}" 和 "${chapterName}"。`);
+        } else {
+          chapterIndexes.set(chapter.index, chapterName);
+        }
+
+        chapter.sections.forEach((section, sectionPosition) => {
+          if (!section.title || !section.title.trim()) {
+            warnings.push(`空 section 标题：${chapterName} 的第 ${sectionPosition + 1} 个 section。`);
+          }
+
+          section.fields.forEach((field, fieldPosition) => {
+            const fieldPath = `${chapterName} > ${section.title || "未命名 section"} > 第 ${fieldPosition + 1} 个字段`;
+
+            if (!field.label || !field.label.trim()) {
+              warnings.push(`字段 label 为空：${fieldPath}。`);
+            }
+
+            if (field.status === "todo" && String(field.value || "").trim() !== "") {
+              warnings.push(`字段已有内容但 status 仍是 todo：${fieldPath}。建议改成 draft。`);
+            }
+
+            if (field.status === "draft" && String(field.value || "").trim() === "") {
+              warnings.push(`字段是 draft 但 value 为空：${fieldPath}。建议改成 todo。`);
+            }
+          });
+        });
+      });
+
+      if (warnings.length > 0) {
+        console.group("道行天涯文档数据检查");
+        warnings.forEach((warning) => console.warn(warning));
+        console.groupEnd();
+      }
+    }
+
     function renderProject() {
       const project = GAME_DOCUMENT.project;
 
@@ -3340,7 +3226,7 @@
         })),
         {
           id: "relation-map",
-          index: "15",
+          index: "17",
           title: "关系图谱与影响矩阵"
         }
       ];
