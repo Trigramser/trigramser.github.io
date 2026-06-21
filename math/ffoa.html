@@ -321,7 +321,7 @@
     <div class="settings">
       <div class="field">
         <label for="count">题目数量</label>
-        <input id="count" type="number" min="1" max="200" value="60" />
+        <input id="count" type="number" min="1" max="200" value="30" />
       </div>
 
       <div class="field">
@@ -444,6 +444,7 @@
     };
   }
 
+
   function createSubtraction(maxNumber) {
     let a = randomInt(0, maxNumber);
     let b = randomInt(0, maxNumber);
@@ -458,13 +459,42 @@
     };
   }
 
+
+
   function createMultiplication(maxNumber) {
     const limitAllToMax = shouldLimitAllToMax();
 
+    /*
+      乘法要求：
+      1. 不出现乘以 1
+      2. 如果勾选“所有数字和答案都不超过范围”，则乘积也不能超过 maxNumber
+    */
+
     if (limitAllToMax) {
-      const a = randomInt(0, maxNumber);
-      const maxB = a === 0 ? maxNumber : Math.floor(maxNumber / a);
-      const b = randomInt(0, maxB);
+      /*
+        例如 100 以内：
+        允许：8 × 9 = 72
+        不允许：20 × 8 = 160
+        不允许：1 × 9 = 9
+      */
+
+      if (maxNumber < 4) {
+        /*
+          maxNumber 小于 4 时，不可能生成 2 × 2 以内的非 1 乘法。
+          所以兜底生成 0 × 0 或 0 × 2，避免出现乘以 1。
+        */
+        const a = 0;
+        const b = maxNumber >= 2 ? 2 : 0;
+
+        return {
+          expression: `${a} × ${b} =`,
+          answer: a * b
+        };
+      }
+
+      const a = randomInt(2, Math.floor(maxNumber / 2));
+      const maxB = Math.floor(maxNumber / a);
+      const b = randomInt(2, maxB);
 
       return {
         expression: `${a} × ${b} =`,
@@ -472,8 +502,19 @@
       };
     }
 
-    const a = randomInt(0, maxNumber);
-    const b = randomInt(0, maxNumber);
+    /*
+      不勾选“所有数字和答案都不超过范围”时：
+      两个乘数仍然都不会是 1。
+    */
+    if (maxNumber < 2) {
+      return {
+        expression: `0 × 0 =`,
+        answer: 0
+      };
+    }
+
+    const a = randomInt(2, maxNumber);
+    const b = randomInt(2, maxNumber);
 
     return {
       expression: `${a} × ${b} =`,
@@ -485,21 +526,36 @@
     const integerDivision = document.getElementById("integerDivision").checked;
     const limitAllToMax = shouldLimitAllToMax();
 
+    /*
+      除法要求：
+      1. 不出现除以 1，例如 8 ÷ 1
+      2. 不出现相同数相除，例如 8 ÷ 8
+      3. 如果勾选“所有数字和答案都不超过范围”，被除数、除数、答案都不超过 maxNumber
+    */
+
     if (integerDivision) {
       if (limitAllToMax) {
         /*
-          限制所有数字和答案都不超过 maxNumber
-          同时避免出现 a ÷ a = 1
-        */
+          在限制范围内，最小比较自然的整除题是：
+          4 ÷ 2 = 2
 
-        if (maxNumber === 1) {
+          如果 maxNumber 小于 4，就很难同时满足：
+          - 除数不是 1
+          - 被除数和除数不相同
+          - 整除
+          - 所有数字都不超过 maxNumber
+
+          所以这里给一个兜底：0 ÷ 2 = 0
+          它不会出现除以 1，也不会出现相同数相除。
+        */
+        if (maxNumber < 4) {
           return {
-            expression: `0 ÷ 1 =`,
+            expression: `0 ÷ 2 =`,
             answer: 0
           };
         }
 
-        const divisor = randomInt(1, Math.max(1, Math.floor(maxNumber / 2)));
+        const divisor = randomInt(2, Math.floor(maxNumber / 2));
         const maxQuotient = Math.floor(maxNumber / divisor);
 
         // quotient 从 2 开始，避免 dividend === divisor
@@ -513,10 +569,17 @@
       }
 
       /*
-        不限制所有数字和答案都不超过 maxNumber
-        但仍然避免出现相同数字相除
+        不限制所有数字和答案都不超过范围时：
+        仍然保证除数不是 1，并且不出现相同数相除。
       */
-      const divisor = randomInt(1, Math.max(1, maxNumber));
+      if (maxNumber < 2) {
+        return {
+          expression: `0 ÷ 2 =`,
+          answer: 0
+        };
+      }
+
+      const divisor = randomInt(2, maxNumber);
       const quotient = randomInt(2, Math.max(2, maxNumber));
       const dividend = divisor * quotient;
 
@@ -527,14 +590,22 @@
     }
 
     /*
-      非整除模式
-      避免 dividend === divisor
+      非整除模式：
+      除数从 2 开始，避免除以 1。
+      同时避免 dividend === divisor。
     */
+    if (maxNumber < 2) {
+      return {
+        expression: `0 ÷ 2 =`,
+        answer: 0
+      };
+    }
+
     let dividend = randomInt(0, maxNumber);
-    const divisor = randomInt(1, Math.max(1, maxNumber));
+    const divisor = randomInt(2, maxNumber);
 
     if (dividend === divisor) {
-      dividend = dividend === 0 ? 1 : 0;
+      dividend = 0;
     }
 
     const result = dividend / divisor;
@@ -545,6 +616,8 @@
       allowDecimal: true
     };
   }
+
+
 
   function createProblem(operator, maxNumber) {
     switch (operator) {
