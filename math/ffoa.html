@@ -673,15 +673,28 @@
     setMessage(`已生成 ${count} 道题${limitText}。`, "success");
   }
 
-  function renderProblems() {
-    problemsContainer.innerHTML = "";
+function renderProblems() {
+  problemsContainer.innerHTML = "";
 
-    problems.forEach((problem, index) => {
+  const columns = 3;
+  const total = problems.length;
+  const rows = Math.ceil(total / columns);
+
+  for (let row = 0; row < rows; row++) {
+    for (let col = 0; col < columns; col++) {
+      const problemIndex = col * rows + row;
+
+      if (problemIndex >= total) {
+        continue;
+      }
+
+      const problem = problems[problemIndex];
       const problemElement = document.createElement("div");
+
       problemElement.className = "problem";
 
       problemElement.innerHTML = `
-        <div class="problem-number">${index + 1}.</div>
+        <div class="problem-number">${problemIndex + 1}.</div>
         <div class="expression">
           ${problem.expression}
           <span class="print-answer-value">${problem.answer}</span>
@@ -690,15 +703,16 @@
           class="answer-input" 
           type="number" 
           step="any"
-          data-index="${index}" 
+          data-index="${problemIndex}" 
           placeholder="答案" 
         />
         <div class="answer">答案：${problem.answer}</div>
       `;
 
       problemsContainer.appendChild(problemElement);
-    });
+    }
   }
+}
 
   function checkAnswers() {
     if (problems.length === 0) {
@@ -803,16 +817,18 @@
     return `${year}-${month}-${day}`;
   }
 
+
   function buildWordProblemTable() {
     const columns = 3;
-    const rows = Math.ceil(problems.length / columns);
+    const total = problems.length;
+    const rows = Math.ceil(total / columns);
     let html = "";
 
     for (let row = 0; row < rows; row++) {
       html += "<tr>";
 
       for (let col = 0; col < columns; col++) {
-        const index = row * columns + col;
+        const index = col * rows + row;
         const problem = problems[index];
 
         if (!problem) {
@@ -836,15 +852,16 @@
   }
 
   function buildWordAnswerTable() {
-    const columns = 6;
-    const rows = Math.ceil(problems.length / columns);
+    const columns = 3;
+    const total = problems.length;
+    const rows = Math.ceil(total / columns);
     let html = "";
 
     for (let row = 0; row < rows; row++) {
       html += "<tr>";
 
       for (let col = 0; col < columns; col++) {
-        const index = row * columns + col;
+        const index = col * rows + row;
         const problem = problems[index];
 
         if (!problem) {
@@ -854,7 +871,8 @@
 
         html += `
           <td>
-            ${index + 1}. ${escapeHtml(problem.answer)}
+            <span class="problem-number">${index + 1}.</span>
+            <span class="expression">${escapeHtml(problem.expression)} ${escapeHtml(problem.answer)}</span>
           </td>
         `;
       }
