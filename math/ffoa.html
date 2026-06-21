@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>计算题生成器</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Microsoft YaHei", Arial, sans-serif;
+      background: linear-gradient(135deg, #e0f2fe, #fef3c7);
+      color: #1f2937;
+      min-height: 100vh;
+      padding: 24px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      background: #ffffff;
+      border-radius: 20px;
+      padding: 28px;
+      box-shadow: 0 20px 45px rgba(0, 0, 0, 0.12);
+    }
+
+    h1 {
+      text-align: center;
+      margin-top: 0;
+      color: #2563eb;
+      font-size: 32px;
+    }
+
+    .subtitle {
+      text-align: center;
+      color: #6b7280;
+      margin-bottom: 28px;
+    }
+
+    .settings {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 18px;
+      margin-bottom: 24px;
+      padding: 20px;
+      background: #f9fafb;
+      border-radius: 16px;
+      border: 1px solid #e5e7eb;
+    }
+
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    label {
+      font-weight: 700;
+      color: #374151;
+    }
+
+    input[type="number"] {
+      padding: 11px 12px;
+      border: 1px solid #d1d5db;
+      border-radius: 10px;
+      font-size: 16px;
+      outline: none;
+    }
+
+    input[type="number"]:focus {
+      border-color: #2563eb;
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+    }
+
+    .checkbox-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .checkbox-card {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: #ffffff;
+      border: 1px solid #d1d5db;
+      padding: 10px 12px;
+      border-radius: 10px;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .checkbox-card input {
+      width: 18px;
+      height: 18px;
+      cursor: pointer;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+
+    button {
+      border: none;
+      border-radius: 999px;
+      padding: 12px 22px;
+      font-size: 16px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .btn-primary {
+      background: #2563eb;
+      color: #ffffff;
+    }
+
+    .btn-primary:hover {
+      background: #1d4ed8;
+      transform: translateY(-1px);
+    }
+
+    .btn-secondary {
+      background: #10b981;
+      color: #ffffff;
+    }
+
+    .btn-secondary:hover {
+      background: #059669;
+      transform: translateY(-1px);
+    }
+
+    .btn-warning {
+      background: #f59e0b;
+      color: #ffffff;
+    }
+
+    .btn-warning:hover {
+      background: #d97706;
+      transform: translateY(-1px);
+    }
+
+    .btn-gray {
+      background: #6b7280;
+      color: #ffffff;
+    }
+
+    .btn-gray:hover {
+      background: #4b5563;
+      transform: translateY(-1px);
+    }
+
+    .message {
+      text-align: center;
+      min-height: 28px;
+      font-weight: 700;
+      margin-bottom: 16px;
+    }
+
+    .message.error {
+      color: #dc2626;
+    }
+
+    .message.success {
+      color: #059669;
+    }
+
+    .problems {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 14px;
+    }
+
+    .problem {
+      display: grid;
+      grid-template-columns: 36px 1fr 90px;
+      align-items: center;
+      gap: 10px;
+      padding: 14px;
+      border-radius: 14px;
+      background: #f8fafc;
+      border: 1px solid #e5e7eb;
+    }
+
+    .problem-number {
+      font-weight: 700;
+      color: #2563eb;
+    }
+
+    .expression {
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      white-space: nowrap;
+    }
+
+    .answer-input {
+      width: 100%;
+      padding: 8px 10px;
+      border-radius: 8px;
+      border: 1px solid #d1d5db;
+      font-size: 16px;
+      text-align: center;
+    }
+
+    .answer-input.correct {
+      border-color: #10b981;
+      background: #ecfdf5;
+    }
+
+    .answer-input.wrong {
+      border-color: #ef4444;
+      background: #fef2f2;
+    }
+
+    .answer {
+      grid-column: 2 / 4;
+      display: none;
+      color: #059669;
+      font-weight: 700;
+      font-size: 15px;
+    }
+
+    .print-answer-value {
+      display: none;
+      margin-left: 4px;
+      color: #000000;
+      font-weight: 700;
+    }
+
+    .show-answer .answer {
+      display: block;
+    }
+
+    .score-board {
+      text-align: center;
+      font-size: 20px;
+      font-weight: 700;
+      color: #2563eb;
+      margin-bottom: 18px;
+    }
+
+    @media print {
+      body {
+            background: #ffffff;
+            padding: 0;
+        }
+
+        .container {
+            box-shadow: none;
+            border-radius: 0;
+            padding: 10mm;
+        }
+
+        .settings,
+        .actions,
+        .message,
+        .score-board,
+        .answer-input,
+        .subtitle {
+            display: none !important;
+        }
+
+        .problems {
+            grid-template-columns: repeat(3, 1fr);
+            gap: 8px 16px;
+        }
+
+        .problem {
+            border: none;
+            border-bottom: 1px solid #ddd;
+            border-radius: 0;
+            padding: 8px 4px;
+            background: #ffffff;
+            grid-template-columns: 28px 1fr;
+        }
+
+        .expression {
+            font-size: 18px;
+        }
+
+        .answer {
+            display: none !important;
+        }
+
+        .print-answer-value {
+            display: none !important;
+        }
+
+        body.print-answers .print-answer-value {
+            display: inline !important;
+        }
+
+        body.print-answers h1::after {
+            content: "（答案）";
+        }
+
+        body.print-problems h1::after {
+            content: "";
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 12px;
+        }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>计算题</h1>
+    <p class="subtitle">自由生成加减乘除练习题</p>
+
+    <div class="settings">
+      <div class="field">
+        <label for="count">题目数量</label>
+        <input id="count" type="number" min="1" max="200" value="60" />
+      </div>
+
+      <div class="field">
+        <label for="maxNumber">数字范围：多少以内</label>
+        <input id="maxNumber" type="number" min="1" max="10000" value="20" />
+      </div>
+
+      <div class="field">
+        <label>选择运算类型</label>
+        <div class="checkbox-group">
+          <label class="checkbox-card">
+            <input type="checkbox" value="+" checked />
+            加法
+          </label>
+          <label class="checkbox-card">
+            <input type="checkbox" value="-" checked />
+            减法
+          </label>
+          <label class="checkbox-card">
+            <input type="checkbox" value="×" />
+            乘法
+          </label>
+          <label class="checkbox-card">
+            <input type="checkbox" value="÷" />
+            除法
+          </label>
+        </div>
+      </div>
+
+      <div class="field">
+        <label>
+          <input id="noNegative" type="checkbox" checked />
+          减法不出现负数
+        </label>
+
+        <label>
+          <input id="integerDivision" type="checkbox" checked />
+          除法只生成整除
+        </label>
+
+        <label>
+          <input id="limitAllToMax" type="checkbox" checked />
+          所有数字和答案都不超过上面的范围
+        </label>
+
+        <label>
+          <input id="wordIncludeAnswers" type="checkbox" />
+          导出Word时包含答案
+        </label>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button class="btn-primary" onclick="generateProblems()">生成题目</button>
+      <button class="btn-secondary" onclick="checkAnswers()">自动批改</button>
+      <button class="btn-warning" onclick="toggleAnswers()">显示 / 隐藏答案</button>
+      <button class="btn-gray" onclick="printProblems()">打印题目</button>
+      <button class="btn-gray" onclick="printAnswers()">打印答案</button>
+
+      <button class="btn-gray" onclick="exportWord()">导出Word</button>
+    </div>
+
+    <div id="message" class="message"></div>
+    <div id="scoreBoard" class="score-board"></div>
+    <div id="problems" class="problems"></div>
+  </div>
+
+<script>
+  const problemsContainer = document.getElementById("problems");
+  const messageElement = document.getElementById("message");
+  const scoreBoard = document.getElementById("scoreBoard");
+
+  let problems = [];
+  let answersVisible = false;
+
+  function randomInt(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+
+    if (max < min) {
+      return min;
+    }
+
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+
+  function getSelectedOperators() {
+    return Array.from(document.querySelectorAll('.checkbox-card input[type="checkbox"]:checked'))
+      .map(input => input.value);
+  }
+
+  function shouldLimitAllToMax() {
+    return document.getElementById("limitAllToMax").checked;
+  }
+
+  function setMessage(text, type = "") {
+    messageElement.textContent = text;
+    messageElement.className = `message ${type}`;
+  }
+
+  function createAddition(maxNumber) {
+    const limitAllToMax = shouldLimitAllToMax();
+
+    if (limitAllToMax) {
+      const a = randomInt(0, maxNumber);
+      const b = randomInt(0, maxNumber - a);
+
+      return {
+        expression: `${a} + ${b} =`,
+        answer: a + b
+      };
+    }
+
+    const a = randomInt(0, maxNumber);
+    const b = randomInt(0, maxNumber);
+
+    return {
+      expression: `${a} + ${b} =`,
+      answer: a + b
+    };
+  }
+
+  function createSubtraction(maxNumber) {
+    let a = randomInt(0, maxNumber);
+    let b = randomInt(0, maxNumber);
+
+    if (document.getElementById("noNegative").checked && a < b) {
+      [a, b] = [b, a];
+    }
+
+    return {
+      expression: `${a} - ${b} =`,
+      answer: a - b
+    };
+  }
+
+  function createMultiplication(maxNumber) {
+    const limitAllToMax = shouldLimitAllToMax();
+
+    if (limitAllToMax) {
+      const a = randomInt(0, maxNumber);
+      const maxB = a === 0 ? maxNumber : Math.floor(maxNumber / a);
+      const b = randomInt(0, maxB);
+
+      return {
+        expression: `${a} × ${b} =`,
+        answer: a * b
+      };
+    }
+
+    const a = randomInt(0, maxNumber);
+    const b = randomInt(0, maxNumber);
+
+    return {
+      expression: `${a} × ${b} =`,
+      answer: a * b
+    };
+  }
+
+  function createDivision(maxNumber) {
+    const integerDivision = document.getElementById("integerDivision").checked;
+    const limitAllToMax = shouldLimitAllToMax();
+
+    if (integerDivision) {
+      if (limitAllToMax) {
+        /*
+          限制所有数字和答案都不超过 maxNumber
+          同时避免出现 a ÷ a = 1
+        */
+
+        if (maxNumber === 1) {
+          return {
+            expression: `0 ÷ 1 =`,
+            answer: 0
+          };
+        }
+
+        const divisor = randomInt(1, Math.max(1, Math.floor(maxNumber / 2)));
+        const maxQuotient = Math.floor(maxNumber / divisor);
+
+        // quotient 从 2 开始，避免 dividend === divisor
+        const quotient = randomInt(2, Math.max(2, maxQuotient));
+        const dividend = divisor * quotient;
+
+        return {
+          expression: `${dividend} ÷ ${divisor} =`,
+          answer: quotient
+        };
+      }
+
+      /*
+        不限制所有数字和答案都不超过 maxNumber
+        但仍然避免出现相同数字相除
+      */
+      const divisor = randomInt(1, Math.max(1, maxNumber));
+      const quotient = randomInt(2, Math.max(2, maxNumber));
+      const dividend = divisor * quotient;
+
+      return {
+        expression: `${dividend} ÷ ${divisor} =`,
+        answer: quotient
+      };
+    }
+
+    /*
+      非整除模式
+      避免 dividend === divisor
+    */
+    let dividend = randomInt(0, maxNumber);
+    const divisor = randomInt(1, Math.max(1, maxNumber));
+
+    if (dividend === divisor) {
+      dividend = dividend === 0 ? 1 : 0;
+    }
+
+    const result = dividend / divisor;
+
+    return {
+      expression: `${dividend} ÷ ${divisor} =`,
+      answer: Number(result.toFixed(2)),
+      allowDecimal: true
+    };
+  }
+
+  function createProblem(operator, maxNumber) {
+    switch (operator) {
+      case "+":
+        return createAddition(maxNumber);
+      case "-":
+        return createSubtraction(maxNumber);
+      case "×":
+        return createMultiplication(maxNumber);
+      case "÷":
+        return createDivision(maxNumber);
+      default:
+        return createAddition(maxNumber);
+    }
+  }
+
+  function generateProblems() {
+    const count = Number(document.getElementById("count").value);
+    const maxNumber = Number(document.getElementById("maxNumber").value);
+    const operators = getSelectedOperators();
+
+    problems = [];
+    answersVisible = false;
+    scoreBoard.textContent = "";
+    problemsContainer.classList.remove("show-answer");
+
+    if (!Number.isInteger(count) || count < 1 || count > 200) {
+      setMessage("题目数量请输入 1 到 200 之间的整数。", "error");
+      return;
+    }
+
+    if (!Number.isInteger(maxNumber) || maxNumber < 1 || maxNumber > 10000) {
+      setMessage("数字范围请输入 1 到 10000 之间的整数。", "error");
+      return;
+    }
+
+    if (operators.length === 0) {
+      setMessage("请至少选择一种运算类型。", "error");
+      return;
+    }
+
+    for (let i = 0; i < count; i++) {
+      const operator = operators[randomInt(0, operators.length - 1)];
+      problems.push(createProblem(operator, maxNumber));
+    }
+
+    renderProblems();
+
+    const limitText = shouldLimitAllToMax()
+      ? "，所有数字和答案都不会超过设置范围"
+      : "";
+
+    setMessage(`已生成 ${count} 道题${limitText}。`, "success");
+  }
+
+  function renderProblems() {
+    problemsContainer.innerHTML = "";
+
+    problems.forEach((problem, index) => {
+      const problemElement = document.createElement("div");
+      problemElement.className = "problem";
+
+      problemElement.innerHTML = `
+        <div class="problem-number">${index + 1}.</div>
+        <div class="expression">
+          ${problem.expression}
+          <span class="print-answer-value">${problem.answer}</span>
+        </div>
+        <input 
+          class="answer-input" 
+          type="number" 
+          step="any"
+          data-index="${index}" 
+          placeholder="答案" 
+        />
+        <div class="answer">答案：${problem.answer}</div>
+      `;
+
+      problemsContainer.appendChild(problemElement);
+    });
+  }
+
+  function checkAnswers() {
+    if (problems.length === 0) {
+      setMessage("请先生成题目。", "error");
+      return;
+    }
+
+    const inputs = document.querySelectorAll(".answer-input");
+    let correctCount = 0;
+
+    inputs.forEach(input => {
+      const index = Number(input.dataset.index);
+      const userAnswer = Number(input.value);
+      const correctAnswer = problems[index].answer;
+
+      input.classList.remove("correct", "wrong");
+
+      if (input.value.trim() === "") {
+        input.classList.add("wrong");
+        return;
+      }
+
+      const isCorrect = Math.abs(userAnswer - correctAnswer) < 0.001;
+
+      if (isCorrect) {
+        input.classList.add("correct");
+        correctCount++;
+      } else {
+        input.classList.add("wrong");
+      }
+    });
+
+    const total = problems.length;
+    const score = Math.round((correctCount / total) * 100);
+
+    scoreBoard.textContent = `得分：${score} 分，答对 ${correctCount} / ${total} 题`;
+    setMessage("批改完成。绿色表示正确，红色表示错误。", "success");
+  }
+
+  function toggleAnswers() {
+    if (problems.length === 0) {
+      setMessage("请先生成题目。", "error");
+      return;
+    }
+
+    answersVisible = !answersVisible;
+    problemsContainer.classList.toggle("show-answer", answersVisible);
+
+    setMessage(answersVisible ? "答案已显示。" : "答案已隐藏。", "success");
+  }
+
+
+  function clearPrintMode() {
+    document.body.classList.remove("print-problems", "print-answers");
+  }
+
+  function setPrintMode(mode) {
+    clearPrintMode();
+    document.body.classList.add(mode);
+  }
+
+  function printProblems() {
+    if (problems.length === 0) {
+      setMessage("请先生成题目。", "error");
+      return;
+    }
+
+    setPrintMode("print-problems");
+    window.print();
+  }
+
+  function printAnswers() {
+    if (problems.length === 0) {
+      setMessage("请先生成题目。", "error");
+      return;
+    }
+
+    setPrintMode("print-answers");
+    window.print();
+  }
+
+  window.addEventListener("afterprint", clearPrintMode);
+
+
+
+
+  function escapeHtml(value) {
+    return String(value)
+      .replaceAll("&", "&amp;")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replaceAll('"', "&quot;")
+      .replaceAll("'", "&#039;");
+  }
+
+  function getDateText() {
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = String(now.getMonth() + 1).padStart(2, "0");
+    const day = String(now.getDate()).padStart(2, "0");
+
+    return `${year}-${month}-${day}`;
+  }
+
+  function buildWordProblemTable() {
+    const columns = 3;
+    const rows = Math.ceil(problems.length / columns);
+    let html = "";
+
+    for (let row = 0; row < rows; row++) {
+      html += "<tr>";
+
+      for (let col = 0; col < columns; col++) {
+        const index = row * columns + col;
+        const problem = problems[index];
+
+        if (!problem) {
+          html += "<td>&nbsp;</td>";
+          continue;
+        }
+
+        html += `
+          <td>
+            <span class="problem-number">${index + 1}.</span>
+            <span class="expression">${escapeHtml(problem.expression)}</span>
+            <span class="answer-line"></span>
+          </td>
+        `;
+      }
+
+      html += "</tr>";
+    }
+
+    return html;
+  }
+
+  function buildWordAnswerTable() {
+    const columns = 6;
+    const rows = Math.ceil(problems.length / columns);
+    let html = "";
+
+    for (let row = 0; row < rows; row++) {
+      html += "<tr>";
+
+      for (let col = 0; col < columns; col++) {
+        const index = row * columns + col;
+        const problem = problems[index];
+
+        if (!problem) {
+          html += "<td>&nbsp;</td>";
+          continue;
+        }
+
+        html += `
+          <td>
+            ${index + 1}. ${escapeHtml(problem.answer)}
+          </td>
+        `;
+      }
+
+      html += "</tr>";
+    }
+
+    return html;
+  }
+
+  function exportWord() {
+    if (problems.length === 0) {
+      setMessage("请先生成题目。", "error");
+      return;
+    }
+
+    const maxNumber = document.getElementById("maxNumber").value;
+    const count = problems.length;
+    const includeAnswers = document.getElementById("wordIncludeAnswers").checked;
+    const dateText = getDateText();
+    const title = `${maxNumber}以内计算题`;
+    const fileName = `${title}-${count}道-${dateText}.doc`;
+
+    const answerSection = includeAnswers
+      ? `
+        <div class="page-break"></div>
+        <h1>答案</h1>
+        <table class="answer-table">
+          ${buildWordAnswerTable()}
+        </table>
+      `
+      : "";
+
+    const wordHtml = `
+      <!DOCTYPE html>
+      <html lang="zh-CN">
+      <head>
+        <meta charset="UTF-8" />
+        <title>${escapeHtml(title)}</title>
+        <style>
+          @page {
+            size: A4;
+            margin: 14mm 12mm;
+          }
+
+          body {
+            font-family: "Microsoft YaHei", SimSun, Arial, sans-serif;
+            color: #000000;
+            font-size: 14pt;
+          }
+
+          h1 {
+            text-align: center;
+            font-size: 22pt;
+            margin: 0 0 12pt 0;
+          }
+
+          .info {
+            width: 100%;
+            margin-bottom: 12pt;
+            font-size: 12pt;
+          }
+
+          .info td {
+            border: none;
+            padding: 4pt 0;
+          }
+
+          table {
+            border-collapse: collapse;
+            width: 100%;
+          }
+
+          .problem-table td {
+            width: 33.33%;
+            height: 30pt;
+            padding: 5pt 6pt;
+            vertical-align: middle;
+            border-bottom: 1px solid #cccccc;
+            white-space: nowrap;
+          }
+
+          .problem-number {
+            display: inline-block;
+            width: 24pt;
+            font-weight: bold;
+          }
+
+          .expression {
+            font-weight: bold;
+          }
+
+          .answer-line {
+            display: inline-block;
+            width: 42pt;
+            border-bottom: 1px solid #000000;
+            margin-left: 6pt;
+          }
+
+          .answer-table td {
+            width: 16.66%;
+            padding: 6pt;
+            border-bottom: 1px solid #cccccc;
+            font-size: 12pt;
+          }
+
+          .page-break {
+            page-break-before: always;
+          }
+        </style>
+      </head>
+      <body>
+        <h1>${escapeHtml(title)}</h1>
+
+        <table class="info">
+          <tr>
+            <td>姓名：____________</td>
+            <td>日期：____________</td>
+            <td>用时：____________</td>
+            <td>得分：____________</td>
+          </tr>
+        </table>
+
+        <table class="problem-table">
+          ${buildWordProblemTable()}
+        </table>
+
+        ${answerSection}
+      </body>
+      </html>
+    `;
+
+    const blob = new Blob(["\ufeff", wordHtml], {
+      type: "application/msword;charset=utf-8"
+    });
+
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+
+    link.href = url;
+    link.download = fileName;
+    document.body.appendChild(link);
+    link.click();
+
+    document.body.removeChild(link);
+    URL.revokeObjectURL(url);
+
+    setMessage(`已导出 Word 文件：${fileName}`, "success");
+  }
+
+
+  
+  generateProblems();
+</script>
+
+</body>
+</html>
