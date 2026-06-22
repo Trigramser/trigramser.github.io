@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>九九乘法口诀填空</title>
+
+  <style>
+    @page {
+      size: A4 landscape;
+      margin: 10mm;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Microsoft YaHei", "PingFang SC", Arial, sans-serif;
+      background: #f2f2f2;
+      color: #222;
+    }
+
+    .toolbar {
+      padding: 14px;
+      text-align: center;
+      background: #ffffff;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .toolbar button {
+      padding: 10px 26px;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      background: #2f80ed;
+      color: #ffffff;
+      cursor: pointer;
+    }
+
+    .preview-wrap {
+      width: max-content;
+      margin: 0 auto;
+      padding: 16px;
+    }
+
+    .page {
+      width: 340mm;
+      min-height: 210mm;
+      padding: 10mm 22mm;
+      background: #ffffff;
+      border: 1px solid #ddd;
+      overflow: visible;
+    }
+
+    h1 {
+      margin: 0 0 6mm;
+      text-align: center;
+      font-size: 28px;
+      letter-spacing: 4px;
+    }
+
+    .student-info {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 8mm;
+      font-size: 17px;
+    }
+
+    .info-line {
+      display: inline-block;
+      width: 45mm;
+      height: 22px;
+      border-bottom: 1px solid #333;
+      vertical-align: bottom;
+    }
+
+    .triangle-wrap {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+
+    .triangle {
+      width: max-content;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 5mm;
+      transform: translateX(12mm);
+    }
+
+    .row {
+      display: grid;
+      grid-auto-flow: column;
+      grid-auto-columns: 28mm;
+      column-gap: 2.5mm;
+      width: max-content;
+    }
+
+    .question {
+      height: 12mm;
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-start;
+      padding-bottom: 1mm;
+      font-size: 18px;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .answer-line {
+      display: inline-block;
+      width: 10mm;
+      height: 5mm;
+      margin-left: 1.5mm;
+      border-bottom: 2px solid #222;
+    }
+
+    .tip {
+      margin-top: 8mm;
+      text-align: center;
+      font-size: 15px;
+      color: #555;
+    }
+
+    @media print {
+      body {
+        background: #ffffff;
+      }
+
+      .toolbar {
+        display: none;
+      }
+
+      .preview-wrap {
+        width: auto;
+        margin: 0;
+        padding: 0;
+      }
+
+      .page {
+        width: auto;
+        min-height: auto;
+        margin: 0;
+        padding: 0;
+        border: none;
+      }
+
+      .triangle {
+        transform: none;
+      }
+
+      .row {
+        grid-auto-columns: 28mm;
+        column-gap: 2.5mm;
+      }
+
+      .tip {
+        display: none;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="toolbar">
+    <button onclick="window.print()">打印练习纸</button>
+  </div>
+
+  <div class="preview-wrap">
+    <main class="page">
+      <h1>九九乘法口诀填空</h1>
+
+      <div class="student-info">
+        <div>姓名：<span class="info-line"></span></div>
+        <div>日期：<span class="info-line"></span></div>
+        <div>得分：<span class="info-line"></span></div>
+      </div>
+
+      <div class="triangle-wrap">
+        <section class="triangle" id="triangle"></section>
+      </div>
+
+      <div class="tip">
+        请在等号后面的横线上写出正确答案。
+      </div>
+    </main>
+  </div>
+
+  <script>
+    const triangle = document.getElementById("triangle");
+    const maxNumber = 9;
+
+    for (let rowNumber = 1; rowNumber <= maxNumber; rowNumber++) {
+      const row = document.createElement("div");
+      row.className = "row";
+
+      for (let columnNumber = 1; columnNumber <= rowNumber; columnNumber++) {
+        const item = document.createElement("div");
+        item.className = "question";
+
+        item.innerHTML = `
+          <span>${columnNumber} × ${rowNumber} =</span>
+          <span class="answer-line"></span>
+        `;
+
+        row.appendChild(item);
+      }
+
+      triangle.appendChild(row);
+    }
+  </script>
+</body>
+</html>
