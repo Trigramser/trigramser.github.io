@@ -386,7 +386,6 @@
       </div>
 
       <div class="field">
-        
         <label>
           <input id="allowSameSubtraction" type="checkbox" />
           减法允许相同数相减
@@ -493,6 +492,54 @@
       answer,
       allowDecimal
     };
+  }
+
+  function getProblemKey(problem) {
+    let left = problem.left;
+    let right = problem.right;
+
+    if (problem.operator === "+" || problem.operator === "×") {
+      const min = Math.min(left, right);
+      const max = Math.max(left, right);
+      left = min;
+      right = max;
+    }
+
+    return `${problem.operator}|${left}|${right}`;
+  }
+
+  function addUniqueProblem(list, usedKeys, problem) {
+    if (!problem) {
+      return false;
+    }
+
+    const key = getProblemKey(problem);
+
+    if (usedKeys.has(key)) {
+      return false;
+    }
+
+    usedKeys.add(key);
+    list.push(problem);
+    return true;
+  }
+
+  function createUniqueProblem(factory, usedKeys, maxAttempts = 10000) {
+    for (let i = 0; i < maxAttempts; i++) {
+      const problem = factory();
+
+      if (!problem) {
+        continue;
+      }
+
+      const key = getProblemKey(problem);
+
+      if (!usedKeys.has(key)) {
+        return problem;
+      }
+    }
+
+    return null;
   }
 
   function isCarryAddition(problem) {
@@ -793,6 +840,36 @@
     }
   }
 
+  function generateRequiredUniqueProblems({
+    targetCount,
+    currentList,
+    usedKeys,
+    factory,
+    countFn,
+    errorMessage,
+    maxNumber
+  }) {
+    let attempts = 0;
+    const maxAttempts = Math.max(20000, targetCount * 2000);
+
+    while (countFn(currentList) < targetCount && attempts < maxAttempts) {
+      attempts++;
+
+      const problem = createUniqueProblem(() => factory(maxNumber), usedKeys, 200);
+
+      if (problem) {
+        addUniqueProblem(currentList, usedKeys, problem);
+      }
+    }
+
+    if (countFn(currentList) < targetCount) {
+      setMessage(errorMessage, "error");
+      return false;
+    }
+
+    return true;
+  }
+
   function generateProblems() {
     const count = Number(document.getElementById("count").value);
     const maxNumber = Number(document.getElementById("maxNumber").value);
@@ -865,35 +942,65 @@
       return;
     }
 
-    while (countCarryAddition(problems) < requiredCarryAdditionCount) {
-      const problem = createCarryAddition(maxNumber);
+    const usedKeys = new Set();
 
-      if (problem === null) {
-        setMessage("生成个位进位加法失败，请调整设置。", "error");
-        return;
-      }
+    const carryOk = generateRequiredUniqueProblems({
+      targetCount: requiredCarryAdditionCount,
+      currentList: problems,
+      usedKeys,
+      factory: createCarryAddition,
+      countFn: countCarryAddition,
+      errorMessage: "当前设置下，能生成的不重复个位进位加法题不够。请减少题目数量、降低占比，或放宽数字范围。",
+      maxNumber
+    });
 
-      problems.push(problem);
+    if (!carryOk) {
+      problems = [];
+      renderProblems();
+      return;
     }
 
-    while (countBorrowSubtraction(problems) < requiredBorrowSubtractionCount) {
-      const problem = createBorrowSubtraction(maxNumber);
+    const borrowOk = generateRequiredUniqueProblems({
+      targetCount: requiredBorrowSubtractionCount,
+      currentList: problems,
+      usedKeys,
+      factory: createBorrowSubtraction,
+      countFn: countBorrowSubtraction,
+      errorMessage: "当前设置下，能生成的不重复借位减法题不够。请减少题目数量、降低占比，或放宽数字范围。",
+      maxNumber
+    });
 
-      if (problem === null) {
-        setMessage("生成借位减法失败，请调整设置。", "error");
-        return;
-      }
-
-      problems.push(problem);
+    if (!borrowOk) {
+      problems = [];
+      renderProblems();
+      return;
     }
 
-    while (problems.length < count) {
+    let fillAttempts = 0;
+    const maxFillAttempts = Math.max(50000, count * 3000);
+
+    while (problems.length < count && fillAttempts < maxFillAttempts) {
+      fillAttempts++;
+
       const operator = availableOperators[randomInt(0, availableOperators.length - 1)];
-      const problem = createProblem(operator, maxNumber);
+      const problem = createUniqueProblem(() => createProblem(operator, maxNumber), usedKeys, 100);
 
-      if (problem !== null) {
-        problems.push(problem);
+      if (problem) {
+        addUniqueProblem(problems, usedKeys, problem);
       }
+    }
+
+    if (problems.length < count) {
+      const generatedCount = problems.length;
+      problems = [];
+      renderProblems();
+
+      setMessage(
+        `当前限制条件下，不重复题目数量不够。最多只尝试生成到 ${generatedCount} 道。<br>
+        请减少题目数量、调大数字范围，或放宽 0、1、相同数、整除等限制。`,
+        "error"
+      );
+      return;
     }
 
     shuffleProblems(problems);
@@ -910,7 +1017,7 @@
       : "";
 
     setMessage(
-      `已生成 ${count} 道题${limitText}。<br>
+      `已生成 ${count} 道不重复题${limitText}。<br>
       个位进位加法：${actualCarryAdditionCount} 道，约 ${actualCarryAdditionPercent}%；
       借位减法：${actualBorrowSubtractionCount} 道，约 ${actualBorrowSubtractionPercent}%。`,
       "success"
