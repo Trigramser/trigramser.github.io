@@ -91,6 +91,7 @@
       border-radius: 10px;
       cursor: pointer;
       user-select: none;
+      font-weight: 700;
     }
 
     .checkbox-card input {
@@ -162,6 +163,7 @@
       min-height: 28px;
       font-weight: 700;
       margin-bottom: 16px;
+      line-height: 1.7;
     }
 
     .message.error {
@@ -249,67 +251,67 @@
 
     @media print {
       body {
-            background: #ffffff;
-            padding: 0;
-        }
+        background: #ffffff;
+        padding: 0;
+      }
 
-        .container {
-            box-shadow: none;
-            border-radius: 0;
-            padding: 10mm;
-        }
+      .container {
+        box-shadow: none;
+        border-radius: 0;
+        padding: 10mm;
+      }
 
-        .settings,
-        .actions,
-        .message,
-        .score-board,
-        .answer-input,
-        .subtitle {
-            display: none !important;
-        }
+      .settings,
+      .actions,
+      .message,
+      .score-board,
+      .answer-input,
+      .subtitle {
+        display: none !important;
+      }
 
-        .problems {
-            grid-template-columns: repeat(3, 1fr);
-            gap: 8px 16px;
-        }
+      .problems {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 8px 16px;
+      }
 
-        .problem {
-            border: none;
-            border-bottom: 1px solid #ddd;
-            border-radius: 0;
-            padding: 8px 4px;
-            background: #ffffff;
-            grid-template-columns: 28px 1fr;
-        }
+      .problem {
+        border: none;
+        border-bottom: 1px solid #ddd;
+        border-radius: 0;
+        padding: 8px 4px;
+        background: #ffffff;
+        grid-template-columns: 28px 1fr;
+      }
 
-        .expression {
-            font-size: 18px;
-        }
+      .expression {
+        font-size: 18px;
+      }
 
-        .answer {
-            display: none !important;
-        }
+      .answer {
+        display: none !important;
+      }
 
-        .print-answer-value {
-            display: none !important;
-        }
+      .print-answer-value {
+        display: none !important;
+      }
 
-        body.print-answers .print-answer-value {
-            display: inline !important;
-        }
+      body.print-answers .print-answer-value {
+        display: inline !important;
+      }
 
-        body.print-answers h1::after {
-            content: "（答案）";
-        }
+      body.print-answers h1::after {
+        content: "（答案）";
+      }
 
-        body.print-problems h1::after {
-            content: "";
-        }
+      body.print-problems h1::after {
+        content: "";
+      }
 
-        h1 {
-            font-size: 24px;
-            margin-bottom: 12px;
-        }
+      h1 {
+        font-size: 24px;
+        margin-bottom: 12px;
+      }
     }
   </style>
 </head>
@@ -327,6 +329,16 @@
       <div class="field">
         <label for="maxNumber">数字范围：多少以内</label>
         <input id="maxNumber" type="number" min="1" max="10000" value="20" />
+      </div>
+
+      <div class="field">
+        <label for="carryAdditionPercent">个位进位加法占比至少 %</label>
+        <input id="carryAdditionPercent" type="number" min="0" max="100" step="1" value="40" />
+      </div>
+
+      <div class="field">
+        <label for="borrowSubtractionPercent">借位减法占比至少 %</label>
+        <input id="borrowSubtractionPercent" type="number" min="0" max="100" step="1" value="40" />
       </div>
 
       <div class="field">
@@ -372,6 +384,39 @@
           导出Word时包含答案
         </label>
       </div>
+
+      <div class="field">
+        
+        <label>
+          <input id="allowSameSubtraction" type="checkbox" />
+          减法允许相同数相减
+        </label>
+
+        <label>
+          <input id="allowAddSubZero" type="checkbox" />
+          加减法允许出现 0
+        </label>
+
+        <label>
+          <input id="allowMultiplicationZero" type="checkbox" />
+          乘法允许出现 0
+        </label>
+
+        <label>
+          <input id="allowMultiplicationOne" type="checkbox" />
+          乘法允许出现 1
+        </label>
+
+        <label>
+          <input id="allowDivisionByOne" type="checkbox" />
+          除法分母允许为 1
+        </label>
+
+        <label>
+          <input id="allowSameDivision" type="checkbox" />
+          除法允许相同数相除
+        </label>
+      </div>
     </div>
 
     <div class="actions">
@@ -380,7 +425,6 @@
       <button class="btn-warning" onclick="toggleAnswers()">显示 / 隐藏答案</button>
       <button class="btn-gray" onclick="printProblems()">打印题目</button>
       <button class="btn-gray" onclick="printAnswers()">打印答案</button>
-
       <button class="btn-gray" onclick="exportWord()">导出Word</button>
     </div>
 
@@ -417,207 +461,311 @@
     return document.getElementById("limitAllToMax").checked;
   }
 
+  function isChecked(id) {
+    return document.getElementById(id).checked;
+  }
+
+  function getOptions() {
+    return {
+      noNegative: isChecked("noNegative"),
+      allowSameSubtraction: isChecked("allowSameSubtraction"),
+      allowAddSubZero: isChecked("allowAddSubZero"),
+      integerDivision: isChecked("integerDivision"),
+      limitAllToMax: isChecked("limitAllToMax"),
+      allowMultiplicationZero: isChecked("allowMultiplicationZero"),
+      allowMultiplicationOne: isChecked("allowMultiplicationOne"),
+      allowDivisionByOne: isChecked("allowDivisionByOne"),
+      allowSameDivision: isChecked("allowSameDivision")
+    };
+  }
+
   function setMessage(text, type = "") {
-    messageElement.textContent = text;
+    messageElement.innerHTML = text;
     messageElement.className = `message ${type}`;
   }
 
-  function createAddition(maxNumber) {
-    const limitAllToMax = shouldLimitAllToMax();
-
-    if (limitAllToMax) {
-      const a = randomInt(0, maxNumber);
-      const b = randomInt(0, maxNumber - a);
-
-      return {
-        expression: `${a} + ${b} =`,
-        answer: a + b
-      };
-    }
-
-    const a = randomInt(0, maxNumber);
-    const b = randomInt(0, maxNumber);
-
+  function buildProblem(left, operator, right, answer, allowDecimal = false) {
     return {
-      expression: `${a} + ${b} =`,
-      answer: a + b
+      left,
+      operator,
+      right,
+      expression: `${left} ${operator} ${right} =`,
+      answer,
+      allowDecimal
     };
   }
 
+  function isCarryAddition(problem) {
+    return problem.operator === "+" && (problem.left % 10) + (problem.right % 10) >= 10;
+  }
+
+  function isBorrowSubtraction(problem) {
+    return problem.operator === "-" && problem.left >= problem.right && (problem.left % 10) < (problem.right % 10);
+  }
+
+  function countCarryAddition(list) {
+    return list.filter(isCarryAddition).length;
+  }
+
+  function countBorrowSubtraction(list) {
+    return list.filter(isBorrowSubtraction).length;
+  }
+
+  function getPercentValue(id) {
+    const value = Number(document.getElementById(id).value);
+
+    if (!Number.isFinite(value)) {
+      return NaN;
+    }
+
+    return value;
+  }
+
+  function createBySearch(maxNumber, randomFactory, isValid, exhaustiveFactory) {
+    for (let i = 0; i < 5000; i++) {
+      const candidate = randomFactory();
+
+      if (candidate && isValid(candidate.left, candidate.right, candidate.answer)) {
+        return candidate;
+      }
+    }
+
+    return exhaustiveFactory();
+  }
+
+  function isValidAdditionPair(a, b, maxNumber, options) {
+    if (!options.allowAddSubZero && (a === 0 || b === 0)) {
+      return false;
+    }
+
+    if (options.limitAllToMax && a + b > maxNumber) {
+      return false;
+    }
+
+    return true;
+  }
+
+  function createAddition(maxNumber) {
+    const options = getOptions();
+
+    return createBySearch(
+      maxNumber,
+      () => {
+        const a = randomInt(0, maxNumber);
+        const b = randomInt(0, maxNumber);
+        return buildProblem(a, "+", b, a + b);
+      },
+      (a, b) => isValidAdditionPair(a, b, maxNumber, options),
+      () => {
+        for (let a = 0; a <= maxNumber; a++) {
+          for (let b = 0; b <= maxNumber; b++) {
+            if (isValidAdditionPair(a, b, maxNumber, options)) {
+              return buildProblem(a, "+", b, a + b);
+            }
+          }
+        }
+
+        return null;
+      }
+    );
+  }
+
+  function createCarryAddition(maxNumber) {
+    const options = getOptions();
+
+    return createBySearch(
+      maxNumber,
+      () => {
+        const a = randomInt(0, maxNumber);
+        const b = randomInt(0, maxNumber);
+        return buildProblem(a, "+", b, a + b);
+      },
+      (a, b) => {
+        return isValidAdditionPair(a, b, maxNumber, options) && (a % 10) + (b % 10) >= 10;
+      },
+      () => {
+        for (let a = 0; a <= maxNumber; a++) {
+          for (let b = 0; b <= maxNumber; b++) {
+            if (isValidAdditionPair(a, b, maxNumber, options) && (a % 10) + (b % 10) >= 10) {
+              return buildProblem(a, "+", b, a + b);
+            }
+          }
+        }
+
+        return null;
+      }
+    );
+  }
+
+  function isValidSubtractionPair(a, b, maxNumber, options) {
+    if (!options.allowAddSubZero && (a === 0 || b === 0)) {
+      return false;
+    }
+
+    if (options.noNegative && a < b) {
+      return false;
+    }
+
+    if (!options.allowSameSubtraction && a === b) {
+      return false;
+    }
+
+    return true;
+  }
 
   function createSubtraction(maxNumber) {
-    let a = randomInt(0, maxNumber);
-    let b = randomInt(0, maxNumber);
+    const options = getOptions();
 
-    if (document.getElementById("noNegative").checked && a < b) {
-      [a, b] = [b, a];
-    }
+    return createBySearch(
+      maxNumber,
+      () => {
+        const a = randomInt(0, maxNumber);
+        const b = randomInt(0, maxNumber);
+        return buildProblem(a, "-", b, a - b);
+      },
+      (a, b) => isValidSubtractionPair(a, b, maxNumber, options),
+      () => {
+        for (let a = 0; a <= maxNumber; a++) {
+          for (let b = 0; b <= maxNumber; b++) {
+            if (isValidSubtractionPair(a, b, maxNumber, options)) {
+              return buildProblem(a, "-", b, a - b);
+            }
+          }
+        }
 
-    return {
-      expression: `${a} - ${b} =`,
-      answer: a - b
-    };
+        return null;
+      }
+    );
   }
 
+  function createBorrowSubtraction(maxNumber) {
+    const options = getOptions();
 
+    return createBySearch(
+      maxNumber,
+      () => {
+        const a = randomInt(0, maxNumber);
+        const b = randomInt(0, maxNumber);
+        return buildProblem(a, "-", b, a - b);
+      },
+      (a, b) => {
+        return isValidSubtractionPair(a, b, maxNumber, options) && a >= b && (a % 10) < (b % 10);
+      },
+      () => {
+        for (let a = 0; a <= maxNumber; a++) {
+          for (let b = 0; b <= maxNumber; b++) {
+            if (isValidSubtractionPair(a, b, maxNumber, options) && a >= b && (a % 10) < (b % 10)) {
+              return buildProblem(a, "-", b, a - b);
+            }
+          }
+        }
+
+        return null;
+      }
+    );
+  }
+
+  function isValidMultiplicationPair(a, b, maxNumber, options) {
+    if (!options.allowMultiplicationZero && (a === 0 || b === 0)) {
+      return false;
+    }
+
+    if (!options.allowMultiplicationOne && (a === 1 || b === 1)) {
+      return false;
+    }
+
+    if (options.limitAllToMax && a * b > maxNumber) {
+      return false;
+    }
+
+    return true;
+  }
 
   function createMultiplication(maxNumber) {
-    const limitAllToMax = shouldLimitAllToMax();
+    const options = getOptions();
 
-    /*
-      乘法要求：
-      1. 不出现乘以 1
-      2. 如果勾选“所有数字和答案都不超过范围”，则乘积也不能超过 maxNumber
-    */
+    return createBySearch(
+      maxNumber,
+      () => {
+        const a = randomInt(0, maxNumber);
+        const b = randomInt(0, maxNumber);
+        return buildProblem(a, "×", b, a * b);
+      },
+      (a, b) => isValidMultiplicationPair(a, b, maxNumber, options),
+      () => {
+        for (let a = 0; a <= maxNumber; a++) {
+          for (let b = 0; b <= maxNumber; b++) {
+            if (isValidMultiplicationPair(a, b, maxNumber, options)) {
+              return buildProblem(a, "×", b, a * b);
+            }
+          }
+        }
 
-    if (limitAllToMax) {
-      /*
-        例如 100 以内：
-        允许：8 × 9 = 72
-        不允许：20 × 8 = 160
-        不允许：1 × 9 = 9
-      */
-
-      if (maxNumber < 4) {
-        /*
-          maxNumber 小于 4 时，不可能生成 2 × 2 以内的非 1 乘法。
-          所以兜底生成 0 × 0 或 0 × 2，避免出现乘以 1。
-        */
-        const a = 0;
-        const b = maxNumber >= 2 ? 2 : 0;
-
-        return {
-          expression: `${a} × ${b} =`,
-          answer: a * b
-        };
+        return null;
       }
+    );
+  }
 
-      const a = randomInt(2, Math.floor(maxNumber / 2));
-      const maxB = Math.floor(maxNumber / a);
-      const b = randomInt(2, maxB);
-
-      return {
-        expression: `${a} × ${b} =`,
-        answer: a * b
-      };
+  function isValidDivisionPair(dividend, divisor, maxNumber, options) {
+    if (divisor === 0) {
+      return false;
     }
 
-    /*
-      不勾选“所有数字和答案都不超过范围”时：
-      两个乘数仍然都不会是 1。
-    */
-    if (maxNumber < 2) {
-      return {
-        expression: `0 × 0 =`,
-        answer: 0
-      };
+    if (!options.allowDivisionByOne && divisor === 1) {
+      return false;
     }
 
-    const a = randomInt(2, maxNumber);
-    const b = randomInt(2, maxNumber);
+    if (!options.allowSameDivision && dividend === divisor) {
+      return false;
+    }
 
-    return {
-      expression: `${a} × ${b} =`,
-      answer: a * b
-    };
+    if (options.integerDivision && dividend % divisor !== 0) {
+      return false;
+    }
+
+    const answer = dividend / divisor;
+
+    if (!Number.isFinite(answer)) {
+      return false;
+    }
+
+    if (options.limitAllToMax && Math.abs(answer) > maxNumber) {
+      return false;
+    }
+
+    return true;
   }
 
   function createDivision(maxNumber) {
-    const integerDivision = document.getElementById("integerDivision").checked;
-    const limitAllToMax = shouldLimitAllToMax();
+    const options = getOptions();
 
-    /*
-      除法要求：
-      1. 不出现除以 1，例如 8 ÷ 1
-      2. 不出现相同数相除，例如 8 ÷ 8
-      3. 如果勾选“所有数字和答案都不超过范围”，被除数、除数、答案都不超过 maxNumber
-    */
+    return createBySearch(
+      maxNumber,
+      () => {
+        const dividend = randomInt(0, maxNumber);
+        const divisor = randomInt(1, maxNumber);
+        const rawAnswer = dividend / divisor;
+        const answer = options.integerDivision ? rawAnswer : Number(rawAnswer.toFixed(2));
 
-    if (integerDivision) {
-      if (limitAllToMax) {
-        /*
-          在限制范围内，最小比较自然的整除题是：
-          4 ÷ 2 = 2
+        return buildProblem(dividend, "÷", divisor, answer, !options.integerDivision);
+      },
+      (dividend, divisor) => isValidDivisionPair(dividend, divisor, maxNumber, options),
+      () => {
+        for (let dividend = 0; dividend <= maxNumber; dividend++) {
+          for (let divisor = 1; divisor <= maxNumber; divisor++) {
+            if (isValidDivisionPair(dividend, divisor, maxNumber, options)) {
+              const rawAnswer = dividend / divisor;
+              const answer = options.integerDivision ? rawAnswer : Number(rawAnswer.toFixed(2));
 
-          如果 maxNumber 小于 4，就很难同时满足：
-          - 除数不是 1
-          - 被除数和除数不相同
-          - 整除
-          - 所有数字都不超过 maxNumber
-
-          所以这里给一个兜底：0 ÷ 2 = 0
-          它不会出现除以 1，也不会出现相同数相除。
-        */
-        if (maxNumber < 4) {
-          return {
-            expression: `0 ÷ 2 =`,
-            answer: 0
-          };
+              return buildProblem(dividend, "÷", divisor, answer, !options.integerDivision);
+            }
+          }
         }
 
-        const divisor = randomInt(2, Math.floor(maxNumber / 2));
-        const maxQuotient = Math.floor(maxNumber / divisor);
-
-        // quotient 从 2 开始，避免 dividend === divisor
-        const quotient = randomInt(2, Math.max(2, maxQuotient));
-        const dividend = divisor * quotient;
-
-        return {
-          expression: `${dividend} ÷ ${divisor} =`,
-          answer: quotient
-        };
+        return null;
       }
-
-      /*
-        不限制所有数字和答案都不超过范围时：
-        仍然保证除数不是 1，并且不出现相同数相除。
-      */
-      if (maxNumber < 2) {
-        return {
-          expression: `0 ÷ 2 =`,
-          answer: 0
-        };
-      }
-
-      const divisor = randomInt(2, maxNumber);
-      const quotient = randomInt(2, Math.max(2, maxNumber));
-      const dividend = divisor * quotient;
-
-      return {
-        expression: `${dividend} ÷ ${divisor} =`,
-        answer: quotient
-      };
-    }
-
-    /*
-      非整除模式：
-      除数从 2 开始，避免除以 1。
-      同时避免 dividend === divisor。
-    */
-    if (maxNumber < 2) {
-      return {
-        expression: `0 ÷ 2 =`,
-        answer: 0
-      };
-    }
-
-    let dividend = randomInt(0, maxNumber);
-    const divisor = randomInt(2, maxNumber);
-
-    if (dividend === divisor) {
-      dividend = 0;
-    }
-
-    const result = dividend / divisor;
-
-    return {
-      expression: `${dividend} ÷ ${divisor} =`,
-      answer: Number(result.toFixed(2)),
-      allowDecimal: true
-    };
+    );
   }
-
-
 
   function createProblem(operator, maxNumber) {
     switch (operator) {
@@ -634,10 +782,23 @@
     }
   }
 
+  function canCreateOperator(operator, maxNumber) {
+    return createProblem(operator, maxNumber) !== null;
+  }
+
+  function shuffleProblems(list) {
+    for (let i = list.length - 1; i > 0; i--) {
+      const j = randomInt(0, i);
+      [list[i], list[j]] = [list[j], list[i]];
+    }
+  }
+
   function generateProblems() {
     const count = Number(document.getElementById("count").value);
     const maxNumber = Number(document.getElementById("maxNumber").value);
     const operators = getSelectedOperators();
+    const carryAdditionPercent = getPercentValue("carryAdditionPercent");
+    const borrowSubtractionPercent = getPercentValue("borrowSubtractionPercent");
 
     problems = [];
     answersVisible = false;
@@ -659,60 +820,143 @@
       return;
     }
 
-    for (let i = 0; i < count; i++) {
-      const operator = operators[randomInt(0, operators.length - 1)];
-      problems.push(createProblem(operator, maxNumber));
+    if (!Number.isFinite(carryAdditionPercent) || carryAdditionPercent < 0 || carryAdditionPercent > 100) {
+      setMessage("个位进位加法占比请输入 0 到 100 之间的数字。", "error");
+      return;
     }
 
+    if (!Number.isFinite(borrowSubtractionPercent) || borrowSubtractionPercent < 0 || borrowSubtractionPercent > 100) {
+      setMessage("借位减法占比请输入 0 到 100 之间的数字。", "error");
+      return;
+    }
+
+    if (carryAdditionPercent > 0 && !operators.includes("+")) {
+      setMessage("设置了个位进位加法占比时，必须勾选“加法”。", "error");
+      return;
+    }
+
+    if (borrowSubtractionPercent > 0 && !operators.includes("-")) {
+      setMessage("设置了借位减法占比时，必须勾选“减法”。", "error");
+      return;
+    }
+
+    const requiredCarryAdditionCount = Math.ceil(count * carryAdditionPercent / 100);
+    const requiredBorrowSubtractionCount = Math.ceil(count * borrowSubtractionPercent / 100);
+
+    if (requiredCarryAdditionCount + requiredBorrowSubtractionCount > count) {
+      setMessage("个位进位加法和借位减法的占比合计不能超过 100%。", "error");
+      return;
+    }
+
+    if (requiredCarryAdditionCount > 0 && createCarryAddition(maxNumber) === null) {
+      setMessage("当前设置下无法生成个位进位加法，请调整数字范围或允许加减法出现 0。", "error");
+      return;
+    }
+
+    if (requiredBorrowSubtractionCount > 0 && createBorrowSubtraction(maxNumber) === null) {
+      setMessage("当前设置下无法生成借位减法，请调整数字范围、减法设置或允许加减法出现 0。", "error");
+      return;
+    }
+
+    const availableOperators = operators.filter(operator => canCreateOperator(operator, maxNumber));
+
+    if (availableOperators.length === 0) {
+      setMessage("当前设置下无法生成题目，请放宽限制条件。", "error");
+      return;
+    }
+
+    while (countCarryAddition(problems) < requiredCarryAdditionCount) {
+      const problem = createCarryAddition(maxNumber);
+
+      if (problem === null) {
+        setMessage("生成个位进位加法失败，请调整设置。", "error");
+        return;
+      }
+
+      problems.push(problem);
+    }
+
+    while (countBorrowSubtraction(problems) < requiredBorrowSubtractionCount) {
+      const problem = createBorrowSubtraction(maxNumber);
+
+      if (problem === null) {
+        setMessage("生成借位减法失败，请调整设置。", "error");
+        return;
+      }
+
+      problems.push(problem);
+    }
+
+    while (problems.length < count) {
+      const operator = availableOperators[randomInt(0, availableOperators.length - 1)];
+      const problem = createProblem(operator, maxNumber);
+
+      if (problem !== null) {
+        problems.push(problem);
+      }
+    }
+
+    shuffleProblems(problems);
     renderProblems();
+
+    const actualCarryAdditionCount = countCarryAddition(problems);
+    const actualBorrowSubtractionCount = countBorrowSubtraction(problems);
+
+    const actualCarryAdditionPercent = Math.round((actualCarryAdditionCount / count) * 100);
+    const actualBorrowSubtractionPercent = Math.round((actualBorrowSubtractionCount / count) * 100);
 
     const limitText = shouldLimitAllToMax()
       ? "，所有数字和答案都不会超过设置范围"
       : "";
 
-    setMessage(`已生成 ${count} 道题${limitText}。`, "success");
+    setMessage(
+      `已生成 ${count} 道题${limitText}。<br>
+      个位进位加法：${actualCarryAdditionCount} 道，约 ${actualCarryAdditionPercent}%；
+      借位减法：${actualBorrowSubtractionCount} 道，约 ${actualBorrowSubtractionPercent}%。`,
+      "success"
+    );
   }
 
-function renderProblems() {
-  problemsContainer.innerHTML = "";
+  function renderProblems() {
+    problemsContainer.innerHTML = "";
 
-  const columns = 3;
-  const total = problems.length;
-  const rows = Math.ceil(total / columns);
+    const columns = 3;
+    const total = problems.length;
+    const rows = Math.ceil(total / columns);
 
-  for (let row = 0; row < rows; row++) {
-    for (let col = 0; col < columns; col++) {
-      const problemIndex = col * rows + row;
+    for (let row = 0; row < rows; row++) {
+      for (let col = 0; col < columns; col++) {
+        const problemIndex = col * rows + row;
 
-      if (problemIndex >= total) {
-        continue;
+        if (problemIndex >= total) {
+          continue;
+        }
+
+        const problem = problems[problemIndex];
+        const problemElement = document.createElement("div");
+
+        problemElement.className = "problem";
+
+        problemElement.innerHTML = `
+          <div class="problem-number">${problemIndex + 1}.</div>
+          <div class="expression">
+            ${problem.expression}
+            <span class="print-answer-value">${problem.answer}</span>
+          </div>
+          <input 
+            class="answer-input" 
+            type="number" 
+            step="any"
+            data-index="${problemIndex}" 
+            placeholder="答案" 
+          />
+          <div class="answer">答案：${problem.answer}</div>
+        `;
+
+        problemsContainer.appendChild(problemElement);
       }
-
-      const problem = problems[problemIndex];
-      const problemElement = document.createElement("div");
-
-      problemElement.className = "problem";
-
-      problemElement.innerHTML = `
-        <div class="problem-number">${problemIndex + 1}.</div>
-        <div class="expression">
-          ${problem.expression}
-          <span class="print-answer-value">${problem.answer}</span>
-        </div>
-        <input 
-          class="answer-input" 
-          type="number" 
-          step="any"
-          data-index="${problemIndex}" 
-          placeholder="答案" 
-        />
-        <div class="answer">答案：${problem.answer}</div>
-      `;
-
-      problemsContainer.appendChild(problemElement);
     }
   }
-}
 
   function checkAnswers() {
     if (problems.length === 0) {
@@ -764,7 +1008,6 @@ function renderProblems() {
     setMessage(answersVisible ? "答案已显示。" : "答案已隐藏。", "success");
   }
 
-
   function clearPrintMode() {
     document.body.classList.remove("print-problems", "print-answers");
   }
@@ -796,9 +1039,6 @@ function renderProblems() {
 
   window.addEventListener("afterprint", clearPrintMode);
 
-
-
-
   function escapeHtml(value) {
     return String(value)
       .replaceAll("&", "&amp;")
@@ -816,7 +1056,6 @@ function renderProblems() {
 
     return `${year}-${month}-${day}`;
   }
-
 
   function buildWordProblemTable() {
     const columns = 3;
@@ -1023,8 +1262,6 @@ function renderProblems() {
     setMessage(`已导出 Word 文件：${fileName}`, "success");
   }
 
-
-  
   generateProblems();
 </script>
 
