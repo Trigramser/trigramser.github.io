@@ -31,12 +31,21 @@
 
     .toolbar button {
       padding: 10px 26px;
+      margin: 0 8px;
       font-size: 16px;
       border: none;
       border-radius: 8px;
       background: #2f80ed;
       color: #ffffff;
       cursor: pointer;
+    }
+
+    .toolbar button.answer-btn {
+      background: #27ae60;
+    }
+
+    .toolbar button:hover {
+      opacity: 0.9;
     }
 
     .preview-wrap {
@@ -110,10 +119,27 @@
     }
 
     .answer-line {
-      display: inline-block;
+      display: inline-flex;
+      align-items: flex-end;
+      justify-content: center;
       width: 10mm;
       height: 5mm;
       margin-left: 1.5mm;
+      border-bottom: 2px solid #222;
+    }
+
+    .answer-text {
+      display: none;
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 1;
+    }
+
+    body.show-answers .answer-text {
+      display: inline;
+    }
+
+    body.show-answers .answer-line {
       border-bottom: 2px solid #222;
     }
 
@@ -122,6 +148,12 @@
       text-align: center;
       font-size: 15px;
       color: #555;
+    }
+
+    body.show-answers .tip::before {
+      content: "答案版：";
+      font-weight: 700;
+      color: #27ae60;
     }
 
     @media print {
@@ -165,7 +197,8 @@
 
 <body>
   <div class="toolbar">
-    <button onclick="window.print()">打印练习纸</button>
+    <button onclick="printBlankVersion()">打印练习纸</button>
+    <button class="answer-btn" onclick="printAnswerVersion()">打印带答案版本</button>
   </div>
 
   <div class="preview-wrap">
@@ -197,12 +230,16 @@
       row.className = "row";
 
       for (let columnNumber = 1; columnNumber <= rowNumber; columnNumber++) {
+        const answer = columnNumber * rowNumber;
+
         const item = document.createElement("div");
         item.className = "question";
 
         item.innerHTML = `
           <span>${columnNumber} × ${rowNumber} =</span>
-          <span class="answer-line"></span>
+          <span class="answer-line">
+            <span class="answer-text">${answer}</span>
+          </span>
         `;
 
         row.appendChild(item);
@@ -210,6 +247,20 @@
 
       triangle.appendChild(row);
     }
+
+    function printBlankVersion() {
+      document.body.classList.remove("show-answers");
+      window.print();
+    }
+
+    function printAnswerVersion() {
+      document.body.classList.add("show-answers");
+      window.print();
+    }
+
+    window.addEventListener("afterprint", () => {
+      document.body.classList.remove("show-answers");
+    });
   </script>
 </body>
 </html>
